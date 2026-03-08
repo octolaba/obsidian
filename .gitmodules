@@ -1,0 +1,3 @@
+[submodule "research/plugins/obsidian-tasks-group/obsidian-tasks"]
+	path = research/plugins/obsidian-tasks-group/obsidian-tasks
+	url = git@github.com:obsidian-tasks-group/obsidian-tasks.git
