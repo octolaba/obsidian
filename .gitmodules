@@ -7,3 +7,6 @@
 [submodule "research/themes/kepano/obsidian-minimal"]
 	path = research/themes/kepano/obsidian-minimal
 	url = git@github.com:kepano/obsidian-minimal.git
+[submodule "research/plugins/blacksmithgu/obsidian-dataview"]
+	path = research/plugins/blacksmithgu/obsidian-dataview
+	url = git@github.com:blacksmithgu/obsidian-dataview.git
