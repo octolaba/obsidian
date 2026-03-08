@@ -4,3 +4,6 @@
 [submodule "research/themes/colineckert/obsidian-things"]
 	path = research/themes/colineckert/obsidian-things
 	url = git@github.com:colineckert/obsidian-things.git
+[submodule "research/themes/kepano/obsidian-minimal"]
+	path = research/themes/kepano/obsidian-minimal
+	url = git@github.com:kepano/obsidian-minimal.git
