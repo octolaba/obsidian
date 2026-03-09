@@ -13,3 +13,6 @@
 [submodule "research/core/obsidian-help"]
 	path = research/core/obsidian-help
 	url = git@github.com:obsidianmd/obsidian-help.git
+[submodule "research/core/obsidian-developer-docs"]
+	path = research/core/obsidian-developer-docs
+	url = git@github.com:obsidianmd/obsidian-developer-docs.git
