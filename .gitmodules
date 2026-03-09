@@ -10,3 +10,6 @@
 [submodule "research/plugins/blacksmithgu/obsidian-dataview"]
 	path = research/plugins/blacksmithgu/obsidian-dataview
 	url = git@github.com:blacksmithgu/obsidian-dataview.git
+[submodule "research/core/obsidian-help"]
+	path = research/core/obsidian-help
+	url = git@github.com:obsidianmd/obsidian-help.git
