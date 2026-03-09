@@ -62,12 +62,21 @@ Commit messages follow Conventional Commits, as in `feat: add <org>/<repo> plugi
   Style Settings and snippet integration, desktop and mobile behaviour, accessibility, rendering cost, and
   upgrade fragility. Apply only the dimensions relevant to the research question.
 - **Aspects that do not:** exhaustive file listings, dependency version dumps, restating the upstream README,
-  upstream code style, transient bugs, and anything re-derivable from the tree in seconds.
+  upstream code style, transient bugs — environment-specific or one-off failures — and anything re-derivable
+  from the tree in seconds.
+- **Classify before calling something a defect.** A behaviour that surprises is not automatically a defect.
+  Separate implementation defects, documentation that no longer matches the implementation, and deliberate
+  design that merely surprises; record the third kind explicitly, so it is not later reported upstream as a
+  bug. A behaviour reproducible from the pin is durable and in scope, however surprising.
 - **Verify, then cite.** Claims are checked against the pinned tree and referenced as `path:line`. Quote
   sparingly instead of pasting upstream excerpts. Paths are relative to the named source root; when an artifact
   uses more than one source, identify the source for every citation. Empirical claims include the command,
   fixture, and observed version needed to reproduce them. What cannot be verified is marked as unverified, not
   smoothed over.
+- **Make verification runnable.** Prefer a checked-in harness beside the artifact over prose describing what was
+  run. A harness reads the values it checks out of the pinned material instead of copying them, locates that
+  material by anchoring on the material itself rather than on relative depth or on the version-control system,
+  and exits with a distinct, actionable status when the pin has moved or a submodule is not hydrated.
 - **Pin what can be pinned.** Prefer versioned official material. If the pinned tree is insufficient and only an
   unversioned web source exists, cite its stable URL, record the access date, and say that the evidence is
   mutable. A topic may use several sources, but it must identify one primary source and account for every
@@ -101,7 +110,15 @@ as a type, without naming components.
 Choose the type by the artifact's primary job. A deep dive reconstructs internals, architecture, contracts, and
 trade-offs. A skill turns verified knowledge about a topic, plugin, theme, or core component into triggers,
 decisions, procedures, diagnostics, and validation. A skill may include the mental model needed to act
-correctly, but should link to a deep dive instead of duplicating a full architectural treatment.
+correctly, but a full architectural treatment belongs in a deep dive.
+
+**Skills are self-contained.** A skill directory must be copyable into another project unchanged, so no link
+may leave it and no rule needed to act may sit behind a reference the copy will not have. Where a deep dive
+analyses a mechanism the skill applies, the skill restates the operational subset and names the deep dive in
+prose; that restatement is intended and is not the duplication the paragraph above rules out. Confine
+repository-only navigation to one marked section that extraction deletes, join the pair with stable
+identifiers rather than links, and record which artifact is authoritative and the order in which the two are
+updated.
 
 Both open with YAML frontmatter that records what was studied and at which version:
 
@@ -125,6 +142,9 @@ accessed: <YYYY-MM-DD>         # unversioned web primary sources only; omit othe
   supplementary. `source` and `version` in frontmatter continue to identify the primary source.
 - One artifact covers one topic. Supporting files live beside it and are referenced from the body rather than
   left orphaned; a deep dive that needs them grows from `<topic>.md` into `<topic>/README.md` plus assets.
+- Artifacts of one type may be grouped in a subdirectory per component when several of them study the same
+  component. The artifact-type directory stays the outermost level, and a grouped artifact drops the component
+  name from its own filename rather than repeating it.
 - When a submodule pin moves, re-verify the artifact against the new commit and update its `version` and any
   commit recorded in its evidence. An artifact whose recorded source identity no longer matches the pin is
   stale by definition.
