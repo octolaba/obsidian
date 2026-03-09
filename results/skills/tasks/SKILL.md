@@ -1,6 +1,6 @@
 ---
 name: tasks
-description: Deep expertise in the obsidian-tasks plugin's query language — read a query and say exactly what it matches, write a query from a stated intent, and debug queries that return the wrong tasks (especially tasks that are missing but should be there). Reach for this for anything inside a ```tasks code block, and for "why is this task not in my list?".
+description: Deep expertise in the obsidian-tasks plugin's query language — read a query and say exactly what it matches, write a query from a stated intent, and debug queries that return the wrong tasks (especially tasks that are missing but should be there). Reach for this for anything inside a `tasks` code block, and for "why is this task not in my list?".
 source: obsidian-tasks-group/obsidian-tasks
 version: 8.3.0
 basis: source
