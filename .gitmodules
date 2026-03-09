@@ -22,3 +22,6 @@
 [submodule "research/core/obsidian-sample-plugin"]
 	path = research/core/obsidian-sample-plugin
 	url = git@github.com:obsidianmd/obsidian-sample-plugin.git
+[submodule "research/core/obsidian-sample-theme"]
+	path = research/core/obsidian-sample-theme
+	url = git@github.com:obsidianmd/obsidian-sample-theme.git
