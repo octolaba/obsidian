@@ -25,3 +25,6 @@
 [submodule "research/core/obsidian-sample-theme"]
 	path = research/core/obsidian-sample-theme
 	url = git@github.com:obsidianmd/obsidian-sample-theme.git
+[submodule "research/core/obsidian-releases"]
+	path = research/core/obsidian-releases
+	url = git@github.com:obsidianmd/obsidian-releases.git
