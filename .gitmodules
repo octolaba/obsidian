@@ -16,3 +16,6 @@
 [submodule "research/core/obsidian-developer-docs"]
 	path = research/core/obsidian-developer-docs
 	url = git@github.com:obsidianmd/obsidian-developer-docs.git
+[submodule "research/core/obsidian-api"]
+	path = research/core/obsidian-api
+	url = git@github.com:obsidianmd/obsidian-api.git
