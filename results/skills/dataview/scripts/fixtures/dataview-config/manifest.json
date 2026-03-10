@@ -1,0 +1,9 @@
+{
+  "id": "dataview",
+  "name": "Dataview",
+  "version": "0.5.68",
+  "minAppVersion": "0.13.11",
+  "description": "Fixture manifest for the skill's read-only linters.",
+  "author": "blacksmithgu",
+  "isDesktopOnly": false
+}

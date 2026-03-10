@@ -1,0 +1,9 @@
+{
+  "enableDataviewJs": true,
+  "enableInlineDataview": true,
+  "enableInlineDataviewJs": true,
+  "dataviewJsKeyword": "dvjs",
+  "inlineQueryPrefix": "dv=",
+  "inlineJsQueryPrefix": "dvjs=",
+  "inlineQueriesInCodeblocks": false
+}

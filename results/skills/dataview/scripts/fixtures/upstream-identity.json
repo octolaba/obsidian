@@ -1,0 +1,12 @@
+{
+  "source": "blacksmithgu/obsidian-dataview",
+  "version": "0.5.70",
+  "commit": "77ab745aee787d519642a87ed8f68be12fdc4b0d",
+  "materialAlgorithm": "sha256(path NUL content NUL), sorted paths",
+  "materialFiles": 107,
+  "materialSha256": "4446f02cb9d30fdd41e82e11aec43b13dc04f3e582ffe2caf197bc53977ccb9b",
+  "supporting": {
+    "obsidian-api@cc174432:obsidian.d.ts": "ed358aa05694582597726321352494a9833b77c117991189e55761ced8326027",
+    "obsidian-help@a97de34c:Editing and formatting/Properties.md": "6107332a41a95cea07b993da173cdf83ff1291543169ee4c0c1b63ce9e116af5"
+  }
+}
