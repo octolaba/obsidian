@@ -18,7 +18,7 @@ Since 8.0.0 JavaScript in Tasks queries is **disabled by default**
 - `filter by function` returns the "JavaScript is disabled" help text as a query error
   (`src/Query/Filter/FunctionField.ts:28`);
 - `sort by function` and `group by function` throw at parse time
-  (`src/Query/Filter/FunctionField.ts:74`, `:224`);
+  (`src/Query/Filter/FunctionField.ts:74`, `src/Query/Filter/FunctionField.ts:224`);
 - placeholders that are not plain dotted lookups also throw
   (`src/Scripting/ExpandPlaceholders.ts:88`) — the documented `query.file.*` placeholders,
   including `query.file.property('name')`, still work
@@ -31,6 +31,26 @@ laptop, not on my phone" report.
 
 Prefer built-in instructions where they exist: they need no opt-in, are explained by `explain`, and
 avoid per-task JavaScript evaluation.
+
+### Threat model
+
+Custom searches are executable code compiled with `new Function`; they are not a harmless query
+DSL. Code copied from a vault, forum, template, or another person can read globals available in the
+Obsidian renderer, consume CPU/memory, throw on every task, and change behaviour when plugins or
+Obsidian change. The Tasks opt-in is a trust boundary, not a performance toggle.
+
+Before enabling or accepting a custom search:
+
+1. obtain the exact source, not a screenshot or minified fragment;
+2. reject unexpected global access, network/file/plugin API calls, dynamic evaluation, or
+   obfuscation;
+3. prefer the smallest built-in equivalent;
+4. make null/type handling explicit;
+5. test on non-sensitive fixture data;
+6. enable it only on devices where the code is trusted and needed;
+7. re-review it after copying or upgrading.
+
+Never enable JavaScript merely to make an inherited dashboard stop showing an error.
 
 ## Syntax and evaluation
 
@@ -65,8 +85,8 @@ results rather than replacing them.
 | Instruction | Requirement |
 |---|---|
 | `filter by function` | Must return a real `boolean`. Truthy/falsy is rejected: `filtering function must return true or false. This returned "…"` (`src/Query/Filter/FunctionField.ts:267`). Use `&& true \|\| false` or `!!` to coerce. |
-| `sort by function` | Any comparable scalar. `undefined`, `NaN` and arrays are rejected (`src/Query/Filter/FunctionField.ts:102`). Mixing types across tasks throws `Unable to compare two different sort key types`. `null` sorts first; `Moment` and `TasksDate` values sort with dates-before-nulls semantics; `true` sorts before `false` (`:131`). |
-| `group by function` | String, number, array, `null`, or anything with `toString()`. An array produces one group per element — the task appears in each. `null` produces **no** group heading, and the task is rendered under a blank heading (`:298`, `src/Query/Group/TaskGroupingTree.ts:73`). Non-integer numbers are rounded to 5 decimals and returned as a string, to keep group ordering stable (`:302`). |
+| `sort by function` | Any comparable scalar. `undefined`, `NaN` and arrays are rejected (`src/Query/Filter/FunctionField.ts:102`). Mixing types across tasks throws `Unable to compare two different sort key types`. `null` sorts first; `Moment` and `TasksDate` values sort with dates-before-nulls semantics; `true` sorts before `false` (`src/Query/Filter/FunctionField.ts:131`). |
+| `group by function` | String, number, array, `null`, or anything with `toString()`. An array produces one group per element — the task appears in each. `null` produces **no** group heading, and the task is rendered under a blank heading (`src/Query/Filter/FunctionField.ts:298`, `src/Query/Group/TaskGroupingTree.ts:73`). Non-integer numbers are rounded to 5 decimals and returned as a string, to keep group ordering stable (`src/Query/Filter/FunctionField.ts:302`). |
 
 Two grouping notes. Headings are rendered as Markdown, so `'**' + x + '**'` works. And group order is
 decided by comparing heading **strings** with `localeCompare(…, { numeric: true })`, not by the
@@ -77,7 +97,7 @@ precisely to supply such prefixes.
 
 ## `task` properties
 
-Complete surface, from `docs/Scripting/Task Properties.md` and the classes it documents.
+Complete surface, from `docs/Scripting/Task Properties.md:12` and the classes it documents.
 
 ### Status
 
@@ -188,10 +208,11 @@ liable to change.
 | `query.allTasks` | every task the plugin has indexed, after any global filter, **before** the global query (`docs/Scripting/Query Properties.md:73`) |
 
 `query.allTasks` is a copy of the array taken once per search
-(`src/Query/SearchInfo.ts:21`). Scanning it inside a per-task filter is O(n²) — fine for a few
-thousand tasks, painful beyond that. There is also `query.searchCache`, a plain object shared for
-the duration of one search (`src/Scripting/QueryContext.ts:27`), usable to memoise expensive work
-across tasks; it is not covered by the user documentation.
+(`src/Query/SearchInfo.ts:21`). **Inference:** scanning all of it inside a function evaluated for
+each candidate can create quadratic-style work. No task-count threshold or representative timing
+was measured for this skill. There is also `query.searchCache`, a plain object shared for the
+duration of one search (`src/Scripting/QueryContext.ts:27`), usable to memoise shared work across
+tasks; it is not covered by the user documentation.
 
 `preset` is exposed to the placeholder layer (`{{preset.name}}`) but not to `by function`
 expressions.
@@ -227,8 +248,8 @@ filter by function !' -x/'.includes(task.status.symbol)
 # Broken recurrence rules
 filter by function (!task.isRecurring) && task.originalMarkdown.includes('🔁')
 
-# Due on any Tuesday
-filter by function task.due.format('dddd') === 'Tuesday'
+# Due on any Tuesday, locale-independent
+filter by function task.due.moment?.isoWeekday() === 2 || false
 
 # Due today or earlier, null-safe
 filter by function task.due.moment?.isSameOrBefore(moment(), 'day') || false
@@ -249,7 +270,8 @@ group by function task.due.category.groupText
 group by function task.descriptionWithoutTags
 ```
 
-All of the above are drawn from the upstream examples embedded in
-`docs/Queries/Filters.md`, `docs/Queries/Grouping.md` and `docs/Queries/Sorting.md`, which are
-generated from the project's own approved test output — they are verified behaviour, not
-illustrations.
+The property surfaces and recipe forms are checked against upstream generated examples such as
+`docs/Queries/Filters.md:370`, `docs/Queries/Filters.md:614`,
+`docs/Queries/Filters.md:1505`, `docs/Queries/Grouping.md:241`, and
+`docs/Queries/Sorting.md:529`. The Tuesday recipe is deliberately locale-independent: comparing
+`format('dddd')` to an English word changes with locale.

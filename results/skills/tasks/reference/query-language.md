@@ -106,12 +106,14 @@ satisfies the predicate (`src/Query/Filter/HappensDateField.ts:57`), while `sort
 `DateParser.parseDateRange` tries three parsers in order and takes the first that yields a valid
 range (`src/DateTime/DateParser.ts:23`):
 
-1. **relative range** — `/(last|this|next) (week|month|quarter|year)/` (`:63`), expanded to the whole
+1. **relative range** — `/(last|this|next) (week|month|quarter|year)/`
+   (`src/DateTime/DateParser.ts:63`), expanded to the whole
    period; weeks are ISO weeks, Monday to Sunday (`src/DateTime/DateRange.ts:37`);
-2. **numbered range** — `YYYY`, `YYYY-Qq`, `YYYY-MM`, `YYYY-Www` (`:86`), expanded to the whole
+2. **numbered range** — `YYYY`, `YYYY-Qq`, `YYYY-MM`, `YYYY-Www`
+   (`src/DateTime/DateParser.ts:86`), expanded to the whole
    year, quarter, month or ISO week;
 3. **absolute range via chrono** — if chrono finds two dates they become start and end, otherwise
-   start = end (`:44`).
+   start = end (`src/DateTime/DateParser.ts:44`).
 
 If all three fail, `DateField` re-parses the whole remainder *including the keyword* as a single date
 (`src/Query/Filter/DateField.ts:80`). That fallback is what keeps `due in two weeks` working. If that
@@ -184,7 +186,7 @@ Regex rules (`src/Query/Matchers/RegexMatcher.ts:30`): the argument must be
 `/pattern/` or `/pattern/flags`, flags typically `i` (case-insensitive) or `u`. Since 8.3.0 patterns
 longer than 500 characters, or with nested quantifiers such as `(a+)+`, are rejected outright
 (`src/lib/RegExpTools.ts:17`). Lookahead/lookbehind is untested upstream and presumed broken on iOS
-(`docs/Queries/Regular Expressions.md`).
+(`docs/Queries/Regular Expressions.md:14`).
 
 ### Priority
 
@@ -233,7 +235,8 @@ NOT <sub-filter>
 Operators: `AND`, `OR`, `NOT`, `AND NOT`, `OR NOT`, `XOR`
 (`src/Query/Filter/BooleanField.ts:31`). Must be capitalised. Delimiter pairs: `(…)`, `[…]`,
 `{…}`, `"…"` — and they **cannot be mixed within one line**
-(`src/Query/Filter/BooleanDelimiters.ts:7`, `:72`). Precedence `NOT` > `XOR` > `AND` > `OR`
+(`src/Query/Filter/BooleanDelimiters.ts:7`,
+`src/Query/Filter/BooleanDelimiters.ts:72`). Precedence `NOT` > `XOR` > `AND` > `OR`
 (`docs/Queries/Combining Filters.md:77`). Spaces around operators are optional since 7.0.0;
 missing ones are inserted (`src/Query/Filter/BooleanPreprocessor.ts:93`).
 
@@ -247,7 +250,8 @@ Known sharp edges:
   the closing delimiter, or moving the logic into one `filter by function` with `&&`/`||`/`!`.
 - Chained `XOR` does not mean "exactly one": it is a two-argument operator applied left to right, so
   `a XOR b XOR c` is true for exactly one *and* for all three.
-- `preset <name>` cannot be used inside a Boolean line (`docs/Queries/Presets.md`).
+- `preset <name>` cannot be used directly inside a Boolean line; use
+  `{{preset.<name>}}` for a partial Boolean expression (`docs/Queries/Presets.md:62`).
 - There is no short-circuiting: every sub-expression is evaluated for every task
   (`src/Query/Filter/BooleanField.ts:150`).
 

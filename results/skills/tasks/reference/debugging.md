@@ -25,11 +25,12 @@ claim-marking conventions apply here. Paths are relative to
 
 ## The protocol
 
-### Step 0 — Restart Obsidian once
+### Step 0 — Restart when the changed setting requires it
 
-Upstream's own first instruction, and it resolves a real class of problems: the global filter and
-some other settings only take effect after a restart
-(`docs/Getting Started/Getting Started.md`, `docs/Getting Started/Global Filter.md:36`).
+Do not use restart as a substitute for diagnosis. It is required after changing the global filter
+(`docs/Getting Started/Global Filter.md:36`) and filename-implied scheduled-date setting
+(`docs/Getting Started/Use Filename as Default Date.md:14`), and it is required after editing the
+debug switches below.
 If the block shows a loading message, the cache has not reached `Warm` yet
 (`src/Renderer/QueryResultsRendererBase.ts:45`).
 
@@ -55,8 +56,8 @@ ignore global query
 - **Task absent** → indexing or parsing problem. Go to Step 2.
 - **Task present** → query problem. Go to Step 3.
 
-If the vault is large, scope without risking a false negative — path filters are cheap and
-independent of the task's own fields:
+If the vault is large, scope by a path fragment known to contain the task. This reduces diagnostic
+noise; no performance claim is implied:
 
 ````text
 ```tasks
@@ -81,7 +82,7 @@ Work down; each is a single yes/no check.
 | Line is a real checkbox? | Must match `taskRegex` (`src/Task/TaskRegularExpressions.ts:24`). Watch for a missing space after the marker, a missing space inside `[ ]`, or `[]` with nothing between the brackets. |
 | Description on one line? | Only the first line is read. |
 | Global filter set, and present in the line? | Substring test (`src/Config/GlobalFilter.ts:52`). Check Settings → Tasks → Global filter; `explain` prints it. |
-| Task inside a **titled callout**, and this vault ever ran Obsidian 1.6.0–1.6.3? | Rebuild vault cache: Settings → Files and links → Advanced. Per vault, per device (`docs/Support and Help/Missing tasks in callouts with some Obsidian 1.6.x versions.md`). |
+| Task inside a **titled callout**, and this vault ever ran Obsidian 1.6.0–1.6.3? | Rebuild vault cache: Settings → Files and links → Advanced. Per vault, per device (`docs/Support and Help/Missing tasks in callouts with some Obsidian 1.6.x versions.md:58`). |
 | Does Obsidian itself see the checkbox? | Toggle it in Reading view. If Obsidian toggles the *wrong* line, its cache is stale — rebuild it. |
 | Anything else odd about the file? | A cache reporting a line past end-of-file makes the parser abandon the remainder of that file (`src/Obsidian/FileParser.ts:82`). Make a trivial edit to force a re-read. |
 
@@ -113,6 +114,15 @@ explain
 Read the nested headings for your task. `No due date` under a line that clearly shows `📅` is a
 parsing failure, not a filter failure — go to [Step 3a](#step-3a--the-backwards-signifier-scan).
 
+Before inspecting field order, confirm the selected task format. Tasks reads and writes only one
+format at a time: with Dataview selected, Emoji fields are intentionally ignored, and vice versa
+(`docs/Reference/Task Formats/About Task Formats.md:40`). See the format-specific probe in
+[authoring and formats](authoring-and-formats.md#format-diagnostic).
+
+Also check for a filename-implied scheduled date. An undated line can carry an invisible scheduled
+date derived from its filename, which affects `scheduled` and `happens` and is visible in grouping
+or the edit modal (`docs/Getting Started/Use Filename as Default Date.md:30`).
+
 ### Step 3a — the backwards signifier scan
 
 The rule that explains most parsing failures, and the one to reach for whenever a value on the line
@@ -120,10 +130,14 @@ is not the value the query sees.
 
 Every signifier pattern is anchored at the **end of the line**
 (`src/TaskSerializer/DefaultTaskSerializer.ts:68`): the field regex is built as
-`symbol + optional U+FE0F + ' *' + value + '$'`. `deserialize` then loops, each pass matching a
-pattern against the current end of the line and stripping what it matched, up to 20 passes
-(`src/TaskSerializer/DefaultTaskSerializer.ts:327`). Trailing tags are stripped by the same loop,
-held aside, and re-appended to the description afterwards (`:355`, `:386`).
+`symbol + optional U+FE0F + ' *' + value + '$'`. `deserialize` repeatedly runs a fixed sequence of
+extractors against the changing line end; one run can therefore strip several adjacent field types.
+The source sets a nominal `maxRuns = 20` but uses `runs <= maxRuns`, permitting a 21st iteration
+(`src/TaskSerializer/DefaultTaskSerializer.ts:324`,
+`src/TaskSerializer/DefaultTaskSerializer.ts:373`). Trailing tags are stripped by the same loop,
+held aside, and re-appended to the description afterwards
+(`src/TaskSerializer/DefaultTaskSerializer.ts:355`,
+`src/TaskSerializer/DefaultTaskSerializer.ts:386`).
 
 **So the scan stops at the first text that is neither a signifier nor a tag, and every signifier to
 the left of that text stays in the description as literal characters.**
@@ -314,6 +328,7 @@ Referenced by the plugin's own error text as the thing to attach to a bug report
 | Cause | Confirm | Fix |
 |---|---|---|
 | A signifier was never parsed | `group by due` etc. says `No … date`; edit modal shows the emoji in Description | Move trailing prose before the signifiers |
+| Wrong task format selected | Emoji/Dataview fields remain in description | Restore the intended format or perform a reviewed migration; switching is vault-wide |
 | Invalid calendar date | `<field> date is invalid` finds it; renders as `Invalid date` | Fix the date via the backlink, not the edit modal (which discards the bad value) |
 | Wrong date field | `group by happens` vs `group by due` | Use `happens`, or the right field |
 | Date filter is off by one | Read the expanded date in `explain` | `before in 8 days` for a 7-day window including today; `before tomorrow` for "today or earlier" |
@@ -342,6 +357,7 @@ Referenced by the plugin's own error text as the thing to attach to a bug report
 | `priority is above low` includes no-priority | Priority codes place `None` between Medium and Low | `priority is above none` |
 | `group by tags` duplicates rows | Task count is lower than the visible rows | Expected: one row per tag |
 | Global filter matched as a substring | `#tasks` satisfies filter `#task` | Use a more distinctive filter |
+| Filename supplied an invisible scheduled date | `group by scheduled` or modal shows it | Review filename-date settings, folder scope, and restart state |
 
 ### Symptom: results are stale or do not update
 
@@ -381,5 +397,6 @@ Referenced by the plugin's own error text as the thing to attach to a bug report
 Before filing, gather: plugin version, Obsidian version, OS, the block source, the offending task
 line copied verbatim, the `explain` output, the output of `Tasks: Show debug info`, and console
 output with `tasks.Query` and `tasks.Cache` at `debug`
-(`docs/Support and Help/Report a Bug.md`). Reproduce in the upstream sample vault if you can —
+(`docs/Support and Help/Report a Bug.md:25`, `docs/Support and Help/Report a Bug.md:65`). Reproduce
+in the upstream sample vault if you can —
 it eliminates the user's other plugins and CSS as variables.
