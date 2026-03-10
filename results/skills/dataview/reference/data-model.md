@@ -4,6 +4,17 @@ How text in a vault becomes values a query can reach, at `blacksmithgu/obsidian-
 `0.5.70`. Citations are `path:line` in that repository. Most wrong-results reports are decided here,
 not in the query.
 
+## Contents
+
+1. [The indexing pipeline](#1-the-indexing-pipeline)
+2. [Frontmatter](#2-frontmatter)
+3. [Inline fields](#3-inline-fields)
+4. [Field names](#4-field-names)
+5. [Implicit page fields](#5-implicit-page-fields-file)
+6. [Tasks and list items](#6-tasks-and-list-items)
+7. [Index structures and their asymmetries](#7-index-structures-and-their-asymmetries)
+8. [Field troubleshooting checklist](#8-quick-checklist-when-a-field-isnt-there)
+
 ---
 
 ## 1. The indexing pipeline
@@ -36,7 +47,7 @@ canvases, PDFs, images — is invisible except as a link target.
 and only if `cached.time >= file.stat.mtime` and the version matches (`src/data-index/index.ts:196`).
 A plugin upgrade therefore forces a full reparse. **Drop all cached file metadata** (command
 palette) plus **Force refresh all views** are the two recovery levers
-(`src/main.ts:109`, `:118`).
+(`src/main.ts:109`, `src/main.ts:118`).
 
 **Revision.** Every finished import bumps `index.revision` and fires `dataview:refresh-views`,
 debounced by `refreshInterval` (`src/data-index/index.ts:89`, `src/main.ts:184`).
@@ -63,7 +74,10 @@ Every YAML key becomes a field. Values are **re-typed** by `parseFrontmatter`
 
 The retyping is **whole-string**: `2021-01-01` is a date, `2021-01-01 (approx)` is a string. It is
 also eager, which surprises people: `version: 5 m` is a **duration of five minutes**;
-`code: 3 d` is three days. Quote anything that should stay text.
+`code: 3 d` is three days. YAML quoting does **not** stop this: Obsidian removes YAML quoting before
+Dataview receives the string, and Dataview then reparses that string (`src/data-import/markdown-file.ts:354`).
+Use a representation that does not parse wholly as a Dataview literal, such as `version: v5 m`, if
+the value must remain text.
 
 `position` is deleted from frontmatter before storage (`src/data-import/markdown-file.ts:73`).
 The untouched YAML is still available as `file.frontmatter` (`src/data-model/markdown.ts:145`) —
@@ -87,9 +101,10 @@ midnight UTC seen locally:
 | `America/New_York` (−4) | `2021-06-14T20:00` | **14** | **false** |
 
 Which path a given vault takes is decided by Obsidian, not Dataview — `FrontMatterCache` is typed
-`[key: string]: any` (`research/core/obsidian-api/obsidian.d.ts:3242` in the companion submodule), and
-Obsidian stores date properties unquoted (`Editing and formatting/Properties.md:206` in
-`obsidianmd/obsidian-help`). *Unverified:* which Obsidian versions yield `Date` objects.
+`[key: string]: any` (`obsidian-api@cc174432:obsidian.d.ts:3242`), and Obsidian's Properties
+documentation shows date properties stored unquoted
+(`obsidian-help@a97de34c:Editing and formatting/Properties.md:206`). *Unverified:* which Obsidian
+versions yield `Date` objects.
 
 **Diagnostic** — run beside a note that has an unquoted YAML date:
 
@@ -107,9 +122,20 @@ A non-midnight time, or a day one off from the file, means the `Date` path.
 
 - Keys named `tag` or `tags`, any capitalisation, are split on commas **and whitespace**, then
   `#`-prefixed if needed (`src/data-import/markdown-file.ts:90`). So `tags: project urgent` yields
-  two tags. They land in `file.tags`/`file.etags`, **not** in a queryable `tags` page field.
+  two tags in `file.tags`/`file.etags`.
 - Keys named `alias` or `aliases` populate `file.aliases`; string values are split on commas only
   (`src/data-import/markdown-file.ts:100`).
+
+They are special-cased **in addition to**, not instead of, ordinary frontmatter import. `parsePage`
+still adds every frontmatter key to the page fields (`src/data-import/markdown-file.ts:31`). A page
+may therefore expose all three:
+
+- `tags` — the original, retyped frontmatter value;
+- `file.etags` — exact normalized tag strings, with `#`;
+- `file.tags` — exact tags plus parent tags.
+
+Use the `file.*` forms for tag semantics; use the bare frontmatter field only when its original
+shape is intentional.
 
 ---
 
@@ -340,10 +366,11 @@ reach tasks through `file.tasks`.
 | `starred` | Bookmarks plugin | Polled every 30 s. |
 
 The asymmetry worth remembering: **tag *sources* are case-insensitive, tag *values* are not.**
-`FROM #Project` matches `#project`, but `contains(file.tags, "#Project")` does not. Use
-`icontains`, or normalise with `lower()`.
+`FROM #Project` matches `#project`. For exact case-sensitive membership use
+`econtains(file.etags, "#Project")`; for exact case-insensitive membership normalise first, for
+example `econtains(map(file.etags, (tag) => lower(tag)), "#project")`.
 
-CSV rows (`src/data-import/csv.ts`) go through papaparse with `dynamicTyping`, then the same
+CSV rows (`src/data-import/csv.ts:13`) go through papaparse with `dynamicTyping`, then the same
 frontmatter retyping, and every column is stored under **both** its raw and canonical name.
 
 ---
@@ -360,3 +387,5 @@ frontmatter retyping, and every column is stored under **both** its raw and cano
 7. Is the name one of the reserved list-item keys in §6?
 8. Did the file change while the index was still building, or before a plugin upgrade invalidated
    the cache? Run **Drop all cached file metadata**.
+9. Did a text-looking YAML value parse wholly as a date, duration or link? YAML quoting does not
+   suppress Dataview's second parsing pass; change the stored representation if it must stay text.

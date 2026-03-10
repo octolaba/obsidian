@@ -3,17 +3,28 @@
 The JavaScript API at `blacksmithgu/obsidian-dataview` tag `0.5.70`. Citations are `path:line` in
 that repository.
 
+## Contents
+
+1. [Settings and security gates](#1-gates-and-what-a-user-sees-when-they-are-closed)
+2. [Choosing DQL or DataviewJS](#2-choosing-between-dql-and-dataviewjs)
+3. [The `dv` API](#3-the-dv-surface)
+4. [`DataArray`](#4-dataarray)
+5. [Patterns](#5-patterns)
+6. [JavaScript-specific traps](#6-traps-specific-to-js)
+7. [External API access](#7-using-the-api-from-another-plugin-or-from-the-console)
+
 ---
 
 ## 1. Gates, and what a user sees when they are closed
 
-Three independent settings, **all off by default** (`src/settings.ts:96`):
+The execution gates at their defaults (`src/settings.ts:96`):
 
 | Setting | Governs |
 |---|---|
-| `enableDataviewJs` | ` ```dataviewjs ` blocks |
-| `enableInlineDataviewJs` | `` `$= …` `` — requires `enableDataviewJs` **as well** (`src/ui/views/js-view.ts:56`) |
-| `dataviewJsKeyword` | the fence keyword, default `dataviewjs`; changing it needs a reload |
+| `enableInlineDataview` | Inline DQL; **on** by default. |
+| `enableDataviewJs` | ` ```dataviewjs ` blocks; **off** by default. |
+| `enableInlineDataviewJs` | `` `$= …` ``; **off** by default and requires `enableDataviewJs` as well (`src/ui/views/js-view.ts:56`). |
+| `dataviewJsKeyword` | Fence keyword, default `dataviewjs`; it is a string setting, not an enable switch. Changing it needs a reload. |
 
 Closed gates are visible, not silent: a block renders
 `Dataview JS queries are disabled. You can enable them in the Dataview settings.`
@@ -21,10 +32,10 @@ Closed gates are visible, not silent: a block renders
 `(disabled; enable in settings)` (`src/ui/views/js-view.ts:58`).
 
 A file whose path contains `?no-dataview` renders every Dataview construct as inert code, JS
-included (`src/api/plugin-api.ts:461`, `:610`).
+included (`src/api/plugin-api.ts:461`, `src/api/plugin-api.ts:610`).
 
 **Security.** The block body is `eval`'d in the Obsidian renderer process with `this` bound to the
-API object (`src/api/inline-api.ts:413`, `:422` — the async wrapper kicks in when the script contains
+API object (`src/api/inline-api.ts:413`, `src/api/inline-api.ts:422` — the async wrapper kicks in when the script contains
 `await`), preceded by `const dataview = this; const dv = this;` (`src/ui/views/js-view.ts:7`).
 `dv.view` instead compiles its file with `new Function("dv", "input", …)`
 (`src/api/inline-api.ts:350`). Either way it has the full Electron surface: `dv.app`, the vault adapter,
@@ -83,9 +94,11 @@ Constructed per block as `DataviewInlineApi` (`src/api/inline-api.ts:40`), deleg
 | `await dv.query(dql)` | `Result<QueryResult, string>` — check `.successful`, then `.value`. Shape depends on query type (`src/api/plugin-api.ts:584`). |
 | `await dv.tryQuery(dql)` | Same, throwing on failure. |
 | `await dv.queryMarkdown(dql)` | The rendered result as a Markdown string. |
+| `await dv.tryQueryMarkdown(dql)` | Throwing form of `queryMarkdown`. |
 | `dv.evaluate(expr, ctx?)` | Evaluate a DQL **expression** with optional variable bindings; returns a `Result`. |
 | `dv.tryEvaluate(expr, ctx?)` | Throwing version. |
 | `await dv.execute(dql)` | Run a DQL query and render it **into this block**. |
+| `await dv.executeJs(js)` | Execute and render another JavaScript fragment; retain the same security warning as the containing block. |
 
 `dv.query` is the pragmatic bridge: express the filtering in DQL, post-process in JS.
 
@@ -105,7 +118,7 @@ Markdown inside strings is rendered (`src/ui/markdown.tsx:92`).
 `dv.duration(x)`, `dv.parse(text)` (inline-field typing), `dv.literal(x)` (frontmatter typing),
 `dv.clone(x)`, `dv.compare(a, b)`, `dv.equal(a, b)`, `dv.value` (the `Values` namespace),
 `dv.widget`, `dv.luxon`, `dv.func.<name>` (every DQL function, context-bound —
-`src/api/plugin-api.ts:98`), `dv.version.current` / `.compare(op, v)` / `.satisfies(range)`,
+`src/api/plugin-api.ts:98`), `dv.api.version.current` / `.compare(op, v)` / `.satisfies(range)`,
 `dv.app`, `dv.index`, `dv.component`, `dv.currentFilePath`, `dv.settings`.
 
 `dv.func` is the escape hatch worth remembering: `dv.func.striptime`, `dv.func.dateformat`,
@@ -130,7 +143,7 @@ A proxy-wrapped immutable array (`src/api/data-array.ts:185`). Every method retu
 | `distinct(key?, cmp?)` | |
 | `every`, `some`, `none`, `find`, `findIndex`, `includes`, `indexOf` | `includes`/`indexOf` use Dataview's comparator, so they match by value, including links and dates. |
 | `first()`, `last()` | `undefined` when empty. |
-| `sum()`, `avg()`, `min()`, `max()` | Added in 0.5.67 (`CHANGELOG.md`). |
+| `sum()`, `avg()`, `min()`, `max()` | Added in 0.5.67 (`CHANGELOG.md:17`). |
 | `to(key)` | Map to a field **and flatten** — the swizzle. |
 | `into(key)` | Map to a field without flattening. |
 | `expand(key)` | Recursively flatten a tree by a key — the idiomatic way to walk `children`. |
@@ -183,7 +196,7 @@ dv.list([...descendants(dv.current().file.path)].map(p => dv.fileLink(p)));
 **Read body text — the only way:**
 
 ```js
-const text = await dv.io.load(dv.current().file.path);
+const text = await dv.io.load(dv.current().file.path) ?? "";
 dv.paragraph("Words: " + text.split(/\s+/).length);
 ```
 
@@ -201,9 +214,9 @@ if it contains `await` (`src/api/inline-api.ts:348`), and receives `dv` and `inp
 | `dv.pages("status = 'open'")` | The argument is a **source**, not a predicate; this throws a parse error. Filter with `.where(...)`. |
 | Field named like a `DataArray` method | Shadowed. Use `["name"]`. |
 | Typo in a swizzle (`pages.flie.name`) | Returns an array of `undefined` — no error. |
-| Comparing links or dates with `==` | Use `dv.equal(a, b)`; JS `==` compares object identity. |
+| Comparing links or dates with JavaScript equality operators | Use `dv.equal(a, b)`; JavaScript compares object identity. |
 | `.sort()` expectations | Dataview's comparator puts `null` first and orders cross-type by type name, not JS's string sort. |
-| Mutating `dv.current()` or a page object | You are mutating the **live index object**; it persists until that file is re-imported. Use `dv.clone()`. |
+| Mutating `dv.current()` or a page object | The outer serialized page is fresh, and `file.frontmatter` is deep-copied, but custom nested field values may still share index references (`src/data-model/markdown.ts:145`, `src/data-model/markdown.ts:154`). Use `dv.clone()` before mutation rather than relying on which layer was copied. |
 | `console.log` of a `DataArray` | Prints the proxy. Use `.array()`. |
 | Throwing inside the block | The whole block is replaced by `Evaluation Error: <stack>` (`src/ui/views/js-view.ts:32`). Wrap risky sections in `try/catch` and `dv.paragraph` the message. |
 | Long loops | Run on the UI thread, on every refresh. Add your own `limit()`. |
@@ -217,7 +230,7 @@ if it contains `await` (`src/api/inline-api.ts:348`), and receives `dv` and `inp
 object also exposes `app.plugins.plugins.dataview.api`. Both are the same `DataviewApi` documented
 above minus the rendering helpers that need a container. `dv.index.revision` is the change counter
 to poll; `metadataCache.on("dataview:index-ready")` and `"dataview:metadata-change"` are the events
-(`src/data-index/index.ts:85`, `:152`).
+(`src/data-index/index.ts:85`, `src/data-index/index.ts:152`).
 
 For diagnosing a data question, `console.log(DataviewAPI.page("Some Note"))` in the developer
 console is the ground truth about what any query can see.

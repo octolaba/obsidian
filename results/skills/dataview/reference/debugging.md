@@ -7,6 +7,13 @@ The governing fact: **Dataview has no `explain`, no query plan, and no way to se
 Diagnostics are collected during execution and then discarded (`src/query/engine.ts:206`). You must
 build the instruments yourself, and they are all cheap.
 
+## Contents
+
+1. [Diagnostic instruments](#1-the-instruments)
+2. [Missing-row protocol](#2-protocol-a--a-row-is-missing)
+3. [Cause catalogue](#3-cause-catalogue-indexed-by-symptom)
+4. [Consultation intake](#4-what-to-ask-the-user-and-in-what-order)
+
 ---
 
 ## 1. The instruments
@@ -113,7 +120,7 @@ Stop at the first step that reproduces it.
 | `FROM #a` returns notes tagged only `#a/b` | Tag sources include subtags by design (`src/data-model/markdown.ts:104`). Filter with `econtains(file.etags, "#a")`. |
 | `FROM #Work` returns `#work` notes | Tag index lookups are case-folded (`src/data-index/index.ts:545`). |
 | A mixed `and`/`or` filter matches too much | One precedence level, left-associative: `y or a and b` is `(y or a) and b` (`src/expression/parse.ts:579`). Parenthesise. |
-| `TASK FROM #x` returns untagged tasks | `FROM` selects **pages**; all their tasks are collected (`src/query/engine.ts:394`). Use `WHERE contains(tags, "#x")`. |
+| `TASK FROM #x` returns untagged tasks | `FROM` selects **pages**; all their tasks are collected (`src/query/engine.ts:394`). For an exact task tag use `WHERE econtains(tags, "#x")`; use `contains` only when substring matching is intentional. |
 | Child tasks appear that do not match | By design (`docs/docs/queries/query-types.md:430`). |
 | Duplicate rows after `FLATTEN` | One output row per array element — that is what it does. Check whether the source array itself has duplicates (`file.outlinks` can, `src/data-model/markdown.ts:114`). |
 
@@ -123,11 +130,11 @@ Stop at the first step that reproduces it.
 
 | Symptom | Cause |
 |---|---|
-| `typeof = "null"` although the line looks right | The line was never scanned: it is in a `list`/`ruling` section, has no `::`, is over 32 768 chars, or is a task line written as a full-line field instead of `[k:: v]` (`src/data-import/markdown-file.ts:156`, `:257`). |
+| `typeof = "null"` although the line looks right | The line was never scanned: it is in a `list`/`ruling` section, has no `::`, is over 32 768 chars, or is a task line written as a full-line field instead of `[k:: v]` (`src/data-import/markdown-file.ts:156`, `src/data-import/markdown-file.ts:257`). |
 | Field name works in one note, not another | Capitalisation. Query the canonical alias (`due-date`) instead (`src/util/normalize.ts:100`). |
 | The value is an array, not a scalar | The key appears more than once in the note. |
 | A date is one day off | Unquoted YAML date re-read in local time (`src/data-import/markdown-file.ts:338`). See `reference/data-model.md` §2.1. |
-| A version string became a duration | `parseFrontmatter` retypes anything that parses whole: `5 m` → 5 minutes. Quote it. |
+| A version string became a duration | `parseFrontmatter` retypes anything that parses whole: `5 m` → 5 minutes, even if YAML quoted it before handing Dataview the string (`src/data-import/markdown-file.ts:354`). Store a representation that does not parse wholly, such as `v5 m`. |
 | A number is treated as text | Quoted in YAML, or has a unit. `number(x)` extracts the first number. |
 | `completed` is `true`/`false` instead of a date | `completed` is the checkbox boolean; the date is `completion` (`src/data-model/markdown.ts:281`). |
 | A task field named `text`/`line`/`tags`/`status` has the wrong value | Task built-ins overwrite inline fields of the same name (`src/data-model/markdown.ts:255`). |
@@ -156,7 +163,7 @@ Stop at the first step that reproduces it.
 | `can only index into objects with strings (a.b or a["b"])` | Indexing an object with a number. |
 | `Array indexing requires either a number … or a string …` | Indexing an array with a date or boolean. |
 | `Can't handle format (F) on date string (D)` | `date(str, fmt)` mismatch — this variant **throws** instead of returning null. |
-| `Dataview: No results to show for … query.` | Zero rows, not an error (`src/ui/views/list-view.tsx:70`, `table-view.tsx:63`, `task-view.tsx:154`). Turn off with **Warn on empty result**. |
+| `Dataview: No results to show for … query.` | Zero rows, not an error (`src/ui/views/list-view.tsx:70`, `src/ui/views/table-view.tsx:63`, `src/ui/views/task-view.tsx:154`). Turn off with **Warn on empty result**. |
 | `Evaluation Error: …` with a JS stack | A `dataviewjs` block threw (`src/ui/views/js-view.ts:32`). |
 | `Dataview JS queries are disabled. You can enable them in the Dataview settings.` | The default state (`src/ui/views/js-view.ts:19`, `src/settings.ts:104`). |
 | An inline query renders the literal `(disabled; enable in settings)` | Inline JS needs **both** `enableDataviewJs` and `enableInlineDataviewJs` (`src/ui/views/js-view.ts:56`). |
@@ -168,7 +175,7 @@ Stop at the first step that reproduces it.
 |---|---|
 | Edits take a couple of seconds to show | `refreshInterval`, default 2 500 ms, debounced (`src/main.ts:184`). |
 | Nothing updates at all | **Automatic view refreshing** is off (`src/settings.ts:47`), or the container is not visible — refresh only runs when `container.isShown()` (`src/ui/markdown.tsx:261`). |
-| Results changed after a plugin update, or are wrong after a crash | The IndexedDB cache is keyed by plugin version (`src/data-import/persister.ts:20`); a partial write survives otherwise. Run **Drop all cached file metadata**, then **Force refresh all views** (`src/main.ts:109`, `:118`). |
+| Results changed after a plugin update, or are wrong after a crash | The IndexedDB cache is keyed by plugin version (`src/data-import/persister.ts:20`); a partial write survives otherwise. Run **Drop all cached file metadata**, then **Force refresh all views** (`src/main.ts:109`, `src/main.ts:118`). |
 | A renamed file keeps the old path in results | Renames are handled explicitly (`src/data-index/index.ts:166`), but embedded/`this`-relative queries in the moved note need a re-render: **Rebuild current view**. |
 | Embeds inside a Dataview view misbehave | Known interaction with automatic refresh; the setting description itself recommends turning refresh off (`src/main.ts:477`). |
 | `file.starred` is wrong for up to 30 s | Polled, not evented (`src/data-index/index.ts:397`). |
@@ -198,7 +205,7 @@ whether the block was moved into a note whose path or folder changed a `this.`/`
 | Dates one day off | unquoted YAML date | `dateformat(x, "yyyy-MM-dd HH:mm ZZZZ")` |
 | Counts double after `GROUP BY` | a `FLATTEN` earlier in the block | count before and after |
 | `sum()` breaks the whole query | nulls in the array | `sum(nonnull(...))` |
-| Query is correct but the vault is slow | see `reference/performance.md` | the bundled scanner |
+| Query is correct but the vault is slow | see `reference/performance.md` | query linter plus live doctor |
 
 ---
 

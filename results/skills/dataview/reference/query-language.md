@@ -4,6 +4,18 @@ Complete grammar and evaluation semantics of DQL as implemented at `blacksmithgu
 tag `0.5.70`. Citations are `path:line` in that repository. `src/…` is implementation, `docs/…` is
 documented contract.
 
+## Contents
+
+1. [Where queries live](#1-where-a-query-can-live)
+2. [Query structure](#2-query-structure)
+3. [Query types](#3-query-types)
+4. [`FROM` sources](#4-from--sources)
+5. [Data commands](#5-data-commands)
+6. [Expressions](#6-expressions)
+7. [Values, comparison and truthiness](#7-values-comparison-truthiness)
+8. [Functions](#8-functions)
+9. [DQL boundaries](#9-what-dql-cannot-do)
+
 ---
 
 ## 1. Where a query can live
@@ -41,7 +53,7 @@ Parsed as: one header clause, then **at most one** `FROM`, then any number of da
 
 - **Whitespace and newlines are interchangeable.** Clause separation is whitespace, not line breaks.
 - **`//` line comments** are allowed anywhere a clause separator is (`src/query/parse.ts:87`,
-  `:216`). They run to end of line and are not recognised inside strings.
+  `src/query/parse.ts:216`). They run to end of line and are not recognised inside strings.
 - **Keywords are case-insensitive** (`/TABLE|LIST|TASK|CALENDAR/i`, `/WHERE/i`, …). Field names are
   case-sensitive.
 - **Data commands may repeat and appear in any order**, and they execute in written order
@@ -52,7 +64,7 @@ Parsed as: one header clause, then **at most one** `FROM`, then any number of da
 
 `SORT` is **not** in the reserved-word list (`src/expression/parse.ts:84`, which contains only
 `FROM`, `WHERE`, `LIMIT`, `GROUP`, `FLATTEN`). The `LIST` and `TABLE` headers greedily parse an
-expression after the keyword (`src/query/parse.ts:121`, `:135`). Therefore:
+expression after the keyword (`src/query/parse.ts:121`, `src/query/parse.ts:135`). Therefore:
 
 | Query | Result |
 |---|---|
@@ -94,7 +106,7 @@ becomes a row, with the page's fields merged in for keys the task does not alrea
 (`src/query/engine.ts:394`). Consequences:
 
 - `TASK FROM #x` returns *all* tasks of every note carrying `#x` anywhere, including notes where
-  only one task has the tag. Filter tasks with `WHERE contains(tags, "#x")`.
+  only one task has the tag. Filter exact task tags with `WHERE econtains(tags, "#x")`.
 - The row id is `<path>#<line>` and is not rendered.
 - The rendered list re-nests: a matching task drags its children along even if the children do not
   match (`src/ui/views/task-view.tsx:308`, `docs/docs/queries/query-types.md:430`).
@@ -345,7 +357,8 @@ One universal comparator handles every operator (`src/data-model/value.ts:171`):
    `null < array < boolean < date < duration < link < number < object < string < widget`
 
 3. Same-type rules: strings by `localeCompare`; numbers numerically; dates and durations by
-   instant/length; links by normalized path, then type, then subpath (`:203`); arrays
+   instant/length; links by normalized path, then type, then subpath
+   (`src/data-model/value.ts:203`); arrays
    element-wise then by length; objects by sorted key list then values; `html`, `widget` and
    `function` always compare equal.
 
@@ -449,7 +462,7 @@ Vectorized positions by arity:
 
 | Function | Semantics |
 |---|---|
-| `contains(container, value)` | **object** → has key. **string** → substring. **array** → recurses into elements, so an array of strings ends in a *substring* test per element: `contains(list("#project"), "#proj")` is **true**. Documented as an equality test (`docs/docs/reference/functions.md`) — a doc/implementation conflict. |
+| `contains(container, value)` | **object** → has key. **string** → substring. **array** → recurses into elements, so an array of strings ends in a *substring* test per element: `contains(list("#project"), "#proj")` is **true**. Documented as an equality test (`docs/docs/reference/functions.md:312`) — a doc/implementation conflict. |
 | `icontains` | Same, case-insensitive. |
 | `econtains` | **Exact**: array elements compared with `=`. Use this for tag and status membership. |
 | `containsword(s, w)` | Case-insensitive whole-word regex match. Escapes the needle. |
@@ -468,7 +481,7 @@ Vectorized positions by arity:
 | `regexmatch(pattern, field)` | **Auto-anchored**: wrapped in `^…$` unless the pattern already starts with `^` *or* ends with `$` (`src/expression/functions.ts:569`). `regexmatch("Hello", "Hello world")` is false. |
 | `regexreplace(field, pattern, replacement)` | **Field first** — inverted relative to the two above. Global, throws on an invalid pattern. |
 | `replace(s, from, to)` | Literal (`split`/`join`), not regex. Global. |
-| `split(s, delimiter[, limit])` | **Delimiter is a regex** (`docs/docs/reference/functions.md` documents this). `split("a.b.c", ".")` returns six empty strings; escape as `"\\."`. |
+| `split(s, delimiter[, limit])` | **Delimiter is a regex** (`docs/docs/reference/functions.md:630` documents this). `split("a.b.c", ".")` returns six empty strings; escape as `"\\."`. |
 | `lower`, `upper` | Locale-aware. |
 | `startswith`, `endswith` | Return `null` (not `false`) if either side is null. |
 | `padleft/padright(s, len[, pad])`, `substring(s, start[, end])` | |
@@ -498,15 +511,19 @@ State these plainly rather than inventing syntax:
 - **No joins.** The only cross-page reach is indexing through a link (`author.file.name`), one hop
   at a time, and it costs a metadata-cache lookup per row.
 - **No `HAVING`.** Filter groups with a `WHERE` placed *after* `GROUP BY`, operating on `rows`.
-- **No aggregate outside `GROUP BY`.** For a vault-wide total, group by a constant:
-  `GROUP BY true`.
+- **No aggregation across the query's page rows without `GROUP BY`.** Aggregates over an array
+  already present on one row work anywhere; for a vault-wide total, group the page rows by a
+  constant: `GROUP BY true`.
 - **No user-defined functions, no variables, no `WITH`.** `FLATTEN <expr> AS name` is the only way
   to name an intermediate value, and it costs a deep copy per row.
-- **No control over group-heading order** beyond sorting by the group key itself.
+- **Group rows can be sorted after grouping.** Use expressions over `rows`, such as
+  `SORT length(rows) DESC`; the resulting row order controls table/list groups
+  (`docs/docs/queries/structure.md:152`).
 - **No access to note *body text*.** Only frontmatter, inline fields, tags, links, headings and list
   items are indexed; the prose is not. `file.lists[].text` is the closest thing.
 - **No section-level rows.** Rows are pages, tasks or list items — never sections.
 - **No `explain`, no query plan, no timing output.** Diagnostics are collected internally
   (`src/query/engine.ts:206`) but never surfaced in the UI.
-- **No stable row identity** across refreshes, and no incremental evaluation: every visible query
-  re-runs in full on every index revision.
+- **No stable JavaScript object identity** across refreshes, and no incremental evaluation: page
+  paths and task path/line identifiers are usable values, but every visible query reconstructs its
+  result objects in full on every index revision.
