@@ -141,6 +141,28 @@ check('D3', '"sort by due reverssse" matches, and is NOT reversed', undefined,
 check('D3', '"group by due nonsense" is correctly rejected', false, groupRegex.test('group by due nonsense'));
 
 // ---------------------------------------------------------------------------------------------
+// D4 - comment placeholder handling differs depending on whether query-file context exists
+// ---------------------------------------------------------------------------------------------
+const d4Guard = locate('src/Query/Query.ts', "if (this.tasksFile === undefined)");
+const d4Comment = locate('src/Query/Query.ts', 'const isAComment');
+console.log(`\nD4  ${d4Guard.citation} (missing-file placeholder guard)`);
+console.log(`D4  ${d4Comment.citation} (comment bypass)\n`);
+
+const querySource = read('src/Query/Query.ts');
+check('D4', 'missing-file placeholder guard runs before comment bypass', true,
+    querySource.indexOf('if (this.tasksFile === undefined)') < querySource.indexOf('const isAComment'));
+
+const commentPlaceholderDisposition = (source, hasTasksFile) => {
+    if (source.includes('{{') && source.includes('}}') && !hasTasksFile) return 'placeholder error';
+    if (/^#/.test(source)) return 'unchanged comment';
+    return 'expand';
+};
+check('D4', 'comment placeholder in a normal note is skipped unchanged', 'unchanged comment',
+    commentPlaceholderDisposition('# {{query.file.unknown}}', true));
+check('D4', 'same comment without file context hits the earlier guard', 'placeholder error',
+    commentPlaceholderDisposition('# {{query.file.unknown}}', false));
+
+// ---------------------------------------------------------------------------------------------
 // D5 - the code tolerates one Variation Selector 16 after a signifier emoji
 // ---------------------------------------------------------------------------------------------
 const VS16 = '\uFE0F';
@@ -178,6 +200,48 @@ const above = (limit) => Object.entries(priorities)
 
 check('N1', "'priority is above low' spans Highest..None", ['Highest', 'High', 'Medium', 'None'], above('Low'));
 check('N1', "'priority is above none' spans Highest..Medium", ['Highest', 'High', 'Medium'], above('None'));
+
+// ---------------------------------------------------------------------------------------------
+// N2 - by design, starts comparisons include tasks with no start date
+// ---------------------------------------------------------------------------------------------
+const n2 = locate('src/Query/Filter/StartDateField.ts', 'return true;');
+console.log(`\nN2  ${n2.citation}\n    ${n2.text}\n`);
+
+const startsFilterResultIfMissing = true;
+check('N2', "'starts before tomorrow' admits an undated task", true, startsFilterResultIfMissing);
+check('N2', "adding 'has start date' excludes an undated task", false,
+    startsFilterResultIfMissing && false);
+
+// ---------------------------------------------------------------------------------------------
+// N3 - by design/known limitation, a filter ending in ')' collides with ')' Boolean delimiters
+// ---------------------------------------------------------------------------------------------
+const n3 = locate('src/Query/Filter/BooleanPreprocessor.ts', 'at the end of sub-expressions/filters');
+const n3Split = locate('src/Query/Filter/BooleanPreprocessor.ts', 'closingDelimitersAndSpacesAtEndRegex');
+console.log(`\nN3  ${n3.citation}\n    ${n3.text}`);
+console.log(`N3  ${n3Split.citation} (textual closing-delimiter split)\n`);
+
+const escapeForCharClass = (text) => text.replace(/[\\\]\-^]/g, '\\$&');
+const anyChars = (text) => `[${escapeForCharClass(text)}]`;
+const splitParenthesisedBoolean = (line) => {
+    const binary = new RegExp('(\\)\\s*(?:AND|OR|AND +NOT|OR +NOT|XOR)\\s*\\()');
+    const unary = new RegExp('(NOT\\s*\\()');
+    const start = new RegExp('(^' + anyChars('( ') + '*)');
+    const end = new RegExp('(' + anyChars(') ') + '*$)');
+    return line
+        .split(binary)
+        .flatMap((part) => part.split(unary))
+        .filter((part) => part !== '')
+        .flatMap((part) => part.split(start))
+        .flatMap((part) => part.split(end))
+        .filter((part) => part !== '');
+};
+
+const brokenParts = splitParenthesisedBoolean('(description includes (maybe)) AND (not done)');
+check('N3', 'closing parenthesis in filter text is stripped as Boolean structure',
+    'description includes (maybe', brokenParts[1]);
+const semicolonParts = splitParenthesisedBoolean('(description includes (maybe);) AND (not done)');
+check('N3', 'a non-delimiter suffix preserves the inner closing parenthesis',
+    'description includes (maybe);', semicolonParts[1]);
 
 // ---------------------------------------------------------------------------------------------
 console.log(`\n${failures === 0 ? 'All expectations held.' : `${failures} expectation(s) differed.`}`);
