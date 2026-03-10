@@ -1,5 +1,5 @@
 ---
-name: tasks
+name: obsidian-tasks-plugin
 description: "Diagnose, explain, design, and validate Obsidian Tasks 8.3.0 usage: task authoring and formats, queries and missing results, dates and recurrence, statuses and dependencies, settings and integrations, scripting, workflows, and performance. Use for any tasks block, Tasks-formatted checkbox, plugin setting, or 'why did Tasks do this?' report."
 source: obsidian-tasks-group/obsidian-tasks
 version: 8.3.0
