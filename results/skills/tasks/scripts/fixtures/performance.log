@@ -1,0 +1,7 @@
+Search: query-a - Dashboard.md: 10.00 milliseconds
+Render: query-a - Dashboard.md: 5.00 milliseconds
+Search: query-a - Dashboard.md: 20.00 milliseconds
+unrelated console line
+Loading vault with global filter '#task': 100.00 milliseconds
+Render: query-a - Dashboard.md: 15.00 milliseconds
+Search: query-b - Projects.md: 30.00 milliseconds
