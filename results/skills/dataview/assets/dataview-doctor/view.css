@@ -1,0 +1,13 @@
+.dv-doctor-ok {
+    color: var(--text-success);
+}
+
+.dv-doctor-error {
+    color: var(--text-error);
+    font-weight: 600;
+}
+
+.dv-doctor-note {
+    color: var(--text-muted);
+    font-size: var(--font-smallest);
+}
