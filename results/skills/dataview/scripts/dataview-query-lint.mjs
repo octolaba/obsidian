@@ -3,6 +3,8 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import {
+    EXIT,
+    TOOL_VERSION,
     clausesOf,
     extractDataviewBlocks,
     hasClause,
@@ -13,14 +15,20 @@ import {
     parseDqlShape,
     readMarkdown,
     relativeTo,
-    resolveVault,
+    resolveVaultArgument,
+    resolveVaultFile,
     walkMarkdown,
     writeUsageError,
 } from './lib.mjs';
+import { IDENTITY, IDENTITY_STATUS, verifyPrimaryIdentity } from './identity.mjs';
 import { loadUpstreamParser } from './upstream-parser.mjs';
 
+const STUDIED_VERSION = '0.5.70';
+/** The reviewed tree ships 0.5.68 in its manifest, so both identify studied material. */
+const ACCEPTED_MANIFEST_VERSIONS = ['0.5.70', '0.5.68'];
+
 const USAGE =
-    'usage: node dataview-query-lint.mjs [VAULT] [--vault PATH] [--file FILE] [--source-root PATH] [--format text|json|sarif] [--all]';
+    'usage: node dataview-query-lint.mjs [VAULT] [--vault PATH] [--file FILE] [--source-root PATH] [--allow-unverified-source-root] [--format text|json|sarif] [--all]';
 
 const RULES = {
     DVM001: {
@@ -30,6 +38,33 @@ const RULES = {
         fixSafety: 'safe',
         message: 'The Dataview fence is not closed.',
         suggestion: 'Close it with a fence using the same character and at least the opener length.',
+    },
+    DVE001: {
+        category: 'environment',
+        severity: 'warning',
+        confidence: 'high',
+        fixSafety: 'safe',
+        message: 'No Dataview plugin manifest was found in this vault.',
+        suggestion:
+            'Findings assume the studied release; confirm the installed version with dv.api.version.current.',
+    },
+    DVE002: {
+        category: 'environment',
+        severity: 'warning',
+        confidence: 'high',
+        fixSafety: 'safe',
+        message: 'The installed Dataview version is outside the studied boundary.',
+        suggestion:
+            'Grammar, functions and defaults may differ; re-check any finding against that release before acting.',
+    },
+    DVM002: {
+        category: 'provenance',
+        severity: 'warning',
+        confidence: 'high',
+        fixSafety: 'safe',
+        message: 'Exact mode was requested but the supplied checkout is not the reviewed pin.',
+        suggestion:
+            'Point --source-root at the reviewed checkout, or pass --allow-unverified-source-root to parse against it deliberately.',
     },
     DVQ000: {
         category: 'syntax',
@@ -297,6 +332,7 @@ function finding(rule, block, offset = 0, details = {}) {
         offset,
         block.startLine + (block.type === 'dql' || block.type === 'js' ? 1 : 0),
         block.startColumn,
+        block.lineColumns,
     );
     return {
         rule,
@@ -722,32 +758,93 @@ function sarifReport(report) {
 
 async function main() {
     const args = parseArgs(process.argv.slice(2), {
-        booleans: ['help', 'all'],
+        booleans: ['help', 'all', 'allow-unverified-source-root'],
         values: ['vault', 'file', 'source-root', 'format'],
     });
     if (args.help) {
         process.stdout.write(`${USAGE}\n`);
         return;
     }
-    if (args._.length > 1) throw new Error('at most one positional VAULT is allowed');
-    const vault = resolveVault(args.vault ?? args._[0] ?? '.');
+    const vault = resolveVaultArgument(args);
     const format = args.format ?? 'text';
     if (!['text', 'json', 'sarif'].includes(format)) {
         throw new Error('--format must be text, json or sarif');
     }
     const config = loadDataviewConfig(vault);
-    const files = args.file
-        ? [path.resolve(vault, args.file)]
-        : walkMarkdown(vault);
+    const files = args.file ? [resolveVaultFile(vault, args.file, '--file')] : walkMarkdown(vault);
     for (const file of files) {
         if (!fs.existsSync(file) || !fs.statSync(file).isFile()) {
             throw new Error(`Markdown file does not exist: ${file}`);
         }
     }
-    let exact = null;
-    if (args['source-root']) exact = await loadUpstreamParser(args['source-root']);
 
-    const diagnostics = [];
+    // Exact mode builds and executes the supplied checkout's own toolchain. Prove the checkout is
+    // the reviewed pin before resolving or loading anything from it, so an exact-mode report can
+    // never carry the reviewed-pin label for material nobody reviewed.
+    let exact = null;
+    let identity = null;
+    const provenance = [];
+    if (args['source-root']) {
+        identity = verifyPrimaryIdentity(args['source-root']);
+        if (identity.status === IDENTITY_STATUS.missing) {
+            const error = new Error(identity.reason);
+            error.code = 'SOURCE_MISSING';
+            throw error;
+        }
+        if (identity.status === IDENTITY_STATUS.verified || args['allow-unverified-source-root']) {
+            exact = await loadUpstreamParser(args['source-root']);
+        }
+        if (identity.status === IDENTITY_STATUS.mismatch) {
+            provenance.push({
+                file: '.',
+                rule: 'DVM002',
+                ...RULES.DVM002,
+                severity: args['allow-unverified-source-root'] ? 'note' : RULES.DVM002.severity,
+                line: 1,
+                column: 1,
+                blockType: null,
+                evidence: identity.reason,
+            });
+        }
+    }
+
+    // The version and settings a report depends on are stated as findings, not merely echoed.
+    const assumptions = [];
+    const installedVersion = config.manifest?.version ?? null;
+    if (installedVersion === null) {
+        provenance.push({
+            file: '.',
+            rule: 'DVE001',
+            ...RULES.DVE001,
+            line: 1,
+            column: 1,
+            blockType: null,
+            evidence: `expected .obsidian/plugins/dataview/manifest.json`,
+        });
+        assumptions.push(`No plugin manifest found; every rule assumes Dataview ${STUDIED_VERSION}.`);
+    } else if (!ACCEPTED_MANIFEST_VERSIONS.includes(installedVersion)) {
+        provenance.push({
+            file: '.',
+            rule: 'DVE002',
+            ...RULES.DVE002,
+            line: 1,
+            column: 1,
+            blockType: null,
+            evidence: `installed ${installedVersion}, studied ${STUDIED_VERSION}`,
+        });
+        assumptions.push(`Installed Dataview ${installedVersion} is outside the studied ${STUDIED_VERSION} boundary.`);
+    } else {
+        assumptions.push(
+            `Installed manifest reports ${installedVersion}, which the studied ${STUDIED_VERSION} tree also embeds.`,
+        );
+    }
+    assumptions.push(
+        config.hasSettings
+            ? 'Query extraction used the vault\'s own Dataview settings.'
+            : 'No data.json found; pinned default settings are assumed, including the dataviewjs keyword and inline prefixes.',
+    );
+
+    const diagnostics = [...provenance];
     const queries = [];
     const byType = { dql: 0, js: 0, inline: 0, 'inline-js': 0 };
     for (const file of files) {
@@ -756,7 +853,14 @@ async function main() {
         for (const block of extractDataviewBlocks(text, config.settings)) {
             byType[block.type] = (byType[block.type] ?? 0) + 1;
             const local = [];
-            if (!block.closed) local.push(finding('DVM001', block));
+            if (!block.closed) {
+                local.push(
+                    finding('DVM001', block, 0, {
+                        line: block.startLine,
+                        column: block.startColumn,
+                    }),
+                );
+            }
             if (
                 (block.type === 'js' && !config.settings.enableDataviewJs) ||
                 (block.type === 'inline' && !config.settings.enableInlineDataview) ||
@@ -783,7 +887,11 @@ async function main() {
                                       Number(match[1]) -
                                       1
                                     : block.startLine,
-                                column: match ? Number(match[2]) : block.startColumn,
+                                column: match
+                                    ? (block.lineColumns?.[Number(match[1]) - 1] ?? 1) +
+                                      Number(match[2]) -
+                                      1
+                                    : block.startColumn,
                                 evidence: String(parsed.error),
                             }),
                         );
@@ -817,12 +925,37 @@ async function main() {
             left.column - right.column ||
             left.rule.localeCompare(right.rule),
     );
+    const verifiedPin = identity?.status === IDENTITY_STATUS.verified;
     const report = {
         tool: 'dataview-query-lint',
-        version: '2.0.0',
+        version: TOOL_VERSION,
         vault,
-        mode: exact ? 'upstream-ast+static' : 'static',
+        mode: exact
+            ? verifiedPin
+                ? 'upstream-ast+static'
+                : 'upstream-ast+static (unverified material)'
+            : 'static',
         sourceRoot: exact?.sourceRoot ?? null,
+        // Exact-mode findings are only ever labelled with the identity actually parsed against.
+        material: identity
+            ? {
+                  requested: path.resolve(args['source-root']),
+                  status: identity.status,
+                  reviewedPin: `${IDENTITY.source}@${IDENTITY.version} (${IDENTITY.commit})`,
+                  matchesReviewedPin: verifiedPin,
+                  observedSha256: identity.actual?.sha256 ?? null,
+                  observedFiles: identity.actual?.files ?? null,
+                  exactModeEnabled: Boolean(exact),
+              }
+            : null,
+        assumptions,
+        limitations: [
+            'Static analysis only: no Obsidian index, no rendering and no query execution.',
+            'Cost and correctness rules cannot know source cardinality, view visibility or user intent.',
+            'DataviewJS is inspected as text; it is never executed.',
+        ],
+        trustModel:
+            'Exact mode builds and requires the supplied checkout with the caller\'s privileges; static mode executes nothing from it. Neither mode writes to the vault or to the checkout.',
         settings: {
             detected: config.hasSettings,
             pluginVersion: config.manifest?.version ?? null,
@@ -855,15 +988,20 @@ async function main() {
             if (item.evidence) process.stdout.write(`  evidence: ${String(item.evidence).split('\n')[0]}\n`);
         }
     }
-    if (diagnostics.some(item => severityRank[item.severity] >= severityRank.warning)) {
-        process.exitCode = 1;
+    if (
+        identity?.status === IDENTITY_STATUS.mismatch &&
+        !args['allow-unverified-source-root']
+    ) {
+        process.exitCode = EXIT.identityMismatch;
+    } else if (diagnostics.some(item => severityRank[item.severity] >= severityRank.warning)) {
+        process.exitCode = EXIT.findings;
     }
 }
 
 main().catch(error => {
     if (['SOURCE_MISSING', 'DEPENDENCIES_MISSING'].includes(error.code)) {
-        writeUsageError(error, USAGE, 3);
+        writeUsageError(error, USAGE, EXIT.missingMaterial);
     } else {
-        writeUsageError(error, USAGE);
+        writeUsageError(error, USAGE, EXIT.usage);
     }
 });

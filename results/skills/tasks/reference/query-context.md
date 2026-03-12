@@ -3,6 +3,19 @@
 Use this reference when a block behaves differently between notes, an empty block is not actually
 empty, a preset/placeholder fails, or frontmatter changes the result.
 
+## Contents
+
+- [Effective-query order](#effective-query-order)
+- [Line continuations](#line-continuations)
+- [Global filter](#global-filter)
+- [Global query](#global-query)
+- [Query-file defaults](#query-file-defaults)
+- [Presets](#presets)
+- [Placeholders](#placeholders)
+- [Fast reconstruction checklist](#fast-reconstruction-checklist)
+- [Failure modes](#failure-modes)
+- [Validation](#validation)
+
 ## Effective-query order
 
 Tasks constructs a query from three layers:
@@ -19,6 +32,34 @@ options override earlier ones; filters remain conjunctive regardless of order.
 `explain` reports global filter, global query, file defaults, preset expansion, placeholders, and
 relative-date expansion (`src/Query/QueryRendererHelper.ts:30`). Use its output as the runtime
 ground truth.
+
+## Line continuations
+
+Before anything is parsed, each source is split into **logical statements**, not physical lines
+(`src/Query/Scanner.ts:68`). A backslash as the very last character of a line joins that line to the
+next one:
+
+- the continuation backslash and the whitespace around it collapse to a single space;
+- leading whitespace on the continued line is discarded, so the second line may be indented freely;
+- **two** trailing backslashes are not a continuation: they are reduced to one literal backslash;
+- a statement that is empty or whitespace-only after joining is discarded;
+- a query whose final line ends in a backslash still yields that statement
+  (`src/Query/Scanner.ts:80`).
+
+This happens for each source separately — the global query, the query-file defaults and the block —
+and again for the text of every preset, before preset expansion and before any diagnostic looks at
+an instruction. So this block contains one filter, not two:
+
+````text
+```tasks
+(priority is highest) OR       \
+    (priority is lowest)
+```
+````
+
+The consequence when debugging: a reported line number is the *first physical line* of a statement,
+and `explain` shows the joined form. If an instruction looks unrecognised, check whether the line
+above it ends in a stray backslash.
 
 ## Global filter
 
@@ -97,6 +138,26 @@ form `{{preset.<name>}}` can insert a partial Boolean expression
 (`docs/Queries/Presets.md:62`). For a portable block, prefer built-ins or include the preset
 definition in the handoff.
 
+**Which map is in force.** Those eight are *defaults*, not a floor. Loaded settings replace the
+preset map wholesale rather than merging into it (`src/Config/Settings.ts:218`), so:
+
+| Vault `data.json` | Presets in force |
+|---|---|
+| has a `presets` key | exactly that map — a built-in the user deleted stays deleted |
+| has only the legacy `includes` key | that map, migrated (`src/Config/Settings.ts:286`) |
+| has neither key | the eight pinned defaults (`src/Config/Settings.ts:113`) |
+
+Both directions produce a wrong answer if you assume the wrong map: a valid built-in looks unknown
+when you assume an empty map, and a deleted built-in looks available when you assume the defaults.
+Ask for `data.json`, or read the `presetsOrigin` field the bundled linters report.
+
+**Presets are not a blind spot.** A preset body is ordinary instruction text, so a risky
+instruction — a `filter by function`, an unsupported keyword, a second `limit` — is exactly as
+consequential inside a preset as in the block, and `explain` is what shows it. The bundled linters
+diagnose every effective statement and name its origin for the same reason. Note that nested
+presets recurse without a cycle guard in the plugin (`src/Query/Query.ts:520`); a cyclic definition
+is a vault-level defect to fix, not something to trigger.
+
 ## Placeholders
 
 Known `query.*` placeholders resolve from the note containing the block. The implementation exposes
@@ -122,8 +183,10 @@ also errors (`docs/Scripting/Placeholders.md:88`).
 
 Inline `{{! ... }}` comments are removed. For whole-line `#` comments, source checks whether the
 line is a comment after the no-file placeholder guard (`src/Query/Query.ts:174`). In a normal note,
-placeholder-looking text in a `#` comment is skipped; without file context it may error first.
-Treat this as implementation behaviour, not a portable technique.
+placeholder-looking text in a `#` comment is skipped; without file context it may error first — so
+the same comment behaves differently depending on whether query-file context exists. This is
+finding **D4** of the paired query-language defect analysis. Treat it as implementation behaviour,
+not a portable technique.
 
 ## Fast reconstruction checklist
 

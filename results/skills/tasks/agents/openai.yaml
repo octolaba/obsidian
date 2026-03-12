@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Tasks"
+  short_description: "Diagnose and write Obsidian Tasks 8.3.0 queries"
+  default_prompt: "Use $obsidian-tasks-plugin to explain why this task is missing from my tasks block and what the smallest safe correction is."

@@ -3,6 +3,17 @@
 Use this reference when behaviour differs by device, another plugin participates, CSS is involved,
 the Tasks API is requested, or a version/settings change is planned.
 
+## Contents
+
+- [Settings that change semantics](#settings-that-change-semantics)
+- [Compatibility and mobile](#compatibility-and-mobile)
+- [Tasks API boundary](#tasks-api-boundary)
+- [Other-plugin integrations](#other-plugin-integrations)
+- [Styling boundary](#styling-boundary)
+- [Integration diagnostic](#integration-diagnostic)
+- [Upgrade and drift checklist](#upgrade-and-drift-checklist)
+- [Validation](#validation)
+
 ## Settings that change semantics
 
 Most settings apply immediately, but some require a restart

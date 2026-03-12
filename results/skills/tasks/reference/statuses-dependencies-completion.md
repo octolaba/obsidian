@@ -3,6 +3,16 @@
 Use this reference for custom checkbox symbols, unexpected “done” membership, status cycles,
 blocked/blocking queries, duplicate IDs, recurrence dependencies, or `onCompletion`.
 
+## Contents
+
+- [Status is symbol + registry entry + type](#status-is-symbol-registry-entry-type)
+- [Transition behaviour](#transition-behaviour)
+- [Dependencies](#dependencies)
+- [On-completion actions](#on-completion-actions)
+- [Diagnostic sequence](#diagnostic-sequence)
+- [Safe status migration](#safe-status-migration)
+- [Validation queries](#validation-queries)
+
 ## Status is symbol + registry entry + type
 
 A checkbox glyph alone does not define semantics. The status registry maps a symbol to:

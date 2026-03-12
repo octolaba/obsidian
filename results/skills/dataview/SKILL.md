@@ -1,6 +1,6 @@
 ---
 name: obsidian-dataview-plugin
-description: Deep, source-verified expertise in the Obsidian Dataview plugin. Use for DQL, DataviewJS, inline queries, metadata/schema design, tasks, CSV, settings and rendering, wrong or missing results, slow dashboards, upgrades, and writing or reviewing an optimal query.
+description: "Deep, source-verified expertise in Obsidian Dataview 0.5.70: DQL and inline DQL in `dataview` fences, DataviewJS, the index and value model, metadata/schema design, task metadata, CSV, settings and rendering, wrong or missing results, slow dashboards, upgrades, and writing or reviewing an optimal query. Use for anything a Dataview query sees or returns; for `tasks` code fences, Tasks-formatted checkboxes and Tasks mutation, use the Obsidian Tasks skill instead."
 source: blacksmithgu/obsidian-dataview
 version: 0.5.70
 basis: source
@@ -20,8 +20,12 @@ plugins. Datacore, general Obsidian plugin development, CSS design, and undocume
 the pinned release are excluded. A live Obsidian run is required for renderer, cache, rewrite, or
 device-specific claims that source inspection cannot reproduce.
 
-This skill is the authoritative operational artifact with identifier `dataview`; no paired deep dive
-currently exists.
+This skill is the authoritative operational artifact for Dataview; no paired deep dive currently
+exists. Questions about `tasks` code fences, Tasks-formatted checkbox fields, Tasks statuses,
+recurrence, or Tasks-driven mutation belong to the Obsidian Tasks skill. Dataview owns what the
+Dataview index sees, including task metadata a `TASK` query returns; ownership of a report such as
+“why is this task missing?” follows the plugin that is expected to display it, and when that is
+unclear, establish which fence and which plugin is involved before answering.
 
 ## Sources and evidence
 
@@ -230,17 +234,36 @@ mobile, upgrade, and plugin-boundary checks are in
 
 ## Bundled tools
 
-All tools are read-only. Run from the copied skill directory:
+The tools never write to the vault. Run them from the copied skill directory. Every linter takes
+the vault positionally or as `--vault PATH`; there is no default, and a `--file` outside the vault
+is rejected rather than scanned.
 
 | Tool | Purpose |
 |---|---|
 | [`dataview-query-lint.mjs`](scripts/dataview-query-lint.mjs): `node scripts/dataview-query-lint.mjs /vault` | Settings-aware DQL/inline/DataviewJS static lint with location, severity, confidence, and fix safety. |
-| Exact query lint: `node scripts/dataview-query-lint.mjs /vault --source-root /checkout --format sarif` | Adds exact syntax and AST checks using the supplied upstream parser; needs that checkout's installed dev dependencies. |
+| Exact query lint: `node scripts/dataview-query-lint.mjs /vault --source-root /checkout --format sarif` | Adds exact syntax and AST checks by building the supplied checkout's own parser. See the trust model below. |
 | [`dataview-vault-lint.mjs`](scripts/dataview-vault-lint.mjs): `node scripts/dataview-vault-lint.mjs /vault --all` | Audits field spelling, types, cardinality, authoring location, duplicate YAML keys, reserved task fields, and tag casing. |
 | [`audit-dataview-queries.mjs`](scripts/audit-dataview-queries.mjs): `node scripts/audit-dataview-queries.mjs /vault` | Compatibility entry point for the original scanner; new automation should use the query linter. |
 | `assets/dataview-doctor/` | Copy into the vault and call with `await dv.view("path/dataview-doctor", input)` for indexed target snapshots, DQL expression checks, full-query target presence, and repeated timings. |
 | [`test.mjs`](scripts/test.mjs): `node scripts/test.mjs` | Cheap fixture integration tests; add `--source-root /checkout` for exact parser coverage. |
-| [`verify.mjs`](scripts/verify.mjs): `node scripts/verify.mjs --source-root /checkout` | Formal artifact, citation, source-identity, link, script, and invariant verification. |
+| [`verify.mjs`](scripts/verify.mjs): `node scripts/verify.mjs --source-root /checkout` | Formal artifact, citation, source-identity, link, fragment, script, and invariant verification. |
+
+Exit codes are shared across the bundled harnesses: `0` clean, `1` findings or a failed artifact
+check, `2` usage error, `3` required material missing, `4` source-identity mismatch.
+
+**Exact-mode trust model.** Static mode executes nothing from the checkout and needs only Node 18+.
+Exact mode is different: it resolves Rollup, `rollup-plugin-typescript2` and the resolve/CommonJS
+plugins *from the supplied checkout*, compiles that checkout's TypeScript, and `require`s the
+result — all in this process, with the caller's privileges. Before any of that, the linter
+fingerprints the checkout's studied material and compares it with the reviewed pin recorded in
+`scripts/fixtures/upstream-identity.json`. A checkout that is not the reviewed pin degrades to
+static mode with a `DVM002` finding, so an exact-mode report can never carry the reviewed-pin label
+for material nobody reviewed; that rejected identity exits `4`, not the generic findings code.
+`--allow-unverified-source-root` parses against another version deliberately; `DVM002` then becomes
+a non-failing provenance note, the report reads `upstream-ast+static (unverified material)`, and its `material`
+block records the fingerprint actually used. Nothing is written to the vault or to the checkout, but
+"read-only" describes vault writes, not code execution — do not point `--source-root` at a checkout
+you would not run.
 
 The static modes are portable and dependency-free on Node 18+. They deliberately do not parse all
 YAML or execute queries against Obsidian's live index. Never auto-apply intent-sensitive rewrites;
@@ -269,6 +292,13 @@ use findings to formulate a corrected query and validate it against examples.
 - Static cost rules cannot know source cardinality, view visibility, device load, or user intent.
 - The checked-in live doctor is syntax-checked and mock-executed, but not E2E-tested in Obsidian.
 - Behaviour after `0.5.70`, Datacore migration, and upstream issue status are unverified here.
+- Sorting is inferred to be substantially more expensive per row than filtering, from repeated
+  expression evaluation in the comparator; no multiplier is claimed, because none was measured.
+- How this skill triggers and routes in a clean context has not been evaluated. Nothing here is
+  evidence about agent behaviour.
+- Fence extraction implements Obsidian's documented CommonMark contract: same character, at least
+  the opening length. A closing fence *longer* than its opener is an inference from that contract,
+  not an observed Obsidian run; confirm it in a live vault before relying on it.
 
 ## Reference map
 

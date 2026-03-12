@@ -7,7 +7,10 @@ import {
     inferDataviewType,
     isTaskReservedField,
     parseArgs,
-    resolveVault,
+    EXIT,
+    TOOL_VERSION,
+    resolveVaultArgument,
+    resolveVaultFile,
     walkMarkdown,
     writeUsageError,
 } from './lib.mjs';
@@ -271,13 +274,12 @@ function main() {
         process.stdout.write(`${USAGE}\n`);
         return;
     }
-    if (args._.length > 1) throw new Error('at most one positional VAULT is allowed');
-    const vault = resolveVault(args.vault ?? args._[0] ?? '.');
+    const vault = resolveVaultArgument(args);
     const format = args.format ?? 'text';
     if (!['text', 'json', 'sarif'].includes(format)) {
         throw new Error('--format must be text, json or sarif');
     }
-    const files = args.file ? [path.resolve(vault, args.file)] : walkMarkdown(vault);
+    const files = args.file ? [resolveVaultFile(vault, args.file, '--file')] : walkMarkdown(vault);
     for (const file of files) {
         if (!fs.existsSync(file) || !fs.statSync(file).isFile()) {
             throw new Error(`Markdown file does not exist: ${file}`);
@@ -287,7 +289,7 @@ function main() {
     const { diagnostics, fields } = analyze(documents);
     const report = {
         tool: 'dataview-vault-lint',
-        version: '1.0.0',
+        version: TOOL_VERSION,
         vault,
         scanned: { files: files.length, fields: fields.length },
         limitations: [
@@ -323,11 +325,11 @@ function main() {
             }
         }
     }
-    if (diagnostics.some(item => item.severity === 'warning')) process.exitCode = 1;
+    if (diagnostics.some(item => item.severity === 'warning')) process.exitCode = EXIT.findings;
 }
 
 try {
     main();
 } catch (error) {
-    writeUsageError(error, USAGE);
+    writeUsageError(error, USAGE, EXIT.usage);
 }

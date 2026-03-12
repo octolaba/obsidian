@@ -2,21 +2,35 @@
 
 import path from 'node:path';
 import {
+    EXIT,
+    STUDIED_PLUGIN_VERSION,
+    TOOL_VERSION,
+    assertFormat,
     buildEffectiveQuery,
+    describeOrigin,
     diagnostic,
+    environmentAssumptions,
     extractTasksBlocks,
+    isHiddenOrigin,
     loadTasksConfig,
     parseArgs,
     parseFrontmatter,
-    printDiagnostics,
     readMarkdown,
     relativeTo,
-    resolveVault,
+    resolveVaultArgument,
+    resolveVaultFile,
     walkMarkdown,
+    writeReport,
     writeUsageError,
 } from './lib.mjs';
 
-const USAGE = `usage: node tasks-query-lint.mjs --vault PATH [--file NOTE.md] [--format text|json] [--js-enabled|--js-disabled]`;
+const USAGE = `usage: node tasks-query-lint.mjs [VAULT] [--vault PATH] [--file NOTE.md] [--format text|json|sarif] [--js-enabled|--js-disabled]`;
+
+const LIMITATIONS = [
+    'Static analysis only: no Obsidian index, no rendering and no JavaScript execution.',
+    'Preset and placeholder expansion reproduces the pinned algorithm but stops at a preset cycle instead of recursing, so a cyclic definition is reported rather than executed.',
+    'Instruction recognition uses a ported grammar subset; an unrecognised instruction may still be valid in a newer release.',
+];
 
 const SORT_FIELDS = [
     'status.type',
@@ -40,31 +54,6 @@ const SORT_FIELDS = [
     'due',
     'id',
 ];
-const GROUP_FIELDS = [
-    'status.type',
-    'status.name',
-    'cancelled',
-    'scheduled',
-    'recurrence',
-    'recurring',
-    'priority',
-    'urgency',
-    'created',
-    'backlink',
-    'happens',
-    'filename',
-    'heading',
-    'folder',
-    'status',
-    'start',
-    'done',
-    'path',
-    'root',
-    'tags',
-    'due',
-    'id',
-];
-
 function knownInstruction(line) {
     const value = line.trim();
     if (!value || value.startsWith('#')) return true;
@@ -92,7 +81,7 @@ function knownInstruction(line) {
         /^preset .+$/i,
     ];
     if (patterns.some((pattern) => pattern.test(value))) return true;
-    if (/\b(?:AND|OR|XOR|NOT)\b/.test(value) && /[\[({"].+[\])}"]/.test(value)) return true;
+    if (/\b(?:AND|OR|XOR|NOT)\b/.test(value) && /[[({"].+[\])}"]/.test(value)) return true;
     return false;
 }
 
@@ -206,7 +195,7 @@ function lineDiagnostics(line, location, context) {
         !customAny &&
         !/^not done$/i.test(value) &&
         /\b(and|or|xor|not)\b/.test(value) &&
-        /[\[({"].+[\])}"]/.test(value)
+        /[[({"].+[\])}"]/.test(value)
     ) {
         add(
             'error',
@@ -260,21 +249,11 @@ function lineDiagnostics(line, location, context) {
 
     for (const body of regexBodies(value)) {
         if (body.length > 500) {
-            add('error', 'TQ017-regex-too-long', 'Tasks 8.3.0 rejects regex patterns longer than 500 characters');
+            add('error', 'TQ017-regex-too-long', `Tasks ${STUDIED_PLUGIN_VERSION} rejects regex patterns longer than 500 characters`);
         }
         if (/\([^)]*[+*][^)]*\)[+*{]/.test(body)) {
             add('error', 'TQ018-regex-nested-quantifier', 'nested quantifiers are rejected as a performance risk');
         }
-    }
-
-    for (const match of value.matchAll(/\{\{preset\.([^}]+)\}\}/g)) {
-        if (!(match[1] in context.presets)) {
-            add('error', 'TQ019-unknown-preset', `unknown preset “${match[1]}”`);
-        }
-    }
-    const directPreset = /^preset\s+(.+?)\s*$/i.exec(value);
-    if (directPreset && !(directPreset[1] in context.presets)) {
-        add('error', 'TQ019-unknown-preset', `unknown preset “${directPreset[1]}”`);
     }
 
     for (const match of value.matchAll(/\{\{query\.file\.([A-Za-z0-9_]+)(?:\([^}]*\))?\}\}/g)) {
@@ -299,7 +278,7 @@ function lineDiagnostics(line, location, context) {
         add(
             'error',
             'TQ021-unknown-instruction',
-            'instruction is not recognised by the static Tasks 8.3.0 grammar; verify spelling with explain',
+            `instruction is not recognised by the static Tasks ${STUDIED_PLUGIN_VERSION} grammar; verify spelling with explain`,
         );
     }
     return findings;
@@ -313,8 +292,50 @@ function lintBlock(block, frontmatter, settings, file, jsState) {
         presets: settings.presets ?? {},
         effectiveText: effective.lines.join('\n'),
     };
-    for (const entry of block.lines) {
-        findings.push(...lineDiagnostics(entry.text, { file, line: entry.line }, context));
+
+    // Every effective logical statement is linted, whatever produced it, so a risky instruction
+    // reached through a preset or the global query cannot look clean.
+    for (const statement of effective.statements) {
+        const hidden = isHiddenOrigin(statement.origin);
+        const location = { file, line: statement.origin.line ?? block.startLine };
+        for (const finding of lineDiagnostics(statement.text, location, context)) {
+            findings.push(
+                hidden
+                    ? {
+                          ...finding,
+                          origin: describeOrigin(statement.origin),
+                          message: `effective-query context (${describeOrigin(statement.origin)}): ${finding.message}`,
+                      }
+                    : { ...finding, origin: describeOrigin(statement.origin) },
+            );
+        }
+    }
+
+    for (const unknown of effective.unknownPresets) {
+        findings.push(
+            diagnostic(
+                file,
+                unknown.origin.line ?? block.startLine,
+                1,
+                'error',
+                'TQ019-unknown-preset',
+                `unknown preset “${unknown.name}”; Tasks resolves presets from its settings, and this vault supplies them from ${settings.presetsOrigin}`,
+                { origin: describeOrigin(unknown.origin) },
+            ),
+        );
+    }
+    for (const cycle of effective.presetCycles) {
+        findings.push(
+            diagnostic(
+                file,
+                cycle.origin.line ?? block.startLine,
+                1,
+                'error',
+                'TQ025-preset-cycle',
+                `preset cycle ${cycle.cycle.join(' → ')}; the plugin would recurse without a guard`,
+                { origin: describeOrigin(cycle.origin) },
+            ),
+        );
     }
 
     const effectiveNonComments = effective.lines.filter((line) => line.trim() && !line.trim().startsWith('#'));
@@ -360,17 +381,6 @@ function lintBlock(block, frontmatter, settings, file, jsState) {
             ),
         );
     }
-
-    // Hidden layers are linted at the block opening so their location is not mistaken for block text.
-    const hidden = [...effective.global, ...effective.defaults];
-    for (const hiddenLine of hidden) {
-        for (const finding of lineDiagnostics(hiddenLine, { file, line: block.startLine }, context)) {
-            findings.push({
-                ...finding,
-                message: `effective-query context: ${finding.message}`,
-            });
-        }
-    }
     return findings;
 }
 
@@ -381,22 +391,22 @@ try {
     });
     if (args.help) {
         process.stdout.write(`${USAGE}\n`);
-        process.exit(0);
+        process.exit(EXIT.clean);
     }
     if (args['js-enabled'] && args['js-disabled']) {
         throw new Error('--js-enabled and --js-disabled are mutually exclusive');
     }
-    const format = args.format ?? 'text';
-    if (!['text', 'json'].includes(format)) throw new Error('--format must be text or json');
-    const vault = resolveVault(args.vault);
+    const format = assertFormat(args.format ?? 'text');
+    const vault = resolveVaultArgument(args);
     const config = loadTasksConfig(vault);
     const jsState = args['js-enabled'] ? 'enabled' : args['js-disabled'] ? 'disabled' : 'unknown';
-    const findings = [];
+    const environment = environmentAssumptions(config, relativeTo(vault, config.manifestPath));
+    const findings = [...environment.diagnostics];
     let blocks = 0;
     let files = walkMarkdown(vault);
     if (args.file) {
-        const selected = path.resolve(vault, args.file);
-        if (!selected.startsWith(`${vault}${path.sep}`) || !files.includes(selected)) {
+        const selected = resolveVaultFile(vault, args.file, '--file');
+        if (!files.includes(selected)) {
             throw new Error(`--file must name a Markdown file inside the vault: ${args.file}`);
         }
         files = [selected];
@@ -413,23 +423,32 @@ try {
                     diagnostic(
                         relative,
                         block.startLine,
-                        1,
+                        block.startColumn,
                         'error',
                         'TQ024-unclosed-block',
-                        'tasks code fence is not closed',
+                        `tasks code fence opened with ${block.fence} is not closed by a fence of the same character and at least the same length`,
                     ),
                 );
             }
         }
     }
-    printDiagnostics(findings, format, {
-        tool: 'tasks-query-lint',
-        vault: path.resolve(vault),
-        tasksVersion: config.manifest?.version ?? null,
-        jsState,
-        blocks,
-    });
-    process.exitCode = findings.length ? 1 : 0;
+    writeReport(
+        {
+            tool: 'tasks-query-lint',
+            toolVersion: TOOL_VERSION,
+            studiedPluginVersion: STUDIED_PLUGIN_VERSION,
+            vault: path.resolve(vault),
+            tasksVersion: config.manifest?.version ?? null,
+            presetsOrigin: config.settings.presetsOrigin,
+            jsState,
+            blocks,
+            assumptions: environment.assumptions,
+            limitations: LIMITATIONS,
+            diagnostics: findings,
+        },
+        format,
+    );
+    process.exitCode = findings.length ? EXIT.findings : EXIT.clean;
 } catch (error) {
     writeUsageError(error, USAGE);
 }

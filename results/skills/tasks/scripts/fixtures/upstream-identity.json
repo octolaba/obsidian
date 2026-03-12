@@ -1,0 +1,8 @@
+{
+  "source": "obsidian-tasks-group/obsidian-tasks",
+  "version": "8.3.0",
+  "commit": "e16dbc2cf509420459ea04094a1d834ae89e0019",
+  "materialAlgorithm": "sha256(path NUL content NUL), sorted paths, over src, docs, manifest.json, package.json and versions.json",
+  "materialFiles": 512,
+  "materialSha256": "ef7c6b591d7f5096ef0b926ed0f376b15c47d5a4540061fc23a00096c527eadd"
+}

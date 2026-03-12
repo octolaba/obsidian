@@ -159,8 +159,11 @@ fails with `Every row during operation 'where' failed with an error` (`src/query
 
 Multi-key, first key wins ties downward. Direction defaults to ascending
 (`src/query/parse.ts:102`). Implemented by evaluating `<` and then `>` through the binary-operator
-table for each comparison (`src/query/engine.ts:90`) — two full expression evaluations per
-comparison, which is why sorting is ~25× the per-row cost of filtering.
+table for each comparison (`src/query/engine.ts:90`), so each comparison costs two full expression
+evaluations and a comparison sort performs many comparisons per row. **Inference:** sorting is
+therefore substantially more expensive per row than a single filtering pass. No multiplier is given
+because none was measured here; measure your own query with the live doctor's repeated-timing check
+before trading correctness for a rewrite.
 
 **A row whose sort key errors is dropped from the result entirely** (`src/query/engine.ts:77`), not
 merely sorted last.

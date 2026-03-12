@@ -3,6 +3,19 @@
 Use this reference for creating/editing tasks, Auto-Suggest, checkbox actions, postponing, mobile
 input, accessibility, field ordering, or Emoji/Dataview confusion.
 
+## Contents
+
+- [Choose an authoring path](#choose-an-authoring-path)
+- [Recognition before suggestion](#recognition-before-suggestion)
+- [One selected format at a time](#one-selected-format-at-a-time)
+- [Emoji format](#emoji-format)
+- [Dataview format](#dataview-format)
+- [Status-changing paths](#status-changing-paths)
+- [Postponing](#postponing)
+- [Format diagnostic](#format-diagnostic)
+- [Safe format migration](#safe-format-migration)
+- [Validation](#validation)
+
 ## Choose an authoring path
 
 | Need | Preferred Tasks path | Important boundary |

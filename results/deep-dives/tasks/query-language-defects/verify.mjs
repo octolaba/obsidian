@@ -10,7 +10,7 @@
 //         Runnable from any working directory, and unaffected by moving this file within the repo.
 // Exit:   0 = every expectation held, 1 = at least one differed, 2 = pin drift or missing submodule
 
-import { existsSync, readFileSync } from 'node:fs';
+import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -242,6 +242,74 @@ check('N3', 'closing parenthesis in filter text is stripped as Boolean structure
 const semicolonParts = splitParenthesisedBoolean('(description includes (maybe);) AND (not done)');
 check('N3', 'a non-delimiter suffix preserves the inner closing parenthesis',
     'description includes (maybe);', semicolonParts[1]);
+
+// ---------------------------------------------------------------------------------------------
+// The join with the operational skill: same finding IDs, same pin, declared authority and order.
+//
+// The skill cannot link here — it is designed to be extracted as a self-contained directory — so
+// the `D1`-`D5` markers are the join key, and it has to be checked from both sides. This is the
+// repository side; the skill's own verifier asserts the same ID set from its side.
+// ---------------------------------------------------------------------------------------------
+const SKILL = 'results/skills/tasks';
+const here = readFileSync(join(dirname(fileURLToPath(import.meta.url)), 'README.md'), 'utf8');
+const deepDiveIds = [...new Set([...here.matchAll(/^## (D\d+) /gm)].map((match) => match[1]))].sort();
+
+const skillDir = join(repoRoot, SKILL);
+if (!existsSync(join(skillDir, 'SKILL.md'))) {
+    console.error(`\nCompanion skill not found at ${SKILL}; cannot verify the artifact join.`);
+    process.exit(2);
+}
+
+function markdownUnder(dir) {
+    const out = [];
+    const visit = (current) => {
+        for (const entry of readdirSync(current, { withFileTypes: true })) {
+            const absolute = join(current, entry.name);
+            if (entry.isDirectory()) visit(absolute);
+            else if (entry.isFile() && entry.name.endsWith('.md')) out.push(absolute);
+        }
+    };
+    visit(dir);
+    return out.sort();
+}
+
+const skillMarkdown = markdownUnder(skillDir);
+const skillIds = [
+    ...new Set(
+        skillMarkdown.flatMap((file) =>
+            [...readFileSync(file, 'utf8').matchAll(/\*\*(D\d+)\*\*/g)].map((match) => match[1]),
+        ),
+    ),
+].sort();
+
+console.log('\nArtifact join');
+check('JOIN', 'the deep dive and the skill carry the same finding IDs', deepDiveIds, skillIds);
+
+const skillMain = readFileSync(join(skillDir, 'SKILL.md'), 'utf8');
+const deepDiveVersion = /^version:\s*(\S+)\s*$/m.exec(here)?.[1] ?? null;
+const skillVersion = /^version:\s*(\S+)\s*$/m.exec(skillMain)?.[1] ?? null;
+check('JOIN', 'both artifacts record the same pinned version', deepDiveVersion, skillVersion);
+check(
+    'JOIN',
+    'the pinned version is the version this harness just ran against',
+    JSON.parse(read('manifest.json')).version,
+    deepDiveVersion,
+);
+
+const navigation = /## Repository navigation \(remove when extracting this skill\)([\s\S]*?)(?:\n## |$)/.exec(
+    skillMain,
+);
+check(
+    'JOIN',
+    'the skill declares which artifact is authoritative and the update order',
+    true,
+    Boolean(
+        navigation &&
+            navigation[1].includes('query-language-defects') &&
+            /authoritative/.test(navigation[1]) &&
+            /update the deep dives first/i.test(navigation[1]),
+    ),
+);
 
 // ---------------------------------------------------------------------------------------------
 console.log(`\n${failures === 0 ? 'All expectations held.' : `${failures} expectation(s) differed.`}`);

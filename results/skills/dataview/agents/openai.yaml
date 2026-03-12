@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Dataview"
+  short_description: "Diagnose and write Dataview 0.5.70 queries"
+  default_prompt: "Use $obsidian-dataview-plugin to explain why this Dataview query returns the wrong rows and to write the smallest correct replacement."

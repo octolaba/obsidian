@@ -1,10 +1,14 @@
 #!/usr/bin/env node
 
 import fs from 'node:fs';
-import path from 'node:path';
 import {
+    EXIT,
+    STUDIED_PLUGIN_VERSION,
+    TOOL_VERSION,
     buildEffectiveQuery,
     dateCompare,
+    describeOrigin,
+    environmentAssumptions,
     extractTaskLines,
     extractTasksBlocks,
     isValidCalendarDate,
@@ -15,13 +19,20 @@ import {
     readMarkdown,
     relativeTo,
     resolveSimpleDate,
-    resolveVault,
+    resolveVaultArgument,
+    resolveVaultFile,
     statusRegistry,
     todayString,
     writeUsageError,
 } from './lib.mjs';
 
-const USAGE = `usage: node tasks-why-not.mjs --vault PATH --task-file FILE --task-line N --query-file FILE [--query-block N] [--today YYYY-MM-DD] [--format text|json]`;
+const USAGE = `usage: node tasks-why-not.mjs [VAULT] [--vault PATH] --task-file FILE --task-line N --query-file FILE [--query-block N] [--today YYYY-MM-DD] [--format text|json]`;
+
+const LIMITATIONS = [
+    'Only a documented subset of Tasks filters is evaluated; Boolean combinations, limits, blocking relationships and custom JavaScript are reported as unsupported rather than guessed.',
+    'A verdict of “all supported filters pass” is not a claim that Obsidian will display the task: rendering, tree mode and layout are outside this tool.',
+    'Placeholders are expanded for the documented query.file properties only.',
+];
 
 function queryFileValues(relative) {
     const normalized = relative.replace(/\\/g, '/');
@@ -233,9 +244,15 @@ function printReport(report, format) {
     report.effectiveQuery.forEach((line) => process.stdout.write(`  ${line}\n`));
     for (const evaluation of report.evaluations) {
         const marker = evaluation.ignored ? 'skip' : evaluation.supported ? (evaluation.match ? 'pass' : 'REJECT') : 'unknown';
-        process.stdout.write(`  [${marker}] ${evaluation.instruction}${evaluation.detail ? ` — ${evaluation.detail}` : ''}${evaluation.reason ? ` — ${evaluation.reason}` : ''}\n`);
+        process.stdout.write(`  [${marker}] (${evaluation.origin}) ${evaluation.instruction}${evaluation.detail ? ` — ${evaluation.detail}` : ''}${evaluation.reason ? ` — ${evaluation.reason}` : ''}\n`);
     }
     process.stdout.write(`Verdict: ${report.verdict}\n`);
+    for (const assumption of report.assumptions ?? []) {
+        process.stdout.write(`Assumption: ${assumption}\n`);
+    }
+    for (const limitation of report.limitations ?? []) {
+        process.stdout.write(`Limitation: ${limitation}\n`);
+    }
 }
 
 try {
@@ -245,21 +262,18 @@ try {
     });
     if (args.help) {
         process.stdout.write(`${USAGE}\n`);
-        process.exit(0);
+        process.exit(EXIT.clean);
     }
-    for (const required of ['vault', 'task-file', 'task-line', 'query-file']) {
+    for (const required of ['task-file', 'task-line', 'query-file']) {
         if (!args[required]) throw new Error(`--${required} is required`);
     }
     const format = args.format ?? 'text';
     if (!['text', 'json'].includes(format)) throw new Error('--format must be text or json');
-    const vault = resolveVault(args.vault);
+    const vault = resolveVaultArgument(args);
     const taskRelative = args['task-file'].replace(/\\/g, '/');
     const queryRelative = args['query-file'].replace(/\\/g, '/');
-    const taskAbsolute = path.resolve(vault, taskRelative);
-    const queryAbsolute = path.resolve(vault, queryRelative);
-    if (!taskAbsolute.startsWith(`${vault}${path.sep}`) || !queryAbsolute.startsWith(`${vault}${path.sep}`)) {
-        throw new Error('task/query files must be inside the vault');
-    }
+    const taskAbsolute = resolveVaultFile(vault, taskRelative, '--task-file');
+    const queryAbsolute = resolveVaultFile(vault, queryRelative, '--query-file');
     if (!fs.existsSync(taskAbsolute)) throw new Error(`task file not found: ${taskRelative}`);
     if (!fs.existsSync(queryAbsolute)) throw new Error(`query file not found: ${queryRelative}`);
     const taskLineNumber = Number(args['task-line']);
@@ -284,7 +298,10 @@ try {
     if (!block) throw new Error(`query block ${blockNumber} not found in ${queryRelative}`);
     const frontmatter = parseFrontmatter(queryDocument.lines).data;
     const effective = buildEffectiveQuery(block, frontmatter, config.settings);
-    const expanded = effective.lines.map((line) => expandSimplePlaceholders(line, queryRelative, frontmatter));
+    const expanded = effective.statements.map((statement) => ({
+        ...expandSimplePlaceholders(statement.text, queryRelative, frontmatter),
+        origin: describeOrigin(statement.origin),
+    }));
     const evaluations = [];
     let rejected = null;
     let indeterminate = false;
@@ -292,6 +309,7 @@ try {
         if (item.unsupported) {
             const result = {
                 instruction: item.output,
+                origin: item.origin,
                 supported: false,
                 reason: 'placeholder could not be resolved statically',
             };
@@ -304,7 +322,7 @@ try {
             today: todayString(args.today),
             globalFilter: String(config.settings.globalFilter ?? ''),
         });
-        const evaluation = { instruction: item.output, ...result };
+        const evaluation = { instruction: item.output, origin: item.origin, ...result };
         evaluations.push(evaluation);
         if (!result.ignored && result.supported === false) indeterminate = true;
         if (!result.ignored && result.supported && result.match === false && rejected === null) {
@@ -312,23 +330,34 @@ try {
         }
     }
 
+    const queryErrors = [
+        ...effective.unknownPresets.map((item) => `unknown preset "${item.name}"`),
+        ...effective.presetCycles.map((item) => `preset cycle ${item.cycle.join(' → ')}`),
+    ];
+
+    const environment = environmentAssumptions(config, relativeTo(vault, config.manifestPath));
     let verdict;
     let exitCode;
-    if (!indexed) {
+    if (queryErrors.length) {
+        verdict = `query error before filtering: ${queryErrors.join('; ')}`;
+        exitCode = EXIT.findings;
+    } else if (!indexed) {
         verdict = `definite rejection before querying: missing global-filter substring ${JSON.stringify(config.settings.globalFilter)}`;
-        exitCode = 1;
+        exitCode = EXIT.findings;
     } else if (rejected) {
         verdict = `definite rejection by: ${rejected.instruction}`;
-        exitCode = 1;
+        exitCode = EXIT.findings;
     } else if (indeterminate) {
         verdict = 'indeterminate: every supported filter passed, but at least one instruction needs Tasks runtime semantics';
-        exitCode = 3;
+        exitCode = EXIT.indeterminate;
     } else {
         verdict = 'all supported filters pass; grouping/layout cannot remove the task, and no task limit was present';
-        exitCode = 0;
+        exitCode = EXIT.clean;
     }
     const report = {
         tool: 'tasks-why-not',
+        toolVersion: TOOL_VERSION,
+        studiedPluginVersion: STUDIED_PLUGIN_VERSION,
         tasksVersion: config.manifest?.version ?? null,
         today: todayString(args.today),
         indexed,
@@ -353,9 +382,12 @@ try {
         },
         query: { file: queryRelative, block: blockNumber },
         effectiveQuery: expanded.map((entry) => entry.output),
+        queryErrors,
         evaluations,
         firstRejectingInstruction: rejected?.instruction ?? null,
         verdict,
+        assumptions: environment.assumptions,
+        limitations: LIMITATIONS,
     };
     printReport(report, format);
     process.exitCode = exitCode;

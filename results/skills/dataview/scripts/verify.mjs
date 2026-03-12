@@ -1,17 +1,31 @@
 #!/usr/bin/env node
 
-import crypto from 'node:crypto';
 import fs from 'node:fs';
 import path from 'node:path';
 import { spawnSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
-import { parseArgs, readJson, toPosix } from './lib.mjs';
+import { EXIT, parseArgs, readJson, toPosix } from './lib.mjs';
+import {
+    IDENTITY,
+    IDENTITY_STATUS,
+    markdownFiles,
+    primaryFingerprint,
+    sha256File,
+    verifyPrimaryIdentity,
+} from './identity.mjs';
 
 const EXPECTED_SOURCE = 'blacksmithgu/obsidian-dataview';
 const EXPECTED_VERSION = '0.5.70';
+
+/**
+ * The runtime skill name and the storage path are independent namespaces: each is pinned to its
+ * own constant so that renaming one can never be masked by renaming the other.
+ */
+const EXPECTED_SKILL_NAME = 'obsidian-dataview-plugin';
+const EXPECTED_DIRECTORY_BASENAME = 'dataview';
+
 const SCRIPT_ROOT = path.dirname(fileURLToPath(import.meta.url));
 const SKILL_ROOT = path.dirname(SCRIPT_ROOT);
-const IDENTITY = readJson(path.join(SCRIPT_ROOT, 'fixtures', 'upstream-identity.json'));
 const USAGE =
     'usage: node verify.mjs [--source-root PATH] [--obsidian-api-root PATH] [--obsidian-help-root PATH] [--format text|json]';
 
@@ -50,40 +64,41 @@ function filesUnder(root) {
     return files.sort();
 }
 
-function markdownFiles(root) {
-    return filesUnder(root).filter(file => file.endsWith('.md'));
-}
-
-function sha256File(file) {
-    return crypto.createHash('sha256').update(fs.readFileSync(file)).digest('hex');
-}
-
-function primaryFingerprint(root) {
-    const files = [];
-    for (const relative of ['src', 'docs/docs']) {
-        const directory = path.join(root, relative);
-        if (!fs.existsSync(directory)) return null;
-        files.push(...filesUnder(directory));
-    }
-    for (const relative of ['manifest.json', 'package.json', 'CHANGELOG.md']) {
-        const file = path.join(root, relative);
-        if (!fs.existsSync(file)) return null;
-        files.push(file);
-    }
-    files.sort();
-    const hash = crypto.createHash('sha256');
-    for (const file of files) {
-        hash.update(`${toPosix(path.relative(root, file))}\0`);
-        hash.update(fs.readFileSync(file));
-        hash.update('\0');
-    }
-    return { files: files.length, sha256: hash.digest('hex') };
-}
-
 function sourceLines(root, relative) {
     const absolute = path.join(root, relative);
     if (!fs.existsSync(absolute) || !fs.statSync(absolute).isFile()) return null;
     return fs.readFileSync(absolute, 'utf8').replace(/\r\n?/g, '\n').split('\n');
+}
+
+/** Heading anchors, so a link fragment is checked and not only its target file. */
+function headingAnchors(file, cache) {
+    if (cache.has(file)) return cache.get(file);
+    const anchors = new Set();
+    const text = fs.readFileSync(file, 'utf8').replace(/\r\n?/g, '\n');
+    let fence = null;
+    for (const line of text.split('\n')) {
+        const fenceMatch = /^\s*(`{3,}|~{3,})/.exec(line);
+        if (fenceMatch) {
+            if (!fence) fence = fenceMatch[1][0];
+            else if (fence === fenceMatch[1][0]) fence = null;
+            continue;
+        }
+        if (fence) continue;
+        const heading = /^(#{1,6})\s+(.*?)\s*$/.exec(line);
+        if (heading) anchors.add(slugifyHeading(heading[2]));
+    }
+    cache.set(file, anchors);
+    return anchors;
+}
+
+function slugifyHeading(value) {
+    return value
+        .toLowerCase()
+        .replace(/`/g, '')
+        .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
+        .replace(/[^\p{Letter}\p{Number}\s-]/gu, '')
+        .trim()
+        .replace(/\s+/g, '-');
 }
 
 function parseFrontmatter(text) {
@@ -123,12 +138,13 @@ function verifyIdentity(primary, apiRoot, helpRoot, checks) {
         `${fingerprint?.files ?? 'missing'} vs ${IDENTITY.materialFiles}`,
         'identity',
     );
+    const resolved = verifyPrimaryIdentity(primary);
     assertion(
         checks,
         'primary-material-sha256',
-        fingerprint?.sha256 === IDENTITY.materialSha256,
+        resolved.status === IDENTITY_STATUS.verified,
         'primary source-content fingerprint matches the reviewed pin',
-        fingerprint?.sha256 ?? 'missing',
+        resolved.reason ?? fingerprint?.sha256 ?? 'missing',
         'identity',
     );
 
@@ -267,7 +283,20 @@ function verifySkill(primary, apiRoot, helpRoot, checks) {
     const main = fs.readFileSync(mainPath, 'utf8').replace(/\r\n?/g, '\n');
     const frontmatter = parseFrontmatter(main);
     assertion(checks, 'skill-frontmatter', Boolean(frontmatter), 'SKILL.md has YAML frontmatter');
-    assertion(checks, 'skill-name', frontmatter?.name === 'dataview', 'skill name is dataview', frontmatter?.name);
+    assertion(
+        checks,
+        'skill-name',
+        frontmatter?.name === EXPECTED_SKILL_NAME,
+        `skill name is exactly ${EXPECTED_SKILL_NAME}`,
+        frontmatter?.name,
+    );
+    assertion(
+        checks,
+        'skill-directory-basename',
+        path.basename(SKILL_ROOT) === EXPECTED_DIRECTORY_BASENAME,
+        `skill directory basename is exactly ${EXPECTED_DIRECTORY_BASENAME}`,
+        path.basename(SKILL_ROOT),
+    );
     assertion(
         checks,
         'skill-description',
@@ -277,6 +306,14 @@ function verifySkill(primary, apiRoot, helpRoot, checks) {
             !/[<>]/.test(frontmatter.description),
         'description is usable for triggering and portable frontmatter',
         `${frontmatter?.description?.length ?? 0} characters`,
+    );
+    assertion(
+        checks,
+        'description-version-boundary',
+        typeof frontmatter?.description === 'string' &&
+            frontmatter.description.includes(EXPECTED_VERSION),
+        `description names the studied version ${EXPECTED_VERSION}, so the trigger surface states its boundary`,
+        frontmatter?.description,
     );
     assertion(
         checks,
@@ -349,7 +386,23 @@ function verifySkill(primary, apiRoot, helpRoot, checks) {
         );
     }
 
+    const codexMetadataPath = path.join(SKILL_ROOT, 'agents', 'openai.yaml');
+    const codexMetadata = fs.existsSync(codexMetadataPath)
+        ? fs.readFileSync(codexMetadataPath, 'utf8')
+        : '';
+    assertion(
+        checks,
+        'codex-ui-metadata',
+        codexMetadata.includes('display_name:') &&
+            codexMetadata.includes('short_description:') &&
+            codexMetadata.includes(`$${EXPECTED_SKILL_NAME}`),
+        'agents/openai.yaml carries UI metadata whose default prompt names the runtime skill',
+        codexMetadata ? 'present' : 'missing',
+    );
+
     const requiredFiles = [
+        'agents/openai.yaml',
+        'scripts/identity.mjs',
         'scripts/lib.mjs',
         'scripts/upstream-parser.mjs',
         'scripts/dataview-query-lint.mjs',
@@ -361,6 +414,7 @@ function verifySkill(primary, apiRoot, helpRoot, checks) {
         'scripts/fixtures/dataview-config/manifest.json',
         'scripts/fixtures/dataview-config/data.json',
         'scripts/fixtures/vault/BadQueries.md',
+        'scripts/fixtures/vault/Callouts.md',
         'scripts/fixtures/vault/CleanQueries.md',
         'scripts/fixtures/vault/Extraction.md',
         'scripts/fixtures/vault/Projects/Alpha.md',
@@ -397,32 +451,47 @@ function verifySkill(primary, apiRoot, helpRoot, checks) {
     };
     const markdown = markdownFiles(SKILL_ROOT);
     const linkErrors = [];
+    const fragmentErrors = [];
     const citationErrors = [];
+    const unrecognisedCitations = [];
     const shorthand = [];
     const unlined = [];
+    const anchorCache = new Map();
     for (const file of markdown) {
         const relativeFile = toPosix(path.relative(SKILL_ROOT, file));
         const text = fs.readFileSync(file, 'utf8').replace(/\r\n?/g, '\n');
+        const recognisedCitations = new Set();
         for (const match of text.matchAll(/\[[^\]]*\]\(([^)]+)\)/g)) {
             const raw = match[1].trim();
-            if (!raw || raw.startsWith('#')) continue;
+            if (!raw) continue;
             if (/^[a-z]+:\/\//i.test(raw) || path.isAbsolute(raw)) {
                 linkErrors.push(`${relativeFile}: non-portable link ${raw}`);
                 continue;
             }
-            const target = decodeURIComponent(raw.split('#')[0]);
-            const resolved = path.resolve(path.dirname(file), target);
+            const [rawTarget, ...rest] = raw.split('#');
+            const fragment = rest.join('#');
+            const target = decodeURIComponent(rawTarget);
+            const resolved = target === '' ? file : path.resolve(path.dirname(file), target);
             if (
                 (resolved !== SKILL_ROOT && !resolved.startsWith(`${SKILL_ROOT}${path.sep}`)) ||
                 !fs.existsSync(resolved)
             ) {
                 linkErrors.push(`${relativeFile}: unresolved/outside link ${raw}`);
+                continue;
+            }
+            if (fragment && resolved.endsWith('.md')) {
+                const wanted = slugifyHeading(decodeURIComponent(fragment).replace(/-/g, ' '));
+                const anchors = headingAnchors(resolved, anchorCache);
+                if (!anchors.has(slugifyHeading(decodeURIComponent(fragment))) && !anchors.has(wanted)) {
+                    fragmentErrors.push(`${relativeFile}: unresolved heading fragment ${raw}`);
+                }
             }
         }
 
         for (const match of text.matchAll(
             /`((?:src|docs)\/[^`\n]+?|manifest\.json|package\.json|CHANGELOG\.md):(\d+)`/g,
         )) {
+            recognisedCitations.add(match[0]);
             const lines = sourceLines(primary, match[1]);
             const line = Number(match[2]);
             if (!lines) citationErrors.push(`${relativeFile}: missing primary source ${match[1]}`);
@@ -433,6 +502,7 @@ function verifySkill(primary, apiRoot, helpRoot, checks) {
         for (const match of text.matchAll(
             /`(obsidian-api|obsidian-help)@([0-9a-f]{7,40}):([^`\n]+?):(\d+)`/g,
         )) {
+            recognisedCitations.add(match[0]);
             const [, source, revision, relative, lineRaw] = match;
             const expectedRevision = source === 'obsidian-api' ? 'cc174432' : 'a97de34c';
             const lines = roots[source] ? sourceLines(roots[source], relative) : null;
@@ -453,11 +523,40 @@ function verifySkill(primary, apiRoot, helpRoot, checks) {
                 unlined.push(`${relativeFile}: unlined source reference ${match[1]}`);
             }
         }
+        // A citation that looks like path:line but was not consumed by the parsers above is a
+        // silent gap: it would never be checked against the pin.
+        for (const match of text.matchAll(/`([^`\n]*\.[A-Za-z0-9]{1,6}:\d+)`/g)) {
+            if (!/[/@]/.test(match[1])) continue;
+            if (!recognisedCitations.has(match[0])) {
+                unrecognisedCitations.push(`${relativeFile}: unrecognised citation ${match[1]}`);
+            }
+        }
     }
     assertion(checks, 'portable-links', linkErrors.length === 0, 'all Markdown links resolve inside the skill', linkErrors.join('; '));
+    assertion(checks, 'heading-fragments', fragmentErrors.length === 0, 'every link fragment resolves to a heading in its target', fragmentErrors.join('; '));
+    assertion(checks, 'citations-parsed', unrecognisedCitations.length === 0, 'every path:line citation is understood by the citation parser', unrecognisedCitations.join('; '));
     assertion(checks, 'source-citations', citationErrors.length === 0, 'all full path:line citations resolve to nonblank pinned evidence', citationErrors.join('; '));
     assertion(checks, 'no-shorthand-citations', shorthand.length === 0, 'citations repeat their full source path', shorthand.join('; '));
     assertion(checks, 'no-unlined-source-references', unlined.length === 0, 'concrete source-path code spans include line numbers', unlined.join('; '));
+
+    // A shebang and the executable bit go together, and only on an entry point.
+    const modeErrors = [];
+    for (const relative of filesUnder(path.join(SKILL_ROOT, 'scripts')).map(file => toPosix(path.relative(SKILL_ROOT, file)))) {
+        if (!relative.endsWith('.mjs')) continue;
+        const absolute = path.join(SKILL_ROOT, relative);
+        const shebang = fs.readFileSync(absolute, 'utf8').startsWith('#!');
+        const executable = (fs.statSync(absolute).mode & 0o111) !== 0;
+        if (shebang !== executable) {
+            modeErrors.push(`${relative}: shebang=${shebang} executable=${executable}`);
+        }
+    }
+    assertion(
+        checks,
+        'entry-point-modes',
+        modeErrors.length === 0,
+        'every script with a shebang is executable and every library is not',
+        modeErrors.join('; '),
+    );
 
     const syntaxFiles = requiredFiles
         .filter(relative => /\.(?:mjs|js)$/.test(relative))

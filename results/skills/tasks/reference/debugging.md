@@ -1,16 +1,38 @@
----
-source: obsidian-tasks-group/obsidian-tasks
-version: 8.3.0
-basis: source
----
-
 # Debugging Tasks queries
 
-A protocol, the available instruments, and a cause catalogue indexed by symptom.
+Use this reference when a task is missing, extra, or wrong in a `tasks` result, when a query
+reports an error, or when results look stale. It contains a protocol, the available instruments,
+and a cause catalogue indexed by symptom.
 
-Part of the [Tasks skill](../SKILL.md); its scope, prerequisites, evidence base and
-claim-marking conventions apply here. Paths are relative to
-`research/plugins/obsidian-tasks-group/obsidian-tasks` at tag `8.3.0`, commit `e16dbc2`.
+Part of the Tasks skill; its scope, prerequisites, evidence base and claim-marking
+conventions apply here. Every `path:line` citation is relative to the root of the
+`obsidian-tasks-group/obsidian-tasks` checkout at tag `8.3.0`, commit `e16dbc2`.
+
+## Contents
+
+- [Rules of engagement](#rules-of-engagement)
+- [The protocol](#the-protocol)
+  - [Step 0 — Restart when the changed setting requires it](#step-0-restart-when-the-changed-setting-requires-it)
+  - [Step 1 — Is the task in the index at all?](#step-1-is-the-task-in-the-index-at-all)
+  - [Step 2 — Why is it not indexed?](#step-2-why-is-it-not-indexed)
+  - [Step 3 — Which instruction rejects it?](#step-3-which-instruction-rejects-it)
+  - [Step 3a — the backwards signifier scan](#step-3a-the-backwards-signifier-scan)
+  - [Step 4 — Confirm the fix against both directions](#step-4-confirm-the-fix-against-both-directions)
+- [Instruments](#instruments)
+  - [Instrument 1 — `explain`](#instrument-1-explain)
+  - [Instrument 2 — the toolbar "copy results"](#instrument-2-the-toolbar-copy-results)
+  - [Instrument 3 — `data.json` debug switches](#instrument-3-datajson-debug-switches)
+  - [Instrument 4 — the unread-emoji sweep](#instrument-4-the-unread-emoji-sweep)
+  - [Instrument 5 — console logging](#instrument-5-console-logging)
+  - [Instrument 6 — `Tasks: Show debug info`](#instrument-6-tasks-show-debug-info)
+- [Cause catalogue](#cause-catalogue)
+  - [Symptom: a task is missing, and no query finds it](#symptom-a-task-is-missing-and-no-query-finds-it)
+  - [Symptom: a task is missing from one specific query](#symptom-a-task-is-missing-from-one-specific-query)
+  - [Symptom: unexpected extra tasks](#symptom-unexpected-extra-tasks)
+  - [Symptom: results are stale or do not update](#symptom-results-are-stale-or-do-not-update)
+  - [Symptom: the whole block renders as plain text](#symptom-the-whole-block-renders-as-plain-text)
+  - [Symptom: an error message](#symptom-an-error-message)
+- [Escalating to upstream](#escalating-to-upstream)
 
 ## Rules of engagement
 
@@ -156,10 +178,14 @@ Corollaries worth checking in order:
 2. **Tags are exempt**, and only tags: they may be interleaved freely
    (`docs/Getting Started/Tags.md:78`).
 3. **Non-breaking spaces** — separators are matched with ordinary ` *`, so an NBSP pasted from the
-   web silently breaks the field (upstream issue #606).
+   web silently breaks the field. Upstream tracks this as issue #606, recorded in the pinned
+   documentation (`docs/Reference/Task Formats/Tasks Emoji Format.md:85`); the current state of that
+   issue is not evidence gathered here.
 4. **Variation selectors** — exactly one `U+FE0F` directly after the symbol is tolerated
-   (`src/TaskSerializer/DefaultTaskSerializer.ts:70`); anything else is not. Note the upstream
-   limitations page states that none are understood, which is broader than the code.
+   (`src/TaskSerializer/DefaultTaskSerializer.ts:70`); anything else is not. The upstream
+   limitations page states that none are understood, which is broader than the code; that
+   documentation/implementation conflict is finding **D5** of the paired query-language defect
+   analysis.
 5. **Invalid calendar dates** — `📅 2022-02-30` parses to an *invalid* date, not a missing one. Find
    these with `<field> date is invalid`, not with `no <field> date`.
 
@@ -364,11 +390,32 @@ Referenced by the plugin's own error text as the thing to attach to a bug report
 | Cause | Confirm | Fix |
 |---|---|---|
 | Block was off-screen | `[render][observer]` messages | Scroll it into view; it re-renders on visibility (`src/Renderer/QueryRenderer.ts:200`) |
-| Relative dates did not roll over | Query still uses yesterday's dates after a sleep at midnight | Reopen the note (upstream issue #1289) |
+| Relative dates did not roll over | Query still uses yesterday's dates after a sleep at midnight | Reopen the note; upstream tracks this as issue #1289, recorded in the pinned documentation (`docs/Queries/Filters.md:905`) |
 | Cache still initialising | Loading message | Wait, or restart |
 | Settings changed | Global filter and format changes need a restart | Restart Obsidian |
 | Edited the query's own note, no re-run | Only path or frontmatter changes retrigger (`src/Renderer/QueryRenderer.ts:230`) | Reopen the note |
 | Changed a `data.json` switch | Not read live | Restart |
+
+### Symptom: the whole block renders as plain text
+
+The block never reached Tasks. Check the fence itself before the instructions:
+
+| Cause | Confirm | Fix |
+|---|---|---|
+| Info string is not exactly `tasks` | `` ```task ``, `` ``` Tasks `` with a leading space, or a trailing word | Use `tasks` as the first word of the info string |
+| Fence never closed | The rest of the note renders as code | Close it with the same character and at least the opening length |
+| Closing fence shorter than the opener | A four-backtick block closed by three backticks | Lengthen the closer, or shorten the opener |
+| Nested inside another fence | The outer fence swallowed it | Give the outer fence a longer run, or switch it to tildes |
+
+Three or more backticks **or** three or more tildes open a fenced block, and only a fence of the
+same character and at least the opening length closes it. `~~~tasks` and ` ````tasks ` are as valid
+as ` ```tasks `, which matters when a query has to be embedded inside another code block.
+
+**Inference, not contract.** Obsidian documents three-or-more backtick and tilde fences and states
+that it follows CommonMark, from which the same-character and at-least-as-long closing rule
+follows. The specific case of a closer *longer* than its opener has not been confirmed against a
+running Obsidian here; the bundled tools implement the CommonMark reading. Confirm it in your own
+vault before relying on it in a shared note.
 
 ### Symptom: an error message
 

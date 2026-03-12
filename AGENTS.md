@@ -82,7 +82,15 @@ Commit messages follow Conventional Commits, as in `feat: add <org>/<repo> plugi
   usage error, missing material, identity mismatch — and may extend it with documented component-specific
   codes. One aggregate command at the repository root runs every harness, runs all of them before reporting
   instead of stopping at the first failure, and preserves those distinct causes; it holds the mapping from
-  artifact to pinned material, so no portable directory learns the repository layout.
+  artifact to pinned material, so no portable directory learns the repository layout. That command is
+  `make lint`. Because `make` reduces every failing recipe to its own process status, the aggregate
+  preserves the causes in its printed summary rather than in the shell exit code — read the summary.
+- **Known gap: agent-behaviour evaluation.** No artifact type currently ships a clean-context
+  evaluation corpus — positive, negative, ambiguous and cross-artifact prompts that would show how
+  reliably an artifact triggers, which references it loads, and how it labels evidence and
+  uncertainty. This is a deliberate policy decision, not an oversight, and it is not a release gate
+  today. The consequence is binding: no artifact may claim that its agent behaviour has been
+  evaluated, and every artifact records the gap where it would otherwise imply coverage.
 - **Pin what can be pinned.** Prefer versioned official material. If the pinned tree is insufficient and only an
   unversioned web source exists, cite its stable URL, record the access date, and say that the evidence is
   mutable. A topic may use several sources, but it must identify one primary source and account for every
@@ -141,7 +149,18 @@ accessed: <YYYY-MM-DD>         # unversioned web primary sources only; omit othe
 ---
 ```
 
-- Keep runtime-specific keys out of the frontmatter so an artifact stays portable across tools.
+- Keep runtime-specific keys out of the frontmatter so an artifact stays portable across tools. The
+  provenance keys above stay at the top level: agent-skill parsers tolerate unknown fields, and no
+  inspected runtime rejects them at load time. One authoring lint outside this repository does
+  reject them by rule; that objection is recorded, not obeyed, and it is not a gate this repository
+  runs. Move provenance under a `metadata` mapping only if a target runtime is ever observed to
+  fail loading a skill because of it.
+- Runtime-facing metadata a distribution target needs — display names, chips, default prompts —
+  lives in its own file under the artifact rather than in the frontmatter, so one artifact can
+  serve several runtimes without any of them owning its identity.
+- A skill's `description` is the surface a runtime reads before the body, so it names the studied
+  version and, where two artifacts could both claim a question, says which one owns it.
+  Verification asserts that the version named there equals frontmatter `version`.
 - For a Git-backed primary source, the frontmatter carries the human-readable tag when available and the
   submodule gitlink supplies the exact commit. If a Git source is not present as a submodule, record both its
   tag and commit in the artifact.

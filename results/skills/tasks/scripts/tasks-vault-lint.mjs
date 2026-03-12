@@ -2,23 +2,35 @@
 
 import path from 'node:path';
 import {
+    EXIT,
+    MAX_SCAN_RUNS,
+    STUDIED_PLUGIN_VERSION,
+    TOOL_VERSION,
+    assertFormat,
     diagnostic,
+    environmentAssumptions,
     extractTaskLines,
     hasDataviewTaskField,
     hasEmojiSignifier,
     loadTasksConfig,
     parseArgs,
     parseTask,
-    printDiagnostics,
     readMarkdown,
     relativeTo,
-    resolveVault,
+    resolveVaultArgument,
     statusRegistry,
     walkMarkdown,
+    writeReport,
     writeUsageError,
 } from './lib.mjs';
 
-const USAGE = `usage: node tasks-vault-lint.mjs --vault PATH [--format text|json]`;
+const USAGE = `usage: node tasks-vault-lint.mjs [VAULT] [--vault PATH] [--format text|json|sarif]`;
+
+const LIMITATIONS = [
+    'Static analysis only: Obsidian remains the authority for the live index, the metadata cache and rendering.',
+    'Task fields are parsed with the ported serializer subset; recurrence rules are recognised but not evaluated.',
+    'Dependency findings cover tasks admitted by the global filter in this vault only.',
+];
 
 function rawIndent(line) {
     const leading = /^(\s*(?:>\s*)*)/.exec(line)?.[1] ?? '';
@@ -129,14 +141,17 @@ try {
     });
     if (args.help) {
         process.stdout.write(`${USAGE}\n`);
-        process.exit(0);
+        process.exit(EXIT.clean);
     }
-    const format = args.format ?? 'text';
-    if (!['text', 'json'].includes(format)) throw new Error('--format must be text or json');
-    const vault = resolveVault(args.vault);
+    const format = assertFormat(args.format ?? 'text');
+    const vault = resolveVaultArgument(args);
     const config = loadTasksConfig(vault);
     const configRelative = relativeTo(vault, config.dataPath);
-    const findings = configFindings(configRelative, config.settings, config.hasSettings);
+    const environment = environmentAssumptions(config, relativeTo(vault, config.manifestPath));
+    const findings = [
+        ...environment.diagnostics,
+        ...configFindings(configRelative, config.settings, config.hasSettings),
+    ];
     const registry = statusRegistry(config.settings);
     const parsedTasks = [];
     const sourceLines = new Map();
@@ -255,6 +270,13 @@ try {
                     'custom filename-date format is enabled; this static tool cannot evaluate arbitrary Moment formats',
                 );
             }
+            if (task.scanExhausted) {
+                add(
+                    'warning',
+                    'TV023-scan-limit-reached',
+                    `the backwards field scan reached its ${MAX_SCAN_RUNS}-run failsafe (${MAX_SCAN_RUNS + 1} iterations); fields further left on this line are not parsed`,
+                );
+            }
         }
     }
 
@@ -324,15 +346,23 @@ try {
         );
     }
 
-    printDiagnostics(findings, format, {
-        tool: 'tasks-vault-lint',
-        vault: path.resolve(vault),
-        tasksVersion: config.manifest?.version ?? null,
-        selectedTaskFormat: config.settings.taskFormat,
-        checkboxes: parsedTasks.length,
-        indexedTasks: indexed.length,
-    });
-    process.exitCode = findings.length ? 1 : 0;
+    writeReport(
+        {
+            tool: 'tasks-vault-lint',
+            toolVersion: TOOL_VERSION,
+            studiedPluginVersion: STUDIED_PLUGIN_VERSION,
+            vault: path.resolve(vault),
+            tasksVersion: config.manifest?.version ?? null,
+            selectedTaskFormat: config.settings.taskFormat,
+            checkboxes: parsedTasks.length,
+            indexedTasks: indexed.length,
+            assumptions: environment.assumptions,
+            limitations: LIMITATIONS,
+            diagnostics: findings,
+        },
+        format,
+    );
+    process.exitCode = findings.length ? EXIT.findings : EXIT.clean;
 } catch (error) {
     writeUsageError(error, USAGE);
 }

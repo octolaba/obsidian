@@ -3,6 +3,21 @@
 This reference contains **recommendations**, not upstream contracts. Use it to turn verified Tasks
 semantics into sustainable personal/project workflows.
 
+## Contents
+
+- [Design principles](#design-principles)
+- [Minimal task vocabulary](#minimal-task-vocabulary)
+- [Capture and triage](#capture-and-triage)
+- [Daily agenda](#daily-agenda)
+- [Project dashboard](#project-dashboard)
+- [Waiting and dependencies](#waiting-and-dependencies)
+- [Recurring responsibilities](#recurring-responsibilities)
+- [Data-health dashboard](#data-health-dashboard)
+- [Mobile-first design](#mobile-first-design)
+- [Query maintenance](#query-maintenance)
+- [Quarterly health review](#quarterly-health-review)
+- [Validation](#validation)
+
 ## Design principles
 
 1. Give each field one meaning.

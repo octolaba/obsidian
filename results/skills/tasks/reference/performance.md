@@ -3,6 +3,17 @@
 Use this reference when Tasks blocks render slowly, Obsidian startup/cache loading is slow, or a
 query design needs performance review.
 
+## Contents
+
+- [Evidence boundary](#evidence-boundary)
+- [Cost model](#cost-model)
+- [Measurement protocol](#measurement-protocol)
+- [Query review ladder](#query-review-ladder)
+- [Custom-function patterns](#custom-function-patterns)
+- [Symptom matrix](#symptom-matrix)
+- [What the static linter can and cannot say](#what-the-static-linter-can-and-cannot-say)
+- [Validation](#validation)
+
 ## Evidence boundary
 
 No representative vault benchmark was collected for this skill. Do not claim that a query form is

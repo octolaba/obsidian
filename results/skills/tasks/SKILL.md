@@ -1,6 +1,6 @@
 ---
 name: obsidian-tasks-plugin
-description: "Diagnose, explain, design, and validate Obsidian Tasks 8.3.0 usage: task authoring and formats, queries and missing results, dates and recurrence, statuses and dependencies, settings and integrations, scripting, workflows, and performance. Use for any tasks block, Tasks-formatted checkbox, plugin setting, or 'why did Tasks do this?' report."
+description: "Diagnose, explain, design, and validate Obsidian Tasks 8.3.0 usage: task authoring and formats, `tasks` code-block queries and missing results, dates and recurrence, statuses and dependencies, settings and integrations, scripting, workflows, and performance. Use for any `tasks` fence, Tasks-formatted checkbox, Tasks mutation such as toggling, postponing, recurrence or onCompletion, plugin setting, or 'why did Tasks do this?' report. For `dataview`/`dataviewjs` fences and inline DQL, use the Obsidian Dataview skill instead."
 source: obsidian-tasks-group/obsidian-tasks
 version: 8.3.0
 basis: source
@@ -225,22 +225,51 @@ Run with Node.js 18 or later. All tools are read-only and use only Node built-in
 Typical commands:
 
 ```bash
-node scripts/tasks-query-lint.mjs --vault /path/to/vault
-node scripts/tasks-vault-lint.mjs --vault /path/to/vault
-node scripts/tasks-why-not.mjs --vault /path/to/vault \
+node scripts/tasks-query-lint.mjs /path/to/vault
+node scripts/tasks-vault-lint.mjs /path/to/vault --format sarif
+node scripts/tasks-why-not.mjs /path/to/vault \
   --task-file Projects/A.md --task-line 12 \
   --query-file Dashboard.md --query-block 1
-node scripts/tasks-profile.mjs tasks-performance.log
+node scripts/tasks-profile.mjs tasks-performance.log --by label
 node scripts/verify.mjs --source-root /path/to/obsidian-tasks
 node scripts/test.mjs
 ```
 
-Exit codes are `0` for a clean/supported result, `1` for findings or a definite rejection, and `2`
-for usage/configuration/source-drift errors. `tasks-why-not` also uses `3` when unsupported query
-logic prevents a definite verdict. Use `--format json` where offered for editor/CI integration.
+The vault is accepted positionally or as `--vault PATH`. There is no default: no vault, two
+positionals, a positional contradicting `--vault`, or a `--file` outside the vault are all errors
+rather than a silent scan of the current directory.
 
-These tools intentionally do not edit the vault. They approximate selected source semantics and
-print their limitations; Obsidian remains the authority for runtime cache and rendering.
+Exit codes are shared across the bundled harnesses: `0` clean, `1` findings or a failed artifact
+check, `2` usage error, `3` required material missing, `4` source-identity mismatch. `tasks-why-not`
+documents one extension, `5`, when unsupported query logic prevents a definite verdict.
+
+Reporting is a pluggable set of output formats rather than a hard-coded printer. `text` and `json`
+are available everywhere the flag is offered; the linters also emit `sarif` for editor and CI
+integration. Every linter report carries an `assumptions` block naming the plugin version and where
+preset definitions came from, and a `limitations` block naming what the tool cannot decide.
+
+These tools intentionally do not edit the vault. They reproduce the pinned parser, fence, line
+continuation, and preset algorithms rather than approximating them, but Obsidian remains the
+authority for runtime cache and rendering.
+
+## Known conflicts and limitations
+
+One place to look before claiming certainty. Each item is durable behaviour of the pin, not a
+transient bug.
+
+| Item | Status | Consequence |
+|---|---|---|
+| Variation selectors (**D5**) | Documentation and implementation disagree | The limitations page says none are understood; the code tolerates exactly one `U+FE0F` after a signifier (`src/TaskSerializer/DefaultTaskSerializer.ts:70`). Follow the code, and say which you are following. |
+| Backwards field scan | Deliberate failsafe with a surprising bound | `maxRuns` is 20 but `runs <= maxRuns` permits a 21st iteration (`src/TaskSerializer/DefaultTaskSerializer.ts:325`, `src/TaskSerializer/DefaultTaskSerializer.ts:373`). Each iteration extracts at most one trailing tag, so a field behind 21 or more trailing tags is never parsed. |
+| Relative date ranges (**D1**) | Defect | The pattern is unanchored, so `next weekend` is silently read as `next week`. Prefer explicit dates. |
+| `sort by` versus `group by` (**D3**) | Defect | `sort by` ignores trailing text; `group by` rejects it. A typo in `reverse` silently sorts ascending. |
+| `return` detection (**D2**) | Defect | The auto-`return` wrapper is chosen by substring, so an expression merely containing `return` yields `undefined`. |
+| Placeholders in comments (**D4**) | Documentation drift | Whether a `#` comment containing `{{…}}` errors depends on query-file context. |
+| Non-breaking spaces | Deliberate design that surprises | Separators are matched with ordinary ` *`, so an NBSP silently breaks a field. Upstream issue #606 is recorded in the pin (`docs/Reference/Task Formats/Tasks Emoji Format.md:85`). |
+| Tool grammar coverage | Tool limitation | The bundled linters recognise a ported subset of instructions. An unrecognised instruction is reported as unrecognised, never as invalid. |
+| Preset cycles | Deliberate tool divergence | The plugin recurses without a guard; the tools stop and report the cycle instead. |
+| Live runtime | Unverified | Rendering, cache timing, mobile behaviour, theme interaction and cross-plugin effects were not executed. No Obsidian end-to-end matrix was run. |
+| Agent behaviour | Not evaluated | How this skill triggers and routes in a clean context has not been measured. Nothing here claims it has. |
 
 ## Scope and exclusions
 
@@ -261,10 +290,24 @@ Deliberately excluded:
 ## Repository navigation (remove when extracting this skill)
 
 The architectural companion is `results/deep-dives/tasks/search-pipeline.md`; verified
-query-language defects are in
-`results/deep-dives/tasks/query-language-defects/README.md`. This skill is authoritative for
-operational procedures. The deep dives are authoritative for their architectural/defect analysis.
-When the Tasks pin moves, update the deep dives first, then this skill, then run both verifiers.
+query-language defects are in `results/deep-dives/tasks/query-language-defects/README.md`. All
+three artifacts study `obsidian-tasks-group/obsidian-tasks` at tag `8.3.0`, and that shared pin is
+what makes their claims comparable.
+
+This skill is authoritative for operational procedures. The deep dives are authoritative for their
+architectural and defect analysis. The pair is joined by the content markers `D1`–`D5`, not by a
+link: each defect keeps its finding ID in the deep dive and appears as a bold `**D1**`-style marker
+beside the operational guidance it changes here, so the join survives extraction. Both verifiers
+assert that the two ID sets match and that the pins are equal.
+
+When the Tasks pin moves, update the deep dives first, then this skill, then run both verifiers:
+
+```sh
+node results/skills/tasks/scripts/test.mjs
+node results/skills/tasks/scripts/verify.mjs \
+  --source-root research/plugins/obsidian-tasks-group/obsidian-tasks
+node results/deep-dives/tasks/query-language-defects/verify.mjs
+```
 
 ## Handoff checklist
 

@@ -1,14 +1,27 @@
----
-source: obsidian-tasks-group/obsidian-tasks
-version: 8.3.0
-basis: source
----
-
 # Scripting: `filter by`, `sort by` and `group by function`
 
-Part of the [Tasks skill](../SKILL.md); its scope, prerequisites, evidence base and
-claim-marking conventions apply here. Paths are relative to
-`research/plugins/obsidian-tasks-group/obsidian-tasks` at tag `8.3.0`, commit `e16dbc2`.
+Use this reference when a query contains a custom JavaScript function, when JavaScript needs to be
+enabled or refused, or when a scripted filter, sorter, or grouper misbehaves.
+
+Part of the Tasks skill; its scope, prerequisites, evidence base and claim-marking
+conventions apply here. Every `path:line` citation is relative to the root of the
+`obsidian-tasks-group/obsidian-tasks` checkout at tag `8.3.0`, commit `e16dbc2`.
+
+## Contents
+
+- [The security gate — check this first](#the-security-gate-check-this-first)
+  - [Threat model](#threat-model)
+- [Syntax and evaluation](#syntax-and-evaluation)
+  - [Return-value rules](#return-value-rules)
+- [`task` properties](#task-properties)
+  - [Status](#status)
+  - [Dates](#dates)
+  - [Dependencies](#dependencies)
+  - [Other task properties](#other-task-properties)
+  - [File properties](#file-properties)
+- [`query` properties](#query-properties)
+- [Boolean combinations with `filter by function`](#boolean-combinations-with-filter-by-function)
+- [Recipes worth remembering](#recipes-worth-remembering)
 
 ## The security gate — check this first
 
@@ -70,9 +83,10 @@ The expression is compiled once with `new Function('task', 'query', body)`
 - a single expression needs no `return`;
 - a multi-statement body **does** need one — and use `\` line continuations for readability;
 - ⚠️ if the expression merely *contains the substring* `return` anywhere — for example
-  `task.description.includes('return')` — the wrapper is **not** added, the function returns
-  `undefined`, and you get `filtering function must return true or false. This returned
-  "undefined"`. Add an explicit `return` in that case.
+  `task.description.includes('return')` or `includes("returned")` — the wrapper is **not** added,
+  the function returns `undefined`, and you get `filtering function must return true or false. This
+  returned "undefined"`. Add an explicit `return` in that case. This is finding **D2** of the paired
+  query-language defect analysis.
 
 Errors inside a filter propagate up and abort the whole search with `Search failed`, annotated with
 the instruction (`src/Query/Query.ts:391`). Errors inside a grouper are caught and rendered as a

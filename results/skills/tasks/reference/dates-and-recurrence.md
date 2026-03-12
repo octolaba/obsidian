@@ -3,6 +3,19 @@
 Use this reference when a task appears on the wrong day, has an invisible date, recurs incorrectly,
 loses recurrence, or needs a maintainable date model.
 
+## Contents
+
+- [Date fields are not synonyms](#date-fields-are-not-synonyms)
+- [The `starts` exception](#the-starts-exception)
+- [Filename-implied scheduled dates](#filename-implied-scheduled-dates)
+- [Relative query dates](#relative-query-dates)
+- [Recurrence model](#recurrence-model)
+- [Preconditions and edge cases](#preconditions-and-edge-cases)
+- [Custom statuses and recurrence](#custom-statuses-and-recurrence)
+- [Debugging sequence](#debugging-sequence)
+- [Recommendation: minimal date model](#recommendation-minimal-date-model)
+- [Validation](#validation)
+
 ## Date fields are not synonyms
 
 | Field | User meaning | Search implication |

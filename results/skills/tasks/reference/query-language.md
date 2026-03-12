@@ -1,16 +1,29 @@
----
-source: obsidian-tasks-group/obsidian-tasks
-version: 8.3.0
-basis: source
----
-
 # Query language reference
 
-Complete instruction set of a `tasks` code block.
+Use this reference when interpreting, writing, or reviewing the instructions inside a `tasks`
+code block. It is the complete instruction set: classification order, filters, sorting, grouping,
+layout, and limits.
 
-Part of the [Tasks skill](../SKILL.md); its scope, prerequisites, evidence base and
-claim-marking conventions apply here. Paths are relative to
-`research/plugins/obsidian-tasks-group/obsidian-tasks` at tag `8.3.0`, commit `e16dbc2`.
+Part of the Tasks skill; its scope, prerequisites, evidence base and claim-marking
+conventions apply here. Every `path:line` citation is relative to the root of the
+`obsidian-tasks-group/obsidian-tasks` checkout at tag `8.3.0`, commit `e16dbc2`.
+
+## Contents
+
+- [How a line is classified](#how-a-line-is-classified)
+- [Filters](#filters)
+  - [Whole-line instructions](#whole-line-instructions)
+  - [Date comparison filters](#date-comparison-filters)
+  - [Text filters](#text-filters)
+  - [Priority](#priority)
+  - [Status type](#status-type)
+  - [Boolean combinations](#boolean-combinations)
+  - [Custom filter](#custom-filter)
+  - [Not filterable](#not-filterable)
+- [Sorting](#sorting)
+- [Grouping](#grouping)
+- [Layout and display](#layout-and-display)
+- [Presets](#presets)
 
 ## How a line is classified
 
@@ -127,8 +140,8 @@ Properties of the resolution that change results:
   be in the past. On a Wednesday, `due tuesday` means yesterday; use `next tuesday`.
 - ⚠️ **The relative-range pattern is not anchored**, so it matches inside a longer word:
   `due next weekend` is silently read as `due next week`, and `last quarterly review` as
-  `last quarter`. No error is raised. This is catalogued as defect D1 in the `query-language-defects`
-  deep dive of this research repository; the workaround is an explicit date or `before in N days`.
+  `last quarter`. No error is raised. This is finding **D1** of the paired query-language defect
+  analysis; the workaround is an explicit date or `before in N days`.
 - Free text is accepted (`25th May 2023`, `14 October`, `May`, `14 days ago`), but two adjacent
   non-numeric dates are ambiguous as a range — upstream recommends `YYYY-MM-DD`
   (`docs/Queries/Filters.md:178`).
@@ -282,7 +295,9 @@ sort by function [reverse] <JavaScript expression>
 ```
 
 The default regex is `^sort by <field>( reverse)?` with **no end anchor**
-(`src/Query/Filter/Field.ts:175`), so trailing junk is silently ignored.
+(`src/Query/Filter/Field.ts:175`), so trailing junk is silently ignored — `sort by due reverssse`
+sorts ascending and reports nothing. `group by` is anchored and rejects the same text. This
+asymmetry is finding **D3** of the paired query-language defect analysis.
 
 Supported fields (`supportsSorting() === true`): `status`, `status.name`, `status.type`,
 `recurring`, `priority`, `urgency`, `random`, `description`, `tag`, `heading`, `path`, `filename`,

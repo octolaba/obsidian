@@ -40,6 +40,17 @@ node scripts/dataview-query-lint.mjs /path/to/vault \
   --file Dashboards/Projects.md --format json --all
 ```
 
+The vault is accepted positionally or as `--vault PATH`, and there is no default. Two positionals,
+a positional that contradicts `--vault`, no vault at all, and a `--file` that resolves outside the
+vault are all usage errors rather than a silent scan of somewhere else. Reported columns include
+the width of any callout or blockquote prefix, so an editor or SARIF consumer points at the real
+character inside `> ```dataview` rather than at column 1.
+
+Every report opens with what it assumed. `DVE001` fires when the vault has no Dataview manifest and
+`DVE002` when the installed version is outside the studied boundary; the `assumptions` and
+`limitations` blocks record the same facts in prose. A clean report from a vault without the plugin
+is a statement about the Markdown, not about that installation.
+
 The extractor reads Dataview's vault-local `data.json` when present. It honours the custom
 DataviewJS fence keyword, inline DQL/JS prefixes, enable switches, inline-in-code-block setting,
 callout quote prefixes, backtick/tilde fences and longer closing fences.
@@ -52,9 +63,27 @@ node scripts/dataview-query-lint.mjs /path/to/vault \
   --format sarif
 ```
 
-This bundles `src/query/parse.ts:225` from the supplied checkout into an operating-system temporary
-directory and augments static findings with parser/AST checks. It never writes into that checkout.
-The checkout must carry compatible installed Rollup/TypeScript development dependencies.
+**What this executes, and with whose privileges.** Exact mode is not a read-only text pass. It
+resolves Rollup, `rollup-plugin-typescript2` and the resolve/CommonJS plugins *from the supplied
+checkout*, compiles that checkout's TypeScript into an operating-system temporary directory, and
+`require`s the result in this process, with the caller's privileges. It never writes into the
+checkout, and "read-only" elsewhere in this skill describes vault writes, not code execution. Do
+not point `--source-root` at a checkout you would not run.
+
+**Identity is proved before anything is loaded.** The linter fingerprints the checkout's studied
+material and compares it with the reviewed pin recorded in
+`scripts/fixtures/upstream-identity.json` *before* resolving or loading any module from it. The
+outcomes are:
+
+| Checkout | Behaviour |
+|---|---|
+| The reviewed pin | Exact mode runs; `mode` is `upstream-ast+static`. |
+| A different or modified tree | No module is loaded. The run degrades to static mode with a `DVM002` finding, `material.matchesReviewedPin` is `false`, and the process exits `4`. |
+| Not the studied material at all | Exit `3`, with the missing paths named. |
+| A different tree, with `--allow-unverified-source-root` | Exact mode runs deliberately; `mode` becomes `upstream-ast+static (unverified material)`, `DVM002` becomes a non-failing note, and `material` records the fingerprint actually parsed against. |
+
+An exact-mode report therefore never carries the reviewed-pin label for material nobody reviewed.
+The `trustModel` field in every report states the same contract in one sentence.
 
 Findings separate:
 
@@ -144,20 +173,17 @@ The doctor calls query/read APIs only. It does not write notes or toggle task ch
 
 ## 5. Automation and exit codes
 
-Query and schema linters:
+One scheme is shared by every bundled harness:
 
-- `0`: no warning/error (notes alone do not fail);
-- `1`: at least one warning/error;
-- `2`: invalid CLI/input;
-- `3`: exact-parser source or dependencies unavailable.
+| Code | Meaning |
+|---|---|
+| `0` | clean — no warning or error (notes alone do not fail) |
+| `1` | findings, or a failed artifact check |
+| `2` | usage error: invalid CLI arguments or input |
+| `3` | required material missing — exact-parser source, its dependencies, or pinned source |
+| `4` | source-identity mismatch: the checkout is not the reviewed pin |
 
-Formal verifier:
-
-- `0`: all checks pass;
-- `1`: artifact validation failed;
-- `2`: CLI usage error;
-- `3`: source material missing;
-- `4`: pinned material identity mismatch.
+Documented tool-specific codes start at `5`; none of these tools defines one today.
 
 The compatibility entry point accepts the original `--json`, `--all`, `--top`, and `--min-score`
 arguments. Numeric score options are no-ops because explicit severity/confidence replaced the

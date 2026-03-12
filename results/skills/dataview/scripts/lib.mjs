@@ -1,7 +1,19 @@
 import fs from 'node:fs';
 import path from 'node:path';
 
-export const TOOL_VERSION = '2.0.0';
+export const TOOL_VERSION = '2.1.0';
+
+/**
+ * Shared harness exit meanings. 0-4 are the repository-wide baseline; documented
+ * tool-specific codes start at 5.
+ */
+export const EXIT = Object.freeze({
+    clean: 0,
+    findings: 1,
+    usage: 2,
+    missingMaterial: 3,
+    identityMismatch: 4,
+});
 
 export const DEFAULT_SETTINGS = Object.freeze({
     renderNullAs: '\\-',
@@ -120,11 +132,48 @@ export function readJson(file, fallback = null) {
 }
 
 export function resolveVault(value) {
-    const vault = path.resolve(value ?? '.');
+    if (value === undefined || value === null || value === '') {
+        throw new Error('a vault path is required');
+    }
+    const vault = path.resolve(value);
     if (!fs.existsSync(vault) || !fs.statSync(vault).isDirectory()) {
         throw new Error(`vault is not a directory: ${vault}`);
     }
     return vault;
+}
+
+/**
+ * Accept the vault positionally or through `--vault`, and reject every ambiguous form —
+ * two positionals, a positional contradicting `--vault`, or no vault at all — instead of
+ * silently scanning the current directory.
+ */
+export function resolveVaultArgument(args) {
+    if (args._.length > 1) throw new Error('at most one positional VAULT is allowed');
+    const positional = args._[0];
+    const explicit = args.vault;
+    if (
+        explicit !== undefined &&
+        positional !== undefined &&
+        path.resolve(explicit) !== path.resolve(positional)
+    ) {
+        throw new Error(
+            `positional VAULT ${positional} contradicts --vault ${explicit}; pass the vault once`,
+        );
+    }
+    const chosen = explicit ?? positional;
+    if (chosen === undefined) {
+        throw new Error('a vault path is required: pass it positionally or with --vault');
+    }
+    return resolveVault(chosen);
+}
+
+/** Reject a file argument that resolves outside the declared vault. */
+export function resolveVaultFile(vault, value, option) {
+    const absolute = path.resolve(vault, String(value).split(path.sep).join('/'));
+    if (absolute !== vault && !absolute.startsWith(`${vault}${path.sep}`)) {
+        throw new Error(`${option} must name a path inside the vault: ${value}`);
+    }
+    return absolute;
 }
 
 export function loadDataviewConfig(vault) {
@@ -165,6 +214,16 @@ export function readMarkdown(file) {
 
 function withoutQuotePrefix(line) {
     return line.replace(/^\s*(?:>\s*)*/, '');
+}
+
+/**
+ * Width of the indentation and callout/quote prefix removed by {@link withoutQuotePrefix}.
+ *
+ * Every reported column adds it back, so an editor or SARIF consumer points at the real
+ * character inside a callout instead of column 1.
+ */
+function prefixWidth(line) {
+    return line.length - withoutQuotePrefix(line).length;
 }
 
 function closeFence(line, open) {
@@ -218,6 +277,7 @@ export function extractDataviewBlocks(text, settings = DEFAULT_SETTINGS) {
                     blocks.push({
                         type: open.type,
                         raw: open.body.join('\n'),
+                        lineColumns: open.bodyColumns,
                         startLine: open.startLine,
                         startColumn: open.startColumn,
                         endLine: index + 1,
@@ -227,6 +287,7 @@ export function extractDataviewBlocks(text, settings = DEFAULT_SETTINGS) {
                 open = null;
             } else if (open.type) {
                 open.body.push(withoutQuotePrefix(line));
+                open.bodyColumns.push(prefixWidth(line) + 1);
             }
             continue;
         }
@@ -248,14 +309,16 @@ export function extractDataviewBlocks(text, settings = DEFAULT_SETTINGS) {
             character: match[2][0],
             length: match[2].length,
             startLine: index + 1,
-            startColumn: match[1].length + 1,
+            startColumn: prefixWidth(line) + match[1].length + 1,
             body: [],
+            bodyColumns: [],
         };
     }
     if (open?.type) {
         blocks.push({
             type: open.type,
             raw: open.body.join('\n'),
+            lineColumns: open.bodyColumns,
             startLine: open.startLine,
             startColumn: open.startColumn,
             endLine: lines.length,
@@ -265,7 +328,9 @@ export function extractDataviewBlocks(text, settings = DEFAULT_SETTINGS) {
 
     for (let index = 0; index < lines.length; index += 1) {
         if (fencedLines.has(index + 1) && !settings.inlineQueriesInCodeblocks) continue;
+        const offset = prefixWidth(lines[index]);
         for (const span of inlineCodeSpans(withoutQuotePrefix(lines[index]))) {
+            span.contentColumn += offset;
             const raw = span.raw;
             const jsPrefix = String(settings.inlineJsQueryPrefix ?? '$=');
             const dqlPrefix = String(settings.inlineQueryPrefix ?? '=');
@@ -302,15 +367,20 @@ export function extractDataviewBlocks(text, settings = DEFAULT_SETTINGS) {
     );
 }
 
-export function offsetToLineColumn(text, offset, baseLine = 1, baseColumn = 1) {
+export function offsetToLineColumn(
+    text,
+    offset,
+    baseLine = 1,
+    baseColumn = 1,
+    lineColumns = null,
+) {
     const before = text.slice(0, Math.max(0, offset));
     const pieces = before.split('\n');
+    const lineIndex = pieces.length - 1;
+    const physicalBase = lineColumns?.[lineIndex] ?? (lineIndex === 0 ? baseColumn : 1);
     return {
-        line: baseLine + pieces.length - 1,
-        column:
-            pieces.length === 1
-                ? baseColumn + pieces[0].length
-                : pieces.at(-1).length + 1,
+        line: baseLine + lineIndex,
+        column: physicalBase + pieces.at(-1).length,
     };
 }
 
