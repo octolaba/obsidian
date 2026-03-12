@@ -76,7 +76,13 @@ Commit messages follow Conventional Commits, as in `feat: add <org>/<repo> plugi
 - **Make verification runnable.** Prefer a checked-in harness beside the artifact over prose describing what was
   run. A harness reads the values it checks out of the pinned material instead of copying them, locates that
   material by anchoring on the material itself rather than on relative depth or on the version-control system,
-  and exits with a distinct, actionable status when the pin has moved or a submodule is not hydrated.
+  and exits with a distinct, actionable status when the pin has moved or a submodule is not hydrated. A
+  harness that passes on material it has not identified proves nothing, so identity is established before any
+  code or dependency from that material is loaded. Harnesses share one set of exit meanings — clean, findings,
+  usage error, missing material, identity mismatch — and may extend it with documented component-specific
+  codes. One aggregate command at the repository root runs every harness, runs all of them before reporting
+  instead of stopping at the first failure, and preserves those distinct causes; it holds the mapping from
+  artifact to pinned material, so no portable directory learns the repository layout.
 - **Pin what can be pinned.** Prefer versioned official material. If the pinned tree is insufficient and only an
   unversioned web source exists, cite its stable URL, record the access date, and say that the evidence is
   mutable. A topic may use several sources, but it must identify one primary source and account for every
@@ -118,7 +124,9 @@ analyses a mechanism the skill applies, the skill restates the operational subse
 prose; that restatement is intended and is not the duplication the paragraph above rules out. Confine
 repository-only navigation to one marked section that extraction deletes, join the pair with stable
 identifiers rather than links, and record which artifact is authoritative and the order in which the two are
-updated.
+updated. An identifier joins artifacts by content and never restates an artifact's own name, because a name
+written down twice has to be renamed twice. A skill's runtime name and its directory basename are likewise
+independent namespaces: verification pins each to its own constant instead of asserting that they are equal.
 
 Both open with YAML frontmatter that records what was studied and at which version:
 
@@ -157,7 +165,9 @@ Before handoff, every artifact:
 - distinguishes contracts, observed behaviour, inference, recommendation, and uncertainty;
 - records conflicts, limitations, open questions, and deliberately dropped scope;
 - makes every material claim traceable to pinned evidence or to a dated mutable source;
-- records reproducible verification for empirical claims; and
+- records reproducible verification for empirical claims;
+- claims no evaluation it has not run — assessing how an artifact triggers and routes in a clean context is
+  deliberately not a release gate today, and that gap is stated rather than left implied; and
 - leaves every research submodule at its recorded pin with a clean worktree.
 
 A deep dive also covers the applicable system context, interfaces, lifecycle or execution flow, state and data
