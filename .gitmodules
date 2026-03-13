@@ -28,3 +28,6 @@
 [submodule "research/core/obsidian-releases"]
 	path = research/core/obsidian-releases
 	url = git@github.com:obsidianmd/obsidian-releases.git
+[submodule "research/core/obsidian-skills"]
+	path = research/core/obsidian-skills
+	url = git@github.com:kepano/obsidian-skills.git
