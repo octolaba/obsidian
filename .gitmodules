@@ -31,3 +31,6 @@
 [submodule "research/core/obsidian-skills"]
 	path = research/core/obsidian-skills
 	url = git@github.com:kepano/obsidian-skills.git
+[submodule "research/plugins/obsidian-community/obsidian-kanban"]
+	path = research/plugins/obsidian-community/obsidian-kanban
+	url = git@github.com:obsidian-community/obsidian-kanban.git
