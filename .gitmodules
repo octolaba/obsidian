@@ -64,3 +64,6 @@
 [submodule "research/plugins/liamcain/obsidian-periodic-notes"]
 	path = research/plugins/liamcain/obsidian-periodic-notes
 	url = git@github.com:liamcain/obsidian-periodic-notes.git
+[submodule "research/plugins/tgrosinger/recent-files-obsidian"]
+	path = research/plugins/tgrosinger/recent-files-obsidian
+	url = git@github.com:tgrosinger/recent-files-obsidian.git
