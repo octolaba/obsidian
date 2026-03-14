@@ -49,3 +49,6 @@
 [submodule "research/plugins/zsviczian/obsidian-excalidraw-plugin"]
 	path = research/plugins/zsviczian/obsidian-excalidraw-plugin
 	url = git@github.com:zsviczian/obsidian-excalidraw-plugin.git
+[submodule "research/plugins/coddingtonbear/obsidian-local-rest-api"]
+	path = research/plugins/coddingtonbear/obsidian-local-rest-api
+	url = git@github.com:coddingtonbear/obsidian-local-rest-api.git
