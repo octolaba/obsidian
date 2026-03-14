@@ -73,3 +73,6 @@
 [submodule "research/plugins/brianpetro/obsidian-smart-connections"]
 	path = research/plugins/brianpetro/obsidian-smart-connections
 	url = git@github.com:brianpetro/obsidian-smart-connections.git
+[submodule "research/themes/AnubisNekhet/AnuPpuccin"]
+	path = research/themes/AnubisNekhet/AnuPpuccin
+	url = git@github.com:AnubisNekhet/AnuPpuccin.git
