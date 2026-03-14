@@ -52,3 +52,6 @@
 [submodule "research/plugins/coddingtonbear/obsidian-local-rest-api"]
 	path = research/plugins/coddingtonbear/obsidian-local-rest-api
 	url = git@github.com:coddingtonbear/obsidian-local-rest-api.git
+[submodule "research/plugins/obsidianmd/obsidian-maps"]
+	path = research/plugins/obsidianmd/obsidian-maps
+	url = git@github.com:obsidianmd/obsidian-maps.git
