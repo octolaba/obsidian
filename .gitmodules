@@ -61,3 +61,6 @@
 [submodule "research/plugins/scambier/obsidian-omnisearch"]
 	path = research/plugins/scambier/obsidian-omnisearch
 	url = git@github.com:scambier/obsidian-omnisearch.git
+[submodule "research/plugins/liamcain/obsidian-periodic-notes"]
+	path = research/plugins/liamcain/obsidian-periodic-notes
+	url = git@github.com:liamcain/obsidian-periodic-notes.git
