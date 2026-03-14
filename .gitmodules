@@ -40,3 +40,9 @@
 [submodule "research/plugins/Vinzent03/obsidian-advanced-uri"]
 	path = research/plugins/Vinzent03/obsidian-advanced-uri
 	url = git@github.com:Vinzent03/obsidian-advanced-uri.git
+[submodule "research/plugins/liamcain/obsidian-calendar-plugin"]
+	path = research/plugins/liamcain/obsidian-calendar-plugin
+	url = git@github.com:liamcain/obsidian-calendar-plugin.git
+[submodule "research/plugins/logancyang/obsidian-copilot"]
+	path = research/plugins/logancyang/obsidian-copilot
+	url = git@github.com:logancyang/obsidian-copilot.git
