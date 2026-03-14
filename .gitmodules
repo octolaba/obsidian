@@ -70,3 +70,6 @@
 [submodule "research/plugins/TfTHacker/obsidian42-brat"]
 	path = research/plugins/TfTHacker/obsidian42-brat
 	url = git@github.com:TfTHacker/obsidian42-brat.git
+[submodule "research/plugins/brianpetro/obsidian-smart-connections"]
+	path = research/plugins/brianpetro/obsidian-smart-connections
+	url = git@github.com:brianpetro/obsidian-smart-connections.git
