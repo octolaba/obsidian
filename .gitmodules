@@ -76,3 +76,6 @@
 [submodule "research/themes/AnubisNekhet/AnuPpuccin"]
 	path = research/themes/AnubisNekhet/AnuPpuccin
 	url = git@github.com:AnubisNekhet/AnuPpuccin.git
+[submodule "research/plugins/YishenTu/claudian"]
+	path = research/plugins/YishenTu/claudian
+	url = git@github.com:YishenTu/claudian.git
