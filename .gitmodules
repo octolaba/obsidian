@@ -55,3 +55,6 @@
 [submodule "research/plugins/obsidianmd/obsidian-maps"]
 	path = research/plugins/obsidianmd/obsidian-maps
 	url = git@github.com:obsidianmd/obsidian-maps.git
+[submodule "research/plugins/mark-when/obsidian-plugin"]
+	path = research/plugins/mark-when/obsidian-plugin
+	url = git@github.com:mark-when/obsidian-plugin.git
