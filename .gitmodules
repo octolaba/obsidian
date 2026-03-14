@@ -58,3 +58,6 @@
 [submodule "research/plugins/mark-when/obsidian-plugin"]
 	path = research/plugins/mark-when/obsidian-plugin
 	url = git@github.com:mark-when/obsidian-plugin.git
+[submodule "research/plugins/scambier/obsidian-omnisearch"]
+	path = research/plugins/scambier/obsidian-omnisearch
+	url = git@github.com:scambier/obsidian-omnisearch.git
