@@ -67,3 +67,6 @@
 [submodule "research/plugins/tgrosinger/recent-files-obsidian"]
 	path = research/plugins/tgrosinger/recent-files-obsidian
 	url = git@github.com:tgrosinger/recent-files-obsidian.git
+[submodule "research/plugins/TfTHacker/obsidian42-brat"]
+	path = research/plugins/TfTHacker/obsidian42-brat
+	url = git@github.com:TfTHacker/obsidian42-brat.git
