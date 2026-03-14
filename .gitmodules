@@ -37,3 +37,6 @@
 [submodule "research/plugins/mofukuru/SideNote"]
 	path = research/plugins/mofukuru/SideNote
 	url = git@github.com:mofukuru/SideNote.git
+[submodule "research/plugins/Vinzent03/obsidian-advanced-uri"]
+	path = research/plugins/Vinzent03/obsidian-advanced-uri
+	url = git@github.com:Vinzent03/obsidian-advanced-uri.git
