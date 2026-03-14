@@ -46,3 +46,6 @@
 [submodule "research/plugins/logancyang/obsidian-copilot"]
 	path = research/plugins/logancyang/obsidian-copilot
 	url = git@github.com:logancyang/obsidian-copilot.git
+[submodule "research/plugins/zsviczian/obsidian-excalidraw-plugin"]
+	path = research/plugins/zsviczian/obsidian-excalidraw-plugin
+	url = git@github.com:zsviczian/obsidian-excalidraw-plugin.git
