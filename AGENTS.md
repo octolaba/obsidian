@@ -17,8 +17,9 @@ stated without naming a component, it is not a rule for this file.
 ## Structure
 
 ```
-research/core/<org>/<repo>/       Obsidian's own material (app, API, docs); same convention
+research/core/<repo>/             Obsidian's own material (app, API, docs); one owner, so no owner level
 research/plugins/<org>/<repo>/    plugin submodules; path mirrors the GitHub owner/repo
+research/skills/<org>/<repo>/     upstream agent-skill collections; same convention
 research/themes/<org>/<repo>/     theme submodules; same convention
 results/                          everything authored here, one directory per artifact type
 ```
@@ -29,13 +30,13 @@ commit carrying an exact release tag when one exists: the commit is the reproduc
 the tag is its human-readable version. Upstream history, tags, `git log`, and `git blame` remain available.
 
 ```bash
-git submodule update --init --recursive   # hydrate after clone
+git submodule update --init               # hydrate after clone
 git submodule status                      # pinned commit per target
 git -C <path> describe --tags --exact-match   # exact tag, when the pin has one
 
-# add a research target (the human commits afterwards)
-git submodule add git@github.com:<org>/<repo>.git research/<category>/<org>/<repo>
-git -C research/<category>/<org>/<repo> checkout --detach <release-tag-or-commit>
+# add a research target at the path its category dictates above (the human commits afterwards)
+git submodule add git@github.com:<org>/<repo>.git <path>
+git -C <path> checkout --detach <release-tag-or-commit>
 
 # move a pin to a newer release
 git -C <path> fetch --tags && git -C <path> checkout --detach <tag-or-commit>
