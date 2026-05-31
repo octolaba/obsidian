@@ -79,3 +79,6 @@
 [submodule "research/skills/kepano/obsidian-skills"]
 	path = research/skills/kepano/obsidian-skills
 	url = git@github.com:kepano/obsidian-skills.git
+[submodule "research/skills/anatoly-tech/obsidian-skills"]
+	path = research/skills/anatoly-tech/obsidian-skills
+	url = git@github.com:anatoly-tech/obsidian-skills.git
