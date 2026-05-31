@@ -28,9 +28,6 @@
 [submodule "research/core/obsidian-releases"]
 	path = research/core/obsidian-releases
 	url = git@github.com:obsidianmd/obsidian-releases.git
-[submodule "research/core/obsidian-skills"]
-	path = research/core/obsidian-skills
-	url = git@github.com:kepano/obsidian-skills.git
 [submodule "research/plugins/obsidian-community/obsidian-kanban"]
 	path = research/plugins/obsidian-community/obsidian-kanban
 	url = git@github.com:obsidian-community/obsidian-kanban.git
@@ -79,3 +76,6 @@
 [submodule "research/plugins/YishenTu/claudian"]
 	path = research/plugins/YishenTu/claudian
 	url = git@github.com:YishenTu/claudian.git
+[submodule "research/skills/kepano/obsidian-skills"]
+	path = research/skills/kepano/obsidian-skills
+	url = git@github.com:kepano/obsidian-skills.git
