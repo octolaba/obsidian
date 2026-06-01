@@ -24,6 +24,7 @@ NODE ?= node
 
 DATAVIEW_SKILL := results/skills/dataview
 TASKS_SKILL := results/skills/tasks
+DEVELOPER_SKILL := results/skills/developer
 TASKS_DEFECTS := results/deep-dives/tasks/query-language-defects
 SUBMODULE_LINT := scripts/lint-submodules.sh
 
@@ -31,6 +32,11 @@ DATAVIEW_SOURCE := research/plugins/blacksmithgu/obsidian-dataview
 TASKS_SOURCE := research/plugins/obsidian-tasks-group/obsidian-tasks
 OBSIDIAN_API := research/core/obsidian-api
 OBSIDIAN_HELP := research/core/obsidian-help/en
+OBSIDIAN_HELP_ROOT := research/core/obsidian-help
+OBSIDIAN_DEVELOPER_DOCS := research/core/obsidian-developer-docs
+OBSIDIAN_SAMPLE_PLUGIN := research/core/obsidian-sample-plugin
+OBSIDIAN_SAMPLE_THEME := research/core/obsidian-sample-theme
+OBSIDIAN_RELEASES := research/core/obsidian-releases
 
 # Every gate, as "name<TAB>command". This is the only place the mapping lives.
 GATE_submodules := sh $(SUBMODULE_LINT)
@@ -39,12 +45,15 @@ GATE_dataview_verify := $(NODE) $(DATAVIEW_SKILL)/scripts/verify.mjs --source-ro
 GATE_tasks_test := $(NODE) $(TASKS_SKILL)/scripts/test.mjs
 GATE_tasks_verify := $(NODE) $(TASKS_SKILL)/scripts/verify.mjs --source-root $(TASKS_SOURCE)
 GATE_tasks_defects := $(NODE) $(TASKS_DEFECTS)/verify.mjs
+GATE_developer_test := $(NODE) $(DEVELOPER_SKILL)/scripts/test.mjs --sample-plugin-root $(OBSIDIAN_SAMPLE_PLUGIN) --sample-theme-root $(OBSIDIAN_SAMPLE_THEME)
+GATE_developer_verify := $(NODE) $(DEVELOPER_SKILL)/scripts/verify.mjs --obsidian-api-root $(OBSIDIAN_API) --developer-docs-root $(OBSIDIAN_DEVELOPER_DOCS) --sample-plugin-root $(OBSIDIAN_SAMPLE_PLUGIN) --sample-theme-root $(OBSIDIAN_SAMPLE_THEME) --releases-root $(OBSIDIAN_RELEASES) --obsidian-help-root $(OBSIDIAN_HELP_ROOT)
 
 .PHONY: help lint hydrated \
 	lint-submodules \
 	lint-dataview-test lint-dataview-verify \
 	lint-tasks-test lint-tasks-verify \
-	lint-tasks-defects
+	lint-tasks-defects \
+	lint-developer-test lint-developer-verify
 
 help:
 	@echo 'make lint                  run every gate, then report'
@@ -55,13 +64,17 @@ help:
 	@echo 'make lint-tasks-test       Tasks skill fixture integration tests'
 	@echo 'make lint-tasks-verify     Tasks skill formal verifier'
 	@echo 'make lint-tasks-defects    Tasks query-language defect harness'
+	@echo 'make lint-developer-test   Developer skill fixture integration tests'
+	@echo 'make lint-developer-verify Developer skill formal verifier'
 
 ## Fail early and distinctly when the research material has not been hydrated, so that a missing
 ## submodule is never reported as an artifact defect.
 hydrated:
 	@missing=''; \
 	for sentinel in $(DATAVIEW_SOURCE)/manifest.json $(TASKS_SOURCE)/manifest.json \
-			$(OBSIDIAN_API)/obsidian.d.ts "$(OBSIDIAN_HELP)/Editing and formatting/Properties.md"; do \
+			$(OBSIDIAN_API)/obsidian.d.ts "$(OBSIDIAN_HELP)/Editing and formatting/Properties.md" \
+			$(OBSIDIAN_DEVELOPER_DOCS)/en/Home.md $(OBSIDIAN_SAMPLE_PLUGIN)/manifest.json \
+			$(OBSIDIAN_SAMPLE_THEME)/manifest.json $(OBSIDIAN_RELEASES)/README.md; do \
 		[ -e "$$sentinel" ] || missing="$$missing $$sentinel"; \
 	done; \
 	if [ -n "$$missing" ]; then \
@@ -90,6 +103,12 @@ lint-tasks-verify: hydrated
 lint-tasks-defects: hydrated
 	@$(GATE_tasks_defects)
 
+lint-developer-test: hydrated
+	@$(GATE_developer_test)
+
+lint-developer-verify: hydrated
+	@$(GATE_developer_verify)
+
 ## Run every gate, then aggregate. One red gate must never hide the rest.
 lint: hydrated
 	@status=0; summary=''; \
@@ -116,6 +135,8 @@ lint: hydrated
 	gate tasks-test $(GATE_tasks_test); \
 	gate tasks-verify $(GATE_tasks_verify); \
 	gate tasks-defects $(GATE_tasks_defects); \
+	gate developer-test $(GATE_developer_test); \
+	gate developer-verify $(GATE_developer_verify); \
 	echo; echo '=== summary ==='; printf '%b' "$$summary"; \
 	echo "aggregate status: $$status ($$(describe $$status))"; \
 	exit $$status
