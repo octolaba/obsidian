@@ -62,7 +62,7 @@ hydrated:
 	done; \
 	if [ -n "$$missing" ]; then \
 		echo "missing pinned material:$$missing" >&2; \
-		echo 'hydrate it first:  git submodule update --init --recursive' >&2; \
+		echo 'hydrate it first:  git submodule update --init' >&2; \
 		exit 3; \
 	fi
 

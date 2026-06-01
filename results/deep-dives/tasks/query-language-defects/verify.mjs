@@ -31,7 +31,7 @@ function findRepoRoot(startDir) {
         }
         if (dirname(dir) === dir) {
             console.error(`Could not find ${UPSTREAM}/manifest.json in any ancestor of ${startDir}.`);
-            console.error('Hydrate the research submodules first:  git submodule update --init --recursive');
+            console.error('Hydrate the research submodules first:  git submodule update --init');
             process.exit(2);
         }
     }
