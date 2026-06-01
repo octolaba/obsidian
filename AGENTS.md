@@ -22,12 +22,17 @@ research/plugins/<org>/<repo>/    plugin submodules; path mirrors the GitHub own
 research/skills/<org>/<repo>/     upstream agent-skill collections; same convention
 research/themes/<org>/<repo>/     theme submodules; same convention
 results/                          everything authored here, one directory per artifact type
+scripts/                          repository-level gates; may use git, which harnesses may not
 ```
 
 `research/` is upstream material vendored as git submodules — reference material, read-only. Each target is a
-full clone pinned by the submodule gitlink to an immutable commit and checked out at detached HEAD. Prefer a
+full clone pinned by the submodule gitlink to an immutable commit, checked out at detached HEAD, and
+registered under a section name identical to its path. Prefer a
 commit carrying an exact release tag when one exists: the commit is the reproducibility ground truth, while
-the tag is its human-readable version. Upstream history, tags, `git log`, and `git blame` remain available.
+the tag is its human-readable version. Obsidian's own material is the exception and tracks the latest upstream
+commit instead: it ships no releases of itself, and where its repositories carry tags at all those tags name
+something else, so pinning to one would pin the wrong thing. Upstream history, tags, `git log`, and
+`git blame` remain available.
 
 ```bash
 git submodule update --init               # hydrate after clone

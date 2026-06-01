@@ -25,6 +25,7 @@ NODE ?= node
 DATAVIEW_SKILL := results/skills/dataview
 TASKS_SKILL := results/skills/tasks
 TASKS_DEFECTS := results/deep-dives/tasks/query-language-defects
+SUBMODULE_LINT := scripts/lint-submodules.sh
 
 DATAVIEW_SOURCE := research/plugins/blacksmithgu/obsidian-dataview
 TASKS_SOURCE := research/plugins/obsidian-tasks-group/obsidian-tasks
@@ -32,6 +33,7 @@ OBSIDIAN_API := research/core/obsidian-api
 OBSIDIAN_HELP := research/core/obsidian-help/en
 
 # Every gate, as "name<TAB>command". This is the only place the mapping lives.
+GATE_submodules := sh $(SUBMODULE_LINT)
 GATE_dataview_test := $(NODE) $(DATAVIEW_SKILL)/scripts/test.mjs --source-root $(DATAVIEW_SOURCE)
 GATE_dataview_verify := $(NODE) $(DATAVIEW_SKILL)/scripts/verify.mjs --source-root $(DATAVIEW_SOURCE)
 GATE_tasks_test := $(NODE) $(TASKS_SKILL)/scripts/test.mjs
@@ -39,6 +41,7 @@ GATE_tasks_verify := $(NODE) $(TASKS_SKILL)/scripts/verify.mjs --source-root $(T
 GATE_tasks_defects := $(NODE) $(TASKS_DEFECTS)/verify.mjs
 
 .PHONY: help lint hydrated \
+	lint-submodules \
 	lint-dataview-test lint-dataview-verify \
 	lint-tasks-test lint-tasks-verify \
 	lint-tasks-defects
@@ -46,6 +49,7 @@ GATE_tasks_defects := $(NODE) $(TASKS_DEFECTS)/verify.mjs
 help:
 	@echo 'make lint                  run every gate, then report'
 	@echo 'make hydrated              check that the pinned submodules are present'
+	@echo 'make lint-submodules       naming, hydration, checkout, and pin hygiene for every submodule'
 	@echo 'make lint-dataview-test    Dataview skill fixture integration tests'
 	@echo 'make lint-dataview-verify  Dataview skill formal verifier'
 	@echo 'make lint-tasks-test       Tasks skill fixture integration tests'
@@ -66,6 +70,11 @@ hydrated:
 		exit 3; \
 	fi
 
+## Deliberately not guarded by `hydrated`: this gate reports hydration itself, across every
+## declared submodule rather than the four an artifact happens to read.
+lint-submodules:
+	@$(GATE_submodules)
+
 lint-dataview-test: hydrated
 	@$(GATE_dataview_test)
 
@@ -81,7 +90,7 @@ lint-tasks-verify: hydrated
 lint-tasks-defects: hydrated
 	@$(GATE_tasks_defects)
 
-## Run all five gates, then aggregate. One red gate must never hide the rest.
+## Run every gate, then aggregate. One red gate must never hide the rest.
 lint: hydrated
 	@status=0; summary=''; \
 	describe() { \
@@ -101,6 +110,7 @@ lint: hydrated
 		summary="$$summary$$name: $$code ($$(describe $$code))\n"; \
 		if [ $$code -gt $$status ]; then status=$$code; fi; \
 	}; \
+	gate submodules $(GATE_submodules); \
 	gate dataview-test $(GATE_dataview_test); \
 	gate dataview-verify $(GATE_dataview_verify); \
 	gate tasks-test $(GATE_tasks_test); \
