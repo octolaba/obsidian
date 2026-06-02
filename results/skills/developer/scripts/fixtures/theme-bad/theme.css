@@ -1,0 +1,13 @@
+body {
+	--background-primary: #ffffff !important;
+	--text-normal: #202020;
+	--accent-h: 254;
+}
+
+.workspace-leaf:has(.markdown-preview-view) {
+	padding: 0 !important;
+}
+
+.canvas-node:has(.canvas-node-label) {
+	border-color: var(--text-accent);
+}

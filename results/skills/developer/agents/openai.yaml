@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Developer"
+  short_description: "Build, debug, review, and ship Obsidian plugins and themes"
+  default_prompt: "Use $obsidian-developer to review this Obsidian plugin against the official policies, submission requirements and guidelines, and tell me what blocks submission."

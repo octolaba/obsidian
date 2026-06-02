@@ -1,0 +1,9 @@
+{
+	"id": "installed-plugin",
+	"name": "Installed",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "An installed plugin folder, not a repository.",
+	"author": "Fixture",
+	"isDesktopOnly": false
+}

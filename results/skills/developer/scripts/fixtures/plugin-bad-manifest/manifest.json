@@ -1,0 +1,8 @@
+{
+	"id": "obsidian_Sample-plugin",
+	"name": "Obsidian Sample Plugin 🎉",
+	"version": "v1.0",
+	"minAppVersion": "9.9.9",
+	"description": "This is a plugin for obsidian that renders markdown and exports pdf files, and it keeps going for a very long time so that it comfortably exceeds the two hundred and fifty character budget that the submission requirements set out for a plugin description 🎉",
+	"fundingUrl": ["https://example.com"]
+}

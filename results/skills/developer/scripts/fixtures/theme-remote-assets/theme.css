@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+
+body {
+	--font-text: Inter, sans-serif;
+	background-image: url(https://example.com/paper.png);
+}
+
+.theme-light {
+	--background-primary: #ffffff;
+}
+
+.theme-dark {
+	--background-primary: #101010;
+}

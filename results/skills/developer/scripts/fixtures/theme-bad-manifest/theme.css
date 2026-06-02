@@ -1,0 +1,18 @@
+body {
+	--font-text-size: 16px;
+	--radius-m: 4px;
+}
+
+.theme-light {
+	--background-primary: #ffffff;
+	--text-normal: #202020;
+}
+
+.theme-dark {
+	--background-primary: #101010;
+	--text-normal: #e0e0e0;
+}
+
+.workspace-tab-header {
+	padding: var(--size-4-1);
+}

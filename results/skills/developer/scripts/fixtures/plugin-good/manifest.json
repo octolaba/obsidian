@@ -1,0 +1,9 @@
+{
+	"id": "clean-example",
+	"name": "Clean Example",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Adds one command that shows a notice.",
+	"author": "Fixture",
+	"isDesktopOnly": false
+}

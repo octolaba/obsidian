@@ -1,0 +1,9 @@
+{
+	"id": "noisy-example",
+	"name": "Noisy Example",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Exercises every source rule the linter carries.",
+	"author": "Fixture",
+	"isDesktopOnly": false
+}

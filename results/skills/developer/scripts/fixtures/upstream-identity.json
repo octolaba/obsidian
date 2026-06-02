@@ -1,0 +1,266 @@
+{
+  "algorithm": "aggregate: sha256 over sorted `path NUL content NUL` of the studied manifest; files: sha256 of each cited file",
+  "manifests": {
+    "api": [
+      "obsidian.d.ts",
+      "canvas.d.ts",
+      "publish.d.ts",
+      "package.json",
+      "CHANGELOG.md",
+      "README.md"
+    ],
+    "docs": [
+      "en/**/*.md"
+    ],
+    "sample": [
+      "manifest.json",
+      "versions.json",
+      "package.json",
+      "package-lock.json",
+      "tsconfig.json",
+      "esbuild.config.mjs",
+      "eslint.config.mts",
+      "version-bump.mjs",
+      "styles.css",
+      "README.md",
+      "AGENTS.md",
+      ".npmrc",
+      ".editorconfig",
+      ".gitignore",
+      "src/**",
+      ".github/workflows/**"
+    ],
+    "theme": [
+      "manifest.json",
+      "versions.json",
+      "theme.css",
+      "version-bump.mjs",
+      "package.json",
+      "README.md",
+      ".github/workflows/**"
+    ],
+    "rel": [
+      "README.md",
+      "plugin-review.md",
+      "cla.md",
+      ".github/**",
+      "community-plugins.json",
+      "community-css-themes.json",
+      "community-plugin-deprecation.json",
+      "community-plugins-removed.json",
+      "community-css-themes-removed.json",
+      "community-snippets.json",
+      "desktop-releases.json"
+    ],
+    "help": [
+      "en/Extending Obsidian/CSS snippets.md",
+      "en/Extending Obsidian/Community plugins.md",
+      "en/Extending Obsidian/Obsidian CLI.md",
+      "en/Extending Obsidian/Plugin security.md",
+      "en/Extending Obsidian/Themes.md",
+      "en/Files and folders/Configuration folder.md",
+      "en/Getting started/Glossary.md",
+      "en/Getting started/Update Obsidian.md",
+      "en/Help and support.md",
+      "en/Obsidian Publish/Customize your site.md",
+      "en/Obsidian Sync/Headless Sync.md",
+      "en/Obsidian Sync/Sync settings and selective syncing.md",
+      "en/Teams/Security considerations for teams.md",
+      "en/User interface/Settings.md"
+    ]
+  },
+  "sources": {
+    "api": {
+      "repo": "obsidianmd/obsidian-api",
+      "commit": "cc1744324150c632416857c98964f87b1574a5fc",
+      "version": "1.13.2",
+      "aggregate": {
+        "files": 6,
+        "sha256": "a12620b6177ff2b0dd00e0b5a12c5201c40b5908756a47e6e93d34da8a66154d"
+      },
+      "files": {
+        "CHANGELOG.md": "d6644226aacd709d8dfbdb975199aec8cf02e17c8e60d8af6e0662f5a21ec2b2",
+        "README.md": "89b06377b8bb16019f959237ef64db04f257c11898450853858fbb711d5b3b90",
+        "canvas.d.ts": "b5f78362dd27ceee81f4a9c0c4fcebcc2da55b7c519083f9bbfbb2364c6d6c5b",
+        "obsidian.d.ts": "ed358aa05694582597726321352494a9833b77c117991189e55761ced8326027",
+        "package.json": "ea2fa80ee954c6fc6401ad14df8252ca247f138cc2167ee95e1d00f5ecb5f615",
+        "publish.d.ts": "8cec908daab056364dda12d15a546e823ca935882781f5795799034e64979daa"
+      }
+    },
+    "docs": {
+      "repo": "obsidianmd/obsidian-developer-docs",
+      "commit": "2d0e942f03b23ed94ebda3c610ed074662ed63db",
+      "aggregate": {
+        "files": 1313,
+        "sha256": "9ffcacbdb13980f8be8ba88cf3aedaa219a74504372951a341d5a29c01b92a4c"
+      },
+      "files": {
+        "en/Developer policies.md": "3b859c817ff40636a714aadfb8ef5528033724f2ac83a217849878ad8fcd00fa",
+        "en/Obsidian October plugin self-critique checklist.md": "2df3b2fab9d4317e6324b570e9046602484d5669efba8816fb931a26515d9824",
+        "en/Obsidian October theme self-critique checklist.md": "a479657fdbfee8788eba0edc71f306e0ef5e739d8a67d783b5f864b035fde02c",
+        "en/Plugins/Editor/Communicating with editor extensions.md": "81a77bc15ef00e66e4ea75bf8175ba5aa1a4e24909df477ed07187ef46f3aa2f",
+        "en/Plugins/Editor/Decorations.md": "e83b4fd5edc35241b913b096f13ead5335972f5749e40f8c63c9b5873c11f3c2",
+        "en/Plugins/Editor/Editor extensions.md": "ab0c5ede7d821a866bdda652a05d20b349efdd72361ab26cf71ed9cc0f1e63b1",
+        "en/Plugins/Editor/Editor.md": "a987fe8777f5eaeea64658184705cbb7112a51873fd3a9cffa8fc0c95a8adbd7",
+        "en/Plugins/Editor/Markdown post processing.md": "594343447c905e97ff43329b443003c39406bd22ab7234b3e38a44727262994e",
+        "en/Plugins/Editor/State fields.md": "c153f8412a3da61af710c091abb44146128c0e00e0288d1afe28e767ea424a13",
+        "en/Plugins/Editor/State management.md": "cadb8be298c0651f870a5d97c2c0a34924cf04200187ecddd1d349e8ab3fcad9",
+        "en/Plugins/Editor/View plugins.md": "a6286bc96260f8235d68974705e1b2a3c78ad976c66238559e9e729f8533d32b",
+        "en/Plugins/Editor/Viewport.md": "b382953130dee3157fc96489ae9973795c8ffcd964426ebffe745199d2fbec0d",
+        "en/Plugins/Events.md": "6ddf91f3b8231d5b63fe4373e855f801651f4241de7f76bb56c0be900d57ef11",
+        "en/Plugins/Getting started/Anatomy of a plugin.md": "7f6aa8a02365369d4b27f90c99c8cd6bb2e5f82dc4e2b9b856c109f3b23677b9",
+        "en/Plugins/Getting started/Build a plugin.md": "a5d56aba6956c6827db9ef2dbedb0dedce956ee3d310e863cb9efbea60b27ad9",
+        "en/Plugins/Getting started/Development workflow.md": "d609aa91cbf03fd3269d4cae606f4b124058b79201e7688ce5902b211e319c3d",
+        "en/Plugins/Getting started/Mobile development.md": "e421ddb11c0252128982bfe56d8ef641f2cadfcd1d65d7226e3f067c91840331",
+        "en/Plugins/Guides/Build a Bases view.md": "a946402241ab3a7fa3827293f32fc6917a8ae26a25fd3d45f5ebde586199b64f",
+        "en/Plugins/Guides/Defer views.md": "b65c3228dd342f503c455d35e0840e4da98f0b44c501e941daae33bf67459528",
+        "en/Plugins/Guides/Migrate to declarative settings.md": "f144f8f816fdced9d01d9a15e0a4339e5f11423480dbfd70368e38fe97d480e0",
+        "en/Plugins/Guides/Optimize plugin load time.md": "54f03c09b1fa5012eed185c441c0a922dbda1f876b684daf9b5eb6f141f92e3a",
+        "en/Plugins/Guides/Store secrets.md": "0a4c5b43d9e0f7b9d965f9a5a26a026b74e5dd72822525f987ef839d68c32117",
+        "en/Plugins/Guides/Support pop-out windows.md": "2441d65ffe0e1302837ff76efd43d26ba9b716156dc1afa3278f5daf82bf5844",
+        "en/Plugins/Releasing/Beta-testing plugins.md": "dc19f5919a0467ccad23866761995265b43521744223b695b81113bd7c33a0ad",
+        "en/Plugins/Releasing/Plugin guidelines.md": "2d7caa6241a6f618eb1e2325c91bf85c6302b0b0cc9be892258fb86f6eafc69a",
+        "en/Plugins/Releasing/Release your plugin with GitHub Actions.md": "61c7578832ad26467fe7c34e70249cab4fdccb6f300809e3a2482929bddc20a4",
+        "en/Plugins/Releasing/Submission requirements for plugins.md": "5e1fedd0643092bdaeb80a56edc579450690b7c3d1d35b3bd00488ec295b84b1",
+        "en/Plugins/Releasing/Submit your plugin.md": "4dbcb8a8aa5ea77e6f8d21a78deeec4319c6bc55d8ee0c3bb1d962ebab127260",
+        "en/Plugins/User interface/Commands.md": "4146b7f6d3481237b68c947066af8275343516084e9392ce20a553cdf404b986",
+        "en/Plugins/User interface/Context menus.md": "822adcdcf86452aec4e08261a5547688d0a2c766e496e51f9d50a555e193afd0",
+        "en/Plugins/User interface/HTML elements.md": "58b011182ec2baf50b0da9c3290ed295f44907e72ab30e70195efb2f7c36f58a",
+        "en/Plugins/User interface/Icons.md": "26130301cf7df9315714ba7a038032ab6de2426e1f52e5b54128e8d85d15217d",
+        "en/Plugins/User interface/Modals.md": "6ec663c1fa46db18af62a736b0bc058f83e299cad1355332fec3494dc24b893e",
+        "en/Plugins/User interface/Ribbon actions.md": "b272b6b87f17b3220ed46984fbade9c9022cef819806cfe167dda093fdd02c78",
+        "en/Plugins/User interface/Right-to-left.md": "d297e5d4f6348da2b78568c3278c1f4effe713c3a0ca6c577a55073f8676955d",
+        "en/Plugins/User interface/Settings.md": "e011bfc5c15b94e8fe2cbb803ddcf403916b3621215c08b2ff02a1f20122a4a8",
+        "en/Plugins/User interface/Status bar.md": "d96997108843b0a013f2257ac0c0986c298f2f22bc7908c8ff7f1541e1065299",
+        "en/Plugins/User interface/Views.md": "f2d57e9fe2f92ed09c764f31e63ff42f2cd280f7bd11d276ef0e07f27eaa1010",
+        "en/Plugins/User interface/Workspace.md": "b5bb9c084cad61b88047faad109dc55179ef8e050d59639baa2b2a324d7cc575",
+        "en/Plugins/Vault.md": "b1461b73892f9b628e3871df3935426363c510ea95a027170220580ef6c311ad",
+        "en/Reference/CSS variables/About styling.md": "749a48698f49985ed9e800602389692c71ed13512c5327b5160d97a036bc98a1",
+        "en/Reference/CSS variables/CSS variables.md": "241683eb989b436b80f9d6f55b2f8d48daf68932f92acf9c5b8e0260e6e7ee71",
+        "en/Reference/CSS variables/Components/Dropdowns.md": "93017b012028f835a1cecd7bc46a0a91add7b7a83fc7fef59a1e7bc3029d72cd",
+        "en/Reference/CSS variables/Components/Indentation guides.md": "8245f7a43318199c95f8170a6af46a1dc3f3c02091aba96445de45012290b081",
+        "en/Reference/CSS variables/Components/Prompt.md": "e6c763e94474f3de3edae4adf78642919cc1cc101931c809bf7696b8a0a9ca58",
+        "en/Reference/CSS variables/Editor/Bases.md": "45090c39502e5349122292f050080302d7ed48b1876b7d3fe7d12456019e53b0",
+        "en/Reference/CSS variables/Editor/Code.md": "5b775939b6d747f716209eaac298d470a42efd4541bd3e87e1cf4c3b8a2136d5",
+        "en/Reference/CSS variables/Editor/List.md": "476fa7cd65bfd1be1ca9997e6210b799c9002f48937b320e2fd032d2e9731db6",
+        "en/Reference/CSS variables/Foundations/Colors.md": "a478ef26597098ed9a35bd6945ccaed7164f995083aaf6eaa4c3959e92116caf",
+        "en/Reference/CSS variables/Foundations/Layers.md": "c05f64036345401ffd3d2c96df9680171c0173a8173440186ed4aaef9bf66a0a",
+        "en/Reference/CSS variables/Foundations/Radiuses.md": "acf000e81db1a9db14f8f12fb2057341c723ebbc8c195721af6b4d8d5cf77d23",
+        "en/Reference/CSS variables/Foundations/Spacing.md": "4e31ff1095e9eb67b2d4f4f38d632b4965f643165e3d9b57d56c5bdacc9d95fa",
+        "en/Reference/CSS variables/Foundations/Typography.md": "6efa7ac3b06c38bc539ff9b48f80010d155035c69a7d522655a7c3fef3297f4d",
+        "en/Reference/CSS variables/Plugins/Sync.md": "eef1154960ab9e893f4f58cf7668d562f24bf58cd1be556a78b6eee5f3f393f4",
+        "en/Reference/CSS variables/Publish/Publish.md": "86da3973bfba7d470d3cd5d8dfcb51af56e6e2937d2834d55fdb30d02b2cf27a",
+        "en/Reference/CSS variables/Publish/Site fonts.md": "fd6bd9bfdd2cb698aaa7ae4e855da8fc849dc863c9acc4f6c0c61897423219ac",
+        "en/Reference/CSS variables/Publish/Site footer.md": "72b5719d8c305b7544b21d36b5e7b7fdfa256c0ed998acb17d987b9e5b16c5cf",
+        "en/Reference/CSS variables/Publish/Site sidebars.md": "277712cfdaddf9b78bab49b9b05287725554bb7477e330b4d1491bbf7f0e5157",
+        "en/Reference/CSS variables/Window/Sidebar.md": "960b474370ce86c3a11441c141ed272c7973766e9cfcae60dfa5331d7f704eee",
+        "en/Reference/CSS variables/Window/Vault profile.md": "f4586c89c870cd5c836ef66dafd0ac442a347844019835a9fc283a65a73dc008",
+        "en/Reference/Manifest.md": "e1ec9f73136f9b68b138f89f83a07770ec84d75448ee7d1d2a5bb715e7b2260b",
+        "en/Reference/TypeScript API/Menu.md": "23b7035a2eca840b2b7f4e646c11dd92659ecd7e8f490df1058785c28aea3646",
+        "en/Reference/TypeScript API/MetadataCache.md": "82efb6a43569ca4ff98ae849e35e2f4c939f266df605dfbfebb3adb05e242794",
+        "en/Reference/TypeScript API/Modal.md": "328300b84404e044fa7fa4f9b95204c420583c9fc8c55e8f16745ba29ceac2c2",
+        "en/Reference/TypeScript API/SuggestModal.md": "9a23accca3f393e0fa8decc6caddd9e6aa3aa1e4b1bc2e735f903e27ba728d5d",
+        "en/Reference/TypeScript API/getLanguage.md": "117f17ee26ff5d03ed4174531368f807901469385cc3c260eaa06fe754cac171",
+        "en/Reference/Versions.md": "1ec9489ba7c6f86504f3e544b37edc248b87c06ddc06aa586a9e4965ca57c61e",
+        "en/Themes/App themes/Build a theme.md": "f0e98f540d72a35b2438f555b1d0920e28f5727ad8cd3cdad6cf463ccd95e9ad",
+        "en/Themes/App themes/Embed fonts and images in your theme.md": "05d500496b447f7381c0e4242120345fa6cb24d8c3c39f8a4a27638844acda50",
+        "en/Themes/App themes/Release your theme with GitHub Actions.md": "d0a66bd66794ffcd541724298bb2cff7f541587288c34a5be726ea952e46b467",
+        "en/Themes/App themes/Submit your theme.md": "7cad86eee54f548ee7e4cc945ac1e34a6a69d09d6e7ebd6c2aac32d37dbd70a3",
+        "en/Themes/App themes/Theme guidelines.md": "1925e3866b3153d5995fbd7f814e098e1eeec699da31011e2fb3bbe8f8ffaedb",
+        "en/Themes/Obsidian Publish themes/About Obsidian Publish themes.md": "94e4ebdbdbb737f27c81cdad3b5ed93ece6f46ff8818285c9cba870f818fd51b",
+        "en/Themes/Obsidian Publish themes/Best practices for Publish themes.md": "634780e69d925c35dd88f0d9f10f8217f134f4cb469f34217df05ccfbfe13e05",
+        "en/Themes/Obsidian Publish themes/Build a Publish theme.md": "16c367fb3dc1bf66cba10776fa6e2a39a249971974e67fc678605fed87fd4f26"
+      }
+    },
+    "sample": {
+      "repo": "obsidianmd/obsidian-sample-plugin",
+      "commit": "23c165fd362d4049330cb3edad6a52914ff2007a",
+      "aggregate": {
+        "files": 18,
+        "sha256": "20f8b5fb64cbc28f23fb3cd47f67a3e7f9f3b1391a7a118005e303d3a303645c"
+      },
+      "files": {
+        ".editorconfig": "b7a809825ee16492a0d877f0864dd29d5e1c76e27f122fc3f4ab129b4e581cb7",
+        ".github/workflows/lint.yml": "05ac25c4460975f50194be0d9314bd1a088513d2f3dca1bc1e0074eedf1247ce",
+        ".github/workflows/release.yml": "7cf87f0dc1576643f59d34ea37472720c5abeebd91f4153e3ea6df6ad180e321",
+        ".gitignore": "c59322ab1457f9f2f571dd006e59fc58a1956228ba385a29f4601d7ec26a9d6a",
+        ".npmrc": "1e8648fe5564177375a935f6b444a6f9661fa61da625477745929f146162b4dd",
+        "AGENTS.md": "84fa402e3bf6fd37e4f4d781b6ae75ef7832f14c52959c40f84818f3428b7e95",
+        "README.md": "5ffddf920efa082846ae8c01a5fd20e1a8b090e449fa390205b2d203e9737bd6",
+        "esbuild.config.mjs": "ea90c00d05ec7b95e924ab8c2fa3fe70b817cce25ae8e0b1d464af06c779cf24",
+        "eslint.config.mts": "aa06621767490c32b2f5e72c995cfc318cfd1ef89f82fcb0d33807069462eab1",
+        "manifest.json": "24fe7b13b4c09d38a7cc323e2115b96bf4a201dfd78b89552c9638f917dd2c94",
+        "package-lock.json": "89ba2277d05b0adc45f6131dce7f62340bf8fdd3f5817ad656ca953278a5cde2",
+        "package.json": "0aa37c97f456ccab7e14f2dfaec8c54e3da69ddd8184544c543bf4c532fc65d2",
+        "src/main.ts": "0d03217199cbf9341ad08ffeeaa61d9af5c4fed4e773b2262e84a273d52e9f19",
+        "src/settings.ts": "649f7d8975441bfced6dc174134acb9138e4e668e31dd7754addb8134c06fdbe",
+        "styles.css": "8764243cae0351ebdbb76e770c4feffcb1956ff42420d4ec159212dc7a8535ed",
+        "tsconfig.json": "38cc2dffbca4c42e3f1d19ee38f8e8effd00e5f3b8e0bf00597c828aa38cc9a9",
+        "version-bump.mjs": "efcf78c06db00298d7dacd6997edc67672006b8b898ffad34bfb8c99c2965937",
+        "versions.json": "c064411e259561aa90a1493a926d1d9abfd5bc17208a60be3a8d45da410eb5a6"
+      }
+    },
+    "theme": {
+      "repo": "obsidianmd/obsidian-sample-theme",
+      "commit": "be9db886ee504a5b261304a072efed8dd95477d9",
+      "aggregate": {
+        "files": 7,
+        "sha256": "5bf8672e54708070683f0efb553bf93c4de493bc77f986418bc63311db91b5c4"
+      },
+      "files": {
+        ".github/workflows/release-version.yml": "5b7fd21f6d8967b878a72a2beb814a8ab81f0b719777dcb1c8b024964546bc44",
+        "README.md": "c1deb20465c0c3a6dc6fa29406cbf4a80ae445b02582c64e89b23dca8d600001",
+        "manifest.json": "24c59d150decdc83db75329f276da9d0b32f73d651e63e95d351a52143513296",
+        "package.json": "46f4d25f1026f146ffd0064184e340a01fa3f26e0eb708a044fd69708a77a43d",
+        "theme.css": "947f2a031b8736d653791400ef79b4f045f77ddecf719ccabefd0bcd5c44fbc5",
+        "version-bump.mjs": "223e0d56dc04209afe8322b542b2f5b5585e0a5b74cf4bb3b659a87b639cccfc",
+        "versions.json": "fed07564b8db8de74ba29987556730d108f6b2caa1d9139a37c990f8666e9788"
+      }
+    },
+    "rel": {
+      "repo": "obsidianmd/obsidian-releases",
+      "commit": "80239338536205c598b72ed46c77ecb86831bc57",
+      "aggregate": {
+        "files": 13,
+        "sha256": "a226bb6cbcafe7de68a67a338948040b50e2b00bdea6b9186965a137b5b2bd3f"
+      },
+      "files": {
+        ".github/workflows/mirror-community-json.yml": "ed6b7d0eb69d988614abbad8c4ac3858344e2f055ca9ee458bebe629c06f9d86",
+        "README.md": "585463685690b3d6339429c7315dd9e1844dfce5aedc8309cb5000260effc50a",
+        "cla.md": "44d27cdc1e73436702f54443fddbe492037fcf6ec3341cd4f79d2b3c993c78ae",
+        "community-css-themes-removed.json": "a8440dec68b5db4ab3feab8954e47eca0f6abe40f010cb6683947ab27c59b589",
+        "community-css-themes.json": "5702004b32e3b778c4b24657d4537dc03769b4a171f542c2baa3b3548014c490",
+        "community-plugin-deprecation.json": "3877893c2d3dd32e1bc6f8122c535a6cb6c126b23fa746b0e33a803f02316830",
+        "community-plugins-removed.json": "9fc7c1d55a07d71ab009d4260b7c33bea9d1f3742c15378ebae42621cbf20b47",
+        "community-plugins.json": "55de88f264dc734e507131576dec38109b3290bb33ca3091f66819d9b2a6530c",
+        "community-snippets.json": "777f6d4621df39ac4193222023a7387bde83509b70b89aaca836d1cabb17acda",
+        "desktop-releases.json": "304ea841b99ade1f9359d6af3264c9d886b8605252d87a8f789e657380a85d13",
+        "plugin-review.md": "14798fde3b6d7672ee8fac9981ef19d1817dba87cf3e0b9d2b27e2cf25a0a8dd"
+      }
+    },
+    "help": {
+      "repo": "obsidianmd/obsidian-help",
+      "commit": "a97de34c1a9f2381586f4f51070aeb9207c8a457",
+      "aggregate": {
+        "files": 14,
+        "sha256": "8eadba16ca1cde1627f1c7c7186ba26c9e04ee426f3832d58226959b5a3f940e"
+      },
+      "files": {
+        "en/Extending Obsidian/CSS snippets.md": "76f06be1182f2381ba0df6c0aa9ce444fbd71241f1303b28a7e4c4fe2e47a018",
+        "en/Extending Obsidian/Community plugins.md": "a85b0f88c26b433489a4f4bcb81c072397ad6561b6bf4c1a17fa3557f63bccda",
+        "en/Extending Obsidian/Obsidian CLI.md": "1544d5de218c9a84bb44666c6a19e35b6635532c0a853cd3721f2f6912207c75",
+        "en/Extending Obsidian/Plugin security.md": "224c311049ab44a19d71b3615e361377fb75d3fa9c2b56436ae8280f89f1615e",
+        "en/Extending Obsidian/Themes.md": "00ac40dd8663eb7d980552b799b9053bd6b55b5d001ed59c6bdaa324eea116b7",
+        "en/Files and folders/Configuration folder.md": "ab6b05840f1508b621210f2fb74a68199b22a80d0370ecccbb480b5b98a4e9d6",
+        "en/Getting started/Glossary.md": "aebff01b92d68245e57f2641fe1601e070123fe093b3a7bcd37bc9c92a803665",
+        "en/Getting started/Update Obsidian.md": "0f2bfe7ca73d99790ebb0ff7e3dc1294b4d6c010f3e12cc468f957c0fa2eaf58",
+        "en/Help and support.md": "bbcab225848d7bfbcf9ab4ec0f2ee2a0884c28159464138929247dc783485036",
+        "en/Obsidian Publish/Customize your site.md": "1fb2c5a423745fc4231a291043437a04a2584d6906a2bad6600747ab4faf135e",
+        "en/Obsidian Sync/Headless Sync.md": "633bda169c0488c0d64e8b7f128cb427d30f92fd5bdaf20fb4c0246a127046a4",
+        "en/Obsidian Sync/Sync settings and selective syncing.md": "040d233c7ba6e3f674aed22bbfaddd18c7af783a1e74be5dd7b79301cf83dac4",
+        "en/Teams/Security considerations for teams.md": "c56ef98562a456e3633b2cef77bed7419027afdb78399aaf5f7c25f2b330ff01",
+        "en/User interface/Settings.md": "4c3cf6566321af4f34643f6dedda80188bbb344d6d74f926823c36216da72ece"
+      }
+    }
+  }
+}
