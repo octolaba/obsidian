@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Kanban"
+  short_description: "Validate, migrate and edit Kanban 2.0.51 boards"
+  default_prompt: "Use $obsidian-kanban-plugin to check this Kanban board for anything the next Obsidian save would change or delete, and tell me which findings would lose content."

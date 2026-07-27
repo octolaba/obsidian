@@ -1,0 +1,27 @@
+{
+  "source": "obsidian-community/obsidian-kanban",
+  "version": "2.0.51",
+  "commit": "8501981a1afacb4c8fc03ec60604aa5eedfbd857",
+  "materialAlgorithm": "sha256(path NUL content NUL), sorted paths, over src, docs, manifest.json, package.json and versions.json",
+  "materialFiles": 328,
+  "materialSha256": "0922954e38fe1f951d2e0c27522262cad14e76c87f42f35f56d9ad3f41770163",
+  "supporting": {
+    "tasks": {
+      "repo": "obsidian-tasks-group/obsidian-tasks",
+      "version": "8.3.0",
+      "commit": "e16dbc2cf509420459ea04094a1d834ae89e0019",
+      "fileAlgorithm": "sha256 of each cited file",
+      "files": {
+        "resources/sample_vaults/Tasks-Demo/Manual Testing/Smoke test Kanban Integration.md": "133565aae7ccf8889c97b25d380d7deb696693bad6366b87e96f1ea83f9ff85a",
+        "resources/sample_vaults/Tasks-Demo/Test Data/example_kanban.md": "90a896ff34cd334fc581c242b69d1a4f8a253cb58b0d0cff31da4cdfa024a4cd",
+        "src/Api/index.ts": "6477609ea3d92cb80041912f5525d15c84f6d0c9f79af7f06ec5819a7ebb4c92",
+        "src/Commands/ToggleDone.ts": "0d553fcac501c13c895e0adf8e2ec544e7dbaf11684a9d564695600503f25112",
+        "src/Config/Settings.ts": "a906a8bab809c7751af091a7017b51f80bd64ca3171932e74bb9a25d43dd6feb",
+        "src/Statuses/Status.ts": "7a094c7ad92e8a9182347cebf1faa4153e1b06ff3cc6174ea1c4000bd76749df",
+        "src/Task/Task.ts": "93edfb74b7cd40c30fcea34a2b172a8f978eb5f745048a5fb69e4370eca1b40f",
+        "src/Task/TaskRegularExpressions.ts": "002f313fdf7fa08771d463ff6b0d0f94c208971ce9272e31db7992e4ed53c25f",
+        "src/TaskSerializer/DefaultTaskSerializer.ts": "cf3a58dbfcf4141ea60403c6f622e095219355c9c44966aae84abe462f3088c8"
+      }
+    }
+  }
+}

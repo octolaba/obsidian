@@ -25,11 +25,13 @@ NODE ?= node
 DATAVIEW_SKILL := results/skills/dataview
 TASKS_SKILL := results/skills/tasks
 DEVELOPER_SKILL := results/skills/developer
+KANBAN_SKILL := results/skills/kanban
 TASKS_DEFECTS := results/deep-dives/tasks/query-language-defects
 SUBMODULE_LINT := scripts/lint-submodules.sh
 
 DATAVIEW_SOURCE := research/plugins/blacksmithgu/obsidian-dataview
 TASKS_SOURCE := research/plugins/obsidian-tasks-group/obsidian-tasks
+KANBAN_SOURCE := research/plugins/obsidian-community/obsidian-kanban
 OBSIDIAN_API := research/core/obsidian-api
 OBSIDIAN_HELP := research/core/obsidian-help/en
 OBSIDIAN_HELP_ROOT := research/core/obsidian-help
@@ -47,13 +49,16 @@ GATE_tasks_verify := $(NODE) $(TASKS_SKILL)/scripts/verify.mjs --source-root $(T
 GATE_tasks_defects := $(NODE) $(TASKS_DEFECTS)/verify.mjs
 GATE_developer_test := $(NODE) $(DEVELOPER_SKILL)/scripts/test.mjs --sample-plugin-root $(OBSIDIAN_SAMPLE_PLUGIN) --sample-theme-root $(OBSIDIAN_SAMPLE_THEME)
 GATE_developer_verify := $(NODE) $(DEVELOPER_SKILL)/scripts/verify.mjs --obsidian-api-root $(OBSIDIAN_API) --developer-docs-root $(OBSIDIAN_DEVELOPER_DOCS) --sample-plugin-root $(OBSIDIAN_SAMPLE_PLUGIN) --sample-theme-root $(OBSIDIAN_SAMPLE_THEME) --releases-root $(OBSIDIAN_RELEASES) --obsidian-help-root $(OBSIDIAN_HELP_ROOT)
+GATE_kanban_test := $(NODE) $(KANBAN_SKILL)/scripts/test.mjs --source-root $(KANBAN_SOURCE) --tasks-root $(TASKS_SOURCE)
+GATE_kanban_verify := $(NODE) $(KANBAN_SKILL)/scripts/verify.mjs --source-root $(KANBAN_SOURCE) --tasks-root $(TASKS_SOURCE)
 
 .PHONY: help lint hydrated \
 	lint-submodules \
 	lint-dataview-test lint-dataview-verify \
 	lint-tasks-test lint-tasks-verify \
 	lint-tasks-defects \
-	lint-developer-test lint-developer-verify
+	lint-developer-test lint-developer-verify \
+	lint-kanban-test lint-kanban-verify
 
 help:
 	@echo 'make lint                  run every gate, then report'
@@ -66,6 +71,8 @@ help:
 	@echo 'make lint-tasks-defects    Tasks query-language defect harness'
 	@echo 'make lint-developer-test   Developer skill fixture integration tests'
 	@echo 'make lint-developer-verify Developer skill formal verifier'
+	@echo 'make lint-kanban-test      Kanban skill fixture integration tests'
+	@echo 'make lint-kanban-verify    Kanban skill formal verifier'
 
 ## Fail early and distinctly when the research material has not been hydrated, so that a missing
 ## submodule is never reported as an artifact defect.
@@ -74,7 +81,8 @@ hydrated:
 	for sentinel in $(DATAVIEW_SOURCE)/manifest.json $(TASKS_SOURCE)/manifest.json \
 			$(OBSIDIAN_API)/obsidian.d.ts "$(OBSIDIAN_HELP)/Editing and formatting/Properties.md" \
 			$(OBSIDIAN_DEVELOPER_DOCS)/en/Home.md $(OBSIDIAN_SAMPLE_PLUGIN)/manifest.json \
-			$(OBSIDIAN_SAMPLE_THEME)/manifest.json $(OBSIDIAN_RELEASES)/README.md; do \
+			$(OBSIDIAN_SAMPLE_THEME)/manifest.json $(OBSIDIAN_RELEASES)/README.md \
+			$(KANBAN_SOURCE)/manifest.json; do \
 		[ -e "$$sentinel" ] || missing="$$missing $$sentinel"; \
 	done; \
 	if [ -n "$$missing" ]; then \
@@ -109,6 +117,12 @@ lint-developer-test: hydrated
 lint-developer-verify: hydrated
 	@$(GATE_developer_verify)
 
+lint-kanban-test: hydrated
+	@$(GATE_kanban_test)
+
+lint-kanban-verify: hydrated
+	@$(GATE_kanban_verify)
+
 ## Run every gate, then aggregate. One red gate must never hide the rest.
 lint: hydrated
 	@status=0; summary=''; \
@@ -137,6 +151,8 @@ lint: hydrated
 	gate tasks-defects $(GATE_tasks_defects); \
 	gate developer-test $(GATE_developer_test); \
 	gate developer-verify $(GATE_developer_verify); \
+	gate kanban-test $(GATE_kanban_test); \
+	gate kanban-verify $(GATE_kanban_verify); \
 	echo; echo '=== summary ==='; printf '%b' "$$summary"; \
 	echo "aggregate status: $$status ($$(describe $$status))"; \
 	exit $$status

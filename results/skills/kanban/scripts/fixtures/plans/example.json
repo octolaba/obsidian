@@ -1,0 +1,11 @@
+{
+  "format": "board",
+  "lanes": [
+    { "from": "Backlog", "to": "Inbox" },
+    { "to": "In Progress", "create": true, "after": "Inbox", "maxItems": 3 },
+    { "to": "Done", "marksComplete": true }
+  ],
+  "order": ["Inbox", "In Progress", "Done"],
+  "settings": { "lane-width": 320 },
+  "onMissingLane": "skip"
+}
