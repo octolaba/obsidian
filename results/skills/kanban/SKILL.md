@@ -75,9 +75,11 @@ Then the branch that matches:
 - **A missing or mangled card:** the lane it was in, whether the board was open at the time, and
   whether anything edited the file from outside Obsidian.
 - **The done column:** whether the Tasks plugin is installed, which lane carries the complete marker,
-  and how the card was moved — dragging, the card menu, or the checkbox. They do different things.
+  how the card was moved — dragging, the card menu, or the checkbox — and, when exact emulation is
+  required, Tasks' `data.json`. Its global filter, task format, done-date switch and status registry
+  all change the returned line.
 - **A settings problem:** the settings block verbatim, and whether any Kanban key is in the YAML
-  frontmatter instead.
+  frontmatter instead. Ask for Kanban's `data.json` when the value may be inherited globally.
 - **A migration:** the current and target lane sets, and whether every board shares the same shape.
 
 ## Mental model
@@ -130,7 +132,9 @@ Load only what the question needs. Every reference is part of this portable skil
 
 ### Deciding whether a board is correct
 
-1. Run [`scripts/kanban-board-lint.mjs`](scripts/kanban-board-lint.mjs) with the vault's UI language.
+1. Run [`scripts/kanban-board-lint.mjs`](scripts/kanban-board-lint.mjs) with the vault's UI language;
+   pass `--kanban-data` when the plugin's `data.json` is available so inherited triggers and limits
+   participate in the scan.
 2. Fix `error` findings before anything else: they mean the board does not load, or the next save
    deletes something.
 3. Read the `assumptions` block before acting on a `warning`. Several rules depend on the language
@@ -141,10 +145,12 @@ Load only what the question needs. Every reference is part of this portable skil
 
 1. Read the safe mutation reference. The concurrency contract is the part that loses work.
 2. Confirm the board is closed in Obsidian; if it cannot be, accept that the edit may be overwritten.
-3. Run [`scripts/kanban-card.mjs`](scripts/kanban-card.mjs) without `--write` and read the diff and
-   the mechanics it lists.
-4. Re-run with `--write`. The tool compares the file against the bytes it read, keeps a backup, and
-   re-checks after `--settle-seconds` that the write survived.
+3. Run [`scripts/kanban-card.mjs`](scripts/kanban-card.mjs) without `--write` and read the diff, the
+   mechanics and both hashes it lists. Supply `--kanban-data` and `--tasks-data` when those settings
+   affect the operation.
+4. Re-run with `--write`, `--expect-sha256` and `--expect-output-sha256` from that dry run. The first
+   binds the input bytes; the second binds the exact proposed output and therefore the options and
+   timestamp that produced the reviewed diff.
 5. Lint the board again.
 
 ### Recovering an edit that was lost anyway
@@ -167,8 +173,9 @@ overwrite the recovered file the same way it overwrote the original.
 1. Close the boards.
 2. Lint first, so a pre-existing defect is not blamed on the migration.
 3. Write a plan, run [`scripts/kanban-migrate.mjs`](scripts/kanban-migrate.mjs) without `--write`,
-   and read every diff.
-4. Apply, lint again, then open one board and confirm the done column still marks cards complete.
+   and read every diff plus the target-set and proposal hashes.
+4. Apply with both expected hashes, lint again, then open one board and confirm the done column still
+   marks cards complete. Do not use `--allow-partial` unless a partially migrated vault is deliberate.
 
 ## High-risk traps
 
@@ -178,11 +185,13 @@ overwrite the recovered file the same way it overwrote the original.
 - **Content the model cannot carry is deleted on save**, silently and without a prompt.
 - **A complete marker after the cards is ignored and then deleted**, taking the lane's done-column
   behaviour with it.
-- **The markers are language-dependent.** Eight of the twenty-four languages the plugin knows
-  translate the complete and archive markers; the rest fall back to English. Moving a board between
-  two languages that spell them differently loses its done column and its archive.
+- **The markers are language-dependent.** Seven of the twenty-four languages the plugin knows
+  translate the complete and archive markers; the rest — English among them — write the English
+  words. Moving a board between two languages that spell them differently loses its done column and
+  its archive.
 - **No Tasks plugin, no completion date.** A skill or script that promises a `✅` date on a vault
-  without Tasks is promising something the plugin does not do.
+  without Tasks is promising something the plugin does not do. With Tasks installed, a global filter
+  withholds the date from any card that does not carry it.
 - **A recurring card is two cards.** Completing one through Tasks creates the next occurrence; an
   external edit that writes one card has dropped it.
 - **`max-archive-size` deletes archived cards on render**, without asking. It keeps the tail of the
@@ -200,11 +209,31 @@ that silently scans the working directory.
 
 | Tool | Purpose and invocation |
 |---|---|
-| [`kanban-board-lint.mjs`](scripts/kanban-board-lint.mjs) | Find every board in a vault and report what is wrong and what the next save changes. `node scripts/kanban-board-lint.mjs --vault /path/to/vault --locale ru --format sarif` |
-| [`kanban-card.mjs`](scripts/kanban-card.mjs) | Inspect and change cards, imitating the plugin's own mechanics. `node scripts/kanban-card.mjs move --vault V --board Board.md --lane Doing --index 0 --to-lane Done --tasks-emoji --write` |
-| [`kanban-migrate.mjs`](scripts/kanban-migrate.mjs) | Apply a declarative workflow migration to one board or a whole vault. `node scripts/kanban-migrate.mjs --plan plan.json --vault V --write` |
+| [`kanban-board-lint.mjs`](scripts/kanban-board-lint.mjs) | Find every board in a vault and report what is wrong and what the next save changes. Add `--kanban-data .obsidian/plugins/obsidian-kanban/data.json` when that is the vault's configuration path. |
+| [`kanban-card.mjs`](scripts/kanban-card.mjs) | Inspect and change cards, imitating the plugin's mechanics. `--tasks-data` models Tasks' emoji or Dataview format, global filter, `setDoneDate` and done symbol; recurrence is refused unless an explicitly lossy override is given. |
+| [`kanban-migrate.mjs`](scripts/kanban-migrate.mjs) | Apply a closed-schema declarative workflow migration to one board or a whole vault. Safety skips block every write by default; `--allow-partial` is a loud opt-in and still exits `5`. |
 | [`verify.mjs`](scripts/verify.mjs) | Check source identity, citations, portability and the values this skill ported out of the pin. |
 | [`test.mjs`](scripts/test.mjs) | Run the fixture-based integration checks for the tools. |
+
+Canonical command shapes (run each script with `--help` for operation-specific selectors):
+
+```sh
+node scripts/kanban-board-lint.mjs --vault VAULT --locale en \
+  --kanban-data .obsidian/plugins/obsidian-kanban/data.json \
+  --vault-date-format YYYY-MM-DD --vault-time-format HH:mm
+node scripts/kanban-card.mjs OPERATION --vault VAULT --board BOARD.md --locale en \
+  --strategy minimal --via drag --tasks-emoji \
+  --tasks-data .obsidian/plugins/obsidian-tasks-plugin/data.json --tasks-format emoji \
+  --tasks-set-done-date true --global-filter '#task'
+node scripts/kanban-card.mjs OPERATION --vault VAULT --board BOARD.md --write \
+  --expect-sha256 INPUT_HASH --expect-output-sha256 OUTPUT_HASH --settle-seconds 3
+node scripts/kanban-migrate.mjs --plan PLAN.json --vault VAULT --board BOARD.md --locale en
+```
+
+`--archive-stamp` is the explicit fallback for an unsupported archive-date token, and
+`--allow-lossy-recurrence`, `--allow-partial` and `--no-backup` each discard a safety property; use
+one only after its named loss is deliberate. `--tasks-data` is preferable to individual Tasks
+overrides because it also supplies settings the caller may not know to ask about.
 
 Severity is derived, never chosen. A rule declares what happens to the board — the board does not
 load, content is lost, the meaning differs, bytes change on save, or it is informational — and the
@@ -213,17 +242,26 @@ disagree about how serious they are, and `verify.mjs` re-derives every severity 
 What it does not buy is correctness of the declaration itself; a rule that names the wrong
 consequence is still wrong, and only reading it against the pinned source catches that.
 
-Exit codes are shared across the bundled harnesses: `0` clean, `1` findings or a failed check, `2`
-usage error, `3` required material missing, `4` source-identity mismatch. The two writing tools
-document one extension, `5`, for a request that was understood and refused — an unparseable board, an
-ambiguous card, a recurrence this tool will not fake, or a file that changed underneath it.
+Exit codes are shared across the bundled harnesses: `0` clean, `1` findings, a failed check, or —
+from the two writing tools — nothing to change, `2` usage error, `3` required material missing, `4`
+source-identity mismatch. The two writing tools document one extension, `5`, for a request that was
+understood and refused — an unparseable board, an ambiguous card, a recurrence this tool will not
+fake, a file or reviewed proposal that changed underneath it, or a vault migration that had to skip
+boards for safety. A partial write explicitly allowed by `--allow-partial` still exits `5`.
 
 `kanban-card.mjs` and `kanban-migrate.mjs` are the only tools that write, and only with `--write`.
-Both compare the file against the bytes they read before touching it, keep a `.bak` sibling unless
-`--no-backup` says otherwise, and read the file back afterwards. `--strategy normalize` additionally
-rewrites the whole file the way the plugin would; the default splices only the lines it changed, and
-both refuse a frontmatter richer than flat key-and-value lines rather than rewriting one they only
-partly read.
+Both compare the file against the bytes they read before touching it, bind an optional reviewed input
+and output hash, keep a non-overwriting `.bak`/`.bak.N` sibling unless `--no-backup` says otherwise,
+replace each board through a same-directory staged file, and read it back afterwards — immediately,
+and once more after `--settle-seconds` (default 3), because an open board can overwrite an external
+edit seconds later. The migrator stages every result before replacing any board and rolls already
+replaced boards back if a later, detected commit step fails; no filesystem can make several separate
+files one crash-atomic transaction, so process or machine failure remains a named limitation.
+`--strategy normalize` additionally rewrites the whole file the way the plugin would; the default
+splices only the lines it changed — a card the operation did not touch keeps its bytes even inside
+an edited lane. Any whole-file rewrite refuses frontmatter richer than modelled flat key-and-value
+lines (including rewrite-sensitive inline comments); a minimal card splice may proceed because it
+keeps those bytes verbatim.
 
 Because the plugin itself is inconsistent about when the complete mechanic runs, a move has to say
 which path it imitates: `--via drag` applies it, as dragging and the checkbox do, and `--via menu`

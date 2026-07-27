@@ -61,6 +61,14 @@ and then calls
 **Unverified** — the directory name is Obsidian's default and a vault may be opened with a different
 configuration directory, in which case the `.obsidian` component changes with it.
 
+**Bundled-tool boundary.** The linter and card tool never guess that configuration path. Pass the
+actual file, relative to the declared vault, through `--kanban-data`; they validate that it is a JSON
+object inside the vault, resolve local values over it, compile the derived trigger and format values,
+and keep the inherited object separate from `board.settings` so a card write never copies global
+defaults into the board's footer. When Daily Notes, Natural Language Dates or Templates supply the
+vault-level date/time fallback, bind those separately with `--vault-date-format` and
+`--vault-time-format`.
+
 **YAML frontmatter — read, never written.** `parseMarkdown` walks the parsed frontmatter and routes
 any key present in `settingKeyLookup` into `settings` rather than into the file frontmatter —
 **Observed** `kanban: src/parsers/parseMarkdown.ts:178`. Everything else stays frontmatter —
@@ -335,8 +343,9 @@ table column divider — **Observed** `kanban: src/components/Table/Table.tsx:12
 reordering.
 
 **Recommendation:** a tool that rewrites a board file should preserve both keys verbatim when it does
-not change lane order, and should drop `list-collapse` entirely when it does — an absent key resolves
-to the global value or `[]` and costs the user only the collapsed state, whereas a stale array
+not change lane order; when it does, it should either drop `list-collapse` entirely — an absent key
+resolves to the global value or `[]` and costs the user only the collapsed state — or remap it by
+each lane's tracked original position, which is what the bundled migration tool does. A stale array
 mislabels lanes.
 
 ## Documentation drift

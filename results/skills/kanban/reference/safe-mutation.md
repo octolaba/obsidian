@@ -90,16 +90,23 @@ edit should do the same.
 2. **Refuse to act on a board that does not parse.** A board with a frontmatter or settings error
    will not be saved by the plugin either (`kanban: src/StateManager.ts:100`), so editing it is
    editing something Obsidian is not reading.
-3. **Compute the whole edit before touching the file.** Every operation below is a pure
-   transformation of the parsed model into a new set of lines.
+3. **Compute and review the whole edit before touching the file.** Every operation below is a pure
+   transformation of the parsed model into a new set of lines. The dry run prints an input hash and
+   a proposal hash; supply both on the writing run so changed bytes, options, timestamps and plans are
+   refused instead of silently producing a different diff.
 4. **Compare and swap.** Immediately before writing, re-read and re-hash. If anything moved, refuse
    and start again. This is the only defence available from outside the app.
-5. **Keep the previous contents.** The tools write a `.bak` sibling by default. It is deliberately not
-   a `.md` file, so Obsidian does not index it as a note.
-6. **Read back, then settle.** Read the file again immediately, and again after a window longer than
+5. **Stage, then atomically replace.** Write and `fsync` a non-Markdown sibling first; rename it over
+   the board only after a second comparison. A vault migration stages every output before replacing
+   any input and rolls earlier replacements back when a later, detected commit step fails.
+6. **Keep the previous contents.** The tools write a `.bak` sibling by default and choose `.bak.N`
+   rather than overwrite an earlier recovery copy. It is deliberately not a `.md` file, so Obsidian
+   does not index it as a note.
+7. **Read back, then settle.** Read the file again immediately, and again after a window longer than
    Obsidian's save debounce. The default settle is three seconds. If the bytes changed in between, an
    open board overwrote the edit — report that, and point at the backup.
-7. **Validate the result.** Run the board linter over the edited file and confirm no new finding.
+8. **Validate the result.** The card tool reparses its proposed output before writing; after either
+   tool writes, run the board linter and confirm no new finding.
 
 **Recommendation.** Refuse rather than write, in each of these cases. The bundled tools do, and a
 hand-written edit should:
@@ -109,7 +116,7 @@ hand-written edit should:
 | Bytes that are not valid UTF-8 | Everything here works on decoded strings; a byte that does not survive the decode is replaced on write, and in the backup too, because the backup is written from the same string |
 | A file mixing CRLF and bare LF | No single join reproduces both, so lines nobody edited change as well |
 | A path that leaves the vault once its links are followed | A link inside a vault can point anywhere; the containment check has to resolve it, not just compare strings |
-| A construct the port declines to model — a setext heading, an indented code block, a settings block with no blank line above it | The model would be wrong, and every line number derived from it with it |
+| A construct the port declines to model — an indented code block or a settings block with no blank line above it | The model would be wrong, and every line number derived from it with it; setext headings are modelled as the heading nodes mdast gives upstream |
 | A whole-file rewrite of a board holding content the model cannot carry | Obsidian would delete it eventually; a tool that does it first has taken the blame and the timing away from the user |
 | A whole-file rewrite of a board whose frontmatter is richer than flat scalars | The frontmatter is regenerated, and a value this port only partly read comes back wrong |
 | A whole-file rewrite under a language whose markers the board does not use | The complete marker and the archive heading would be dropped as unrecognised content |
@@ -122,6 +129,13 @@ is cheap to redo and easy to notice; a lost migration is neither.
 The plugin is not consistent about applying its own mechanics: two paths that look identical to a
 user do different things to the file. An external editor has to choose which path it is imitating and
 say so.
+
+The mechanics also read effective settings, not just the board footer. Pass Kanban's actual
+`data.json` with `--kanban-data` when insertion, archive limits and formatting, date/time triggers or
+linked-date behaviour may be inherited. The tool resolves local over global and never serialises the
+inherited values into the board, matching the lookup at `kanban: src/StateManager.ts:283` and
+`kanban: src/StateManager.ts:291`. If the final date/time fallback comes from Daily Notes, Natural
+Language Dates or Templates, bind it with `--vault-date-format` and `--vault-time-format`.
 
 | Operation | What the plugin writes | Applies the complete mechanic? |
 |---|---|---|
@@ -195,16 +209,34 @@ external editor that writes only one card has silently dropped the next occurren
 **Recommendation.** When imitating completion from outside:
 
 - Decide whether the vault has the Tasks plugin. Without it, write only the check character.
-- With it, `--tasks-emoji` appends `✅ YYYY-MM-DD`. That is an imitation of another plugin's output,
-  not that plugin's output: the real one is produced against the status registry and settings in
-  effect in that vault. Say so when reporting the change.
-- Never assume the done character is `x` if the vault defines custom statuses; pass `--done-char`.
+- With it, `--tasks-emoji` enables Tasks emulation; the historical option name no longer limits the
+  format. Pass Tasks' `data.json` with `--tasks-data` to resolve `taskFormat`, `setDoneDate`, the
+  global filter, `recurrenceOnNextLine` and the DONE symbol. The tool emits either trailing
+  `✅ YYYY-MM-DD` or Dataview's trailing `  [completion:: YYYY-MM-DD]` and only recognises a done date
+  at the metadata boundary, so literal `✅ 2026-08-03` prose is not replaced
+  (`tasks: src/Config/Settings.ts:117`, `tasks: src/TaskSerializer/DataviewTaskSerializer.ts:121`).
+- With a global filter configured in Tasks, a card whose first line does not carry it never parses
+  as a task, so Tasks only swaps the status symbol and writes no date
+  (`tasks: src/Commands/ToggleDone.ts:36`); `--tasks-data` supplies it, or pass `--global-filter`
+  explicitly so the tool withholds the date the same way.
+- Never assume the done character is `x` if the vault defines custom statuses; `--tasks-data` reads
+  the first DONE status as Kanban does, follows the current status's `nextStatusSymbol` on
+  uncomplete, and `--done-char` is the explicit completion override
+  (`tasks: src/Commands/ToggleDone.ts:36`).
+- `onCompletion=delete` produces an empty Tasks result for a non-recurring completion, so Kanban
+  falls back to changing only the character and writes no completion metadata. The tool models that
+  (`tasks: src/Task/OnCompletion.ts:53`, `kanban: src/parsers/helpers/inlineMetadata.ts:231`).
+- Kanban omits a card's block id from the line it gives Tasks, then reconstructs the card from Tasks'
+  answer; the id is therefore dropped (`kanban: src/parsers/helpers/inlineMetadata.ts:223`,
+  `kanban: src/parsers/helpers/inlineMetadata.ts:244`). The bundled tool deliberately preserves it
+  and reports this safety deviation instead of imitating upstream data loss.
 
 ## What an external editor cannot imitate
 
 **Observed.** These need the running app, and a tool outside it should decline rather than guess:
 
-- The Tasks completion date under custom statuses or recurrence, for the reasons above.
+- A Tasks recurrence exactly: one toggle creates two cards, and writing only the current one is
+  explicitly lossy. The tool refuses unless `--allow-lossy-recurrence` accepts that loss.
 - Anything that depends on the vault's link style: setting a date on a board with
   `link-date-to-daily-note` writes a link built from the daily-note settings
   (`kanban: src/helpers.ts:31`), so `kanban-card.mjs` refuses `set-date` on such a board.
@@ -237,5 +269,8 @@ rewrites lane order and `list-collapse`, and an open view holds its own copy of 
   reasoning is that no state manager exists for an unopened file, which follows from the source but
   was not observed.
 - The alternative write routes named above were not studied at any pin.
+- A same-directory rename is atomic for one file, but no operation can atomically replace a set of
+  separate board files across a process or machine crash. The migrator's rollback covers detected
+  commit failures, not abrupt termination. **Unverified** on non-POSIX filesystems.
 - How reliably this guidance is followed by an agent in a clean context has not been evaluated, here
   or anywhere.

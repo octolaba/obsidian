@@ -43,7 +43,10 @@ date trigger or a bulk retag is a job for the card tool or a hand edit, not for 
 
 ## The plan format
 
-A plan is a JSON object. Every field is optional.
+A plan is a JSON object with a closed schema. Fields are optional individually, but the plan must
+request at least one change. Unknown top-level fields, lane-step fields and setting keys are usage
+errors; no spelling is ignored. The same is true of type errors, repeated order entries, contradictory
+lane actions and a setting named in both `settings` and `unsetSettings`.
 
 | Field | Type | Meaning |
 |---|---|---|
@@ -52,7 +55,7 @@ A plan is a JSON object. Every field is optional.
 | `order` | array of titles | Final lane order; lanes not named keep their relative order at the end |
 | `settings` | object | Merged into the settings block |
 | `unsetSettings` | array of keys | Removed from the settings block |
-| `onMissingLane` | `"skip"` or `"error"` | What to do when a step names a lane the board does not have; `skip` is the default, and is what makes one plan safe to run across a vault of differently shaped boards |
+| `onMissingLane` | `"error"` or `"skip"` | What to do when a step or `order` names a lane the board does not have; `error` is the default. `skip` must be explicit for heterogeneous vaults, and every skipped step is recorded in that board's changes |
 
 A lane step is one of:
 
@@ -64,6 +67,18 @@ A lane step is one of:
 | `{"to": "Blocked", "create": true, "after": "In Progress"}` | Create an empty lane, optionally positioned after a named one |
 | `{"to": "In Progress", "maxItems": 3}` | Set or clear the work-in-progress limit, which lives in the lane title as a trailing `(N)` (`kanban: src/parsers/helpers/parser.ts:63`) |
 | `{"to": "Done", "marksComplete": true}` | Set or clear the complete flag, which is the `**Complete**` line under the heading (`kanban: src/parsers/common.ts:23`) |
+
+The action fields are mutually constrained: `create`, `delete` and `merge` cannot be combined;
+`after` belongs only to `create`; `discardCards` belongs only to `delete`; a merge needs different
+`from` and `to` titles. With the default missing-lane policy, a missing `after` anchor or an `order`
+entry that names no lane refuses the board rather than choosing an append position or silently
+discarding the typo.
+
+`settings` is validated against the pinned `KanbanSettings` interface
+(`kanban: src/Settings.ts:52`) rather than accepted as arbitrary JSON. Booleans, strings, non-negative
+numbers and enums have their declared types; `metadata-keys`, colours, sort entries and table widths
+also validate their nested shape. Use `format` for `kanban-plugin`. The migration owns positional
+`list-collapse`, so a plan may remove that key through `unsetSettings` but may not assign it directly.
 
 **Observed.** Setting `marksComplete` does not re-check or un-check the cards already in that lane.
 Neither does the plugin: toggling the lane setting only flips the flag
@@ -92,7 +107,8 @@ archived (`kanban: src/helpers/boardModifiers.ts:105`, `kanban: src/helpers/boar
 *moved*: dragging a lane splices its entry to the new index and writes the array back with the board
 (`kanban: src/DragDropApp.tsx:157`, `kanban: src/DragDropApp.tsx:158`,
 `kanban: src/DragDropApp.tsx:164`). A migration that reorders lanes without rebuilding it leaves every
-collapsed state attached to the wrong lane. The tool re-derives the array by lane title.
+collapsed state attached to the wrong lane. The tool remaps the array by tracking each lane from its
+original position through every step — renames included — and a created lane starts expanded.
 
 **Observed.** An open board defeats this. The view seeds its own copy of the view settings when it
 registers (`kanban: src/KanbanView.tsx:272`) and writes that copy back on its next save. **Close the
@@ -139,19 +155,35 @@ unrelated change.
 1. Close every Obsidian window that has the boards open.
 2. Run the board linter over the target boards and fix anything at `error` first. A migration of a
    board that already loses content on save will look like the migration caused the loss.
-3. Write the plan. Run without `--write` and read every diff, not just the first.
-4. Run with `--write`. The tool keeps a `.bak` beside each board it changes.
+3. Write the plan. Run without `--write` and read every diff, not just the first. Record the reported
+   target-set SHA-256 and proposal SHA-256: the former binds the selected input bytes, and the latter
+   also binds the plan bytes, locale, outputs and safety skips.
+4. Run with `--write --expect-sha256 <input> --expect-output-sha256 <proposal>`. The tool stages and
+   `fsync`s every output before replacing any board, keeps a non-overwriting `.bak`/`.bak.N` beside
+   each board it changes, atomically renames each staged file, reads every board back, and re-checks
+   after `--settle-seconds` (default 3) that no open board overwrote it. A detected failure during the
+   replace sequence rolls already replaced boards back to the bytes held in memory.
 5. Run the linter again and compare the finding set. New findings mean the plan was wrong, not that
    the board was.
 6. Open one board in Obsidian, confirm the lanes look right, and confirm the done column still marks
    cards complete.
 7. Delete the backups only after step 6.
 
+A board skipped for safety — foreign markers, frontmatter beyond flat scalars, bytes that do not
+survive a decode, or a plan action that cannot apply to that board — blocks **every** write and fails
+the run with exit `5`, so the default is not a partially migrated vault. Plan refusals are collected
+per board rather than hiding the rest of the vault's report. `--allow-partial` explicitly writes the
+safe subset when that is intended; the report marks the partial write and the process still exits
+`5`, so automation cannot mistake it for complete coverage.
+
 ## Known gaps
 
 - No Obsidian session was run: that a migrated board opens correctly is inferred from the pinned
   serialiser, not observed. **Unverified**.
-- The tool cannot tell whether a board is open, so step 1 is a discipline rather than a guard.
-- Plans are not validated against a schema beyond the field checks the tool performs; an unknown
-  field is ignored rather than rejected.
+- The tool cannot tell whether a board is open, so step 1 is a discipline rather than a guard; the
+  settle re-check catches an overwrite that lands inside its window, and nothing catches one that
+  lands later.
+- A rename is atomic for one file, and detected failures are rolled back, but several files cannot be
+  one crash-atomic filesystem transaction. Process termination, power loss, or a rollback failure can
+  still leave partial state; the backups and report are the recovery path.
 - How reliably this procedure is followed by an agent in a clean context has not been evaluated.

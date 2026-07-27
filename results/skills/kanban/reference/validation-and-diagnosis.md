@@ -90,7 +90,7 @@ whole-file drift.
 | `KB019` | `bytes-change-on-save` | a list item with no checkbox gains one | `kanban: src/parsers/formats/list.ts:404` |
 | `KB020` | `meaning-differs` | a continuation line indented by anything but one tab or four spaces keeps that indentation | `kanban: src/parsers/helpers/parser.ts:57` |
 | `KB021` | `bytes-change-on-save` | a `(0)` limit means no limit and is deleted from the title | `kanban: src/helpers.ts:66` |
-| `KB022` | `meaning-differs` | a title ending in a parenthesised number is read as a WIP limit | `kanban: src/parsers/helpers/parser.ts:63` |
+| `KB022` | `meaning-differs` | a title ending in a parenthesised number is read as a WIP limit; the linter flags only numbers of 100 or more, treating smaller ones as intended limits | `kanban: src/parsers/helpers/parser.ts:63` |
 | `KB023` | `meaning-differs` | two cards carry the same block id, because duplicating a card copies it | `kanban: src/helpers/boardModifiers.ts:276` |
 | `KB024` | `meaning-differs` | a block id outside `[a-zA-Z0-9-]` is not stripped back out, so it can be duplicated | `kanban: src/parsers/helpers/parser.ts:51` |
 | `KB025` | `content-lost` | a structural marker is written in a language other than the one given | `kanban: src/lang/helpers.ts:61` |
@@ -266,8 +266,10 @@ rule captured a detail such as the offending value or a count — `note:`.
 
 **`assumptions` and `limitations` are part of the result, not decoration.** The assumptions say which
 board the tool believes it read: boards recognised by the substring test, markers read for the
-requested locale *and* every other locale the plugin translates, continuation indentation inferred
-from the board because the vault setting is unreadable, and the file trimmed before parsing. A
+requested locale *and* every other locale the plugin translates — compared only against top-level
+paragraphs and headings, the constructs the plugin compares, so a card body spelling a marker word is
+never a marker — continuation indentation inferred from the board because the vault setting is
+unreadable, and the file trimmed before parsing. A
 finding is only as true as the assumption under it — pass the wrong `--locale` and a correct board
 produces a wave of `KB025`. The limitations say what was not examined at all: the port is not
 micromark, no vault or plugin configuration was read, another plugin can change what a card means,
@@ -288,8 +290,9 @@ carries the same consequence, so nothing is quietly downgraded.
 
 ## What the linter cannot decide
 
-Everything below is invisible from a board file, so a rule depending on it would be guessing. Each is
-a reason to confirm a finding — or a clean run — inside Obsidian.
+Everything below is invisible from a board file. Some can be supplied explicitly; when they are not,
+a rule depending on them would be guessing. Each unresolved item is a reason to confirm a finding —
+or a clean run — inside Obsidian.
 
 - **Whether the Tasks plugin is enabled.** It changes what a check character means, whether a done
   date appears, and which symbol counts as done (`kanban: src/parsers/helpers/inlineMetadata.ts:172`).
@@ -303,10 +306,14 @@ a reason to confirm a finding — or a clean run — inside Obsidian.
   last saved (`kanban: src/lang/helpers.ts:53`). `--locale` is an assertion by the caller, not a
   discovery, and an unrecognised code falls back to English markers exactly as the plugin does — the
   accepted codes are the values Obsidian stores, so `pt-BR` and `zh` work while `pt-br` does not.
-- **Global plugin settings.** Nothing reads the plugin's `data.json`, so a board inheriting
-  `max-archive-size`, `date-trigger` or `time-trigger` globally is analysed as if the default
-  applied; a non-default trigger also means a block id or a date token may be read differently than
-  the running plugin reads it.
+- **Global plugin settings, unless supplied.** Pass Kanban's `data.json` with `--kanban-data` and the
+  linter resolves local-over-global settings before tokenising cards and before applying rules such as
+  `KB028`. Without it, an inherited `max-archive-size`, `date-trigger` or `time-trigger` remains
+  unknown; a non-default trigger can also make a block id or date token parse differently.
+- **Date and time defaults from other plugins, unless supplied.** Daily Notes, Natural Language Dates
+  and Templates can determine the formats Kanban compiles (`kanban: src/components/helpers.ts:178`,
+  `kanban: src/components/helpers.ts:192`). `--vault-date-format` and `--vault-time-format` bind those
+  values; otherwise the port uses the stock forms and reports the assumption.
 - **Anything about the live session.** Which view is primary, whether a second pane holds stale state
   that will be written later, whether the board is in an error state, and what the last save actually
   wrote. A file can be correct on disk and about to be overwritten.

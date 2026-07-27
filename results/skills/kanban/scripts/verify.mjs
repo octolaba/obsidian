@@ -79,12 +79,24 @@ const DOCUMENTED_FLAGS = [
     '--board',
     '--locale',
     '--write',
+    '--kanban-data',
+    '--vault-date-format',
+    '--vault-time-format',
     '--tasks-emoji',
+    '--tasks-data',
+    '--tasks-format',
+    '--tasks-set-done-date',
+    '--global-filter',
+    '--archive-stamp',
+    '--allow-lossy-recurrence',
     '--settle-seconds',
     '--strategy',
     '--no-backup',
     '--via',
     '--plan',
+    '--allow-partial',
+    '--expect-sha256',
+    '--expect-output-sha256',
 ];
 
 const CITATION = /`(kanban|tasks): ([^`]+?):(\d+)(?:-(\d+))?`/g;
@@ -691,13 +703,45 @@ function verifyTools(roots, checks) {
     const card = fs.readFileSync(path.join(SCRIPT_ROOT, 'kanban-card.mjs'), 'utf8');
     const contract = [
         ['compare-and-swap', /if \(!sameFingerprint\(current, result\.snapshot\)\)/],
-        ['backup-by-default', /if \(!args\['no-backup'\]\) \{[\s\S]*?writeFileSync\(backup, result\.original\)/],
+        ['reviewed-input-hash', /validateExpectedSha\(args\['expect-sha256'\], snapshot\.sha256\)/],
+        ['reviewed-output-hash', /validateExpectedSha\(args\['expect-output-sha256'\], outputSha256, 'output'\)/],
+        ['backup-by-default', /if \(!args\['no-backup'\]\) \{[\s\S]*?writeFileSync\(backup, result\.original/],
+        ['atomic-replace', /fs\.renameSync\(staged, result\.file\)/],
         ['read-back', /if \(afterWrite !== result\.updated\)/],
         ['settle-check', /const afterSettle = readRaw\(result\.file\);/],
         ['refuse-on-blocking', /const blocking = blockingProblems\(board\);/],
+        ['postcondition', /const postcondition = blockingProblems\(validated\);/],
     ];
     const missing = contract.filter(([, pattern]) => !pattern.test(card)).map(([name]) => name);
     assertion(checks, 'card-tool-safety-contract', missing.length === 0, 'the card tool still refuses to write over a board it did not read', missing.join(', '));
+
+    // The migration tool rewrites whole vaults, so its write protocol is held to the same standard:
+    // compare-and-swap, staged atomic replacement, rollback, backup, immediate read-back, a settle
+    // re-check, and skipped boards blocking writes unless partial mutation is explicitly accepted.
+    const migrateSource = fs.readFileSync(path.join(SCRIPT_ROOT, 'kanban-migrate.mjs'), 'utf8');
+    const migrateContract = [
+        ['compare-and-swap', /fingerprint\(fs\.readFileSync\(result\.file\)\) !== result\.before/],
+        ['reviewed-target-hash', /validateExpectedSha\(args\['expect-sha256'\], inputSha256\)/],
+        ['reviewed-proposal-hash', /validateExpectedSha\(args\['expect-output-sha256'\], outputSha256, 'proposal'\)/],
+        ['closed-plan-schema', /rejectUnknownKeys\(plan, PLAN_FIELDS, 'plan'\)/],
+        ['skips-block-write', /partialWriteRefused[\s\S]*?if \(args\.write && !partialWriteRefused\)/],
+        ['backup-by-default', /if \(!args\['no-backup'\]\) \{[\s\S]*?writeFileSync\(backup, result\.original/],
+        ['staged-atomic-replace', /fs\.renameSync\(result\.staged, result\.file\)/],
+        ['rollback', /const rollbackFailures = restoreCommitted\(committed\)/],
+        ['read-back', /readRaw\(result\.file\) !== result\.updated/],
+        ['settle-check', /await sleep\(settle \* 1000\)/],
+        ['skips-fail-the-run', /report\.skipped\.length\s*\?\s*EXIT\.refused/],
+    ];
+    const migrateMissing = migrateContract
+        .filter(([, pattern]) => !pattern.test(migrateSource))
+        .map(([name]) => name);
+    assertion(
+        checks,
+        'migrate-tool-safety-contract',
+        migrateMissing.length === 0,
+        'the migration tool binds reviewed input, stages atomic replacements, rolls back detected failures, settles, and blocks unacknowledged partial writes',
+        migrateMissing.join(', '),
+    );
 
     // Fixtures have to be what they claim, or a green test proves nothing.
     const cleanFixture = path.join(SCRIPT_ROOT, 'fixtures', 'vault', 'Clean.md');

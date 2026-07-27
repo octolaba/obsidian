@@ -216,6 +216,12 @@ against them, never define the format from them.
 key order, quoting style, block scalars and anchors do not survive a save; only the key-value data
 does.
 
+**Bundled-tool boundary.** The port semantically reads flat quoted and unquoted scalars, including an
+inline comment after them, but records that comment as rewrite-sensitive. Minimal card splices leave
+the original frontmatter bytes alone; normalisation and migration refuse the board instead of being
+the operation that discards an unrelated comment. Unsupported YAML escapes, collections, anchors and
+block values are likewise reported rather than flattened.
+
 ## What a save deletes
 
 The board model is `frontmatter`, `settings`, an array of lanes and an archive array. `boardToMd`
@@ -289,8 +295,9 @@ differently. State the envelope before comparing two saves.
    itself a module-scope constant (`kanban: src/parsers/common.ts:23`). English is `Complete` /
    `Archive` (`kanban: src/lang/locale/en.ts:32`, `kanban: src/lang/locale/en.ts:33`); Russian is
    `Выполнено` / `Архивировать` (`kanban: src/lang/locale/ru.ts:28`,
-   `kanban: src/lang/locale/ru.ts:29`); only eight of the twenty-four locales translate these two keys
-   and the rest fall back to English (`kanban: src/lang/helpers.ts:61`). **Inference:** the marker
+   `kanban: src/lang/locale/ru.ts:29`); only eight of the twenty-four locales define these two keys —
+   English itself and seven translations — and the rest fall back to English
+   (`kanban: src/lang/helpers.ts:61`). **Inference:** the marker
    language is whatever was in effect when the board was last saved, and a board written under one
    language loses its complete flags and its archive under another, because neither marker matches.
 2. **Vault `useTab`.** Multi-line card bodies are re-indented with a tab or four spaces, chosen from

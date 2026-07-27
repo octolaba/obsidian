@@ -111,6 +111,47 @@ date in `YYYY-MM-DD` — **Observed** `tasks: src/TaskSerializer/DefaultTaskSeri
 `tasks: src/Task/TaskRegularExpressions.ts:2`. That format is fixed by Tasks and is **not** Kanban's
 `date-format`.
 
+Tasks has two serialisation formats, not one: `tasksPluginEmoji` and `dataview` — **Observed**
+`tasks: src/Config/Settings.ts:45` and `tasks: src/Config/Settings.ts:51`. The Dataview serializer
+wraps non-description fields with two leading spaces and square brackets — **Observed**
+`tasks: src/TaskSerializer/DataviewTaskSerializer.ts:118` and
+`tasks: src/TaskSerializer/DataviewTaskSerializer.ts:121` — so the same done date becomes
+`  [completion:: YYYY-MM-DD]`, from the symbol at
+`tasks: src/TaskSerializer/DataviewTaskSerializer.ts:76`. Both parsers consume metadata from the end
+of the line: the emoji field regex appends `$` (`tasks: src/TaskSerializer/DefaultTaskSerializer.ts:74`)
+and the Dataview wrapper does the same (`tasks: src/TaskSerializer/DataviewTaskSerializer.ts:50`). A
+literal `✅ 2026-08-03` followed by prose is therefore description, not a done-date field. The
+boundary is a trailing *chain*, not necessarily the final raw field: Tasks repeatedly removes one
+recognised suffix and starts again (`tasks: src/TaskSerializer/DefaultTaskSerializer.ts:306`,
+`tasks: src/TaskSerializer/DefaultTaskSerializer.ts:373`), so a done date before a trailing due date
+is still metadata. The bundled tool peels the same chain before replacing or removing that date.
+
+`setDoneDate: false` prevents a date only on the transition into DONE: `newDate` assigns today only
+inside the enabled branch — **Observed** `tasks: src/Task/Task.ts:438` and
+`tasks: src/Task/Task.ts:441`. Moving out of DONE returns `null` regardless of that setting and the
+serializer removes the previous field — **Observed** `tasks: src/Task/Task.ts:449`. An emulator that
+uses the setting to preserve a date on uncomplete disagrees with Tasks.
+
+Uncomplete also does not necessarily mean a blank checkbox. Tasks looks up the card's current status
+and writes that status's `nextStatusSymbol` — **Observed** `tasks: src/Commands/ToggleDone.ts:34` and
+`tasks: src/Commands/ToggleDone.ts:36`. The core DONE status cycles to a space, but a custom DONE
+status may cycle to `/` or another configured symbol; the bundled tool reads that edge from
+`--tasks-data`.
+
+`onCompletion=delete` has another non-obvious consequence. For a non-recurring completion, Tasks
+removes the one changed task from its returned array — **Observed** `tasks: src/Task/OnCompletion.ts:52`
+and `tasks: src/Task/OnCompletion.ts:53`; `toggleLine` joins that empty array into an empty string
+(`tasks: src/Commands/ToggleDone.ts:22`), which Kanban treats as no Tasks result and falls back to a
+direct character change (`kanban: src/parsers/helpers/inlineMetadata.ts:231`,
+`kanban: src/components/helpers.ts:82`). No completion metadata is written in that branch.
+
+Finally, Kanban does not include a card's separate block id in the string sent to Tasks: it builds the
+line from `titleRaw` only — **Observed** `kanban: src/parsers/helpers/inlineMetadata.ts:223` and
+`kanban: src/parsers/helpers/inlineMetadata.ts:224` — then reconstructs the card from Tasks' returned
+text (`kanban: src/parsers/helpers/inlineMetadata.ts:244`). **Inference:** a Tasks-mediated toggle
+drops the old block id. The bundled card tool reports and deliberately avoids that upstream data
+loss; this is a safety deviation, not a claim of byte-identical emulation.
+
 Confirming the claim at the top of this section: the literal `✅` appears in exactly two places in
 Kanban's source — the symbol table at `kanban: src/parsers/helpers/inlineMetadata.ts:78` and the
 parsing regex at `kanban: src/parsers/helpers/inlineMetadata.ts:353` — plus one indirect reference

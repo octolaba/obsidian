@@ -9,6 +9,7 @@ import {
     SETTING_KEYS,
     classifyDrift,
     inferUseTab,
+    markerCandidates,
     markersFor,
     parseBoard,
     plainText,
@@ -23,6 +24,7 @@ import {
     makeFinding,
     markdownFiles,
     parseArgs,
+    readJson,
     readRaw,
     relativeTo,
     resolveContainedFile,
@@ -35,6 +37,10 @@ const USAGE = [
     '',
     '  --vault PATH     vault root to scan for Kanban boards (required)',
     '  --file PATH      limit the scan to one board; repeatable; must be inside the vault',
+    '  --kanban-data PATH  Kanban plugin data.json, inside the vault; inherited settings are then',
+    '                   included in parsing and rules such as the archive-size check',
+    '  --vault-date-format S  effective vault date format when Kanban does not override it',
+    '  --vault-time-format S  effective vault time format when Kanban does not override it',
     '  --locale CODE    the Obsidian UI language the board was written under (default: en); a',
     '                   language the plugin does not translate falls back to the English markers',
     '  --format FORMAT  text (default), json, or sarif',
@@ -174,7 +180,7 @@ export const RULES = {
         consequence: 'meaning-differs',
         confidence: 'high',
         cite: 'kanban: src/parsers/extensions/taskList.ts:79',
-        message: 'A checked box with no text is not a task at all; the next save turns it into an unchecked card whose text is the box.',
+        message: 'A checked box with no text is not a task at all; the plugin reads it as an unchecked card whose text is the box, written back as `- [ ] [x]`.',
         fix: 'Give the card some text, or delete it.',
     },
     KB019: {
@@ -202,7 +208,7 @@ export const RULES = {
         consequence: 'meaning-differs',
         confidence: 'medium',
         cite: 'kanban: src/parsers/helpers/parser.ts:63',
-        message: 'A lane title ending in a parenthesised number is read as a work-in-progress limit, not as part of the title.',
+        message: 'A lane title ending in a parenthesised number of 100 or more is read as a work-in-progress limit, not as part of the title; this tool treats smaller numbers as intended limits and stays quiet about them.',
         fix: 'If the number is part of the name, move it or rephrase the title.',
     },
     KB023: {
@@ -298,6 +304,16 @@ export function looksLikeBoard(text) {
     return match[1].includes('kanban-plugin');
 }
 
+function readGlobalSettings(vault, value) {
+    if (value === undefined) return null;
+    const file = resolveContainedFile(vault, value, '--kanban-data');
+    const settings = readJson(file, null);
+    if (settings === null || typeof settings !== 'object' || Array.isArray(settings)) {
+        throw new Error(`--kanban-data must contain one JSON object: ${file}`);
+    }
+    return { file, settings };
+}
+
 function localeOfMarker(kind, value) {
     return Object.entries(LOCALE_MARKERS)
         .filter(([, markers]) => markers[kind] === value)
@@ -313,7 +329,13 @@ export function lintBoard(relative, text, options = {}) {
     // The board is parsed strictly for the given language, because that is the board Obsidian sees.
     // Markers written in another language are found separately and reported as such, rather than
     // being quietly understood by a validator that no running Obsidian agrees with.
-    const board = parseBoard(text, { locale, acceptAnyLocaleMarker: false });
+    const board = parseBoard(text, {
+        locale,
+        acceptAnyLocaleMarker: false,
+        globalSettings: options.globalSettings,
+        vaultDateFormat: options.vaultDateFormat,
+        vaultTimeFormat: options.vaultTimeFormat,
+    });
 
     for (const error of board.errors) {
         if (error.kind === 'frontmatter-missing') add('KB001', 1);
@@ -364,15 +386,15 @@ export function lintBoard(relative, text, options = {}) {
     // A complete marker in the requested language that no lane picked up was written in the wrong
     // place — after the cards, or outside any lane — so the plugin ignores and then deletes it.
     // Markers in another language are a different problem, reported below as a locale mismatch.
+    // Candidates are top-level paragraphs only, the construct the plugin itself compares, so a card
+    // body line that merely spells the word is never read as a marker.
     {
         const marker = markersFor(locale).complete;
-        const escaped = marker.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-        const pattern = new RegExp(`^\\s*(?:\\*\\*|__|\\*|_)?${escaped}(?:\\*\\*|__|\\*|_)?\\s*$`);
-        board.lines.forEach((line, index) => {
-            if (!pattern.test(line)) return;
-            if (board.lanes.some(lane => lane.completeMarkerLine === index)) return;
-            add('KB013', index + 1, marker);
-        });
+        for (const candidate of markerCandidates(board)) {
+            if (candidate.kind !== 'complete' || candidate.plain !== marker) continue;
+            if (board.lanes.some(lane => lane.completeMarkerLine === candidate.line)) continue;
+            add('KB013', candidate.line + 1, marker);
+        }
     }
 
     for (const lane of board.lanes) {
@@ -426,7 +448,7 @@ export function lintBoard(relative, text, options = {}) {
         if (separator !== '***') add('KB015', board.archiveBlock.separatorLine + 1, separator);
     }
 
-    const maxArchive = board.settings['max-archive-size'];
+    const maxArchive = board.effectiveSettings['max-archive-size'];
     if (typeof maxArchive === 'number' && maxArchive >= 0 && board.archive.length > maxArchive) {
         add('KB028', null, `${board.archive.length} archived, limit ${maxArchive}`);
     }
@@ -445,27 +467,26 @@ export function lintBoard(relative, text, options = {}) {
     }
 
     // Locale coherence. The parse above only recognised markers for the requested language, so the
-    // raw lines are scanned here for every other language the plugin translates. A marker in the
-    // wrong language is not a cosmetic problem: the plugin does not see it, and deletes it on save.
-    // Distinct marker *spellings*, not locale codes: most languages leave these two keys in English,
-    // so counting languages would report every ordinary board as mixed.
+    // marker candidates are scanned here for every other language the plugin translates. A marker in
+    // the wrong language is not a cosmetic problem: the plugin does not see it, and deletes it on
+    // save. Candidates are top-level paragraphs and headings only — the constructs the plugin
+    // compares — so a card body spelling a marker word is never flagged. Distinct marker
+    // *spellings*, not locale codes: most languages leave these two keys in English, so counting
+    // languages would report every ordinary board as mixed.
     const spellings = new Set();
     const target = markersFor(locale);
-    board.lines.forEach((line, index) => {
-        const heading = /^ {0,3}#{1,6}[ \t]+(.*)$/.exec(line);
-        const plain = plainText(heading ? heading[1] : line);
-        const kind = heading ? 'archive' : 'complete';
-        const languages = localeOfMarker(kind, plain);
-        if (!languages.length) return;
-        spellings.add(`${kind}:${plain}`);
-        if (plain !== target[kind]) {
+    for (const candidate of markerCandidates(board)) {
+        const languages = localeOfMarker(candidate.kind, candidate.plain);
+        if (!languages.length) continue;
+        spellings.add(`${candidate.kind}:${candidate.plain}`);
+        if (candidate.plain !== target[candidate.kind]) {
             add(
                 'KB025',
-                index + 1,
-                `${plain} is the ${kind} marker for ${languages.join('/')}, not for ${locale}`,
+                candidate.line + 1,
+                `${candidate.plain} is the ${candidate.kind} marker for ${languages.join('/')}, not for ${locale}`,
             );
         }
-    });
+    }
     const completeSpellings = [...spellings].filter(value => value.startsWith('complete:'));
     const archiveSpellings = [...spellings].filter(value => value.startsWith('archive:'));
     if (completeSpellings.length > 1 || archiveSpellings.length > 1) {
@@ -516,7 +537,14 @@ function main() {
     try {
         args = parseArgs(process.argv.slice(2), {
             booleans: ['help'],
-            values: ['vault', 'locale', 'format'],
+            values: [
+                'vault',
+                'locale',
+                'format',
+                'kanban-data',
+                'vault-date-format',
+                'vault-time-format',
+            ],
             repeatable: ['file'],
         });
     } catch (error) {
@@ -534,6 +562,7 @@ function main() {
         // English, so the tool has to model that rather than refuse.
         const locale = args.locale ?? 'en';
         const vault = resolveDirectory(args.vault, '--vault');
+        const global = readGlobalSettings(vault, args['kanban-data']);
         const targets = args.file.length
             ? args.file.map(value => resolveContainedFile(vault, value, '--file'))
             : markdownFiles(vault).filter(file => {
@@ -551,7 +580,12 @@ function main() {
             const relative = relativeTo(vault, file);
             const text = readRaw(file);
             boards += 1;
-            const result = lintBoard(relative, text, { locale });
+            const result = lintBoard(relative, text, {
+                locale,
+                globalSettings: global?.settings,
+                vaultDateFormat: args['vault-date-format'],
+                vaultTimeFormat: args['vault-time-format'],
+            });
             findings.push(...result.findings);
             // Anything the port declined to model is a statement about this scan, not a finding about
             // the board — but it must be said, or a short report reads as a clean one.
@@ -569,13 +603,16 @@ function main() {
             notes,
             assumptions: [
                 'Boards are recognised the way the plugin recognises them: the string `kanban-plugin` appearing anywhere inside the first `---` … `---` region.',
-                `Structural markers are read for the ${locale} locale and for every other locale the plugin translates, because the marker written on disk depends on Obsidian's UI language.`,
+                `Structural markers are read for the ${locale} locale and for every other locale the plugin translates, because the marker written on disk depends on Obsidian's UI language. Only top-level paragraphs and headings are compared — the constructs the plugin compares — so a card body spelling a marker word is not a marker.`,
                 'Continuation indentation is inferred from the board itself, falling back to a tab, because the vault setting that decides it is not readable from here.',
                 'The plugin trims the file before parsing, so leading and trailing whitespace is ignored exactly as it is in Obsidian.',
+                global
+                    ? `Kanban global settings were read from ${global.file}.`
+                    : 'No Kanban data.json was supplied, so inherited settings remain unknown; pass --kanban-data to include them.',
             ],
             limitations: [
                 'This is a port of the pinned parser for the constructs a board contains, not a re-implementation of micromark; a construct it cannot classify is reported rather than guessed at.',
-                'Nothing here reads the vault configuration, the plugin data file, or any other plugin, so settings inherited from the global configuration are invisible.',
+                'Vault defaults supplied by Daily Notes, Natural Language Dates or Templates remain unknown unless --vault-date-format and --vault-time-format are given.',
                 'Whether the Tasks or Dataview plugin is installed changes what a card means, and that cannot be determined from the board file.',
                 'Agent behaviour is not evaluated here or anywhere: nothing in this report says how the skill triggers or routes in a clean context.',
             ],

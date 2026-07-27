@@ -164,8 +164,9 @@ constant are evaluated at module scope (`kanban: src/lang/helpers.ts:53`,
 loads, so changing Obsidian's display language does not change what the plugin writes until the
 plugin is reloaded.
 
-Exactly eight locales translate `Complete` and `Archive`. This list was read from every file in
-`kanban: src/lang/locale/`; the other sixteen define neither key and therefore fall back to English.
+Exactly eight locales define `Complete` and `Archive` — English itself and seven translations. This
+list was read from every file in `kanban: src/lang/locale/`; the other sixteen define neither key
+and therefore fall back to English.
 
 | Obsidian language value | Complete | Archive | Where |
 |---|---|---|---|

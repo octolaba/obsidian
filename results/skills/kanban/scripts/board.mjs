@@ -110,6 +110,61 @@ export const BOARD_FORMATS = Object.freeze(['basic', 'board', 'table', 'list']);
 
 const SETTING_KEY_SET = new Set(SETTING_KEYS);
 
+/**
+ * Resolve the settings a running board actually consumes after local, global and vault defaults.
+ *
+ * The settings block returned by `parseBoard` must stay local because it is what the serialiser
+ * writes back. Consumers, however, read through `StateManager.compileSettings`: board-local values
+ * win over plugin `data.json`, and several keys are then derived. Keeping that second object
+ * explicit prevents a card edit from accidentally persisting inherited global settings into the
+ * board while still letting the edit follow them.
+ */
+export function compileEffectiveSettings(local = {}, global = {}, vaultDefaults = {}) {
+    const raw = key =>
+        local?.[key] !== undefined
+            ? local[key]
+            : global?.[key] !== undefined
+              ? global[key]
+              : null;
+    const dateFormat = raw('date-format') || vaultDefaults.dateFormat || 'YYYY-MM-DD';
+    const dateDisplayFormat = raw('date-display-format') || dateFormat;
+    const timeFormat = raw('time-format') || vaultDefaults.timeFormat || 'HH:mm';
+    const globalMetadata = Array.isArray(global?.['metadata-keys']) ? global['metadata-keys'] : [];
+    const localMetadata = Array.isArray(local?.['metadata-keys']) ? local['metadata-keys'] : [];
+
+    return {
+        ...global,
+        ...local,
+        [FRONTMATTER_KEY]: raw(FRONTMATTER_KEY) || 'board',
+        'date-format': dateFormat,
+        'date-display-format': dateDisplayFormat,
+        // Upstream always derives this value, even when a stored value exists.
+        'date-time-display-format': `${dateDisplayFormat} ${timeFormat}`,
+        'date-trigger': raw('date-trigger') || DEFAULT_DATE_TRIGGER,
+        'inline-metadata-position': raw('inline-metadata-position') || 'body',
+        'time-format': timeFormat,
+        'time-trigger': raw('time-trigger') || DEFAULT_TIME_TRIGGER,
+        'link-date-to-daily-note': raw('link-date-to-daily-note'),
+        'move-dates': raw('move-dates'),
+        'move-tags': raw('move-tags'),
+        'move-task-metadata': raw('move-task-metadata'),
+        'metadata-keys': Array.from(new Set([...globalMetadata, ...localMetadata])),
+        // This is the steady-state value after StateManager.setState() recompiles the parsed board.
+        'archive-date-separator': raw('archive-date-separator') || '',
+        'archive-date-format': raw('archive-date-format') || `${dateFormat} ${timeFormat}`,
+        'show-add-list': raw('show-add-list') ?? true,
+        'show-archive-all': raw('show-archive-all') ?? true,
+        'show-view-as-markdown': raw('show-view-as-markdown') ?? true,
+        'show-board-settings': raw('show-board-settings') ?? true,
+        'show-search': raw('show-search') ?? true,
+        'show-set-view': raw('show-set-view') ?? true,
+        'tag-colors': raw('tag-colors') ?? [],
+        'tag-sort': raw('tag-sort') ?? [],
+        'date-colors': raw('date-colors') ?? [],
+        'tag-action': raw('tag-action') ?? 'obsidian',
+    };
+}
+
 export function markersFor(locale) {
     return LOCALE_MARKERS[locale] ?? LOCALE_MARKERS.en;
 }
@@ -117,6 +172,26 @@ export function markersFor(locale) {
 /** Every marker string any supported locale can produce, for a validator that does not know the UI language. */
 export function allMarkers(kind) {
     return [...new Set(Object.values(LOCALE_MARKERS).map(entry => entry[kind]))];
+}
+
+/**
+ * The places the plugin would ever compare against a structural marker.
+ *
+ * Upstream tests only stringified top-level paragraphs (the complete marker) and headings (the
+ * archive marker); text inside a card, a code fence, the frontmatter or the settings footer is
+ * never consulted. A scanner that walked raw lines instead would read a card body that merely
+ * spells the word as a marker — so every marker scan takes its candidates from here.
+ */
+export function markerCandidates(board) {
+    const candidates = [];
+    for (const block of board.blocks) {
+        if (block.type === 'paragraph') {
+            candidates.push({ kind: 'complete', line: block.startLine, plain: plainText(block.text) });
+        } else if (block.type === 'heading') {
+            candidates.push({ kind: 'archive', line: block.startLine, plain: plainText(block.text) });
+        }
+    }
+    return candidates;
 }
 
 // --- string transforms, ported one for one ------------------------------------------------------
@@ -340,10 +415,11 @@ function fenceAt(line) {
  * Split the body into the top-level blocks the plugin's lane scan walks over.
  *
  * Only the constructs a board can contain are modelled. An indented code block, a blockquote, an
- * HTML block or a setext heading is recognised well enough to be reported, never well enough to be
- * silently reinterpreted.
+ * HTML block is recognised well enough to be reported, never well enough to be silently
+ * reinterpreted. Setext headings are modelled because mdast presents them to the plugin as ordinary
+ * heading nodes; treating their underline as a thematic break invents an archive boundary.
  */
-function scanBlocks(lines, from, to, uncertainties) {
+function scanBlocks(lines, from, to, uncertainties, triggers = {}) {
     const blocks = [];
     let index = from;
     while (index < to) {
@@ -368,7 +444,7 @@ function scanBlocks(lines, from, to, uncertainties) {
                 startLine: index,
                 endLine: index,
                 depth: heading[1].length,
-                text: stripClosingSequence(heading[2] ?? ''),
+                text: stripClosingSequence(heading[2] ?? '', triggers),
             });
             index += 1;
             continue;
@@ -395,12 +471,12 @@ function scanBlocks(lines, from, to, uncertainties) {
             index += 1;
             continue;
         }
-        // A paragraph: every line until a blank line or a construct that interrupts it.
-        //
-        // A setext underline is checked first and separately, because `---` matches the thematic
-        // break pattern too. Deciding thematic break there would invent an archive separator and
-        // hide a lane, so the ambiguous shape is refused rather than guessed at.
+        // A paragraph: every line until a blank line or a construct that interrupts it. A setext
+        // underline belongs to the paragraph immediately above it and turns the whole paragraph
+        // into a heading in mdast. It is checked before the thematic-break branch because `---`
+        // otherwise has both spellings at line level.
         let end = index;
+        let setext = null;
         while (
             end + 1 < to &&
             !BLANK.test(lines[end + 1]) &&
@@ -409,17 +485,22 @@ function scanBlocks(lines, from, to, uncertainties) {
             !LIST_ITEM.test(lines[end + 1])
         ) {
             if (SETEXT_UNDERLINE.test(lines[end + 1])) {
-                uncertainties.push({
-                    kind: 'setext-heading',
-                    line: end + 2,
-                    blocking: true,
-                    detail: 'a setext heading is a lane to the plugin, and this port does not model one',
-                });
-                end += 1;
+                setext = end + 1;
                 break;
             }
             if (THEMATIC_BREAK.test(lines[end + 1])) break;
             end += 1;
+        }
+        if (setext !== null) {
+            blocks.push({
+                type: 'heading',
+                startLine: index,
+                endLine: setext,
+                depth: lines[setext].trimStart().startsWith('=') ? 1 : 2,
+                text: stripClosingSequence(lines.slice(index, setext).join('\n'), triggers),
+            });
+            index = setext + 1;
+            continue;
         }
         blocks.push({ type: 'paragraph', startLine: index, endLine: end, text: lines.slice(index, end + 1).join('\n') });
         index = end + 1;
@@ -431,9 +512,9 @@ function scanBlocks(lines, from, to, uncertainties) {
  * A heading's text as upstream extracts it: without the closing `#` sequence, and without a trailing
  * block id, which the content boundary excludes and the serialiser then never writes back.
  */
-function stripClosingSequence(text) {
+function stripClosingSequence(text, triggers = {}) {
     const withoutClosing = text.replace(/[ \t]+#+[ \t]*$/, '').trim();
-    const blockId = extractBlockId(withoutClosing);
+    const blockId = extractBlockId(withoutClosing, triggers);
     return blockId ? withoutClosing.slice(0, blockId.start).trim() : withoutClosing;
 }
 
@@ -529,7 +610,7 @@ function scanList(lines, start, to) {
 
 // --- card construction ---------------------------------------------------------------------------
 
-const CHECKBOX = /^\[(.)\]([ \t]+)(\S)/;
+const CHECKBOX = /^\[(.)\]([ \t]+)(\S)/u;
 
 /**
  * Turn one list item into the card the plugin would build.
@@ -544,7 +625,7 @@ const CHECKBOX = /^\[(.)\]([ \t]+)(\S)/;
  * scrubs one off line 0 with a narrower character class. Both are needed, and neither alone is
  * right — which is why `- [ ] 2^10` becomes the card text `2` with the block id `10`.
  */
-export function itemToCard(item, lines) {
+export function itemToCard(item, lines, triggers = {}) {
     const raw = item.lines.join('\n');
     const match = CHECKBOX.exec(raw);
     let checked = null;
@@ -564,13 +645,13 @@ export function itemToCard(item, lines) {
     const contentLines = content.split('\n');
     let blockId = null;
     for (const line of contentLines) {
-        const found = extractBlockId(line);
+        const found = extractBlockId(line, triggers);
         if (found) blockId = found.id;
     }
     // The content boundary excludes only a block id that terminates the item's last content line.
     for (let index = contentLines.length - 1; index >= 0; index -= 1) {
         if (!contentLines[index].trim()) continue;
-        const found = extractBlockId(contentLines[index]);
+        const found = extractBlockId(contentLines[index], triggers);
         if (found) contentLines[index] = contentLines[index].slice(0, found.start);
         break;
     }
@@ -666,7 +747,15 @@ export function parseBoard(text, options = {}) {
         markerLine > 0 &&
         lines[markerLine - 1].trim().startsWith('%% kanban:settings');
 
-    const yaml = frontmatter.error ? null : parseSimpleYaml(frontmatter.yaml, uncertainties);
+    let yamlLineOffset = 0;
+    if (!frontmatter.error) {
+        const rawYaml = text.slice(frontmatter.bodyStart, frontmatter.bodyEnd);
+        const firstYamlByte = frontmatter.bodyStart + (rawYaml.length - rawYaml.trimStart().length);
+        yamlLineOffset = offsetToLine(text, firstYamlByte);
+    }
+    const yaml = frontmatter.error
+        ? null
+        : parseSimpleYaml(frontmatter.yaml, uncertainties, yamlLineOffset);
     const frontmatterKeys = yaml ?? {};
     const fileFrontmatter = {};
     for (const [key, value] of Object.entries(frontmatterKeys)) {
@@ -695,7 +784,15 @@ export function parseBoard(text, options = {}) {
         });
     }
 
-    const blocks = scanBlocks(lines, bodyStart, bodyEnd, uncertainties);
+    const effectiveSettings = compileEffectiveSettings(settings, options.globalSettings, {
+        dateFormat: options.vaultDateFormat,
+        timeFormat: options.vaultTimeFormat,
+    });
+    const triggers = {
+        dateTrigger: effectiveSettings['date-trigger'],
+        timeTrigger: effectiveSettings['time-trigger'],
+    };
+    const blocks = scanBlocks(lines, bodyStart, bodyEnd, uncertainties, triggers);
 
     const lanes = [];
     const archive = [];
@@ -736,7 +833,7 @@ export function parseBoard(text, options = {}) {
             }
         }
 
-        const cards = list ? list.items.map(item => itemToCard(item, lines)) : [];
+        const cards = list ? list.items.map(item => itemToCard(item, lines, triggers)) : [];
 
         if (isArchive && list) {
             archive.push(...cards);
@@ -804,6 +901,7 @@ export function parseBoard(text, options = {}) {
         frontmatter: fileFrontmatter,
         frontmatterYaml: frontmatter.error ? null : frontmatter.yaml,
         settings,
+        effectiveSettings,
         settingsFooter: footer.found
             ? {
                   markerPresent: settingsMarkerPresent,
@@ -857,12 +955,17 @@ function typedScalar(value) {
     return value;
 }
 
-export function parseSimpleYaml(source, uncertainties = []) {
+export function parseSimpleYaml(source, uncertainties = [], lineOffset = 0) {
     const result = {};
     if (!source) return result;
     const lines = source.split('\n');
     const unmodelled = (index, detail) =>
-        uncertainties.push({ kind: 'yaml-not-modelled', line: index + 1, blocking: false, detail });
+        uncertainties.push({
+            kind: 'yaml-not-modelled',
+            line: lineOffset + index + 1,
+            blocking: false,
+            detail,
+        });
     for (let index = 0; index < lines.length; index += 1) {
         const line = lines[index];
         if (!line.trim() || line.trim().startsWith('#')) continue;
@@ -880,6 +983,14 @@ export function parseSimpleYaml(source, uncertainties = []) {
         }
         const key = match[1].trim();
         let value = match[2].trim();
+        const commentAt = inlineYamlCommentAt(value);
+        if (commentAt !== -1) {
+            unmodelled(
+                index,
+                `the value of \`${key}\` has an inline YAML comment; its value is modelled, but a whole-file rewrite would discard the comment`,
+            );
+            value = value.slice(0, commentAt).trimEnd();
+        }
         if (value === '') {
             // `key:` with an indented block under it is a sequence or a mapping, not an empty
             // string. Reading it as one would quietly replace it on the next serialisation.
@@ -891,20 +1002,65 @@ export function parseSimpleYaml(source, uncertainties = []) {
             result[key] = '';
             continue;
         }
-        if (value.startsWith('[') || value.startsWith('{') || value.startsWith('|') || value.startsWith('>')) {
+        if (/^[\[\{|>&*!]/.test(value)) {
             unmodelled(index, `the value of \`${key}\` is a flow collection or block scalar this port does not model`);
             continue;
         }
-        if (
-            (value.startsWith('"') && value.endsWith('"')) ||
-            (value.startsWith("'") && value.endsWith("'"))
-        ) {
-            result[key] = value.slice(1, -1);
+        if (value.startsWith('"') || value.endsWith('"')) {
+            if (!(value.startsWith('"') && value.endsWith('"'))) {
+                unmodelled(index, `the double-quoted value of \`${key}\` is not closed`);
+                continue;
+            }
+            try {
+                // JSON string escapes are a strict, useful subset of YAML double-quoted escapes.
+                result[key] = JSON.parse(value);
+            } catch {
+                unmodelled(index, `the double-quoted value of \`${key}\` uses YAML escapes this port does not model`);
+            }
+            continue;
+        }
+        if (value.startsWith("'") || value.endsWith("'")) {
+            if (!(value.startsWith("'") && value.endsWith("'"))) {
+                unmodelled(index, `the single-quoted value of \`${key}\` is not closed`);
+                continue;
+            }
+            result[key] = value.slice(1, -1).replace(/''/g, "'");
             continue;
         }
         result[key] = typedScalar(value);
     }
     return result;
+}
+
+/** Index of a YAML inline comment, excluding hashes inside quoted scalars and literal hashes. */
+function inlineYamlCommentAt(value) {
+    let quote = null;
+    let escaped = false;
+    for (let index = 0; index < value.length; index += 1) {
+        const char = value[index];
+        if (quote === '"' && escaped) {
+            escaped = false;
+            continue;
+        }
+        if (quote === '"' && char === '\\') {
+            escaped = true;
+            continue;
+        }
+        if (quote && char === quote) {
+            if (quote === "'" && value[index + 1] === "'") {
+                index += 1;
+                continue;
+            }
+            quote = null;
+            continue;
+        }
+        if (!quote && (char === '"' || char === "'")) {
+            quote = char;
+            continue;
+        }
+        if (!quote && char === '#' && (index === 0 || /\s/.test(value[index - 1]))) return index;
+    }
+    return -1;
 }
 
 // --- serialisation --------------------------------------------------------------------------------

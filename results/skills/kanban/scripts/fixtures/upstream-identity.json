@@ -18,8 +18,10 @@
         "src/Commands/ToggleDone.ts": "0d553fcac501c13c895e0adf8e2ec544e7dbaf11684a9d564695600503f25112",
         "src/Config/Settings.ts": "a906a8bab809c7751af091a7017b51f80bd64ca3171932e74bb9a25d43dd6feb",
         "src/Statuses/Status.ts": "7a094c7ad92e8a9182347cebf1faa4153e1b06ff3cc6174ea1c4000bd76749df",
+        "src/Task/OnCompletion.ts": "f59a879dd914de6c4becb7ab89b013934d1496113d718ce55c058a103cb06c83",
         "src/Task/Task.ts": "93edfb74b7cd40c30fcea34a2b172a8f978eb5f745048a5fb69e4370eca1b40f",
         "src/Task/TaskRegularExpressions.ts": "002f313fdf7fa08771d463ff6b0d0f94c208971ce9272e31db7992e4ed53c25f",
+        "src/TaskSerializer/DataviewTaskSerializer.ts": "f3f47b06c2e7f009aecb21f0e3b430d292e6931216cf322d7082e1aacdc15050",
         "src/TaskSerializer/DefaultTaskSerializer.ts": "cf3a58dbfcf4141ea60403c6f622e095219355c9c44966aae84abe462f3088c8"
       }
     }

@@ -373,7 +373,8 @@ export function sarifReport(report, rules) {
                             id,
                             shortDescription: { text: rules[id].message },
                             help: { text: `${rules[id].fix} Evidence: ${rules[id].cite}` },
-                            properties: { severity: rules[id].severity, citation: rules[id].cite },
+                            // Severity is derived, never stored on a rule, so it is derived here too.
+                            properties: { severity: severityFor(rules[id].consequence), citation: rules[id].cite },
                         })),
                     },
                 },
