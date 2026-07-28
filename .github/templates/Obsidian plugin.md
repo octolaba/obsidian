@@ -36,7 +36,7 @@ plugin: {
 	description:  string
   about?:       string
 
-	stats: {
+	stats?: {
 		downloads:  int
 		updated_at: int
 	}

@@ -26,80 +26,67 @@ Semantic description of the $repository based on $readme and $repository.descrip
 
 ```cue
 repository: {
-    id:           int
-    node_id:      string
-    name:         string
-    full_name:    string
-    private:      bool
-    fork:         bool
+  id:           int
+  node_id:      string
 
-    html_url:     string
-    homepage?:    string
-    description?: string
+  name:         string
+  full_name:    string
+  description?: string
+  language?:    string
+  topics:       [...string]
+  html_url:     string
+  ssh_url:      string
+  homepage?:    string
 
-    owner: {
-        login:      string
-        id:         int
-        type:       string
-        html_url:   string
-        site_admin: bool
-    }
+  owner: {
+    id:       int
+    type:     "User" | "Organization"
+    login:    string
+    html_url: string
+  }
 
-    language?:      string
-    default_branch: string
-    visibility:     string
-    size:           int // KB
-    topics: [...string]
+  default_branch: string
+  visibility:     string
+  private:        bool
+  fork:           bool
+  size:           int
 
-    license?: {
-        key:     string
-        name:    string
-        spdx_id: string
-    }
+  readme: {
+    name:      string
+    path:      string
+    sha:       string
+    size:      int
+    is_binary: bool
+  }
 
-    stats: {
-        stargazers_count:  int
-        watchers_count:    int
-        forks_count:       int
-        open_issues_count: int
-        subscribers_count: int
-        network_count:     int
-    }
+  license?: {
+    key:     string
+    name:    string
+    spdx_id: string
+  }
 
-    features: {
-        has_issues:      bool
-        has_projects:    bool
-        has_downloads:   bool
-        has_wiki:        bool
-        has_pages:       bool
-        has_discussions: bool
-        archived:        bool
-        disabled:        bool
-        is_template:     bool
-    }
+  stats: {
+    stargazers_count:  int
+    watchers_count:    int
+    forks_count:       int
+    open_issues_count: int
+  }
 
-    timestamps: {
-        created_at: string
-        updated_at: string
-        pushed_at:  string
-    }
+  features: {
+    has_issues:      bool
+    has_projects:    bool
+    has_wiki:        bool
+    has_discussions: bool
+    archived:        bool
+    disabled:        bool
+    is_template:     bool
+  }
 
-    clone: {
-        git_url:   string
-        ssh_url:   string
-        clone_url: string
-        svn_url:   string
-    }
-}
-
-readme: {
-    name:         string
-    path:         string
-    sha:          string
-    size:         int // bytes
-    encoding:     string
-    html_url:     string
-    download_url: string
+  timestamps: {
+    created_at: string
+    updated_at: string
+    pushed_at:  string
+  }
 }
 ```
 
