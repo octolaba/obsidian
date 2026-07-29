@@ -1,0 +1,75 @@
+{
+  "manifestVersion": 1,
+  "note": "Two-state key manifest (spec §5.1). Every key observed in the Release Mirror's data files is either `mapped` — consumed by a note property, a body task, or the Run Report — or `ignored` with a rationale. Declaring a key in a template's CUE fence is not consumption, so a declared-but-unconsumed key is listed here as ignored. `presence: required` means the key must be observed at the pin; `presence: rare` means its absence is normal and its disappearance is only worth knowing.",
+  "sources": {
+    "community-plugins.json": {
+      "role": "Plugin Index — authoritative membership for plugins",
+      "keys": {
+        "id": { "state": "mapped", "presence": "required", "target": "plugin note filename, xid, first alias, uid name, Directory Page url, Plugin Stats join key" },
+        "name": { "state": "mapped", "presence": "required", "target": "plugin note H1 and name alias" },
+        "author": { "state": "mapped", "presence": "required", "target": "plugin data block `author` field. No frontmatter property carries it — authorship is reachable through the linked repository note — but since the Data Contract fence is filled rather than stripped (owner decision, 2026-08-06) the value is recorded in the note itself." },
+        "description": { "state": "mapped", "presence": "required", "target": "plugin body input (hashed; a change queues a body task) and the data block `description` field" },
+        "repo": { "state": "mapped", "presence": "required", "target": "plugin repo alias, alt (GitHub address), repository resolution key" }
+      }
+    },
+    "community-css-themes.json": {
+      "role": "Theme Index — authoritative membership for themes",
+      "keys": {
+        "name": { "state": "mapped", "presence": "required", "target": "theme note H1, name alias, slug derivation (filename, xid, uid name, url)" },
+        "author": { "state": "mapped", "presence": "required", "target": "theme data block `author` field; as for plugins, no frontmatter property carries it." },
+        "repo": { "state": "mapped", "presence": "required", "target": "theme repo alias, alt, screenshot derivation, repository resolution key" },
+        "screenshot": { "state": "mapped", "presence": "required", "target": "screenshot embed in the theme body and `screenshot_url` in the theme data block (URL-encoded, decision 3.9)" },
+        "modes": { "state": "mapped", "presence": "required", "target": "theme `modes` property, upstream order preserved" },
+        "legacy": { "state": "mapped", "presence": "rare", "target": "theme `legacy` property; false when the key is absent" }
+      }
+    },
+    "community-plugin-stats.json": {
+      "role": "Plugin Stats — download totals and last-update timestamps keyed by plugin id",
+      "keys": {
+        "downloads": { "state": "mapped", "presence": "required", "target": "plugin `downloads` property and the data block `stats.downloads` field, raw integer" },
+        "updated": { "state": "mapped", "presence": "required", "target": "plugin `updated at` property, epoch milliseconds converted to ISO 8601 UTC; the data block records the raw epoch integer as `stats.updated_at`" }
+      },
+      "otherKeys": {
+        "state": "ignored",
+        "valueShape": "integer",
+        "rationale": "Per-release download counters. Per-version download series are out of catalog scope (§10), and their churn is an explicitly ignored Update Run event (§6.3.3). The key is the upstream GitHub release tag, not a version number: at the pin 75,020 of 75,052 such keys are semver-shaped with an optional `v` prefix and 32 are arbitrary tag names (`publish`, `build/main.js`, `全功能支持`, a bare UUID). Modelling them as a semver pattern would have made 32 ordinary rows look like schema drift, so the manifest models the *value* shape and treats the key as opaque.",
+        "regressionAnchor": { "releaseKeys": 75052, "semverShaped": 75020, "otherShaped": 32 }
+      }
+    },
+    "community-plugins-removed.json": {
+      "role": "Removal List — historical annotations, never a membership authority",
+      "keys": {
+        "id": { "state": "mapped", "presence": "required", "target": "join key for attaching a removal reason to a deletion in the Run Report" },
+        "name": { "state": "ignored", "presence": "required", "rationale": "The name at removal time is not an identity the catalog uses; deletions are keyed by id, and the note being deleted already carries its own name." },
+        "reason": { "state": "mapped", "presence": "required", "target": "deletion reason recorded in the Run Report (decision 3.3)" },
+        "issue": { "state": "ignored", "presence": "rare", "rationale": "A link to the upstream removal discussion. Not rendered into any note; the Run Report carries the reason text, and the mirror keeps the link." }
+      }
+    },
+    "community-css-themes-removed.json": {
+      "role": "Removal List for themes — annotations only; removed themes carry no repo key",
+      "keys": {
+        "name": { "state": "mapped", "presence": "required", "target": "join key (name → slug) for attaching a removal reason in the Run Report" },
+        "reason": { "state": "mapped", "presence": "required", "target": "deletion reason recorded in the Run Report" },
+        "issue": { "state": "ignored", "presence": "rare", "rationale": "As for plugins: the upstream discussion link is not rendered." }
+      }
+    },
+    "community-plugin-deprecation.json": {
+      "role": "Deprecation List — plugin id to deprecated versions",
+      "wholeFile": {
+        "state": "ignored",
+        "rationale": "Out of catalog scope by decision (§1 Glossary, §10). The catalog carries no version information at all, so a deprecated-version map has nothing to map onto.",
+        "keyShape": "plugin id → array of version strings"
+      }
+    }
+  },
+  "consumedInputs": [
+    { "input": "plugin-index-description", "source": "community-plugins.json:description", "consumer": "plugin body task", "hashed": true },
+    { "input": "directory-about", "source": "Directory Page markup (§6.5)", "consumer": "plugin and theme body tasks; also recorded verbatim as the data block `about` field when present", "hashed": true },
+    { "input": "github-readme-content", "source": "GitHub Snapshot README `content`", "consumer": "repository body task; interim theme body fallback while §11.1 is open", "hashed": true },
+    { "input": "github-repository-description", "source": "GitHub Snapshot repository `description`", "consumer": "repository body task", "hashed": true }
+  ],
+  "ignoredEvents": [
+    { "event": "stats-version-key-churn", "rationale": "Per-version download counters appear and change on every release; per-version series are out of scope (§10)." },
+    { "event": "removal-annotation-after-deletion", "rationale": "A Removal List `reason` or `issue` arriving after the note is already deleted has nothing to annotate; history stays in the mirror (§6.3.3)." }
+  ]
+}

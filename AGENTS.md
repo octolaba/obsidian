@@ -22,6 +22,7 @@ research/plugins/<org>/<repo>/    plugin submodules; path mirrors the GitHub own
 research/skills/<org>/<repo>/     upstream agent-skill collections; same convention
 research/themes/<org>/<repo>/     theme submodules; same convention
 results/                          everything authored here, one directory per artifact type
+docs/                             generated catalogs; notes rendered by a pipeline skill, reviewed as diffs
 scripts/                          repository-level gates; may use git, which harnesses may not
 ```
 
@@ -119,18 +120,25 @@ Commit messages follow Conventional Commits, as in `feat: add <org>/<repo> plugi
 
 ## Artifacts
 
-Two types exist today. A new type gets its own directory under `results/` and its conventions recorded here —
+Three types exist today. A new type gets its own directory and its conventions recorded here —
 as a type, without naming components.
 
 | Type | Path | Purpose |
 | --- | --- | --- |
 | Deep dive | `results/deep-dives/<topic>.md` | Explanatory knowledge: how and why one component or subsystem works |
 | Skill | `results/skills/<topic>/SKILL.md` | Operational knowledge: when to use it and what to do reliably |
+| Catalog | `docs/<class>/` | Generated knowledge: notes rendered mechanically from pinned upstream data by a pipeline skill |
 
 Choose the type by the artifact's primary job. A deep dive reconstructs internals, architecture, contracts, and
 trade-offs. A skill turns verified knowledge about a topic, plugin, theme, or core component into triggers,
 decisions, procedures, diagnostics, and validation. A skill may include the mental model needed to act
 correctly, but a full architectural treatment belongs in a deep dive.
+
+**Catalogs are generated, not authored.** A catalog is the output of a pipeline: its notes are
+rendered mechanically from pinned upstream data, carry their captured source values beside the
+prose, and are reviewed as diffs, not as prose. The pipeline lives in a skill; that skill is the
+artifact under review and the authority for everything operational — contracts, ownership and
+merge rules, run protocol, failure lanes. Work with a catalog only through its skill.
 
 **Skills are self-contained.** A skill directory must be copyable into another project unchanged, so no link
 may leave it and no rule needed to act may sit behind a reference the copy will not have. Where a deep dive

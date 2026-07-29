@@ -26,6 +26,7 @@ DATAVIEW_SKILL := results/skills/dataview
 TASKS_SKILL := results/skills/tasks
 DEVELOPER_SKILL := results/skills/developer
 KANBAN_SKILL := results/skills/kanban
+CATALOG_SKILL := results/skills/catalog
 TASKS_DEFECTS := results/deep-dives/tasks/query-language-defects
 SUBMODULE_LINT := scripts/lint-submodules.sh
 

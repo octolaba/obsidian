@@ -1,0 +1,39 @@
+{
+  "source": "https://community.obsidian.md",
+  "accessed": "2026-08-06",
+  "evidence": "mutable web source; the Directory publishes no versioned artifact",
+  "fixtures": [
+    {
+      "fixture": "plugin-dataview.html",
+      "url": "https://community.obsidian.md/plugins/dataview",
+      "accessed": "2026-08-06",
+      "capturedBytes": 744426,
+      "capturedSha256": "7adfd2f089a032905120dd194dfdea68f4ce5da7afa173626cca79cdaf130ca1",
+      "note": "Sanitized excerpt: the identity markers the extractor validates, the About block verbatim, and a stub Details block. Everything else — navigation, scripts, styles, the React payload — is removed. The recorded hash is of the full capture, not of this file."
+    },
+    {
+      "fixture": "theme-rose-pine.html",
+      "url": "https://community.obsidian.md/themes/rose-pine",
+      "accessed": "2026-08-06",
+      "capturedBytes": 281592,
+      "capturedSha256": "e1c2b74f4560ed351d8e6816a355e3802a19efbe8004dff21711151449d5f47d",
+      "note": "Sanitized excerpt: the identity markers the extractor validates, the About block verbatim, and a stub Details block. Everything else — navigation, scripts, styles, the React payload — is removed. The recorded hash is of the full capture, not of this file."
+    },
+    {
+      "fixture": "plugin-canvas-loom.html",
+      "url": "https://community.obsidian.md/plugins/canvas-loom",
+      "accessed": "2026-08-06",
+      "capturedBytes": 259341,
+      "capturedSha256": "e01acca143eb7b8e1d2d80a9ffc4c1d30dec2c4ce0cacfabd16a21e28fed4a57",
+      "note": "Sanitized excerpt: the identity markers the extractor validates, the About block verbatim, and a stub Details block. Everything else — navigation, scripts, styles, the React payload — is removed. The recorded hash is of the full capture, not of this file."
+    },
+    {
+      "fixture": "plugin-not-found.html",
+      "url": "https://community.obsidian.md/plugins/definitely-not-a-plugin-xyz",
+      "accessed": "2026-08-06",
+      "capturedBytes": 69071,
+      "capturedSha256": "a80a6df9cc7d3117e8784603f6db165e2b0d201ad08742af790556b11d9bda29",
+      "note": "Sanitized excerpt: the identity markers the extractor validates, the About block verbatim, and a stub Details block. Everything else — navigation, scripts, styles, the React payload — is removed. The recorded hash is of the full capture, not of this file."
+    }
+  ]
+}
