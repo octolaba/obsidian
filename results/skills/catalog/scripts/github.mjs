@@ -2,18 +2,19 @@ import { spawnSync } from 'node:child_process';
 import { isoUtc, sha256 } from './lib.mjs';
 
 /**
- * GitHub Snapshot capture — GraphQL only (decision 3.8).
+ * GitHub Snapshot capture — GraphQL for repository metadata, REST for the README (decision 3.8).
  *
- * One repository read carries every field the repository template consumes, plus the trees needed
- * to resolve the *preferred* README the way REST's `/readme` endpoint does. Requests are batched by
- * alias so a backfill pays roughly one point per repository rather than one request per field; the
- * measured cost is reported by the caller into the Run Report.
+ * One batched GraphQL read carries every metadata field the repository template consumes; the
+ * README then costs one REST `GET /repos/{owner}/{repo}/readme` per captured repository. REST owns
+ * preferred-README discovery server-side, so no client-side discovery rule exists. The measured
+ * costs and the evidence live in `reference/graphql-coverage.md`.
  *
- * Fields the API cannot serve are removed from the contract rather than fetched over REST. The
- * coverage matrix in `reference/graphql-coverage.md` records every decision and its evidence.
+ * Contract names follow the GraphQL schema verbatim; the record below carries them under the same
+ * spelling the data block writes.
  */
 
 export const ENDPOINT = 'https://api.github.com/graphql';
+export const REST_ENDPOINT = 'https://api.github.com';
 
 const REPOSITORY_FRAGMENT = `
   databaseId
@@ -30,16 +31,19 @@ const REPOSITORY_FRAGMENT = `
   defaultBranchRef { name }
   visibility
   diskUsage
-  repositoryTopics(first: 100) { nodes { topic { name } } }
+  repositoryTopics(first: 20) { nodes { topic { name } } }
   licenseInfo { key name spdxId }
   stargazerCount
   forkCount
   watchers { totalCount }
   issues(states: OPEN) { totalCount }
   hasIssuesEnabled
+  hasPullRequestsEnabled
   hasProjectsEnabled
   hasWikiEnabled
   hasDiscussionsEnabled
+  hasSponsorshipsEnabled
+  forkingAllowed
   isArchived
   isDisabled
   isTemplate
@@ -47,53 +51,7 @@ const REPOSITORY_FRAGMENT = `
   updatedAt
   pushedAt
   sshUrl
-  root: object(expression: "HEAD:") { ... on Tree { entries { name type } } }
-  dotgithub: object(expression: "HEAD:.github") { ... on Tree { entries { name type } } }
-  docs: object(expression: "HEAD:docs") { ... on Tree { entries { name type } } }
 `;
-
-/**
- * README discovery order, to be validated against REST `/readme` (§2, decision 3.8).
- *
- * Two orderings are involved: which directory wins, and which extension wins inside it. Both are
- * measured rather than assumed; `reference/graphql-coverage.md` records the agreement rate over the
- * pilot repositories and names the cases the pilot did not exercise.
- */
-export const README_DIRECTORIES = ['', '.github', 'docs'];
-export const README_EXTENSIONS = [
-    '.md',
-    '.markdown',
-    '.mdown',
-    '.mkdn',
-    '.mkd',
-    '.rst',
-    '.textile',
-    '.rdoc',
-    '.org',
-    '.creole',
-    '.mediawiki',
-    '.wiki',
-    '.asciidoc',
-    '.adoc',
-    '.asc',
-    '.pod',
-    '.txt',
-    '.html',
-    '',
-];
-
-export function preferredReadmePath(trees) {
-    for (const directory of README_DIRECTORIES) {
-        const entries = trees[directory === '' ? 'root' : directory === '.github' ? 'dotgithub' : 'docs'] ?? [];
-        const blobs = entries.filter(entry => entry.type === 'blob');
-        for (const extension of README_EXTENSIONS) {
-            const wanted = `readme${extension}`.toLowerCase();
-            const hit = blobs.find(entry => entry.name.toLowerCase() === wanted);
-            if (hit) return directory === '' ? hit.name : `${directory}/${hit.name}`;
-        }
-    }
-    return null;
-}
 
 function token() {
     if (process.env.GITHUB_TOKEN) return process.env.GITHUB_TOKEN;
@@ -132,7 +90,7 @@ function alias(index) {
     return `r${index}`;
 }
 
-/** First pass: repository metadata plus the three trees, batched. */
+/** First pass: repository metadata, batched. */
 export async function captureRepositories(repos, options) {
     const parts = repos.map((repo, index) => {
         const [owner, name] = repo.split('/');
@@ -149,86 +107,104 @@ export async function captureRepositories(repos, options) {
     return { records: out, rateLimit: payload.data?.rateLimit ?? null, errors: payload.errors ?? [] };
 }
 
-/** Second pass: the preferred README blob for each repository, batched by path. */
-export async function captureReadmes(requests, options) {
-    if (requests.length === 0) return { blobs: new Map(), rateLimit: null };
-    const parts = requests.map((request, index) => {
-        const [owner, name] = request.repo.split('/');
-        return `${alias(index)}: repository(owner: ${JSON.stringify(owner)}, name: ${JSON.stringify(name)}) {
-      object(expression: ${JSON.stringify(`HEAD:${request.path}`)}) { ... on Blob { oid byteSize isBinary text } }
-    }`;
+/**
+ * Normalises a REST `GET /repos/{owner}/{repo}/readme` payload into the captured README record.
+ *
+ * Server-side discovery makes `name` and `path` free; the note stores only `sha`, `size` and
+ * `htmlUrl`, but the queue records the path so a body task can name what grounded it. A README
+ * between 1 and 100 MB answers `encoding: "none"` with an empty `content` (documented REST contents
+ * behaviour, verified 2026-08-10): `oversized` marks it, the text is not captured, and the caller
+ * records the `readme-oversized` lane — the README is skipped as a summary input by owner decision.
+ */
+export function normalizeReadme(payload) {
+    const decoded = payload.encoding === 'base64' ? Buffer.from(payload.content ?? '', 'base64').toString('utf8') : null;
+    return {
+        name: payload.name,
+        path: payload.path,
+        sha: payload.sha,
+        size: payload.size,
+        htmlUrl: payload.html_url,
+        oversized: payload.encoding !== 'base64',
+        content: decoded,
+        contentHash: decoded ? sha256(decoded) : null,
+    };
+}
+
+/** Second pass: the preferred README, one REST call per repository; `null` on 404 (no README). */
+export async function fetchReadme(nameWithOwner, { userAgent }) {
+    const response = await fetch(`${REST_ENDPOINT}/repos/${nameWithOwner}/readme`, {
+        headers: {
+            authorization: `bearer ${token()}`,
+            accept: 'application/vnd.github+json',
+            'user-agent': userAgent,
+        },
     });
-    const query = `query { ${parts.join('\n')} rateLimit { cost remaining nodeCount } }`;
-    const payload = await graphql(query, {}, options);
-    const blobs = new Map();
-    requests.forEach((request, index) => {
-        const blob = payload.data?.[alias(index)]?.object ?? null;
-        blobs.set(request.repo, blob ? { ...blob, path: request.path } : null);
-    });
-    return { blobs, rateLimit: payload.data?.rateLimit ?? null };
+    if (response.status === 404) return null;
+    const text = await response.text();
+    if (!response.ok) {
+        const error = new Error(`README REST HTTP ${response.status} for ${nameWithOwner}`);
+        error.status = response.status;
+        error.body = text.slice(0, 400);
+        throw error;
+    }
+    return normalizeReadme(JSON.parse(text));
 }
 
 /** Normalises a GraphQL repository node into the record the templates and renderer consume. */
 export function toRepositoryRecord(node, readme, capturedAt) {
-    const trees = {
-        root: node.root?.entries ?? [],
-        dotgithub: node.dotgithub?.entries ?? [],
-        docs: node.docs?.entries ?? [],
-    };
     return {
+        // The identity trio that filenames, links and resolution key on.
         numericId: node.databaseId,
         nodeId: node.id,
-        name: node.name,
         fullName: node.nameWithOwner,
-        htmlUrl: node.url,
-        homepage: node.homepageUrl ?? null,
+        // The contract payload, spelled exactly as the data block writes it.
+        name: node.name,
         description: node.description ?? null,
-        private: node.isPrivate,
-        fork: node.isFork,
+        language: node.primaryLanguage?.name ?? null,
+        topics: (node.repositoryTopics?.nodes ?? []).map(item => item.topic.name),
+        url: node.url,
+        sshUrl: node.sshUrl,
+        homepageUrl: node.homepageUrl ?? null,
         owner: {
-            login: node.owner.login,
             id: node.owner.databaseId ?? null,
             type: node.owner.__typename,
-            htmlUrl: node.owner.url,
+            login: node.owner.login,
+            url: node.owner.url,
         },
-        language: node.primaryLanguage?.name ?? null,
-        defaultBranch: node.defaultBranchRef?.name ?? null,
-        visibility: String(node.visibility ?? '').toLowerCase(),
-        sizeKb: node.diskUsage ?? null,
-        topics: (node.repositoryTopics?.nodes ?? []).map(item => item.topic.name),
-        license: node.licenseInfo ? { key: node.licenseInfo.key, name: node.licenseInfo.name, spdxId: node.licenseInfo.spdxId } : null,
-        stars: node.stargazerCount,
-        forks: node.forkCount,
-        openIssues: node.issues?.totalCount ?? null,
-        // The contract's `watchers_count` means *real* watchers: `watchers.totalCount`, which equals
-        // REST's `subscribers_count`. REST's own `watchers_count` is a legacy duplicate of the star
-        // count and is deliberately not used.
-        watchers: node.watchers?.totalCount ?? null,
+        license: node.licenseInfo
+            ? { key: node.licenseInfo.key, name: node.licenseInfo.name, spdxId: node.licenseInfo.spdxId ?? null }
+            : null,
+        stargazerCount: node.stargazerCount,
+        // Real watchers: `watchers.totalCount` equals REST's `subscribers_count`. REST's own
+        // `watchers_count` is a legacy duplicate of the star count and is deliberately not used.
+        watcherCount: node.watchers?.totalCount ?? null,
+        forkCount: node.forkCount,
+        // Open issues only; pull requests are excluded by decision.
+        openIssueCount: node.issues?.totalCount ?? null,
         features: {
-            hasIssues: node.hasIssuesEnabled,
-            hasProjects: node.hasProjectsEnabled,
-            hasWiki: node.hasWikiEnabled,
-            hasDiscussions: node.hasDiscussionsEnabled,
-            archived: node.isArchived,
-            disabled: node.isDisabled,
+            hasIssuesEnabled: node.hasIssuesEnabled,
+            hasPullRequestsEnabled: node.hasPullRequestsEnabled,
+            hasProjectsEnabled: node.hasProjectsEnabled,
+            hasWikiEnabled: node.hasWikiEnabled,
+            hasDiscussionsEnabled: node.hasDiscussionsEnabled,
+            hasSponsorshipsEnabled: node.hasSponsorshipsEnabled,
+            forkingAllowed: node.forkingAllowed,
+        },
+        state: {
+            // The enum stays as GraphQL serves it: PUBLIC | PRIVATE | INTERNAL.
+            visibility: node.visibility,
+            defaultBranch: node.defaultBranchRef?.name ?? null,
+            isPrivate: node.isPrivate,
+            isFork: node.isFork,
+            isArchived: node.isArchived,
+            isDisabled: node.isDisabled,
             isTemplate: node.isTemplate,
         },
+        diskUsage: node.diskUsage ?? null,
         createdAt: isoUtc(node.createdAt),
         updatedAt: isoUtc(node.updatedAt),
-        pushedAt: isoUtc(node.pushedAt),
-        sshUrl: node.sshUrl,
-        trees,
-        readme: readme
-            ? {
-                  path: readme.path,
-                  name: readme.path.split('/').pop(),
-                  oid: readme.oid,
-                  byteSize: readme.byteSize,
-                  isBinary: readme.isBinary,
-                  content: readme.text ?? null,
-                  contentHash: readme.text ? sha256(readme.text) : null,
-              }
-            : null,
+        pushedAt: node.pushedAt ? isoUtc(node.pushedAt) : null,
+        readme,
         capturedAt,
     };
 }

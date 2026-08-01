@@ -1,11 +1,13 @@
 #!/usr/bin/env node
+import fs from 'node:fs';
+import os from 'node:os';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 import { EXIT, isDirectory, parseArgs, readText, writeUsageError } from './lib.mjs';
 import { STATUS, extractAbout } from './about.mjs';
 import { hasNoUsableInput, validateBody } from './body.mjs';
-import { preferredReadmePath } from './github.mjs';
+import { normalizeReadme } from './github.mjs';
 import { verifyMaterial, IDENTITY_STATUS, describeStaleness } from './identity.mjs';
 import {
     dedupe,
@@ -22,17 +24,7 @@ import {
 import { bodyMissing, loadTemplate, parseFrontmatter, parseNote, serializeFrontmatter, yamlScalar } from './note.mjs';
 import { emitDataBlock, fields, flattenDataBlock, parseDataBlock } from './datablock.mjs';
 import { renderPluginNote, renderRepositoryNote, renderThemeNote } from './render.mjs';
-import { baseline, emptyLedger, recordCapture } from './ledger.mjs';
-import {
-    FENCES,
-    PARAMETERS_TITLE,
-    fence,
-    latestSuccessfulRun,
-    parametersSection,
-    parseFences,
-    recomputeFences,
-    renderRunReport,
-} from './run-report.mjs';
+import { blockers, exceptions, parseState, resetState, resumeView, serializeState, writeReceipt } from './state.mjs';
 
 const SCRIPT_ROOT = path.dirname(fileURLToPath(import.meta.url));
 const FIXTURES = path.join(SCRIPT_ROOT, 'fixtures');
@@ -182,7 +174,8 @@ function main(argv) {
     });
 
     check('a numeric list member stays unquoted and round-trips', () => {
-        const text = serializeFrontmatter(['xid'], { xid: [329202727, 'MDEwOlJlcG9zaXRvcnk='] });
+        // The node id leads; the numeric id follows it.
+        const text = serializeFrontmatter(['xid'], { xid: ['MDEwOlJlcG9zaXRvcnk=', 329202727] });
         assert(text.includes('  - 329202727\n'), 'the numeric id is written plain');
         const parsed = parseFrontmatter(text);
         equal(serializeFrontmatter(parsed.keys, parsed.values), text, 'byte-stable');
@@ -389,38 +382,52 @@ function main(argv) {
         const record = {
             numericId: 329202727,
             nodeId: 'MDEwOlJlcG9zaXRvcnkzMjkyMDI3Mjc=',
-            name: 'obsidian-dataview',
             fullName: 'blacksmithgu/obsidian-dataview',
-            htmlUrl: 'https://github.com/blacksmithgu/obsidian-dataview',
-            homepage: 'https://blacksmithgu.github.io/obsidian-dataview/',
+            name: 'obsidian-dataview',
             description: 'A data index and query language over Markdown files.',
-            private: false,
-            fork: false,
-            owner: { login: 'blacksmithgu', id: 616974, type: 'User', htmlUrl: 'https://github.com/blacksmithgu' },
             language: 'TypeScript',
-            defaultBranch: 'master',
-            visibility: 'public',
-            sizeKb: 12345,
             topics: ['obsidian', 'dataview'],
+            url: 'https://github.com/blacksmithgu/obsidian-dataview',
+            sshUrl: 'git@github.com:blacksmithgu/obsidian-dataview.git',
+            homepageUrl: 'https://blacksmithgu.github.io/obsidian-dataview/',
+            owner: { id: 616974, type: 'User', login: 'blacksmithgu', url: 'https://github.com/blacksmithgu' },
             license: { key: 'mit', name: 'MIT License', spdxId: 'MIT' },
-            stars: 9254,
-            watchers: 51,
-            forks: 553,
-            openIssues: 700,
+            stargazerCount: 9254,
+            watcherCount: 51,
+            forkCount: 553,
+            openIssueCount: 700,
             features: {
-                hasIssues: true,
-                hasProjects: false,
-                hasWiki: false,
-                hasDiscussions: true,
-                archived: false,
-                disabled: false,
+                hasIssuesEnabled: true,
+                hasPullRequestsEnabled: true,
+                hasProjectsEnabled: false,
+                hasWikiEnabled: false,
+                hasDiscussionsEnabled: true,
+                hasSponsorshipsEnabled: false,
+                forkingAllowed: true,
+            },
+            state: {
+                visibility: 'PUBLIC',
+                defaultBranch: 'master',
+                isPrivate: false,
+                isFork: false,
+                isArchived: false,
+                isDisabled: false,
                 isTemplate: false,
             },
+            diskUsage: 12345,
             createdAt: '2020-12-12T00:00:00Z',
             updatedAt: '2025-11-17T20:51:35Z',
             pushedAt: '2025-11-17T20:51:35Z',
-            sshUrl: 'git@github.com:blacksmithgu/obsidian-dataview.git',
-            readme: { path: 'README.md', name: 'README.md', oid: '4e365f3a', byteSize: 7828, isBinary: false, content: 'secret readme text' },
+            readme: {
+                name: 'README.md',
+                path: 'README.md',
+                sha: '4e365f3a',
+                size: 7828,
+                htmlUrl: 'https://github.com/blacksmithgu/obsidian-dataview/blob/master/README.md',
+                oversized: false,
+                content: 'secret readme text',
+                contentHash: 'f'.repeat(64),
+            },
         };
         const note = parseNote(
             renderRepositoryNote({
@@ -429,16 +436,28 @@ function main(argv) {
                 body: 'The repository holds a data index and query language over the Markdown files of a vault. It is written in TypeScript.',
             }),
         );
+        equal(note.values.xid[0], record.nodeId, 'the node id leads the xid');
+        equal(note.values.xid[1], record.numericId, 'the numeric databaseId follows it');
+        equal(note.values.url, record.url, 'the frontmatter url is the GraphQL `url`');
         const values = flattenDataBlock(parseDataBlock(note.data));
-        equal(values.get('repository.ssh_url'), record.sshUrl, 'ssh_url sits flat beside html_url');
+        equal(values.get('repository.id'), record.nodeId, 'the contract `id` is the node id');
+        equal(values.get('repository.databaseId'), record.numericId, '`databaseId` is the numeric id');
+        equal(values.get('repository.nameWithOwner'), record.fullName, '`nameWithOwner` replaced `full_name`');
+        equal(values.get('repository.sshUrl'), record.sshUrl, 'sshUrl sits flat beside url');
         equal(values.get('repository.owner.type'), 'User', 'owner.type is the union member');
-        assert(!values.has('repository.owner.site_admin'), 'site_admin was removed from the contract');
-        equal(values.get('repository.stats.watchers_count'), 51, 'watchers_count means real watchers');
-        assert(!note.data.includes('clone'), 'the clone block is gone');
-        equal(values.get('readme.sha'), '4e365f3a', 'the README blob oid is the identity');
-        equal(values.get('readme.is_binary'), false, 'the binary flag is recorded');
+        assert(!values.has('repository.owner.site_admin'), 'site_admin stays out of the contract');
+        equal(values.get('repository.stats.watcherCount'), 51, 'watcherCount means real watchers');
+        equal(values.get('repository.stats.openIssueCount'), 700, 'openIssueCount counts issues only, no pull requests');
+        equal(values.get('repository.stats.diskUsage'), 12345, 'diskUsage lives in stats');
+        equal(values.get('repository.features.hasPullRequestsEnabled'), true, 'the pull-request feature flag is recorded');
+        equal(values.get('repository.state.visibility'), 'PUBLIC', 'visibility keeps the GraphQL enum case');
+        equal(values.get('repository.state.defaultBranch'), 'master', 'defaultBranch lives in state by owner decision');
+        equal(values.get('repository.readme.sha'), '4e365f3a', 'the README sha is nested inside the repository record');
+        equal(values.get('repository.readme.htmlUrl'), record.readme.htmlUrl, 'the README jump address is recorded');
+        assert(!values.has('repository.readme.name') && !values.has('repository.readme.path'), 'README name and path were dropped by decision');
+        assert(!values.has('repository.readme.is_binary'), 'is_binary was dropped by decision');
         assert(!note.data.includes('secret readme text'), 'README text is never stored in a note');
-        assert(!values.has('readme.content'), 'no content field exists');
+        assert(!values.has('repository.readme.content'), 'no content field exists');
     });
 
     // --- About extraction --------------------------------------------------------------------------
@@ -561,92 +580,106 @@ function main(argv) {
         );
     });
 
-    // --- README discovery ---------------------------------------------------------------------------
-    check('preferred README discovery follows the recorded order', () => {
-        const tree = names => names.map(name => ({ name, type: 'blob' }));
-        equal(preferredReadmePath({ root: tree(['README.md']) }), 'README.md', 'plain root');
-        equal(preferredReadmePath({ root: tree(['readme.md']) }), 'readme.md', 'case-insensitive');
-        equal(preferredReadmePath({ root: tree(['README.rst', 'README.txt']) }), 'README.rst', 'extension order');
-        equal(
-            preferredReadmePath({ root: tree(['README.md']), docs: tree(['README.md']) }),
-            'README.md',
-            'root beats docs',
+    // --- README capture (REST /readme, decision 3.8) --------------------------------------------
+    check('the REST README payload normalises to the captured record', () => {
+        const payload = {
+            name: 'README.md',
+            path: 'docs/README.md',
+            sha: 'bcc35a1c',
+            size: 2877,
+            html_url: 'https://github.com/o/r/blob/master/docs/README.md',
+            encoding: 'base64',
+            content: Buffer.from('hello readme', 'utf8').toString('base64'),
+        };
+        const readme = normalizeReadme(payload);
+        equal(readme.content, 'hello readme', 'base64 content is decoded');
+        equal(readme.htmlUrl, payload.html_url, 'the jump address is mapped');
+        equal(readme.path, 'docs/README.md', 'the server-chosen path is kept for the body queue');
+        assert(!readme.oversized, 'a base64 payload is not oversized');
+        assert(/^[0-9a-f]{64}$/.test(readme.contentHash), 'the content hash is recorded');
+        const oversized = normalizeReadme({ ...payload, encoding: 'none', content: '' });
+        assert(oversized.oversized, 'encoding "none" marks the README oversized (over 1 MB)');
+        equal(oversized.content, null, 'no text is captured for an oversized README');
+        equal(oversized.contentHash, null, 'no hash is invented');
+        const empty = normalizeReadme({ ...payload, content: '' });
+        equal(empty.content, '', 'an empty README decodes to the empty string');
+        equal(empty.contentHash, null, 'the empty string records no hash');
+    });
+
+    // --- the live state file (decision 3.11) ----------------------------------------------------
+    check('the state grammar is strict and the vocabulary complete', () => {
+        assert(!parseState('---\nbase pin: a\n---\n## Nope\n').ok, 'an unknown section is rejected');
+        assert(!parseState('---\nbase pin: a\n---\n## Dump\n- [?] repo a/b\n').ok, 'an unknown marker is rejected');
+        assert(!parseState('---\nbase pin: a\n---\n- [ ] repo a/b\n').ok, 'an item before any section is rejected');
+        assert(!parseState('---\nbase pin: a\n---\n## Dump\n## Dump\n').ok, 'a duplicate section is rejected');
+        const state = parseState(
+            '---\nbase pin: a\ntarget pin: b\nrun: 2026-08-10\n---\n## Dump\n- [>] plugin p — github-missing (repo o/gone)\n- [-] repo o/r — bodyless-no-input (readme sha s)\n- [x] theme t\n- [/] plugin q\n',
         );
-        equal(preferredReadmePath({ docs: tree(['README.md']) }), 'docs/README.md', 'docs when root has none');
-        equal(preferredReadmePath({ root: tree(['README.ru.md', 'README.md']) }), 'README.md', 'exact name, not prefix');
-        equal(preferredReadmePath({ root: tree(['LICENSE']) }), null, 'no README at all');
+        assert(state.ok, state.reason);
+        equal(state.basePin, 'a', 'base pin is the Sync State');
+        equal(state.targetPin, 'b', 'target pin names the run in progress');
+        equal(exceptions(state).length, 2, 'exceptions are exactly the [>] and [-] lines');
+        equal(resumeView(state).sections.Dump.find(item => item.id === 'q').marker, ' ', 'wip reads as todo on resume');
+        assert(blockers(state).some(item => item.id === 'q'), 'a wip item blocks finalisation');
+        const reset = resetState(state);
+        equal(reset.basePin, 'b', 'reset advances base pin to the target');
+        equal(reset.targetPin, null, 'reset clears the target');
+        equal(reset.sections.Dump.length, 2, 'reset keeps exceptions in place and drops done items');
     });
 
-    // --- ledger and run reports -----------------------------------------------------------------------
-    check('a missing baseline re-baselines instead of queuing', () => {
-        const ledger = emptyLedger('pin');
-        equal(baseline(ledger, 'about:plugin:x'), null, 'no baseline to start');
-        const first = recordCapture(ledger, 'about:plugin:x', 'text');
-        assert(first.rebaselined, 'first record is a re-baseline');
-        assert(!first.changed, 'a re-baseline is not a change');
-        const same = recordCapture(ledger, 'about:plugin:x', 'text');
-        assert(!same.changed, 'identical text is not a change');
-        const moved = recordCapture(ledger, 'about:plugin:x', 'other');
-        assert(moved.changed, 'changed text is a change');
+    check('the state file serialisation is stable', () => {
+        const first = parseState(
+            '---\nbase pin: a\ntarget pin:\nrun: 2026-08-10\nmodel: m\npacing: interval 1500ms\n---\n## Dump\n- [ ] repo o/r\n## Sync\n## Drop\n- [x] theme t\n',
+        );
+        assert(first.ok, first.reason);
+        const once = serializeState(first);
+        const twice = serializeState(parseState(once));
+        equal(twice, once, 'serialise∘parse is idempotent');
+        assert(once.includes('- [ ] repo o/r\n'), 'items survive');
     });
 
-    check('a failed run never carries Sync State', () => {
-        const text = renderRunReport({
-            run: 'r',
-            kind: 'backfill',
-            status: 'failed',
-            pin: 'abc',
-            startedAt: '2026-01-01T00:00:00Z',
-            finishedAt: '2026-01-01T00:00:01Z',
-            sections: [],
-        });
-        assert(/\nsync state:\n/.test(text), 'sync state stays empty on failure');
-        const ok = renderRunReport({
-            run: 'r',
-            kind: 'backfill',
-            status: 'success',
-            pin: 'abc',
-            startedAt: '2026-01-01T00:00:00Z',
-            finishedAt: '2026-01-01T00:00:01Z',
-            sections: [],
-        });
-        assert(/\nsync state: abc\n/.test(ok), 'sync state is recorded on success');
+    check('an exception without a reason blocks finalisation', () => {
+        const state = parseState('---\nbase pin: a\ntarget pin: b\nrun: r\n---\n## Dump\n- [-] repo o/r\n');
+        assert(state.ok, state.reason);
+        assert(blockers(state).some(item => item.problem === 'exception without a reason'), 'a reason is required');
     });
 
-    check('the report frontmatter carries the short model id and nothing else about the pass', () => {
-        const text = renderRunReport({
-            run: 'r',
-            kind: 'backfill',
-            status: 'success',
-            pin: 'abc',
-            startedAt: '2026-01-01T00:00:00Z',
-            finishedAt: '2026-01-01T00:00:01Z',
-            model: 'claude-opus-5-medium',
-            sections: [
-                parametersSection({
-                    model: 'claude-opus-5-medium',
-                    prompt: 'the agent-pass discipline in SKILL.md',
-                    userAgent: 'ua/0.1',
-                    pacing: { concurrency: 1, intervalMs: 1500 },
-                }),
-            ],
-        });
-        assert(/\nmodel: claude-opus-5-medium\n/.test(text), 'the short id is written plain');
-        assert(!/^pacing:/m.test(text.split('---')[1]), 'pacing left the frontmatter');
-        assert(text.includes(`## ${PARAMETERS_TITLE}\n`), 'the Parameters section exists');
-        const json = /```json\n([\s\S]*?)\n```/.exec(text);
-        assert(json, 'the parameters are a formatted json block');
-        const parameters = JSON.parse(json[1]);
-        equal(parameters.prompt, 'the agent-pass discipline in SKILL.md', 'the prompt identity is recorded in the body');
-        equal(parameters.pacing.intervalMs, 1500, 'the pacing parameters are recorded in the body');
+    check('the receipt is compact and exclusive-create', () => {
+        const directory = fs.mkdtempSync(path.join(os.tmpdir(), 'catalog-receipt-'));
+        const state = parseState(
+            '---\nbase pin: a\ntarget pin: b\nrun: 2026-08-10\n---\n## Dump\n- [x] plugin p\n- [>] plugin q — github-missing (repo o/gone)\n',
+        );
+        assert(state.ok, state.reason);
+        const receipt = {
+            run: state.run,
+            basePin: state.basePin,
+            targetPin: state.targetPin,
+            startedAt: null,
+            finishedAt: '2026-08-10T00:00:00Z',
+            model: null,
+            pacing: null,
+            gate: 'clean',
+            sections: state.sections,
+        };
+        const file = writeReceipt(directory, receipt);
+        const text = readText(file);
+        assert(text.includes('| Dump | 1 | 0 | 1 |'), 'per-section counts are recorded');
+        assert(text.includes('- [>] plugin q — github-missing (repo o/gone)'), 'standing exceptions are listed');
+        assert(!text.includes('- [x] plugin p'), 'the worked checklist is not archived');
+        let refused = false;
+        try {
+            writeReceipt(directory, receipt);
+        } catch {
+            refused = true;
+        }
+        assert(refused, 'finalising twice under one run label refuses');
     });
 
-    // --- the body-less lanes: the fence, the gate's rule, and the recompute -------------------------
+    // --- the body-less rule against the state file ----------------------------------------------
     //
-    // The gate composes two pieces this file can test directly: `bodyMissing`, which decides whether
-    // a note carries prose at all, and `parseFences`, which reads what the latest successful Run
-    // Report excuses. The gate's rule is `bodyMissing(note) && !recorded`, and each half is pinned
-    // below with the negative case that used to pass.
+    // The gate composes two pieces this file can test directly: `bodyMissing`, which decides
+    // whether a note carries prose at all, and `exceptions`, which reads what the state file
+    // excuses. The gate's rule is `bodyMissing(note) && !excused`.
 
     const noteWith = blocks => parseNote(
         ['---', 'uid: u', 'tags:', '  - t', '---', '', '# Title', '', ...blocks, '', '```cue', 'x: {}', '```', '', '[^template]: [[T]]'].join('\n'),
@@ -660,40 +693,21 @@ function main(argv) {
         assert(bodyMissing(noteWith([])), 'no block at all is not a body');
     });
 
-    check('the gate accepts a body-less note only when the report fences it', () => {
-        const report = ['# Run report', '', fence(FENCES.unresolved, ['plugins/Obsidian plugin - a.md']), '', fence(FENCES.bodyless, ['repositories/GitHub - 1.md'])].join('\n');
-        const fences = parseFences(report);
-        equal(fences.unresolved.join('|'), 'plugins/Obsidian plugin - a.md', 'the unresolved fence is read');
-        equal(fences.bodyless.join('|'), 'repositories/GitHub - 1.md', 'the bodyless fence is read');
-        const recorded = new Set(fences.bodyless);
-        const flagged = note => bodyMissing(note) && !recorded.has(note.relative);
-        assert(!flagged({ ...noteWith([]), relative: 'repositories/GitHub - 1.md' }), 'a fenced body-less note is accepted');
-        assert(flagged({ ...noteWith([]), relative: 'repositories/GitHub - 2.md' }), 'an unfenced body-less note is flagged');
-        assert(flagged({ ...noteWith(['![shot](https://example.test/s.png)']), relative: 'themes/Obsidian theme - t.md' }), 'an unfenced body-less theme is flagged');
-        equal(parseFences('# Run report, no fences at all').bodyless.length, 0, 'an absent fence licenses nothing');
-    });
-
-    check('every report-writing stage recomputes both fences over the whole catalog', () => {
-        const linked = { values: { 'related to': ['[[GitHub - 1]]'] }, body: 'Prose.' };
-        const unlinked = { values: { 'related to': [] }, body: 'Prose.' };
-        const bodiless = { values: {}, body: '' };
-        const entries = [
-            { relative: 'plugins/a.md', kind: 'plugin', note: linked },
-            { relative: 'plugins/b.md', kind: 'plugin', note: unlinked },
-            { relative: 'repositories/r.md', kind: 'repository', note: bodiless, noInput: true },
-            { relative: 'repositories/s.md', kind: 'repository', note: bodiless },
-            { relative: 'themes/t.md', kind: 'theme', note: { values: { 'related to': ['[[GitHub - 2]]'] }, body: '![shot](x.png)' } },
-        ];
-        // The re-baseline defect: it emitted an empty unresolved fence unconditionally, which would
-        // have erased the recorded misses the moment its report became the latest successful one.
-        const rebaselined = recomputeFences(entries, { carriedBodyless: ['repositories/s.md'] });
-        equal(rebaselined.unresolved.join('|'), 'plugins/b.md', 'the unresolved fence is recomputed, never emitted empty');
-        equal(rebaselined.bodyless.join('|'), 'repositories/r.md|repositories/s.md', 'this run classified one and carried one');
-        // A note merely awaiting a body pass is never fenced, so its absence stays a loud finding.
-        equal(recomputeFences(entries).bodyless.join('|'), 'repositories/r.md', 'nothing is fenced without a reason');
-        // An entry drops out the moment its note gains a body.
-        const filled = entries.map(entry => (entry.relative === 'repositories/s.md' ? { ...entry, note: { values: {}, body: 'Prose.' } } : entry));
-        equal(recomputeFences(filled, { carriedBodyless: ['repositories/s.md'] }).bodyless.join('|'), 'repositories/r.md', 'a filled body leaves the fence');
+    check('the gate accepts a body-less note only when the state file excuses it', () => {
+        const state = parseState(
+            '---\nbase pin: a\n---\n## Dump\n- [-] repo o/r — bodyless-no-input (readme sha s)\n- [>] plugin a — github-missing (repo o/gone)\n',
+        );
+        assert(state.ok, state.reason);
+        const excused = exceptions(state);
+        assert(
+            excused.some(item => item.type === 'repo' && item.reason.startsWith('bodyless-no-input')),
+            'the bodyless excuse is readable, bound to its README sha',
+        );
+        assert(
+            excused.some(item => item.type === 'plugin' && item.reason.startsWith('github-missing')),
+            'the missing-link excuse is readable, bound to its repo string',
+        );
+        equal(exceptions(parseState('---\nbase pin: a\n---\n## Dump\n')).length, 0, 'an empty state excuses nothing');
     });
 
     check('inputs below the grounding floor are classified, not retried', () => {
@@ -710,8 +724,7 @@ function main(argv) {
         equal(describeStaleness('a', 'a').state, 'current', 'equal pins');
         equal(describeStaleness('a', 'b').state, 'stale', 'different pins');
         equal(describeStaleness(null, 'b').state, 'pin-unknown', 'no injected pin');
-        equal(describeStaleness('a', null).state, 'no-sync-state', 'no successful run yet');
-        equal(latestSuccessfulRun(path.join(FIXTURES, 'no-such-directory')), null, 'absent runs root');
+        equal(describeStaleness('a', null).state, 'no-sync-state', 'no completed run yet');
     });
 
     const failed = results.filter(result => !result.ok);

@@ -26,6 +26,7 @@ import {
     pluginUrl,
     repoKey,
     repositoryNoteName,
+    repositoryNumericXid,
     repositoryUid,
     screenshotUrl,
     statsFor,
@@ -36,8 +37,7 @@ import {
 } from './model.mjs';
 import { emitDataBlock, flattenDataBlock, parseDataBlock } from './datablock.mjs';
 import { bodyMissing, loadTemplate, parseNote, serializeFrontmatter } from './note.mjs';
-import { FENCES, latestSuccessfulRun, parseFences } from './run-report.mjs';
-import { loadLedger } from './ledger.mjs';
+import { exceptions, loadState } from './state.mjs';
 
 const SCRIPT_ROOT = path.dirname(fileURLToPath(import.meta.url));
 const MANIFEST = readJson(path.join(SCRIPT_ROOT, 'manifest.json'));
@@ -47,7 +47,7 @@ const USAGE = `usage: gate.mjs --release-mirror-root DIR --templates-root DIR [o
   --release-mirror-root DIR   checkout of ${PRIMARY.repo} (required)
   --templates-root DIR        directory holding the three note templates (required)
   --catalog-root DIR          the catalog tree; skipped when absent
-  --runs-root DIR             directory of Run Reports; carries Sync State
+  --state-file FILE           the live state file; carries Sync State and standing exceptions
   --release-pin SHA           the Release Pin the caller has checked out
   --json                      machine-readable report
   --help
@@ -340,7 +340,7 @@ function checkInvariants(indexes, findings, lines) {
 
 /** §5.4 — catalog well-formedness, including a byte-stable re-render of every frontmatter block. */
 function checkCatalog(context, findings, lines) {
-    const { catalogRoot, templates, indexes, runReport } = context;
+    const { catalogRoot, templates, indexes, state } = context;
     if (!catalogRoot || !isDirectory(catalogRoot)) {
         lines.push('catalog: absent — nothing to check');
         return;
@@ -349,8 +349,6 @@ function checkCatalog(context, findings, lines) {
     const themesBySlug = new Map(indexes.themes.map(theme => [themeSlug(theme.name), theme]));
     const repositoryNotes = new Map();
     const repositoryAliases = new Map();
-    // Both lanes the latest successful Run Report may excuse, read once (§6.5).
-    const recordedBodyless = new Set(runReport?.bodyless ?? []);
     let counted = 0;
 
     const classOf = file => {
@@ -362,6 +360,69 @@ function checkCatalog(context, findings, lines) {
     };
 
     const files = listFiles(catalogRoot, file => file.endsWith('.md'));
+
+    // Pre-pass: repository alias → note path plus body presence, so a `repo <owner/name>`
+    // exception line can be resolved and checked for staleness (decision 3.11).
+    const aliasToPath = new Map();
+    const repositoryBodies = new Map();
+    for (const file of files) {
+        const kind = classOf(file);
+        if (!kind || kind.name !== 'repository') continue;
+        const note = parseNote(readText(file));
+        if (!note.ok) continue;
+        const relative = path.relative(catalogRoot, file);
+        repositoryBodies.set(relative, !bodyMissing(note));
+        for (const alias of note.values.aliases ?? []) aliasToPath.set(repoKey(alias), relative);
+    }
+
+    // Standing exceptions live as `[>]`/`[-]` lines in the state file; there are no report fences.
+    const standing = state?.ok ? exceptions(state) : [];
+    const recordedMisses = new Set();
+    const recordedBodyless = new Set();
+    for (const exception of standing) {
+        if (!exception.reason) {
+            findings.push(
+                makeFinding({
+                    id: 'state/exception-without-reason',
+                    consequence: 'catalog-malformed',
+                    message: `state exception \`${exception.type} ${exception.id}\` carries no reason`,
+                }),
+            );
+            continue;
+        }
+        if (exception.reason.startsWith('github-missing') && exception.type !== 'repo') {
+            recordedMisses.add(
+                exception.type === 'plugin'
+                    ? path.join(NOTE_CLASSES.plugin.directory, pluginNoteName(exception.id))
+                    : path.join(NOTE_CLASSES.theme.directory, themeNoteName(exception.id)),
+            );
+        } else if (exception.reason.startsWith('bodyless-no-input') && exception.type === 'repo') {
+            const resolved = /^\d+$/.test(exception.id)
+                ? path.join(NOTE_CLASSES.repository.directory, repositoryNoteName(Number(exception.id)))
+                : aliasToPath.get(repoKey(exception.id));
+            if (!resolved || !repositoryBodies.has(resolved)) {
+                findings.push(
+                    makeFinding({
+                        id: 'state/stale-exception',
+                        consequence: 'catalog-malformed',
+                        message: `bodyless exception \`repo ${exception.id}\` resolves to no repository note`,
+                    }),
+                );
+            } else if (repositoryBodies.get(resolved)) {
+                findings.push(
+                    makeFinding({
+                        id: 'state/stale-exception',
+                        consequence: 'catalog-malformed',
+                        file: resolved,
+                        message: `the note carries a body; the \`bodyless-no-input\` exception for \`repo ${exception.id}\` is stale`,
+                    }),
+                );
+            } else {
+                recordedBodyless.add(resolved);
+            }
+        }
+        // Other reasons (readme-oversized, readme-error, …) are recorded context, not gate excuses.
+    }
     for (const file of files) {
         const relative = path.relative(catalogRoot, file);
         const kind = classOf(file);
@@ -485,17 +546,28 @@ function checkCatalog(context, findings, lines) {
                 expect(findings, relative, note.values.legacy === (theme.legacy === true), 'legacy does not match the index');
             }
         } else {
-            const numericId = Number(note.values.xid?.[0]);
-            if (!Number.isInteger(numericId)) {
+            const numericId = repositoryNumericXid(note.values);
+            if (numericId === null) {
                 findings.push(
                     makeFinding({
                         id: 'catalog/bad-repository-xid',
                         consequence: 'catalog-malformed',
                         file: relative,
-                        message: 'first xid member is not a numeric GitHub repository id',
+                        message: 'no xid member is a numeric GitHub repository id',
                     }),
                 );
                 continue;
+            }
+            const xid = note.values.xid ?? [];
+            if (!(xid.length === 2 && typeof xid[0] === 'string' && Number.isInteger(xid[1]))) {
+                findings.push(
+                    makeFinding({
+                        id: 'catalog/bad-repository-xid',
+                        consequence: 'catalog-malformed',
+                        file: relative,
+                        message: 'xid is not the GraphQL node id followed by the numeric databaseId; a template change is a migration (§4.4)',
+                    }),
+                );
             }
             expect(findings, relative, basename === repositoryNoteName(numericId), 'filename does not follow `GitHub - {numeric id}.md`');
             expect(findings, relative, note.values.uid === repositoryUid(numericId), 'uid is not the deterministic UUIDv5 for this repository id');
@@ -518,8 +590,7 @@ function checkCatalog(context, findings, lines) {
         }
     }
 
-    // Every plugin and theme link must resolve, or the miss must be recorded in the latest report.
-    const recordedMisses = new Set(runReport?.unresolved ?? []);
+    // Every plugin and theme link must resolve, or the miss must be excused in the state file.
     for (const file of files) {
         const kind = classOf(file);
         if (!kind || kind.name === 'repository') continue;
@@ -527,6 +598,16 @@ function checkCatalog(context, findings, lines) {
         const note = parseNote(readText(file));
         if (!note.ok) continue;
         const links = note.values['related to'] ?? [];
+        if (links.length > 0 && recordedMisses.has(relative)) {
+            findings.push(
+                makeFinding({
+                    id: 'state/stale-exception',
+                    consequence: 'catalog-malformed',
+                    file: relative,
+                    message: 'the note carries a repository link; its `github-missing` exception is stale',
+                }),
+            );
+        }
         if (links.length === 0) {
             if (!recordedMisses.has(relative)) {
                 findings.push(
@@ -534,14 +615,14 @@ function checkCatalog(context, findings, lines) {
                         id: 'catalog/unrecorded-missing-link',
                         consequence: 'catalog-malformed',
                         file: relative,
-                        message: 'no repository link and no record of the miss in the latest Run Report (§5.4)',
+                        message: 'no repository link and no `github-missing` exception in the state file (§5.4)',
                     }),
                 );
             }
             continue;
         }
         for (const link of links) {
-            // §3.1 as amended: the link is bare. A link carrying display text is drift, not a
+            // §3.1: the link is bare. A link carrying display text is drift, not a
             // variant, so it fails the shape test and is reported as dangling-shaped below.
             const match = /^\[\[GitHub - (\d+)\]\]$/.exec(link);
             if (!match) {
@@ -551,7 +632,7 @@ function checkCatalog(context, findings, lines) {
                             id: 'catalog/link-shape',
                             consequence: 'catalog-malformed',
                             file: relative,
-                            message: `repository link ${link} is not the bare \`[[GitHub - {id}]]\` form (§3.1, amended 2026-08-06)`,
+                            message: `repository link ${link} is not the bare \`[[GitHub - {id}]]\` form (§3.1)`,
                         }),
                     );
                 }
@@ -570,29 +651,10 @@ function checkCatalog(context, findings, lines) {
         }
     }
 
-    const ledger = loadLedger(catalogRoot);
-    if (ledger.present) {
-        let disagreements = 0;
-        for (const [numericId, record] of Object.entries(ledger.ledger.repositoriesById)) {
-            if (!repositoryNotes.has(numericId)) disagreements += 1;
-        }
-        if (disagreements) {
-            findings.push(
-                makeFinding({
-                    id: 'catalog/ledger-disagrees',
-                    consequence: 'catalog-malformed',
-                    message: `the Ledger maps ${disagreements} repositories with no note in the catalog`,
-                }),
-            );
-        }
-        lines.push(`ledger: present, ${Object.keys(ledger.ledger.repositoriesById).length} repositories mapped`);
-    } else {
-        lines.push('ledger: absent — not a finding (decision 3.10)');
-    }
     lines.push(`catalog: ${counted} notes checked, ${repositoryNotes.size} repository notes`);
     lines.push(
-        `run report lanes: ${(runReport?.unresolved ?? []).length} ${FENCES.unresolved}, ` +
-            `${recordedBodyless.size} ${FENCES.bodyless}`,
+        `state exceptions: ${standing.length} standing ` +
+            `(${recordedMisses.size} github-missing, ${recordedBodyless.size} bodyless-no-input)`,
     );
 }
 
@@ -602,8 +664,8 @@ function expect(findings, file, condition, message) {
 }
 
 /**
- * §5.4, extended by the owner's 2026-08-06 decision that the Data Contract fence is filled rather
- * than stripped: byte stability now covers the data block, not only the frontmatter.
+ * §5.4: the Data Contract fence is filled rather than stripped, so byte stability covers the data
+ * block, not only the frontmatter.
  *
  * Three obligations, in order. **Placement** — the block is the last thing before the footnote, with
  * the body first and only a theme allowed an embed between them. **Byte stability** — the block is
@@ -628,8 +690,8 @@ function checkDataBlock({ note, template, kind, relative, indexes, bodylessRecor
     // The body must precede *both* the screenshot embed and the data block. Testing only for an
     // empty body let a body-less theme through, because the parser calls the embed the first block
     // and the embed alone satisfied the order; `bodyMissing` closes that. A body-less note is
-    // accepted only when the latest successful Run Report records it in the `bodyless-no-input`
-    // fence (§6.5) — that is how "the inputs carry no usable semantic content" stays
+    // accepted only when the state file excuses it with a `bodyless-no-input` exception line
+    // (decision 3.11) — that is how "the inputs carry no usable semantic content" stays
     // distinguishable from a note still awaiting its body pass.
     if (bodyMissing(note) && !bodylessRecorded) {
         findings.push(
@@ -775,9 +837,9 @@ function checkDataBlock({ note, template, kind, relative, indexes, bodylessRecor
     } else {
         // A repository record is a capture, not a pin-derived value: only its identity is checkable
         // offline, against the note's own filename and xid.
-        differs('repository.id', Number(note.values.xid?.[0]));
-        differs('repository.node_id', note.values.xid?.[1]);
-        differs('repository.full_name', note.h1);
+        differs('repository.id', (note.values.xid ?? []).find(member => typeof member === 'string') ?? null);
+        differs('repository.databaseId', repositoryNumericXid(note.values));
+        differs('repository.nameWithOwner', note.h1);
     }
 }
 
@@ -786,7 +848,7 @@ function main(argv) {
     try {
         args = parseArgs(argv, {
             booleans: ['json', 'help'],
-            values: ['release-mirror-root', 'catalog-root', 'templates-root', 'runs-root', 'release-pin'],
+            values: ['release-mirror-root', 'catalog-root', 'templates-root', 'state-file', 'release-pin'],
         });
     } catch (error) {
         writeUsageError(error, USAGE);
@@ -833,26 +895,33 @@ function main(argv) {
     checkComplementarity(indexes, findings, lines);
     checkInvariants(indexes, findings, lines);
 
-    const latest = args['runs-root'] ? latestSuccessfulRun(args['runs-root']) : null;
-    const staleness = describeStaleness(args['release-pin'] ?? null, latest?.syncState ?? null);
+    const state = args['state-file'] ? loadState(args['state-file']) : null;
+    if (state && !state.ok && !state.absent) {
+        findings.push(
+            makeFinding({
+                id: 'state/unparsable',
+                consequence: 'catalog-malformed',
+                file: args['state-file'],
+                message: `the state file does not parse: ${state.reason}`,
+            }),
+        );
+    }
+    const staleness = describeStaleness(args['release-pin'] ?? null, state?.ok ? state.basePin ?? null : null);
     if (staleness.state === 'stale') {
         findings.push(
             makeFinding({
                 id: 'catalog/stale',
                 consequence: 'catalog-stale',
                 message: `the catalog reflects ${staleness.syncState}, the checkout is ${staleness.pin}; an Update Run is required (§5.3)`,
-                evidence: latest ? path.basename(latest.file) : null,
+                evidence: state?.ok && state.run ? `state run ${state.run}` : null,
             }),
         );
     } else {
-        lines.push(
-            `sync state: ${staleness.state}` +
-                (staleness.syncState ? ` (${staleness.syncState}${latest ? `, ${path.basename(latest.file)}` : ''})` : ''),
-        );
+        lines.push(`sync state: ${staleness.state}` + (staleness.syncState ? ` (${staleness.syncState})` : ''));
     }
 
     checkCatalog(
-        { catalogRoot: args['catalog-root'], templates, indexes, runReport: latest ? runReportMisses(latest.file) : null },
+        { catalogRoot: args['catalog-root'], templates, indexes, state },
         findings,
         lines,
     );
@@ -863,16 +932,6 @@ function main(argv) {
         return;
     }
     process.exitCode = findings.some(item => item.severity !== 'info') ? EXIT.findings : EXIT.clean;
-}
-
-/**
- * The only Run Report prose the gate reads: two fenced lists of catalog-relative note paths — the
- * notes whose repository link is knowingly absent (§6.5 `github-missing`), and the notes whose
- * recorded inputs carry no usable semantic content (§6.5 `bodyless-no-input`). Both are fenced so
- * the parse is exact rather than a search through prose.
- */
-function runReportMisses(file) {
-    return parseFences(readText(file));
 }
 
 main(process.argv.slice(2));

@@ -29,7 +29,7 @@ Plugin Stats are converted; counters stay raw integers.
 
 ## The data block
 
-Owner decision, 2026-08-06: the template's CUE fence is **filled**, not stripped. Every note
+Owner decision: the template's CUE fence is **filled**, not stripped. Every note
 therefore carries its own recorded inputs beside the prose and is readable without the cache, the
 mirror or the network. The frontmatter and the block do two different jobs on the same values — the
 frontmatter *renders* them for a reader, the block *records* them as the source served them. Plugin
@@ -83,11 +83,12 @@ What each block records:
 | --- | --- | --- |
 | Plugin | `plugin` | the index row (`id`, `name`, `author`, `repo`, `description`), the derived `html_url` and `github_url`, `about` when captured, and `stats` (`downloads`, raw-epoch `updated_at`) when the id has an entry |
 | Theme | `theme` | the index row (`name`, `author`, `repo`, `modes`, and `legacy` only when carried), the derived `slug`, `html_url`, `github_url` and `screenshot_url`, and `about` when captured |
-| Repository | `repository`, `readme` | the captured repository record, with `ssh_url` flat beside `html_url` and `homepage`, `owner.type` as the `"User" \| "Organization"` union, and `stats` = `stargazers_count`, `watchers_count` (real watchers), `forks_count`, `open_issues_count`; then the README **identity** — `name`, `path`, `sha` (blob oid), `size`, `is_binary` |
+| Repository | `repository` | the captured record under its GraphQL field names: `id` (node id) and `databaseId`; `name`, `nameWithOwner`, `description`, `language`, `topics`, `url`, `sshUrl`, `homepageUrl`; `owner` with `type` as the `"User" \| "Organization"` union; a nested `readme` — `sha`, `size`, `htmlUrl` from REST `/readme` — when the repository has one; `license`; and the semantic groups `stats` (`stargazerCount`, `watcherCount` — real watchers, `forkCount`, `openIssueCount` — issues only, `diskUsage`), `features` (the seven `has*Enabled`/`forkingAllowed` toggles), `state` (`visibility` in GraphQL enum case, `defaultBranch`, the five `is*` flags), `timestamps` |
 
-**The README text is never stored in a note.** It feeds the agent pass and is recorded as a hash; the
-block keeps only its identity. There is no `content` field and no `clone` block, and `owner`
-carries no `site_admin` — see `graphql-coverage.md` for why each was removed.
+**The README text is never stored in a note.** It feeds the agent pass and is recorded as a hash;
+the block keeps only `sha`, `size` and the `htmlUrl` jump address. There is no `content` field and
+no `clone` block, `owner` carries no `site_admin`, and the README's `name`, `path` and `is_binary`
+are deliberately absent — see `graphql-coverage.md` for why each is out.
 
 The block is machine-owned in full: a run overwrites it, and a hand edit shows up as a
 `catalog/not-byte-stable` or `catalog/data-block-drift` finding rather than surviving unnoticed.
@@ -97,7 +98,7 @@ The block is machine-owned in full: a run overwrites it, and a hand edit shows u
 | Property | Source | Rule |
 | --- | --- | --- |
 | `uid` | derived | UUIDv5 of `github-repository:{numeric id}`; write-once |
-| `xid` | repository record | numeric `databaseId`, then the GraphQL node `id` |
+| `xid` | repository record | the GraphQL node `id`, then the numeric `databaseId` (pre-migration notes carry the reverse order until the re-render) |
 | `aliases` | repository record | current `nameWithOwner`, then `name`; **former full names stay forever** |
 | `tags` | template | `type/bookmark`, `bookmark/github`, `github/repository` |
 | `url` | repository record | `url` |
@@ -107,7 +108,7 @@ The block is machine-owned in full: a run overwrites it, and a hand edit shows u
 | `related to`, `remind me` | human | never written by the machine |
 | H1 | repository record | current `nameWithOwner` |
 | Body | agent | grounded in README content and the repository `description` |
-| Data block | captured | the `repository` and `readme` records, filled; overwritten on refresh |
+| Data block | captured | the `repository` record, filled, `readme` nested inside it; overwritten on refresh |
 | Footnote | template | identity marker; not required to resolve in-vault |
 
 ## Plugin note — `Obsidian plugin - {id}.md`
@@ -163,9 +164,9 @@ the slug is an amendment landing on H1 and the name alias.
 | Machine list | `aliases`, `xid`, `tags`, `related to` | guaranteed members written; recognised-stale members removed; unrecognised members preserved |
 | Write-once | `uid` | never regenerated |
 | Human | `remind me`, extra `related to` members | never touched |
-| Agent | the body | replaced wholesale by a queued rewrite, which the Run Report lists first |
+| Agent | the body | replaced wholesale by a queued rewrite, listed in the cache queue and the state file's worklist first |
 
-A template change is a migration: an explicit catalog-wide re-render task recorded in the Run
-Report, never incidental drift. The gate enforces this by comparing every note's frontmatter key
+A template change is a migration: an explicit catalog-wide re-render worklist in the live state
+file, never incidental drift. The gate enforces this by comparing every note's frontmatter key
 order and tag list against the template, and the record names inside its data block against the
 records the template's contract declares.

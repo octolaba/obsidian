@@ -35,8 +35,8 @@ context.
 | Alias | Source | Version | Role |
 | --- | --- | --- | --- |
 | `releases` | obsidianmd/obsidian-releases | commit `80239338536205c598b72ed46c77ecb86831bc57` (mirror commit of 2026-07-25) | Primary. Authoritative for membership, ids, names, repos, stats. |
-| `directory` | `https://community.obsidian.md` | unversioned; captured 2026-08-06 | Supplementary and **mutable**. The only source of About. Every capture is access-dated in a Run Report. |
-| `github` | GitHub GraphQL API v4 | unversioned; probed 2026-08-06 | Supplementary and **mutable**. Repository records and README content. |
+| `directory` | `https://community.obsidian.md` | unversioned; captured 2026-08-06 | Supplementary and **mutable**. The only source of About. Every capture is access-dated in the cache evidence and dated by its run's receipt. |
+| `github` | GitHub API — GraphQL v4 metadata, REST `/readme` | unversioned; probed 2026-08-06, amended 2026-08-10 | Supplementary and **mutable**. Repository records over GraphQL; the README — content, sha, size, jump address — over REST. |
 
 Two of the three sources cannot be pinned. That is the reason the reproducibility claim is narrow:
 **mechanical steps are reproducible from the pin; capture-derived values are dated observations**,
@@ -82,7 +82,7 @@ transliterated** — `Rosé Pine` → `ros-pine` while the distinct ASCII theme 
 `Garden Gnome (Adwaita, GTK)` → `garden-gnome-adwaita-gtk`.
 
 **Contract.** Every note carries a **filled data block** — the template's CUE fence, filled with the
-captured source values rather than stripped (owner decision, 2026-08-06). A note is therefore
+captured source values rather than stripped (owner decision). A note is therefore
 self-sufficient: frontmatter, H1, body, screenshot embed (themes), data block, template footnote.
 The frontmatter and the block do different jobs on the same values — the frontmatter *renders* them
 (epoch milliseconds become ISO 8601, an absent value writes a bare key), the block *records* them as
@@ -91,10 +91,18 @@ omitted from the block, never written as `null`. Upstream strings are escaped as
 literals, so no captured value can break out of the Markdown fence; the rules and the per-class
 contents are in `reference/note-contracts.md`.
 
+**Contract.** The repository note's contract carries the GraphQL field names verbatim, grouped
+into `stats`, `features`, `state` and `timestamps`: `xid` leads with the GraphQL node `id` and the
+numeric `databaseId` follows; `readme` — `sha`, `size`, `htmlUrl`, captured over REST `/readme` —
+nests inside the `repository` record. Every repository note rendered under the previous contract
+awaits the catalog-wide re-render migration; until it lands, the gate reports each one as
+`catalog/bad-repository-xid` plus `catalog/data-block-drift`, which is the migration signal
+working as designed.
+
 **Contract.** Membership is read from `community-plugins.json` and `community-css-themes.json`
 alone. The removal lists are historical annotations: at the pin three plugin ids
 (`duplicate-line`, `memos-sync`, `smart-gantt`) sit in *both* the index and the removal list and
-are live catalog members. A removal list supplies the *reason* recorded in a Run Report when an
+are live catalog members. A removal list supplies the *reason* recorded on the `Drop` line when an
 entry actually leaves its index.
 
 **Observed at the pin.** 6,057 plugins, 650 themes, 650 distinct slugs, 6,707 distinct
@@ -104,7 +112,7 @@ different owners, 11 screenshot paths needing URL-encoding.
 
 ### Links to repository notes are bare — read before writing any link
 
-**Contract (decision 3.1, amended by the owner on 2026-08-06).** Every link to a repository note is
+**Contract (decision 3.1).** Every link to a repository note is
 written by filename alone, with no display text:
 
 ```text
@@ -124,8 +132,8 @@ text is now drift, and the gate reports it as `catalog/link-shape`.
 ### Per-class aliases, and why resolution is scoped
 
 **Contract.** Plugin and theme notes carry their `repo` string as an alias, and so does the
-repository note as its `full_name`. Every one of the 6,707 index rows therefore shares that string
-across two notes by design — the owner's standing template convention. Two consequences:
+repository note as its `nameWithOwner`. Every one of the 6,707 index rows therefore shares that
+string across two notes by design — the owner's standing template convention. Two consequences:
 
 1. Alias uniqueness is asserted **per note class**, never globally.
 2. Repository resolution searches **repository-class notes only**, by tag. An unscoped alias search
@@ -147,14 +155,13 @@ node scripts/gate.mjs \
   --release-mirror-root <checkout of obsidianmd/obsidian-releases> \
   --templates-root <directory holding the three note templates> \
   --catalog-root <catalog tree> \
-  --runs-root <Run Report directory> \
+  --state-file <the live state file> \
   --release-pin <the commit that checkout is on>
 ```
 
 Exit meanings: `0` clean, `1` findings, `2` usage, `3` material missing, `4` the catalog is stale —
-the checked-out pin differs from the Sync State in the latest successful Run Report, which is the
-actionable "an Update Run is required" state, cleared only by completing that run and advancing this
-skill's frontmatter `version`.
+the checked-out pin differs from the `base pin` in the live state file, which is the actionable
+"an Update Run is required" state, cleared only by completing that run's `finalize` stage.
 
 What it proves, in order: the mirror really is the community directory data (structurally — the six
 data files plus the README, each of its declared shape); every observed upstream key is either
@@ -162,7 +169,7 @@ mapped or ignored-with-rationale in `scripts/manifest.json`, and every consumed 
 the identity assumptions hold (unique ids, distinct slugs, no duplicate repo within an index,
 filename safety, per-class full-name alias uniqueness); and every note on disk parses, re-renders
 byte-for-byte, matches its template's key order and tags, and links only to repository notes that
-exist — or has its missing link recorded in the latest Run Report.
+exist — or has its missing link excused by a `github-missing` line in the state file.
 
 Byte stability covers the **data block** too, not only the frontmatter. The gate parses each note's
 block, checks it is the last thing before the footnote (with the body first and, for a theme, at
@@ -170,16 +177,19 @@ most the screenshot embed between them), re-emits it and compares bytes, checks 
 against the ones the template's contract declares, and compares every pin-derived field against the
 index.
 
-Two absences are legitimate, and each has its own fenced record in the latest successful Run Report:
+Two absences are legitimate, and each is excused by a standing exception line in the live state
+file (decision 3.11):
 
-| Absence | Fence | Lane |
+| Absence | Exception line | Lane |
 | --- | --- | --- |
-| no repository link at all | `unresolved-repository-links` | `github-missing` |
-| no body at all | `bodyless-no-input` | `bodyless-no-input` |
+| no repository link at all | `- [>] plugin <id> — github-missing (repo <owner/name>)` | `github-missing` |
+| no body at all | `- [-] repo <owner/name> — bodyless-no-input (readme sha <sha>)` | `bodyless-no-input` |
 
-A note listed in the matching fence is accepted; a note that is not is a finding. That is how a
-knowing miss — a 404 repository, or an entity whose recorded inputs carry no usable semantic content
-— stays distinguishable from a broken render or from a body pass that never ran.
+A note whose absence matches an exception line is accepted; a note without one is a finding. The
+gate also rejects a **stale** excuse — a bodyless line whose note now carries a body, a
+github-missing line whose note now carries a link, or an excuse resolving to no note — so an
+exception can never outlive the defect it excuses. That is how a knowing miss stays
+distinguishable from a broken render or from a body pass that never ran.
 
 **The body precedes both the screenshot embed and the data block.** The order matters to the check,
 not only to the reader: a theme note's parsed *first* block is its body, so a theme carrying only its
@@ -190,20 +200,27 @@ body-less plugin or repository note.
 **The gate never touches the network.** Anything needing the Directory or GitHub happens inside a
 run.
 
-### Backfill, in three stages
+### A run, in four stages
 
 ```sh
+# 0. worklist — the coordinator writes Dump/Sync/Drop items into the live state file and sets
+#    `target pin`; on resume it re-derives the same list from the pin pair and reconciles.
+
 # 1. capture — the only networked stage; leaves evidence and a body queue in the cache
 node scripts/run.mjs --stage capture --user-agent '<contactable UA string>' \
   --release-mirror-root … --templates-root … --catalog-root … --release-pin … \
   --plugin dataview --plugin scrybble.ink --theme 'Rosé Pine' --interval-ms 1500 --batch-size 10
 
-# 2. agent pass — write one body per queued task into a bodies file (see the discipline below)
+# 2. agent pass — subagents write one body per queued task into a bodies file (discipline below)
 
-# 3. render — offline, mechanical; validates every body, lands notes, writes the Run Report
+# 3. render — offline, mechanical; validates every body, lands notes, ticks the state file
 node scripts/run.mjs --stage render --bodies <bodies.json> \
-  --release-mirror-root … --templates-root … --catalog-root … --runs-root … --release-pin … \
-  --model '<short model id>' --prompt '<prompt identity>' --kind backfill-pilot
+  --release-mirror-root … --templates-root … --catalog-root … --state-file … --release-pin … \
+  --model '<short model id>' --prompt '<prompt identity>'
+
+# 4. finalize — after the gate is green: writes the compact receipt beside the state file,
+#    advances `base pin`, resets the worklists, keeps the exception lines in place
+node scripts/run.mjs --stage finalize --state-file … --gate-status clean
 ```
 
 A **template or renderer change is a migration**, and it needs one extra flag: the data block is
@@ -213,19 +230,21 @@ migrations alone. Prove the result by rendering twice and diffing: a migration o
 byte-identical output.
 
 Order inside a capture is fixed: resolve the repository, then capture the Directory page, then
-queue the body. Repository resolution is lookup-first — Ledger, then repository-class notes by
-alias, and only then the network — so a known repository costs nothing. On a network capture the
-numeric id decides whether this is a rename of a known repository or a new one.
+queue the body. Repository resolution is lookup-first — repository-class notes by alias, then the
+network — so a known repository costs nothing. On a network capture the numeric id decides whether
+this is a rename of a known repository or a new one.
 
-Checkpoints are written to the Ledger after every batch, so an interrupted run resumes without
-repeating captures.
+Change detection needs no store: the note's own data block is the baseline (decision 3.11) —
+description and About are recorded verbatim, the README by blob sha — so a body is queued exactly
+when the note is missing or a recorded input moved. Resume is the checklist itself: everything not
+`[x]`/`[-]`/`[>]` is still to do, and a `[/]` left by a crashed coordinator reads as todo.
 
 ### Update Run
 
-Diff each index file between the Sync State pin and the new pin, reading both states from the
-mirror's history **without touching its worktree**. Key plugins by `id`, themes by `name` → slug.
-Classify every difference into exactly one class before executing anything, and record the task
-list in the Run Report first:
+Diff each index file between the `base pin` and the new pin, reading both states from the mirror's
+history **without touching its worktree**. Key plugins by `id`, themes by `name` → slug. Classify
+every difference into exactly one class before executing anything, and write the task list into
+the state file's worklists first:
 
 | Class | Trigger | Action |
 | --- | --- | --- |
@@ -237,8 +256,10 @@ list in the Run Report first:
 | Rename-suspect | a Removed and an Added **theme sharing one repo** in the same run | **queue for the owner; do not execute** |
 
 Executed deletions must reconcile exactly with the classifier's Removed set — any excess aborts the
-run. Sync State advances only on success. A completed Update Run advances this skill's frontmatter
-`version` to the processed pin as its final step.
+run. Sync State advances only at `finalize`, and never while a `[ ]`/`[/]` item remains or an
+exception lacks a reason. A completed Update Run still advances this skill's frontmatter `version`
+to the processed pin — that is artifact provenance, deliberately decoupled from catalog state
+(decision 3.11): deleting the catalog and the state file is the supported from-scratch reset.
 
 ### Merge discipline when a note already exists
 
@@ -251,7 +272,8 @@ run. Sync State advances only on success. A completed Update Run advances this s
 - Repository `aliases` are the deliberate exception: former full names stay forever.
 - `uid` is write-once. `remind me` is never touched by the machine.
 - Bodies are agent-owned and a queued rewrite replaces them wholesale. Human edits to a body do not
-  survive it, which is why every queued body is listed in the Run Report *before* it is written.
+  survive it, which is why the queue is recorded in the cache and the worklist *before* anything is
+  written.
 
 ### Agent pass discipline
 
@@ -264,8 +286,8 @@ Every body is validated mechanically before it lands (`scripts/body.mjs`): Engli
 sentences, 80–900 characters, no frontmatter/fence/heading/HTML/footnote/wikilink injection, no
 marketing register, links restricted to the entity's own recorded addresses, and a minimum
 grounding overlap with the recorded inputs. A rejected body is a failure lane, not a silent retry.
-The Run Report records the short model id in its frontmatter and the prompt identity in its
-`Parameters` section, beside the pacing parameters.
+The state file's frontmatter records the short model id and the pacing; the receipt carries them
+into history at `finalize`.
 
 Write bodies that state what the thing *does*, in the register of the recorded inputs. Do not
 paraphrase marketing copy, do not invent capabilities the inputs do not state, and do not import
@@ -273,21 +295,17 @@ claims from anywhere but the recorded inputs for that entity.
 
 ### Losing the cache is a non-event
 
-`docs/.catalog/` is disposable by decision. On loss:
-
-```sh
-node scripts/run.mjs --stage rebaseline --user-agent '…' \
-  --release-mirror-root … --templates-root … --catalog-root … --runs-root …
-```
-
-Sync State comes back from the latest successful Run Report, identity mappings from note
-frontmatter, capture baselines by re-capturing. **A missing baseline records the fresh hash and
-queues nothing** — re-baselining is not a change. The pass must leave every pin-derived byte
-untouched; the rehearsal reports the count of changed notes, and a non-zero count is a defect.
+`docs/.catalog/` holds only per-run scratch (`captures.json`, `queue.json`, `bodies.json`). There
+is nothing in it to recover: identity lives in note frontmatter, baselines in the notes' data
+blocks, Sync State and exceptions in the live state file — all versioned. Deleting the cache costs
+a re-capture of whatever the next run touches, nothing more; there is no re-baseline stage
+(decision 3.11).
 
 ## Failure lanes
 
-Recorded in the Run Report, retried on later runs, never silently absorbed:
+Printed by the stage that hits them; the coordinator lands the durable ones as `[>]`/`[-]` lines
+with reasons in the state file (the renderer writes `bodyless-no-input` lines itself). Retried on
+later runs — a `[>]` line auto-seeds the next worklist — and never silently absorbed:
 
 | Lane | Meaning | What the run does |
 | --- | --- | --- |
@@ -296,26 +314,29 @@ Recorded in the Run Report, retried on later runs, never silently absorbed:
 | `directory-identity-mismatch` | the page is not this entity's page | **never trust the text**; retry later |
 | `directory-contract-mismatch` | markup drifted | extraction contract needs re-fixing before About updates resume |
 | `screenshot-404` | derived screenshot address answers 404 | omit the embed; retry on rotation |
+| `readme-oversized` | the README answers `encoding: "none"` (over 1 MB) | capture identity only; the README is skipped as a summary input by owner decision |
+| `readme-error` | the REST `/readme` call failed with something other than 404 | record and retry on a later run; a 404 is not a lane — the note simply omits the record |
 | rate-limit / throttling | 429 or repeated 5xx | back off; repeated throttling aborts the run cleanly (exit 5) |
 | oversized input | README beyond the recorded excerpt bound | truncation is recorded with the task |
 | rejected body | validation failed | queued again, never silently rewritten |
-| `bodyless-no-input` | the recorded inputs hold no more content words than the grounding floor demands, so no faithful body can clear it | render the note with an empty body, record it in the `bodyless-no-input` fence, re-examine when its inputs change |
+| `bodyless-no-input` | the recorded inputs hold no more content words than the grounding floor demands, so no faithful body can clear it | render the note with an empty body; the renderer writes the `[-] … bodyless-no-input (readme sha …)` exception line — a changed sha at a later capture re-opens it |
 
 Pacing parameters — concurrency, interval, backoff, retry caps, user agent — are **recorded run
-inputs** reported in every Run Report. The Directory publishes no robots policy, so pacing errs
-polite: one request at a time, 1.5 s apart by default.
+inputs** carried in the state file's frontmatter and into each receipt. The Directory publishes no
+robots policy, so pacing errs polite: one request at a time, 1.5 s apart by default.
 
 ## Validating the result
 
 1. The gate is green (or exit 4 only because a pin advance is pending an Update Run).
 2. Coverage equals promise: one note per index row, one repository note per resolved repository,
-   every shortfall enumerated with its reason in the latest Run Report.
-3. The double-run proof: re-running at the same pin with the same Ledger classifies zero
-   diff-derived tasks. Carried retries and the refresh rotation slice are standing lanes and are
-   reported separately.
-4. From a fresh clone, one re-baseline pass recovers the cache without changing a note and without
-   queuing a body; the run after it classifies zero.
-5. The Run Report reconciles: tasks by class, captures, failures, deletions against the Removed set.
+   every shortfall standing as a reasoned `[>]`/`[-]` exception line in the state file.
+3. The double-run proof: re-running at the same pin pair classifies zero tasks — the notes are the
+   baseline, so unchanged inputs queue nothing. Carried `[>]` retries are standing lines, not
+   fresh work.
+4. From a fresh clone, the next run needs no recovery: identity, baselines, Sync State and
+   exceptions are all versioned (the notes plus the state file); the cache is per-run scratch.
+5. The receipt reconciles: per-section counts, failures, and deletions against the classifier's
+   Removed set.
 
 ## Known limits and open questions
 
@@ -335,35 +356,20 @@ polite: one request at a time, 1.5 s apart by default.
   manifest models the integer *value*, not the key.
 - **Empty About is silent unless the page answers the not-found shell.** Measured over the full
   backfill: 44 entities hold an empty About baseline, while only one `directory-not-found` firing was
-  recorded. A page that renders without an About block is classified `absent` and records no lane, so
-  the absence is visible in the Ledger but not in the failure-lane tally. The refresh rotation
-  re-examines those entities on later runs; until then, an empty About is not evidence that the page
-  is gone.
-- **Report fences under-record what was written; the notes are authoritative.** Across the backfill
-  series the union of `pending-bodies` fences names 307 entities that never appear in a
-  `bodies-written` fence, yet 300 of them do carry a body — an earlier pass landed the prose without
-  listing it. Reconcile body coverage by scanning the catalog, never by summing fences. One
-  `bodies-unwritten` fence also carries free text after the entity id, so it is not machine-readable;
-  nothing parses it today.
-- **Both fences are recomputed over the whole catalog by every report-writing stage.** The gate reads
-  the latest successful report alone, so a stage that recomputed one fence and emitted the other empty
-  would erase a recorded lane the moment its report became the latest one. `unresolved-repository-links`
-  is derived from the catalog; `bodyless-no-input` carries the previous report's entries plus what
-  this run classified, filtered to the notes that are still body-less — a note merely awaiting a body
-  pass is never fenced and stays a loud finding.
-- **A run report's name is its clock, and a fabricated clock is repaired rather than trusted.**
-  Report ordering — and therefore which report the gate reads as current — is lexicographic on the
-  file name, so a writer that stamps a name ahead of the host clock silently controls that ordering.
-  The repair rule: rename the report to its file mtime in the same UTC scheme, annotate its
-  frontmatter with a `clock note` recording that the writer stamped a fabricated clock and that the
-  name was reconstructed, and change nothing else — recorded data, counts, fences and prose in a
-  historical report are immutable, and the `run` value stays as the writer stamped it.
-- **A capture-wave series may have gaps that no report explains.** The backfill's waves run 1–35 with
-  22 absent, and whether a wave was abandoned or misnumbered is not recoverable from the reports.
-  Coverage is reconciled against the index, not against the wave numbering, and it was complete.
-- **Unverified:** whether the preferred-README directory precedence used here (`root`, then
-  `.github/`, then `docs/`) matches GitHub's for a repository that carries more than one. The
-  extension ordering and the root case are measured; see `reference/graphql-coverage.md`.
+  recorded. A page that renders without an About block is classified `absent` and records no lane,
+  so the absence is visible only in the note's empty `about` field, not in the failure-lane tally.
+  The refresh rotation re-examines those entities on later runs; until then, an empty About is not
+  evidence that the page is gone.
+- **The backfill's Run Reports are history, not machinery.** The state model keeps no Run Reports
+  and no Ledger; the backfill-era reports remain only as archived observations wherever the owner
+  keeps them, and nothing reads them. The lessons that shaped the model are load-bearing: report fences under-recorded written bodies, so the notes stay the
+  authority coverage is reconciled against; a report writer could stamp a fabricated clock, so a
+  receipt is exclusive-create under its date label and never re-ordered; the wave numbering had
+  unexplained gaps, so coverage reconciles against the index, never against run history.
+- **Preferred-README discovery is server-side**: REST `/readme` answers it; no client-side rule
+  exists. A retired tree rule once reproduced it minus one never-exercised slot (`.github/`
+  precedence); its 66/66 agreement measurement stands as evidence in
+  `reference/graphql-coverage.md`.
 
 ## Reference files
 
@@ -376,7 +382,7 @@ polite: one request at a time, 1.5 s apart by default.
 ## Repository-only verification (remove when extracting this skill)
 
 Inside its home repository this skill is gated by `make lint`, which injects every root — the
-Release Mirror, the catalog, the templates, the Run Report directory — so nothing in this directory
+Release Mirror, the catalog, the templates, the live state file — so nothing in this directory
 learns the repository layout:
 
 ```sh

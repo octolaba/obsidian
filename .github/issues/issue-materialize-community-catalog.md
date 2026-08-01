@@ -16,7 +16,7 @@ Turn the Obsidian community directory into a catalog of notes under `docs/`, kep
 nearly deterministic pipeline driven from the pinned release mirror. "Nearly deterministic" is a
 defined boundary: every mechanical step — parsing, merging, rendering, diffing, point edits — is
 reproducible byte-for-byte from the pinned indexes and the capture values recorded in the notes
-and Run Reports. Capture-derived values (GitHub Snapshot fields, About) are dated observations of
+and the state file. Capture-derived values (GitHub Snapshot fields, About) are dated observations of
 mutable sources; their record is the rendered note plus its recorded content hash, not a
 replayable input store. The only non-mechanical steps are the agent-written semantic descriptions
 and the handling of recorded failure lanes, and both surface as explicit tasks, never as silent
@@ -42,10 +42,11 @@ Non-goals: mirroring READMEs or screenshots, per-version download series, the sn
 | Slug | A theme's URL identity on the Directory, derived from its name (§2). The catalog's external identity for themes. |
 | GitHub Snapshot | Data captured for one repository at a recorded time: the repository record (with its immutable numeric id and `node_id`) and the README record (metadata and content identity — path, blob oid, size, binary flag; the text itself feeds the agent pass and is recorded as a hash, never stored). |
 | Catalog | The tree under `docs/`: `plugins/`, `repositories/`, `themes/`. The hidden `docs/.catalog/` cache lives beside it but stays out of version control. |
-| Template | A file under `.github/templates/`. Simultaneously the note shape, the field mapping (scalar positions name the source field they receive), and the Data Contract (the CUE fence describing the source data). The fence documents the contract; at instantiation it is filled with the captured source values, so every note carries its own recorded inputs beside the prose (owner decision, 2026-08-06). The trailing template footnote is kept as a template-identity marker — it is not required to resolve inside the vault (`.github/` sits outside Obsidian's index). |
-| Ledger | Machine cache in `docs/.catalog/` (gitignored): identity mappings, capture timestamps, input content hashes, checkpoints. Disposable by design (decision 3.10): identity is recoverable from note frontmatter, Sync State from the latest successful Run Report, capture baselines by re-capturing. Losing it costs one re-baseline pass, never data. |
-| Sync State | The Release Pin the Catalog currently reflects. The durable copy lives in the latest successful Run Report; the Ledger only caches it. |
-| Run Report | The versioned per-run record under `.github/runs/`: pin range, task counts by class, deletions with reasons, failures, captures performed, pacing parameters used. The durable carrier of Sync State and of the failure queue between runs. |
+| Template | A file under `.github/templates/`. Simultaneously the note shape, the field mapping (scalar positions name the source field they receive), and the Data Contract (the CUE fence describing the source data). The fence documents the contract; at instantiation it is filled with the captured source values, so every note carries its own recorded inputs beside the prose. The trailing template footnote is kept as a template-identity marker — it is not required to resolve inside the vault (`.github/` sits outside Obsidian's index). |
+| Cache | Per-run scratch in `docs/.catalog/` (gitignored): captured evidence and the body queue. Nothing durable lives there (decision 3.10). |
+| State file | The versioned live checklist `.github/run/state.md` (decision 3.11): Sync State in `base pin`, the run in progress in `target pin`/`run`, the Dump/Sync/Drop worklists, and the standing `[>]`/`[-]` exception lines. |
+| Sync State | The Release Pin the Catalog currently reflects — the state file's `base pin`, advanced only by `finalize`. |
+| Receipt | The compact versioned record `.github/run/<run label>.md` a completed run leaves behind: pin pair, timestamps, model/pacing, per-section counts, exceptions, gate result. |
 | Backfill Run | Initial population of the Catalog from a pin (Stage 1 plugins, Stage 3 themes). |
 | Update Run | The incremental run after the Release Pin moves (Stage 2): diff-derived task list, then execution. |
 
@@ -67,8 +68,8 @@ Verified at Release Pin `8023933` (mirror commit of 2026-07-25); Directory and G
   `{name, reason}` with `issue` on 16 — removed themes carry no `repo` key. Membership decisions
   read the index alone.
 - Plugin Stats: 5994 ids; every value carries `downloads` and `updated` plus release-tag keys
-  with integer values. The keys are opaque, not a pattern — corrected 2026-08-06, the draft's
-  semver-pattern claim was false at the pin: of 75,052 release-tag keys most are semver-shaped,
+  with integer values. The keys are opaque, not a pattern: of 75,052 release-tag keys most are
+  semver-shaped,
   but hundreds deviate in shape (`V` prefix, two- and four-part numbers, suffixes) and 32 are
   arbitrary tag names (`publish`, `Main`, `build/main.js`, a bare UUID, non-Latin). The schema
   models the integer value and records the shape split as an informational regression anchor in
@@ -80,13 +81,13 @@ Verified at Release Pin `8023933` (mirror commit of 2026-07-25); Directory and G
   Session A's matrix records measured costs. One repository read carries every field the
   repository template consumes; the README endpoint returns metadata plus content in a single
   call.
-- GraphQL naming, probed 2026-08-06: the contract's `watchers_count` means real watchers, served
+- GraphQL naming, probed 2026-08-06: the contract's `watcherCount` means real watchers, served
   by `watchers.totalCount` (equal to REST `subscribers_count`, 51 = 51 for the probe repository);
-  REST's own `watchers_count` is a legacy duplicate of `stargazers_count` and is not used.
-  `network_count` had no GraphQL equivalent (and duplicates `forks_count` for network roots) and
-  was removed from the template. REST's README endpoint resolves the *preferred* README, which a
-  literal `HEAD:README.md` object lookup does not reproduce — discovery semantics are a Session A
-  matrix row.
+  REST's own `watchers_count` is a legacy duplicate of the star count and is not used.
+  `network_count` had no GraphQL equivalent (and duplicates the fork count for network roots) and
+  is absent from the template. REST's `/readme` endpoint resolves the *preferred* README — which a
+  literal `HEAD:README.md` object lookup does not reproduce — and is therefore the README capture
+  call (decision 3.8).
 - Directory Pages are server-rendered and content-bearing without JavaScript (observed sizes vary
   by capture; a missing slug returns a small shell). `og:description` equals the index
   `description`; the About block does not (probe above). A payload request against the same
@@ -118,20 +119,19 @@ Verified at Release Pin `8023933` (mirror commit of 2026-07-25); Directory and G
 Scale, deliberately rough: a full plugin backfill touches ≈ 6060 repositories and READMEs (far
 fewer GraphQL points when batched), ≈ 6060 Directory Page captures, and — across the full catalog
 of ≈ 13,400 notes — one agent-written body each, the largest single work item in the plan. All
-three loops must be batched, throttled, checkpointed in the Ledger, and resumable.
+three loops must be batched, throttled, and resumable from the state file's worklist.
 
 ## 3. Settled decisions
 
-Decisions 1–9 were owner-adjudicated on 2026-08-06 (fourteen annotations on the draft); decision
-10 and the amendments noted inline were adjudicated the same day on the merged review
-(`.github/reviews/2026-08-06.md`) and on the Session A code review (data block, bare links,
-contract shape).
+Every decision below is owner-adjudicated and stated as the current rule; the merged review
+(`.github/reviews/2026-08-06.md`) and the session reviews are the adjudication record, and git
+history carries the chronology.
 
 1. **Repository note identity is the immutable numeric GitHub repository id.** Filename
    `GitHub - {numeric id}.md` under `docs/repositories/`. Current `owner/repo` and the bare name
    live in `aliases` for search and suggestions; links are written bare, `[[GitHub - {id}]]` — a
-   slashed alias is not a link target, and display text was dropped by owner decision
-   (2026-08-06). Resolution is lookup-first (§6.1), scoped to
+   slashed alias is not a link target, and display text was dropped by owner
+   decision. Resolution is lookup-first (§6.1), scoped to
    repository-class notes, case-insensitive on repo strings and full names, so known repositories
    cost no network call.
 2. **About comes from the Directory Page markup.** README and index `description` are not
@@ -142,14 +142,13 @@ contract shape).
 3. **Removal means deletion.** An entry leaving its index deletes its note; a repository note is
    deleted only when no catalog note references it. A repository note that would be orphan-deleted
    but carries human state — a non-empty `remind me`, or `related to` members beyond the machine's
-   recomputed set — is queued in the Run Report for the owner instead. Every deletion and its
-   Removal List reason (when present) lands in the Run Report. History stays in git and the
-   mirror; no tombstones.
+   recomputed set — is queued for the owner instead. Every deletion and its Removal List reason
+   (when present) lands on the `Drop` line. History stays in git and the mirror; no tombstones.
 4. **uids are deterministic UUIDv5.** Namespace `d2812732-4375-4ea9-9a4c-fc42c9bffed6`; names
    `obsidian-plugin:{id}`, `github-repository:{numeric id}`, `obsidian-theme:{slug}`. Re-creating a
    note reproduces the identical uid. Written once, never regenerated.
 5. **Homes.** Notes under `docs/plugins/`, `docs/repositories/`, `docs/themes/`. The `docs/.catalog/`
-   cache is gitignored. Run Reports are versioned under `.github/runs/`. The agent-guidelines file
+   cache is gitignored. The live state file and receipts are versioned under `.github/run/`. The agent-guidelines file
    gains a clause registering this deliverable class; the clause is drafted in Session A and the
    human approves and commits it before Session B's bulk generation.
 6. **Filenames and formats.** `Obsidian plugin - {id}.md`, `Obsidian theme - {slug}.md`. Timestamps
@@ -159,24 +158,65 @@ contract shape).
    roots injected by the Makefile — Release Mirror, Catalog, Templates. Frontmatter:
    `source: obsidianmd/obsidian-releases`, `version` = the Release Pin, `basis: source`. Every
    completed Update Run advances `version` to the processed pin as its final step (§6.3.7).
-8. **GraphQL is the single capture approach.** Session A maps every Data Contract field to
-   GraphQL; a field it cannot serve is removed from the contract and its template — no REST
-   fallback. Resolved 2026-08-06, recorded in the skill's coverage reference: out go
-   `network_count`, `owner.site_admin` (a `User`-only field — organization owners exist), the
-   `clone` block (flattened to `ssh_url` beside the other addresses; the https clone address
-   derives from `html_url`), and `readme.content` (the text feeds the agent pass and is recorded
-   as a hash; the contract keeps its identity — path, blob oid, size, binary flag);
-   `watchers_count` means real watchers, served by `watchers.totalCount`; `open_issues_count`
-   means open issues only, pull requests excluded.
+8. **GraphQL captures repository metadata; REST captures the README.** The Data Contract carries
+   the GraphQL field names verbatim, grouped into `stats`, `features` (including
+   `hasPullRequestsEnabled`, `hasSponsorshipsEnabled`, `forkingAllowed`), `state` (`visibility` in
+   GraphQL enum case, `defaultBranch`, the `is*` flags) and `timestamps`; `watcherCount` means
+   real watchers (`watchers.totalCount`) and `openIssueCount` means open issues only, pull
+   requests excluded. A field the API cannot serve is absent rather than approximated:
+   no `network_count`, no `owner.site_admin` (a `User`-only field — organization owners exist),
+   no `clone` block (`sshUrl` sits beside the other addresses), no `readme.content` (the text
+   feeds the agent pass and is recorded by its blob sha). The README is the one REST call in the
+   pipeline — `GET /repos/{owner}/{repo}/readme`, server-side preferred-README discovery — and its
+   record is `sha`, `size`, `htmlUrl`, nested inside `repository`; a README over 1 MB answers
+   `encoding: "none"` and is skipped as a summary input (`readme-oversized` lane) while the note
+   still renders. `repositoryTopics` reads `first: 20`, the documented product cap.
 9. **Theme screenshots embed the pinned derivation** (`raw.githubusercontent.com/{repo}/HEAD/{screenshot}`,
    path URL-encoded) in the note body below the description, never the Directory's internal image
    store. The derivation is pinned; the content is live — a default-branch move can change the
    bytes without any catalog event, and the embed claims nothing more.
-10. **The Ledger is disposable.** No durable-state machinery guards it. On loss (fresh clone,
-    `git clean`), Sync State is recovered from the latest successful Run Report, identity mappings
-    from note frontmatter, and capture baselines by a re-baseline pass (§6.2.4) that records fresh
-    hashes without queuing bodies and without changing pin-derived content. Losing the Ledger
-    costs one re-baseline run; it never costs data and never triggers rewrites.
+10. **The cache is per-run scratch.** `docs/.catalog/` holds only a run's captured evidence and
+    body queue (`captures.json`, `queue.json`, `bodies.json`). Nothing durable lives there:
+    losing it costs a re-capture of whatever the next run touches, and no recovery machinery
+    exists because there is nothing to recover.
+11. **State model: the notes, one live checklist file, and compact receipts.** No Ledger and no
+    Run Reports — durable state that would only restate the notes or git history is not kept.
+    - **Live file** `.github/run/state.md`, versioned. Frontmatter: `base pin` — the pin the
+      catalog reflects (this is the Sync State); `target pin` — the pin being processed, absent
+      while idle; `run` — a date label (`-2` suffix on a same-day collision) that also names the
+      receipt; `model` and `pacing` as recorded run inputs. Body: exactly three worklist sections
+      — `## Dump` (capture + render), `## Sync` (point edits), `## Drop` (deletions) — one item
+      per entity under a stable typed id (`repo <owner/name>`, `plugin <id>`, `theme <slug>`).
+    - **Checkbox vocabulary**: `[ ]` todo; `[/]` handed to a subagent (ephemeral — read as `[ ]`
+      on resume); `[x]` done; `[-]` failed or accepted-standing; `[>]` known miss, auto-seeded
+      into the next run. There is no separate exceptions section: `[>]`/`[-]` lines carry their
+      reason after an em dash, survive the post-run reset in place, and ARE the standing
+      exceptions the gate reads. An exception binds to its subject — the typed id, the reason,
+      and for `bodyless-no-input` the README blob sha judged ungroundable — so a moved input
+      re-opens it: a later capture seeing another sha re-queues the body and rewrites the line.
+      The gate rejects stale excuses (a bodyless line whose note carries a body, or an excuse
+      naming no note) as findings.
+    - **Sync State** is the live file's `base pin` and nothing else. The pipeline skill's
+      frontmatter `version` stays artifact provenance and never carries catalog state: deleting
+      `docs/data/` together with the state file is the supported from-scratch reset, and history
+      lives in git.
+    - **Change detection** compares captured values against the note's own data block —
+      description and About are recorded verbatim, the README by blob sha. The note is the
+      baseline; no hash store exists.
+    - **Resume** re-derives the classifier's task set from `base pin → target pin` and reconciles
+      it against the live file; a mismatch aborts loudly. An unticked item whose note already
+      conforms is validated and ticked without a network call.
+    - **Finalisation** is idempotent and ordered: offline gate green over the finished worklists →
+      receipt written with exclusive-create semantics → live file reset (`base pin` := `target
+      pin`, target cleared, `[x]` items dropped, `[>]`/`[-]` lines kept). The pin never advances
+      while any `[ ]`/`[/]` item remains or a `[-]`/`[>]` line lacks a reason.
+    - **Receipt** `.github/run/<run label>.md`, compact by decision — the worked checklist is not
+      archived: the pin pair, run label and timestamps, model/prompt/pacing, per-section counts,
+      final failure lines, the exception delta, and the gate result. Everything else is the
+      catalog diff in git.
+    - **Workflow**: one coordinator owns every write to the notes and the state file; subagents
+      receive the recorded inputs for a batch and return bodies only; capture stays scripted and
+      centrally paced.
 
 ## 4. Note contracts
 
@@ -188,15 +228,15 @@ Three templates under `.github/templates/`: `GitHub repository.md`, `Obsidian pl
 | Property | Source | Rule |
 | --- | --- | --- |
 | `uid` | derived | UUIDv5 per decision 3.4; write-once |
-| `xid` | repository record | numeric `id`, then `node_id` |
-| `aliases` | repository record | current `full_name`, then `name`; former full names preserved after renames |
+| `xid` | repository record | the GraphQL node `id`, then the numeric `databaseId` |
+| `aliases` | repository record | current `nameWithOwner`, then `name`; former full names preserved after renames |
 | `tags` | fixed | `type/bookmark`, `bookmark/github`, `github/repository` |
-| `url` | repository record | `html_url` |
-| `alt` | repository record | `homepage` when present; the empty string counts as absent |
-| `stars`, `forks` | repository record | `stargazers_count`, `forks_count`, raw integers |
-| `pushed at` | repository record | `pushed_at`, ISO 8601 UTC |
+| `url` | repository record | `url` |
+| `alt` | repository record | `homepageUrl` when present; the empty string counts as absent |
+| `stars`, `forks` | repository record | `stargazerCount`, `forkCount`, raw integers |
+| `pushed at` | repository record | `pushedAt`, ISO 8601 UTC |
 | `related to`, `remind me` | human | never written by machine |
-| H1 | repository record | current `full_name` |
+| H1 | repository record | current `nameWithOwner` |
 | Body | agent | semantic description from README content and repository `description` |
 | Data block | captured | the template fence filled with the captured repository and README records; machine-owned, overwritten on refresh |
 | Footnote | fixed | template identity marker |
@@ -254,13 +294,13 @@ source, so no download or update properties exist.
   the machine never wrote are preserved; exact duplicates are dropped. GitHub-derived repository
   aliases are the deliberate exception: former full names stay forever (§4.1).
 - `uid` is write-once. `remind me` is never touched.
-- Bodies are agent-owned. Regeneration is a queued task triggered only by a changed recorded input
-  hash (index `description`, About text, README content, repository `description`) and replaces
-  the body wholesale: human edits to a body do not survive a rewrite, and the Run Report lists
-  every body queued so the loss is visible before it happens. A missing baseline hash (fresh
-  Ledger) re-baselines without queuing (decision 3.10).
-- A template change is a migration: an explicit catalog-wide re-render task recorded in the Run
-  Report, never incidental drift.
+- Bodies are agent-owned. Regeneration is a queued task triggered only by a captured input that
+  differs from what the note's data block records (index `description`, About text, the README by
+  blob sha — the note is the baseline, decision 3.11) and replaces the body wholesale: human edits
+  to a body do not survive a rewrite, and the worklist lists every body queued so the loss is
+  visible before it happens.
+- A template change is a migration: an explicit catalog-wide re-render worklist in the state file,
+  never incidental drift.
 
 ## 5. Invariants and the schema gate
 
@@ -284,17 +324,14 @@ run consumes a pin, and again inside `make lint`:
    material structurally (the six data files plus README) before reading it, with the repository's
    shared exit meanings. The pre-run schema inspection may be pointed at a proposed new pin and
    reports drift as findings without treating the pin as reviewed. Inside `make lint`, the catalog
-   gate reports exit 4 while the gitlink differs from the last successful Run Report's pin — the
-   catalog is stale by definition until the Update Run completes and the skill `version` advances
-   (§6.3.7).
+   gate reports exit 4 while the gitlink differs from the state file's `base pin` — the catalog is
+   stale by definition until the Update Run's `finalize` stage advances it (decision 3.11).
 4. **Catalog well-formedness**: every note parses as frontmatter plus body; renderer output is
    byte-stable (template key order, fixed quoting policy — upstream strings carry quotes, colons,
-   emoji); the Ledger, when present, agrees with the vault — an absent Ledger is not a finding
-   (decision 3.10); every plugin and theme note's repository link resolves, or the miss is
-   recorded in the latest Run Report's `unresolved-repository-links` fence; every note's body
-   precedes its embeds and data block, or the note is recorded in the latest Run Report's
-   `bodyless-no-input` fence (§6.5) — both fences are gate inputs, recomputed over the whole
-   catalog by every report-writing stage.
+   emoji); every plugin and theme note's repository link resolves, or the miss is excused by a
+   `github-missing` line in the state file; every note's body precedes its embeds and data block,
+   or the note is excused by a `bodyless-no-input` line (§6.5) — the state file's `[>]`/`[-]`
+   lines are the gate's excuse list, and a stale excuse is itself a finding (decision 3.11).
 
 The gate stays offline; anything requiring the live Directory or GitHub happens inside runs, never
 inside `make lint`.
@@ -308,41 +345,38 @@ clean committed working tree.
 
 Given an index row's `repo` string:
 
-1. Look up the Ledger by repo string (case-insensitive); on hit, the repository note is known —
-   no network.
-2. On miss, search repository-class notes (by tag) for an alias equal to the repo string,
+1. Search repository-class notes (by tag) for an alias equal to the repo string,
    case-insensitively. Plugin and theme notes carry the same string as an alias and are never
-   resolution targets.
-3. On miss, capture the GitHub Snapshot (the API follows renames) and read the immutable numeric id.
-4. Look up by numeric id — the repository may already exist under a newer name; on hit, refresh:
+   resolution targets. On hit, the repository is known — no network.
+2. On miss, capture the GitHub Snapshot (the API follows renames) and read the immutable numeric id.
+3. Look up by numeric id — the repository may already exist under a newer name; on hit, refresh:
    current full name and name lead the aliases, former names stay as members. When GitHub answers
    under a newer name than the index row's, the index string is recorded as a former-name alias
-   too, so the row resolves offline afterwards (rehearsal-exposed fix, 2026-08-06).
-5. On miss, create `GitHub - {numeric id}.md` from the template.
-6. Record the mapping and capture hashes in the Ledger.
+   too, so the row resolves offline afterwards.
+4. On miss, create `GitHub - {numeric id}.md` from the template. The notes are the only identity
+   store — nothing is recorded outside them (decision 3.11).
 
 ### 6.2 Backfill Run — Stage 1, plugins
 
 1. Gate the pin (§5).
 2. Build the worklist: Plugin Index joined with Plugin Stats (absence allowed), ordered
-   id-lexicographically, split into fixed batches; a Ledger checkpoint after every batch makes any
-   interruption resumable without repeating captures.
+   id-lexicographically, written into the state file's `Dump` section and split into fixed
+   batches; ticks after every batch make any interruption resumable without repeating captures.
 3. Per plugin: resolve the repository (§6.1) → capture the Directory Page and extract About →
-   render the plugin note mechanically → queue the body task.
-4. Agent pass (§6.6): write queued semantic descriptions. Record input hashes in the Ledger.
-   Re-baseline rule (decision 3.10): when a note already carries a body but the Ledger holds no
-   baseline hash for it, record the freshly captured hash and do not queue — re-baselining is not
-   a change.
-5. Verify (§7), write the Run Report with the processed pin.
+   render the plugin note mechanically → queue the body task. A body is queued exactly when the
+   note is missing or a captured input differs from what the note's data block records — the note
+   is the baseline (decision 3.11).
+4. Agent pass (§6.6): write queued semantic descriptions.
+5. Verify (§7), then `finalize`: receipt written, `base pin` advanced.
 
 ### 6.3 Update Run — Stage 2
 
 1. The pin is moved by the standard submodule procedure; the human commits the gitlink. Gate the
    new pin — schema drift stops the run before any edit.
-2. Diff each index file between the Sync State pin and the new pin, reading both states from the
+2. Diff each index file between `base pin` and the new pin, reading both states from the
    mirror's history without touching its worktree. Key plugins by id, themes by name → slug.
-3. Classify every difference; the resulting task list is deterministic and lands in the Run Report
-   before execution:
+3. Classify every difference; the resulting task list is deterministic and lands in the state
+   file's worklists before execution:
    - **Added** — full per-entity pipeline as in Backfill.
    - **Removed** — delete the note; orphan-check its repository (decision 3.3 queues instead of
      deleting when human state is present); attach the Removal List reason when present.
@@ -367,10 +401,11 @@ Given an index row's `repo` string:
    captures for all Added/Relocated/Amended entities plus a fixed-size rotation slice of the
    stalest captures, sized to rotate the whole Catalog within a bounded number of runs inside API
    budgets. Changed hashes queue body tasks; unchanged captures cost nothing.
-5. Execute mechanically, run the agent pass (§6.6), verify, write the Run Report, advance Sync
-   State. Sync State advances only on a successful run; failures stay queued in the versioned Run
-   Report and are retried on later runs regardless of pin movement. Executed deletions must
-   reconcile exactly with the classifier's Removed set — any excess aborts the run.
+5. Execute mechanically, run the agent pass (§6.6), verify, then `finalize`: the receipt is
+   written and `base pin` advances. Sync State advances only when every worklist item is terminal;
+   failures stay as reasoned `[>]`/`[-]` lines and are retried on later runs regardless of pin
+   movement. Executed deletions must reconcile exactly with the classifier's Removed set — any
+   excess aborts the run.
 6. Idempotency proof: immediately re-running at the same pin classifies zero diff-derived tasks.
    Standing lanes — carried retries and the rotation slice — are reported separately and do not
    count against idempotency.
@@ -388,7 +423,8 @@ subsequent Update Run.
 
 ### 6.5 Failure lanes (shared)
 
-Recorded in the Run Report, retried on later runs, never silently absorbed: GitHub 404/410 (the
+Recorded as reasoned `[>]`/`[-]` lines in the state file, retried on later runs, never silently
+absorbed: GitHub 404/410 (the
 plugin note is still created; its repository link stays absent); rate-limit pauses; a Directory
 Page absent or answering the small shell; About extraction contract mismatch — the extractor
 validates page identity markers before trusting content, so markup drift fails loudly instead of
@@ -397,10 +433,10 @@ possible, recorded as an exception); a 404 screenshot; YAML-hostile upstream str
 policy is part of the byte-stability contract); oversized About/README inputs (truncation for the
 agent pass is recorded); a body rejected by validation (§6.6); an entity whose recorded inputs
 carry no usable semantic content — the note keeps an empty body rather than an invention,
-recorded in the Run Report (`bodyless-no-input`) and re-examined when its inputs change.
+recorded as a `bodyless-no-input` exception line and re-examined when its inputs change.
 
 Pacing parameters — concurrency, request interval, backoff, retry caps — are recorded run inputs
-reported in the Run Report; repeated throttling aborts the run cleanly.
+carried in the state file and its receipt; repeated throttling aborts the run cleanly.
 
 ### 6.6 Agent pass discipline
 
@@ -410,7 +446,8 @@ authority during the pass is exactly one staged body per queued task. Every prod
 validated mechanically before landing: English, two to four sentences, grounded only in recorded
 inputs with no marketing paraphrase, Markdown structure free of frontmatter and fence injection,
 links only to the entity's own recorded addresses. A rejected body is a failure lane, not a silent
-retry. The prompt and model identity used for the pass are recorded in the Run Report.
+retry. The prompt and model identity used for the pass are recorded in the state file and its
+receipt.
 
 ## 7. Verification and acceptance
 
@@ -419,16 +456,14 @@ A stage is done when, from a hydrated clone:
 1. `make lint` is green including the catalog gates; every research submodule sits at its recorded
    pin with a clean worktree.
 2. Coverage equals promise: one note per index row, one repository note per resolved repository,
-   every shortfall enumerated with reason in the latest Run Report — counts reconcile exactly.
-3. The double-run proof holds on consecutive runs sharing a Ledger (§6.3.6; for Backfill,
-   re-running over a completed Catalog classifies zero tasks). From a fresh clone, one re-baseline
-   pass recovers the Ledger — Sync State from the latest successful Run Report, identities from
-   note frontmatter, hashes by re-capture — without note-content changes for pin-derived values
-   and without queuing bodies; the run after it classifies zero. The recovery rehearsal is pilot
-   scope (§8, Session A).
+   every shortfall standing as a reasoned `[>]`/`[-]` line in the state file — counts reconcile
+   exactly.
+3. The double-run proof: re-running at the same pin pair classifies zero tasks, because the notes
+   are the baseline and unchanged inputs queue nothing. From a fresh clone, no recovery is needed:
+   identity, baselines, Sync State and exceptions are all versioned.
 4. Well-formedness invariants (§5.4) hold across the Catalog.
-5. The Run Report reconciles: tasks by class, captures, failures, durations, and deletions against
-   the classifier's Removed set.
+5. The receipt reconciles: per-section counts, failures, and deletions against the classifier's
+   Removed set.
 6. No claim of agent-behaviour evaluation is made anywhere — the repository's standing gap applies
    and is stated where it would otherwise be implied.
 
@@ -469,9 +504,10 @@ human reviews and commits after every session; the agent never commits.
   limits and unknown site tolerance. Pacing, batching, checkpoints, resumability; pacing
   parameters recorded per run.
 - **Weekly churn.** Stats-moved touches thousands of notes per Update Run by design; kept
-  mechanical and reviewable through the task list in the Run Report.
-- **Ledger loss.** Accepted by design (decision 3.10): one re-baseline pass, no data loss, no body
-  churn. The rehearsal in Session A proves it.
+  mechanical and reviewable through the state file's worklists.
+- **Cache loss.** A non-event by design (decision 3.10): the cache is per-run scratch, and
+  everything durable — identity, baselines, Sync State, exceptions — is versioned in the notes and
+  the state file.
 - **Governance.** Decision 3.5 amends the agent-guidelines file (human-approved), and full
   coverage adds ~13k files to the repository; accepted.
 - **Upstream schema drift.** The mirror is generated; keys can appear or vanish wholesale. The
@@ -486,15 +522,7 @@ store; screenshot mirroring into the repository; non-GitHub hosting (none exists
 
 ## 11. Open questions
 
-1. `.github/README.md` precedence in README discovery — the recorded rule places `.github`
-   between the repository root and `docs`, but no sampled repository exercised that slot
-   (66/66 REST agreement covered the other shapes); verify on a live hit during Session B.
-
-Resolved 2026-08-06 (Session A pilot and matrix): theme pages carry an About block in the same
-markup shape as plugin pages (fixture `theme-rose-pine.html` beside the skill), so the README
-fallback for theme bodies is only the recorded failure lane for a page that does not render; the
-GraphQL matrix removed the unserved contract fields (recorded in the skill's coverage reference)
-and redefined `open_issues_count` as open issues only, pull requests excluded.
+None open. Resolved questions live in git history and in the skill's coverage reference.
 
 ## 12. Handoff notes for implementing sessions
 

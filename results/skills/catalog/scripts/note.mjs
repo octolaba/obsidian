@@ -8,7 +8,7 @@ import { FENCE_INFO } from './datablock.mjs';
  * The templates under the injected templates root are the single source of key order, fixed tags,
  * and the footnote marker: a template change therefore shows up as a re-render diff (§4.4) instead
  * of as drift nobody sees. The template's CUE fence documents the Data Contract and is *filled*
- * with the captured source values at instantiation (owner decision, 2026-08-06), so every note
+ * with the captured source values at instantiation (owner decision), so every note
  * carries its own recorded inputs.
  *
  * Note layout, in order: H1, the agent-written body, the screenshot embed (themes only), the filled

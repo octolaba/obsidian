@@ -1,131 +1,106 @@
 # GraphQL coverage matrix
 
-Decision 3.8: **GraphQL is the single capture approach.** A Data Contract field GraphQL cannot
-serve is removed from the contract and from the template — there is no REST fallback. This file is
-the field-by-field record, the measured cost, and the README discovery semantics.
+Decision 3.8: **GraphQL captures repository metadata; the README alone is REST** — the one REST
+call in the pipeline is `GET /repos/{owner}/{repo}/readme`, which owns preferred-README discovery
+server-side. A Data Contract field the API cannot serve is absent from the contract and from the
+template rather than approximated. The contract carries the GraphQL field names verbatim, grouped
+into `stats`, `features`, `state`, `timestamps`. This file is the field-by-field record, the
+measured cost, and the README semantics.
 
-Probed 2026-08-06 against the live API with a token from the `gh` CLI. Schema names come from a
-`__type(name: "Repository")` introspection on the same day.
+Probed 2026-08-06 and 2026-08-10 against the live API with a token from the `gh` CLI; schema names
+come from `__type(name: "Repository")` introspection, and the oversized-README behaviour was
+verified against the live REST documentation.
 
 ## Repository fields
 
-| Contract field | GraphQL | Status | Note |
-| --- | --- | --- | --- |
-| `id` | `databaseId` | served | the immutable numeric id the catalog's filenames use |
-| `node_id` | `id` | served | GraphQL's own node id |
-| `name` | `name` | served | |
-| `full_name` | `nameWithOwner` | served | canonical case; compare case-insensitively |
-| `private` | `isPrivate` | served | |
-| `fork` | `isFork` | served | |
-| `html_url` | `url` | served | |
-| `homepage` | `homepageUrl` | served | the **empty string** occurs and counts as absent |
-| `description` | `description` | served | `null` occurs (2 of 26 pilot repositories) |
-| `owner.login` | `owner.login` | served | |
-| `owner.id` | `owner.databaseId` | served | needs `... on User` / `... on Organization` fragments |
-| `owner.type` | `owner.__typename` | served | `User` / `Organization`, same spelling as REST |
-| `owner.html_url` | `owner.url` | served | |
-| `owner.site_admin` | `isSiteAdmin` on `User` only | **removed** | `Organization` has no equivalent, so the field cannot be served for every owner. Gone from the template and from every note's data block |
-| `language` | `primaryLanguage.name` | served | `null` for content-less repositories |
-| `default_branch` | `defaultBranchRef.name` | served | |
-| `visibility` | `visibility` | served | GraphQL yields `PUBLIC`; lowercased at normalisation |
-| `size` | `diskUsage` | served | kilobytes, as REST's `size` |
-| `topics` | `repositoryTopics(first: 100).nodes.topic.name` | served | 100 is above any observed count |
-| `license` | `licenseInfo { key name spdxId }` | served | `null` when unlicensed (2 of 26 pilot repositories) |
-| `stats.stargazers_count` | `stargazerCount` | served | |
-| `stats.watchers_count` | `watchers.totalCount` | served | **Real watchers.** 51 = 51 against REST's `subscribers_count` for `blacksmithgu/obsidian-dataview`. REST's own `watchers_count` is the trap: it duplicates `stargazers_count` (9,254 = 9,254 for the same repository) and is not used. The contract keeps the REST-shaped *name* and the GraphQL *meaning* |
-| `stats.forks_count` | `forkCount` | served | |
-| `stats.open_issues_count` | `issues(states: OPEN).totalCount` | served, **different semantics** | REST's `open_issues_count` counts open issues **plus** open pull requests; this counts issues only. The contract now means "open issues"; add `pullRequests(states: OPEN).totalCount` if the REST sense is ever wanted |
-| `network_count` | — | **removed** (adjudication 3) | no equivalent, and it duplicates `forks_count` for network roots (553 = 553) |
-| `features.has_issues` | `hasIssuesEnabled` | served | |
-| `features.has_projects` | `hasProjectsEnabled` | served | |
-| `features.has_downloads` | — | **removed** | no field in the schema |
-| `features.has_wiki` | `hasWikiEnabled` | served | |
-| `features.has_pages` | — | **removed** | no field in the schema |
-| `features.has_discussions` | `hasDiscussionsEnabled` | served | |
-| `features.archived` | `isArchived` | served | |
-| `features.disabled` | `isDisabled` | served | |
-| `features.is_template` | `isTemplate` | served | |
-| `timestamps.created_at` | `createdAt` | served | |
-| `timestamps.updated_at` | `updatedAt` | served | |
-| `timestamps.pushed_at` | `pushedAt` | served | the only one a note renders |
-| `ssh_url` | `sshUrl` | served | the `clone` block was flattened: `ssh_url` now sits beside `html_url` and `homepage` |
-| `clone.git_url` | — | **removed** | no field in the schema |
-| `clone.clone_url` | — | **removed** | derivable from `url`, but derivation is not capture |
-| `clone.svn_url` | — | **removed** | no field in the schema |
+Contract names now equal the GraphQL names, so the matrix records the source selection and the
+semantics instead of a rename table:
 
-## README fields
+| Contract field | GraphQL source | Note |
+| --- | --- | --- |
+| `id` | `id` | the GraphQL node id; leads `xid` |
+| `databaseId` | `databaseId` | the immutable numeric id the catalog's filenames, uids and links use |
+| `name` | `name` | |
+| `nameWithOwner` | `nameWithOwner` | canonical case; compare case-insensitively (was `full_name`) |
+| `description` | `description` | `null` occurs (2 of 26 pilot repositories) |
+| `language` | `primaryLanguage.name` | `null` for content-less repositories |
+| `topics` | `repositoryTopics(first: 20).nodes[].topic.name` | one page is exhaustive: GitHub caps topics at 20 per repository (verified 2026-08-10) |
+| `url` | `url` | was `html_url` |
+| `sshUrl` | `sshUrl` | flat beside the other addresses since the `clone` block was removed |
+| `homepageUrl` | `homepageUrl` | the **empty string** occurs and counts as absent |
+| `owner.id` | `owner.databaseId` | needs `... on User` / `... on Organization` fragments |
+| `owner.type` | `owner.__typename` | `User` / `Organization`, same spelling as REST |
+| `owner.login` | `owner.login` | |
+| `owner.url` | `owner.url` | |
+| `license.key`, `license.name`, `license.spdxId` | `licenseInfo { key name spdxId }` | `null` when unlicensed (2 of 26 pilot repositories); `spdxId` itself may be null and is then omitted |
+| `stats.stargazerCount` | `stargazerCount` | |
+| `stats.watcherCount` | `watchers.totalCount` | **Real watchers.** 51 = 51 against REST's `subscribers_count` for `blacksmithgu/obsidian-dataview` (2026-08-06 probe). REST's own `watchers_count` is the trap: it duplicates the star count and is not used |
+| `stats.forkCount` | `forkCount` | |
+| `stats.openIssueCount` | `issues(states: OPEN).totalCount` | open issues only, pull requests excluded by decision — REST's `open_issues_count` counted both, and its denormalised counter can also go stale |
+| `stats.diskUsage` | `diskUsage` | kilobytes; moved into `stats` by the grouping rules |
+| `features.hasIssuesEnabled` … `features.hasDiscussionsEnabled` | same-named fields | |
+| `features.hasPullRequestsEnabled`, `features.hasSponsorshipsEnabled`, `features.forkingAllowed` | same-named fields | pull requests are a disableable feature on GitHub |
+| `state.visibility` | `visibility` | kept in GraphQL enum case — `PUBLIC` \| `PRIVATE` \| `INTERNAL`; never lowercased |
+| `state.defaultBranch` | `defaultBranchRef.name` | `null` for an empty repository; lives in `state` by owner decision |
+| `state.isPrivate`, `state.isFork`, `state.isArchived`, `state.isDisabled`, `state.isTemplate` | same-named fields | |
+| `timestamps.createdAt`, `timestamps.updatedAt` | same-named fields | |
+| `timestamps.pushedAt` | `pushedAt` | the only one a note renders; `null` for a never-pushed repository |
 
-| Contract field | GraphQL | Status | Note |
-| --- | --- | --- | --- |
-| `path` | the expression the discovery rule chose | served | e.g. `HEAD:README.md` |
-| `name` | basename of `path` | served | derived from the path, not a separate read |
-| `sha` | `Blob.oid` | served | equals REST's `sha` (`4e365f3a…` for the dataview README) |
-| `size` | `Blob.byteSize` | served | equals REST's `size` (7,828 bytes, same probe) |
-| `content` | `Blob.text` | served, **not stored** | already decoded (REST returns base64). The text feeds the agent pass and is recorded as a hash; `readme.content` was **removed from the contract**, so no note ever carries README text |
-| `encoding` | — | **removed** | GraphQL serves decoded text, so an encoding field describes nothing. `Blob.isBinary` replaces it: a binary blob returns `text: null` |
-| `html_url` | — | **removed** | derivable from `url`, branch and path |
-| `download_url` | — | **removed** | derivable from the raw host, branch and path |
+## README fields — REST `GET /repos/{owner}/{repo}/readme`
+
+| Contract field | REST source | Note |
+| --- | --- | --- |
+| `readme.sha` | `sha` | the blob sha; equals the GraphQL `Blob.oid` (verified 2026-08-10, `bcc35a1c…` both ways) |
+| `readme.size` | `size` | bytes; equals `Blob.byteSize` (2,877 = 2,877, same probe) |
+| `readme.htmlUrl` | `html_url` | the rendered-README jump address; with `path` not stored it is not derivable, so it is recorded |
+| — | `name`, `path` | known (discovery is server-side) but **not stored**; the body queue records the path so a task can name what grounded it |
+| — | `content` | base64, decoded at capture, **not stored**: the text feeds the agent pass and is recorded as a hash |
+| — | `encoding` | consumed as the oversize guard: a README of 1–100 MB answers `encoding: "none"` with empty `content` (documented REST contents behaviour, verified 2026-08-10; over 100 MB the endpoint refuses entirely). The capture records the `readme-oversized` lane and the README is skipped as a summary input by owner decision |
+
+A repository with no README answers 404 and the note simply omits the `readme` record. The retired
+`is_binary` flag has no replacement: a binary file named like a README would decode to mojibake, an
+edge accepted as vanishingly rare when the flag was dropped.
 
 ## What the template no longer declares
 
-Every removal above, gathered so a reader does not have to reassemble it from the tables:
-`owner.site_admin`, `network_count`, `features.has_downloads`, `features.has_pages`,
-`readme.encoding`, `readme.html_url`, `readme.download_url`, `readme.content`, and the whole `clone`
-block except `ssh_url`, which was flattened up beside the other addresses (the https clone address
-derives from `html_url`). `readme.is_binary` was added in `encoding`'s place. `watchers_count` was
-re-added with the GraphQL meaning after the 2026-08-06 probe.
+Every field deliberately absent, gathered so a reader does not have to reassemble it from the
+tables: `owner.site_admin`, `network_count`, `features.has_downloads`, `features.has_pages`,
+`readme.encoding`, `readme.download_url`, `readme.content`, `readme.name`, `readme.path`,
+`readme.is_binary` (valueless for a note), and the whole `clone` block except the ssh address.
+The REST-shaped spellings are not contract names either: `watcherCount` carries the real-watchers
+meaning `watchers_count` never had in REST, and `openIssueCount` counts issues only.
 
-Because the Data Contract fence is now *filled* into every repository note rather than stripped, a
-field removed here is a field that disappears from 26 notes on the next re-render — the removals are
-visible in the catalog, not only in the template.
+Because the Data Contract fence is *filled* into every repository note rather than stripped, a
+field that moves here moves in every note on the next re-render — the removals are visible in the
+catalog, not only in the template.
 
-## Preferred-README discovery
+## Preferred-README discovery — server-side
 
-REST's `/readme` endpoint resolves the *preferred* README; a literal `HEAD:README.md` object lookup
-does not reproduce it. GraphQL has no equivalent endpoint, so discovery is done explicitly: the same
-query that reads the repository also reads the root, `.github` and `docs` trees, and
-`preferredReadmePath()` picks by an ordered rule.
-
-**Rule as implemented** (`scripts/github.mjs`): directories in order `""`, `.github`, `docs`; inside
-a directory, the first existing `readme{ext}` matched **case-insensitively** with `ext` in
-`.md, .markdown, .mdown, .mkdn, .mkd, .rst, .textile, .rdoc, .org, .creole, .mediawiki, .wiki,
-.asciidoc, .adoc, .asc, .pod, .txt, .html, ""`.
-
-**Measured**, 2026-08-06: the rule's answer was compared against `GET /repos/{repo}/readme` for
-**66 repositories** — the 26 pilot repositories plus 40 unrelated repositories chosen to vary the
-shape. **66 of 66 agreed.**
-
-Cases the measurement actually exercised:
-
-| Case | Example | Result |
-| --- | --- | --- |
-| root `README.md` | most of the sample | agrees |
-| lowercase / mixed case | `vercel/next.js` (`readme.md`), `expressjs/express` (`Readme.md`) | agrees — matching must be case-insensitive |
-| non-Markdown root README | `python/cpython`, `home-assistant/core` (`README.rst`), `elastic/elasticsearch` (`README.asciidoc`) | agrees — extension order matters |
-| root **and** `docs/` README | `hashicorp/terraform`, `django/django`, `pytorch/pytorch`, `cli/cli`, `gohugoio/hugo`, `probot/probot`, `jesseduffield/lazygit` | agrees — **root wins over `docs/`** |
-| many localised root READMEs | `trekhleb/javascript-algorithms` (19 `README.*.md` files) | agrees — exact name match, not a prefix match |
-
-**Unverified, and stated as such:** no repository in the sample carried a `.github/README.md`, so
-the rule's placement of `.github` *between* root and `docs` is **not measured**. If a run ever
-selects a `.github/…` path, treat that capture as evidence to check against REST once, and correct
-the order here if it disagrees. The failure mode is bounded: the wrong README would be captured for
-that repository, and a body would be grounded in it.
+REST's `/readme` endpoint resolves the *preferred* README itself; that is the discovery mechanism,
+not a semantics to reproduce. A retired client-side rule — three trees read over GraphQL,
+directories `""`, `.github`, `docs` in order, a fixed extension list matched case-insensitively —
+once reproduced it, minus one slot no sample ever exercised (`.github/README.md` precedence). Its
+measurement (2026-08-06) stands as evidence that the two approaches agree: **66 of 66**
+repositories answered identically from the rule and from `GET /repos/{repo}/readme`, across
+lowercase and mixed-case names, non-Markdown extensions (`README.rst`, `README.asciidoc`),
+root-beats-`docs/` layouts, and 19 localised `README.*.md` siblings.
 
 ## Measured cost
 
 | Measurement | Value |
 | --- | --- |
-| Cost of one batched repository query | **1 point**, independent of batch size (measured at 10 and at 20 repositories per request) |
-| Cost of one batched README-blob query | **1 point** |
-| `nodeCount` | 100 per repository in the metadata pass (three tree lookups included); 0 in the blob pass |
+| Cost of one batched repository metadata query | **1 point**, independent of batch size (measured 2026-08-06 at 10 and at 20 repositories per request) |
+| `nodeCount` of the tree-era metadata pass (2026-08-06) | 100 per repository, three tree lookups included; the current fragment carries no trees, so the count falls — re-measure on the first run |
 | Practical batch ceiling | 20 works; **40 fails** — the API answers HTTP 200 with an **empty body**, which the client turns into an explicit "reduce --batch-size" error rather than a parse crash |
-| Pilot, 26 repositories at batch 10 | 3 + 3 requests, **6 points total** |
-| Bulk scan, 2,820 repositories at batch 20 | 141 requests, **141 points** |
-| Hourly budget | 5,000 points |
+| README pass | one REST request per captured repository against the 5,000-per-hour REST budget — a projection, not yet a measured run |
+| Pilot, 26 repositories at batch 10 (2026-08-06, retired blob pass) | 3 + 3 requests, 6 GraphQL points total |
+| Bulk scan, 2,820 repositories at batch 20 (2026-08-06) | 141 requests, **141 points** |
+| Hourly budgets | 5,000 GraphQL points; 5,000 REST requests |
 
-**Projection for a full backfill** (6,707 repositories, batch 20): ≈ 336 metadata requests + ≈ 336
-blob requests ≈ **672 points**, about 13% of one hour's budget. The binding constraint is therefore
-not GitHub but the Directory: 6,707 page captures at the default 1.5 s interval ≈ **2 h 50 m**
-sequential. Both loops are checkpointed and resumable.
+**Projection for a full catalog refresh** (6,707 repositories, batch 20): ≈ 336 metadata requests ≈
+**336 points**, far inside one hour's GraphQL budget — plus ≈ **6,707 REST readme requests**, which
+exceeds one REST hour and therefore spans budget windows; the state file's unchecked worklist
+items make the pause a resume, not a loss. The Directory remains the binding constraint for a full backfill:
+6,707 page captures at the default 1.5 s interval ≈ **2 h 50 m** sequential.
 
 Every figure above is a dated observation of a mutable service, not a pinned fact.

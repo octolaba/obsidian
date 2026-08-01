@@ -6,8 +6,8 @@ import { extractAbout } from './about.mjs';
  *
  * The site publishes no robots policy, so pacing errs polite: one request at a time, a recorded
  * interval between them, bounded retries with backoff, and a clean abort when throttling repeats
- * (§6.5). Every parameter is a recorded run input reported in the Run Report — nothing here has a
- * silent default that a later reader would have to guess at.
+ * (§6.5). Every parameter is a recorded run input carried in the state file and its receipt —
+ * nothing here has a silent default that a later reader would have to guess at.
  */
 
 export const DEFAULT_PACING = Object.freeze({

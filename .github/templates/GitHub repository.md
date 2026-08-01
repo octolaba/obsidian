@@ -2,20 +2,20 @@
 uid: 9eb6e926-1394-4478-aa84-6fe127e2a703
 xid:
   - id
-  - node_id
+  - databaseId
 aliases:
-  - full_name
+  - nameWithOwner
   - name
 tags:
   - type/bookmark
   - bookmark/github
   - github/repository
-url: html_url
+url: url
 alt:
-  - homepage
-stars:      # stargazers_count
-forks:      # forks_count
-pushed at:  # pushed_at
+  - homepageUrl
+stars:      # stats.stargazerCount
+forks:      # stats.forkCount
+pushed at:  # timestamps.pushedAt
 related to:
 remind me:
 ---
@@ -26,66 +26,77 @@ Semantic description of the $repository based on $readme and $repository.descrip
 
 ```cue
 repository: {
-  id:           int
-  node_id:      string
+  // GraphQL Repository object (the readme block alone is REST-fed); field names
+  // follow the source schema, and a comment marks every renamed or computed field.
+  // Grouping rules: counts and sizes → stats; has*Enabled + forkingAllowed → features;
+  // is*, visibility and defaultBranch → state; DateTime → timestamps; identity,
+  // naming and links stay at root; nested API objects keep their own blocks.
 
-  name:         string
-  full_name:    string
-  description?: string
-  language?:    string
-  topics:       [...string]
-  html_url:     string
-  ssh_url:      string
-  homepage?:    string
+  id:          string // node ID; REST: node_id
+  databaseId?: int    // REST: id
+
+  name:          string
+  nameWithOwner: string
+  description?:  string
+  language?:     string      // primaryLanguage?.name
+  topics:        [...string] // repositoryTopics(first: 20).nodes[].topic.name — 20 is the GitHub
+                             // cap; should it ever grow, the tail is noise and is dropped by design
+  url:           string
+  sshUrl:        string
+  homepageUrl?:  string
 
   owner: {
-    id:       int
-    type:     "User" | "Organization"
-    login:    string
-    html_url: string
+    id:    int                     // User.databaseId || Organization.databaseId (inline fragments)
+    type:  "User" | "Organization" // __typename
+    login: string
+    url:   string
   }
 
-  default_branch: string
-  visibility:     string
-  private:        bool
-  fork:           bool
-  size:           int
-
-  readme: {
-    name:      string
-    path:      string
-    sha:       string
-    size:      int
-    is_binary: bool
+  readme?: { // REST GET /repos/{owner}/{repo}/readme — the single non-GraphQL call; absent on 404
+    sha:     string
+    size:    int    // bytes; the summary input is content (base64) — a README over 1 MB comes back
+                    // with encoding "none" and empty content: skip such a repository from summarization
+    htmlUrl: string // html_url — the rendered README page, to jump to from the note
   }
 
-  license?: {
+  license?: { // licenseInfo
     key:     string
     name:    string
-    spdx_id: string
+    spdxId?: string
   }
 
-  stats: {
-    stargazers_count:  int
-    watchers_count:    int
-    forks_count:       int
-    open_issues_count: int
+  stats: { // point-in-time at capture
+    stargazerCount: int
+    watcherCount:   int // watchers.totalCount
+    forkCount:      int
+    openIssueCount: int // issues(states: OPEN).totalCount; pull requests are not counted
+    diskUsage?:     int // kilobytes
   }
 
-  features: {
-    has_issues:      bool
-    has_projects:    bool
-    has_wiki:        bool
-    has_discussions: bool
-    archived:        bool
-    disabled:        bool
-    is_template:     bool
+  features: { // capabilities the owner can toggle
+    hasIssuesEnabled:       bool
+    hasPullRequestsEnabled: bool
+    hasProjectsEnabled:     bool
+    hasWikiEnabled:         bool
+    hasDiscussionsEnabled:  bool
+    hasSponsorshipsEnabled: bool
+    forkingAllowed:         bool
+  }
+
+  state: { // what the repository is right now
+    visibility:     "PUBLIC" | "PRIVATE" | "INTERNAL"
+    defaultBranch?: string // defaultBranchRef.name; absent in an empty repository
+    isPrivate:      bool
+    isFork:         bool
+    isArchived:     bool
+    isDisabled:     bool
+    isTemplate:     bool
   }
 
   timestamps: {
-    created_at: string
-    updated_at: string
-    pushed_at:  string
+    createdAt: string
+    updatedAt: string
+    pushedAt?: string
   }
 }
 ```

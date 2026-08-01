@@ -20,7 +20,7 @@ import { renderNote } from './note.mjs';
  * Every mapped property is machine-owned and overwritten (§4.4). `remind me` is never touched, and
  * `related to` members the machine did not write are preserved after its own guaranteed member.
  *
- * Since 2026-08-06 the note also carries its filled data block, placed after the body and any
+ * The note also carries its filled data block, placed after the body and any
  * embed and before the template footnote. The frontmatter and the block are two different jobs on
  * the same values: the frontmatter renders them for a reader (epoch milliseconds become ISO 8601,
  * an absent value writes a bare key), the block records them as the source served them.
@@ -28,10 +28,10 @@ import { renderNote } from './note.mjs';
 
 /**
  * §4.4. A member the machine would have written at the Sync State pin is its own and may be
- * dropped; anything else is human and survives. The link-shape migration of 2026-08-06 is exactly
- * that case: `[[GitHub - {id}|{full name}]]` was the machine's own form for *its* repository, so the
- * bare form replaces it instead of stacking beside it. A display-text link to any other repository
- * is not a member the machine ever wrote, and is preserved.
+ * dropped; anything else is human and survives. A display-text link `[[GitHub - {id}|{name}]]` to
+ * *its* repository was once the machine's own form, so the bare form replaces it instead of
+ * stacking beside it. A display-text link to any other repository is not a member the machine ever
+ * wrote, and is preserved.
  */
 function mergeRelatedTo(machineMembers, existing, recognized, machineIds = []) {
     const superseded = new RegExp(`^\\[\\[GitHub - (?:${machineIds.join('|')})\\|`);
@@ -126,23 +126,24 @@ export function renderRepositoryNote({ template, repository, body, existing = nu
     // §4.1: former full names stay forever; the current full name and bare name lead.
     //
     // `formerNames` carries the index `repo` string when GitHub answered under a different name.
-    // Keeping it as an alias is what lets §6.1 step 2 resolve that row offline on a later run:
-    // without it, a rename can only be re-resolved through the Ledger, which is disposable.
+    // Keeping it as an alias is what lets §6.1 resolve that row offline on a later run: the notes
+    // are the only identity store (decision 3.11), so a name nobody recorded is a network call.
     const previous = [...(existing?.values?.aliases ?? []), ...(repository.formerNames ?? [])].filter(
         alias => alias !== repository.fullName && alias !== repository.name,
     );
-    const homepage = typeof repository.homepage === 'string' && repository.homepage.trim() !== ''
-        ? repository.homepage
+    const homepage = typeof repository.homepageUrl === 'string' && repository.homepageUrl.trim() !== ''
+        ? repository.homepageUrl
         : null;
     const values = {
         uid: existing?.values?.uid ?? repositoryUid(repository.numericId),
-        xid: [repository.numericId, repository.nodeId],
+        // The GraphQL node id leads, the numeric databaseId follows.
+        xid: [repository.nodeId, repository.numericId],
         aliases: dedupe([repository.fullName, repository.name, ...previous]),
         tags: template.tags,
-        url: repository.htmlUrl,
+        url: repository.url,
         alt: homepage ? [homepage] : [],
-        stars: repository.stars,
-        forks: repository.forks,
+        stars: repository.stargazerCount,
+        forks: repository.forkCount,
         'pushed at': repository.pushedAt,
         'related to': existing?.values?.['related to'] ?? [],
         'remind me': existing?.values?.['remind me'] ?? null,

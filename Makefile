@@ -41,6 +41,13 @@ OBSIDIAN_SAMPLE_PLUGIN := research/core/obsidian-sample-plugin
 OBSIDIAN_SAMPLE_THEME := research/core/obsidian-sample-theme
 OBSIDIAN_RELEASES := research/core/obsidian-releases
 
+# The catalog's injected roots. The Release Pin is read here, at the repository level, because the
+# portable harnesses may not invoke the version-control system themselves.
+CATALOG_ROOT := docs/data
+CATALOG_TEMPLATES := .github/templates
+CATALOG_STATE := .github/run/state.md
+RELEASE_PIN := $(shell git -C $(OBSIDIAN_RELEASES) rev-parse HEAD 2>/dev/null)
+
 # Every gate, as "name<TAB>command". This is the only place the mapping lives.
 GATE_submodules := sh $(SUBMODULE_LINT)
 GATE_dataview_test := $(NODE) $(DATAVIEW_SKILL)/scripts/test.mjs --source-root $(DATAVIEW_SOURCE)
@@ -52,6 +59,9 @@ GATE_developer_test := $(NODE) $(DEVELOPER_SKILL)/scripts/test.mjs --sample-plug
 GATE_developer_verify := $(NODE) $(DEVELOPER_SKILL)/scripts/verify.mjs --obsidian-api-root $(OBSIDIAN_API) --developer-docs-root $(OBSIDIAN_DEVELOPER_DOCS) --sample-plugin-root $(OBSIDIAN_SAMPLE_PLUGIN) --sample-theme-root $(OBSIDIAN_SAMPLE_THEME) --releases-root $(OBSIDIAN_RELEASES) --obsidian-help-root $(OBSIDIAN_HELP_ROOT)
 GATE_kanban_test := $(NODE) $(KANBAN_SKILL)/scripts/test.mjs --source-root $(KANBAN_SOURCE) --tasks-root $(TASKS_SOURCE)
 GATE_kanban_verify := $(NODE) $(KANBAN_SKILL)/scripts/verify.mjs --source-root $(KANBAN_SOURCE) --tasks-root $(TASKS_SOURCE)
+GATE_catalog_gate := $(NODE) $(CATALOG_SKILL)/scripts/gate.mjs --release-mirror-root $(OBSIDIAN_RELEASES) --templates-root $(CATALOG_TEMPLATES) --catalog-root $(CATALOG_ROOT) --state-file $(CATALOG_STATE) --release-pin $(RELEASE_PIN)
+GATE_catalog_test := $(NODE) $(CATALOG_SKILL)/scripts/test.mjs --release-mirror-root $(OBSIDIAN_RELEASES) --templates-root $(CATALOG_TEMPLATES)
+GATE_catalog_verify := $(NODE) $(CATALOG_SKILL)/scripts/verify.mjs --release-mirror-root $(OBSIDIAN_RELEASES) --release-pin $(RELEASE_PIN)
 
 .PHONY: help lint hydrated \
 	lint-submodules \
@@ -59,7 +69,8 @@ GATE_kanban_verify := $(NODE) $(KANBAN_SKILL)/scripts/verify.mjs --source-root $
 	lint-tasks-test lint-tasks-verify \
 	lint-tasks-defects \
 	lint-developer-test lint-developer-verify \
-	lint-kanban-test lint-kanban-verify
+	lint-kanban-test lint-kanban-verify \
+	lint-catalog-gate lint-catalog-test lint-catalog-verify
 
 help:
 	@echo 'make lint                  run every gate, then report'
@@ -74,6 +85,9 @@ help:
 	@echo 'make lint-developer-verify Developer skill formal verifier'
 	@echo 'make lint-kanban-test      Kanban skill fixture integration tests'
 	@echo 'make lint-kanban-verify    Kanban skill formal verifier'
+	@echo 'make lint-catalog-gate     Catalog offline schema gate against the pinned mirror'
+	@echo 'make lint-catalog-test     Catalog fixture tests for the renderer, slug rule, extractor and validators'
+	@echo 'make lint-catalog-verify   Catalog skill formal verifier'
 
 ## Fail early and distinctly when the research material has not been hydrated, so that a missing
 ## submodule is never reported as an artifact defect.
@@ -124,6 +138,15 @@ lint-kanban-test: hydrated
 lint-kanban-verify: hydrated
 	@$(GATE_kanban_verify)
 
+lint-catalog-gate: hydrated
+	@$(GATE_catalog_gate)
+
+lint-catalog-test: hydrated
+	@$(GATE_catalog_test)
+
+lint-catalog-verify: hydrated
+	@$(GATE_catalog_verify)
+
 ## Run every gate, then aggregate. One red gate must never hide the rest.
 lint: hydrated
 	@status=0; summary=''; \
@@ -154,6 +177,9 @@ lint: hydrated
 	gate developer-verify $(GATE_developer_verify); \
 	gate kanban-test $(GATE_kanban_test); \
 	gate kanban-verify $(GATE_kanban_verify); \
+	gate catalog-gate $(GATE_catalog_gate); \
+	gate catalog-test $(GATE_catalog_test); \
+	gate catalog-verify $(GATE_catalog_verify); \
 	echo; echo '=== summary ==='; printf '%b' "$$summary"; \
 	echo "aggregate status: $$status ($$(describe $$status))"; \
 	exit $$status

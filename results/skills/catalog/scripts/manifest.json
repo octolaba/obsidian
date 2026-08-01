@@ -1,13 +1,13 @@
 {
   "manifestVersion": 1,
-  "note": "Two-state key manifest (spec §5.1). Every key observed in the Release Mirror's data files is either `mapped` — consumed by a note property, a body task, or the Run Report — or `ignored` with a rationale. Declaring a key in a template's CUE fence is not consumption, so a declared-but-unconsumed key is listed here as ignored. `presence: required` means the key must be observed at the pin; `presence: rare` means its absence is normal and its disappearance is only worth knowing.",
+  "note": "Two-state key manifest (spec §5.1). Every key observed in the Release Mirror's data files is either `mapped` — consumed by a note property, a body task, or a state-file line — or `ignored` with a rationale. Declaring a key in a template's CUE fence is not consumption, so a declared-but-unconsumed key is listed here as ignored. `presence: required` means the key must be observed at the pin; `presence: rare` means its absence is normal and its disappearance is only worth knowing.",
   "sources": {
     "community-plugins.json": {
       "role": "Plugin Index — authoritative membership for plugins",
       "keys": {
         "id": { "state": "mapped", "presence": "required", "target": "plugin note filename, xid, first alias, uid name, Directory Page url, Plugin Stats join key" },
         "name": { "state": "mapped", "presence": "required", "target": "plugin note H1 and name alias" },
-        "author": { "state": "mapped", "presence": "required", "target": "plugin data block `author` field. No frontmatter property carries it — authorship is reachable through the linked repository note — but since the Data Contract fence is filled rather than stripped (owner decision, 2026-08-06) the value is recorded in the note itself." },
+        "author": { "state": "mapped", "presence": "required", "target": "plugin data block `author` field. No frontmatter property carries it — authorship is reachable through the linked repository note — but since the Data Contract fence is filled rather than stripped (owner decision) the value is recorded in the note itself." },
         "description": { "state": "mapped", "presence": "required", "target": "plugin body input (hashed; a change queues a body task) and the data block `description` field" },
         "repo": { "state": "mapped", "presence": "required", "target": "plugin repo alias, alt (GitHub address), repository resolution key" }
       }
@@ -39,17 +39,17 @@
     "community-plugins-removed.json": {
       "role": "Removal List — historical annotations, never a membership authority",
       "keys": {
-        "id": { "state": "mapped", "presence": "required", "target": "join key for attaching a removal reason to a deletion in the Run Report" },
+        "id": { "state": "mapped", "presence": "required", "target": "join key for attaching a removal reason to a Drop line in the state file" },
         "name": { "state": "ignored", "presence": "required", "rationale": "The name at removal time is not an identity the catalog uses; deletions are keyed by id, and the note being deleted already carries its own name." },
-        "reason": { "state": "mapped", "presence": "required", "target": "deletion reason recorded in the Run Report (decision 3.3)" },
-        "issue": { "state": "ignored", "presence": "rare", "rationale": "A link to the upstream removal discussion. Not rendered into any note; the Run Report carries the reason text, and the mirror keeps the link." }
+        "reason": { "state": "mapped", "presence": "required", "target": "deletion reason recorded on the Drop line (decision 3.3)" },
+        "issue": { "state": "ignored", "presence": "rare", "rationale": "A link to the upstream removal discussion. Not rendered into any note; the Drop line carries the reason text, and the mirror keeps the link." }
       }
     },
     "community-css-themes-removed.json": {
       "role": "Removal List for themes — annotations only; removed themes carry no repo key",
       "keys": {
-        "name": { "state": "mapped", "presence": "required", "target": "join key (name → slug) for attaching a removal reason in the Run Report" },
-        "reason": { "state": "mapped", "presence": "required", "target": "deletion reason recorded in the Run Report" },
+        "name": { "state": "mapped", "presence": "required", "target": "join key (name → slug) for attaching a removal reason to a Drop line in the state file" },
+        "reason": { "state": "mapped", "presence": "required", "target": "deletion reason recorded on the Drop line" },
         "issue": { "state": "ignored", "presence": "rare", "rationale": "As for plugins: the upstream discussion link is not rendered." }
       }
     },

@@ -117,7 +117,7 @@ export function repositoryNoteName(numericId) {
 }
 
 export function repositoryLink(numericId) {
-    // Decision 3.1, amended by the owner on 2026-08-06: the link is written bare. The filename is
+    // Decision 3.1: the link is written bare. The filename is
     // the only resolvable target — a slashed alias is not one — and display text was dropped, so a
     // repository rename changes no byte in any note that links to it.
     return `[[${NOTE_CLASSES.repository.prefix}${numericId}]]`;
@@ -151,6 +151,19 @@ export function screenshotUrl(repo, screenshot) {
 /** Case-insensitive identity for repo strings and full names (885 of 6707 pinned repos carry case). */
 export function repoKey(value) {
     return String(value).toLowerCase();
+}
+
+/**
+ * The numeric repository id carried in a note's `xid`, found by shape rather than by position:
+ * the contract places it second (after the GraphQL node id), while pre-migration notes carry it
+ * first. Operational lookups accept both so the catalog keeps resolving mid-migration; the gate
+ * alone enforces the order.
+ */
+export function repositoryNumericXid(values) {
+    for (const member of values?.xid ?? []) {
+        if (Number.isInteger(member)) return member;
+    }
+    return null;
 }
 
 export function repoBasename(repo) {

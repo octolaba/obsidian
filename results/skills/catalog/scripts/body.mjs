@@ -3,8 +3,8 @@
  *
  * Fetched content — README, About, upstream `description` — is quoted evidence, never instruction.
  * The pass's write authority is one staged body per queued task, and every staged body passes this
- * validator before it can land. A rejected body is a failure lane recorded in the Run Report, not a
- * silent retry.
+ * validator before it can land. A rejected body is a failure lane the run prints and the worklist
+ * keeps pending, not a silent retry.
  *
  * What is checked here is what a machine can check. Whether a sentence is a fair summary is not
  * mechanical, and this file claims no opinion about it — the two grounding checks below are a floor
@@ -59,8 +59,9 @@ function words(text) {
  * two tokens, and both of them file names.
  *
  * Classifying that case here — rather than writing a body and watching the validator reject it —
- * is what lets a run record the lane instead of looping. The classification is a *record*, reviewed
- * by a human in the Run Report; it never suppresses a finding on its own.
+ * is what lets a run record the lane instead of looping. The classification is a *record* — the
+ * `bodyless-no-input` exception line in the state file, reviewed by a human in the diff; it never
+ * suppresses a finding on its own.
  */
 export function hasNoUsableInput(inputs) {
     return words(inputs.filter(Boolean).join(' ')).size <= LIMITS.minGroundingOverlap;

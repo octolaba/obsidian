@@ -3,7 +3,7 @@ import { githubUrl, pluginUrl, screenshotUrl, themeUrl } from './model.mjs';
 /**
  * The data block: the template's CUE fence, filled with the captured source values.
  *
- * Owner decision (2026-08-06): the fence is no longer stripped at instantiation. Every note carries
+ * Owner decision: the fence is filled at instantiation, never stripped. Every note carries
  * its own recorded inputs beside the prose, so a note is self-sufficient — the frontmatter *renders*
  * values (epoch milliseconds become ISO 8601, an absent value writes a bare key), while the block
  * *records* them as the source served them.
@@ -287,101 +287,112 @@ export function themeDataBlock({ theme, slug, about }) {
 }
 
 /**
- * §4.1. The README record carries identity only — name, path, blob oid, size, binary flag. The text
- * itself feeds the agent pass and is recorded as a hash; it is never stored in a note (decision 3.8).
+ * §4.1: one `repository` record mirroring the template's
+ * GraphQL-named contract — semantic groups `stats`, `features`, `state`, `timestamps`, with
+ * `readme` nested where the template declares it. The README record carries identity plus the jump
+ * address (`sha`, `size`, `htmlUrl` from REST `/readme`); the text itself feeds the agent pass and
+ * is recorded as a hash, never stored in a note.
  */
 export function repositoryDataBlock({ repository }) {
     const readme = repository.readme ?? null;
-    const records = [
+    return emitDataBlock([
         [
             'repository',
             fields([
-                required('id', repository.numericId),
-                required('node_id', repository.nodeId),
-                required('name', repository.name),
-                required('full_name', repository.fullName),
-                required('private', repository.private === true),
-                required('fork', repository.fork === true),
+                required('id', repository.nodeId),
+                required('databaseId', repository.numericId),
                 GAP,
-                required('html_url', repository.htmlUrl),
-                optional('homepage', repository.homepage),
-                required('ssh_url', repository.sshUrl),
+                required('name', repository.name),
+                required('nameWithOwner', repository.fullName),
                 optional('description', repository.description),
+                optional('language', repository.language),
+                required('topics', [...repository.topics]),
+                required('url', repository.url),
+                required('sshUrl', repository.sshUrl),
+                optional('homepageUrl', repository.homepageUrl),
                 GAP,
                 required(
                     'owner',
                     fields([
-                        required('login', repository.owner.login),
                         required('id', repository.owner.id),
                         required('type', repository.owner.type),
-                        required('html_url', repository.owner.htmlUrl),
+                        required('login', repository.owner.login),
+                        required('url', repository.owner.url),
                     ]),
                 ),
-                GAP,
-                optional('language', repository.language),
-                required('default_branch', repository.defaultBranch),
-                required('visibility', repository.visibility),
-                required('size', repository.sizeKb),
-                required('topics', [...repository.topics]),
-                GAP,
+                ...(readme
+                    ? [
+                          GAP,
+                          required(
+                              'readme',
+                              fields([
+                                  required('sha', readme.sha),
+                                  required('size', readme.size),
+                                  required('htmlUrl', readme.htmlUrl),
+                              ]),
+                          ),
+                      ]
+                    : []),
                 ...(repository.license
                     ? [
+                          GAP,
                           required(
                               'license',
                               fields([
                                   required('key', repository.license.key),
                                   required('name', repository.license.name),
-                                  required('spdx_id', repository.license.spdxId),
+                                  optional('spdxId', repository.license.spdxId),
                               ]),
                           ),
-                          GAP,
                       ]
                     : []),
+                GAP,
                 required(
                     'stats',
                     fields([
-                        required('stargazers_count', repository.stars),
-                        required('watchers_count', repository.watchers),
-                        required('forks_count', repository.forks),
-                        required('open_issues_count', repository.openIssues),
+                        required('stargazerCount', repository.stargazerCount),
+                        required('watcherCount', repository.watcherCount),
+                        required('forkCount', repository.forkCount),
+                        required('openIssueCount', repository.openIssueCount),
+                        optional('diskUsage', repository.diskUsage),
                     ]),
                 ),
                 GAP,
                 required(
                     'features',
                     fields([
-                        required('has_issues', repository.features.hasIssues === true),
-                        required('has_projects', repository.features.hasProjects === true),
-                        required('has_wiki', repository.features.hasWiki === true),
-                        required('has_discussions', repository.features.hasDiscussions === true),
-                        required('archived', repository.features.archived === true),
-                        required('disabled', repository.features.disabled === true),
-                        required('is_template', repository.features.isTemplate === true),
+                        required('hasIssuesEnabled', repository.features.hasIssuesEnabled === true),
+                        required('hasPullRequestsEnabled', repository.features.hasPullRequestsEnabled === true),
+                        required('hasProjectsEnabled', repository.features.hasProjectsEnabled === true),
+                        required('hasWikiEnabled', repository.features.hasWikiEnabled === true),
+                        required('hasDiscussionsEnabled', repository.features.hasDiscussionsEnabled === true),
+                        required('hasSponsorshipsEnabled', repository.features.hasSponsorshipsEnabled === true),
+                        required('forkingAllowed', repository.features.forkingAllowed === true),
+                    ]),
+                ),
+                GAP,
+                required(
+                    'state',
+                    fields([
+                        required('visibility', repository.state.visibility),
+                        optional('defaultBranch', repository.state.defaultBranch),
+                        required('isPrivate', repository.state.isPrivate === true),
+                        required('isFork', repository.state.isFork === true),
+                        required('isArchived', repository.state.isArchived === true),
+                        required('isDisabled', repository.state.isDisabled === true),
+                        required('isTemplate', repository.state.isTemplate === true),
                     ]),
                 ),
                 GAP,
                 required(
                     'timestamps',
                     fields([
-                        required('created_at', repository.createdAt),
-                        required('updated_at', repository.updatedAt),
-                        required('pushed_at', repository.pushedAt),
+                        required('createdAt', repository.createdAt),
+                        required('updatedAt', repository.updatedAt),
+                        optional('pushedAt', repository.pushedAt),
                     ]),
                 ),
             ]),
         ],
-    ];
-    if (readme) {
-        records.push([
-            'readme',
-            fields([
-                required('name', readme.name),
-                required('path', readme.path),
-                required('sha', readme.oid),
-                required('size', readme.byteSize),
-                required('is_binary', readme.isBinary === true),
-            ]),
-        ]);
-    }
-    return emitDataBlock(records);
+    ]);
 }

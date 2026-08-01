@@ -14,9 +14,9 @@ import { isDirectory, isFile, readJson, sha256 } from './lib.mjs';
  * shape. Content is then checked by the schema gate, where drift is a finding a human reads.
  *
  * Whether the catalog is *current* is a separate question with its own answer: the gate compares
- * the injected Release Pin against the Sync State carried by the latest successful Run Report and
- * reports exit 4 while they differ (§5.3). Neither check invokes the version-control system — the
- * pin is injected by the caller that owns the repository layout.
+ * the injected Release Pin against the `base pin` carried by the live state file and reports
+ * exit 4 while they differ (§5.3). Neither check invokes the version-control system — the pin is
+ * injected by the caller that owns the repository layout.
  */
 
 const SCRIPT_ROOT = path.dirname(fileURLToPath(import.meta.url));
@@ -95,9 +95,9 @@ export function verifyMaterial(root) {
 }
 
 /**
- * §5.3 staleness. `pin` is the Release Pin the caller checked out; `syncState` is the pin recorded
- * by the latest successful Run Report. An unknown pin is reported as unknown rather than assumed
- * equal, so a portable copy without the injecting caller cannot fake a green gate.
+ * §5.3 staleness. `pin` is the Release Pin the caller checked out; `syncState` is the `base pin`
+ * the live state file records. An unknown pin is reported as unknown rather than assumed equal,
+ * so a portable copy without the injecting caller cannot fake a green gate.
  */
 export function describeStaleness(pin, syncState) {
     if (!pin) return { state: 'pin-unknown', pin: null, syncState: syncState ?? null };

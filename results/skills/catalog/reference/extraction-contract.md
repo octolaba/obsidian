@@ -83,5 +83,5 @@ extractor *was* written against; the live capture in the next run is what report
 2. Fix `about.mjs` so identity validation still precedes content, and never widen the About match
    to something that could also match a neighbouring block.
 3. Replace the fixture, re-record its provenance hash and access date.
-4. Re-run the tests, then re-run the affected captures; changed hashes queue body rewrites, which
-   the Run Report lists before they land.
+4. Re-run the tests, then re-run the affected captures; a changed About against the note's
+   recorded one queues body rewrites, which the state file's worklist lists before they land.
