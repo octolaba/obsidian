@@ -56,6 +56,7 @@ const USAGE = `usage: run.mjs --stage capture|render|finalize [options]
   --release-mirror-root DIR  checkout of ${PRIMARY.repo} (required for capture and render)
   --templates-root DIR       note templates (required for capture and render)
   --catalog-root DIR         catalog tree (required for capture and render)
+  --support-root DIR         catalog support tree; scratch files land here (required for capture and render)
   --state-file FILE          the live state file; render ticks it, finalize resets it
   --release-pin SHA          the Release Pin being processed (required for render)
   --plugin ID                pilot selection, repeatable
@@ -71,10 +72,8 @@ const USAGE = `usage: run.mjs --stage capture|render|finalize [options]
   --gate-status STRING       finalize only: the offline gate's result, recorded in the receipt
   --help`;
 
-const CACHE = '.catalog';
-
-function cachePath(catalogRoot, name) {
-    return path.join(catalogRoot, CACHE, name);
+function cachePath(supportRoot, name) {
+    return path.join(supportRoot, name);
 }
 
 function requireRoots(args, names) {
@@ -124,7 +123,7 @@ function blockValues(existing) {
 }
 
 async function stageCapture(args) {
-    requireRoots(args, ['release-mirror-root', 'templates-root', 'catalog-root', 'user-agent']);
+    requireRoots(args, ['release-mirror-root', 'templates-root', 'catalog-root', 'support-root', 'user-agent']);
     const material = verifyMaterial(args['release-mirror-root']);
     if (material.status !== IDENTITY_STATUS.verified) {
         process.stderr.write(`${material.reason}\n`);
@@ -140,6 +139,7 @@ async function stageCapture(args) {
     }
 
     const catalogRoot = args['catalog-root'];
+    const supportRoot = args['support-root'];
     const notes = loadRepositoryNotes(catalogRoot);
     const pacing = pacingFrom({ intervalMs: args['interval-ms'] ? Number(args['interval-ms']) : undefined });
     const client = new DirectoryClient({ pacing, userAgent: args['user-agent'] });
@@ -260,8 +260,8 @@ async function stageCapture(args) {
         const noteFile = path.join(catalogRoot, NOTE_CLASSES.repository.directory, repositoryNoteName(record.numericId));
         const existing = readExisting(noteFile);
         const values = blockValues(existing);
-        // Baseline from the note: the new contract nests the sha under `repository.readme.sha`;
-        // a pre-migration note still answers under the retired top-level `readme.sha`.
+        // Baseline from the note: the contract nests the sha under `repository.readme.sha`;
+        // a pre-migration note answers under the top-level `readme.sha`.
         const recordedSha = values?.get('repository.readme.sha') ?? values?.get('readme.sha') ?? null;
         const recordedDescription = values?.get('repository.description') ?? null;
         const changed =
@@ -284,7 +284,7 @@ async function stageCapture(args) {
         }
     }
 
-    writeJson(cachePath(catalogRoot, 'captures.json'), {
+    writeJson(cachePath(supportRoot, 'captures.json'), {
         pin: args['release-pin'] ?? null,
         capturedAt: nowUtc(),
         pacing,
@@ -294,7 +294,7 @@ async function stageCapture(args) {
         aborted,
         captures,
     });
-    writeJson(cachePath(catalogRoot, 'queue.json'), { pin: args['release-pin'] ?? null, tasks: queue });
+    writeJson(cachePath(supportRoot, 'queue.json'), { pin: args['release-pin'] ?? null, tasks: queue });
 
     process.stdout.write(
         `captured ${repositories.size} repositories, ${entities.length} Directory pages; ` +
@@ -311,7 +311,7 @@ async function stageCapture(args) {
 }
 
 async function stageRender(args) {
-    requireRoots(args, ['release-mirror-root', 'templates-root', 'catalog-root', 'release-pin', 'bodies']);
+    requireRoots(args, ['release-mirror-root', 'templates-root', 'catalog-root', 'support-root', 'release-pin', 'bodies']);
     const material = verifyMaterial(args['release-mirror-root']);
     if (material.status !== IDENTITY_STATUS.verified) {
         process.stderr.write(`${material.reason}\n`);
@@ -319,9 +319,10 @@ async function stageRender(args) {
         return;
     }
     const catalogRoot = args['catalog-root'];
+    const supportRoot = args['support-root'];
     const indexes = loadIndexes(material.root);
     const templates = loadTemplates(args['templates-root']);
-    const captures = readJson(cachePath(catalogRoot, 'captures.json'));
+    const captures = readJson(cachePath(supportRoot, 'captures.json'));
     const bodies = readJson(args.bodies);
 
     const written = [];
@@ -557,6 +558,7 @@ async function main(argv) {
                 'release-mirror-root',
                 'templates-root',
                 'catalog-root',
+                'support-root',
                 'state-file',
                 'release-pin',
                 'interval-ms',

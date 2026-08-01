@@ -4,6 +4,7 @@ import {
     githubUrl,
     pluginUid,
     pluginUrl,
+    repoKey,
     repositoryLink,
     repositoryUid,
     screenshotUrl,
@@ -29,9 +30,9 @@ import { renderNote } from './note.mjs';
 /**
  * §4.4. A member the machine would have written at the Sync State pin is its own and may be
  * dropped; anything else is human and survives. A display-text link `[[GitHub - {id}|{name}]]` to
- * *its* repository was once the machine's own form, so the bare form replaces it instead of
- * stacking beside it. A display-text link to any other repository is not a member the machine ever
- * wrote, and is preserved.
+ * *its* repository is a machine-written shape the bare form replaces instead of stacking beside
+ * it. A display-text link to any other repository is not a member the machine ever wrote, and is
+ * preserved.
  */
 function mergeRelatedTo(machineMembers, existing, recognized, machineIds = []) {
     const superseded = new RegExp(`^\\[\\[GitHub - (?:${machineIds.join('|')})\\|`);
@@ -42,6 +43,20 @@ function mergeRelatedTo(machineMembers, existing, recognized, machineIds = []) {
             !(machineIds.length > 0 && superseded.test(member)),
     );
     return dedupe([...machineMembers, ...kept]);
+}
+
+/** GitHub full names are case-insensitive; keep the first spelling and exact-dedupe bare aliases. */
+function dedupeRepositoryAliases(values) {
+    const seen = new Set();
+    const out = [];
+    for (const value of values) {
+        if (value === null || value === undefined || value === '') continue;
+        const key = String(value).includes('/') ? `repo:${repoKey(value)}` : `alias:${value}`;
+        if (seen.has(key)) continue;
+        seen.add(key);
+        out.push(value);
+    }
+    return out;
 }
 
 /**
@@ -138,7 +153,7 @@ export function renderRepositoryNote({ template, repository, body, existing = nu
         uid: existing?.values?.uid ?? repositoryUid(repository.numericId),
         // The GraphQL node id leads, the numeric databaseId follows.
         xid: [repository.nodeId, repository.numericId],
-        aliases: dedupe([repository.fullName, repository.name, ...previous]),
+        aliases: dedupeRepositoryAliases([repository.fullName, repository.name, ...previous]),
         tags: template.tags,
         url: repository.url,
         alt: homepage ? [homepage] : [],

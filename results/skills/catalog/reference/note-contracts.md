@@ -6,6 +6,20 @@ to it. The templates are the shape of record; this file is the mapping and the m
 A note is laid out in one fixed order: frontmatter, H1, the agent-written body, the screenshot embed
 (themes only), the **filled data block**, the template footnote.
 
+## Live and archive placement
+
+The note contract is independent of lifecycle state. Live notes occupy `plugins/`, `themes/` and
+`repositories/` under the injected catalog root; archived notes keep the same class split under
+`<support-root>/archive/{plugins,repositories,themes}/`. An archive operation is a path-only move: it preserves
+the filename and every byte of the note, including `uid`, aliases, human fields, body, data block
+and template footnote. Bare repository links continue to resolve by unchanged basename after both
+ends move.
+
+The archive trigger and unit come from decision 3.3: a plugin or theme leaving its authoritative
+index, or a repository confirmed unavailable by terminal GitHub `404`/`410`, moves the complete
+baseline plugin/theme ↔ repository relationship component. Archived notes are historical evidence,
+not refresh targets. Restoration is deliberately unspecified and must be queued for the owner.
+
 ## Quoting and byte stability
 
 The renderer's output must be reproducible byte for byte, so the quoting policy is fixed rather
@@ -29,7 +43,7 @@ Plugin Stats are converted; counters stay raw integers.
 
 ## The data block
 
-Owner decision: the template's CUE fence is **filled**, not stripped. Every note
+The template's CUE fence is **filled**, not stripped. Every note
 therefore carries its own recorded inputs beside the prose and is readable without the cache, the
 mirror or the network. The frontmatter and the block do two different jobs on the same values — the
 frontmatter *renders* them for a reader, the block *records* them as the source served them. Plugin
@@ -165,8 +179,12 @@ the slug is an amendment landing on H1 and the name alias.
 | Write-once | `uid` | never regenerated |
 | Human | `remind me`, extra `related to` members | never touched |
 | Agent | the body | replaced wholesale by a queued rewrite, listed in the cache queue and the state file's worklist first |
+| Lifecycle | live or archived home | path-only move of the complete related component; note bytes stay unchanged |
 
 A template change is a migration: an explicit catalog-wide re-render worklist in the live state
 file, never incidental drift. The gate enforces this by comparing every note's frontmatter key
 order and tag list against the template, and the record names inside its data block against the
 records the template's contract declares.
+
+Archive-aware gate support is pending. Until it lands, do not move notes by hand: the current gate
+scans only live class homes and cannot yet prove archive closure or live/archive coverage.

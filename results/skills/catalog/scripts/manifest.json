@@ -7,7 +7,7 @@
       "keys": {
         "id": { "state": "mapped", "presence": "required", "target": "plugin note filename, xid, first alias, uid name, Directory Page url, Plugin Stats join key" },
         "name": { "state": "mapped", "presence": "required", "target": "plugin note H1 and name alias" },
-        "author": { "state": "mapped", "presence": "required", "target": "plugin data block `author` field. No frontmatter property carries it — authorship is reachable through the linked repository note — but since the Data Contract fence is filled rather than stripped (owner decision) the value is recorded in the note itself." },
+        "author": { "state": "mapped", "presence": "required", "target": "plugin data block `author` field. No frontmatter property carries it — authorship is reachable through the linked repository note — but since the Data Contract fence is filled rather than stripped the value is recorded in the note itself." },
         "description": { "state": "mapped", "presence": "required", "target": "plugin body input (hashed; a change queues a body task) and the data block `description` field" },
         "repo": { "state": "mapped", "presence": "required", "target": "plugin repo alias, alt (GitHub address), repository resolution key" }
       }
@@ -39,9 +39,9 @@
     "community-plugins-removed.json": {
       "role": "Removal List — historical annotations, never a membership authority",
       "keys": {
-        "id": { "state": "mapped", "presence": "required", "target": "join key for attaching a removal reason to a Drop line in the state file" },
-        "name": { "state": "ignored", "presence": "required", "rationale": "The name at removal time is not an identity the catalog uses; deletions are keyed by id, and the note being deleted already carries its own name." },
-        "reason": { "state": "mapped", "presence": "required", "target": "deletion reason recorded on the Drop line (decision 3.3)" },
+        "id": { "state": "mapped", "presence": "required", "target": "join key for attaching an archive reason to a Drop line in the state file" },
+        "name": { "state": "ignored", "presence": "required", "rationale": "The name at removal time is not an identity the catalog uses; archive moves are keyed by id, and the note being archived already carries its own name." },
+        "reason": { "state": "mapped", "presence": "required", "target": "archive reason recorded on the Drop line (decision 3.3)" },
         "issue": { "state": "ignored", "presence": "rare", "rationale": "A link to the upstream removal discussion. Not rendered into any note; the Drop line carries the reason text, and the mirror keeps the link." }
       }
     },
@@ -49,7 +49,7 @@
       "role": "Removal List for themes — annotations only; removed themes carry no repo key",
       "keys": {
         "name": { "state": "mapped", "presence": "required", "target": "join key (name → slug) for attaching a removal reason to a Drop line in the state file" },
-        "reason": { "state": "mapped", "presence": "required", "target": "deletion reason recorded on the Drop line" },
+        "reason": { "state": "mapped", "presence": "required", "target": "archive reason recorded on the Drop line" },
         "issue": { "state": "ignored", "presence": "rare", "rationale": "As for plugins: the upstream discussion link is not rendered." }
       }
     },
@@ -70,6 +70,6 @@
   ],
   "ignoredEvents": [
     { "event": "stats-version-key-churn", "rationale": "Per-version download counters appear and change on every release; per-version series are out of scope (§10)." },
-    { "event": "removal-annotation-after-deletion", "rationale": "A Removal List `reason` or `issue` arriving after the note is already deleted has nothing to annotate; history stays in the mirror (§6.3.3)." }
+    { "event": "removal-annotation-after-archive", "rationale": "A Removal List `reason` or `issue` arriving after the note is already archived does not rewrite historical note bytes; the mirror and the archive receipt keep the evidence (§6.3.3)." }
   ]
 }

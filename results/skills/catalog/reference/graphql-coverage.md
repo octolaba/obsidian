@@ -41,7 +41,7 @@ semantics instead of a rename table:
 | `features.hasIssuesEnabled` … `features.hasDiscussionsEnabled` | same-named fields | |
 | `features.hasPullRequestsEnabled`, `features.hasSponsorshipsEnabled`, `features.forkingAllowed` | same-named fields | pull requests are a disableable feature on GitHub |
 | `state.visibility` | `visibility` | kept in GraphQL enum case — `PUBLIC` \| `PRIVATE` \| `INTERNAL`; never lowercased |
-| `state.defaultBranch` | `defaultBranchRef.name` | `null` for an empty repository; lives in `state` by owner decision |
+| `state.defaultBranch` | `defaultBranchRef.name` | `null` for an empty repository; lives in `state` |
 | `state.isPrivate`, `state.isFork`, `state.isArchived`, `state.isDisabled`, `state.isTemplate` | same-named fields | |
 | `timestamps.createdAt`, `timestamps.updatedAt` | same-named fields | |
 | `timestamps.pushedAt` | `pushedAt` | the only one a note renders; `null` for a never-pushed repository |
@@ -55,13 +55,13 @@ semantics instead of a rename table:
 | `readme.htmlUrl` | `html_url` | the rendered-README jump address; with `path` not stored it is not derivable, so it is recorded |
 | — | `name`, `path` | known (discovery is server-side) but **not stored**; the body queue records the path so a task can name what grounded it |
 | — | `content` | base64, decoded at capture, **not stored**: the text feeds the agent pass and is recorded as a hash |
-| — | `encoding` | consumed as the oversize guard: a README of 1–100 MB answers `encoding: "none"` with empty `content` (documented REST contents behaviour, verified 2026-08-10; over 100 MB the endpoint refuses entirely). The capture records the `readme-oversized` lane and the README is skipped as a summary input by owner decision |
+| — | `encoding` | consumed as the oversize guard: a README of 1–100 MB answers `encoding: "none"` with empty `content` (documented REST contents behaviour, verified 2026-08-10; over 100 MB the endpoint refuses entirely). The capture records the `readme-oversized` lane and the README is skipped as a summary input |
 
-A repository with no README answers 404 and the note simply omits the `readme` record. The retired
-`is_binary` flag has no replacement: a binary file named like a README would decode to mojibake, an
-edge accepted as vanishingly rare when the flag was dropped.
+A repository with no README answers 404 and the note simply omits the `readme` record. There is no
+binary flag: a binary file named like a README would decode to mojibake, an edge accepted as
+vanishingly rare.
 
-## What the template no longer declares
+## Deliberately absent fields
 
 Every field deliberately absent, gathered so a reader does not have to reassemble it from the
 tables: `owner.site_admin`, `network_count`, `features.has_downloads`, `features.has_pages`,
@@ -77,23 +77,19 @@ catalog, not only in the template.
 ## Preferred-README discovery — server-side
 
 REST's `/readme` endpoint resolves the *preferred* README itself; that is the discovery mechanism,
-not a semantics to reproduce. A retired client-side rule — three trees read over GraphQL,
-directories `""`, `.github`, `docs` in order, a fixed extension list matched case-insensitively —
-once reproduced it, minus one slot no sample ever exercised (`.github/README.md` precedence). Its
-measurement (2026-08-06) stands as evidence that the two approaches agree: **66 of 66**
-repositories answered identically from the rule and from `GET /repos/{repo}/readme`, across
-lowercase and mixed-case names, non-Markdown extensions (`README.rst`, `README.asciidoc`),
-root-beats-`docs/` layouts, and 19 localised `README.*.md` siblings.
+not a semantics to reproduce. Cross-checked (2026-08-06): a client-side reconstruction agreed with
+`GET /repos/{repo}/readme` on **66 of 66** repositories — lowercase and mixed-case names,
+non-Markdown extensions (`README.rst`, `README.asciidoc`), root-beats-`docs/` layouts, and 19
+localised `README.*.md` siblings — so the endpoint's choice is predictable enough to trust blind.
 
 ## Measured cost
 
 | Measurement | Value |
 | --- | --- |
 | Cost of one batched repository metadata query | **1 point**, independent of batch size (measured 2026-08-06 at 10 and at 20 repositories per request) |
-| `nodeCount` of the tree-era metadata pass (2026-08-06) | 100 per repository, three tree lookups included; the current fragment carries no trees, so the count falls — re-measure on the first run |
+| `nodeCount` | unmeasured for the current fragment — record on the first run |
 | Practical batch ceiling | 20 works; **40 fails** — the API answers HTTP 200 with an **empty body**, which the client turns into an explicit "reduce --batch-size" error rather than a parse crash |
 | README pass | one REST request per captured repository against the 5,000-per-hour REST budget — a projection, not yet a measured run |
-| Pilot, 26 repositories at batch 10 (2026-08-06, retired blob pass) | 3 + 3 requests, 6 GraphQL points total |
 | Bulk scan, 2,820 repositories at batch 20 (2026-08-06) | 141 requests, **141 points** |
 | Hourly budgets | 5,000 GraphQL points; 5,000 REST requests |
 

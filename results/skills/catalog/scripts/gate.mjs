@@ -509,7 +509,7 @@ function checkCatalog(context, findings, lines) {
                         id: 'catalog/not-in-index',
                         consequence: 'catalog-malformed',
                         file: relative,
-                        message: `plugin id \`${id}\` is not in the Plugin Index at this pin; removal means deletion (decision 3.3)`,
+                        message: `plugin id \`${id}\` is not in the Plugin Index at this pin; its related component belongs in the archive (decision 3.3)`,
                     }),
                 );
             } else {

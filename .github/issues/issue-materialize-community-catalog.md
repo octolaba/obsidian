@@ -12,7 +12,7 @@ updated_at: 2026-08-06T14:24:41Z
 
 # Materialize the community catalog
 
-Turn the Obsidian community directory into a catalog of notes under `docs/`, kept current by a
+Turn the Obsidian community directory into a catalog of notes under `docs/data/`, kept current by a
 nearly deterministic pipeline driven from the pinned release mirror. "Nearly deterministic" is a
 defined boundary: every mechanical step — parsing, merging, rendering, diffing, point edits — is
 reproducible byte-for-byte from the pinned indexes and the capture values recorded in the notes
@@ -41,9 +41,9 @@ Non-goals: mirroring READMEs or screenshots, per-version download series, the sn
 | About | The author-maintained description block on a Directory Page. Its only source is the Directory: in a ten-plugin probe (2026-08-06) every sampled About differed from the index `description`, and for `dataview` the About matches neither the repository README nor the index `description` — all three sources are distinct prose. |
 | Slug | A theme's URL identity on the Directory, derived from its name (§2). The catalog's external identity for themes. |
 | GitHub Snapshot | Data captured for one repository at a recorded time: the repository record (with its immutable numeric id and `node_id`) and the README record (metadata and content identity — path, blob oid, size, binary flag; the text itself feeds the agent pass and is recorded as a hash, never stored). |
-| Catalog | The tree under `docs/`: `plugins/`, `repositories/`, `themes/`. The hidden `docs/.catalog/` cache lives beside it but stays out of version control. |
+| Catalog | The tree under `docs/data/`: `plugins/`, `repositories/`, `themes/`. The hidden `docs/data/.catalog/` cache lives inside it but stays out of version control. |
 | Template | A file under `.github/templates/`. Simultaneously the note shape, the field mapping (scalar positions name the source field they receive), and the Data Contract (the CUE fence describing the source data). The fence documents the contract; at instantiation it is filled with the captured source values, so every note carries its own recorded inputs beside the prose. The trailing template footnote is kept as a template-identity marker — it is not required to resolve inside the vault (`.github/` sits outside Obsidian's index). |
-| Cache | Per-run scratch in `docs/.catalog/` (gitignored): captured evidence and the body queue. Nothing durable lives there (decision 3.10). |
+| Cache | Per-run scratch in `docs/data/.catalog/` (gitignored): captured evidence and the body queue. Nothing durable lives there (decision 3.10). |
 | State file | The versioned live checklist `.github/run/state.md` (decision 3.11): Sync State in `base pin`, the run in progress in `target pin`/`run`, the Dump/Sync/Drop worklists, and the standing `[>]`/`[-]` exception lines. |
 | Sync State | The Release Pin the Catalog currently reflects — the state file's `base pin`, advanced only by `finalize`. |
 | Receipt | The compact versioned record `.github/run/<run label>.md` a completed run leaves behind: pin pair, timestamps, model/pacing, per-section counts, exceptions, gate result. |
@@ -123,15 +123,14 @@ three loops must be batched, throttled, and resumable from the state file's work
 
 ## 3. Settled decisions
 
-Every decision below is owner-adjudicated and stated as the current rule; the merged review
-(`.github/reviews/2026-08-06.md`) and the session reviews are the adjudication record, and git
-history carries the chronology.
+Each decision below is stated as the current rule; the reviews under `.github/reviews/` and git
+history carry how we got here.
 
 1. **Repository note identity is the immutable numeric GitHub repository id.** Filename
-   `GitHub - {numeric id}.md` under `docs/repositories/`. Current `owner/repo` and the bare name
+   `GitHub - {numeric id}.md` under `docs/data/repositories/`. Current `owner/repo` and the bare name
    live in `aliases` for search and suggestions; links are written bare, `[[GitHub - {id}]]` — a
-   slashed alias is not a link target, and display text was dropped by owner
-   decision. Resolution is lookup-first (§6.1), scoped to
+   slashed alias is not a link target, and display text is never written. Resolution is
+   lookup-first (§6.1), scoped to
    repository-class notes, case-insensitive on repo strings and full names, so known repositories
    cost no network call.
 2. **About comes from the Directory Page markup.** README and index `description` are not
@@ -147,8 +146,9 @@ history carries the chronology.
 4. **uids are deterministic UUIDv5.** Namespace `d2812732-4375-4ea9-9a4c-fc42c9bffed6`; names
    `obsidian-plugin:{id}`, `github-repository:{numeric id}`, `obsidian-theme:{slug}`. Re-creating a
    note reproduces the identical uid. Written once, never regenerated.
-5. **Homes.** Notes under `docs/plugins/`, `docs/repositories/`, `docs/themes/`. The `docs/.catalog/`
-   cache is gitignored. The live state file and receipts are versioned under `.github/run/`. The agent-guidelines file
+5. **Homes.** Notes under `docs/data/plugins/`, `docs/data/repositories/`, `docs/data/themes/`.
+   The `docs/data/.catalog/` cache is gitignored. The live state file and receipts are versioned
+   under `.github/run/`. The agent-guidelines file
    gains a clause registering this deliverable class; the clause is drafted in Session A and the
    human approves and commits it before Session B's bulk generation.
 6. **Filenames and formats.** `Obsidian plugin - {id}.md`, `Obsidian theme - {slug}.md`. Timestamps
@@ -175,7 +175,7 @@ history carries the chronology.
    path URL-encoded) in the note body below the description, never the Directory's internal image
    store. The derivation is pinned; the content is live — a default-branch move can change the
    bytes without any catalog event, and the embed claims nothing more.
-10. **The cache is per-run scratch.** `docs/.catalog/` holds only a run's captured evidence and
+10. **The cache is per-run scratch.** `docs/data/.catalog/` holds only a run's captured evidence and
     body queue (`captures.json`, `queue.json`, `bodies.json`). Nothing durable lives there:
     losing it costs a re-capture of whatever the next run touches, and no recovery machinery
     exists because there is nothing to recover.
@@ -470,31 +470,14 @@ A stage is done when, from a hydrated clone:
 ## 8. Work plan
 
 Independent handoffs with fresh context (study → plan → critique → implement → review/fix). The
-human reviews and commits after every session; the agent never commits.
+human reviews and commits after every session; the agent never commits. Completed sessions live in
+git history and `.github/reviews/`. The repository re-render migration completed on 2026-08-10:
+6,700 notes migrated, moved inputs handled in fresh-context body batches, and the full result proved
+by a byte-identical double render. What remains:
 
-- **Session 0 — adversarial critique of this issue. Done 2026-08-06:** two independent passes
-  (GPT Sol; Claude Fable) merged with the owner's adjudications into
-  `.github/reviews/2026-08-06.md`; the revisions land in this issue.
-- **Session A — skeleton and pilot.** Skill scaffold; schema gate wired into `make lint`; renderer
-  + resolution protocol; About extraction contract against the page markup (identity markers
-  first); GraphQL coverage matrix (decision 3.8: remaining fields, preferred-README discovery,
-  measured costs); pilot on ~20 hand-picked in-pin plugins covering the recorded edges
-  (`scrybble.ink`, a no-stats plugin such as `canvas-loom`, an index∩removed id, `dataview` as
-  the About counterexample, a heavyweight README, a 404 repository) plus a handful of in-pin
-  themes covering theirs (a `legacy` theme, a non-ASCII name such as `Rosé Pine`, a screenshot
-  path needing URL-encoding, both `modes` orderings); the Ledger-loss rehearsal (delete
-  `docs/.catalog/` after the pilot backfill, re-run, prove §7.3 recovery); the alias-slash
-  limitation recorded in the skill; the agent-guidelines clause drafted. Exit: gates green, pilot
-  notes approved by the owner, extraction contract fixed, recovery rehearsal recorded.
-- **Session B — plugin backfill.** Batched, checkpointed, resumable over all 6057 plugins within
-  stated budgets; full verification; Run Report. The agent-guidelines clause is approved and
-  committed before the bulk run. Exit: acceptance for Stage 1.
-- **Session C — update machinery.** Diff classifier, task list, executor, refresh rotation;
-  rehearsal on a real pin advance (upstream has moved since 2026-07-25); idempotency proof; skill
-  `version` advance per §6.3.7. Exit: acceptance for Stage 2 on the rehearsal pin.
-- **Session D — themes at full width.** Slug rule gated across the full index; theme backfill 650
-  (Session A's pilot already exercised the template and the recorded edges); themes folded into
-  every subsequent Update Run. Exit: acceptance for Stage 3.
+- **Update machinery.** Diff classifier over a pin pair, worklist writer, executor, refresh
+  rotation; rehearsal on a real pin advance (upstream has moved since 2026-07-25); idempotency
+  proof. Exit: acceptance for Stage 2 on the rehearsal pin.
 
 ## 9. Risks
 

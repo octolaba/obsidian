@@ -114,7 +114,7 @@ export async function captureRepositories(repos, options) {
  * `htmlUrl`, but the queue records the path so a body task can name what grounded it. A README
  * between 1 and 100 MB answers `encoding: "none"` with an empty `content` (documented REST contents
  * behaviour, verified 2026-08-10): `oversized` marks it, the text is not captured, and the caller
- * records the `readme-oversized` lane — the README is skipped as a summary input by owner decision.
+ * records the `readme-oversized` lane — the README is skipped as a summary input.
  */
 export function normalizeReadme(payload) {
     const decoded = payload.encoding === 'base64' ? Buffer.from(payload.content ?? '', 'base64').toString('utf8') : null;

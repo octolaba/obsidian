@@ -2,6 +2,7 @@
 import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
+import { spawnSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
 
 import { EXIT, isDirectory, parseArgs, readText, writeUsageError } from './lib.mjs';
@@ -82,6 +83,28 @@ function main(argv) {
         theme: loadTemplate(args['templates-root'], 'Obsidian theme.md'),
         repository: loadTemplate(args['templates-root'], 'GitHub repository.md'),
     };
+
+    check('run refuses to infer a scratch directory from the live catalog root', () => {
+        const run = spawnSync(
+            process.execPath,
+            [
+                path.join(SCRIPT_ROOT, 'run.mjs'),
+                '--stage',
+                'capture',
+                '--release-mirror-root',
+                args['release-mirror-root'],
+                '--templates-root',
+                args['templates-root'],
+                '--catalog-root',
+                'docs/data',
+                '--user-agent',
+                'catalog-self-test',
+            ],
+            { encoding: 'utf8' },
+        );
+        equal(run.status, EXIT.usage, 'capture without --support-root is a usage error');
+        assert(run.stderr.includes('--support-root'), 'the refusal names the missing support root');
+    });
 
     // --- the slug rule --------------------------------------------------------------------------
     check('slug rule reproduces every recorded anchor', () => {
@@ -451,13 +474,43 @@ function main(argv) {
         equal(values.get('repository.stats.diskUsage'), 12345, 'diskUsage lives in stats');
         equal(values.get('repository.features.hasPullRequestsEnabled'), true, 'the pull-request feature flag is recorded');
         equal(values.get('repository.state.visibility'), 'PUBLIC', 'visibility keeps the GraphQL enum case');
-        equal(values.get('repository.state.defaultBranch'), 'master', 'defaultBranch lives in state by owner decision');
+        equal(values.get('repository.state.defaultBranch'), 'master', 'defaultBranch lives in state');
         equal(values.get('repository.readme.sha'), '4e365f3a', 'the README sha is nested inside the repository record');
         equal(values.get('repository.readme.htmlUrl'), record.readme.htmlUrl, 'the README jump address is recorded');
         assert(!values.has('repository.readme.name') && !values.has('repository.readme.path'), 'README name and path were dropped by decision');
         assert(!values.has('repository.readme.is_binary'), 'is_binary was dropped by decision');
         assert(!note.data.includes('secret readme text'), 'README text is never stored in a note');
         assert(!values.has('repository.readme.content'), 'no content field exists');
+
+        const renamed = parseNote(
+            renderRepositoryNote({
+                template: templates.repository,
+                repository: {
+                    ...record,
+                    fullName: 'new-owner/obsidian-dataview',
+                    url: 'https://github.com/new-owner/obsidian-dataview',
+                    formerNames: ['old-owner/obsidian-dataview'],
+                },
+                body: 'The repository holds a data index and query language over the Markdown files of a vault. It is written in TypeScript.',
+                existing: {
+                    values: {
+                        uid: repositoryUid(record.numericId),
+                        aliases: ['Old-Owner/obsidian-dataview', record.name],
+                        'related to': [],
+                        'remind me': null,
+                    },
+                },
+            }),
+        );
+        equal(
+            renamed.values.aliases.filter(alias => alias.toLowerCase() === 'old-owner/obsidian-dataview').length,
+            1,
+            'case-only former full names collapse to the first historical spelling',
+        );
+        assert(
+            renamed.values.aliases.includes('Old-Owner/obsidian-dataview'),
+            'the first historical spelling survives case-insensitive deduplication',
+        );
     });
 
     // --- About extraction --------------------------------------------------------------------------

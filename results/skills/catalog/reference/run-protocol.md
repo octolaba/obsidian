@@ -8,13 +8,14 @@ would only restate the notes or git history is not kept.
 
 | Store | Holds | Versioned |
 | --- | --- | --- |
-| the notes | identity (`uid`, `xid`, aliases) and the captured baselines (the filled data block) | yes |
+| the notes | identity (`uid`, `xid`, aliases), lifecycle home (live or archived), and the captured baselines (the filled data block) | yes |
 | the live state file | Sync State (`base pin`), the current run (`target pin`, `run`, `model`, `pacing`), the worklists, the standing exceptions | yes |
 | receipts | one compact record per completed run | yes |
 
-The cache (`docs/.catalog/`: `captures.json`, `queue.json`, `bodies.json`) is per-run scratch.
-Losing it costs a re-capture of whatever the next run touches; there is nothing in it to recover
-and no recovery stage exists.
+The injected support root contains two lifetimes: versioned `archive/`, and disposable direct
+children such as `captures.json`, `queue.json` and `bodies.json`. Losing only those scratch files
+costs a re-capture of whatever the next run touches; there is nothing in them to recover and no
+recovery stage exists. The archive is not cache and must survive.
 
 ## The live state file
 
@@ -42,7 +43,7 @@ pacing: interval 1500ms, batch 20
 
 ## Drop
 
-- [x] theme crafted — removed at pin
+- [x] theme crafted — archived with repo component; absent from Theme Index at target pin
 ```
 
 Grammar, deliberately strict (`scripts/state.mjs` rejects anything else): the three sections in
@@ -60,7 +61,10 @@ and rejects a stale one (the note gained a body or a link, or the line resolves 
 
 1. **Worklist.** The coordinator sets `target pin`, diffs `base pin → target pin`, and writes the
    classified items into the sections. On resume it re-derives the same list and reconciles it
-   with the file; a mismatch aborts loudly. `[>]` lines seed the worklist automatically.
+   with the file; a mismatch aborts loudly. `[>]` lines seed the worklist automatically. `Drop`
+   contains archive moves, never deletions; each trigger expands to its complete baseline
+   plugin/theme ↔ repository relationship closure before any path changes. Standing
+   `github-missing` subjects are scheduled ahead of the refresh rotation.
 2. **Capture** (`--stage capture`) — the only networked stage. Batched GraphQL metadata, one REST
    `/readme` call per captured repository, paced Directory pages. Change detection reads the
    note's own data block: a body task is queued exactly when the note is missing or a recorded
@@ -70,8 +74,12 @@ and rejects a stale one (the note gained a body or a link, or the line resolves 
 4. **Render** (`--stage render`) — offline and mechanical. Validates every body, lands notes,
    ticks `[x]` on what it wrote, and writes `[-] … bodyless-no-input (readme sha …)` for what it
    classified. `github-missing` and other capture-side lanes are the coordinator's lines.
-5. **Gate** — offline, must be green over the finished worklists.
-6. **Finalize** (`--stage finalize --gate-status <result>`) — refuses while any `[ ]`/`[/]` item
+5. **Archive move** — for an index removal or confirmed terminal repository loss, move every note
+   in the precomputed closure to `<support-root>/archive/{plugins,repositories,themes}/` without rewriting it.
+   The move set must match the closure exactly; any missing or extra path aborts the run.
+6. **Gate** — offline, must be green over the finished worklists and reconcile live plus archived
+   coverage.
+7. **Finalize** (`--stage finalize --gate-status <result>`) — refuses while any `[ ]`/`[/]` item
    remains or an exception lacks a reason; writes the receipt with exclusive-create semantics;
    resets the live file: `base pin` := `target pin`, target cleared, `[x]` dropped, exceptions
    kept. Idempotent: a crash before the receipt resumes normally; after it, the receipt's
@@ -79,6 +87,17 @@ and rejects a stale one (the note gained a body or a link, or the line resolves 
 
 The human reviews the working-tree diff — notes, state file, receipt — and commits. The agent
 never commits.
+
+The archive step and archive-aware gate are the target contract, not current script capability.
+The present implementation still treats terminal GitHub misses as standing live-note exceptions;
+implement and test archive support before the first move rather than moving files manually.
+
+Repository loss is not inferred from a single ambiguous request. A known repository first misses
+in the normal GraphQL `owner/name` capture, then REST `GET /repositories/{databaseId}` decides in
+the same Update Run: `200` is rename/re-resolution, `404`/`410` confirms loss. Without a numeric id,
+the first terminal response is recorded as standing `github-missing`; the next Update Run re-probes
+it ahead of rotation, and only a second terminal response in that distinct run confirms archival.
+Timeouts, authentication failures, rate limits and `5xx` never count toward confirmation.
 
 ## The receipt
 
@@ -120,7 +139,8 @@ explicit catalog-wide re-render worklist in the state file, finalised like any r
 result by rendering twice and diffing: a migration owes its reviewer byte-identical output.
 
 The repository-template migration — GraphQL field names, the grouped contract, the node id
-leading `xid`, the REST README — is **pending**: every repository note rendered under the
-previous contract awaits the re-render, and until that run lands the gate reports each one as
-`catalog/bad-repository-xid` (xid order) and `catalog/data-block-drift`. That red state is the
-migration signal working as designed, not a defect to silence.
+leading `xid`, the REST README — completed on 2026-08-10. Of 6,700 repository notes, 6,697 were
+rendered from fresh GraphQL plus REST captures. Three repositories had disappeared by refresh:
+their prior recorded snapshots were translated one-to-one, while the three new GraphQL-only
+feature fields were omitted rather than invented and the omissions became standing exceptions.
+The double-render proof covered the complete repository tree and live state file.

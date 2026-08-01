@@ -3,7 +3,7 @@ import { githubUrl, pluginUrl, screenshotUrl, themeUrl } from './model.mjs';
 /**
  * The data block: the template's CUE fence, filled with the captured source values.
  *
- * Owner decision: the fence is filled at instantiation, never stripped. Every note carries
+ * The fence is filled at instantiation, never stripped. Every note carries
  * its own recorded inputs beside the prose, so a note is self-sufficient — the frontmatter *renders*
  * values (epoch milliseconds become ISO 8601, an absent value writes a bare key), while the block
  * *records* them as the source served them.
