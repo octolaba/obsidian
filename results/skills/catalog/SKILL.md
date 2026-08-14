@@ -296,7 +296,10 @@ to the processed pin — that is artifact provenance, deliberately decoupled fro
   for the current pin and recognises as its own **every member it would have written at the Sync
   State pin** — recomputed from the mirror's history, never stored. Recognised-but-stale members
   are removed; members it never wrote are preserved; exact duplicates are dropped.
-- Repository `aliases` are the deliberate exception: former full names stay forever.
+- Repository `aliases` are the deliberate exception: the bare `name` leads, the current
+  `nameWithOwner` follows, and former names stay forever below them. Obsidian offers aliases in list
+  order, so the short name a human types comes first; the gate checks the two leading positions
+  against the note's H1.
 - `uid` is write-once. `remind me` is never touched by the machine.
 - Bodies are agent-owned and a queued rewrite replaces them wholesale. Human edits to a body do not
   survive it, which is why the queue is recorded in the cache and the worklist *before* anything is

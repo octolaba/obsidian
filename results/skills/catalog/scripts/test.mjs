@@ -511,6 +511,24 @@ function main(argv) {
             renamed.values.aliases.includes('Old-Owner/obsidian-dataview'),
             'the first historical spelling survives case-insensitive deduplication',
         );
+        // §4.1: bare name, current full name, then history — the order Obsidian offers them in.
+        equal(
+            renamed.values.aliases.join('|'),
+            'obsidian-dataview|new-owner/obsidian-dataview|Old-Owner/obsidian-dataview',
+            'aliases lead with the bare name, then the current full name, then former names',
+        );
+        equal(
+            parseNote(
+                renderRepositoryNote({
+                    template: templates.repository,
+                    repository: { ...record, formerNames: [] },
+                    body: 'The repository holds a data index and query language over the Markdown files of a vault. It is written in TypeScript.',
+                    existing: null,
+                }),
+            ).values.aliases.join('|'),
+            `${record.name}|${record.fullName}`,
+            'a repository with no history carries exactly the bare name and the current full name',
+        );
     });
 
     // --- About extraction --------------------------------------------------------------------------

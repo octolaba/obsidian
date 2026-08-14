@@ -4,8 +4,8 @@ xid:
   - id
   - databaseId
 aliases:
-  - nameWithOwner
   - name
+  - nameWithOwner
 tags:
   - type/bookmark
   - bookmark/github

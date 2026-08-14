@@ -113,7 +113,7 @@ The block is machine-owned in full: a run overwrites it, and a hand edit shows u
 | --- | --- | --- |
 | `uid` | derived | UUIDv5 of `github-repository:{numeric id}`; write-once |
 | `xid` | repository record | the GraphQL node `id`, then the numeric `databaseId` (pre-migration notes carry the reverse order until the re-render) |
-| `aliases` | repository record | current `nameWithOwner`, then `name`; **former full names stay forever** |
+| `aliases` | repository record | bare `name`, then current `nameWithOwner`, then former names in the order first recorded; **former names stay forever** |
 | `tags` | template | `type/bookmark`, `bookmark/github`, `github/repository` |
 | `url` | repository record | `url` |
 | `alt` | repository record | `homepageUrl` when present; the empty string counts as absent |
@@ -124,6 +124,16 @@ The block is machine-owned in full: a run overwrites it, and a hand edit shows u
 | Body | agent | grounded in README content and the repository `description` |
 | Data block | captured | the `repository` record, filled, `readme` nested inside it; overwritten on refresh |
 | Footnote | template | identity marker; not required to resolve in-vault |
+
+**The alias order is a contract, not a formatting preference.** Obsidian offers a note's aliases to
+the author in list order, so the bare `name` — the string a human actually types — leads; the current
+`nameWithOwner` follows and disambiguates it against every other repository sharing that bare name;
+former names sit below, where they still resolve a stale index row offline but never surface ahead
+of the two live ones. Rendering is deterministic from the record alone: positions one and two are
+recomputed on every render, and history keeps the order in which each name was first recorded, so a
+re-render of an unchanged repository is byte-identical. The gate asserts positions one and two
+against the note's own H1; a note whose first two aliases are not `name` then `nameWithOwner` is
+`catalog/mapping-drift`.
 
 ## Plugin note — `Obsidian plugin - {id}.md`
 

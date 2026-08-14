@@ -138,7 +138,10 @@ export function renderThemeNote({
 }
 
 export function renderRepositoryNote({ template, repository, body, existing = null }) {
-    // §4.1: former full names stay forever; the current full name and bare name lead.
+    // §4.1, in this fixed order: the bare `name`, then the current `nameWithOwner`, then every
+    // former name in the order first recorded. Obsidian offers aliases to the author in list order,
+    // so the short name — the one a human types — has to lead; the current full name disambiguates
+    // it, and history sits below where it never competes with either.
     //
     // `formerNames` carries the index `repo` string when GitHub answered under a different name.
     // Keeping it as an alias is what lets §6.1 resolve that row offline on a later run: the notes
@@ -153,7 +156,7 @@ export function renderRepositoryNote({ template, repository, body, existing = nu
         uid: existing?.values?.uid ?? repositoryUid(repository.numericId),
         // The GraphQL node id leads, the numeric databaseId follows.
         xid: [repository.nodeId, repository.numericId],
-        aliases: dedupeRepositoryAliases([repository.fullName, repository.name, ...previous]),
+        aliases: dedupeRepositoryAliases([repository.name, repository.fullName, ...previous]),
         tags: template.tags,
         url: repository.url,
         alt: homepage ? [homepage] : [],

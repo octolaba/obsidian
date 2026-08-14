@@ -571,6 +571,17 @@ function checkCatalog(context, findings, lines) {
             }
             expect(findings, relative, basename === repositoryNoteName(numericId), 'filename does not follow `GitHub - {numeric id}.md`');
             expect(findings, relative, note.values.uid === repositoryUid(numericId), 'uid is not the deterministic UUIDv5 for this repository id');
+            // §4.1: the two leading aliases are recomputed from the record on every render, so the
+            // note's own H1 — the current `nameWithOwner` — is enough to check them offline. What
+            // follows them is history, whose order the machine preserves rather than derives.
+            const repositoryAliasList = note.values.aliases ?? [];
+            const slash = note.h1.indexOf('/');
+            expect(
+                findings,
+                relative,
+                slash > 0 && repositoryAliasList[0] === note.h1.slice(slash + 1) && repositoryAliasList[1] === note.h1,
+                'aliases do not lead with the bare name followed by the current full name',
+            );
             repositoryNotes.set(String(numericId), relative);
             for (const alias of note.values.aliases ?? []) {
                 if (!alias.includes('/')) continue;
