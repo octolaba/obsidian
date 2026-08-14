@@ -1,1 +1,6 @@
-docs/.catalog/
+# agents
+.mcp.json
+
+# runtime
+docs/.catalog/*
+!docs/.catalog/archive/

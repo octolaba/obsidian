@@ -41,9 +41,11 @@ Non-goals: mirroring READMEs or screenshots, per-version download series, the sn
 | About | The author-maintained description block on a Directory Page. Its only source is the Directory: in a ten-plugin probe (2026-08-06) every sampled About differed from the index `description`, and for `dataview` the About matches neither the repository README nor the index `description` — all three sources are distinct prose. |
 | Slug | A theme's URL identity on the Directory, derived from its name (§2). The catalog's external identity for themes. |
 | GitHub Snapshot | Data captured for one repository at a recorded time: the repository record (with its immutable numeric id and `node_id`) and the README record (metadata and content identity — path, blob oid, size, binary flag; the text itself feeds the agent pass and is recorded as a hash, never stored). |
-| Catalog | The tree under `docs/data/`: `plugins/`, `repositories/`, `themes/`. The hidden `docs/data/.catalog/` cache lives inside it but stays out of version control. |
+| Catalog | The live tree under `docs/data/`: `plugins/`, `repositories/`, `themes/`. |
+| Catalog support root | `docs/.catalog/`: the versioned `archive/` plus ignored per-run scratch. It sits outside `docs/data/` so generated live data never contains pipeline state. |
+| Archive | Historical notes under `docs/.catalog/archive/{plugins,repositories,themes}/`. An archive operation moves a whole related component without rewriting its files; archived notes retain their filenames, uids, captured data, body and links. They are not live catalog members and are not refreshed. |
 | Template | A file under `.github/templates/`. Simultaneously the note shape, the field mapping (scalar positions name the source field they receive), and the Data Contract (the CUE fence describing the source data). The fence documents the contract; at instantiation it is filled with the captured source values, so every note carries its own recorded inputs beside the prose. The trailing template footnote is kept as a template-identity marker — it is not required to resolve inside the vault (`.github/` sits outside Obsidian's index). |
-| Cache | Per-run scratch in `docs/data/.catalog/` (gitignored): captured evidence and the body queue. Nothing durable lives there (decision 3.10). |
+| Cache | Per-run scratch directly under `docs/.catalog/` (gitignored): captured evidence and the body queue. `docs/.catalog/archive/` is the explicit durable exception and is versioned (decision 3.10). |
 | State file | The versioned live checklist `.github/run/state.md` (decision 3.11): Sync State in `base pin`, the run in progress in `target pin`/`run`, the Dump/Sync/Drop worklists, and the standing `[>]`/`[-]` exception lines. |
 | Sync State | The Release Pin the Catalog currently reflects — the state file's `base pin`, advanced only by `finalize`. |
 | Receipt | The compact versioned record `.github/run/<run label>.md` a completed run leaves behind: pin pair, timestamps, model/pacing, per-section counts, exceptions, gate result. |
@@ -138,17 +140,41 @@ history carry how we got here.
    `description`, and the in-pin counterexample `dataview` matches neither its README nor its
    `description`. A machine payload was probed for and does not exist. README still feeds
    repository note bodies.
-3. **Removal means deletion.** An entry leaving its index deletes its note; a repository note is
-   deleted only when no catalog note references it. A repository note that would be orphan-deleted
-   but carries human state — a non-empty `remind me`, or `related to` members beyond the machine's
-   recomputed set — is queued for the owner instead. Every deletion and its Removal List reason
-   (when present) lands on the `Drop` line. History stays in git and the mirror; no tombstones.
+3. **Removal or terminal repository loss archives the whole related component; catalog notes are
+   never deleted.** The three archive triggers are authoritative and exhaustive: a plugin id is
+   absent from `community-plugins.json` at the target pin; a theme slug is absent from
+   `community-css-themes.json`; or GitHub confirms that a repository is unavailable. Repository
+   unavailability is confirmed differently by identity strength. For a known repository, a
+   GraphQL `NOT_FOUND` by current `owner/name` is followed in the same Update Run by REST
+   `GET /repositories/{databaseId}`: `200` means rename/re-resolution, while terminal `404`/`410`
+   from both identities triggers archival. For an unresolved `owner/name` with no numeric id, the
+   first terminal result creates a standing `github-missing` observation; the next Update Run
+   auto-seeds and re-probes it, and a second terminal result in that distinct run confirms archival.
+   Timeout, rate limit, authentication failure and `5xx` are retry lanes, never archive evidence.
+
+   The archive unit is the transitive component of plugin/theme ↔ repository relationships as they
+   stood at the run baseline: start with the triggering entity, add its linked repository or every
+   plugin/theme linked to that repository, and repeat until no related note remains outside the
+   set. Thus an index removal moves the plugin or theme and its repository; a vanished repository
+   moves the repository and every catalog entity that points to it. This closure is deliberate even
+   if another member of the component still appears in an index. At the current pin every index
+   repository is unique across both classes, so each component is one plugin or theme plus one
+   repository; the transitive definition guards a future shared repository.
+
+   Archiving is a path-only move into `docs/.catalog/archive/{plugins,repositories,themes}/`: filenames,
+   bytes, uids, aliases, human fields, bodies, data blocks and bare repository links stay unchanged.
+   Preserving the basename keeps those links resolvable across the move. The `Drop` worklist and
+   receipt name every moved note and carry the Removal List reason when one exists. Restoration when
+   an index entity reappears or a repository becomes reachable again is not yet decided and is
+   queued for the owner rather than performed automatically.
 4. **uids are deterministic UUIDv5.** Namespace `d2812732-4375-4ea9-9a4c-fc42c9bffed6`; names
    `obsidian-plugin:{id}`, `github-repository:{numeric id}`, `obsidian-theme:{slug}`. Re-creating a
    note reproduces the identical uid. Written once, never regenerated.
-5. **Homes.** Notes under `docs/data/plugins/`, `docs/data/repositories/`, `docs/data/themes/`.
-   The `docs/data/.catalog/` cache is gitignored. The live state file and receipts are versioned
-   under `.github/run/`. The agent-guidelines file
+5. **Homes.** Live notes are under `docs/data/plugins/`, `docs/data/repositories/`,
+   `docs/data/themes/`; archived notes keep the same class split under
+   `docs/.catalog/archive/{plugins,repositories,themes}/`. Per-run scratch lives directly under
+   `docs/.catalog/` and is gitignored while the `archive/` child is explicitly unignored and
+   versioned. The live state file and receipts are versioned under `.github/run/`. The agent-guidelines file
    gains a clause registering this deliverable class; the clause is drafted in Session A and the
    human approves and commits it before Session B's bulk generation.
 6. **Filenames and formats.** `Obsidian plugin - {id}.md`, `Obsidian theme - {slug}.md`. Timestamps
@@ -175,17 +201,18 @@ history carry how we got here.
    path URL-encoded) in the note body below the description, never the Directory's internal image
    store. The derivation is pinned; the content is live — a default-branch move can change the
    bytes without any catalog event, and the embed claims nothing more.
-10. **The cache is per-run scratch.** `docs/data/.catalog/` holds only a run's captured evidence and
-    body queue (`captures.json`, `queue.json`, `bodies.json`). Nothing durable lives there:
-    losing it costs a re-capture of whatever the next run touches, and no recovery machinery
-    exists because there is nothing to recover.
+10. **The cache is per-run scratch, colocated with but distinct from the archive.** Direct children
+    of `docs/.catalog/` such as `captures.json`, `queue.json` and `bodies.json` are disposable and
+    gitignored. `docs/.catalog/archive/` is durable, versioned catalog state and must never be
+    deleted as cache. Losing only the scratch files costs a re-capture of whatever the next run
+    touches, and no recovery machinery exists because there is nothing to recover.
 11. **State model: the notes, one live checklist file, and compact receipts.** No Ledger and no
     Run Reports — durable state that would only restate the notes or git history is not kept.
     - **Live file** `.github/run/state.md`, versioned. Frontmatter: `base pin` — the pin the
       catalog reflects (this is the Sync State); `target pin` — the pin being processed, absent
       while idle; `run` — a date label (`-2` suffix on a same-day collision) that also names the
       receipt; `model` and `pacing` as recorded run inputs. Body: exactly three worklist sections
-      — `## Dump` (capture + render), `## Sync` (point edits), `## Drop` (deletions) — one item
+      — `## Dump` (capture + render), `## Sync` (point edits), `## Drop` (archive moves) — one item
       per entity under a stable typed id (`repo <owner/name>`, `plugin <id>`, `theme <slug>`).
     - **Checkbox vocabulary**: `[ ]` todo; `[/]` handed to a subagent (ephemeral — read as `[ ]`
       on resume); `[x]` done; `[-]` failed or accepted-standing; `[>]` known miss, auto-seeded
@@ -378,11 +405,19 @@ Given an index row's `repo` string:
 3. Classify every difference; the resulting task list is deterministic and lands in the state
    file's worklists before execution:
    - **Added** — full per-entity pipeline as in Backfill.
-   - **Removed** — delete the note; orphan-check its repository (decision 3.3 queues instead of
-     deleting when human state is present); attach the Removal List reason when present.
+   - **Removed** — compute the decision 3.3 relationship closure at the baseline and move every
+     note in it to its class-preserving archive home; attach the Removal List reason when present.
+     Human state moves intact and never blocks archival because no note is destroyed.
+   - **Repository-unavailable** — for a known repository, GraphQL by `owner/name` and REST
+     `/repositories/{databaseId}` both return terminal `404`/`410` in this run; for a repository
+     without a numeric id, a standing `github-missing` from an earlier run is re-probed and returns
+     terminal `404`/`410` again. Archive the repository when a note exists and every plugin/theme in
+     its baseline relationship closure. A transient GitHub failure stays in its failure lane and
+     cannot enter this class.
    - **Relocated** — `repo` changed: re-resolve (the numeric id decides rename vs different
-     repository), update links and aliases under the §4.4 recognized-member rule, orphan-check
-     the old repository.
+     repository), update links and aliases under the §4.4 recognized-member rule. An old
+     repository left unreferenced by relocation is not itself an archive trigger; its disposition
+     remains an open policy question and is queued for the owner.
    - **Amended** — `name`, `author`, `description` (plugins) or `name`, `screenshot`, `modes`,
      `legacy`, `author` (themes) changed: point-edit mapped properties; a theme `name` change
      with a stable slug lands on H1 and the name alias; a plugin `description` change queues a
@@ -396,16 +431,18 @@ Given an index row's `repo` string:
      never silently.
    - **Explicitly ignored events**, recorded once in the gate manifest with rationale:
      per-version stats-key churn (out of catalog scope); a Removal List `reason` or `issue`
-     arriving after the note is already deleted.
+     arriving after the note is already archived.
 4. Refresh policy for drift no diff reveals (GitHub metadata, About): every Update Run refreshes
    captures for all Added/Relocated/Amended entities plus a fixed-size rotation slice of the
    stalest captures, sized to rotate the whole Catalog within a bounded number of runs inside API
-   budgets. Changed hashes queue body tasks; unchanged captures cost nothing.
+   budgets. Every standing `github-missing` is added ahead of the rotation slice, so unresolved
+   names receive their second observation on the next Update Run rather than waiting for rotation.
+   Changed hashes queue body tasks; unchanged captures cost nothing.
 5. Execute mechanically, run the agent pass (§6.6), verify, then `finalize`: the receipt is
    written and `base pin` advances. Sync State advances only when every worklist item is terminal;
    failures stay as reasoned `[>]`/`[-]` lines and are retried on later runs regardless of pin
-   movement. Executed deletions must reconcile exactly with the classifier's Removed set — any
-   excess aborts the run.
+   movement. Executed archive moves must reconcile exactly with the classifier's closures — any
+   missing or excess move aborts the run.
 6. Idempotency proof: immediately re-running at the same pin classifies zero diff-derived tasks.
    Standing lanes — carried retries and the rotation slice — are reported separately and do not
    count against idempotency.
@@ -455,15 +492,16 @@ A stage is done when, from a hydrated clone:
 
 1. `make lint` is green including the catalog gates; every research submodule sits at its recorded
    pin with a clean worktree.
-2. Coverage equals promise: one note per index row, one repository note per resolved repository,
-   every shortfall standing as a reasoned `[>]`/`[-]` line in the state file — counts reconcile
-   exactly.
+2. Coverage equals promise: every index row has exactly one live note unless decision 3.3 puts its
+   related component in the archive; every reachable resolved repository has one live repository
+   note; every archived component is complete and every remaining shortfall stands as a reasoned
+   `[>]`/`[-]` line in the state file — live and archive counts reconcile exactly.
 3. The double-run proof: re-running at the same pin pair classifies zero tasks, because the notes
    are the baseline and unchanged inputs queue nothing. From a fresh clone, no recovery is needed:
    identity, baselines, Sync State and exceptions are all versioned.
 4. Well-formedness invariants (§5.4) hold across the Catalog.
-5. The receipt reconciles: per-section counts, failures, and deletions against the classifier's
-   Removed set.
+5. The receipt reconciles: per-section counts, failures, and archive moves against every
+   classifier closure.
 6. No claim of agent-behaviour evaluation is made anywhere — the repository's standing gap applies
    and is stated where it would otherwise be implied.
 
