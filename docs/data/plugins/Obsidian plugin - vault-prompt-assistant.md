@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/vault-prompt-assistant
 alt:
   - https://github.com/kiril-liu/obsidian-ai-plugin
-downloads: 201
-updated at: "2026-06-09T03:29:55Z"
+downloads: 243
+updated at: "2026-08-11T00:23:16Z"
 related to:
   - "[[GitHub - 1255154339]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Chat with an AI assistant in a right-side panel and insert AI responses directly into notes. Search your vault context (vector retrieval if available, else keyword), run semantic Q&A, use a Prompt Library and daily workflow templates, and manage conversation history and batch prompts."
 
     stats: {
-        downloads:  201
-        updated_at: 1780975795000
+        downloads:  243
+        updated_at: 1786407796000
     }
 }
 ```

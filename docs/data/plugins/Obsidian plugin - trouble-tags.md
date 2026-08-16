@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/trouble-tags
 alt:
   - https://github.com/sspaeti/obsidian-trouble-tags
-downloads: 127
+downloads: 136
 updated at: "2026-02-06T10:03:19Z"
 related to:
   - "[[GitHub - 1145047962]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scan active note for inline tags (#TODO, #FIXME, #BUG, #NOTE, #WARN) and list them in a sidebar panel. Click an entry to jump to its line in the editor. Rescan automatically when you edit or switch files."
 
     stats: {
-        downloads:  127
+        downloads:  136
         updated_at: 1770372199000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-size-history
 alt:
   - https://github.com/technerium/obsidian-vault-size-history
-downloads: 7220
+downloads: 7502
 updated at: "2026-07-22T04:31:27Z"
 related to:
   - "[[GitHub - 833435108]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize vault growth with a historical graph that tracks file counts over time. Split counts into custom file categories using path-based filters and toggle lines in the legend to compare trends."
 
     stats: {
-        downloads:  7220
+        downloads:  7502
         updated_at: 1784694687000
     }
 }

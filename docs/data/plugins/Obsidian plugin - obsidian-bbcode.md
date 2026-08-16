@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-bbcode
 alt:
   - https://github.com/salockhart/obsidian-bbcode
-downloads: 4401
+downloads: 4447
 updated at: "2026-03-03T11:11:06Z"
 related to:
   - "[[GitHub - 489510459]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Markdown notes to BBCode for posting on forums. Copy the converted BBCode to the clipboard with a single command from the command palette."
 
     stats: {
-        downloads:  4401
+        downloads:  4447
         updated_at: 1772536266000
     }
 }

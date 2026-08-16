@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mineru-parser
 alt:
   - https://github.com/luffysolution-svg/mineru-to-obsidian
-downloads: 273
+downloads: 561
 updated at: "2026-07-02T12:01:18Z"
 related to:
   - "[[GitHub - 1284172246]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Parse any document from the file explorer into Markdown (single or batch) via right-click, saving note content and image attachments to customizable folders using {filename}, {date}, {noteName} and rename templates. Pick from seven parsing backends (cloud and local), monitor progress and view success/failure summaries."
 
     stats: {
-        downloads:  273
+        downloads:  561
         updated_at: 1782993678000
     }
 }

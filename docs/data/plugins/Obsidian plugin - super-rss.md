@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/super-rss
 alt:
   - https://github.com/superskypper/super-rss
-downloads: 1
+downloads: 103
 updated at: "2026-07-10T16:05:31Z"
 related to:
   - "[[GitHub - 1166160023]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fetch RSS feeds and save articles as Markdown notes with configurable filenames, frontmatter properties, and content templates. Super RSS helps you turn feeds, blogs, newsletters, and YouTube channels into an organized reading archive inside your vault. Group feeds into folders, customize update intervals, deduplicate imports, auto-clean old or read articles, download or link images, and mark items as read through a URI handler. It also supports YouTube-specific workflows such as detecting channel feeds, saving video duration, tagging shorts, skipping shorts, and cleaning up live stream entries."
 
     stats: {
-        downloads:  1
+        downloads:  103
         updated_at: 1783699531000
     }
 }

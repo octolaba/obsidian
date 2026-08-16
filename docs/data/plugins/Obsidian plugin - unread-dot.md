@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/unread-dot
 alt:
   - https://github.com/denmojo/obsidian-unread-dot
-downloads: 509
+downloads: 567
 updated at: "2026-06-25T13:21:56Z"
 related to:
   - "[[GitHub - 1228126358]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mark newly created files in the file explorer with a blue dot that clears the first time you open them, making unread notes easy to spot. Persist unread state across restarts, preserve it when renaming/moving files, and mark files read/unread via right-click or commands."
 
     stats: {
-        downloads:  509
+        downloads:  567
         updated_at: 1782393716000
     }
 }

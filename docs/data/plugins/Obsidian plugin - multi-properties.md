@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/multi-properties
 alt:
   - https://github.com/technohiker/obsidian-multi-properties
-downloads: 101028
-updated at: "2026-05-23T17:11:32Z"
+downloads: 107581
+updated at: "2026-07-31T22:55:34Z"
 related to:
   - "[[GitHub - 700092389]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Edit, add, or remove frontmatter properties across multiple notes at once. Apply changes to the current note, selected files, folders (optionally recursive), search results, or open tabs; choose to overwrite or append values and remove selected properties."
 
     stats: {
-        downloads:  101028
-        updated_at: 1779556292000
+        downloads:  107581
+        updated_at: 1785538534000
     }
 }
 ```

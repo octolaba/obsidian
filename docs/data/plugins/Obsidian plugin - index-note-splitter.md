@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/index-note-splitter
 alt:
   - https://github.com/michellegdyason/index-note-splitter
-downloads: 146
+downloads: 176
 updated at: "2026-06-02T02:35:07Z"
 related to:
   - "[[GitHub - 1256697851]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extract selected text or split a note by H1–H4 headings into new linked notes and turn the source into an index of links. Name notes from headings or first lines, copy YAML into each, preserve heading levels, replace originals with links, and add backlinks plus sequential Next links."
 
     stats: {
-        downloads:  146
+        downloads:  176
         updated_at: 1780367707000
     }
 }

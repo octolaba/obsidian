@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cover-image
 alt:
   - https://github.com/mircomacrelli/cover-image
-downloads: 104
+downloads: 154
 updated at: "2026-06-27T05:42:10Z"
 related to:
   - "[[GitHub - 1255796466]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert the image linked in the cover property at the top of the note body. Update the displayed image automatically when the cover link changes."
 
     stats: {
-        downloads:  104
+        downloads:  154
         updated_at: 1782538930000
     }
 }

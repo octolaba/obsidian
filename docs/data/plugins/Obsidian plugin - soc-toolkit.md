@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/soc-toolkit
 alt:
   - https://github.com/michaelmassoni/obsidian-soc-toolkit
-downloads: 688
+downloads: 704
 updated at: "2025-12-05T11:48:42Z"
 related to:
   - "[[GitHub - 996099416]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Analyze IPv4 and IPv6 addresses in notes for reputation using VirusTotal and AbuseIPDB, including defanged formats. Defang IPs in-place (full or last-dot), run quick checks from the right-click menu or command palette, and cache results to reduce API calls."
 
     stats: {
-        downloads:  688
+        downloads:  704
         updated_at: 1764935322000
     }
 }

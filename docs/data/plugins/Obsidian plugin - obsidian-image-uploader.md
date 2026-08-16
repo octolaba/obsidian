@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-image-uploader
 alt:
   - https://github.com/creling/obsidian-image-uploader
-downloads: 7710
+downloads: 7793
 updated at: "2023-10-20T09:39:14Z"
 related to:
   - "[[GitHub - 386586589]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload images from the clipboard to any image host when pasting, with optional resize and automatic aspect-ratio scaling. Configure the API endpoint, request headers/body and response image-URL path to target any hosting service, and run a command to upload all local images on a page."
 
     stats: {
-        downloads:  7710
+        downloads:  7793
         updated_at: 1697794754000
     }
 }

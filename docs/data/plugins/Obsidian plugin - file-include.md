@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-include
 alt:
   - https://github.com/tillahoffmann/obsidian-file-include
-downloads: 5333
+downloads: 5360
 updated at: "2023-06-28T19:04:39Z"
 related to:
   - "[[GitHub - 648309726]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Include files in notes using include code blocks to embed external files directly into Markdown. Add syntax highlighting by specifying the language before the path (for example: include python hello.py). Resolve paths relative to the note or prefix with @/ to reference the vault root."
 
     stats: {
-        downloads:  5333
+        downloads:  5360
         updated_at: 1687979079000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-link
 alt:
   - https://github.com/greetclammy/copy-link
-downloads: 725
+downloads: 788
 updated at: "2025-10-07T12:22:47Z"
 related to:
   - "[[GitHub - 1071481370]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy links to notes, headings, and blocks directly from file and editor context menus. Generate wikilinks, embeds, footnote-wrapped links, anchor-only links, obsidian://open block URLs, and auto-create or find block IDs for single or multi-block selections, with optional selection-as-caption."
 
     stats: {
-        downloads:  725
+        downloads:  788
         updated_at: 1759839767000
     }
 }

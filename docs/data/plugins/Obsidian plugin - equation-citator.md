@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/equation-citator
 alt:
   - https://github.com/friedparrot/obsidian-equation-citator
-downloads:
-updated at:
+downloads: 2157
+updated at: "2026-07-25T07:47:04Z"
 related to:
   - "[[GitHub - 1023369454]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/friedparrot/obsidian-equation-citator"
     description: "A powerful LaTeX-like Academic Citation Tool for equations, figures, and more. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Number and cite equations, figures, tables, and theorem-like blocks with automatic LaTeX-style labels and cross-references across your vault. Create stable references and jump to cited content for consistent numbering and easy navigation in papers, notes, and multi-file derivations."
+
+    stats: {
+        downloads:  2157
+        updated_at: 1784965624000
+    }
 }
 ```
 

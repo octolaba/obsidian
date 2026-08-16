@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/edit-link-alias
 alt:
   - https://github.com/mnaoumov/obsidian-edit-link-alias
-downloads: 805
-updated at: "2026-07-22T21:10:49Z"
+downloads: 979
+updated at: "2026-08-08T17:43:01Z"
 related to:
   - "[[GitHub - 1079086081]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Edit link aliases directly from notes using a single command. Select a Markdown link and change its displayed alias inline without retyping the entire link."
 
     stats: {
-        downloads:  805
-        updated_at: 1784754649000
+        downloads:  979
+        updated_at: 1786210981000
     }
 }
 ```

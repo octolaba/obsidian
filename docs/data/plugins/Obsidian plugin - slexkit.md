@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/slexkit
 alt:
   - https://github.com/slexkit/obsidian-slexkit
-downloads: 98
+downloads: 111
 updated at: "2026-06-20T10:55:01Z"
 related to:
   - "[[GitHub - 1253644115]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render interactive Slex fenced UI blocks in Obsidian preview from slex code fences. Maintain a vault-readonly boundary so generated content and interaction state are never written back to files. Share a note-scoped trusted runtime so state-only fences can seed later renderables and avoid running untrusted Markdown."
 
     stats: {
-        downloads:  98
+        downloads:  111
         updated_at: 1781952901000
     }
 }

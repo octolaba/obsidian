@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-note-agent
 alt:
   - https://github.com/binhong87/obsidian-note-agent
-downloads: 327
+downloads: 401
 updated at: "2026-05-16T14:52:39Z"
 related to:
   - "[[GitHub - 1221300538]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with an AI agent to read and, with your approval, modify vault notes; preview all edits as diffs before committing. Run in Ask, Edit, or Scheduled modes to research, edit, or automate daily summaries and weekly reviews while the agent uses search, backlinks, folders and the active selection."
 
     stats: {
-        downloads:  327
+        downloads:  401
         updated_at: 1778943159000
     }
 }

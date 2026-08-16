@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ttrpg-maps
 alt:
   - https://github.com/matthttam/ttrpg-maps
-downloads: 712
+downloads: 850
 updated at: "2026-05-23T22:17:22Z"
 related to:
   - "[[GitHub - 1195792407]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render interactive TTRPG maps from code blocks as pannable, zoomable images with smooth viewport rendering. Place customizable markers linked to notes with hover previews, reuse marker templates, assign zoom-based visibility layers, and calibrate scales to measure distances with unit conversion."
 
     stats: {
-        downloads:  712
+        downloads:  850
         updated_at: 1779574642000
     }
 }

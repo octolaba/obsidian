@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-writer
 alt:
   - https://github.com/donovan-ye/obsidian-ai-writer-plugin
-downloads: 1539
+downloads: 1564
 updated at: "2024-04-23T08:24:11Z"
 related to:
   - "[[GitHub - 783512375]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Generate articles from selected knowledge fragments using LLM APIs (OpenAI supported), with custom templates, multiple models, and target languages. Invoke commands or right-click actions to create and edit generated content inline, then replace the original note with one click."
 
     stats: {
-        downloads:  1539
+        downloads:  1564
         updated_at: 1713860651000
     }
 }

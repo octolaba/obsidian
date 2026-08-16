@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/heading-linker
 alt:
   - https://github.com/max-fluff/obsidian-heading-linker
-downloads: 25
-updated at: "2026-07-23T15:58:44Z"
+downloads: 106
+updated at: "2026-08-03T21:44:50Z"
 related to:
   - "[[GitHub - 1301968629]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Heading Linker finds words in your notes that match a heading inside the files you keep as glossaries, and turns them into links. Where virtual-link plugins match literal text, this one matches every grammatical form — plurals, declensions, verb endings — through morphological stemming in six languages: English, Russian, Ukrainian, Spanish, German, and French. Write \"projectiles\" and the heading \"Projectile\" still links. A heading is the term, so one file holds a hundred: a glossary, an index for a wiki or knowledge base. Each heading can carry aliases in a comment beneath it. Matches render as virtual links that change nothing on disk: hover to preview, click to open, right-click for actions. Convert unlinked mentions into permanent wiki links in one note, a selection, or the whole vault — previewed before anything is written — and they count in the graph and backlinks. Acronyms stay case-sensitive, and when two files share a heading, the plugin asks which you meant."
 
     stats: {
-        downloads:  25
-        updated_at: 1784822324000
+        downloads:  106
+        updated_at: 1785793490000
     }
 }
 ```

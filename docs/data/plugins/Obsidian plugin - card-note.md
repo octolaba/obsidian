@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/card-note
 alt:
   - https://github.com/cycsd/obsidian-card-note
-downloads: 13299
+downloads: 13688
 updated at: "2026-02-10T03:20:28Z"
 related to:
   - "[[GitHub - 730063792]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extract selections or foldable blocks into new notes and insert linked cards onto Obsidian Canvas or Excalidraw with drag-and-drop for fast visual note building. Open linked files automatically in a split view and set automatic link labels and arrow styles for clear, navigable maps."
 
     stats: {
-        downloads:  13299
+        downloads:  13688
         updated_at: 1770693628000
     }
 }

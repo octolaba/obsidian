@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bitiful-helper
 alt:
   - https://github.com/viacai/bitiful-helper
-downloads: 9
+downloads: 24
 updated at: "2026-07-16T14:14:01Z"
 related to:
   - "[[GitHub - 1300522163]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage Bitiful Cloud storage from Obsidian with a sidebar file browser, drag-and-drop and clipboard uploads, bucket copying, bulk operations, and global search. Compress and watermark images on upload, view EXIF and storage stats, and insert smart Markdown/media links for images, audio, video and PDFs."
 
     stats: {
-        downloads:  9
+        downloads:  24
         updated_at: 1784211241000
     }
 }

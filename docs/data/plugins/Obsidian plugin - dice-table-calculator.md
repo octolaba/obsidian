@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dice-table-calculator
 alt:
   - https://github.com/jpcranford/obsidian-plugin-dice-table
-downloads: 191
+downloads: 263
 updated at: "2026-07-17T20:56:49Z"
 related to:
   - "[[GitHub - 1259648224]]"
@@ -36,7 +36,7 @@ plugin: {
     description: "Detects TTRPG dice notation (d6, 2d8, d100…) in the first column of table headers and auto-fills the first column with evenly distributed roll ranges. - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  191
+        downloads:  263
         updated_at: 1784321809000
     }
 }

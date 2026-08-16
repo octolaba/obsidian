@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-mark-and-select
 alt:
   - https://github.com/anselmwang/obsidian-mark-and-select
-downloads: 4885
+downloads: 4916
 updated at: "2022-02-26T17:27:07Z"
 related to:
   - "[[GitHub - 459811250]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set a mark and select the text between the mark and the cursor to create flexible, range-based selections. Combine with cursor navigation to select spans like entire headings and speed up selection on mobile where long-tap scrolling is slow."
 
     stats: {
-        downloads:  4885
+        downloads:  4916
         updated_at: 1645896427000
     }
 }

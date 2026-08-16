@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/water-tracker
 alt:
   - https://github.com/luigicerone/obsidian-water-tracker
-downloads: 389
+downloads: 407
 updated at: "2025-04-30T18:50:22Z"
 related to:
   - "[[GitHub - 891926455]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Log drinks with a command or ribbon icon and track daily water intake using customizable cup sizes. Save totals or detailed logs to the current or daily file and summarize entries with DataviewJS to show counts and total milliliters."
 
     stats: {
-        downloads:  389
+        downloads:  407
         updated_at: 1746039022000
     }
 }

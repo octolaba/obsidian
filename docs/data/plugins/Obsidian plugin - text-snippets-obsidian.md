@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/text-snippets-obsidian
 alt:
   - https://github.com/arianakhit/text-snippets-obsidian
-downloads: 48068
+downloads: 48743
 updated at: "2022-05-12T14:00:40Z"
 related to:
   - "[[GitHub - 347047118]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and expand custom text snippets and templates to speed up typing in Obsidian notes. Control cursor placement with $end$, insert line breaks with $nl$, and jump between tab stops with $tb$ for multi-step expansions, with live preview of replacements."
 
     stats: {
-        downloads:  48068
+        downloads:  48743
         updated_at: 1652364040000
     }
 }

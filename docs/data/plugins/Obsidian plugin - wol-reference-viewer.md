@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wol-reference-viewer
 alt:
   - https://github.com/iaremarkus/wol-reference-viewer
-downloads: 117
+downloads: 141
 updated at: "2026-05-20T09:30:45Z"
 related to:
   - "[[GitHub - 1192551437]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Look up Bible verses from wol.jw.org and insert them into notes inline, in a modal or popover, or in a sidebar panel. Wrap references in !! to create clickable links, add > after the exclamation marks to render full verses inline, and list all references from the active note in the sidebar."
 
     stats: {
-        downloads:  117
+        downloads:  141
         updated_at: 1779269445000
     }
 }

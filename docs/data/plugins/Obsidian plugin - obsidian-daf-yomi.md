@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-daf-yomi
 alt:
   - https://github.com/lyonsquark/obsidian-daf-yomi
-downloads: 5097
+downloads: 5108
 updated at: "2023-01-18T04:21:24Z"
 related to:
   - "[[GitHub - 389514089]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a ready-made Obsidian note for the day's Daf Yomi with links to the Koren/Steinsaltz Talmud PDF, Sefaria, and key commentaries. Add a page by date or by tractate/daf and embed the day's PDF or link it into your note."
 
     stats: {
-        downloads:  5097
+        downloads:  5108
         updated_at: 1674015684000
     }
 }

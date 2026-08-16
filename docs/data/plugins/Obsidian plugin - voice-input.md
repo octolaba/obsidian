@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/voice-input
 alt:
   - https://github.com/mssoftjp/obsidian-voice-input
-downloads: 242
+downloads: 286
 updated at: "2026-05-17T13:42:12Z"
 related to:
   - "[[GitHub - 1035007152]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture notes with high-accuracy multilingual voice input via OpenAI GPT-4o audio transcriptions tuned for Japanese, English, Chinese, and Korean. Record with one-click or push-to-talk, choose GPT-4o models, set UI and recognition languages separately, apply AI cleanup, and insert or append transcriptions with auto-save and quick controls."
 
     stats: {
-        downloads:  242
+        downloads:  286
         updated_at: 1779025332000
     }
 }

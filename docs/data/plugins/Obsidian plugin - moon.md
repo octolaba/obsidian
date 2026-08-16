@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/moon
 alt:
   - https://github.com/7368697661/moon
-downloads: 68
+downloads: 89
 updated at: "2026-07-02T04:03:15Z"
 related to:
   - "[[GitHub - 1257808947]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Moon is a lightweight (16kb!) desktop cat inspired by oneko to nap by your notes :)"
 
     stats: {
-        downloads:  68
+        downloads:  89
         updated_at: 1782964995000
     }
 }

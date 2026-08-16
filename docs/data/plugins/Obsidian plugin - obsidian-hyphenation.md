@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-hyphenation
 alt:
   - https://github.com/7596ff/obsidian-hyphenation
-downloads: 10490
+downloads: 10616
 updated at: "2024-07-25T15:01:31Z"
 related to:
   - "[[GitHub - 580901211]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Enable justified text and automatic hyphenation in Obsidian preview. Use navigator.language as the default and override per-file via a frontmatter lang key; apply hyphenation to paragraphs, ordered and unordered lists while skipping external links."
 
     stats: {
-        downloads:  10490
+        downloads:  10616
         updated_at: 1721919691000
     }
 }

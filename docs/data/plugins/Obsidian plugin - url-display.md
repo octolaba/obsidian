@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/url-display
 alt:
   - https://github.com/lin-stephanie/obsidian-url-display
-downloads: 5038
+downloads: 5051
 updated at: "2023-12-04T08:31:41Z"
 related to:
   - "[[GitHub - 677018840]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extract and display external URLs from the active note (including Kanban) in a dedicated pane with favicon and hover-preview support. Refresh automatically on note switch or lock the list, and navigate to link locations, open links in a new browser tab, copy URLs, or run global search via the context menu."
 
     stats: {
-        downloads:  5038
+        downloads:  5051
         updated_at: 1701678701000
     }
 }

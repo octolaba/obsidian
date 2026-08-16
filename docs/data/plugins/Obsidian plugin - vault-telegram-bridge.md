@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-telegram-bridge
 alt:
   - https://github.com/n23eos/vault_telegram_bridge
-downloads: 91
+downloads: 137
 updated at: "2026-07-17T01:06:24Z"
 related to:
   - "[[GitHub - 1293553499]]"
@@ -28,7 +28,7 @@ Captures messages sent to a Telegram bot into the vault, with no server required
 plugin: {
     id:     "vault-telegram-bridge"
     name:   "Vault Telegram Bridge"
-    author: "N23eos"
+    author: "n23eos"
     repo:   "n23eos/vault_telegram_bridge"
 
     html_url:    "https://community.obsidian.md/plugins/vault-telegram-bridge"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Your fastest way into Obsidian. Message this bot from anywhere — Telegram opens instantly, even when Obsidian on your phone doesn't — and the text lands in today's daily note. Requires the Vault Telegram Bridge plugin, configured with this bot's token. While Obsidian is open, the plugin polls Telegram and appends new messages under the heading and line format you set — plain, code block, or callout. Duplicate-safe: a desktop and a phone syncing one vault never write the same message twice. Privacy: the bot never sends messages, never reads other chats, and binds to the first chat that writes to it. Limits: text only (photos, voice notes and files are skipped and reported). Telegram drops undelivered messages after 24 hours, so open Obsidian at least once a day."
 
     stats: {
-        downloads:  91
+        downloads:  137
         updated_at: 1784250384000
     }
 }

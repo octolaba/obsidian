@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/learning-practice-coevolution
 alt:
   - https://github.com/michael-uplive021/learning-practice-coevolution
-downloads: 68
+downloads: 85
 updated at: "2026-07-21T00:39:33Z"
 related to:
   - "[[GitHub - 1267489981]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn books, articles, PDFs, courses, and concepts into a repeatable learning loop. Reconstruct the idea in your own words, take it to an AI agent for critique and concept repair, then apply it in one real task. Observer notes capture what changed and choose the next practice or reading target. The plugin stores prompts and session records locally; it does not call an AI API, collect telemetry, or make network requests."
 
     stats: {
-        downloads:  68
+        downloads:  85
         updated_at: 1784594373000
     }
 }

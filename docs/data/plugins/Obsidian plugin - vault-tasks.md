@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-tasks
 alt:
   - https://github.com/savar-g/taskline
-downloads: 39
+downloads: 63
 updated at: "2026-07-18T22:37:42Z"
 related to:
   - "[[GitHub - 1305244809]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage tasks across your vault with a focused dashboard that reads tasks from selected notes and writes updates back to Markdown. Capture tasks using natural-language for dates, priorities, recurrence, tags, and owners; view Today, Upcoming, and All lists; edit inline on desktop or mobile; and optionally review proposal rows before applying changes."
 
     stats: {
-        downloads:  39
+        downloads:  63
         updated_at: 1784414262000
     }
 }

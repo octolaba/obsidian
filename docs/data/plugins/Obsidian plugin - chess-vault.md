@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chess-vault
 alt:
   - https://github.com/dun8/Chess-Vault
-downloads: 133
+downloads: 147
 updated at: "2026-05-21T19:48:23Z"
 related to:
   - "[[GitHub - 1227458804]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Lichess/Chess.com games into your vault as embedded boards and view and analyze them directly inside your notes. Save games to a single file or daily files with incremental sync, optional date/rating prefixes, automatic folder creation, and daily frontmatter stats (wins, losses, draws, win rate)."
 
     stats: {
-        downloads:  133
+        downloads:  147
         updated_at: 1779392903000
     }
 }

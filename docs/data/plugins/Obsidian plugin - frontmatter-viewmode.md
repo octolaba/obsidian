@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/frontmatter-viewmode
 alt:
   - https://github.com/yunidev-uk/obsidian-frontmatter-viewmode
-downloads: 3037
+downloads: 3093
 updated at: "2024-02-13T05:09:38Z"
 related to:
   - "[[GitHub - 753321349]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set view mode per note by adding a prefer-view property at the top of the note. Use values read, edit, edit-source, or edit-preview to control whether the note opens in Reading, Edit, Source, or Live Preview mode."
 
     stats: {
-        downloads:  3037
+        downloads:  3093
         updated_at: 1707800978000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gym-tracker
 alt:
   - https://github.com/real-fruit-snacks/obsidian-gym-tracker
-downloads: 167
+downloads: 277
 updated at: "2026-07-19T14:14:24Z"
 related to:
   - "[[GitHub - 1273893492]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track strength workouts and rucks in Obsidian, logging exercises, sets, reps, weight, RPE, RIR, rest timers, and notes with a responsive mobile/desktop layout. Review volume trends, streaks, progression suggestions, and personal records; import GPX routes, save routines, and export Dataview-friendly Markdown."
 
     stats: {
-        downloads:  167
+        downloads:  277
         updated_at: 1784470464000
     }
 }

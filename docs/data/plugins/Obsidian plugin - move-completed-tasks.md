@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/move-completed-tasks
 alt:
   - https://github.com/aaronpenne/move-completed-tasks
-downloads: 272
+downloads: 410
 updated at: "2026-06-13T16:40:29Z"
 related to:
   - "[[GitHub - 1266885735]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move checked tasks (and their subtasks) to the bottom of their task group and add a subtle highlight so you can spot the new position. Run commands to sink completed items within groups or collect all completed tasks under a ## Completed heading at the end of the note, and undo the move with a single Ctrl+Z."
 
     stats: {
-        downloads:  272
+        downloads:  410
         updated_at: 1781368829000
     }
 }

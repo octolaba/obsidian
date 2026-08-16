@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graph-styler
 alt:
   - https://github.com/moonweave/obsidian-graph-styler
-downloads: 1775
+downloads: 2667
 updated at: "2026-06-28T00:33:52Z"
 related to:
   - "[[GitHub - 1279765867]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Style the Obsidian graph view with one-click aesthetic presets that apply color palettes, glow effects, and layout forces. Map palettes automatically to your top folders or tags, write colors into Obsidian's native graph groups, and customize/save your own presets with live previews and restore backups."
 
     stats: {
-        downloads:  1775
+        downloads:  2667
         updated_at: 1782606832000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/scholarium
 alt:
   - https://github.com/tenor-john/obsidian-scholarium
-downloads: 185
+downloads: 214
 updated at: "2026-07-16T13:50:55Z"
 related to:
   - "[[GitHub - 1216916208]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Build a local-first research workspace in your Obsidian vault and keep notes as plain Markdown. Create structured experiment records with metadata (date, reagents, SMILES, status) and convert natural-language descriptions or OCR images into editable entries with integrated AI. Manage experiments, tasks, focus sessions, habit logs, material libraries, and submissions from a role-aware dashboard."
 
     stats: {
-        downloads:  185
+        downloads:  214
         updated_at: 1784209855000
     }
 }

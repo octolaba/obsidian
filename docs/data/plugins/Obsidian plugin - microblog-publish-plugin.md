@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/microblog-publish-plugin
 alt:
   - https://github.com/otaviocc/obsidian-microblog
-downloads: 6228
+downloads: 6246
 updated at: "2025-08-25T19:36:33Z"
 related to:
   - "[[GitHub - 539499299]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish notes, pages, and short microposts from your vault to Micro.blog with titles, tags, visibility (draft/public), and optional scheduled dates. Upload local images and replace links with hosted URLs, sync categories for tag suggestions, read/write YAML frontmatter, support multiple blogs, and save post URLs for easy updates."
 
     stats: {
-        downloads:  6228
+        downloads:  6246
         updated_at: 1756150593000
     }
 }

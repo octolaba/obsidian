@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gtp-preview
 alt:
   - https://github.com/barba828/obsidian-plugin-gtp-preview
-downloads: 722
+downloads: 753
 updated at: "2024-09-20T09:27:06Z"
 related to:
   - "[[GitHub - 830809857]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview Guitar Pro files (gtp/gp/gp5/gpx) directly in Obsidian with rendered tablature and standard notation. Switch between tracks, render multiple tracks, and download the file's MIDI export."
 
     stats: {
-        downloads:  722
+        downloads:  753
         updated_at: 1726824426000
     }
 }

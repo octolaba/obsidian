@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chancli-font-size-resizer
 alt:
   - https://github.com/mateosantosdev/chancli-font-size-resizer
-downloads: 229
+downloads: 281
 updated at: "2026-05-17T11:07:55Z"
 related to:
   - "[[GitHub - 1239471011]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Adjust note editor font size from the status bar or command palette with quick − / + controls. Scale headers proportionally while keeping body text independent; changes apply in Live Preview, Reading View, and Source Mode and persist across restarts."
 
     stats: {
-        downloads:  229
+        downloads:  281
         updated_at: 1779016075000
     }
 }

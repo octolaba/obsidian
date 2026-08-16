@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/attachments-library
 alt:
   - https://github.com/compadrejunior/attachments-library
-downloads: 182
+downloads: 283
 updated at: "2026-06-28T17:45:15Z"
 related to:
   - "[[GitHub - 1282385621]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Index files dropped into your Attachments folder by creating sidecar notes in a parallel Library folder without modifying attachments. Extract PDF metadata locally and optionally enrich via CrossRef/OpenLibrary, mirror folder structure, sync renames/deletes, and generate an Attachments Library.base for spreadsheet-like browsing."
 
     stats: {
-        downloads:  182
+        downloads:  283
         updated_at: 1782668715000
     }
 }

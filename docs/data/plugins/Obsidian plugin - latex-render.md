@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/latex-render
 alt:
   - https://github.com/jvsteiner/obsidian-latex-render
-downloads: 2287
+downloads: 2316
 updated at: "2024-07-10T17:18:18Z"
 related to:
   - "[[GitHub - 822245026]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render LaTeX-marked code blocks into SVG and display them inline in note preview. Use your LaTeX toolchain by specifying a conversion command to generate SVG from .tex files, keeping mathematical output crisp and scalable."
 
     stats: {
-        downloads:  2287
+        downloads:  2316
         updated_at: 1720631898000
     }
 }

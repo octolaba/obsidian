@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/game-backlog-tracker
 alt:
   - https://github.com/kevmorelli/obsidian-game-backlog
-downloads: 205
+downloads: 247
 updated at: "2026-06-22T23:20:39Z"
 related to:
   - "[[GitHub - 1183566755]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track completed games and record yearly completions with an in-note game-backlog block and interactive entry interface. Switch between grid or table views, add 1–5 ratings and local or remote covers, manage DLC and SteamGridDB covers, and customize styles."
 
     stats: {
-        downloads:  205
+        downloads:  247
         updated_at: 1782170439000
     }
 }

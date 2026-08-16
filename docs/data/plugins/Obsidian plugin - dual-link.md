@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dual-link
 alt:
   - https://github.com/mowdw/DualLink
-downloads: 249
+downloads: 736
 updated at: "2026-06-19T03:47:10Z"
 related to:
   - "[[GitHub - 1247274400]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse internal vaults and external absolute file paths side-by-side with a left‑sidebar file explorer and fast filters. Drag external files into notes to auto-generate safe local links and inject media as inline or hover previews (images, video, audio) without importing large files."
 
     stats: {
-        downloads:  249
+        downloads:  736
         updated_at: 1781840830000
     }
 }

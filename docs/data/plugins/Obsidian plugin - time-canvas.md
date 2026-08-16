@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/time-canvas
 alt:
   - https://github.com/setix-a/obsidian-time-canvas
-downloads:
-updated at:
+downloads: 55
+updated at: "2026-08-05T15:12:17Z"
 related to:
   - "[[GitHub - 1311576887]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/setix-a/obsidian-time-canvas"
     description: "Revisit your past: surface notes written on this day in previous years as collapsible cards in the sidebar. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Surface notes written on this day in previous years as collapsible sidebar cards, grouped by year with the active note pinned atop its group for quick context. Switch between outline (headings) and snippet (content preview) views, show frontmatter properties on cards, and collapse year or note groups for focused browsing."
+
+    stats: {
+        downloads:  55
+        updated_at: 1785942737000
+    }
 }
 ```
 

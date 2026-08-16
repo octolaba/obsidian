@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/blur
 alt:
   - https://github.com/gapmiss/blur
-downloads: 7567
-updated at: "2026-06-14T16:28:49Z"
+downloads: 7758
+updated at: "2026-08-09T20:48:00Z"
 related to:
   - "[[GitHub - 588613574]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create obfuscated inline spans or fenced blocks to hide, redact, or wire‑frame text in notes. Choose from three masking styles — blur (~{...}), brick (~[...]) and bone (~(...)) — and apply them inline or as code‑fence blocks."
 
     stats: {
-        downloads:  7567
-        updated_at: 1781454529000
+        downloads:  7758
+        updated_at: 1786308480000
     }
 }
 ```

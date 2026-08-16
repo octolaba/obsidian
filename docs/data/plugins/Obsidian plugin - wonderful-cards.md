@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wonderful-cards
 alt:
   - https://github.com/trikorka/wonderful-cards
-downloads: 171
+downloads: 227
 updated at: "2026-07-07T19:33:28Z"
 related to:
   - "[[GitHub - 1259699144]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create beautiful, themed D&D magic item cards in your notes using simple itemcard YAML code blocks. Customize images, price, rarity and descriptions, save items to a global catalog, and preview cards inline with wc:Item Name or by clicking internal links."
 
     stats: {
-        downloads:  171
+        downloads:  227
         updated_at: 1783452808000
     }
 }

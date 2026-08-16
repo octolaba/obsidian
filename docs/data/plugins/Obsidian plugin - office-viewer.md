@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/office-viewer
 alt:
   - https://github.com/jerry4pan/obsidian-office-viewer-plugin
-downloads: 257
-updated at: "2026-07-21T05:10:25Z"
+downloads: 844
+updated at: "2026-08-02T02:51:47Z"
 related to:
   - "[[GitHub - 1298791514]]"
 remind me:
@@ -22,23 +22,23 @@ remind me:
 
 # Office Viewer
 
-Office Viewer opens local .pptx presentations and .docx documents inside desktop Obsidian without conversion or upload. PPTX keeps its slide-reference and embed workflows, while DOCX is deliberately limited to continuous reading and search within the current document.
+Opens local .pptx presentations and .docx documents in desktop Obsidian without conversion or upload. Presentations keep slide-reference and embed workflows, while the Word side is deliberately confined to continuous reading and search within the open document.
 
 ```cue
 plugin: {
     id:     "office-viewer"
     name:   "Office Viewer"
-    author: "jerry4pan"
+    author: "Jerry Pan"
     repo:   "jerry4pan/obsidian-office-viewer-plugin"
 
     html_url:    "https://community.obsidian.md/plugins/office-viewer"
     github_url:  "https://github.com/jerry4pan/obsidian-office-viewer-plugin"
-    description: "View local PPTX files inside Obsidian. - This plugin has not been manually reviewed by Obsidian staff."
+    description: "View local PPTX and DOCX files inside Obsidian. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Office Viewer opens local .pptx presentations and .docx Word documents in desktop Obsidian without conversion or upload. PPTX keeps its slide-reference and embed workflows; DOCX deliberately focuses on continuous reading and search within the current document."
 
     stats: {
-        downloads:  257
-        updated_at: 1784610625000
+        downloads:  844
+        updated_at: 1785639107000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/extensions-sync-manager
 alt:
   - https://github.com/diegomarzaa/obsidian-extensions-sync-manager
-downloads: 64
+downloads: 77
 updated at: "2026-07-05T18:22:40Z"
 related to:
   - "[[GitHub - 1290187675]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage two Obsidian configuration profiles in one vault by comparing desktop (.obsidian) and mobile (.obsidian_mobile) extension folders and base JSON configs side-by-side. Copy, install, remove, enable/disable extensions, sync single JSON properties, and back up targets before changes while tracking differences with content hashes and marking extensions as both/PC-only/mobile-only/frozen/ignored."
 
     stats: {
-        downloads:  64
+        downloads:  77
         updated_at: 1783275760000
     }
 }

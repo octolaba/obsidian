@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tags-overview
 alt:
   - https://github.com/christianwannerstedt/obsidian-tags-overview
-downloads: 19899
+downloads: 20519
 updated at: "2026-07-06T17:49:05Z"
 related to:
   - "[[GitHub - 673044563]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Explore and manage tags with an extended panel that shows tagged files in list or table view and displays related tags. Filter by multiple tags (AND/OR), view nested tags as a tree or flat list, and add front-matter property filters to narrow results."
 
     stats: {
-        downloads:  19899
+        downloads:  20519
         updated_at: 1783360145000
     }
 }

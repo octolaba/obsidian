@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/time-tracker-invoicing
 alt:
   - https://github.com/israerusan/time-tracker-invoicing
-downloads: 100
-updated at: "2026-07-05T13:26:44Z"
+downloads: 132
+updated at: "2026-07-25T17:31:01Z"
 related to:
   - "[[GitHub - 1282243497]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Track billable time per note or project with a live status-bar timer and store entries locally in your vault. Aggregate hours by client and project and generate markdown invoices saved to an invoices folder; PDF export and full invoicing unlock with a one-time premium license. Keep data offline—no external accounts."
 
     stats: {
-        downloads:  100
-        updated_at: 1783258004000
+        downloads:  132
+        updated_at: 1785000661000
     }
 }
 ```

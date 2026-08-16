@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/reading-progress-desktop
 alt:
   - https://github.com/qian-shen/obsidian-reading-progress-desktop
-downloads: 371
+downloads: 389
 updated at: "2025-12-11T07:54:56Z"
 related to:
   - "[[GitHub - 1041331224]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display reading progress in the status bar on desktop with a full-screen button, a horizontal progress bar, and a view-type indicator. Show the bar as inactive (gray) for unsupported or infinite-scroll views and support markdown, PDF, search, thino, and bases."
 
     stats: {
-        downloads:  371
+        downloads:  389
         updated_at: 1765439696000
     }
 }

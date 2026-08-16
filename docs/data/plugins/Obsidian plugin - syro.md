@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/syro
 alt:
   - https://github.com/piyooko/obsidian-syro
-downloads: 2288
+downloads: 3314
 updated at: "2026-05-02T19:35:12Z"
 related to:
   - "[[GitHub - 1187793052]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bring spaced repetition and incremental reading to your Markdown vault with FSRS-powered reviews and context-aware flashcards. Create inline cards that jump to their original paragraph, queue long reads into daily micro-tasks, and resume articles at the exact scroll position."
 
     stats: {
-        downloads:  2288
+        downloads:  3314
         updated_at: 1777750512000
     }
 }

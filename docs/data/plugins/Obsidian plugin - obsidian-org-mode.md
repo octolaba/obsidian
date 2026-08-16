@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-org-mode
 alt:
   - https://github.com/ryanpcmcquen/obsidian-org-mode
-downloads: 14548
+downloads: 14609
 updated at: "2024-11-28T06:48:06Z"
 related to:
   - "[[GitHub - 365923568]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add Org Mode support to Obsidian. Edit and view Org files using Org Mode syntax and structure directly in your vault."
 
     stats: {
-        downloads:  14548
+        downloads:  14609
         updated_at: 1732776486000
     }
 }

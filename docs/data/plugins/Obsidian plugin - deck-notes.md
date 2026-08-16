@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/deck-notes
 alt:
   - https://github.com/ebullient/obsidian-deck-notes
-downloads: 144
+downloads: 156
 updated at: "2026-06-03T14:16:26Z"
 related to:
   - "[[GitHub - 1071513773]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Define card decks using H2 headings in Markdown and embed cards directly in notes or browse them in a modal. Filter decks by hierarchical #flashcards/* tags and select cards randomly or by least-recent view with optional tracking to prioritize unseen items."
 
     stats: {
-        downloads:  144
+        downloads:  156
         updated_at: 1780496186000
     }
 }

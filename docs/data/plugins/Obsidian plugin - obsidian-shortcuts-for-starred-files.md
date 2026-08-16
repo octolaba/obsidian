@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-shortcuts-for-starred-files
 alt:
   - https://github.com/vinzent03/obsidian-shortcuts-for-starred-files
-downloads: 10928
+downloads: 10981
 updated at: "2024-04-03T14:58:21Z"
 related to:
   - "[[GitHub - 332858930]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open bookmarks 1–9 using customizable hotkeys for quick access. Open each bookmark in the current pane or open them in a new pane with dedicated commands. Use the core Bookmarks plugin to register bookmarks first."
 
     stats: {
-        downloads:  10928
+        downloads:  10981
         updated_at: 1712156301000
     }
 }

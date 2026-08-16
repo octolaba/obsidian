@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ima
 alt:
   - https://github.com/liuboacean/ima-plugin
-downloads: 280
+downloads: 313
 updated at: "2026-05-19T00:49:08Z"
 related to:
   - "[[GitHub - 1241376617]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Integrate IMA knowledge base and notes into Obsidian and access them from a sidebar panel or the command palette. Search notes by title or body with pagination, browse notebook folders, view notes rendered as native Markdown, import notes into your vault as .md, and navigate with a multi-level back/forward stack."
 
     stats: {
-        downloads:  280
+        downloads:  313
         updated_at: 1779151748000
     }
 }

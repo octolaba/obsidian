@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-explorer-pro
 alt:
   - https://github.com/hornatx/vault-explorer-pro
-downloads: 125
+downloads: 176
 updated at: "2026-06-08T08:10:51Z"
 related to:
   - "[[GitHub - 1258004952]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage your vault with an improved sidebar: add custom shortcut icons to folders, mount related files inline for seamless nesting, lock or hide folders, and set per-folder file display limits that auto-collapse excess items. Enable automatic source mode and auto-collapse of frontmatter to streamline editing."
 
     stats: {
-        downloads:  125
+        downloads:  176
         updated_at: 1780906251000
     }
 }

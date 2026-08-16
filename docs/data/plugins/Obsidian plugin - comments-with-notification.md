@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/comments-with-notification
 alt:
   - https://github.com/mkali-personal/obsidian-comments-with-notifications
-downloads: 86
+downloads: 103
 updated at: "2026-06-06T11:00:38Z"
 related to:
   - "[[GitHub - 1260399149]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Leave structured, tag-addressed comments using #member/username to notify teammates and insert callout templates with a single command. Monitor unread comments via a ribbon bell badge and a sidebar panel with previews and click-to-navigate links. Store comments as callouts with invisible timestamps and track read status per machine across synced vaults."
 
     stats: {
-        downloads:  86
+        downloads:  103
         updated_at: 1780743638000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/bragi-canvas
 alt:
   - https://github.com/nextbound/bragi-canvas
-downloads: 1118
-updated at: "2026-07-16T10:45:52Z"
+downloads: 1386
+updated at: "2026-08-08T00:53:50Z"
 related to:
   - "[[GitHub - 1228898025]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Turn Obsidian Canvas into a node-based AI generation workspace using selected nodes and incoming edges as prompts and references. Generate images, video, text, speech, music and sound effects, display upstream media on nodes, batch or tile outputs, write results back as connected nodes, and import/export portable .bragi workflows or expose the canvas via a local MCP server for automation."
 
     stats: {
-        downloads:  1118
-        updated_at: 1784198752000
+        downloads:  1386
+        updated_at: 1786150430000
     }
 }
 ```

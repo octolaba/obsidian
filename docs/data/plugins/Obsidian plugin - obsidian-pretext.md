@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-pretext
 alt:
   - https://github.com/wuyifan-code/Obsidian-pretext
-downloads: 550
+downloads: 700
 updated at: "2026-07-23T07:11:22Z"
 related to:
   - "[[GitHub - 1201256127]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reduce DOM measurement overhead and speed up rendering of large Obsidian notes by precomputing element heights and setting min-height to skip expensive layout reads. Apply in preview and editor (CodeMirror) with smart text+font caching, visible-area scanning, RAF throttling and batched processing to speed first render and cut reflow on scroll, especially for callouts, blockquotes and tables."
 
     stats: {
-        downloads:  550
+        downloads:  700
         updated_at: 1784790682000
     }
 }

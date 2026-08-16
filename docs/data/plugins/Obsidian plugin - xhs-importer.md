@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/xhs-importer
 alt:
   - https://github.com/lxl448080113/ob-Plugin
-downloads: 3027
+downloads: 4547
 updated at: "2026-07-23T02:31:50Z"
 related to:
   - "[[GitHub - 1224305726]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Xiaohongshu notes or share URLs into your vault with configurable default note and image folders and editable frontmatter fields. Download images into your vault while keeping videos as remote links, and populate frontmatter using placeholders like {{date}}, {{title}}, {{source}}, and {{videoUrl}}."
 
     stats: {
-        downloads:  3027
+        downloads:  4547
         updated_at: 1784773910000
     }
 }

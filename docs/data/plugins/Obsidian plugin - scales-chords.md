@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/scales-chords
 alt:
   - https://github.com/egradman/scales-chords
-downloads: 8156
+downloads: 8199
 updated at: "2021-09-18T01:03:18Z"
 related to:
   - "[[GitHub - 407645940]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture guitar and piano tabs in fenced code blocks; end chord lines with % to render chords as bold, clickable links in preview. Click a chord to open a modal with a visual diagram and view all captured chords stacked beneath the tab; change instrument to show different diagrams."
 
     stats: {
-        downloads:  8156
+        downloads:  8199
         updated_at: 1631926998000
     }
 }

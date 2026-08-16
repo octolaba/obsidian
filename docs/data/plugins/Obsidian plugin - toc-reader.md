@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/toc-reader
 alt:
   - https://github.com/muzi-xiaoren/Obsidian--TOC--reader
-downloads: 43
+downloads: 107
 updated at: "2026-07-19T03:44:58Z"
 related to:
   - "[[GitHub - 1305371250]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Typora-style [TOC] lines as a clickable, nested table of contents in Reading View and Live Preview, reverting to editable [TOC] source when the cursor is on that line. Enable clicking entries to jump by line position, handle duplicate headings and non-contiguous levels with relative indentation, and update automatically as headings change."
 
     stats: {
-        downloads:  43
+        downloads:  107
         updated_at: 1784432698000
     }
 }

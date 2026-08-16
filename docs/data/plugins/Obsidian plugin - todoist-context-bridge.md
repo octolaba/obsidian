@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/todoist-context-bridge
 alt:
   - https://github.com/wenlzhang/obsidian-todoist-context-bridge
-downloads: 4165
+downloads: 4219
 updated at: "2026-03-28T08:59:53Z"
 related to:
   - "[[GitHub - 893119596]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bridge Obsidian notes and Todoist tasks with bidirectional sync while preserving full context and temporal metadata. Integrate with Dataview and Tasks plugins, highlight important tasks selectively, and support lists, tasks, callouts, quotes and other content formats. Chat with Todoist tasks and calendar events in your browser."
 
     stats: {
-        downloads:  4165
+        downloads:  4219
         updated_at: 1774688393000
     }
 }

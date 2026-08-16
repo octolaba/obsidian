@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-layer-order
 alt:
   - https://github.com/laplacede/Canvas-Layer-Order
-downloads: 190
+downloads: 264
 updated at: "2026-06-30T11:00:54Z"
 related to:
   - "[[GitHub - 1282015508]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reorder overlapping Canvas cards by bringing a card to front, sending it to back, or moving it forward or backward in the layer stack. Preserve saved layer order when focusing cards to keep the visual stack aligned with the node order."
 
     stats: {
-        downloads:  190
+        downloads:  264
         updated_at: 1782817254000
     }
 }

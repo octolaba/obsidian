@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quick-github-sync
 alt:
   - https://github.com/m1llky/obsidian-github-vault-sync
-downloads: 80
+downloads: 87
 updated at: "2026-06-07T17:48:04Z"
 related to:
   - "[[GitHub - 1262155015]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your vault with a GitHub repository in one click from the ribbon or Command Palette. Pull remote changes before pushing local commits, auto-detect the current branch, and keep your GitHub PAT stored securely in Obsidian's local storage so it won't be committed."
 
     stats: {
-        downloads:  80
+        downloads:  87
         updated_at: 1780854484000
     }
 }

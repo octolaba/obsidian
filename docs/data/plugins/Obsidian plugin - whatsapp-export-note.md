@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/whatsapp-export-note
 alt:
   - https://github.com/joaoemanuell/obsidian-whatsapp-export-note
-downloads: 1658
+downloads: 1765
 updated at: "2025-02-05T23:54:57Z"
 related to:
   - "[[GitHub - 858396777]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export Obsidian notes to WhatsApp by converting Markdown into WhatsApp-supported formatting. Convert headings and highlights to bold, render equations as code, keep bold/italics/blockquotes/strikethrough, remove images and horizontal lines, and keep only link text while deleting Obsidian links manually."
 
     stats: {
-        downloads:  1658
+        downloads:  1765
         updated_at: 1738799697000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/remote-vault-sync
 alt:
   - https://github.com/suneater-labs/remote-vault-sync
-downloads: 134
+downloads: 143
 updated at: "2026-01-26T08:18:33Z"
 related to:
   - "[[GitHub - 1136472204]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Back up and sync your vault to S3 using native git and Git LFS for versioned storage. View commit history, file diffs, file badges and status-bar sync state, and resolve merge conflicts with built-in push, pull and restore controls."
 
     stats: {
-        downloads:  134
+        downloads:  143
         updated_at: 1769415513000
     }
 }

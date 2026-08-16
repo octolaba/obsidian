@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/s-restore-profile
 alt:
   - https://github.com/stepheson/s-restore-profile_obsidian-plugin
-downloads: 109
+downloads: 136
 updated at: "2026-06-23T13:34:13Z"
 related to:
   - "[[GitHub - 1274777942]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync and bulk-reinstall community plugins and themes across vaults or machines using a single portable JSON profile. Export your current setup, import it into another vault to auto-install and activate the active theme, skip already-installed items, and monitor verbose restore logs."
 
     stats: {
-        downloads:  109
+        downloads:  136
         updated_at: 1782221653000
     }
 }

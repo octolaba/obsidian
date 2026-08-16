@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/agent-fleet
 alt:
   - https://github.com/denberek/obsidian-agent-fleet
-downloads: 599
-updated at: "2026-07-02T05:58:43Z"
+downloads: 755
+updated at: "2026-08-03T01:33:39Z"
 related to:
   - "[[GitHub - 1200844761]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Agent Fleet is an Obsidian plugin for building and running autonomous AI agents — on Claude Code or OpenAI Codex. Schedule tasks, chat in real time, connect Slack, Telegram, and Discord. Every agent is markdown you own."
 
     stats: {
-        downloads:  599
-        updated_at: 1782971923000
+        downloads:  755
+        updated_at: 1785720819000
     }
 }
 ```

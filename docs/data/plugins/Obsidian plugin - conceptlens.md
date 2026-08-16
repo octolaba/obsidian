@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/conceptlens
 alt:
   - https://github.com/jade367/ConceptLens
-downloads: 115
+downloads: 175
 updated at: "2026-05-12T11:15:51Z"
 related to:
   - "[[GitHub - 1230188191]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture unfamiliar terms, concepts, and technical vocabulary while reading. Select text to open a floating toolbar for AI-powered overview, explanation, translation, expansion, and one-click creation of reusable concept notes; detect duplicates and output in multiple languages with RTL support."
 
     stats: {
-        downloads:  115
+        downloads:  175
         updated_at: 1778584551000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/metadata-menu
 alt:
   - https://github.com/mdelobelle/metadatamenu
-downloads: 282265
+downloads: 309641
 updated at: "2026-02-11T09:47:44Z"
 related to:
   - "[[GitHub - 508809639]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage and edit note metadata directly from right-click menus and dataview tables, covering YAML frontmatter and Dataview-style inline fields. Define typed fields with global or per-file presets (fileClass), add autocompletion from preset values, and handle dates, files, lookups, nested objects and canvas fields."
 
     stats: {
-        downloads:  282265
+        downloads:  309641
         updated_at: 1770803264000
     }
 }

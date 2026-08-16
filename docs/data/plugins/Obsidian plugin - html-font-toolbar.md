@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/html-font-toolbar
 alt:
   - https://github.com/charette-ai-group/html-font-toolbar
-downloads: 42
-updated at: "2026-07-22T20:08:40Z"
+downloads: 393
+updated at: "2026-07-26T01:59:24Z"
 related to:
   - "[[GitHub - 1308281942]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Apply a floating Word-like toolbar that writes every formatting change as a single inline HTML span, avoiding nested Markdown/HTML conflicts. Style text with color and highlight presets, font size and family, bold/italic/underline/strikethrough, and context-aware alignment; edit or toggle properties in-place and repair preexisting spans so notes render identically without the plugin."
 
     stats: {
-        downloads:  42
-        updated_at: 1784750920000
+        downloads:  393
+        updated_at: 1785031164000
     }
 }
 ```

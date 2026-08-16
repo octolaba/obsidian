@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-summary
 alt:
   - https://github.com/cslukkun/ob_daily_summary
-downloads: 1028
+downloads: 1050
 updated at: "2024-12-04T14:51:33Z"
 related to:
   - "[[GitHub - 882287939]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Collect notes from the current day and generate a concise daily report using an LLM (OpenAI or local Ollama). Configure API endpoint and report save location, then run Generate Daily Report from the command palette. Log API and file errors to debug-errors.md."
 
     stats: {
-        downloads:  1028
+        downloads:  1050
         updated_at: 1733323893000
     }
 }

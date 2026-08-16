@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/ginkgo-backup
 alt:
   - https://github.com/ginkgobackup/obsidian-ginkgo-backup
-downloads: 136
-updated at: "2026-07-06T18:23:18Z"
+downloads: 194
+updated at: "2026-07-29T18:10:25Z"
 related to:
   - "[[GitHub - 1267585283]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Real-time backup on every save — every edit becomes a versioned snapshot within seconds, no manual commits or Git knowledge required. File version history: right-click any file — in the editor or the sidebar file tree — to open its full history, browse every saved version, and jump to any point in time. Diff any two versions line-by-line, preview content before restoring, and roll back in one click — your current state is auto-saved first, so restores never destroy unsaved work. Pairs with the free Ginkgo Backup desktop app. The plugin is its Obsidian frontend; the desktop engine handles snapshot storage and deduplication, keeping your vault history independent of Obsidian's lifecycle."
 
     stats: {
-        downloads:  136
-        updated_at: 1783362198000
+        downloads:  194
+        updated_at: 1785348625000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/enhanced-tab-settings
 alt:
   - https://github.com/boerlabs/obsidian-enhanced-tab-settings
-downloads: 295
+downloads: 358
 updated at: "2026-05-25T07:54:13Z"
 related to:
   - "[[GitHub - 1217781406]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Customize how files open and how tabs behave: open files in new tabs by default, switch to existing tabs instead of duplicating, control new-tab placement, and open in the opposite pane in split workspaces. Enable VSCode-style preview tabs to single-click a temporary preview and double-click or edit to promote it to a permanent tab."
 
     stats: {
-        downloads:  295
+        downloads:  358
         updated_at: 1779695653000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/meeting-tools
 alt:
   - https://github.com/extzzy/Meeting-Tools
-downloads: 43
+downloads: 82
 updated at: "2026-07-22T07:25:31Z"
 related to:
   - "[[GitHub - 1300489020]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create structured meeting minutes from compact, template-driven forms or use Quick meeting for simple date+outcome entries. Append entries to a meeting journal, manage and search tasks in a dashboard with assignees and due dates, and save notes locally in your Obsidian vault with English/Russian interface."
 
     stats: {
-        downloads:  43
+        downloads:  82
         updated_at: 1784705131000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-dither
 alt:
   - https://github.com/clairefro/obsidian-plugin-image-dither
-downloads: 493
+downloads: 536
 updated at: "2026-05-13T22:06:33Z"
 related to:
   - "[[GitHub - 1200826926]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Intercept pasted or dropped images and dither or resize them to reduce file size while preserving transparency. Choose from multiple algorithms (Floyd‑Steinberg, blue noise, ordered, threshold, grayscale), preview compression savings live, and save optimized files with templated, deduplicated filenames."
 
     stats: {
-        downloads:  493
+        downloads:  536
         updated_at: 1778709993000
     }
 }

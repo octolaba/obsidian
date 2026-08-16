@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/onedrive-sync
 alt:
   - https://github.com/jeffsteinbok/obsidian-onedrive
-downloads: 5029
-updated at: "2026-07-24T05:57:55Z"
+downloads: 7825
+updated at: "2026-08-10T05:23:01Z"
 related to:
   - "[[GitHub - 1249690812]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync your Obsidian vault with OneDrive Personal using zero-configuration authentication and mobile-friendly Device Code Flow. Use event-driven, file-change sync for battery-efficient, bidirectional syncing with conflict resolution and App Folder or Full Access modes."
 
     stats: {
-        downloads:  5029
-        updated_at: 1784872675000
+        downloads:  7825
+        updated_at: 1786339381000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dataview-toggle
 alt:
   - https://github.com/p1tt1/obsidian-dataview-toggle
-downloads: 195
+downloads: 228
 updated at: "2026-05-06T15:42:06Z"
 related to:
   - "[[GitHub - 1204719944]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Pause and resume Dataview's automatic refresh with a single click or hotkey to stop repeated re-renders while you type. Use per-note frontmatter overrides to force refresh on or off and trigger an immediate refresh of all views when resuming."
 
     stats: {
-        downloads:  195
+        downloads:  228
         updated_at: 1778082126000
     }
 }

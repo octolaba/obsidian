@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bioread
 alt:
   - https://github.com/5ha99y0/obsidian-bionic-reader
-downloads: 45
+downloads: 108
 updated at: "2026-07-14T07:52:03Z"
 related to:
   - "[[GitHub - 1297498320]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Apply Bionic Reading anchors in Reading/Preview mode by bolding leading portions of words to create visual fixation points and speed up reading. Skip code blocks, inline code, scripts and other non-prose elements, and support desktop and mobile Obsidian."
 
     stats: {
-        downloads:  45
+        downloads:  108
         updated_at: 1784015523000
     }
 }

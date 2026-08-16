@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zhongwen-block
 alt:
   - https://github.com/0918nobita/obsidian-zhongwen-block
-downloads: 4531
+downloads: 4573
 updated at: "2025-07-07T12:49:07Z"
 related to:
   - "[[GitHub - 715476782]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Annotate Chinese code blocks with pinyin (zh-cn) or jyutping (zh-hk) as ruby text that appears on hover. Enable an option to always show pronunciations and select English or Japanese UI."
 
     stats: {
-        downloads:  4531
+        downloads:  4573
         updated_at: 1751892547000
     }
 }

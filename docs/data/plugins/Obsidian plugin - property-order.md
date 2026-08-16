@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/property-order
 alt:
   - https://github.com/zhyx91/obsidian-property-order
-downloads: 17
-updated at: "2026-07-22T22:43:41Z"
+downloads: 123
+updated at: "2026-08-03T07:44:37Z"
 related to:
   - "[[GitHub - 1309056572]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Reorder YAML frontmatter list values by dragging items within or between supported properties on desktop, writing changes back to the note and preserving or converting list formats (bracket or bullet). Customize the native property key suggestion dropdown order with pinned, bottom, hidden, mixed-language and usage-count rules so keyboard navigation follows the visible order."
 
     stats: {
-        downloads:  17
-        updated_at: 1784760221000
+        downloads:  123
+        updated_at: 1785743077000
     }
 }
 ```

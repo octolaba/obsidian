@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obisidian-note-linker
 alt:
   - https://github.com/alexw00/obsidian-note-linker
-downloads: 50707
+downloads: 51478
 updated at: "2025-12-07T18:29:56Z"
 related to:
   - "[[GitHub - 492207358]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scan your vault for references to other note names or aliases and gather suggested link targets. Present a selectable list of matches for review. Create chosen links between notes."
 
     stats: {
-        downloads:  50707
+        downloads:  51478
         updated_at: 1765132196000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/regex-line-filter
 alt:
   - https://github.com/64mm4-kn1f3/regex-line-filter
-downloads: 766
+downloads: 792
 updated at: "2025-11-29T09:09:59Z"
 related to:
   - "[[GitHub - 964504163]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Filter the active note to show only lines matching a JavaScript regular expression and edit those lines live with changes saved back to the file. Create and assign custom filters with hotkeys, reuse recent regexes and date-template variables, control empty lines and indents, and toggle the filter with a subtle editor visual indicator while copied text includes only visible lines."
 
     stats: {
-        downloads:  766
+        downloads:  792
         updated_at: 1764407399000
     }
 }

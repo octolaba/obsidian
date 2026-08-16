@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/mindmap-editor
 alt:
   - https://github.com/vulture039/obsidian-mindmap-editor
-downloads:
-updated at:
+downloads: 225
+updated at: "2026-08-09T15:42:59Z"
 related to:
   - "[[GitHub - 1308330768]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/vulture039/obsidian-mindmap-editor"
     description: "Edit your outline as a mind map, synced to Markdown. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Edit your outline as a live mind map that converts headings and bullets into nodes and syncs edits back to the original Markdown with no extra markup or file format. Rename, add, delete and drag nodes; toggle checkboxes; collapse checked tasks into summary pills; follow [[wikilinks]] and color branches."
+
+    stats: {
+        downloads:  225
+        updated_at: 1786290179000
+    }
 }
 ```
 

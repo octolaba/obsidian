@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lexicon-dictionary
 alt:
   - https://github.com/st-vin/obsidian-lexicon-dictionary-plugin
-downloads: 730
+downloads: 773
 updated at: "2026-04-28T08:55:15Z"
 related to:
   - "[[GitHub - 1070623059]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Look up WordNet dictionary definitions and insert them into notes via a lookup modal or context menu. Save words and definitions to a dedicated vocabulary file and customize how definitions are inserted. Review saved words with spaced-repetition flashcard popups for periodic practice."
 
     stats: {
-        downloads:  730
+        downloads:  773
         updated_at: 1777366515000
     }
 }

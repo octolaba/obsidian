@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/markdown-to-card
 alt:
   - https://github.com/ghh-l-djl/markdown2card
-downloads: 59
-updated at: "2026-07-17T13:54:38Z"
+downloads: 168
+updated at: "2026-08-01T13:12:23Z"
 related to:
   - "[[GitHub - 1297276616]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render active Markdown into exportable social-card images with a live multi-page preview, precise typography, and customizable backgrounds. Paginate by real card height to avoid clipping, keep images, Mermaid, code and LaTeX intact, promote tall portraits to full cards, and sync card clicks to source."
 
     stats: {
-        downloads:  59
-        updated_at: 1784296478000
+        downloads:  168
+        updated_at: 1785589943000
     }
 }
 ```

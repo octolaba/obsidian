@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/click-to-edit
 alt:
   - https://github.com/alpppine/click-to-edit
-downloads: 182
+downloads: 231
 updated at: "2026-05-22T17:48:30Z"
 related to:
   - "[[GitHub - 1246128738]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open notes in reader mode by default. Click anywhere in the rendered note to flip to edit mode with the cursor at the end, top, or as close to your click as possible. Preserve normal interactions like links, tags, checkboxes, and retain text selection while selecting."
 
     stats: {
-        downloads:  182
+        downloads:  231
         updated_at: 1779472110000
     }
 }

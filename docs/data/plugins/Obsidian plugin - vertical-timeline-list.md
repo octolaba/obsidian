@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vertical-timeline-list
 alt:
   - https://github.com/jalad25/vertical-timeline-list
-downloads: 2760
+downloads: 2903
 updated at: "2026-06-12T00:05:10Z"
 related to:
   - "[[GitHub - 957907487]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create vertical timelines from task lists by marking items with [t] and nesting date entries and details. Integrate with Dataview and Tasks to query timeline items and use the t status for filtering."
 
     stats: {
-        downloads:  2760
+        downloads:  2903
         updated_at: 1781222710000
     }
 }

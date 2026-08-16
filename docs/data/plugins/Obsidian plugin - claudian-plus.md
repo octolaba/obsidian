@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/claudian-plus
 alt:
   - https://github.com/wuyifan-code/Claudian-plus
-downloads: 312
-updated at: "2026-07-19T15:14:04Z"
+downloads: 1487
+updated at: "2026-08-10T16:09:45Z"
 related to:
   - "[[GitHub - 1304724522]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create a Codex-first AI workspace in Obsidian that unifies Codex, Claude, OpenCode and Pi while preserving local note context, provider sessions, and local memory. Use a floating conversation outline to extract questions and assistant headings, drag notes or folders to insert @path/@folder, and run vault searches to generate source-backed insights."
 
     stats: {
-        downloads:  312
-        updated_at: 1784474044000
+        downloads:  1487
+        updated_at: 1786378185000
     }
 }
 ```

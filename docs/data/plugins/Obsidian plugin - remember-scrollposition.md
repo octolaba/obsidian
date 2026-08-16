@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/remember-scrollposition
 alt:
   - https://github.com/s-blu/obsidian-remember-scrollposition
-downloads: 920
+downloads: 991
 updated at: "2026-01-08T19:12:33Z"
 related to:
   - "[[GitHub - 914569779]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save and restore per-note scroll positions to return you to where you left off when reopening notes. Restore automatically or trigger manually via the ribbon icon or command; works in Live Preview and Source (read view and mobile are not supported)."
 
     stats: {
-        downloads:  920
+        downloads:  991
         updated_at: 1767899553000
     }
 }

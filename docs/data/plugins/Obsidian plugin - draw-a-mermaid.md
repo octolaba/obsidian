@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/draw-a-mermaid
 alt:
   - https://github.com/yaye-work/obsidian-draw-a-mermaid
-downloads: 297
+downloads: 385
 updated at: "2026-06-14T07:10:25Z"
 related to:
   - "[[GitHub - 1268941864]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Draw a Mermaid gives you the freedom to: Build mermaid flowcharts visually inside Obsidian: drag blocks and connectors on a canvas, rename them inline, and let the plugin generate the mermaid code for you. A live preview renders as you build. Adds an editor to mermaid code blocks and a ribbon button."
 
     stats: {
-        downloads:  297
+        downloads:  385
         updated_at: 1781421025000
     }
 }

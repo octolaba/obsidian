@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/logcollector
 alt:
   - https://github.com/awkman00/obsidian-logcollector
-downloads: 91
+downloads: 108
 updated at: "2026-06-07T18:40:35Z"
 related to:
   - "[[GitHub - 1261361549]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Log all console output and uncaught exceptions to a note inside or outside your vault, capturing messages from async code and promises on the main thread. Write logs as NDJSON, plain text, or Markdown (table or code block), record timestamps in local or UTC, and optionally store files outside the vault to avoid vault-size issues."
 
     stats: {
-        downloads:  91
+        downloads:  108
         updated_at: 1780857635000
     }
 }

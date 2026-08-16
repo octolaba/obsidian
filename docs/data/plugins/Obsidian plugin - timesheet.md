@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/timesheet
 alt:
   - https://github.com/vkostyanetsky/ObsidianTimesheet
-downloads: 1297
-updated at: "2025-07-26T18:12:28Z"
+downloads: 1397
+updated at: "2026-08-02T01:20:58Z"
 related to:
   - "[[GitHub - 776892775]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Generate timesheets from tasks in daily notes and group time by issue identifiers (e.g., JIRA-style ABC-123). Insert a timesheet code block to produce grouped, rounded totals and list task descriptions for quick reporting or logging."
 
     stats: {
-        downloads:  1297
-        updated_at: 1753553548000
+        downloads:  1397
+        updated_at: 1785633658000
     }
 }
 ```

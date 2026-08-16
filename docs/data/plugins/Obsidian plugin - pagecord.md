@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pagecord
 alt:
   - https://github.com/lylo/obsidian-pagecord
-downloads: 199
+downloads: 219
 updated at: "2026-06-20T22:22:42Z"
 related to:
   - "[[GitHub - 1174776379]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish notes from Obsidian to your Pagecord blog with a single command. Read frontmatter for title, slug, tags and status, upload embedded images automatically, and create or update posts and drafts tracked via frontmatter."
 
     stats: {
-        downloads:  199
+        downloads:  219
         updated_at: 1781994162000
     }
 }

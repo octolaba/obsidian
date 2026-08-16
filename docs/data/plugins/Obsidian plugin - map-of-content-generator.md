@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/map-of-content-generator
 alt:
   - https://github.com/danybeam/map-of-content-generator
-downloads: 100
+downloads: 111
 updated at: "2026-05-19T15:05:51Z"
 related to:
   - "[[GitHub - 1230975799]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate pre-filtered Maps of Content (MOCs) from a chosen folder and automatically create or update root and child MOC notes. Automate generation on startup or run manually and optionally remove empty subfolders after each run."
 
     stats: {
-        downloads:  100
+        downloads:  111
         updated_at: 1779203151000
     }
 }

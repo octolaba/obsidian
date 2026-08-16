@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mimocode
 alt:
   - https://github.com/kxwu222/mimocode-obsidian
-downloads: 117
+downloads: 138
 updated at: "2026-06-30T19:37:11Z"
 related to:
   - "[[GitHub - 1285046068]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with Xiaomi MiMo AI from your vault sidebar. Supports prompt tuning, MCP tool use, conversation history, multi-tab sessions, and image attachments."
 
     stats: {
-        downloads:  117
+        downloads:  138
         updated_at: 1782848231000
     }
 }

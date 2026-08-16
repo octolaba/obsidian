@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-periodic-notes
 alt:
   - https://github.com/andrewheekin/obsidian-folder-periodic-notes
-downloads: 2095
+downloads: 2119
 updated at: "2024-07-14T16:09:39Z"
 related to:
   - "[[GitHub - 794129708]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and organize periodic notes in a year/month/day folder hierarchy, placing yearly notes at the top, monthly folders inside years, and daily/weekly notes inside months. Create year and month notes automatically when opening or creating a daily note. Open or create weekly, monthly, or yearly notes by entering the week number, month, or year."
 
     stats: {
-        downloads:  2095
+        downloads:  2119
         updated_at: 1720973379000
     }
 }

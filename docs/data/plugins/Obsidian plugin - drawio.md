@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/drawio
 alt:
   - https://github.com/somesanity/draw-io-obsidian
-downloads: 41996
+downloads: 45674
 updated at: "2026-06-12T00:44:34Z"
 related to:
   - "[[GitHub - 993193848]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and edit draw.io diagrams directly inside Obsidian using a local offline web server. Link shapes to notes and external URLs, attach markdown fragments, and add Mermaid or LaTeX content. Insert interactive diagrams into Canvas and export them to PDF."
 
     stats: {
-        downloads:  41996
+        downloads:  45674
         updated_at: 1781225074000
     }
 }

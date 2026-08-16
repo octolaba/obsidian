@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chronoboard
 alt:
   - https://github.com/emberleif/Chronoboard
-downloads: 361
+downloads: 407
 updated at: "2026-06-16T16:08:54Z"
 related to:
   - "[[GitHub - 1267811188]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize and manage time directly in your Markdown notes with a draggable day, week, and month board that records entries into each note's frontmatter. Create, resize, move, recolor, and edit time blocks, view scoped totals and statistics, and pin static notes like meetings for continuous tracking."
 
     stats: {
-        downloads:  361
+        downloads:  407
         updated_at: 1781626134000
     }
 }

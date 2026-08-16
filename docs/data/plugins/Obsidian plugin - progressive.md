@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/progressive
 alt:
   - https://github.com/kelen-argosi/progressive
-downloads: 292
+downloads: 344
 updated at: "2026-05-12T19:17:06Z"
 related to:
   - "[[GitHub - 1049674863]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show a persistent progress bar in the file explorer to track the percentage of completed tasks across your notes. Track daily, weekly, monthly or custom notes and choose latest, today’s, or all notes in a folder, with theme-aware 12-level color gradients or black/white modes that update automatically."
 
     stats: {
-        downloads:  292
+        downloads:  344
         updated_at: 1778613426000
     }
 }

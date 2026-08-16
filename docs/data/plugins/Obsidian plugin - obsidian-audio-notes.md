@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-audio-notes
 alt:
   - https://github.com/jjmaldonis/obsidian-audio-notes
-downloads: 28448
+downloads: 28641
 updated at: "2023-05-02T16:51:24Z"
 related to:
   - "[[GitHub - 572160382]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create time-synced audio callouts that embed an audio player and capture quoted excerpts from podcasts or other audio files. Auto-generate quotes from transcripts, set start/end times and playback speed, and enable live updating so notes follow playback."
 
     stats: {
-        downloads:  28448
+        downloads:  28641
         updated_at: 1683046284000
     }
 }

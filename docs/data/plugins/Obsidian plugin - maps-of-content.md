@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/maps-of-content
 alt:
   - https://github.com/mkshp-dev/obsidian-MOC-plugin
-downloads: 305
+downloads: 364
 updated at: "2026-06-30T20:58:07Z"
 related to:
   - "[[GitHub - 1226021550]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate MOC indexes by extracting lists, tasks, headings, paragraphs, or blockquotes that match words, tags, regexes or task completion across a folder. Insert a moc code block to render linked source headers and the matching elements, replacing the block with the live index in preview."
 
     stats: {
-        downloads:  305
+        downloads:  364
         updated_at: 1782853087000
     }
 }

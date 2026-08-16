@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/timeline-canvas-creator
 alt:
   - https://github.com/chris-codes1/timeline-canvas-creator
-downloads: 1811
+downloads: 1849
 updated at: "2025-06-08T19:10:17Z"
 related to:
   - "[[GitHub - 997448616]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create timeline-structured canvases by specifying a start date, end date, and interval to auto-place evenly spaced date cards. Generate timelines quickly and lay out events or periods across the canvas for visual chronological planning."
 
     stats: {
-        downloads:  1811
+        downloads:  1849
         updated_at: 1749409817000
     }
 }

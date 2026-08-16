@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/fuzzy-note-creator
 alt:
   - https://github.com/halogamer33/Obsidian-Fuzzy-Note-Creator
-downloads: 932
+downloads: 976
 updated at: "2024-11-12T21:49:54Z"
 related to:
   - "[[GitHub - 783099724]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create new notes quickly using a fuzzy search to select destination folders and enter titles. Open notes in new tabs, the current tab, new windows or split panes; use bulk mode to create multiple files and include slashes in titles to auto-create parent folders."
 
     stats: {
-        downloads:  932
+        downloads:  976
         updated_at: 1731448194000
     }
 }

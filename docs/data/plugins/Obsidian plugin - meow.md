@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/meow
 alt:
   - https://github.com/davidmjchoi/obsidian-meow
-downloads: 35
+downloads: 49
 updated at: "2026-07-01T02:58:59Z"
 related to:
   - "[[GitHub - 1280007297]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "- Polish selected text with an LLM and preview diffs. Command Meow: Polish selected text - Ask quick questions in a lightweight Q&A modal. Command Meow: Aska a quick question - Cat girl mode for otakus. Use any OpenAI-compatible endpoint; selected text or prompts are sent to the configured LLM."
 
     stats: {
-        downloads:  35
+        downloads:  49
         updated_at: 1782874739000
     }
 }

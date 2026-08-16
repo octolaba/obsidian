@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-reader
 alt:
   - https://github.com/maverickhq/obsidian-vault-reader
-downloads: 35
+downloads: 44
 updated at: "2026-07-04T11:52:14Z"
 related to:
   - "[[GitHub - 1275953900]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Read long notes in a calm side-panel reader while keeping the original Markdown visible. Control WPM, text size, panel zoom and ORP focus, resume per-note progress, and optionally highlight the current word in the note with yellow, orange, or blue — all local, with no accounts or network calls."
 
     stats: {
-        downloads:  35
+        downloads:  44
         updated_at: 1783165934000
     }
 }

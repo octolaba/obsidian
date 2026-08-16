@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/alpha-bullet
 alt:
   - https://github.com/mara-li/obsidian-alpha-bullet
-downloads: 2251
+downloads: 2380
 updated at: "2025-10-20T17:41:30Z"
 related to:
   - "[[GitHub - 986109163]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sort unordered Markdown lists using natural-order sorting so items like item2 come before item10. Choose ascending or descending order, optionally group items under initial-letter headings, and enable per-file auto-sorting via YAML frontmatter; includes plugin-wide defaults and English/French localization."
 
     stats: {
-        downloads:  2251
+        downloads:  2380
         updated_at: 1760982090000
     }
 }

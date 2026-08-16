@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-math-plus
 alt:
   - https://github.com/ocapraro/obsidian-math-plus
-downloads: 47697
+downloads: 48141
 updated at: "2024-01-27T16:23:22Z"
 related to:
   - "[[GitHub - 478708391]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert math blocks that render LaTeX or intuitively typed equations into formatted math. Annotate equations with an Excalidraw overlay and save drawings as SVG. Define custom shortcuts to auto-convert typed patterns into LaTeX for faster note-taking."
 
     stats: {
-        downloads:  47697
+        downloads:  48141
         updated_at: 1706372602000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/qreview
 alt:
   - https://github.com/bitcoming/quick_review_clean
-downloads: 95
+downloads: 104
 updated at: "2026-06-24T01:05:16Z"
 related to:
   - "[[GitHub - 1275976846]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Review and polish notes with multiple configurable agents that check facts, improve wording, suggest expansions, link related concepts, and restructure content. Run on a selection or the whole note, view results in a detachable review panel with threaded follow-ups, and apply one-click edits back into the editor."
 
     stats: {
-        downloads:  95
+        downloads:  104
         updated_at: 1782263116000
     }
 }

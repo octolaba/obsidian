@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/code-import
 alt:
   - https://github.com/yhao3/obsidian-code-import
-downloads: 79
+downloads: 97
 updated at: "2026-07-01T05:38:45Z"
 related to:
   - "[[GitHub - 1135495182]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import external code files into your notes using @import syntax (compatible with Markdown Preview Enhanced). Select specific line ranges, use relative paths (including ../), and display imported code with automatic syntax highlighting in Reading View."
 
     stats: {
-        downloads:  79
+        downloads:  97
         updated_at: 1782884325000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mathify-notes
 alt:
   - https://github.com/katananananna/obsidian-mathify-notes
-downloads: 52
+downloads: 119
 updated at: "2026-07-15T09:23:21Z"
 related to:
   - "[[GitHub - 1300308154]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Automatically converts raw text into beautiful formatting the moment you press Space: H2O ➔ H₂O (Chemistry) | 1/2 ➔ ½ (Fractions) | sqrt(x) ➔ √x (Roots) | pi ➔ π (Greek) Write formulas, variables, and symbols naturally without ever typing manual LaTeX or wrapping your text in dollar signs."
 
     stats: {
-        downloads:  52
+        downloads:  119
         updated_at: 1784107401000
     }
 }

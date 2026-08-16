@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-tag
 alt:
   - https://github.com/ctrlaltfocus/obsidian-plugin-auto-tag
-downloads: 9079
+downloads: 9204
 updated at: "2023-11-19T19:50:35Z"
 related to:
   - "[[GitHub - 672344995]]"
@@ -36,7 +36,7 @@ plugin: {
     description: "Easily generate relevant tags for your notes or selected text."
 
     stats: {
-        downloads:  9079
+        downloads:  9204
         updated_at: 1700423435000
     }
 }

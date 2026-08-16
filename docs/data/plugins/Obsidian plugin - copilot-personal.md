@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copilot-personal
 alt:
   - https://github.com/josefbelzer/Copilot-Personal
-downloads: 366
+downloads: 447
 updated at: "2026-07-11T09:46:52Z"
 related to:
   - "[[GitHub - 1254480522]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with a multimodal AI assistant using real-time streaming across 11 LLM providers (OpenAI, Anthropic, Gemini, DeepSeek, Mistral, Groq, xAI, OpenRouter, Perplexity, LM Studio, plus Copilot AI built-in). Run autonomous agents with 17 tools including smart anti-loop detection, plan verification, keyword narrowing, and custom instructions. Perform semantic RAG search with vault-wide embeddings, extract text and images from PDFs, search the web, process entire folders of notes with batch commands, search through saved chat history, manage conversations with list/load, and pop out the chat window to work alongside Obsidian. Free trial: 5 Copilot AI queries/day with no API key required. All provider model lists are complete and up-to-date (OpenAI: 27, Anthropic: 11, Gemini: 16, Mistral: 20, Groq: 11, xAI: 9, Perplexity: 5, DeepSeek: 8, OpenRouter: ~85 models each)."
 
     stats: {
-        downloads:  366
+        downloads:  447
         updated_at: 1783763212000
     }
 }

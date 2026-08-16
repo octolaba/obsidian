@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/oz-clear-unused-images
 alt:
   - https://github.com/ozntel/oz-clear-unused-images-obsidian
-downloads: 147718
+downloads: 150014
 updated at: "2024-08-20T20:53:27Z"
 related to:
   - "[[GitHub - 363517939]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Clear unused image files by scanning all markdown links and removing image files not referenced anywhere in your vault. Move deletions to Obsidian trash, system trash, or delete permanently, and exclude folders from scans to protect assets."
 
     stats: {
-        downloads:  147718
+        downloads:  150014
         updated_at: 1724187207000
     }
 }

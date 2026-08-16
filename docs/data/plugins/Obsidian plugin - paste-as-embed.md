@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/paste-as-embed
 alt:
   - https://github.com/i-m-mll/obsidian-paste-as-embed
-downloads: 406
+downloads: 418
 updated at: "2024-07-22T18:56:21Z"
 related to:
   - "[[GitHub - 828335211]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Intercept pasted text and test it against your regex rules. When a rule matches, create a new note from the pasted content (optionally via a template), save it to the specified folder/name, and embed that note inline; otherwise paste normally."
 
     stats: {
-        downloads:  406
+        downloads:  418
         updated_at: 1721674581000
     }
 }

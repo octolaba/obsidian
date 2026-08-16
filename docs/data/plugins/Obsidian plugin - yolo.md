@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/yolo
 alt:
   - https://github.com/lapis0x0/obsidian-yolo
-downloads: 69658
-updated at: "2026-07-22T09:55:45Z"
+downloads: 76754
+updated at: "2026-08-09T14:13:26Z"
 related to:
   - "[[GitHub - 994995137]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Turn your Vault into an AI workspace for chat, writing, knowledge-base Q&A, and task orchestration. Run Agent mode to let the assistant call tools, edit files, execute reusable skills, and run multi-window chats with inline Quick Ask and RAG-backed knowledge for smarter answers."
 
     stats: {
-        downloads:  69658
-        updated_at: 1784714145000
+        downloads:  76754
+        updated_at: 1786284806000
     }
 }
 ```

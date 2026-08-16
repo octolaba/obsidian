@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-without-links
 alt:
   - https://github.com/adiron/obsidian-strip-internal-links
-downloads: 2496
+downloads: 2507
 updated at: "2024-02-05T10:02:10Z"
 related to:
   - "[[GitHub - 735722112]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Strip internal Obsidian links from the current file or selection while preserving external links. Replace the content in-place or copy the cleaned Markdown to the clipboard."
 
     stats: {
-        downloads:  2496
+        downloads:  2507
         updated_at: 1707127330000
     }
 }

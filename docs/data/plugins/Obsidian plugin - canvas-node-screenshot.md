@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-node-screenshot
 alt:
   - https://github.com/cestfredy/obsidian-canvas-node-screenshot
-downloads: 2437
+downloads: 2486
 updated at: "2024-03-03T02:49:11Z"
 related to:
   - "[[GitHub - 757562203]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture screenshots of individual Canvas nodes in Obsidian. Save images directly to a chosen folder from the Canvas menu for quick export and reuse."
 
     stats: {
-        downloads:  2437
+        downloads:  2486
         updated_at: 1709434151000
     }
 }

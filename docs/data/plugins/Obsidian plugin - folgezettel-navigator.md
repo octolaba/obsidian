@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/folgezettel-navigator
 alt:
   - https://github.com/cutuchiqueno/obsidian-folgezettel-navigator
-downloads:
-updated at:
+downloads: 53
+updated at: "2026-07-24T14:23:58Z"
 related to:
   - "[[GitHub - 1311075290]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/cutuchiqueno/obsidian-folgezettel-navigator"
     description: "Visualize and navigate a Luhmann-style Folgezettel note sequence in a sidebar panel. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Display the Folgezettel sequence for the active note in a sidebar and navigate it branch by branch. Read continuation wikilinks from a frontmatter list (default: folgezettel) to show previous notes, next notes, and forks, deriving reverse links automatically so you only maintain forward connections."
+
+    stats: {
+        downloads:  53
+        updated_at: 1784903038000
+    }
 }
 ```
 

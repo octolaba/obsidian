@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/podnotes
 alt:
   - https://github.com/chhoumann/PodNotes
-downloads: 61705
+downloads: 62818
 updated at: "2026-07-11T13:42:02Z"
 related to:
   - "[[GitHub - 509718793]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Play podcasts in Obsidian with a mobile-friendly player; add shows by search or feed URL, download episodes, or use local audio files for offline listening. Create episode notes from templates with metadata, track playback progress, capture timestamped links to moments in the audio, and expose an API for automation with QuickAdd or Templater."
 
     stats: {
-        downloads:  61705
+        downloads:  62818
         updated_at: 1783777322000
     }
 }

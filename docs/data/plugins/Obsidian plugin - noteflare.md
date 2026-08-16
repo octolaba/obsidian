@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/noteflare
 alt:
   - https://github.com/thansheer/obsidian-noteflare
-downloads: 14
+downloads: 36
 updated at: "2026-07-20T17:00:40Z"
 related to:
   - "[[GitHub - 1289751357]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish your Obsidian vault, a folder, or a single note as a static website or private backup without using a terminal or managing backend services. Deploy via Cloudflare Pages or GitHub Pages, create automated one-way GitHub backups, manage multiple sites from one vault, and keep API tokens encrypted in your OS keychain."
 
     stats: {
-        downloads:  14
+        downloads:  36
         updated_at: 1784566840000
     }
 }

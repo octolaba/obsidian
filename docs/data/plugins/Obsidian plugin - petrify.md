@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/petrify
 alt:
   - https://github.com/jo-minjun/petrify
-downloads: 333
+downloads: 431
 updated at: "2026-02-13T07:31:02Z"
 related to:
   - "[[GitHub - 1148732821]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert handwritten notes into searchable Excalidraw or Markdown files in your Obsidian vault using OCR. Preserve handwriting on Excalidraw canvases or extract text for search, linking, and annotation; supports Viwoods (.note), Supernote X-series (.note), and PDFs."
 
     stats: {
-        downloads:  333
+        downloads:  431
         updated_at: 1770967862000
     }
 }

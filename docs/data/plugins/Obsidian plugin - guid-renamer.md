@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/guid-renamer
 alt:
   - https://github.com/taskscape/ObsidianUniqueFileName
-downloads: 474
+downloads: 488
 updated at: "2024-05-23T13:12:43Z"
 related to:
   - "[[GitHub - 799644818]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Rename the selected file to a GUID-style unique filename with a right-click. Prevent naming conflicts by replacing human-readable titles (e.g., My Note.md) with globally unique identifiers like 123e4567-e89b-12d3-a456-426614174000.md."
 
     stats: {
-        downloads:  474
+        downloads:  488
         updated_at: 1716469963000
     }
 }

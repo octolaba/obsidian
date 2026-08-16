@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/liefwork
 alt:
   - https://github.com/phoelectrix/liefwork-obsidian
-downloads: 6
-updated at: "2026-07-24T00:24:43Z"
+downloads: 81
+updated at: "2026-08-05T04:43:19Z"
 related to:
   - "[[GitHub - 1309328518]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Your vault has a shape — the file tree just can't show it. Folders organise, but they also conceal. Liefwork brings an entirely new metaphor. It renders any folder as a \"coral\": every subfolder becomes a branch, every file a \"lief\" – all visible in one navigable shape. One glance gives you the whole project — its size, its substructure, its active tips. Navigate hundreds of notes by shape - perfect for visual learners: pan, zoom, click a lief to read it right there, grow new branches in place, with nothing ever overlapping. Then put the shape to work. The Liefwork Memory System turns corals into living project memory for AI-assisted work: launch a colour-coded agent terminal* on any branch (Claude Code and friends — your own subscription, no API key) and its work takes root as notes you both share. Agent memory stops being a black box; it's a coral you can read, prune, and grow. Nothing is copied or converted — the coral IS your data. Free for everyone. *Needs Terminal plugin"
 
     stats: {
-        downloads:  6
-        updated_at: 1784852683000
+        downloads:  81
+        updated_at: 1785904999000
     }
 }
 ```

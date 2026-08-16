@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/noesis
 alt:
   - https://github.com/sebastianbrightly/Noesis
-downloads: 85
+downloads: 98
 updated at: "2026-06-30T15:42:43Z"
 related to:
   - "[[GitHub - 1281745987]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn your Obsidian vault into a conversational assistant that answers directly from your notes using local LLMs or compatible external APIs. Preserve privacy by running models locally or using user-managed endpoints—no external telemetry, analytics, or tracking."
 
     stats: {
-        downloads:  85
+        downloads:  98
         updated_at: 1782834163000
     }
 }

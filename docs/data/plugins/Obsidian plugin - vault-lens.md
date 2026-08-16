@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-lens
 alt:
   - https://github.com/leo-su-zhan/obsidian-vault-lens
-downloads: 1422
+downloads: 2448
 updated at: "2026-07-20T05:42:58Z"
 related to:
   - "[[GitHub - 1270099587]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview DOCX, XLSX, PPTX and 60+ code/text file types directly inside Obsidian, preserving layout, images, tables and spreadsheet formatting. Zoom and pan documents, edit text/code with line numbers and save changes, and switch sheets for multi-sheet Excel files."
 
     stats: {
-        downloads:  1422
+        downloads:  2448
         updated_at: 1784526178000
     }
 }

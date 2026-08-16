@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cicada-sync
 alt:
   - https://github.com/adapole/cicada-sync
-downloads: 1241
+downloads: 1252
 updated at: "2024-03-11T16:43:24Z"
 related to:
   - "[[GitHub - 768834840]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your vault to a remote Git repository with a single Sync button that handles commits, pulls, and pushes. Switch branches or create and push new branches from within Obsidian without running Git commands."
 
     stats: {
-        downloads:  1241
+        downloads:  1252
         updated_at: 1710175404000
     }
 }

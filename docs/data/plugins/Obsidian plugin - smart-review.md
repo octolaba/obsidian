@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-review
 alt:
   - https://github.com/jaycelu/Smart-Review
-downloads: 293
+downloads: 323
 updated at: "2026-06-29T06:13:06Z"
 related to:
   - "[[GitHub - 1252880574]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Build review queues from YAML frontmatter (next_review) and run spaced-review sessions directly inside Obsidian. Record feedback (again, hard, good, easy), write review metadata back to note frontmatter, append events to review-history.jsonl, and export AI review-card payloads or generate daily review Markdown."
 
     stats: {
-        downloads:  293
+        downloads:  323
         updated_at: 1782713586000
     }
 }

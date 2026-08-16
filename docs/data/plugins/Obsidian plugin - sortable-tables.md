@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sortable-tables
 alt:
   - https://github.com/filippov112/obsidian-sortable-tables
-downloads: 6517
+downloads: 6832
 updated at: "2025-06-25T00:06:08Z"
 related to:
   - "[[GitHub - 1008036630]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sort tables in preview mode by clicking column headers to toggle ascending and descending order. Add secondary and tertiary sorting with Shift+click while preserving the original Markdown (sorting applies only in preview)."
 
     stats: {
-        downloads:  6517
+        downloads:  6832
         updated_at: 1750809968000
     }
 }

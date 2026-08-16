@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/highlight-non-ascii
 alt:
   - https://github.com/saltyfireball/obsidian-highlight-non-ascii
-downloads: 151
+downloads: 192
 updated at: "2026-05-18T18:10:54Z"
 related to:
   - "[[GitHub - 1167030122]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight characters outside the ASCII range in Edit Mode (Live Preview) and optionally in Reading View with a visible background to reveal invisible or special Unicode. Auto-replace common non-ASCII characters with configurable find/replace rules, set an allowlist and per-note control, and view a status-bar counter."
 
     stats: {
-        downloads:  151
+        downloads:  192
         updated_at: 1779127854000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/trietment-kanban
 alt:
   - https://github.com/trietment/obsidian-kanban
-downloads: 742
-updated at: "2026-07-18T06:28:13Z"
+downloads: 993
+updated at: "2026-07-28T15:31:47Z"
 related to:
   - "[[GitHub - 1251422208]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "A Kanban board for the markdown-checkbox tasks across your vault. Group with #project/name and add due dates, recurrence, priorities and subtasks with a progress badge. Link or create a note per card, and move today's and overdue tasks automatically."
 
     stats: {
-        downloads:  742
-        updated_at: 1784356093000
+        downloads:  993
+        updated_at: 1785252707000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mdfriday
 alt:
   - https://github.com/mdfriday/obsidian-friday-plugin
-downloads: 5426
+downloads: 5474
 updated at: "2026-05-27T09:02:35Z"
 related to:
   - "[[GitHub - 873625957]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and publish Markdown websites and documentation from Obsidian using ready-made themes and templates for blogs, resumes, slides, and landing pages. Sync notes across devices, publish instantly to a hosted or self‑hosted Friday instance, and retain full ownership of your content."
 
     stats: {
-        downloads:  5426
+        downloads:  5474
         updated_at: 1779872555000
     }
 }

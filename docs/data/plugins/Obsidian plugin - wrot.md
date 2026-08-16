@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/wrot
 alt:
   - https://github.com/villyoshioka/Wrot
-downloads: 2594
-updated at: "2026-07-14T06:38:39Z"
+downloads: 2881
+updated at: "2026-08-06T12:17:54Z"
 related to:
   - "[[GitHub - 1204982278]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Wrot is where \"Write\" meets \"Jot.\" It’s a lightweight micro-journaling plugin for Obsidian, designed to catch those quiet thoughts and daily reflections as they come to you. It has the same easy, familiar flow of a social media feed, but it’s a private space that’s entirely yours—free from algorithms and distractions. Every short post is saved directly into your daily notes, so you can search, link, and look back on your day whenever you like. With a rich editor, a clean timeline, and simple color-coded tags, Wrot helps you keep your thoughts organized without any extra effort. It’s more than just a tool for notes; it’s a way to make Obsidian feel like a natural, quiet companion to your daily life."
 
     stats: {
-        downloads:  2594
-        updated_at: 1784011119000
+        downloads:  2881
+        updated_at: 1786018674000
     }
 }
 ```

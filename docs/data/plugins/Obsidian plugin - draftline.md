@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/draftline
 alt:
   - https://github.com/noahzender/draftline
-downloads: 39
+downloads: 74
 updated at: "2026-07-19T02:02:44Z"
 related to:
   - "[[GitHub - 1305215290]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create manual Markdown snapshots that live inside the note as structured callouts so version history travels with the file and become accessible to an agent. Switch any snapshot into the editable note body and show inline comparisons with green additions and red strikethrough deletions."
 
     stats: {
-        downloads:  39
+        downloads:  74
         updated_at: 1784426564000
     }
 }

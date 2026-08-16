@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/frontmatter-markdown-links
 alt:
   - https://github.com/mnaoumov/obsidian-frontmatter-markdown-links
-downloads: 15924
-updated at: "2026-07-22T04:00:56Z"
+downloads: 16896
+updated at: "2026-08-08T18:23:11Z"
 related to:
   - "[[GitHub - 900138043]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add support for Markdown links in frontmatter and make them clickable in Source, Live Preview, and Reading modes. Enable backlink tracking and handle internal, external, and embedded link formats, including aliases, angle-bracket URLs, and filenames with spaces."
 
     stats: {
-        downloads:  15924
-        updated_at: 1784692856000
+        downloads:  16896
+        updated_at: 1786213391000
     }
 }
 ```

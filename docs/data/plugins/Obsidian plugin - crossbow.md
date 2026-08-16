@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/crossbow
 alt:
   - https://github.com/shoedler/crossbow
-downloads: 8579
+downloads: 8609
 updated at: "2023-11-07T18:22:00Z"
 related to:
   - "[[GitHub - 547784875]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Suggest link targets for headings, tags, and files based on words in your active note and rank matches using Obsidian's internal cache. Display occurrences in a sidebar, let you jump to matches, and insert ranked links with optional display text."
 
     stats: {
-        downloads:  8579
+        downloads:  8609
         updated_at: 1699381320000
     }
 }

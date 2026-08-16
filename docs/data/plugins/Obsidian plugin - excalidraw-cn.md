@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/excalidraw-cn
 alt:
   - https://github.com/korbinzhao/obsidian-excalidraw-cn-plugin
-downloads: 22877
+downloads: 23296
 updated at: "2023-07-08T15:15:53Z"
 related to:
   - "[[GitHub - 659145685]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create hand-drawn whiteboards with a built-in Chinese handwritten font and the full Excalidraw feature set. Link shapes to Obsidian notes with double links, add table, mind map and markdown cards, use multi-canvas layouts, cloud storage and custom fonts."
 
     stats: {
-        downloads:  22877
+        downloads:  23296
         updated_at: 1688829353000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/proton-integration
 alt:
   - https://github.com/yunusey/obsidian-proton-integration
-downloads: 278
-updated at: "2026-06-25T18:22:14Z"
+downloads: 520
+updated at: "2026-08-03T22:21:44Z"
 related to:
   - "[[GitHub - 1272539414]]"
 remind me:
@@ -28,7 +28,7 @@ Connects Obsidian to Proton Drive through a browser sign-in so that Proton files
 plugin: {
     id:     "proton-integration"
     name:   "Proton Drive Integration"
-    author: "Yunus"
+    author: "yunusey"
     repo:   "yunusey/obsidian-proton-integration"
 
     html_url:    "https://community.obsidian.md/plugins/proton-integration"
@@ -37,8 +37,8 @@ plugin: {
     about:       "Connect Obsidian to Proton Drive via browser sign-in and access your Proton files inside notes. Embed images, videos, PDFs, plain text and Markdown in reading view using stable node-UID links (proton-drive:///volumeId~nodeId) or paste drive links."
 
     stats: {
-        downloads:  278
-        updated_at: 1782411734000
+        downloads:  520
+        updated_at: 1785795704000
     }
 }
 ```

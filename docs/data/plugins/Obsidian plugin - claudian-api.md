@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/claudian-api
 alt:
   - https://github.com/virbird/LLM_Private_Teacher
-downloads: 259
-updated at: "2026-07-23T09:10:04Z"
+downloads: 348
+updated at: "2026-08-01T01:44:47Z"
 related to:
   - "[[GitHub - 1279755006]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Embed an AI study assistant in the Obsidian sidebar and chat with Anthropic, OpenAI, or OpenAI‑compatible models while keeping API keys local. Select any Markdown note as study material, choose tutoring roles and guided commands, quote vault files into chat, save conversations, and run SM‑2 spaced‑repetition flashcards with an error notebook for focused review."
 
     stats: {
-        downloads:  259
-        updated_at: 1784797804000
+        downloads:  348
+        updated_at: 1785548687000
     }
 }
 ```

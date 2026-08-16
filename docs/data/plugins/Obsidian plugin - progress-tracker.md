@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/progress-tracker
 alt:
   - https://github.com/vannamhh/progress-tracker
-downloads: 6203
+downloads: 6523
 updated at: "2026-02-09T11:35:49Z"
 related to:
   - "[[GitHub - 949359388]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track task progress in real time with a visual progress bar that updates as you check or uncheck Markdown checkboxes. Integrate with Kanban boards to automatically move cards and map custom checkbox states to columns for streamlined task workflows."
 
     stats: {
-        downloads:  6203
+        downloads:  6523
         updated_at: 1770636949000
     }
 }

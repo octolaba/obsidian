@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-to-wechat
 alt:
   - https://github.com/syw2014/obsidian-copy-to-wechat
-downloads: 94
+downloads: 111
 updated at: "2026-06-23T05:43:22Z"
 related to:
   - "[[GitHub - 1270918779]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy notes to WeChat as chat-friendly plain text or as a rendered PNG image on the clipboard. Convert Markdown into WeChat-ready text: map headings to bracketed titles, turn lists into indented bullets, convert links to text(url) and images to [图片：alt], or render the note with article-style formatting preserved."
 
     stats: {
-        downloads:  94
+        downloads:  111
         updated_at: 1782193402000
     }
 }

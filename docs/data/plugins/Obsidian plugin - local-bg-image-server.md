@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/local-bg-image-server
 alt:
   - https://github.com/coldhan258/obsidian-local-bg-image-server
-downloads: 146
+downloads: 184
 updated at: "2026-06-05T07:47:47Z"
 related to:
   - "[[GitHub - 1260065329]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Serve local images for Obsidian Desktop via a lightweight HTTP server that maps a folder to http:// URLs usable in Obsidian wallpaper settings. Keep all traffic local with zero uploads, preview images with one-click URL copy, and auto-increment ports on conflicts."
 
     stats: {
-        downloads:  146
+        downloads:  184
         updated_at: 1780645667000
     }
 }

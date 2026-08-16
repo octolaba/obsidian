@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-connections
 alt:
   - https://github.com/goberomsu/open-connections
-downloads: 1424
+downloads: 1596
 updated at: "2026-05-22T06:25:00Z"
 related to:
   - "[[GitHub - 1148909530]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Discover semantically related notes and search your vault by meaning, not just keywords. Run local embeddings on-device with zero API keys or connect to OpenAI, Gemini, Ollama and others, view live Connections, and keep embeddings cached locally for speed and privacy."
 
     stats: {
-        downloads:  1424
+        downloads:  1596
         updated_at: 1779431100000
     }
 }

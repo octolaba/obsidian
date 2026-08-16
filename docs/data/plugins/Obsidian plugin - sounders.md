@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/sounders
 alt:
   - https://github.com/razzdol/obsidian-sounders
-downloads: 134
-updated at: "2026-07-17T14:07:01Z"
+downloads: 200
+updated at: "2026-08-01T14:50:52Z"
 related to:
   - "[[GitHub - 1282278899]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Play audio from a sidebar button — left-click to play the next track or right-click to open the player and settings. Add files or import folders into playlists, set custom track order, and control shuffle, repeat, seeking, and volume."
 
     stats: {
-        downloads:  134
-        updated_at: 1784297221000
+        downloads:  200
+        updated_at: 1785595852000
     }
 }
 ```

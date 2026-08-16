@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-hider
 alt:
   - https://github.com/kepano/obsidian-hider
-downloads: 426858
-updated at: "2026-05-12T02:04:33Z"
+downloads: 440892
+updated at: "2026-08-06T19:12:52Z"
 related to:
   - "[[GitHub - 312877645]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Hide unwanted Obsidian UI elements: app ribbon, tab bar, status bar, vault name, scrollbars, search suggestions, search counts, tooltips, prompt instructions, and reading-view metadata."
 
     stats: {
-        downloads:  426858
-        updated_at: 1778551473000
+        downloads:  440892
+        updated_at: 1786043572000
     }
 }
 ```

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/operon
 alt:
   - https://github.com/hasanyilmaz/operon
-downloads: 9572
-updated at: "2026-07-22T19:42:39Z"
+downloads: 21593
+updated at: "2026-08-09T20:19:24Z"
 related to:
   - "[[GitHub - 1244050587]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Operon brings inline tasks and file-based tasks into one task and project management system. Quick tasks can stay inside your notes, and larger work can be managed as file-based tasks. Both approaches can move through the same workflows with Tables, Filters, Calendar planning, Kanban boards, recurrence, pinned workflows, and time tracking. Stable identity and agent-friendly structure keep tasks reliable across views, links, metadata, and automation."
 
     stats: {
-        downloads:  9572
-        updated_at: 1784749359000
+        downloads:  21593
+        updated_at: 1786306764000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/video-embed
 alt:
   - https://github.com/punkyard/obsidian-video-embed
-downloads: 581
+downloads: 705
 updated at: "2026-06-24T23:01:05Z"
 related to:
   - "[[GitHub - 1215481315]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Paste a YouTube link on an empty line to automatically convert it into your chosen embed format (markdown, iframe, or div) — no command no shortcut."
 
     stats: {
-        downloads:  581
+        downloads:  705
         updated_at: 1782342065000
     }
 }

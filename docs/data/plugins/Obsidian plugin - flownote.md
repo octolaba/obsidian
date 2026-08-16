@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/flownote
 alt:
   - https://github.com/1095327780/FLOWnote
-downloads: 1773
+downloads: 1950
 updated at: "2026-07-13T06:05:28Z"
 related to:
   - "[[GitHub - 1160038059]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "FLOWnote turns Obsidian into an AI-powered note workspace. Open the plugin to see a dashboard home with today’s note, focus, tasks, progress, recent activity, project tracking, knowledge metrics, and an activity heatmap. Capture ideas quickly on desktop or mobile, clean up spoken notes with AI, and send text into Obsidian through iOS Shortcuts. Use the built-in chat workspace and skill pack to plan your day, create notes, process captures, review progress, manage projects, and turn scattered ideas into connected knowledge."
 
     stats: {
-        downloads:  1773
+        downloads:  1950
         updated_at: 1783922728000
     }
 }

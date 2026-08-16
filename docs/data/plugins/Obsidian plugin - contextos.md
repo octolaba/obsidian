@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/contextos
 alt:
   - https://github.com/tinkerdragon/ContextOS
-downloads: 72
+downloads: 120
 updated at: "2026-07-11T07:19:47Z"
 related to:
   - "[[GitHub - 1296006722]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Maintain a Karpathy-style LLM wiki by auto-ingesting and indexing raw notes and documents, extracting text from PDFs, Office files, images, and more with OCR when needed. Route text, chat, and vision to multiple providers, generate structured change plans, and chat with your wiki in a streaming Markdown side panel."
 
     stats: {
-        downloads:  72
+        downloads:  120
         updated_at: 1783754387000
     }
 }

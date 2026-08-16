@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/css-inlay-colors
 alt:
   - https://github.com/gra0007/obsidian-css-inlay-colors
-downloads: 4685
+downloads: 4922
 updated at: "2025-12-09T23:37:54Z"
 related to:
   - "[[GitHub - 830356805]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show inline color swatches for CSS color values in code blocks, live preview, and reading mode to view colors directly in your notes. Edit colors with a built-in picker, copy values by clicking, hide color names, and apply predefined or custom palettes via CSS classes."
 
     stats: {
-        downloads:  4685
+        downloads:  4922
         updated_at: 1765323474000
     }
 }

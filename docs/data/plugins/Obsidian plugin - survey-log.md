@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/survey-log
 alt:
   - https://github.com/jannik-el/survey-log-obsidian-plugin
-downloads: 21
+downloads: 29
 updated at: "2026-07-12T09:59:34Z"
 related to:
   - "[[GitHub - 1297393219]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create timestamped, keyboard-only survey log entries with a single hotkey and quick time nudging. Pick or add locations from an autocompleting list (inserted as tags or wikilinks), accept note suggestions from past entries, and insert a clean tagged log line into the active note for easy searching."
 
     stats: {
-        downloads:  21
+        downloads:  29
         updated_at: 1783850374000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-export-image
 alt:
   - https://github.com/zhouhua/obsidian-export-image
-downloads: 62479
+downloads: 63696
 updated at: "2025-02-17T12:31:30Z"
 related to:
   - "[[GitHub - 552744875]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export any note or selected content as a high-resolution image, saving to a file or copying to the clipboard. Add text or image watermarks and author metadata, include Obsidian metadata, split long notes into multiple images, batch-export folders, and adjust width or output at 2× resolution for crisp display."
 
     stats: {
-        downloads:  62479
+        downloads:  63696
         updated_at: 1739795490000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/visual-explorer
 alt:
   - https://github.com/sh3llingford/visual-explorer
-downloads: 135
+downloads: 188
 updated at: "2026-07-09T18:08:52Z"
 related to:
   - "[[GitHub - 1262724667]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse notes as visual cards showing image thumbnails, category tags, dates and a text preview for quick scanning. Navigate folders with breadcrumbs and a floating back button, live-search by title or tag, mark favorites, create notes or folders, and use context actions (rename, delete); gallery auto-refreshes and remembers the last open folder."
 
     stats: {
-        downloads:  135
+        downloads:  188
         updated_at: 1783620532000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wardley-maps
 alt:
   - https://github.com/damonsk/obsidian-wardley-maps
-downloads: 813
+downloads: 839
 updated at: "2024-11-29T12:40:47Z"
 related to:
   - "[[GitHub - 882030266]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display and edit Wardley Maps in the OnlineWardleyMaps format directly inside Obsidian. Render maps from wardleymap code blocks and preserve components, anchors, evolutions, annotations and styling for in-note visualization and editing."
 
     stats: {
-        downloads:  813
+        downloads:  839
         updated_at: 1732884047000
     }
 }

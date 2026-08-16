@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pomodoro-calendar
 alt:
   - https://github.com/allone5/Pomodoro-calendar
-downloads: 50
+downloads: 108
 updated at: "2026-07-16T06:39:26Z"
 related to:
   - "[[GitHub - 1284720900]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Start a Pomodoro timer with a cute animated progress bar and choose from themed styles (coins, leaves, tomatoes, stars, hearts). Sync completed sessions to CalDAV calendars (iCloud, Google, Fastmail) for two-way calendar events and sync timer state across devices while controlling the timer with play/pause/skip/complete actions."
 
     stats: {
-        downloads:  50
+        downloads:  108
         updated_at: 1784183966000
     }
 }

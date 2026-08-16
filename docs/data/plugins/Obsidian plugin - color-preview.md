@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/color-preview
 alt:
   - https://github.com/stephanteig/obsidian-color-preview
-downloads: 789
+downloads: 1013
 updated at: "2026-05-19T14:40:48Z"
 related to:
   - "[[GitHub - 1212172490]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display interactive color cards from hex codes with swatches showing hex, RGB, CMYK and PMS and click-to-copy values. Show palette blocks as horizontal strips and add inline dot previews beside any hex; edit swatches with a color picker to update hex in-place."
 
     stats: {
-        downloads:  789
+        downloads:  1013
         updated_at: 1779201648000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lj-os
 alt:
   - https://github.com/ljrobinson/obsidian-lj-os-plugin
-downloads: 109
+downloads: 113
 updated at: "2026-05-15T07:03:39Z"
 related to:
   - "[[GitHub - 1237305901]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "LJ OS turns your local Git repositories into a Daily Note Git Wall. Add scan roots, discover repos, and let LJ OS keep cached activity snapshots fresh in the background. Review summary metrics, per-repo activity, unpushed commits, tidy-up queues, and reorder dashboard sections to fit your workflow. Everything stays local: no login, no APIs, no cloud service, and no companion app."
 
     stats: {
-        downloads:  109
+        downloads:  113
         updated_at: 1778828619000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-notes-compiler
 alt:
   - https://github.com/pragatinath/obsidianplugin-daily-notes-compiler
-downloads: 42
+downloads: 49
 updated at: "2026-07-01T14:17:37Z"
 related to:
   - "[[GitHub - 1285982481]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Compile daily notes or journals from a chosen date range into a single note. Select start/end dates or presets like last week/month, choose the daily-notes source folder and a destination folder for the compiled note."
 
     stats: {
-        downloads:  42
+        downloads:  49
         updated_at: 1782915457000
     }
 }

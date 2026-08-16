@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/asciidoc-reader
 alt:
   - https://github.com/voidgrown/obsidian-asciidoc
-downloads: 879
+downloads: 893
 updated at: "2024-06-24T07:24:24Z"
 related to:
   - "[[GitHub - 806426575]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render AsciiDoc files using Asciidoctor. Display formatted, standards-compliant previews of AsciiDoc content directly inside Obsidian."
 
     stats: {
-        downloads:  879
+        downloads:  893
         updated_at: 1719213864000
     }
 }

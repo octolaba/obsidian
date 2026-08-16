@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/folder-sort
 alt:
   - https://github.com/t0masgutierrez/folder-sort
-downloads: 356
-updated at: "2026-07-02T14:13:37Z"
+downloads: 479
+updated at: "2026-08-09T16:19:31Z"
 related to:
   - "[[GitHub - 1251770645]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sort folders A–Z or Z–A in the file explorer and keep Obsidian's file sorting unchanged. Use natural, case-insensitive ordering at every tree level, persist direction per vault, and choose folder placement (existing order, folders first, or folders last)."
 
     stats: {
-        downloads:  356
-        updated_at: 1783001617000
+        downloads:  479
+        updated_at: 1786292371000
     }
 }
 ```

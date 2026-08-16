@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/abbreviations
 alt:
   - https://github.com/woodenmaiden/obsidian-abbreviations
-downloads: 5758
+downloads: 5800
 updated at: "2024-05-21T17:27:40Z"
 related to:
   - "[[GitHub - 616853802]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Define abbreviations and expand them automatically as you type to correct common misspellings or expand short snippets into longer words or sentences. Create, enable, disable, delete entries and set case-insensitive matches so expansions trigger regardless of capitalization."
 
     stats: {
-        downloads:  5758
+        downloads:  5800
         updated_at: 1716312460000
     }
 }

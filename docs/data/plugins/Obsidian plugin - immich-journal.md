@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/immich-journal
 alt:
   - https://github.com/fcandi/obsidian-immich-journal
-downloads: 113
-updated at: "2026-07-12T11:06:51Z"
+downloads: 210
+updated at: "2026-08-02T15:54:50Z"
 related to:
   - "[[GitHub - 1290152540]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Immich Journal connects your daily notes to your self-hosted Immich photo library. From a daily note, one command opens a picker with every photo taken on that date (parsed from the note title or a frontmatter field); from any other note it opens on the latest day with photos. Selected photos are inserted at the cursor as resized local copies that keep your vault small, each with an optional caption rendered from Immich metadata and a link back to the original asset. Day matching is timezone-safe, so travel photos appear on the correct day, and re-inserting a photo reuses the existing file instead of creating a duplicate. Works on desktop and mobile, including servers only reachable through a VPN such as Tailscale, with no CORS setup required. The UI is available in English, German, Spanish, French, Japanese, and Chinese."
 
     stats: {
-        downloads:  113
-        updated_at: 1783854411000
+        downloads:  210
+        updated_at: 1785686090000
     }
 }
 ```

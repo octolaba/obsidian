@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mantle-icons
 alt:
   - https://github.com/carnalmatrix/obsidian-mantle-icons
-downloads: 156
+downloads: 194
 updated at: "2026-05-31T20:55:57Z"
 related to:
   - "[[GitHub - 1255443338]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mantle Icons is a companion design plugin that brings modern, vector iconography to your note layouts and directories. It allows you to select and attach custom icons to folders and notes in your Obsidian sidebar to navigate your vault visually. Additionally, you can insert icons directly within note body text using a simple inline shortcode syntax. The plugin is built with performance in mind, packaging lightweight SVG vectors directly in the code to ensure zero loading lag. Designed to inherit the colour accents, borders, and shadows of the Zenith theme to keep your vault aesthetics unified."
 
     stats: {
-        downloads:  156
+        downloads:  194
         updated_at: 1780260957000
     }
 }

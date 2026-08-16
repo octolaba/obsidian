@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-table-math
 alt:
   - https://github.com/eatcodeplay/obsidian-simple-table-math
-downloads: 19339
+downloads: 19869
 updated at: "2025-09-19T16:35:13Z"
 related to:
   - "[[GitHub - 971647129]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Calculate sums, averages, minimums, maximums, products and subtractions inside Markdown tables by placing operation tags (e.g., SUM^, AVG<) to target columns or rows and optional ranges. Show results live as you edit, format outputs with currency codes or scientific notation, and copy results to the clipboard from the context menu or a shortcut."
 
     stats: {
-        downloads:  19339
+        downloads:  19869
         updated_at: 1758299713000
     }
 }

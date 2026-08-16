@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/echo-recall
 alt:
   - https://github.com/sajee05/echo-recall
-downloads: 260
-updated at: "2026-07-11T20:08:26Z"
+downloads: 352
+updated at: "2026-08-04T22:29:30Z"
 related to:
   - "[[GitHub - 1276656197]]"
 remind me:
@@ -36,8 +36,8 @@ plugin: {
     description: "Memorize, Revise and Review your notes and paragraphs actively with spaced repetition and retrospective deadlines. - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  260
-        updated_at: 1783800506000
+        downloads:  352
+        updated_at: 1785882570000
     }
 }
 ```

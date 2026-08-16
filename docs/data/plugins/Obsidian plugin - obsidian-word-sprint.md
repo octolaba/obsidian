@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-word-sprint
 alt:
   - https://github.com/kinabalu/obsidian-word-sprint
-downloads: 22817
+downloads: 23015
 updated at: "2025-08-18T06:05:42Z"
 related to:
   - "[[GitHub - 421092679]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run timed writing sprints with a pomodoro-style timer (default 25 minutes) and configurable goals to keep you focused. Receive nudges when you stop typing and track detailed stats — sprint length, total and net words, average words per minute, longest idle stretches — with options to reset daily or all stats."
 
     stats: {
-        downloads:  22817
+        downloads:  23015
         updated_at: 1755497142000
     }
 }

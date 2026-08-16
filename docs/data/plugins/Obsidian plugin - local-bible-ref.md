@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/local-bible-ref
 alt:
   - https://github.com/camelchief/local-bible-ref
-downloads: 992
+downloads: 1029
 updated at: "2026-04-03T03:11:10Z"
 related to:
   - "[[GitHub - 821178905]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reference Bible passages stored locally in your vault using the -- prefix. Fetch and insert verses offline from Local Bible Ref or Bible Linker formats with optional version selection and markdown formatting."
 
     stats: {
-        downloads:  992
+        downloads:  1029
         updated_at: 1775185870000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/size-history
 alt:
   - https://github.com/pbrw/obsidian-size-history
-downloads: 4407
+downloads: 4418
 updated at: "2023-08-30T21:24:25Z"
 related to:
   - "[[GitHub - 684975231]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View a hand-drawn line chart of your vault’s file-count history with daily tracking. Recreate prior history from file creation dates and continue recording changes from installation onward; files deleted before installation won’t appear and all data stays local."
 
     stats: {
-        downloads:  4407
+        downloads:  4418
         updated_at: 1693430665000
     }
 }

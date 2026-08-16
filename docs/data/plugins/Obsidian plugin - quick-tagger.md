@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quick-tagger
 alt:
   - https://github.com/gorkycreator/obsidian-quick-tagger
-downloads: 16495
+downloads: 17522
 updated at: "2026-03-02T05:08:26Z"
 related to:
   - "[[GitHub - 553330655]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add tags to notes using a searchable GUI, command palette, or hotkeys. Tag multiple notes in bulk via right-click and star favorite tags for quick access. Toggle tags from ribbon icons or commands to update the active note."
 
     stats: {
-        downloads:  16495
+        downloads:  17522
         updated_at: 1772428106000
     }
 }

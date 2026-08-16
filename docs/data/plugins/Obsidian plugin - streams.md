@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/streams
 alt:
   - https://github.com/bfloydd/streams
-downloads: 1869
+downloads: 1898
 updated at: "2026-07-03T01:46:51Z"
 related to:
   - "[[GitHub - 924326073]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and manage multiple daily note streams and replace the Daily Note core plugin. Display a full calendar per stream, surface missing notes in a dedicated view, move notes between streams, and expose a public API for other plugins."
 
     stats: {
-        downloads:  1869
+        downloads:  1898
         updated_at: 1783043211000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/advanced-wikipedia-importer
 alt:
   - https://github.com/dyllonwright/Wikipedia-To-Obsidian-Markdown
-downloads: 82
+downloads: 183
 updated at: "2026-07-24T03:55:14Z"
 related to:
   - "[[GitHub - 906003571]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Wikipedia articles as clean, structured notes with selectable sections, downloaded images renamed to your convention, flattened tables, and preserved footnotes. Detect film pages to name notes Title (Year) and label posters, all running locally inside Obsidian with no server or account."
 
     stats: {
-        downloads:  82
+        downloads:  183
         updated_at: 1784865314000
     }
 }

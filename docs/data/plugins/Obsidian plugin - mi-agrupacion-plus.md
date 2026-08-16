@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mi-agrupacion-plus
 alt:
   - https://github.com/jaliriogbarrios19/mi-agrupacion-plus
-downloads: 112
+downloads: 124
 updated at: "2026-07-18T12:18:23Z"
 related to:
   - "[[GitHub - 1278508253]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Registra actividades comunitarias bahá'ís de forma centralizada y mantiene los datos aislados por cada agrupación. Conecta instantáneamente mediante un código de invitación, sincroniza bidireccionalmente con Supabase (ya configurado) y permite sincronización automática o manual."
 
     stats: {
-        downloads:  112
+        downloads:  124
         updated_at: 1784377103000
     }
 }

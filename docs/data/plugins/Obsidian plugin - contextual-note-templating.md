@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/contextual-note-templating
 alt:
   - https://github.com/balibaloo/obsidian-contextual-note-templating
-downloads: 9478
+downloads: 9489
 updated at: "2024-07-22T20:37:02Z"
 related to:
   - "[[GitHub - 678128129]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Configure note templates in a note's frontmatter and insert field values through interactive prompts. Group templates into intents representing note types and merge global intents into a context-aware template before running. Select notes via Filtered Opener to run note intents."
 
     stats: {
-        downloads:  9478
+        downloads:  9489
         updated_at: 1721680622000
     }
 }

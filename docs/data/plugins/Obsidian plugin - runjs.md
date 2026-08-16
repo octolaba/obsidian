@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/runjs
 alt:
   - https://github.com/eoureo/obsidian-runjs
-downloads: 8514
+downloads: 8557
 updated at: "2025-01-04T09:48:32Z"
 related to:
   - "[[GitHub - 657669222]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run JavaScript directly inside Obsidian from code blocks or .js/.mjs files to execute snippets and manipulate notes. View and organize scripts in a codelist or hierarchical modal, autostart scripts, add commands or ribbon icons, and use modules for structured code."
 
     stats: {
-        downloads:  8514
+        downloads:  8557
         updated_at: 1735984112000
     }
 }

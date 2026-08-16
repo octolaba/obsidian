@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-link-embed
 alt:
   - https://github.com/seraphli/obsidian-link-embed
-downloads: 100845
+downloads: 103285
 updated at: "2025-12-18T12:31:57Z"
 related to:
   - "[[GitHub - 482347524]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert URLs into embedded previews rendered as Markdown code blocks to avoid HTML expansion. Enable auto-embed on paste or invoke the popup/command to create embeds or standard markdown links, and rely on primary/secondary parsers with fallback for robust parsing."
 
     stats: {
-        downloads:  100845
+        downloads:  103285
         updated_at: 1766061117000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-file-renamer
 alt:
   - https://github.com/louanfontenele/obsidian-vault-file-renamer
-downloads: 1806
+downloads: 1857
 updated at: "2026-04-27T23:43:56Z"
 related to:
   - "[[GitHub - 938280048]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Standardize vault filenames to lowercase, remove accents, convert spaces to dashes, and restrict characters to a-z, 0-9, -, _, . while preserving folder paths. Apply changes automatically on create/rename or run a manual sweep, and target or skip files using extension allow/exclude lists plus folder and file blacklists."
 
     stats: {
-        downloads:  1806
+        downloads:  1857
         updated_at: 1777333436000
     }
 }

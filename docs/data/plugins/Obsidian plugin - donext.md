@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/donext
 alt:
   - https://github.com/alexesdev/donext
-downloads: 98
+downloads: 102
 updated at: "2025-11-12T15:22:23Z"
 related to:
   - "[[GitHub - 1095088448]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mark the next unchecked task in the current note and append the completion time in HH:MM format. Preserve cursor and scroll position and support both - [ ] and * [ ] task formats at any indentation level."
 
     stats: {
-        downloads:  98
+        downloads:  102
         updated_at: 1762960943000
     }
 }

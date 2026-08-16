@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sankrypt
 alt:
   - https://github.com/hgiorgis/sankryptidian
-downloads: 100
+downloads: 132
 updated at: "2026-01-20T12:36:49Z"
 related to:
   - "[[GitHub - 1138212214]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Encrypt individual vault files using AES-256-GCM with a single master password and PBKDF2-derived keys. Clear passwords automatically after inactivity, display lock icons for .skenc files, and resolve filename conflicts to prevent data loss. Rely on the built-in Web Crypto API with no external dependencies."
 
     stats: {
-        downloads:  100
+        downloads:  132
         updated_at: 1768912609000
     }
 }

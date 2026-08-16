@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/nutstore-sync
 alt:
   - https://github.com/nutstore/obsidian-nutstore-sync
-downloads: 139362
-updated at: "2026-07-10T07:59:28Z"
+downloads: 157997
+updated at: "2026-08-07T07:21:04Z"
 related to:
   - "[[GitHub - 947718515]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync Obsidian notes bidirectionally with Nutstore over WebDAV to keep files consistent across devices. Enable incremental transfers, single sign-on, a visual WebDAV browser, character-level conflict merging (or timestamp resolution), loose-sync for large vaults, progress indicators, and detailed logs."
 
     stats: {
-        downloads:  139362
-        updated_at: 1783670368000
+        downloads:  157997
+        updated_at: 1786087264000
     }
 }
 ```

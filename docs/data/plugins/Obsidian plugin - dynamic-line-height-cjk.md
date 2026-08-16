@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dynamic-line-height-cjk
 alt:
   - https://github.com/ryotaushio/obsidian-dynamic-line-height-cjk
-downloads: 3531
+downloads: 3583
 updated at: "2023-12-12T08:49:50Z"
 related to:
   - "[[GitHub - 724780644]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Adjust line and paragraph height automatically when text contains CJK characters to improve spacing in Editing and Reading views. Add a .cjk CSS class to those lines for custom styling and set CJK line heights via Style Settings."
 
     stats: {
-        downloads:  3531
+        downloads:  3583
         updated_at: 1702370990000
     }
 }

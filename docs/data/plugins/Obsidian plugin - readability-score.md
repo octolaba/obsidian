@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/readability-score
 alt:
   - https://github.com/zuchka/obsidian-readability
-downloads: 9038
+downloads: 9239
 updated at: "2025-03-21T18:00:07Z"
 related to:
   - "[[GitHub - 664204177]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Analyze whole notes or selections with the Flesch Reading Ease formula to get a readability score. Show a live r9y value in the status bar for quick feedback on text complexity."
 
     stats: {
-        downloads:  9038
+        downloads:  9239
         updated_at: 1742580007000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-smart-paste
 alt:
   - https://github.com/zhao414/canvas-smart-paste
-downloads: 13
-updated at: "2026-07-21T05:54:38Z"
+downloads: 67
+updated at: "2026-08-06T10:06:35Z"
 related to:
   - "[[GitHub - 1306625478]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Paste clipboard content into Canvas as nodes using multiple modes: single node, heading-based tree, list-based tree, paragraph nodes, or auto-detect. Create arrow connections to reflect heading and list hierarchies and lay out nodes top-to-bottom or left-to-right."
 
     stats: {
-        downloads:  13
-        updated_at: 1784613278000
+        downloads:  67
+        updated_at: 1786010795000
     }
 }
 ```

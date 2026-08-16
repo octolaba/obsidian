@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-stack-overflow
 alt:
   - https://github.com/bramses/obsidian-stack-overflow
-downloads: 4318
+downloads: 4329
 updated at: "2022-06-02T01:48:38Z"
 related to:
   - "[[GitHub - 479536271]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert Stack Overflow answers directly into notes by fetching and embedding full answer content from a question URL. Preserve code blocks, original formatting, and link titles for clean, copy-ready references."
 
     stats: {
-        downloads:  4318
+        downloads:  4329
         updated_at: 1654134518000
     }
 }

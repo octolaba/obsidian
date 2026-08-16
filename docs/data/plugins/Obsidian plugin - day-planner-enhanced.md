@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/day-planner-enhanced
 alt:
   - https://github.com/jagaldol/obsidian-day-planner-enhanced
-downloads: 562
-updated at: "2026-07-23T05:04:26Z"
+downloads: 954
+updated at: "2026-08-10T14:43:34Z"
 related to:
   - "[[GitHub - 1256966739]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # Day Planner Enhanced
 
-Adds editable calendar views and a timeline that shows nested schedules readably. Events are surfaced from daily notes, the Tasks plugin or online calendars, and basic time tracking is included. The project states that it is based on Day Planner 0.33.0.
+Adds editable calendar views and a timeline that renders nested schedules readably, together with basic time tracking. Events are surfaced from daily notes, the Tasks plugin and online calendars. It is based on Day Planner 0.35.1.
 
 ```cue
 plugin: {
@@ -33,12 +33,12 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/day-planner-enhanced"
     github_url:  "https://github.com/jagaldol/obsidian-day-planner-enhanced"
-    description: "A day planner with an enhanced timeline UI and readable nested schedules. Based on Day Planner 0.33.0. - This plugin has not been manually reviewed by Obsidian staff."
+    description: "A day planner with an enhanced timeline UI and readable nested schedules. Based on Day Planner 0.35.1. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Add editable calendar views and a timeline UI that shows readable nested schedules. Track time with basic time-tracking and surface events from Daily Notes, the Tasks plugin, or online calendars."
 
     stats: {
-        downloads:  562
-        updated_at: 1784783066000
+        downloads:  954
+        updated_at: 1786373014000
     }
 }
 ```

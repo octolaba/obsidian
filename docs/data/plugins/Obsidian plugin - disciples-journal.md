@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/disciples-journal
 alt:
   - https://github.com/scotttomaszewski/obsidian-disciples-journal
-downloads: 1379
+downloads: 1464
 updated at: "2026-06-03T02:57:22Z"
 related to:
   - "[[GitHub - 945617811]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Bible verse references and full passages directly in notes. Show hoverable popups that stay open, link to or create chapter notes, and render ESV HTML with poetry, footnotes, cross‑references and Words of Christ. Download passages on demand with an ESV API token and save them in an organized local folder for offline use."
 
     stats: {
-        downloads:  1379
+        downloads:  1464
         updated_at: 1780455442000
     }
 }

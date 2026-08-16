@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/periodic-quotes-widget
 alt:
   - https://github.com/nin0-dev/obsidian-periodic-quotes-widget
-downloads: 74
+downloads: 84
 updated at: "2026-02-01T22:50:31Z"
 related to:
   - "[[GitHub - 1147210988]]"
@@ -28,7 +28,7 @@ Periodic Quotes Widget renders rotating quotes inside periodic-quote code blocks
 plugin: {
     id:     "periodic-quotes-widget"
     name:   "Periodic Quotes Widget"
-    author: "nin0-dev"
+    author: "nin0"
     repo:   "nin0-dev/obsidian-periodic-quotes-widget"
 
     html_url:    "https://community.obsidian.md/plugins/periodic-quotes-widget"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render rotating quotes inside periodic-quote codeblocks. Refresh quotes daily or bidaily and display them dynamically without writing to the file or contacting the network at runtime."
 
     stats: {
-        downloads:  74
+        downloads:  84
         updated_at: 1769986231000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-asciidoc-blocks
 alt:
   - https://github.com/juracy/obsidian-asciidoc-blocks
-downloads: 6364
+downloads: 6381
 updated at: "2022-04-05T18:45:29Z"
 related to:
   - "[[GitHub - 476449128]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render AsciiDoc blocks in Obsidian, focusing on tables with headerless layouts, CSV-format input, grid/frame options, and row/column spans. Show accurate AsciiDoc table layouts directly in your notes."
 
     stats: {
-        downloads:  6364
+        downloads:  6381
         updated_at: 1649184329000
     }
 }

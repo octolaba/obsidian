@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/spotify-sorter
 alt:
   - https://github.com/fleker/spotify-organizer-for-obsidian
-downloads: 83
+downloads: 89
 updated at: "2026-05-12T23:19:17Z"
 related to:
   - "[[GitHub - 1234296301]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Find liked Spotify tracks that aren't in any playlist and save them as a dated Markdown note in your vault. Run from the command palette or ribbon on Obsidian desktop to generate a \"Spotify Unorganized Tracks YYYY-MM-DD.md\" report listing each unorganized track."
 
     stats: {
-        downloads:  83
+        downloads:  89
         updated_at: 1778627957000
     }
 }

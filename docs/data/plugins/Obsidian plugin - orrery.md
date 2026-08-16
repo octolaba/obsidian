@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/orrery
 alt:
   - https://github.com/c-miles/orrery
-downloads: 1123
+downloads: 1573
 updated at: "2026-06-22T21:54:06Z"
 related to:
   - "[[GitHub - 1273791210]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn your vault into a rotating 3D galaxy where notes become glowing stars and links become connecting threads. Explore hubs, clusters and isolated notes by hovering to highlight neighbors and clicking stars to open notes, and embed a live orrery in any note."
 
     stats: {
-        downloads:  1123
+        downloads:  1573
         updated_at: 1782165246000
     }
 }

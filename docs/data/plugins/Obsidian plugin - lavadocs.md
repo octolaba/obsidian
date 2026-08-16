@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lavadocs
 alt:
   - https://github.com/saaliklok/lavadocs-obsidian
-downloads: 944
+downloads: 958
 updated at: "2024-04-07T06:20:27Z"
 related to:
   - "[[GitHub - 770727599]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Share one-off Obsidian notes to Lavadocs via a sidebar action to create shareable, hosted copies. Connect using your Lava Key or a self-hosted Lavadocs URL to authenticate and publish notes instantly."
 
     stats: {
-        downloads:  944
+        downloads:  958
         updated_at: 1712470827000
     }
 }

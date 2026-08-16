@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cerebro-mycelium
 alt:
   - https://github.com/colorpulse6/cerebro-mycelium
-downloads: 258
+downloads: 355
 updated at: "2026-05-29T08:40:53Z"
 related to:
   - "[[GitHub - 1253058939]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render your vault as a living 2D fungal network that turns notes into clusters and wikilinks into curved hyphae. Interact with glowing recent-note halos, click nodes to send cascades, drag to pan or pin, and open as a native Obsidian view that builds the graph locally without changing files."
 
     stats: {
-        downloads:  258
+        downloads:  355
         updated_at: 1780044053000
     }
 }

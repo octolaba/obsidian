@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tekken-notation
 alt:
   - https://github.com/opti9/obsidian-tekken-notation
-downloads: 1433
+downloads: 1450
 updated at: "2024-02-29T11:22:43Z"
 related to:
   - "[[GitHub - 759514208]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Tekken move notations as diagrams in Obsidian using fenced code blocks with the language tekken. Support named combos, appended info text (like damage), custom text tokens, and combo arrows/brackets for clear visual sequences."
 
     stats: {
-        downloads:  1433
+        downloads:  1450
         updated_at: 1709205763000
     }
 }

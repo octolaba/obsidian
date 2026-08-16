@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/arenasys-ai-chat
 alt:
   - https://github.com/arenasys/obsidian-ai-chat
-downloads: 2120
+downloads: 2146
 updated at: "2026-01-02T04:53:04Z"
 related to:
   - "[[GitHub - 791162708]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with your notes and documents using OpenRouter, OpenAI, or compatible APIs. Pin multiple documents to include them in conversations, and send images and Markdown content within chats. Provide your own API key; selected chat messages and document content are shared with the chosen endpoint."
 
     stats: {
-        downloads:  2120
+        downloads:  2146
         updated_at: 1767329584000
     }
 }

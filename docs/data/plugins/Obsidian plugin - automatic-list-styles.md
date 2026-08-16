@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/automatic-list-styles
 alt:
   - https://github.com/wiseguru/obsidian-automatic-list-styles
-downloads: 7667
+downloads: 7720
 updated at: "2024-08-29T00:24:40Z"
 related to:
   - "[[GitHub - 645014641]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Apply hierarchical list styles to lists in read mode, automatically shifting numbering and bullet types by indent level. Use a default sequence (decimal, lower-alpha, lower-roman, upper-alpha, upper-roman, decimal-leading-zero, disc, circle, square); does not affect edit mode."
 
     stats: {
-        downloads:  7667
+        downloads:  7720
         updated_at: 1724891080000
     }
 }

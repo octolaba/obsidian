@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/content-addressed-attachments
 alt:
   - https://github.com/natescarlet/obsidian-content-addressed-attachments
-downloads: 365
+downloads: 394
 updated at: "2026-06-26T10:45:03Z"
 related to:
   - "[[GitHub - 1095505164]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Store attachments as content-addressed CIDs with automatic deduplication. Generate and resolve ipfs:// links, lock external images into the vault with checksum-verified cached copies for offline access, and fall back to configurable external gateways."
 
     stats: {
-        downloads:  365
+        downloads:  394
         updated_at: 1782470703000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smarttask
 alt:
   - https://github.com/fat-pumpkin/SmarTask
-downloads: 99
+downloads: 155
 updated at: "2026-07-15T04:09:34Z"
 related to:
   - "[[GitHub - 1288800296]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage tasks in Obsidian with multi-view support: list, kanban, calendar, and timeline (classic, zigzag, card, Gantt). Create tasks quickly with inline metadata and automatic start timestamps; nest unlimited subtasks, filter and sort by status, priority, tags, or date, and keep native Markdown links and tags intact."
 
     stats: {
-        downloads:  99
+        downloads:  155
         updated_at: 1784088574000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/supsync
 alt:
   - https://github.com/jaliriogbarrios19/SupSync
-downloads: 231
+downloads: 268
 updated at: "2026-07-22T17:26:22Z"
 related to:
   - "[[GitHub - 1261680739]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Obsidian vaults in real time via Supabase, including notes, canvases, Excalidraw drawings, images, PDFs, and audio. Lock files automatically while editing, resolve conflicts with a side-by-side diff modal, and create or join multi-user vaults by sharing a Vault ID."
 
     stats: {
-        downloads:  231
+        downloads:  268
         updated_at: 1784741182000
     }
 }

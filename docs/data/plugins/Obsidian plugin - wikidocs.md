@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wikidocs
 alt:
   - https://github.com/pahkey/obsidian-wikidocs-plugin
-downloads: 1019
+downloads: 1060
 updated at: "2026-04-16T10:53:59Z"
 related to:
   - "[[GitHub - 895351005]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "편집하세요 위키독스 책과 블로그를 옵시디언에서 직접. 이미지·문서 드래그앤드롭으로 첨부하고 로컬·오프라인에서 빠르게 작성한 뒤 바로 위키독스로 업로드하세요. 빠른 검색과 커뮤니티 플러그인 연동으로 작업 흐름을 원활하게 만드세요."
 
     stats: {
-        downloads:  1019
+        downloads:  1060
         updated_at: 1776336839000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/remote-ssh
 alt:
   - https://github.com/sotashimozono/obsidian-remote-ssh
-downloads: 1338
+downloads: 1600
 updated at: "2026-07-14T08:13:11Z"
 related to:
   - "[[GitHub - 1220402965]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a vault on a remote SSH host and edit it in a real Obsidian window with files, attachments, search, and live edits served transparently from the remote. Keep existing plugins working, sync live edits across machines with a 3-way merge for conflicts, and queue offline writes to survive flaky networks while using your SSH config."
 
     stats: {
-        downloads:  1338
+        downloads:  1600
         updated_at: 1784016791000
     }
 }

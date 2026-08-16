@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-note-navbar
 alt:
   - https://github.com/karstenpedersen/obsidian-daily-note-navbar
-downloads: 8857
+downloads: 9037
 updated at: "2026-03-15T21:49:37Z"
 related to:
   - "[[GitHub - 742153582]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Replace the view header in daily notes with a navigation bar to jump between dates and switch weeks quickly. Customize date formats and see clear indicators for the current, active, or non-existent daily notes."
 
     stats: {
-        downloads:  8857
+        downloads:  9037
         updated_at: 1773611377000
     }
 }

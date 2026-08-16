@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/notion-pull-lite
 alt:
   - https://github.com/n2osync/n2o-lite
-downloads:
-updated at:
+downloads: 120
+updated at: "2026-08-04T15:52:31Z"
 related to:
   - "[[GitHub - 1310852675]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/n2osync/n2o-lite"
     description: "Your Notion workspace, in your vault, as plain Markdown you own. Pulls pages, databases, properties and media, and re-pulls any time Notion changes. One way, free, no account needed. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Notion raises its price, your account gets locked, or you want out. Your notes are already on your disk, in Markdown, readable in any text editor. N2O Sync Lite pulls your Notion pages and databases into Obsidian, and keeps pulling. Re-run it whenever Notion changes, unlike a one-shot export of UUID filenames and broken links. What survives the trip: callouts, toggles, columns, tables, code, math and synced blocks. Images and attachments download into your vault before Notion's links expire. Database properties become frontmatter, so relations turn into real wikilinks and a property named Tags lands in Obsidian's own tag search. A database arrives as a folder of notes plus a Bases view. Re-pulls preserve your local edits instead of overwriting them. This edition is one way, Notion to Obsidian. Nothing you write in Obsidian goes back. Your content never touches our servers, the plugin talks to Notion and nothing else, and the source is MIT so you can rebuild the release and diff it."
+
+    stats: {
+        downloads:  120
+        updated_at: 1785858751000
+    }
 }
 ```
 

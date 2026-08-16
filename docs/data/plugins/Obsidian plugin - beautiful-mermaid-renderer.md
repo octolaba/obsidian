@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/beautiful-mermaid-renderer
 alt:
   - https://github.com/qiaoborui/obsidian-beautiful-mermaid
-downloads: 1519
+downloads: 1850
 updated at: "2026-05-15T08:58:27Z"
 related to:
   - "[[GitHub - 1237604583]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Mermaid diagrams as beautiful SVGs using beautiful-mermaid styles and Obsidian theme variables. View diagrams in Reading and Live Preview with inline diagrams fitting the editor width by default. Support aliases like mermaid-beautiful and bmmd."
 
     stats: {
-        downloads:  1519
+        downloads:  1850
         updated_at: 1778835507000
     }
 }

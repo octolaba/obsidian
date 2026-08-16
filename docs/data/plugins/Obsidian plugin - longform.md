@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/longform
 alt:
   - https://github.com/kevboh/longform
-downloads: 171688
+downloads: 176939
 updated at: "2025-03-19T23:22:44Z"
 related to:
   - "[[GitHub - 363997928]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize multi-scene or single-note projects into ordered manuscripts and manage them from a dedicated sidebar. Track scene, draft, and project word counts, set daily writing goals, reorder and nest scenes, and compile finished manuscripts with workflow-based tools."
 
     stats: {
-        downloads:  171688
+        downloads:  176939
         updated_at: 1742426564000
     }
 }

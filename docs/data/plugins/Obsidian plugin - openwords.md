@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/openwords
 alt:
   - https://github.com/insile/OpenWords
-downloads: 802
+downloads: 886
 updated at: "2026-03-23T12:41:10Z"
 related to:
   - "[[GitHub - 974200189]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "It memorizes vocabulary and manages a word bank stored in OpenText format, using the SuperMemo-2 spaced repetition algorithm to schedule review and dictation. It generates an index and .base view by first letter, adds doubly linked lists, and synchronizes word file metadata with the cache in real time; modifications are written back directly to the source file."
 
     stats: {
-        downloads:  802
+        downloads:  886
         updated_at: 1774269670000
     }
 }

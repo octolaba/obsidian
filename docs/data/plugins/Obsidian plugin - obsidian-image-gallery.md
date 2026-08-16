@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-image-gallery
 alt:
   - https://github.com/lucaorio/obsidian-image-gallery
-downloads: 37894
+downloads: 38416
 updated at: "2022-12-23T05:42:19Z"
 related to:
   - "[[GitHub - 493112805]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a zero-setup masonry image gallery from any folder in your vault with horizontal or vertical layouts. Open images in a built-in lightbox (and open originals in a new tab) and control spacing, border radius, sorting and column/row layout for responsive galleries."
 
     stats: {
-        downloads:  37894
+        downloads:  38416
         updated_at: 1671774139000
     }
 }

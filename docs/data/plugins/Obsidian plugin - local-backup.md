@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/local-backup
 alt:
   - https://github.com/velviagris/obsidian-local-backup
-downloads: 79663
+downloads: 84059
 updated at: "2026-07-22T01:24:40Z"
 related to:
   - "[[GitHub - 684936815]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create local backups of your vault on startup, quit, at intervals, or on demand. Customize output paths, include or exclude files and folders using wildcards, call external archivers (7-Zip, WinRAR, Bandizip), and retry failed backups."
 
     stats: {
-        downloads:  79663
+        downloads:  84059
         updated_at: 1784683480000
     }
 }

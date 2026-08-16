@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tab-limit-lru
 alt:
   - https://github.com/fireshort/obsidian-tab-limit
-downloads: 105
+downloads: 114
 updated at: "2026-05-18T13:02:06Z"
 related to:
   - "[[GitHub - 1231976335]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Limit open Markdown tabs to a configurable maximum (default 5). Close the least-recently-used Markdown tab when opening a new one would exceed the limit, with tab switches marking recency so older inactive tabs are replaced first."
 
     stats: {
-        downloads:  105
+        downloads:  114
         updated_at: 1779109326000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/echo-notes
 alt:
   - https://github.com/anbang278/echo-notes
-downloads: 244
-updated at: "2026-07-23T11:50:38Z"
+downloads: 466
+updated at: "2026-08-11T15:13:35Z"
 related to:
   - "[[GitHub - 1254536729]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # Echo Notes
 
-Turns audio files held in the vault into Markdown transcripts that are linked back into it. Recording is the entry point: transcription and AI analysis are condensed into Markdown context that stays searchable, linkable and reusable, which the project frames as building personal memories for later agents.
+Takes an audio recording as its entry point, transcribes it into Markdown and runs a configurable AI pass producing meeting notes and analysis. The results are condensed into searchable, linkable Markdown context in the vault, intended for long-term reuse and as personal memory for later agents.
 
 ```cue
 plugin: {
@@ -33,12 +33,12 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/echo-notes"
     github_url:  "https://github.com/anbang278/echo-notes"
-    description: "Turn audio files in your vault into linked Markdown transcripts. - This plugin has not been manually reviewed by Obsidian staff."
+    description: "Transcribe audio into Markdown and generate configurable AI meeting notes and analysis. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Echo Notes takes recording as the entry point, condenses transcription and AI analysis into searchable, linkable, and long-term reusable Markdown contexts in Vault, and builds Personal memories for future personal Agents."
 
     stats: {
-        downloads:  244
-        updated_at: 1784807438000
+        downloads:  466
+        updated_at: 1786461215000
     }
 }
 ```

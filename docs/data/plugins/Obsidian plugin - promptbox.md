@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/promptbox
 alt:
   - https://github.com/istefox/promptbox
-downloads: 216
-updated at: "2026-07-23T19:42:56Z"
+downloads: 353
+updated at: "2026-07-31T19:11:50Z"
 related to:
   - "[[GitHub - 1286994793]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Store and manage a local library of AI prompts as Markdown notes with YAML frontmatter, keeping everything in your vault with no network calls or accounts. Search, filter, favorite and lint prompts; fill {{placeholders}} via a form with defaults and context vars (selection, title, date, clipboard), insert placeholders from a palette, use a quick picker or obsidian:// launcher, and import/export JSON."
 
     stats: {
-        downloads:  216
-        updated_at: 1784835776000
+        downloads:  353
+        updated_at: 1785525110000
     }
 }
 ```

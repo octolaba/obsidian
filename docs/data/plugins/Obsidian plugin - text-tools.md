@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/text-tools
 alt:
   - https://github.com/nilsandrey/TextToolsPlugin
-downloads: 184
+downloads: 230
 updated at: "2026-05-16T18:57:10Z"
 related to:
   - "[[GitHub - 1163805193]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run over 80 local text-manipulation commands from the Command Palette to transform selections or entire notes. Convert case, sort/shuffle/filter lines, encode/decode text, generate GUIDs/timestamps/random values, manage 5 persistent text slots, and format or extract with regex."
 
     stats: {
-        downloads:  184
+        downloads:  230
         updated_at: 1778957830000
     }
 }

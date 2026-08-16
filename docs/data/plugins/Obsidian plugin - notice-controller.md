@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notice-controller
 alt:
   - https://github.com/juan-miii/obsidian-notice-plugin
-downloads: 2160
+downloads: 2196
 updated at: "2025-02-25T17:11:01Z"
 related to:
   - "[[GitHub - 756823866]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Remove startup debug notices in Obsidian automatically after a configurable delay so notices are cleared once the workspace is ready. Add a settings tab to set the delay or keep notices persistent."
 
     stats: {
-        downloads:  2160
+        downloads:  2196
         updated_at: 1740503461000
     }
 }

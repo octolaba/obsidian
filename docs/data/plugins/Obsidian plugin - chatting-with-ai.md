@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chatting-with-ai
 alt:
   - https://github.com/o1xhack/obsidian-chatting
-downloads: 687
+downloads: 1203
 updated at: "2026-05-13T23:06:16Z"
 related to:
   - "[[GitHub - 1232419039]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with an agentic AI assistant inside your Obsidian vault on phone, tablet, and desktop. Use 14 vault-native tools to read, search, create, rename, update frontmatter and backlinks, and apply edits directly from chat with selection-scoped, surgical changes. Choose Anthropic, OpenAI, or sign in with ChatGPT and keep secrets in the OS keychain."
 
     stats: {
-        downloads:  687
+        downloads:  1203
         updated_at: 1778713576000
     }
 }

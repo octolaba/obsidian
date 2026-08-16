@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tinypng-image
 alt:
   - https://github.com/ckt1031/obsidian-tinypng-plugin
-downloads: 4914
+downloads: 4935
 updated at: "2026-02-26T13:06:07Z"
 related to:
   - "[[GitHub - 654949394]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Compress images in your vault using TinyPNG's API to batch-optimize PNG and JPEG files. Provide your TinyPNG API key, set concurrency, then run the Compress Images command to process files and view a results summary."
 
     stats: {
-        downloads:  4914
+        downloads:  4935
         updated_at: 1772111167000
     }
 }

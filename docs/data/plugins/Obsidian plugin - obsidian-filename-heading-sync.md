@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-filename-heading-sync
 alt:
   - https://github.com/dvcrn/obsidian-filename-heading-sync
-downloads: 68183
+downloads: 68593
 updated at: "2026-03-03T00:02:47Z"
 related to:
   - "[[GitHub - 333091916]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync filename and first heading bidirectionally: renaming a file updates its first heading, and changing the first heading renames the file. Insert a heading if missing and update on file open — warning: opening a file will overwrite its top heading."
 
     stats: {
-        downloads:  68183
+        downloads:  68593
         updated_at: 1772496167000
     }
 }

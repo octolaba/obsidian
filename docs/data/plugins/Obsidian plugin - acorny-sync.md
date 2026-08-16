@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/acorny-sync
 alt:
   - https://github.com/acornyio/acorny-obsidian
-downloads: 89
-updated at: "2026-06-26T07:08:03Z"
+downloads: 110
+updated at: "2026-07-28T13:53:57Z"
 related to:
   - "[[GitHub - 1279373204]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync Acorny highlights into your vault as one Markdown note per source, appending idempotently so manual edits are preserved. Include frontmatter (title, source, acorny-source-id, optional author/tags) and a ## Highlights list with block IDs to avoid duplicates; anchor notes by acorny-source-id and run syncs manually, on startup, or on an interval."
 
     stats: {
-        downloads:  89
-        updated_at: 1782457683000
+        downloads:  110
+        updated_at: 1785246837000
     }
 }
 ```

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/simple-note-review
 alt:
   - https://github.com/dartungar/obsidian-simple-note-review
-downloads: 13504
-updated at: "2026-05-18T10:11:53Z"
+downloads: 13657
+updated at: "2026-08-05T06:51:03Z"
 related to:
   - "[[GitHub - 504139461]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Define note sets with tags, folders, or DataviewJS queries and use Dataview-powered search to populate flexible review lists. Create persistent review queues you can progress or randomize, skip items, reset queues, set per-note frequency or ignore notes, and view noteset stats."
 
     stats: {
-        downloads:  13504
-        updated_at: 1779099113000
+        downloads:  13657
+        updated_at: 1785912663000
     }
 }
 ```

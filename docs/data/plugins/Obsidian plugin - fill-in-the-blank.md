@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/fill-in-the-blank
 alt:
   - https://github.com/mister-mcgee/obsidian-fill-in-the-blank
-downloads: 3876
+downloads: 3910
 updated at: "2023-12-08T15:41:42Z"
 related to:
   - "[[GitHub - 674896040]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert text wrapped in double dashes into blank lines in preview, including headings, paragraphs, and inline code. Toggle fill-in-the-blank on selected text via the ribbon icon or the toggle command."
 
     stats: {
-        downloads:  3876
+        downloads:  3910
         updated_at: 1702050102000
     }
 }

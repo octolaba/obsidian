@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/text-block-timer
 alt:
   - https://github.com/wth461694678/text-block-timer
-downloads: 5959
+downloads: 6034
 updated at: "2026-02-13T11:05:23Z"
 related to:
   - "[[GitHub - 965623980]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a count-up stopwatch to any text line and run multiple timers simultaneously with start, pause, resume, and delete controls. Store timing data persistently, show real-time cumulative time, adjust durations with an iPhone-style scroll picker, and keep timer changes out of undo history."
 
     stats: {
-        downloads:  5959
+        downloads:  6034
         updated_at: 1770980723000
     }
 }

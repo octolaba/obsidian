@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/toml-ini-viewer
 alt:
   - https://github.com/viggomeesters/obsidian-toml-ini-viewer
-downloads: 102
+downloads: 118
 updated at: "2026-06-07T19:07:36Z"
 related to:
   - "[[GitHub - 1262253547]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open .toml and .ini files as a read-only parsed config tree with sections, keys, value types, filtering, and search. View the raw source with line numbers and lightweight highlighting while seeing parse warnings (TOML errors, INI duplicates/malformed) and safe large-file caps."
 
     stats: {
-        downloads:  102
+        downloads:  118
         updated_at: 1780859256000
     }
 }

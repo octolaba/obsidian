@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/nldates-revived
 alt:
   - https://github.com/amato21/nldates-revived
-downloads: 5205
-updated at: "2026-07-17T14:09:38Z"
+downloads: 6096
+updated at: "2026-08-02T21:39:46Z"
 related to:
   - "[[GitHub - 1125286132]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Parse and insert natural-language date expressions in English, French, German, Japanese, Dutch, Portuguese, Spanish and Italian, converting combined durations, weekday+time, and date/range phrases into concrete dates. Provide document-aware suggestions that learn your patterns and detect nearby dates while analyzing only the current note."
 
     stats: {
-        downloads:  5205
-        updated_at: 1784297378000
+        downloads:  6096
+        updated_at: 1785706786000
     }
 }
 ```

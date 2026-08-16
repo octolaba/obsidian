@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/digital-dogear
 alt:
   - https://github.com/dyllonwright/Digital-Dogear
-downloads: 26
+downloads: 42
 updated at: "2026-07-19T19:25:45Z"
 related to:
   - "[[GitHub - 1305960754]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Log where you stopped with one keystroke and append a plain text line to your daily note for any ordered media (books, shows, podcasts, comics, audiobooks, courses). Auto-suggest the next position, merge consecutive sittings into ranges, flag accidental skips, and keep each series as a simple wikilinked note."
 
     stats: {
-        downloads:  26
+        downloads:  42
         updated_at: 1784489145000
     }
 }

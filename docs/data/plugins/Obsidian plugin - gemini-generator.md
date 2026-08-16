@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gemini-generator
 alt:
   - https://github.com/bjarnerentz/obsidian-gemini-generator
-downloads: 4550
+downloads: 4627
 updated at: "2026-02-15T14:46:14Z"
 related to:
   - "[[GitHub - 787214389]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate notes from a note title using Google Gemini with a single command. Send the note title to the Gemini API to produce content, with planned support for custom prompt templates and automatic response formatting."
 
     stats: {
-        downloads:  4550
+        downloads:  4627
         updated_at: 1771166774000
     }
 }

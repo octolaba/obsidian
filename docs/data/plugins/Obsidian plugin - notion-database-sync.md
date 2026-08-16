@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notion-database-sync
 alt:
   - https://github.com/wj0s3ph/obsidian-notion-plugin
-downloads: 366
+downloads: 459
 updated at: "2026-05-25T10:14:04Z"
 related to:
   - "[[GitHub - 1172435508]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync the active Markdown note with a selected Notion database, store the linked page ID as notionPageId, and keep mapped frontmatter properties in sync. Push the current note to Notion or pull the linked Notion page back, map properties via dropdowns and fetch property lists for quick mapping."
 
     stats: {
-        downloads:  366
+        downloads:  459
         updated_at: 1779704044000
     }
 }

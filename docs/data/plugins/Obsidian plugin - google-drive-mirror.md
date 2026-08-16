@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/google-drive-mirror
 alt:
   - https://github.com/laupas/google-drive-mirror
-downloads: 107
-updated at: "2026-07-23T06:53:00Z"
+downloads: 281
+updated at: "2026-08-02T15:05:41Z"
 related to:
   - "[[GitHub - 1305668967]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync your Obsidian vault or a subfolder bidirectionally with a Google Drive folder, reconciling edits, additions, and deletions. Mirror files recursively (including empty folders) and all file types, resolve conflicts with a newer-wins policy, and protect deletions via local and Drive trash. Use manual or automatic sync, browse a live sync tree and persistent log, and run on desktop and mobile with Shared Drive support."
 
     stats: {
-        downloads:  107
-        updated_at: 1784789580000
+        downloads:  281
+        updated_at: 1785683141000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-prompt
 alt:
   - https://github.com/arumie/obsidian-simple-prompt-plugin
-downloads: 1104
+downloads: 1145
 updated at: "2024-06-16T07:45:18Z"
 related to:
   - "[[GitHub - 806153975]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate content in notes using Large Language Models, inserting at the cursor or rewriting a selection or the entire document. Pick OpenAI or Ollama models, generate from YouTube captions, customize and reuse prompt templates, and stream responses for live output."
 
     stats: {
-        downloads:  1104
+        downloads:  1145
         updated_at: 1718523918000
     }
 }

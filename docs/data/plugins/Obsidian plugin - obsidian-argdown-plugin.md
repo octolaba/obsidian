@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-argdown-plugin
 alt:
   - https://github.com/amdecker/obsidian-argdown-plugin
-downloads: 7823
-updated at: "2021-07-29T16:14:33Z"
+downloads: 7967
+updated at: "2026-07-29T21:19:55Z"
 related to:
   - "[[GitHub - 357305204]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create argument maps from Argdown code blocks directly in Obsidian without extra programs. Write Argdown or argdown-map fenced blocks and view rendered maps in the Preview pane with syntax highlighting and support for multiple Argdown blocks per file."
 
     stats: {
-        downloads:  7823
-        updated_at: 1627575273000
+        downloads:  7967
+        updated_at: 1785359995000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/github-pages-share
 alt:
   - https://github.com/wzmf399443/github-pages-share
-downloads: 29
+downloads: 50
 updated at: "2026-07-17T03:50:26Z"
 related to:
   - "[[GitHub - 1299130578]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish Markdown notes from Obsidian to a GitHub repository served via GitHub Pages and copy a shareable link to your clipboard. Convert wiki links to relative links, upload embedded images to an assets folder, render callouts and mermaid via CDN, support batch publishing, auto-republish on save, and unpublish files."
 
     stats: {
-        downloads:  29
+        downloads:  50
         updated_at: 1784260226000
     }
 }

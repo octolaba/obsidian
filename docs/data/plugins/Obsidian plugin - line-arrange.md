@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/line-arrange
 alt:
   - https://github.com/chitwan27/lineArrange
-downloads: 7244
+downloads: 7351
 updated at: "2026-03-21T03:15:28Z"
 related to:
   - "[[GitHub - 812294861]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Rearrange lines, blocks, or top-level headings by sorting, reversing, or shuffling. Sort alphabetically or by rendered text width, preserve block and heading hierarchy when reordering, and automatically renumber lists."
 
     stats: {
-        downloads:  7244
+        downloads:  7351
         updated_at: 1774062928000
     }
 }

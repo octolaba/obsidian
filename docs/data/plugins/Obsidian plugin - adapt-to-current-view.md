@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/adapt-to-current-view
 alt:
   - https://github.com/churnish/adapt-to-current-view
-downloads: 994
+downloads: 1019
 updated at: "2025-10-14T14:16:07Z"
 related to:
   - "[[GitHub - 1030519810]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set a different accent color for Reading view, Live Preview, and Source view. Recognize each view at a glance to avoid editing in Reading view or expecting Live Preview-only behaviors in the wrong mode."
 
     stats: {
-        downloads:  994
+        downloads:  1019
         updated_at: 1760451367000
     }
 }

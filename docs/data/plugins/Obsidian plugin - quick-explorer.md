@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/quick-explorer
 alt:
   - https://github.com/pjeby/quick-explorer
-downloads: 153720
-updated at: "2026-06-12T04:17:24Z"
+downloads: 158279
+updated at: "2026-08-09T04:20:33Z"
 related to:
   - "[[GitHub - 384621053]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Navigate your vault with a keyboard-driven, menu-based file explorer that stays out of the way and works from the vault root or current folder. Search by typing within folders, use Vim-style navigation hotkeys, and preview notes (including folder notes) page-by-page without opening the sidebar."
 
     stats: {
-        downloads:  153720
-        updated_at: 1781237844000
+        downloads:  158279
+        updated_at: 1786249233000
     }
 }
 ```

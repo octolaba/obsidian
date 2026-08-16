@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ics-calendar-viewer
 alt:
   - https://github.com/viggomeesters/obsidian-ics-calendar-viewer
-downloads: 101
+downloads: 121
 updated at: "2026-06-08T18:15:39Z"
 related to:
   - "[[GitHub - 1262611957]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open local .ics files as a read-only inspector with component summaries, grouped event and task lists, text/date filters, and detailed fields (summary, description, location, organizer, attendees, start/end, UID, status, recurrence). Show recurrence and timezone warnings, fall back to raw source when parsing limits are hit, and keep large files bounded with parse/render caps."
 
     stats: {
-        downloads:  101
+        downloads:  121
         updated_at: 1780942539000
     }
 }

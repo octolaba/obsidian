@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/daily-echoes
 alt:
   - https://github.com/wojciechpolak/obsidian-daily-echoes
-downloads: 26
-updated at: "2026-07-22T19:27:53Z"
+downloads: 95
+updated at: "2026-07-26T10:42:40Z"
 related to:
   - "[[GitHub - 1307793206]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Resurface daily notes from previous years in a sidebar panel to revisit what you wrote on this day, this week, this month, or on a specific day-of-month across years. Read dates from your core Daily Notes settings and show only valid daily notes, labeling each entry with how long ago it was."
 
     stats: {
-        downloads:  26
-        updated_at: 1784748473000
+        downloads:  95
+        updated_at: 1785062560000
     }
 }
 ```

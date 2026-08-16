@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-exporter-for-llm
 alt:
   - https://github.com/gogothegogo/Simple-exporter-for-LLM
-downloads: 592
+downloads: 663
 updated at: "2026-01-30T22:16:19Z"
 related to:
   - "[[GitHub - 1145164624]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export Markdown and Canvas files from folders, tags, or multi-file selections into JSON, XML, or custom templates optimized for LLM context. Build and refine context with a visual file/tag tree, hybrid search, deduplication, and selective removal to avoid duplicates or unwanted notes."
 
     stats: {
-        downloads:  592
+        downloads:  663
         updated_at: 1769811379000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-pretty-bibtex
 alt:
   - https://github.com/sandrofigo/obsidian-pretty-bibtex
-downloads: 10280
+downloads: 10425
 updated at: "2024-02-23T19:36:50Z"
 related to:
   - "[[GitHub - 557523219]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform standard bibtex code blocks into styled, easy-to-scan bibliography entries that present fields and values clearly. Match header color to Obsidian's Accent color for consistent visuals."
 
     stats: {
-        downloads:  10280
+        downloads:  10425
         updated_at: 1708717010000
     }
 }

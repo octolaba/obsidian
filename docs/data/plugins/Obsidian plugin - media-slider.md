@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/media-slider
 alt:
   - https://github.com/amatya-aditya/obsidian-media-slider
-downloads: 9690
+downloads: 9958
 updated at: "2026-02-27T06:39:59Z"
 related to:
   - "[[GitHub - 714200591]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Group images, videos, audio, PDFs and Markdown files into a compact, swipeable slider to reduce vertical space in notes. Compare before/after images, zoom and pan, draw annotations and save per‑slide notes; navigate with thumbnails, transitions, fullscreen, autoplay and audio/video visualizers."
 
     stats: {
-        downloads:  9690
+        downloads:  9958
         updated_at: 1772174399000
     }
 }

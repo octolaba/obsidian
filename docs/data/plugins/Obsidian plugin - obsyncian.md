@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/obsyncian
 alt:
   - https://github.com/aabulkhairov/obsyncian
-downloads:
-updated at:
+downloads: 188
+updated at: "2026-07-24T13:42:11Z"
 related to:
   - "[[GitHub - 1289021570]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/aabulkhairov/obsyncian"
     description: "Sync and back up your vault across devices with end-to-end encryption. Requires an Obsyncian account; free tier available, paid plans add storage and vault limit - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Sync and back up your Obsidian vault end-to-end encrypted with zero setup and no servers, buckets, or Git. Encrypt file names and contents on-device (AES-256-GCM with PBKDF2-derived keys), retain versioned history and reversible deletes to prevent silent data loss, and share or revoke vault access via a companion bot. You may share your vault with Colleagues (currently supported via Telegram only) and they don't have to pay if you want to share your vault!"
+
+    stats: {
+        downloads:  188
+        updated_at: 1784900531000
+    }
 }
 ```
 

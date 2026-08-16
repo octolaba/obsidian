@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/prompt
 alt:
   - https://github.com/hungsu/obsidian-prompt
-downloads: 5650
+downloads: 5679
 updated at: "2023-04-09T05:05:17Z"
 related to:
   - "[[GitHub - 411541891]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show a random single-line text prompt from a file in your vault. Choose a plain-text prompt file and reveal a new random prompt on demand."
 
     stats: {
-        downloads:  5650
+        downloads:  5679
         updated_at: 1681016717000
     }
 }

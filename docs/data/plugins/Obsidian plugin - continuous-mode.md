@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/continuous-mode
 alt:
   - https://github.com/gasparschott/obsidian-continuous-mode
-downloads: 35043
-updated at: "2026-07-12T22:28:59Z"
+downloads: 35891
+updated at: "2026-08-08T03:03:16Z"
 related to:
   - "[[GitHub - 700633211]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Display all open notes in a tab group as a single continuous, scrollable document across splits, sidebars, and floating windows. Toggle between default, semi-compact, and compact modes, navigate between notes with the keyboard, and open multiple files or entire folders from the File Explorer, links, search, or queries."
 
     stats: {
-        downloads:  35043
-        updated_at: 1783895339000
+        downloads:  35891
+        updated_at: 1786158196000
     }
 }
 ```

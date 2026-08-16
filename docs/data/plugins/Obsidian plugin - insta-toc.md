@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/insta-toc
 alt:
   - https://github.com/iliftalot/insta-toc
-downloads: 9946
+downloads: 10236
 updated at: "2026-03-25T15:41:51Z"
 related to:
   - "[[GitHub - 886760938]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert an insta-toc code block to generate a live, auto-updating table of contents. Exclude headings with <!-- omit -->, preserve HTML and special characters, and handle any heading hierarchy plus markdown and wiki-links. Set bullet style, update delay, exclusions, and indentation."
 
     stats: {
-        downloads:  9946
+        downloads:  10236
         updated_at: 1774453311000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/countdown-timer
 alt:
   - https://github.com/thenewhobbyist/obsidian-countdown-timer
-downloads: 177
+downloads: 207
 updated at: "2025-12-17T16:20:14Z"
 related to:
   - "[[GitHub - 1118347914]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add living countdown timers to notes and dashboards using simple countdown blocks with a title and date/time. Show days/hours/minutes/seconds, auto-handle expiration (count up or show Complete!), and place consecutive blocks side-by-side in Reading view."
 
     stats: {
-        downloads:  177
+        downloads:  207
         updated_at: 1765988414000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/git-history
 alt:
   - https://github.com/chrisurf/obsidian-git-history
-downloads: 27
-updated at: "2026-07-20T22:33:20Z"
+downloads: 181
+updated at: "2026-08-10T14:05:38Z"
 related to:
   - "[[GitHub - 1305748920]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage Git inside Obsidian: stage, commit, push, pull, fetch, stash, switch branches, and discard changes at file or folder level. Browse a GitLens-style commit graph and table with metadata, inspect file history across renames, and view syntax-highlighted side-by-side or inline diffs."
 
     stats: {
-        downloads:  27
-        updated_at: 1784586800000
+        downloads:  181
+        updated_at: 1786370738000
     }
 }
 ```

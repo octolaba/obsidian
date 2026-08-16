@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/days-left
 alt:
   - https://github.com/creesee/obsidian-days-left
-downloads: 251
+downloads: 316
 updated at: "2026-05-18T19:38:04Z"
 related to:
   - "[[GitHub - 1231715939]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track upcoming deadlines and past milestones with customizable countdown and count-up timers embedded in your notes. Highlight urgent events with Spotlight and smart notifications, display counters as centered blocks or inline tags, and customize appearance, language, and per-event settings with live updates."
 
     stats: {
-        downloads:  251
+        downloads:  316
         updated_at: 1779133084000
     }
 }

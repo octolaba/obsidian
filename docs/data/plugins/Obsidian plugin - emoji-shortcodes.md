@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/emoji-shortcodes
 alt:
   - https://github.com/phibr0/obsidian-emoji-shortcodes
-downloads: 138683
+downloads: 139596
 updated at: "2022-12-11T10:59:06Z"
 related to:
   - "[[GitHub - 393719529]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert emoji shortcodes like :joy: and :heart: into their emoji equivalents within notes. Render shortcodes inline throughout your vault so emojis appear consistently in previews and edits."
 
     stats: {
-        downloads:  138683
+        downloads:  139596
         updated_at: 1670756346000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-classify-paste
 alt:
   - https://github.com/ostoe/Ob-ImagePastePlugin
-downloads: 3890
+downloads: 3914
 updated at: "2024-01-25T16:29:59Z"
 related to:
   - "[[GitHub - 704165463]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Paste network or local images as standard Markdown links and save the images into a folder named after the current Markdown file. Convert Obsidian-style image links in bulk, auto-create the file-named folder, move image files there and update links to the new Markdown-compatible paths."
 
     stats: {
-        downloads:  3890
+        downloads:  3914
         updated_at: 1706200199000
     }
 }

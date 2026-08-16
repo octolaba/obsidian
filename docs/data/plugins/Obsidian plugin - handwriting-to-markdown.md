@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/handwriting-to-markdown
 alt:
   - https://github.com/gabriele-cusato/HandTranscriptMd
-downloads: 223
+downloads: 268
 updated at: "2026-05-23T22:38:37Z"
 related to:
   - "[[GitHub - 1182362420]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed a handwriting canvas in any Markdown file and draw with a stylus or mouse to capture notes. Save drawings as SVGs visible in your vault and convert handwriting to structured Markdown (headings, lists, tables) using Google Gemini OCR, replacing the drawing block with editable text on Windows and Android."
 
     stats: {
-        downloads:  223
+        downloads:  268
         updated_at: 1779575917000
     }
 }

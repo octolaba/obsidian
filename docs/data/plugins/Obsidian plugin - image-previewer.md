@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-previewer
 alt:
   - https://github.com/qingruikz/image-previewer
-downloads: 658
+downloads: 698
 updated at: "2025-11-19T13:47:45Z"
 related to:
   - "[[GitHub - 1099809729]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View images from your notes in a modal overlay with zoom, pan, rotate, flip and grayscale controls. Use mouse or touch gestures, toolbar buttons, or a slider to adjust the image and reset all transforms to return to the original."
 
     stats: {
-        downloads:  658
+        downloads:  698
         updated_at: 1763560065000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pencil
 alt:
   - https://github.com/rcanand/obsidian-pencil
-downloads: 773
+downloads: 1403
 updated at: "2026-06-30T03:09:13Z"
 related to:
   - "[[GitHub - 1277504447]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Draw and handwrite on an infinite pan-and-zoom canvas with pen, mouse, or finger, featuring pressure-aware strokes and palm rejection. Save whiteboards as .pencil files in your vault, erase, select and move strokes, and undo/redo across desktop, iPad, and mobile."
 
     stats: {
-        downloads:  773
+        downloads:  1403
         updated_at: 1782788953000
     }
 }

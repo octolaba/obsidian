@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/manuscriptum
 alt:
   - https://github.com/sgranade/manuscriptum
-downloads: 268
+downloads: 301
 updated at: "2026-05-16T23:18:00Z"
 related to:
   - "[[GitHub - 1056376851]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export short stories as Shunn-format Microsoft Word .docx files ready for submission. Write in a single note or across multiple scene notes that are combined with scene breaks; create anonymous manuscripts and override per-story metadata."
 
     stats: {
-        downloads:  268
+        downloads:  301
         updated_at: 1778973480000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/dangling-image-manager
 alt:
   - https://github.com/leowie93/obsidian-dangling-image-manager
-downloads: 112
-updated at: "2026-06-02T19:10:57Z"
+downloads: 146
+updated at: "2026-07-30T18:53:54Z"
 related to:
   - "[[GitHub - 1128544600]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # Dangling Image Manager
 
-Scans the vault at startup and follows image and file changes in order to identify images that nothing links to. A command opens an interface that lists those unused images so they can be deleted.
+Scans the vault at startup and tracks image and file changes to detect images that nothing references. A command opens a simple interface listing those unused, dangling images, from which they can be deleted.
 
 ```cue
 plugin: {
@@ -33,12 +33,12 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/dangling-image-manager"
     github_url:  "https://github.com/leowie93/obsidian-dangling-image-manager"
-    description: "Find and delete dangling imagages with a simple ui. - This plugin has not been manually reviewed by Obsidian staff."
+    description: "Find and delete unused/dangling imagages with a simple ui. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Scan your vault at startup and track image and file changes to detect unused/dangling images. Open a simple command-driven UI to view and delete unused images."
 
     stats: {
-        downloads:  112
-        updated_at: 1780427457000
+        downloads:  146
+        updated_at: 1785437634000
     }
 }
 ```

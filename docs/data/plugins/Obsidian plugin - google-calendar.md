@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/google-calendar
 alt:
   - https://github.com/yukigasai/obsidian-google-calendar
-downloads: 193388
+downloads: 195450
 updated at: "2025-03-20T15:29:46Z"
 related to:
   - "[[GitHub - 483409415]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage your Google Calendar from inside Obsidian. Create, edit, and delete events, auto-create notes from events, and insert event links into notes. Be aware the plugin is in stale mode and may stop working at any time."
 
     stats: {
-        downloads:  193388
+        downloads:  195450
         updated_at: 1742484586000
     }
 }

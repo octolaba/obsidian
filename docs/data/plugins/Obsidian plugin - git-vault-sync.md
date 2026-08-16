@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/git-vault-sync
 alt:
   - https://github.com/heeeyman/ObsSync
-downloads: 686
-updated at: "2026-06-28T07:11:21Z"
+downloads: 1031
+updated at: "2026-08-06T10:06:32Z"
 related to:
   - "[[GitHub - 1263616371]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Git Vault Sync backs up and syncs your whole vault through your own GitHub repo — one button, no command line, no system Git. Pure JavaScript, so it works on **Android and iOS** just like desktop. It ships **two engines** and picks one automatically: a full Git engine on desktop, and a lighter GitHub-API engine on mobile that syncs even large vaults without running out of memory. - **One-click sync** from the ribbon — stage, commit, fetch, merge, push. - **Interactive conflict resolution** — keep local, keep remote, or edit by hand. - **Commit preview** — uncheck what you're not ready to sync. - **Auto-sync**, status-bar indicator, excluded paths, and an EN/RU UI. Auth is HTTPS + a Personal Access Token, stored locally; the plugin's own token file is never synced."
 
     stats: {
-        downloads:  686
-        updated_at: 1782630681000
+        downloads:  1031
+        updated_at: 1786010792000
     }
 }
 ```

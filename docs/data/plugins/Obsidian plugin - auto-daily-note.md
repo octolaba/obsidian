@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-daily-note
 alt:
   - https://github.com/litegral/auto-daily-note
-downloads: 588
+downloads: 626
 updated at: "2025-03-25T18:30:40Z"
 related to:
   - "[[GitHub - 954865815]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create today's daily note automatically via Obsidian's Daily Notes core plugin. Ensure a daily note exists each day so you always have today's note ready."
 
     stats: {
-        downloads:  588
+        downloads:  626
         updated_at: 1742927440000
     }
 }

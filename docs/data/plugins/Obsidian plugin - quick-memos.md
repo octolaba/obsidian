@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/quick-memos
 alt:
   - https://github.com/liqiuyue9597/obsidian-memos
-downloads: 455
-updated at: "2026-05-16T08:32:40Z"
+downloads: 554
+updated at: "2026-07-30T09:57:25Z"
 related to:
   - "[[GitHub - 1180402141]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Capture ideas fast like Flomo inside Obsidian, saving each memo as a local Markdown file. Insert images, tag and filter memos, browse as a card stream, export memos as PNG cards or send filtered memos to Obsidian Canvas, and save selected text as memos."
 
     stats: {
-        downloads:  455
-        updated_at: 1778920360000
+        downloads:  554
+        updated_at: 1785405445000
     }
 }
 ```

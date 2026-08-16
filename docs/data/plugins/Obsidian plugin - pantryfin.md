@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pantryfin
 alt:
   - https://github.com/crx2003/PantryFin
-downloads: 89
+downloads: 105
 updated at: "2026-07-04T05:45:46Z"
 related to:
   - "[[GitHub - 1285115566]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track pantry inventory with a normalized base-unit engine that converts weights, volumes, and counts for precise stock math and error-free additions and subtractions. Chat with an AI nutrition butler to generate meal plans, recipes, and macro targets from available ingredients and monitor everything on a reactive live dashboard."
 
     stats: {
-        downloads:  89
+        downloads:  105
         updated_at: 1783143946000
     }
 }

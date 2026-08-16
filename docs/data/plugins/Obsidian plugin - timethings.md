@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/timethings
 alt:
   - https://github.com/plasmabit/timethings
-downloads: 6864
-updated at: "2026-07-02T23:52:23Z"
+downloads: 7103
+updated at: "2026-08-07T19:13:23Z"
 related to:
   - "[[GitHub - 682695797]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Display a live clock and the current note's editing duration in the status bar with configurable format, update interval, and optional UTC. Sync a modified-time frontmatter key (supports nested keys) and record edit duration into frontmatter."
 
     stats: {
-        downloads:  6864
-        updated_at: 1783036343000
+        downloads:  7103
+        updated_at: 1786130003000
     }
 }
 ```

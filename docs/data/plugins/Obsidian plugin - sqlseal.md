@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sqlseal
 alt:
   - https://github.com/h-sphere/sql-seal
-downloads: 13173
+downloads: 13348
 updated at: "2026-05-04T09:53:28Z"
 related to:
   - "[[GitHub - 789705278]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Query files, tags and tasks in your vault using familiar SQL syntax. Preview CSVs as tables and define in-note tables from files to run SELECT queries across your data. Apply task edits from query results back to source markdown files."
 
     stats: {
-        downloads:  13173
+        downloads:  13348
         updated_at: 1777888408000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/local-history
 alt:
   - https://github.com/toki1703/local-history
-downloads: 111
+downloads: 126
 updated at: "2026-06-17T16:05:41Z"
 related to:
   - "[[GitHub - 1271434293]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save automatic local snapshots of notes and consolidate version history across local snapshots, Obsidian File Recovery, and Obsidian Sync. Display a chronological sidebar, compare versions with an LCS-based diff viewer, copy or restore content, and merge close snapshots to prevent history bloat."
 
     stats: {
-        downloads:  111
+        downloads:  126
         updated_at: 1781712341000
     }
 }

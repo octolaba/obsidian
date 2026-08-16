@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lemons-search
 alt:
   - https://github.com/mprojectscode/obsidian-lemons-search-plugin
-downloads: 5991
+downloads: 6494
 updated at: "2026-06-02T16:40:14Z"
 related to:
   - "[[GitHub - 809464459]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Find files instantly with a fast fuzzy quick switcher and live preview. Search by file path, filename, or aliases using advanced search atoms (substring, prefix, postfix, exact, negation) and get snappy results from a Rust matcher running in a web worker."
 
     stats: {
-        downloads:  5991
+        downloads:  6494
         updated_at: 1780418414000
     }
 }

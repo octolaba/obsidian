@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-dynamic-embed
 alt:
   - https://github.com/dabravin/obsidian-dynamic-embed
-downloads: 8942
+downloads: 8982
 updated at: "2022-03-09T09:18:37Z"
 related to:
   - "[[GitHub - 464891147]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed file contents into the current note, delegating scope to the embedded file so it behaves as content instead of a reference. Import whole files for snippets, templates and other linkables; heading or block anchors (e.g. [[file#heading]]) aren’t supported."
 
     stats: {
-        downloads:  8942
+        downloads:  8982
         updated_at: 1646817517000
     }
 }

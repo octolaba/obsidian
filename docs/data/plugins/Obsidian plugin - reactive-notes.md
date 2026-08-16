@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/reactive-notes
 alt:
   - https://github.com/prodigist/ReactiveNotes
-downloads: 1583
+downloads: 1608
 updated at: "2025-05-21T21:40:59Z"
 related to:
   - "[[GitHub - 918955277]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create interactive React components inline in your notes using React 18 and TypeScript. Render 2D/3D visuals (Canvas, THREE.js), charts and D3 graphs, manage persistent component state across notes, and rely on lifecycle and error handling; optimized for desktop."
 
     stats: {
-        downloads:  1583
+        downloads:  1608
         updated_at: 1747863659000
     }
 }

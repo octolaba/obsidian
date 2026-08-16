@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/flash-navigator
 alt:
   - https://github.com/iyioon/obsidian-flash-nav
-downloads: 148
+downloads: 174
 updated at: "2026-03-22T10:24:27Z"
 related to:
   - "[[GitHub - 1185001360]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Start flash-style label navigation to jump instantly by typing a search pattern, watching labeled hints, and pressing a label to go there. Use Vim-friendly hotkeys, control search scope/direction and case matching, and enable optional auto-jump on a single match for speedy, precise navigation."
 
     stats: {
-        downloads:  148
+        downloads:  174
         updated_at: 1774175067000
     }
 }

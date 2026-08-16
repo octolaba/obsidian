@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chinese-punctuation-converter
 alt:
   - https://github.com/enthusjast/obsidian-punctuation-converter
-downloads: 207
+downloads: 235
 updated at: "2026-05-23T09:48:41Z"
 related to:
   - "[[GitHub - 1119356784]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Chinese punctuation to matching English punctuation in real time as you type. Toggle conversion on or off, apply one-click conversion to the current document, and customize which symbols are converted."
 
     stats: {
-        downloads:  207
+        downloads:  235
         updated_at: 1779529721000
     }
 }

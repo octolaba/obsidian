@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/carnet-du-poete
 alt:
   - https://github.com/sbridel/carnet-du-poete
-downloads:
-updated at:
+downloads: 207
+updated at: "2026-08-11T05:22:51Z"
 related to:
   - "[[GitHub - 1311970366]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/sbridel/carnet-du-poete"
     description: "Syllable counter (rule for the omitted ‘e’ + detection of possible umlauts) and rhyming dictionary for French poetry. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Count the syllables in your verses in real time according to French versification rules, with support for the ‘e caduc’, automatic metre recognition and indication of readings with diaeresis. Search for rhymes amongst ~60 sound families (masculine/feminine by number of syllables) and keep a persistent draft in Obsidian."
+
+    stats: {
+        downloads:  207
+        updated_at: 1786425771000
+    }
 }
 ```
 

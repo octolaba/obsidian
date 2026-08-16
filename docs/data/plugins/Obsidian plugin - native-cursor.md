@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/native-cursor
 alt:
   - https://github.com/olivertedwards/native-cursor-obsidian
-downloads: 390
+downloads: 430
 updated at: "2026-03-09T21:17:15Z"
 related to:
   - "[[GitHub - 1177252029]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Give the editor cursor a wider, colored, and optionally static native feel with instant snapping and no movement animations. Adjust width (1–6px), set separate dark/light colors, toggle blinking, and reset all settings to defaults. Apply styling to the main editor (source and live preview)."
 
     stats: {
-        downloads:  390
+        downloads:  430
         updated_at: 1773091035000
     }
 }

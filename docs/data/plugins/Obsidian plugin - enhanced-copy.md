@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/enhanced-copy
 alt:
   - https://github.com/mara-li/obsidian-enhanced-copy
-downloads: 12608
+downloads: 16952
 updated at: "2026-06-21T07:26:20Z"
 related to:
   - "[[GitHub - 638071281]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy selections in reading view while preserving original Markdown formatting. Override the native copy across views, define separate modes for reading/editing/all, add per-view commands and profiles, and create custom copy behavior for non-markdown and mobile use."
 
     stats: {
-        downloads:  12608
+        downloads:  16952
         updated_at: 1782026780000
     }
 }

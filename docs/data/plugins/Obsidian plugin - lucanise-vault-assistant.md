@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lucanise-vault-assistant
 alt:
   - https://github.com/lucanise-pro/lucanise-vault-assistant
-downloads: 162
+downloads: 184
 updated at: "2026-06-06T08:23:42Z"
 related to:
   - "[[GitHub - 1207229444]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with Claude AI about any note, folder, or your entire vault by sending selected local files to Anthropic's API and receiving replies in a built-in chat panel. Apply Claude's edits back into your vault when you confirm, while keeping your API key and plugin data local and contacting only Anthropic's API."
 
     stats: {
-        downloads:  162
+        downloads:  184
         updated_at: 1780734222000
     }
 }

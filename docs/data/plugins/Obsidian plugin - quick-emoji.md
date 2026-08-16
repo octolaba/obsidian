@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quick-emoji
 alt:
   - https://github.com/asibilia/obsidian-quick-emoji
-downloads: 1407
+downloads: 1447
 updated at: "2025-08-14T12:57:56Z"
 related to:
   - "[[GitHub - 965609958]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert emojis quickly from an in-editor picker by typing ':' and searching names or descriptions with fast, debounced results. Choose Unicode or shortcode insertion, view shortcodes in Source Mode while seeing emojis in Live Preview/Reading, and access recent emojis, favorites, skin tones, and cross-platform-compatible output via lightweight on-demand loading."
 
     stats: {
-        downloads:  1407
+        downloads:  1447
         updated_at: 1755176276000
     }
 }

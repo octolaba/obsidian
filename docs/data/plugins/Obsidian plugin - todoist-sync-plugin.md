@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/todoist-sync-plugin
 alt:
   - https://github.com/jamiebrynes7/obsidian-todoist-plugin
-downloads: 176998
+downloads: 178385
 updated at: "2026-02-01T14:40:57Z"
 related to:
   - "[[GitHub - 291284187]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Todoist tasks bidirectionally with Obsidian to keep task lists aligned between apps. Map task properties like completion, due dates, labels, and comments into Obsidian notes and apply updates from either side."
 
     stats: {
-        downloads:  176998
+        downloads:  178385
         updated_at: 1769956857000
     }
 }

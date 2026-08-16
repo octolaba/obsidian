@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/text-lens
 alt:
   - https://github.com/nexround/obsidian-text-lens
-downloads: 110
+downloads: 187
 updated at: "2026-07-09T08:28:03Z"
 related to:
   - "[[GitHub - 1269854967]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scan the active note for image references and insert recognized text below each image using a fully on-device OCR engine (PaddleOCR v6 via ONNX Runtime). Support both Obsidian wikilinks and standard Markdown images, offer Tiny/Small/Medium model tiers, skip or replace existing OCR blocks, and output as collapsible callouts or fenced code blocks with a single undo."
 
     stats: {
-        downloads:  110
+        downloads:  187
         updated_at: 1783585683000
     }
 }

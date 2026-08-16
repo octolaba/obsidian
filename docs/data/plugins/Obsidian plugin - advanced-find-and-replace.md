@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/advanced-find-and-replace
 alt:
   - https://github.com/rockofox/obsidian-advanced-find-and-replace
-downloads: 2274
+downloads: 2928
 updated at: "2026-05-28T08:16:34Z"
 related to:
   - "[[GitHub - 1074401478]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search and replace across your vault using full regular expressions with capturing groups and flags. Preview replacements live with side-by-side before/after views and contextual surrounding lines before applying changes."
 
     stats: {
-        downloads:  2274
+        downloads:  2928
         updated_at: 1779956194000
     }
 }

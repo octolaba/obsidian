@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/flashcards-obsidian
 alt:
   - https://github.com/reuseman/flashcards-obsidian
-downloads: 69583
+downloads: 70750
 updated at: "2022-10-21T12:40:36Z"
 related to:
   - "[[GitHub - 316765950]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and manage Anki-ready flashcards directly from Obsidian notes using card tags, inline Q::A or cloze syntax. Sync, update and delete cards with Anki via AnkiConnect; include reversed and spaced cards, LaTeX, images, audio, code highlighting, and context-aware note references."
 
     stats: {
-        downloads:  69583
+        downloads:  70750
         updated_at: 1666356036000
     }
 }

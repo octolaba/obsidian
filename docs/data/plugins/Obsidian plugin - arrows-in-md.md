@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/arrows-in-md
 alt:
   - https://github.com/artisticat1/arrows
-downloads: 8649
+downloads: 8785
 updated at: "2023-12-21T16:14:07Z"
 related to:
   - "[[GitHub - 734405847]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Draw arrows in Live Preview by inserting inline identifiers that mark start and end points and specify color. Create diagonal arrows, multiple end targets per start, and margin-positioned connectors to visually link parts of your notes."
 
     stats: {
-        downloads:  8649
+        downloads:  8785
         updated_at: 1703175247000
     }
 }

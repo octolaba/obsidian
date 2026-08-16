@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/terminus
 alt:
   - https://github.com/notenerdofficial/terminus
-downloads: 91
-updated at: "2026-07-21T14:58:39Z"
+downloads: 276
+updated at: "2026-08-11T05:07:48Z"
 related to:
   - "[[GitHub - 1298032791]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "A real terminal in Obsidian — full PTY shells, multiple sessions, splits, adjustable font, persistent scrollback — that becomes something more the moment you run Claude in it. Failed commands get a one-click badge for Claude to explain and fix. Every edit Claude makes lands in a Pending Changes panel with per-file line-numbered diffs and Accept/Reject/Edit, so nothing slips by unreviewed. Uses your local Claude CLI — no separate account, no API keys stored."
 
     stats: {
-        downloads:  91
-        updated_at: 1784645919000
+        downloads:  276
+        updated_at: 1786424868000
     }
 }
 ```

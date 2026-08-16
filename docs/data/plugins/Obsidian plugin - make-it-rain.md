@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/make-it-rain
 alt:
   - https://github.com/frostmute/make-it-rain
-downloads: 6432
-updated at: "2026-07-16T07:12:46Z"
+downloads: 7336
+updated at: "2026-08-09T05:26:41Z"
 related to:
   - "[[GitHub - 979967806]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Import Raindrop.io content into your vault with flexible filters and selective sync. Customize note output with Handlebars templates and smart variables, bulk or quick-import by URL/ID, and organize content by group, collection, tag, or type."
 
     stats: {
-        downloads:  6432
-        updated_at: 1784185966000
+        downloads:  7336
+        updated_at: 1786253201000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/media-atlas
 alt:
   - https://github.com/gregeld96/media-atlas
-downloads: 252
+downloads: 276
 updated at: "2026-01-07T09:17:14Z"
 related to:
   - "[[GitHub - 1129559377]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse your vault images in a responsive visual gallery supporting PNG, JPG, WebP, GIF and SVG. Drag images from the gallery into notes and search instantly with fast filtering. Keep the gallery synced with real-time detection of added, renamed, or deleted files."
 
     stats: {
-        downloads:  252
+        downloads:  276
         updated_at: 1767777434000
     }
 }

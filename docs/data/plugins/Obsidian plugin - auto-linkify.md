@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-linkify
 alt:
   - https://github.com/jiawei-hong/obsidian-linkify
-downloads: 117
+downloads: 141
 updated at: "2026-04-12T13:39:01Z"
 related to:
   - "[[GitHub - 1208563872]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert pasted URLs into Markdown links by fetching each page's title. Insert formatted [Page Title](URL) links at the cursor when you paste a URL."
 
     stats: {
-        downloads:  117
+        downloads:  141
         updated_at: 1776001141000
     }
 }

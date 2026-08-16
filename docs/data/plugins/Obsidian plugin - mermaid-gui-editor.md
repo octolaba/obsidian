@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/mermaid-gui-editor
 alt:
   - https://github.com/noriyuki-lim/obsidian-mermaid-gui
-downloads: 120
-updated at: "2026-07-17T09:58:20Z"
+downloads: 428
+updated at: "2026-08-03T15:31:37Z"
 related to:
   - "[[GitHub - 1291738592]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Edit Mermaid diagrams — flowchart, sequence, class, Gantt, kanban, quadrant, XY and more — with a visual GUI directly inside your notes. Open an editor from any mermaid code block to work on an interactive drag-and-drop canvas or a structured form with live preview, then save back plain Mermaid source so files stay portable and free of proprietary metadata."
 
     stats: {
-        downloads:  120
-        updated_at: 1784282300000
+        downloads:  428
+        updated_at: 1785771097000
     }
 }
 ```

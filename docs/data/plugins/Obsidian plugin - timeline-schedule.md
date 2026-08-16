@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/timeline-schedule
 alt:
   - https://github.com/ebonsignori/obsidian-timeline-schedule
-downloads: 3321
+downloads: 3341
 updated at: "2023-12-24T01:59:16Z"
 related to:
   - "[[GitHub - 689246503]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate inline timelines from human-readable time strings inside a schedule codeblock, converting entries like \"Walk dog (30min)\" into timed events. Use autofill to prepend time blocks with [Start] and [Finish], or use pretty preview to render schedules from a start line or the current time."
 
     stats: {
-        downloads:  3321
+        downloads:  3341
         updated_at: 1703383156000
     }
 }

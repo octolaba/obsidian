@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/okf-enforcer
 alt:
   - https://github.com/martinforreal/okf-enforcer
-downloads: 517
-updated at: "2026-07-18T09:33:13Z"
+downloads: 854
+updated at: "2026-08-05T09:31:59Z"
 related to:
   - "[[GitHub - 1279155871]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Validate and enforce OKF v0.2 across your vault, ensuring every non-reserved note has parseable frontmatter with a non-empty type and correct index.md/log.md structure. Report errors and warnings in a collapsible side panel and status-bar indicator, and auto-fix or insert missing frontmatter non-destructively."
 
     stats: {
-        downloads:  517
-        updated_at: 1784367193000
+        downloads:  854
+        updated_at: 1785922319000
     }
 }
 ```

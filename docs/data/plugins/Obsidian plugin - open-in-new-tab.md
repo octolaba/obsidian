@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-in-new-tab
 alt:
   - https://github.com/patleeman/obsidian-open-in-new-tab
-downloads: 42366
+downloads: 43183
 updated at: "2023-03-01T03:37:47Z"
 related to:
   - "[[GitHub - 604312332]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open files from the File Explorer in a new tab, activating an existing tab if the file is already open to avoid duplicates. Restrict operation to the File Explorer; won't affect the quick switcher or other Obsidian areas."
 
     stats: {
-        downloads:  42366
+        downloads:  43183
         updated_at: 1677641867000
     }
 }

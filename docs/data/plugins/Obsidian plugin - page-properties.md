@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/page-properties
 alt:
   - https://github.com/necauqua/obsidian-page-properties
-downloads: 8960
+downloads: 9012
 updated at: "2023-06-28T08:12:26Z"
 related to:
   - "[[GitHub - 616310639]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Style Dataview full-line inline fields with tag-like visuals and turn field names into inner links for Logseq-style page properties. Convert specified field values into links via configurable patterns and hide selected fields from reader view."
 
     stats: {
-        downloads:  8960
+        downloads:  9012
         updated_at: 1687939946000
     }
 }

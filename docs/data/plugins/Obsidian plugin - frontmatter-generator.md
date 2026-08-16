@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/frontmatter-generator
 alt:
   - https://github.com/hananoshikayomaru/Obsidian-Frontmatter-Generator
-downloads: 4520
+downloads: 4669
 updated at: "2023-11-30T17:01:40Z"
 related to:
   - "[[GitHub - 697120073]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate frontmatter on save from JSON or JavaScript templates and insert YAML into files automatically. Use templates (including functions and Dataview expressions) that reference file, file.properties, file.tags, dv, and z; run per file, folder, or vault and skip files with yaml-gen-ignore."
 
     stats: {
-        downloads:  4520
+        downloads:  4669
         updated_at: 1701363700000
     }
 }

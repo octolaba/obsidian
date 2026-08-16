@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cited
 alt:
   - https://github.com/notenerdofficial/cited
-downloads: 23
+downloads: 36
 updated at: "2026-07-15T05:15:35Z"
 related to:
   - "[[GitHub - 1300088385]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "For researchers working from interviews, literature notes, or primary sources: ask your vault a question and get an answer you can verify — every claim traced to the exact file and excerpt Claude actually read. Runs locally via your own claude CLI, no external account, no fabricated citations possible."
 
     stats: {
-        downloads:  23
+        downloads:  36
         updated_at: 1784092535000
     }
 }

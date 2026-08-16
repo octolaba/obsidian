@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/meeting-notes-sync
 alt:
   - https://github.com/andreagrandi/obsidian-meeting-notes-sync
-downloads: 130
+downloads: 151
 updated at: "2026-06-26T13:53:47Z"
 related to:
   - "[[GitHub - 1267268348]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync meeting transcripts, notes, and AI summaries from MacParakeet and Fellow into your vault, creating one folder per meeting with a folder-note index and source-tagged artifacts. Merge duplicate recordings into a single folder by time-interval overlap, flag low-confidence matches, and run incremental, non-destructive syncs that skip unchanged meetings."
 
     stats: {
-        downloads:  130
+        downloads:  151
         updated_at: 1782482027000
     }
 }

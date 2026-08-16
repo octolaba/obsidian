@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/voice
 alt:
   - https://github.com/chrisurf/obsidian-voice
-downloads: 33644
-updated at: "2026-07-19T13:29:56Z"
+downloads: 35520
+updated at: "2026-08-02T20:19:14Z"
 related to:
   - "[[GitHub - 667733410]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Voice turns any note into natural, lifelike text-to-speech (TTS), listen to your notes like an audiobook, hands-free, on desktop and mobile. The new Voice player sits in your sidebar: play notes and saved audio as chapters, skip, rewind, fast-forward, repeat, and change speed, a podcast-style player for your vault. Read the current note aloud or listen to a whole folder back to back. Download MP3 audio that auto-embeds into notes for offline listening, and cache audio to avoid repeat synthesis costs. Read selected text or the full note, switch voices on the fly, and watch real-time synthesis progress. Pick your speech engine, AWS Polly, ElevenLabs, Google Cloud Text-to-Speech, OpenAI or Azure Speech, with natural neural voices across many languages. Your credentials stay private in your own account. Perfect for reading, learning, accessibility, and reinforcing ideas by listening."
 
     stats: {
-        downloads:  33644
-        updated_at: 1784467796000
+        downloads:  35520
+        updated_at: 1785701954000
     }
 }
 ```

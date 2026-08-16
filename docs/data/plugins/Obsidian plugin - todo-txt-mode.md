@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/todo-txt-mode
 alt:
   - https://github.com/rioskit/obsidian-todo-txt-mode
-downloads: 1488
+downloads: 1549
 updated at: "2025-07-07T23:26:38Z"
 related to:
   - "[[GitHub - 979882087]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight todo.txt elements: priorities, projects (+project), contexts (@context), due: dates, completion marks and rec: markers. Add completion dates, generate recurring tasks from rec: intervals, move completed tasks to a done file, and sort by priority, project, context or due date."
 
     stats: {
-        downloads:  1488
+        downloads:  1549
         updated_at: 1751930798000
     }
 }

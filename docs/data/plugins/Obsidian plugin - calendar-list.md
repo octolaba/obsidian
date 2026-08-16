@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/calendar-list
 alt:
   - https://github.com/lumargh/obsidian-calendar-list
-downloads: 129
+downloads: 143
 updated at: "2026-06-14T18:55:20Z"
 related to:
   - "[[GitHub - 1258685487]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Pull events from your Calendar and insert them into your notes as a configurable, formatted list of titles, dates, and times. Trigger inline with `))` or run the Insert Calendar Events command to pick presets or a custom range, and exclude slow calendars to skip unwanted sources."
 
     stats: {
-        downloads:  129
+        downloads:  143
         updated_at: 1781463320000
     }
 }

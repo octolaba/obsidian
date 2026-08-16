@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/format-hotkeys-obsidian
 alt:
   - https://github.com/anstosa/format-hotkeys-obsidian
-downloads: 8029
+downloads: 8073
 updated at: "2021-05-14T16:14:31Z"
 related to:
   - "[[GitHub - 344873846]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add Google Docs–style keyboard shortcuts for headings, lists, blockquotes, checklists, bold and italics. Use improved bold/italic handling that works across list lines and inserts the cursor inside new markup when no text is selected."
 
     stats: {
-        downloads:  8029
+        downloads:  8073
         updated_at: 1621008871000
     }
 }

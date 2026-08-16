@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-nutrition-tracker
 alt:
   - https://github.com/rnaidenov/obsidian-ai-nutrition-tracker-plugin
-downloads: 626
+downloads: 664
 updated at: "2026-03-02T19:20:53Z"
 related to:
   - "[[GitHub - 1012390584]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Log meals by describing them in plain language or uploading photos and let AI extract calories, protein, carbs and fat. Save favorite meals and auto-create reusable, clean nutrition entries in your vault for daily tracking and progress."
 
     stats: {
-        downloads:  626
+        downloads:  664
         updated_at: 1772479253000
     }
 }

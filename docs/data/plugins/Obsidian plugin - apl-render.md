@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/apl-render
 alt:
   - https://github.com/vzsky/apl-obsidian
-downloads: 3314
+downloads: 3325
 updated at: "2023-07-20T07:37:44Z"
 related to:
   - "[[GitHub - 666340918]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render APL tick notation into proper APL Unicode using the RIDE convention inside code blocks tagged apl. Display common APL symbols (averages, variance, box) as Unicode and use an APL385 font for best appearance."
 
     stats: {
-        downloads:  3314
+        downloads:  3325
         updated_at: 1689838664000
     }
 }

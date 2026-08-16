@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/eisenhower-bases-view
 alt:
   - https://github.com/nakaba-lab/eisenhower-bases-view
-downloads: 90
+downloads: 120
 updated at: "2026-07-13T16:25:05Z"
 related to:
   - "[[GitHub - 1282785515]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display notes from an Obsidian Base as a 2×2 Eisenhower matrix (urgency × importance) and drag cards between quadrants to write the classification back to each note's frontmatter. Run fully locally, follow Obsidian’s language or force English/Japanese, show uncategorized and locked notes, and provide a one-step undo for the last move."
 
     stats: {
-        downloads:  90
+        downloads:  120
         updated_at: 1783959905000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/heading-compass
 alt:
   - https://github.com/kulysocc/obsidian-heading-compass
-downloads: 319
+downloads: 372
 updated at: "2026-06-05T23:46:30Z"
 related to:
   - "[[GitHub - 1174213599]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a fuzzy heading palette for quick search and jump, or display a floating outline panel to keep your note’s structure always visible. Jump to headings in source or preview with click navigation, view tree-style hierarchy prefixes, toggle H1–H6 visibility, and ignore frontmatter and fenced code blocks when parsing."
 
     stats: {
-        downloads:  319
+        downloads:  372
         updated_at: 1780703190000
     }
 }

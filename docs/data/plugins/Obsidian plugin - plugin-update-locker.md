@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/plugin-update-locker
 alt:
   - https://github.com/lemon695/obsidian-plugin-update-locker
-downloads: 738
+downloads: 855
 updated at: "2026-06-10T06:21:39Z"
 related to:
   - "[[GitHub - 902672985]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Lock specified plugins to prevent automatic updates by changing their manifest.json version so Obsidian's update checks skip them. Use the configuration page to toggle lock/unlock per plugin and restore original versions for normal updates."
 
     stats: {
-        downloads:  738
+        downloads:  855
         updated_at: 1781072499000
     }
 }

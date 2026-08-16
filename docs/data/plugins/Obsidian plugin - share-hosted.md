@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/share-hosted
 alt:
   - https://github.com/yut0takagi/obsidian-share-hosted
-downloads: 80
+downloads: 93
 updated at: "2026-05-30T15:37:16Z"
 related to:
   - "[[GitHub - 1254396122]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Share notes with three audience modes: Org, Allowlist (specific people), or Public. Sign in with your email—no Cloudflare setup—and create expiring share links you can copy or revoke. Store content on Cloudflare R2 with reader access via one-time email PIN; optionally self-host the backend via a Cloudflare worker."
 
     stats: {
-        downloads:  80
+        downloads:  93
         updated_at: 1780155436000
     }
 }

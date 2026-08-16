@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/dashboard-hub
 alt:
   - https://github.com/takeshy/obsidian-dashboard-hub
-downloads: 6
-updated at: "2026-07-24T04:32:50Z"
+downloads: 350
+updated at: "2026-08-11T10:04:24Z"
 related to:
   - "[[GitHub - 1310402285]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Turn your Obsidian vault into a single-screen workspace combining Bases, notes, PDFs/EPUBs, Kanban boards, Calendars, Timelines, web pages, and encrypted secrets. Arrange draggable, resizable widgets, edit files inline, move Kanban cards to update source notes, and store dashboards as readable YAML files in your vault with no external accounts."
 
     stats: {
-        downloads:  6
-        updated_at: 1784867570000
+        downloads:  350
+        updated_at: 1786442664000
     }
 }
 ```

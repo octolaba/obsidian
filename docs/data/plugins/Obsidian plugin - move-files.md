@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/move-files
 alt:
   - https://github.com/nitishkhurana/obsidian-move-files-plugin
-downloads: 1371
+downloads: 1427
 updated at: "2026-03-03T08:52:03Z"
 related to:
   - "[[GitHub - 980583077]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move linked files (images, PDFs, JPGs, etc.) into a new folder named \"{note name} files\" and automatically update links in the note to their new locations. Choose to also move the open note and preserve the original folder structure when creating the asset folder."
 
     stats: {
-        downloads:  1371
+        downloads:  1427
         updated_at: 1772527923000
     }
 }

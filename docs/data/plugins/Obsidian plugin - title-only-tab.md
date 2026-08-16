@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/title-only-tab
 alt:
   - https://github.com/tristone13th/obsidian-title-only-tab
-downloads: 311
+downloads: 325
 updated at: "2025-04-06T16:52:33Z"
 related to:
   - "[[GitHub - 961440624]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set tab names to the YAML frontmatter \"title\" value for Jekyll notes. Replace long filenames in editor tabs with the frontmatter title to display concise, readable tab labels."
 
     stats: {
-        downloads:  311
+        downloads:  325
         updated_at: 1743958353000
     }
 }

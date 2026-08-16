@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bookxnote-sync
 alt:
   - https://github.com/codelistening/obsidian-bookxnote
-downloads: 707
+downloads: 732
 updated at: "2024-08-23T01:32:58Z"
 related to:
   - "[[GitHub - 843805207]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync BookXNote reading notes into Obsidian as organized Markdown files. Read BookXNote's JSON Notebooks and import all or individual notes while keeping notebook structure and note content intact."
 
     stats: {
-        downloads:  707
+        downloads:  732
         updated_at: 1724376778000
     }
 }

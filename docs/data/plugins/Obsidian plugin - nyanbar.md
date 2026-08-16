@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nyanbar
 alt:
   - https://github.com/xhyabunny/nyanbar
-downloads: 910
+downloads: 932
 updated at: "2025-09-22T19:55:37Z"
 related to:
   - "[[GitHub - 803092874]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add an animated Nyan Cat progress bar to notes to visualize task completion. Use /nyan or /pusheen with a value 0–100 or set auto to track checked checkboxes, with automatic updates as tasks change."
 
     stats: {
-        downloads:  910
+        downloads:  932
         updated_at: 1758570937000
     }
 }

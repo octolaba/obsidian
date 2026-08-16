@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/zoom-map
 alt:
   - https://github.com/jareika/zoom-map
-downloads: 48234
-updated at: "2026-06-17T14:01:02Z"
+downloads: 57189
+updated at: "2026-08-03T16:05:05Z"
 related to:
   - "[[GitHub - 1095241412]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Embed zoomable, interactive images as maps in notes and place markers, stickers, drawings, measurements, HUD pins and editable text layers atop them. Edit marker layers with icons, links and tooltips, switch base images and overlays, draw shapes, and measure calibrated distances with units and travel-time presets."
 
     stats: {
-        downloads:  48234
-        updated_at: 1781704862000
+        downloads:  57189
+        updated_at: 1785773105000
     }
 }
 ```

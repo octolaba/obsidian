@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/inline-note
 alt:
   - https://github.com/yaye-work/inline-note
-downloads: 65
+downloads: 102
 updated at: "2026-07-20T09:06:08Z"
 related to:
   - "[[GitHub - 1301267767]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Expand any [[wikilink]] into an editable note body inline beneath the link. Just hit tab after a [[link]] to create your inline note. Toggle Tab to expand, or collapse the inline note. Nest inline notes up to five levels. Cards/Vertical accent line styles options available."
 
     stats: {
-        downloads:  65
+        downloads:  102
         updated_at: 1784538368000
     }
 }

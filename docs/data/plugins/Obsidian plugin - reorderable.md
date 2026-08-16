@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/reorderable
 alt:
   - https://github.com/hosikiti/obsidian-reorderable-lists
-downloads: 272
+downloads: 401
 updated at: "2026-06-04T07:28:01Z"
 related to:
   - "[[GitHub - 1258157420]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Drag and drop list items in Live Preview (desktop) using a hover grip to reorder them. Support unordered, ordered and task lists; move nested children with their parent and preserve scroll position after reordering."
 
     stats: {
-        downloads:  272
+        downloads:  401
         updated_at: 1780558081000
     }
 }

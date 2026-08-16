@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/todoist-board
 alt:
   - https://github.com/propranolol11/todoist-board
-downloads: 11023
+downloads: 11427
 updated at: "2026-06-12T15:40:02Z"
 related to:
   - "[[GitHub - 1007004925]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Todoist Board lets you: - Manage Todoist tasks inside Obsidian as interactive boards. - Open a board in the sidebar or embed filtered task views directly in notes. - Filter by project, priority, due date, or custom Todoist queries; - Actions: add, edit, schedule, move, complete, and delete tasks - View parent tasks and subtasks with collapse controls"
 
     stats: {
-        downloads:  11023
+        downloads:  11427
         updated_at: 1781278802000
     }
 }

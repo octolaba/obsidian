@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/template-search-library
 alt:
   - https://github.com/pentchaff/obsidian-search-library
-downloads: 3864
+downloads: 3879
 updated at: "2023-08-09T17:10:40Z"
 related to:
   - "[[GitHub - 676615191]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save and reuse complex Obsidian search queries as templates for quick recall. Run free-form searches or apply templates and visualize results in the graph view, using QuickAdd to trigger saved or template-enabled searches."
 
     stats: {
-        downloads:  3864
+        downloads:  3879
         updated_at: 1691601040000
     }
 }

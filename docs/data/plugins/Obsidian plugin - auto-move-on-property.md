@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-move-on-property
 alt:
   - https://github.com/soulbits-vibe/Obsidian-Auto-Move-On-Property
-downloads: 416
+downloads: 546
 updated at: "2026-07-10T16:56:36Z"
 related to:
   - "[[GitHub - 1087325628]]"
@@ -28,7 +28,7 @@ Auto Move On Property moves notes into folders according to a YAML frontmatter v
 plugin: {
     id:     "auto-move-on-property"
     name:   "Auto Move On Property"
-    author: "Soul"
+    author: "Soulbits"
     repo:   "soulbits-vibe/Obsidian-Auto-Move-On-Property"
 
     html_url:    "https://community.obsidian.md/plugins/auto-move-on-property"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move notes into folders based on YAML frontmatter values. Map property/value pairs to destination folders and watch the vault root and chosen folders for matching single or list values."
 
     stats: {
-        downloads:  416
+        downloads:  546
         updated_at: 1783702596000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/language-recall
 alt:
   - https://github.com/chaskane/better-recall
-downloads: 123
+downloads: 135
 updated at: "2026-06-23T20:37:09Z"
 related to:
   - "[[GitHub - 1087410094]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and manage Anki-style decks and cards directly inside Obsidian with Markdown-rendered content and Obsidian link support. Review due cards with Again/Hard/Good/Easy scheduling and estimated next-review times, edit mid-review, move cards between decks, and translate front-to-back in the editor without an API key."
 
     stats: {
-        downloads:  123
+        downloads:  135
         updated_at: 1782247029000
     }
 }

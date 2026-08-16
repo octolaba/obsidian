@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/heading-decorator
 alt:
   - https://github.com/dragonish/obsidian-heading-decorator
-downloads: 4826
+downloads: 4902
 updated at: "2026-02-19T13:06:31Z"
 related to:
   - "[[GitHub - 945005219]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Decorate headings with configurable decorations based on level across Reading view, Live Preview, Source mode, Outline, Quiet Outline and Headings in Explorer. Control per-note enablement via a metadata key and choose ordered, independent, splice or unordered decoration modes without modifying note content."
 
     stats: {
-        downloads:  4826
+        downloads:  4902
         updated_at: 1771506391000
     }
 }

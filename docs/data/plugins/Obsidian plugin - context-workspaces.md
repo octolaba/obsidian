@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/context-workspaces
 alt:
   - https://github.com/jinmugo/obsidian-context-workspaces
-downloads: 983
+downloads: 1106
 updated at: "2026-06-17T00:53:14Z"
 related to:
   - "[[GitHub - 1046654206]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create focused, clutter-free zones for each task and switch between them quickly using a sidebar of space icons. Save and restore state automatically or via snapshots, apply per-space themes and modes, reorder spaces with drag-and-drop, and sync with Obsidian's Workspace API."
 
     stats: {
-        downloads:  983
+        downloads:  1106
         updated_at: 1781657594000
     }
 }

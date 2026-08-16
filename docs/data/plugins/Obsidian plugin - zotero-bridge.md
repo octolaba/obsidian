@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zotero-bridge
 alt:
   - https://github.com/vanakat/zotero-bridge
-downloads: 15597
+downloads: 16253
 updated at: "2026-07-14T00:42:10Z"
 related to:
   - "[[GitHub - 455808525]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Expose a standard API for other Obsidian plugins to connect to Zotero, supporting Zotero 7 Local API and older Zotero via ZotServer. Enable plugins and user scripts to search, fetch, and read Zotero item data directly inside Obsidian."
 
     stats: {
-        downloads:  15597
+        downloads:  16253
         updated_at: 1783989730000
     }
 }

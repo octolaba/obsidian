@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ui-sketch
 alt:
   - https://github.com/jkraccoon/obsidian-ui-sketch
-downloads: 319
+downloads: 396
 updated at: "2026-06-20T06:40:26Z"
 related to:
   - "[[GitHub - 1219774058]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render mid-fidelity web UI wireframes inside notes by writing short, readable YAML in a ui-sketch fenced block. Preview wireframes live in the pane, adapt to your Obsidian theme and viewport, show friendly line-numbered YAML errors, and produce sanitized, stateless DOM output. 사람이 읽기 쉽고 AI가 다루기 좋은 YAML로 웹 UI 와이어프레임을 그려서 Obsidian 노트 안에 바로 렌더링합니다. 클로드나 코덱스로 서비스 기획을 하는데 화면 레이아웃이나 구성요소를 표현하는 방식이 맘에 안드신다면. 이걸 쓰면됩니다."
 
     stats: {
-        downloads:  319
+        downloads:  396
         updated_at: 1781937626000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-custom-attachment-location
 alt:
   - https://github.com/mnaoumov/obsidian-custom-attachment-location
-downloads: 77209
-updated at: "2026-07-23T01:44:43Z"
+downloads: 89180
+updated at: "2026-08-08T17:36:18Z"
 related to:
   - "[[GitHub - 472486817]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Customize attachment save paths and filenames using tokens (like ${noteFileName} and date formats). Rename pasted files, collect attachments from notes into configured folders, and control how links to attachments are inserted into Markdown."
 
     stats: {
-        downloads:  77209
-        updated_at: 1784771083000
+        downloads:  89180
+        updated_at: 1786210578000
     }
 }
 ```

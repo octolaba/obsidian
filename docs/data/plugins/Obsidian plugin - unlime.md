@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/unlime
 alt:
   - https://github.com/shandyba/obsidian-lime
-downloads: 385
+downloads: 395
 updated at: "2025-07-16T14:17:37Z"
 related to:
   - "[[GitHub - 996184379]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle visibility of Unlinked mentions in the Backlinks and Outgoing Links panels. Hide irrelevant unlinked entries independently in each panel to reduce clutter when working with large vaults."
 
     stats: {
-        downloads:  385
+        downloads:  395
         updated_at: 1752675457000
     }
 }

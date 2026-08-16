@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/explorer-property-attributes
 alt:
   - https://github.com/hemy301/explorer-property-attributes
-downloads: 102
+downloads: 143
 updated at: "2026-07-03T18:36:30Z"
 related to:
   - "[[GitHub - 1287524036]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mark a note read or done with one click: every note gets a footer bar with a checkbox per done-property, and finished notes are instantly grayed out with a green checkmark in the file explorer. Works out of the box — mark one note once, and any note in the vault can be marked with one click. For custom styling, every frontmatter property is exposed as a data-link-<property> attribute on file-explorer items, so plain CSS snippets can color, dim or badge files by status, priority or type. Updates are instant when a property changes; list values and non-ASCII property names are supported."
 
     stats: {
-        downloads:  102
+        downloads:  143
         updated_at: 1783103790000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zotero-direct
 alt:
   - https://github.com/wenzhi-ding/zotero-direct
-downloads: 290
+downloads: 316
 updated at: "2026-05-13T13:38:07Z"
 related to:
   - "[[GitHub - 1156350866]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate literature notes from your Zotero library by importing metadata (title, authors, abstract) while excluding PDF highlights, annotations, and images. Read the Zotero database directly without extra plugins or exports and keep note creation manual to encourage active organization."
 
     stats: {
-        downloads:  290
+        downloads:  316
         updated_at: 1778679487000
     }
 }

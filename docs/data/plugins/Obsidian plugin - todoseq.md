@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/todoseq
 alt:
   - https://github.com/scross01/obsidian-todoseq
-downloads: 5133
-updated at: "2026-07-17T20:46:59Z"
+downloads: 5436
+updated at: "2026-08-07T11:24:02Z"
 related to:
   - "[[GitHub - 1030940155]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Capture tasks with simple state keywords (TODO, DOING, DONE, LATER, NOW, WAIT) directly in your notes and surface them in a unified, searchable Task List without checkboxes. Filter and sort by state, priority, date or tag, render dynamic task lists inside notes, extract TODOs from code comments, track subtasks and repeating schedules."
 
     stats: {
-        downloads:  5133
-        updated_at: 1784321219000
+        downloads:  5436
+        updated_at: 1786101842000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/remotely-save
 alt:
   - https://github.com/remotely-save/remotely-save
-downloads: 2085988
+downloads: 2138074
 updated at: "2024-10-20T09:14:34Z"
 related to:
   - "[[GitHub - 418162859]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault with many cloud providers (Amazon S3/R2, Dropbox, OneDrive, WebDAV, Google Drive and more) across desktop and mobile. Use end-to-end encryption, scheduled auto-sync, conflict handling, and regex filters to skip large files or paths."
 
     stats: {
-        downloads:  2085988
+        downloads:  2138074
         updated_at: 1729415674000
     }
 }

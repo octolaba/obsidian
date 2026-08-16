@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/find-n-replace
 alt:
   - https://github.com/gapmiss/find-n-replace
-downloads: 2913
+downloads: 3691
 updated at: "2026-06-10T02:42:30Z"
 related to:
   - "[[GitHub - 1075684606]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search your entire vault and replace matches across multiple files using JavaScript regex with capture-group support. Preview matches in a navigable list, select specific hits or whole files, filter by folders or file types, and jump to any match to review before applying changes."
 
     stats: {
-        downloads:  2913
+        downloads:  3691
         updated_at: 1781059350000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/theme-picker
 alt:
   - https://github.com/trey-sedate/obsidian-theme-picker
-downloads: 39443
+downloads: 39992
 updated at: "2022-10-15T17:25:21Z"
 related to:
   - "[[GitHub - 395323808]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Select installed Obsidian themes from a quick picker inside the Settings modal. Switch themes instantly from your vault's .obsidian/themes folder without navigating away."
 
     stats: {
-        downloads:  39443
+        downloads:  39992
         updated_at: 1665854721000
     }
 }

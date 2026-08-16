@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/continuity-sketch
 alt:
   - https://github.com/wasmir/obsidian-continuity-sketch
-downloads: 359
+downloads: 396
 updated at: "2026-03-15T14:12:49Z"
 related to:
   - "[[GitHub - 1182122472]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Draw on a nearby iPad with Apple Pencil via Apple Continuity Sketch and insert the resulting image at the cursor in your note. Connect via macOS Continuity to capture sketches from your iPad and add them inline (requires macOS 12+)."
 
     stats: {
-        downloads:  359
+        downloads:  396
         updated_at: 1773583969000
     }
 }

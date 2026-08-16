@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pluto-hub
 alt:
   - https://github.com/xiajianduan/obsidian-pluto-hub
-downloads: 106
+downloads: 111
 updated at: "2026-05-20T16:03:35Z"
 related to:
   - "[[GitHub - 1126295345]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage, edit, and run local code modules inside Obsidian with a visual module grid, drag-and-drop sorting, enable/disable controls, and import/export backups. Edit multi-file modules with CodeMirror 6 live preview, auto-inject CSS, parse JSON/YAML configs, and mount outputs to window.pluto for plugin integration."
 
     stats: {
-        downloads:  106
+        downloads:  111
         updated_at: 1779293015000
     }
 }

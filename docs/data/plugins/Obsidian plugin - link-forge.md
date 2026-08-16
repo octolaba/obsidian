@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/link-forge
 alt:
   - https://github.com/philpalmieri/obsidian-link-forge
-downloads:
-updated at:
+downloads: 28
+updated at: "2026-07-24T16:16:16Z"
 related to:
   - "[[GitHub - 1224781696]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/philpalmieri/obsidian-link-forge"
     description: "Auto-creates linked files when they don't exist, in real-time. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Auto-create pages for unresolved wikilinks when you leave a line. Create missing parent folders and shorten links to the basename when it resolves uniquely. Preserve headings and aliases and trigger Templater file-creation events for automatic templates."
+
+    stats: {
+        downloads:  28
+        updated_at: 1784909776000
+    }
 }
 ```
 

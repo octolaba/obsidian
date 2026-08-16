@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mapbox-location
 alt:
   - https://github.com/aaronczichon/obsidian-location-plugin
-downloads: 1984
+downloads: 2016
 updated at: "2026-03-13T07:17:36Z"
 related to:
   - "[[GitHub - 790303904]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate map images for notes from coordinates or search terms. Use a code block labeled \"location\" with latitude/longitude or a place name to fetch the most relevant result and embed a map image."
 
     stats: {
-        downloads:  1984
+        downloads:  2016
         updated_at: 1773386256000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/typify
 alt:
   - https://github.com/leike-dev/Obsidian-Typify
-downloads: 1967
+downloads: 2123
 updated at: "2026-06-10T21:08:15Z"
 related to:
   - "[[GitHub - 1153135411]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Typify transforms your metadata property values into visually rich, color-coded status pills. Pick a base color and the plugin automatically generates a full light/dark theme palette — choose between subtle (translucent) or solid color modes. Add icons from 1700+ Lucide icons or import your own custom SVGs. Features: • Style any YAML property — scope styles globally or per field • Three shape options: pill, rectangle, or flat • Full Bases support — styles appear in both table and card views • Export and import configurations as JSON • Localized in English, Portuguese, Spanish, French, and Chinese"
 
     stats: {
-        downloads:  1967
+        downloads:  2123
         updated_at: 1781125695000
     }
 }

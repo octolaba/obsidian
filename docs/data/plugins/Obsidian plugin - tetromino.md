@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tetromino
 alt:
   - https://github.com/frostmute/tetromino
-downloads: 14
+downloads: 27
 updated at: "2026-07-16T10:52:00Z"
 related to:
   - "[[GitHub - 1194049768]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Are.na channels, blocks, metadata, and attachments into your vault as stable, deterministic Markdown notes. Run manual imports with dry-run previews, pagination and retry handling, and write channel index notes plus a master Are.na overview while keeping the flow one-way."
 
     stats: {
-        downloads:  14
+        downloads:  27
         updated_at: 1784199120000
     }
 }

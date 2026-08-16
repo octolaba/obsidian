@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/spellfix
 alt:
   - https://github.com/yoav6/Obsidian-SpellFix
-downloads: 1844
+downloads: 2101
 updated at: "2026-06-24T13:54:49Z"
 related to:
   - "[[GitHub - 1144120383]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fix spelling mistakes instantly using keyboard shortcuts to accept native spellchecker suggestions without opening the context menu. Cycle suggestions, restore originals, add suggestions to ignore, and enable optional autocorrect of the last word on space."
 
     stats: {
-        downloads:  1844
+        downloads:  2101
         updated_at: 1782309289000
     }
 }

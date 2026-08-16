@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pomodoro-timer
 alt:
   - https://github.com/eatgrass/obsidian-pomodoro-timer
-downloads: 55918
+downloads: 57258
 updated at: "2024-05-30T07:01:19Z"
 related to:
   - "[[GitHub - 723225036]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a customizable Pomodoro timer to Obsidian with adjustable work/break intervals, audible alerts, and a status bar progress display. Log sessions to daily notes and automatically update task pomodoro counts and actual time fields."
 
     stats: {
-        downloads:  55918
+        downloads:  57258
         updated_at: 1717052479000
     }
 }

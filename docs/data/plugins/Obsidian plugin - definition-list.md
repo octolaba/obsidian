@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/definition-list
 alt:
   - https://github.com/shammond42/definition-list
-downloads: 3438
+downloads: 3486
 updated at: "2025-06-26T18:55:09Z"
 related to:
   - "[[GitHub - 815287823]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add HTML definition lists to Obsidian and render them in reading view and live preview/source mode. Support Extended Syntax and Pandoc features like tilde (~) definition markers and two-space indented definition lines. Provide minimal styling and allow further customization via CSS."
 
     stats: {
-        downloads:  3438
+        downloads:  3486
         updated_at: 1750964109000
     }
 }

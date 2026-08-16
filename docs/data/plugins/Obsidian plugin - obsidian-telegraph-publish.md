@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-telegraph-publish
 alt:
   - https://github.com/reorx/obsidian-telegraph-publish
-downloads: 5976
+downloads: 6019
 updated at: "2026-01-19T03:10:00Z"
 related to:
   - "[[GitHub - 468825940]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish the active note to a new or existing Telegraph page, update published pages, or clear published content. Render common Markdown (bold, italics, links, code blocks) within Telegraph’s HTML limits and provide the live page URL after publishing; image upload support coming soon."
 
     stats: {
-        downloads:  5976
+        downloads:  6019
         updated_at: 1768792200000
     }
 }

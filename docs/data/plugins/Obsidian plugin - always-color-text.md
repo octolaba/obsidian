@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/always-color-text
 alt:
   - https://github.com/kazi-aidah/always-color-text
-downloads: 11291
+downloads: 12490
 updated at: "2026-05-31T10:22:37Z"
 related to:
   - "[[GitHub - 1015883875]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Color and highlight keywords, names, dates, or any text across your vault so colors appear automatically in Live Preview and Reading view. Select text, pick a color from a unified picker, and apply flexible match rules and per-entry styling (borders, transparency, case sensitivity) for consistent highlighting everywhere."
 
     stats: {
-        downloads:  11291
+        downloads:  12490
         updated_at: 1780222957000
     }
 }

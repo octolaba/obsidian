@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/simple-home
 alt:
   - https://github.com/samyelkina/Simple-home-Obsidian-Plugin
-downloads: 251
-updated at: "2026-05-29T21:58:19Z"
+downloads: 306
+updated at: "2026-08-06T02:08:19Z"
 related to:
   - "[[GitHub - 1253842217]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Open a clean home view with file-name search, recent notes, and a simplified vault tree for quick navigation. Move deleted notes to a local trash you can restore or permanently remove, and create temporary notes or reopen recently closed notes in new tabs."
 
     stats: {
-        downloads:  251
-        updated_at: 1780091899000
+        downloads:  306
+        updated_at: 1785982099000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/navigate-headings
 alt:
   - https://github.com/rumcajsev/obsidian-navigate-headings
-downloads: 247
+downloads: 292
 updated at: "2026-05-17T00:33:34Z"
 related to:
   - "[[GitHub - 1221610887]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "See and jump between all file headings directly in the explorer without switching tabs. Expand files to reveal their headings, click any heading to jump to that section, and watch the active heading highlight as you scroll."
 
     stats: {
-        downloads:  247
+        downloads:  292
         updated_at: 1778978014000
     }
 }

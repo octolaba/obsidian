@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/another-simple-todoist-sync
 alt:
   - https://github.com/eudennis/ultimate-todoist-sync-for-obsidian-experiment
-downloads: 3890
+downloads: 3939
 updated at: "2026-06-04T19:53:18Z"
 related to:
   - "[[GitHub - 813346829]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync tasks between Obsidian and Todoist, creating, editing, and deleting tasks from Obsidian while syncing due dates, times, labels, reminders, priorities, and completion status. Preserve Todoist-only fields like comments and provide one-way or bi-directional syncing for specific metadata."
 
     stats: {
-        downloads:  3890
+        downloads:  3939
         updated_at: 1780602798000
     }
 }

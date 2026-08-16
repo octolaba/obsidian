@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vare
 alt:
   - https://github.com/4source/vare-obsidian-plugin
-downloads: 2137
+downloads: 2202
 updated at: "2025-08-19T22:36:45Z"
 related to:
   - "[[GitHub - 771021851]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage plugins and themes by selecting specific releases to install or revert to previous versions. Install unlisted releases from GitHub and test beta or pre-release builds, then switch back as needed."
 
     stats: {
-        downloads:  2137
+        downloads:  2202
         updated_at: 1755643005000
     }
 }

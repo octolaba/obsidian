@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/screengarden-obsidian
 alt:
   - https://github.com/screendotgarden/screengarden-obsidian
-downloads: 8479
+downloads: 8519
 updated at: "2026-01-23T12:42:02Z"
 related to:
   - "[[GitHub - 631341117]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Collaborate on Obsidian notes in real time with live cursors and presence indicators. Share folders or entire vaults with fine-grained public/private permissions, sync files (images, video, any file), and access or edit notes via the web."
 
     stats: {
-        downloads:  8479
+        downloads:  8519
         updated_at: 1769172122000
     }
 }

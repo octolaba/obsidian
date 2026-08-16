@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/fit-pdf
 alt:
   - https://github.com/t0masgutierrez/fit-pdf
-downloads: 225
+downloads: 279
 updated at: "2026-07-17T20:23:59Z"
 related to:
   - "[[GitHub - 1243374194]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Control how PDFs open in Obsidian, including zoom, sidebar, and start position. Set defaults for all PDFs or override them for individual PDFs."
 
     stats: {
-        downloads:  225
+        downloads:  279
         updated_at: 1784319839000
     }
 }

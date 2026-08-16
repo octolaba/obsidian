@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/weekly-routine-planner
 alt:
   - https://github.com/lylaminju/weekly-routine-planner
-downloads: 326
+downloads: 392
 updated at: "2026-05-20T19:12:46Z"
 related to:
   - "[[GitHub - 1191179917]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Plan recurring weekly routines with a timetable-style editor and a fenced weekly-routine block. Focus on repeating weekly structure rather than dated calendar events or one-off schedules. Add time-blocked entries per weekday, manage colored categories, and keep the rest of the note untouched since the plugin only writes between the planner markers."
 
     stats: {
-        downloads:  326
+        downloads:  392
         updated_at: 1779304366000
     }
 }

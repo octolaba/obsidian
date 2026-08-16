@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/typst-pdf-export
 alt:
   - https://github.com/alexkucera/obsidian-typst-pdf-export
-downloads: 1767
+downloads: 1892
 updated at: "2025-11-09T21:22:13Z"
 related to:
   - "[[GitHub - 1046939900]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export Obsidian notes to PDF using the Typst typesetting system. Choose built-in or custom templates, batch-export folders, embed images/PDFs and attachments, and produce single-page or paginated layouts with live progress and automatic font discovery."
 
     stats: {
-        downloads:  1767
+        downloads:  1892
         updated_at: 1762723333000
     }
 }

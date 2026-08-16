@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/energy-tracker
 alt:
   - https://github.com/minus1min/obsidian-energy-tracker
-downloads: 152
+downloads: 176
 updated at: "2026-05-19T04:21:02Z"
 related to:
   - "[[GitHub - 1241189334]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track your energy and activities across six daily time slots for 30 days using color-coded levels (Low, Steady, Active, Peak). Log activities per slot and mark them as energizing, neutral, or draining. Export a text file with a built-in AI prompt and keep all data stored locally in your vault."
 
     stats: {
-        downloads:  152
+        downloads:  176
         updated_at: 1779164462000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/share-to-notionnext
 alt:
   - https://github.com/jxpeng98/obsidian-to-NotionNext
-downloads: 16345
+downloads: 16566
 updated at: "2026-03-04T10:38:25Z"
 related to:
   - "[[GitHub - 676608777]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Share files from Obsidian to any Notion database via the Notion API, including general, NotionNext blog templates, or fully custom schemas. Map frontmatter keys to Notion properties, switch target databases on the fly, and upload local images and PDFs (Wikilinks and Markdown links supported)."
 
     stats: {
-        downloads:  16345
+        downloads:  16566
         updated_at: 1772620705000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/guid-front-matter
 alt:
   - https://github.com/llimllib/obsidian-guid-plugin
-downloads: 5562
+downloads: 5596
 updated at: "2023-06-21T01:06:13Z"
 related to:
   - "[[GitHub - 546804078]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a unique GUID to the YAML front matter of Markdown files as you edit them. Run a command to insert IDs into all existing notes in your vault."
 
     stats: {
-        downloads:  5562
+        downloads:  5596
         updated_at: 1687309573000
     }
 }

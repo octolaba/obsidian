@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/flux-tts
 alt:
   - https://github.com/sonickarnati/flux-tts
-downloads: 70
+downloads: 101
 updated at: "2026-07-16T04:24:26Z"
 related to:
   - "[[GitHub - 1269928323]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Record audio from the ribbon or command palette, save the file in your vault, and create a note with an embedded audio player plus automatic Groq Whisper transcription. Produce optional timestamped segments linked to the audio, apply AI cleanup while keeping the original transcript, use note templates, and auto-stop or warn on microphone silence; use on desktop and mobile."
 
     stats: {
-        downloads:  70
+        downloads:  101
         updated_at: 1784175866000
     }
 }

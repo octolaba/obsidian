@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/color-marker
 alt:
   - https://github.com/ruisloan/obsidian-color-marker
-downloads: 70
+downloads: 113
 updated at: "2026-07-14T12:20:18Z"
 related to:
   - "[[GitHub - 1300449593]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Color Marker lets you flag the folders and notes that matter. Right-click any item in the file explorer, hover \"Color marker\" and pick one of 12 calendar-style colors. The item's name gets a colored dot and a translucent glass pill, so it jumps out instantly. Colors persist across restarts, follow items when renamed or moved, and can be removed anytime from the same menu. Works on desktop and mobile."
 
     stats: {
-        downloads:  70
+        downloads:  113
         updated_at: 1784031618000
     }
 }

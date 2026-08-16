@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tag-folder-explorer
 alt:
   - https://github.com/semisenioritis/Tag-Folder-Explorer
-downloads: 310
+downloads: 406
 updated at: "2026-06-19T15:17:38Z"
 related to:
   - "[[GitHub - 1261534869]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse your vault as virtual folders built from nested tags so files can appear in multiple locations simultaneously. View a sortable nested tag tree in the sidebar and gather untagged notes under a dedicated \"Untagged Files\" folder. Document folder context with associated metadata files."
 
     stats: {
-        downloads:  310
+        downloads:  406
         updated_at: 1781882258000
     }
 }

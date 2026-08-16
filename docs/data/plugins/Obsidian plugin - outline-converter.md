@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/outline-converter
 alt:
   - https://github.com/masaki39/outline-converter
-downloads: 2456
+downloads: 2493
 updated at: "2026-05-21T12:42:33Z"
 related to:
   - "[[GitHub - 784221400]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert bullet-point outlines into continuous text with intelligent header promotion: items with children become headers while leaf items become prose. Customize per-indentation-level before/after text, run on a selection or the whole note, ignore lines starting with //, and apply up to five sequential regex replacements."
 
     stats: {
-        downloads:  2456
+        downloads:  2493
         updated_at: 1779367353000
     }
 }

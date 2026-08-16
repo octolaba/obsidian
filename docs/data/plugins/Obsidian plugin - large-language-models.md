@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/large-language-models
 alt:
   - https://github.com/eharris128/Obsidian-LLM-Plugin
-downloads: 12295
+downloads: 12753
 updated at: "2026-07-23T02:09:03Z"
 related to:
   - "[[GitHub - 744241505]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Interact with cloud and local LLMs directly inside Obsidian, connecting to OpenAI, Anthropic, Google, Mistral, GPT4All, or Ollama. Open chats in a tab, sidebar, or floating action button popup and switch models per chat for flexible conversational workflows."
 
     stats: {
-        downloads:  12295
+        downloads:  12753
         updated_at: 1784772543000
     }
 }

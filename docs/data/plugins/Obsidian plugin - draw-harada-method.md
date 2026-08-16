@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/draw-harada-method
 alt:
   - https://github.com/yildbs/obsidian-harada-method-plugin
-downloads: 6011
+downloads: 6036
 updated at: "2023-04-28T15:33:34Z"
 related to:
   - "[[GitHub - 627400403]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Draw Harada Method charts from indented \"harada\" code blocks to map one goal, eight plans, and sixty-four actions. Create goal hierarchies using simple two-space or alternate indentation and render the Mandala/Mandara layout directly inside Obsidian."
 
     stats: {
-        downloads:  6011
+        downloads:  6036
         updated_at: 1682696014000
     }
 }

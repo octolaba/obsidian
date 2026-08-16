@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/spaced-repetition-ai
 alt:
   - https://github.com/ai-learning-tools/obsidian-spaced-repetition-ai
-downloads: 1351
+downloads: 1369
 updated at: "2025-03-05T07:05:21Z"
 related to:
   - "[[GitHub - 831568577]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate AI flashcards from your notes and schedule reviews using the FSRS spaced-repetition algorithm. Add cards inline and run focused review sessions, using generation, review, or both."
 
     stats: {
-        downloads:  1351
+        downloads:  1369
         updated_at: 1741158321000
     }
 }

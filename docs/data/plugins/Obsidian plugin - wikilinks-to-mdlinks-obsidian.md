@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wikilinks-to-mdlinks-obsidian
 alt:
   - https://github.com/agathauy/wikilinks-to-mdlinks-obsidian
-downloads: 21582
+downloads: 22249
 updated at: "2020-11-18T21:04:46Z"
 related to:
   - "[[GitHub - 313615134]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle selected wikilinks to Markdown links and back. Place the cursor inside a link and run the command to convert individual links in-place without altering surrounding text."
 
     stats: {
-        downloads:  21582
+        downloads:  22249
         updated_at: 1605733486000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/translate
 alt:
   - https://github.com/fevol/obsidian-translate
-downloads: 70051
+downloads: 71842
 updated at: "2024-07-02T12:46:05Z"
 related to:
   - "[[GitHub - 495224693]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Translate selections or entire files directly in Obsidian using a customizable, extensible translation interface. Connect to ten supported translation services, including offline and free options, and run commands to translate text, files, or open the Translation View."
 
     stats: {
-        downloads:  70051
+        downloads:  71842
         updated_at: 1719924365000
     }
 }

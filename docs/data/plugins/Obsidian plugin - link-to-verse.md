@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/link-to-verse
 alt:
   - https://github.com/aygjiay/obsidian-link-to-verse
-downloads: 1306
+downloads: 1361
 updated at: "2026-03-28T14:19:40Z"
 related to:
   - "[[GitHub - 798385080]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create clickable links to Bible passages from natural references like John 3:16 directly in your notes. Generate links with built-in presets or custom URL templates and preferred Bible versions, replacing selected references with ready-to-open passage links."
 
     stats: {
-        downloads:  1306
+        downloads:  1361
         updated_at: 1774707580000
     }
 }

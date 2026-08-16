@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-weread-plugin
 alt:
   - https://github.com/zhaohongxuan/obsidian-weread-plugin
-downloads: 181449
+downloads: 187110
 updated at: "2026-07-18T14:03:05Z"
 related to:
   - "[[GitHub - 489844065]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Weread book metadata, highlights, chapter notes and reviews into Markdown files in your Obsidian vault, preserving covers, authors, ISBN and timestamps. Convert highlights and reading notes with customizable templates and frontmatter, and insert today’s entries into Daily Notes."
 
     stats: {
-        downloads:  181449
+        downloads:  187110
         updated_at: 1784383385000
     }
 }

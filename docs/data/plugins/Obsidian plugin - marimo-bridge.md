@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/marimo-bridge
 alt:
   - https://github.com/soakaye/obsidian-marimo-bridge
-downloads: 176
+downloads: 232
 updated at: "2026-07-05T08:31:02Z"
 related to:
   - "[[GitHub - 1271967565]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View and edit marimo .py notebooks inside Obsidian with an embedded web editor that saves edits straight to disk. Start and manage a local token-authenticated marimo server, embed the UI as full tabs or inline app blocks, and keep server processes reliably terminated (desktop only)."
 
     stats: {
-        downloads:  176
+        downloads:  232
         updated_at: 1783240262000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/slidev
 alt:
   - https://github.com/nirtamir2/obsidian-slidev
-downloads: 1563
+downloads: 1713
 updated at: "2026-07-19T08:10:09Z"
 related to:
   - "[[GitHub - 666947319]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview Markdown presentations from Obsidian using Slidev and render them live by starting a local Node.js Slidev server. Use your Slidev projects, themes, addons, and components with notes in your vault; works on desktop Obsidian and requires Node.js 20.12+ and a local @slidev/cli."
 
     stats: {
-        downloads:  1563
+        downloads:  1713
         updated_at: 1784448609000
     }
 }

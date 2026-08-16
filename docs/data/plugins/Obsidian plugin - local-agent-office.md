@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/local-agent-office
 alt:
   - https://github.com/gustavczar/local-agent-obsidian-plugin
-downloads: 311
+downloads: 454
 updated at: "2026-06-22T04:39:12Z"
 related to:
   - "[[GitHub - 1274791460]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn your Obsidian vault into a living team of AI agents by making each agent a Markdown note. Author personas, watch them think and hand off in a spatial office, chat inline and crystallize conversations into notes, and let approved agents act on your vault while keeping data local with your own API key."
 
     stats: {
-        downloads:  311
+        downloads:  454
         updated_at: 1782103152000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/next-link
 alt:
   - https://github.com/jdluque/next-link
-downloads: 3082
+downloads: 3092
 updated at: "2023-09-27T23:51:00Z"
 related to:
   - "[[GitHub - 443615940]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Navigate through links inside a note using keyboard-driven commands. Jump to the next or previous link and follow the link under the cursor to open connected notes without leaving the keyboard."
 
     stats: {
-        downloads:  3082
+        downloads:  3092
         updated_at: 1695858660000
     }
 }

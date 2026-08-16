@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/journalit
 alt:
   - https://github.com/cursivez/journalit
-downloads: 19286
-updated at: "2026-07-15T15:13:37Z"
+downloads: 21433
+updated at: "2026-07-31T13:12:44Z"
 related to:
   - "[[GitHub - 1010395964]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Keep a local-first trading journal inside your Obsidian vault, storing notes and trades offline. Display draggable dashboards and a trading heatmap, track performance and account targets, use daily-to-yearly review templates, import CSVs and sync MetaTrader 4/5 via FTP; optional network-backed features require a Journalit account and Pro subscription."
 
     stats: {
-        downloads:  19286
-        updated_at: 1784128417000
+        downloads:  21433
+        updated_at: 1785503564000
     }
 }
 ```

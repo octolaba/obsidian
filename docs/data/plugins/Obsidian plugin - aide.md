@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/aide
 alt:
   - https://github.com/doko89/obsidian-aide
-downloads: 122
+downloads: 154
 updated at: "2026-07-02T22:38:09Z"
 related to:
   - "[[GitHub - 1283913772]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add AI writing and editing to notes with streaming, real-time responses and inline actions like improve, shorten, summarize, translate, and fix grammar. Open a floating slash prompt to run custom prompts, perform web searches or URL fetches, generate SVG diagrams saved to assets, and connect to any OpenAI-compatible provider with adjustable reasoning effort."
 
     stats: {
-        downloads:  122
+        downloads:  154
         updated_at: 1783031889000
     }
 }

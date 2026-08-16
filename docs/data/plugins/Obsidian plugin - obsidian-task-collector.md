@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-task-collector
 alt:
   - https://github.com/ebullient/obsidian-task-collector
-downloads: 39620
+downloads: 41493
 updated at: "2026-06-18T18:23:02Z"
 related to:
   - "[[GitHub - 411356146]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage completed tasks using a snappy completion modal and configurable task marks. Collect and regroup tasks into designated areas within notes, cycle through mark sequences, and optionally append timestamps or remove matched text when marking."
 
     stats: {
-        downloads:  39620
+        downloads:  41493
         updated_at: 1781806982000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-heatmap
 alt:
   - https://github.com/hzlume/obsidian-note-heatmap
-downloads: 210
+downloads: 248
 updated at: "2026-05-26T16:02:42Z"
 related to:
   - "[[GitHub - 1212110297]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize note activity with a GitHub-style annual heatmap and five-level color depth. Track edits across multiple days by reading frontmatter date fields, ISO and list-format dates, and Obsidian date objects so a note contributes to every day it was edited. Click any day to list modified notes, click months for monthly summaries and jump to daily/monthly/yearly notes; optionally view per-file Git diffs when Git/version-history plugins are available."
 
     stats: {
-        downloads:  210
+        downloads:  248
         updated_at: 1779811362000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pexels-banner
 alt:
   - https://github.com/jparkerweb/pixel-banner
-downloads: 134430
+downloads: 145913
 updated at: "2026-03-08T23:05:40Z"
 related to:
   - "[[GitHub - 851907484]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create customizable banner headers for notes using AI-generated images, stock collections (Pexels, Unsplash, Pixabay, Flickr), local files, direct URLs, and MP4/MOV videos. Control position, sizing, transparency, icons, and inline title styling from note properties to add visual context and polish to your vault."
 
     stats: {
-        downloads:  134430
+        downloads:  145913
         updated_at: 1773011140000
     }
 }

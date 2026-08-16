@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/volleyboard-svg
 alt:
   - https://github.com/davidaffo/volleyboard_svg_app
-downloads: 89
+downloads: 99
 updated at: "2026-05-24T10:50:32Z"
 related to:
   - "[[GitHub - 1138887593]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create tactical volleyball diagrams directly inside notes using an interactive whiteboard stored as a JSON block. Open the board to edit plays visually, then save changes back into the same block for portable, editable diagrams."
 
     stats: {
-        downloads:  89
+        downloads:  99
         updated_at: 1779619832000
     }
 }

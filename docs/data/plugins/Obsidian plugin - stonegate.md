@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/stonegate
 alt:
   - https://github.com/xsiphr/StoneGate-plugin
-downloads: 191
+downloads: 276
 updated at: "2026-06-18T00:29:51Z"
 related to:
   - "[[GitHub - 1228075990]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Lock your Obsidian vault and specific folders with per-folder passwords, automatic idle timeouts, and brute-force lockouts. Hide protected folders in Ghost Mode, generate a one-time recovery code for emergency access, and set a custom lock-screen background."
 
     stats: {
-        downloads:  191
+        downloads:  276
         updated_at: 1781742591000
     }
 }

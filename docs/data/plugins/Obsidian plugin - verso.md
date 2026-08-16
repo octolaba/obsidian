@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/verso
 alt:
   - https://github.com/liveaquietlife/obsidian-verso
-downloads: 90
-updated at: "2026-07-09T16:52:08Z"
+downloads: 146
+updated at: "2026-08-07T19:24:37Z"
 related to:
   - "[[GitHub - 1277502143]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Schedule and track reading by adding books, picking target finish dates, and choosing which days you’ll read. Redistribute remaining pages when you fall behind, view today’s chunks in a compact sidebar, and manage books via an urgency-sorted dashboard and a visual bookshelf for completed reads."
 
     stats: {
-        downloads:  90
-        updated_at: 1783615928000
+        downloads:  146
+        updated_at: 1786130677000
     }
 }
 ```

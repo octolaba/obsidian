@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-pending-notes
 alt:
   - https://github.com/ulisesantana/obsidian-pending-notes
-downloads: 9217
+downloads: 9263
 updated at: "2025-10-04T12:43:21Z"
 related to:
   - "[[GitHub - 578797378]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Collect all links that point to non-existent notes into a single panel. Create missing notes directly from the sidebar or the command palette."
 
     stats: {
-        downloads:  9217
+        downloads:  9263
         updated_at: 1759581801000
     }
 }

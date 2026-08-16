@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/header-counter
 alt:
   - https://github.com/nancyel/header-counter
-downloads: 520
+downloads: 531
 updated at: "2024-05-29T01:30:27Z"
 related to:
   - "[[GitHub - 801819545]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Count headers in the current note and display the total in a notification. Compute a header summary to copy and paste elsewhere, and set which header levels to include."
 
     stats: {
-        downloads:  520
+        downloads:  531
         updated_at: 1716946227000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/visit-history
 alt:
   - https://github.com/nickolay-kondratyev/obsidian-visit-history-plugin
-downloads: 37
-updated at: "2026-07-22T18:49:35Z"
+downloads: 105
+updated at: "2026-08-10T18:21:59Z"
 related to:
   - "[[GitHub - 1258646519]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Record time spent in notes, canvases, and Excalidraw drawings locally and offline to build per-file visit history. Visualize vault activity with a zoomable treemap heatmap—tile size by file size, color by recency or visits—and filter or drill down to spot hot, stale, or untouched files."
 
     stats: {
-        downloads:  37
-        updated_at: 1784746175000
+        downloads:  105
+        updated_at: 1786386119000
     }
 }
 ```

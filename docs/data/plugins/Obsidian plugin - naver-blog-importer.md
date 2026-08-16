@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/naver-blog-importer
 alt:
   - https://github.com/hyungyunlim/obsidian-naver-blog-importer
-downloads: 4868
+downloads: 5432
 updated at: "2026-05-21T00:42:27Z"
 related to:
   - "[[GitHub - 1018996267]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Naver Blog and Cafe posts into your Obsidian vault via bulk or single-post import, save images locally, and embed YouTube videos natively. Subscribe to blogs for auto-sync, access private cafe articles with cookie authentication, and auto-generate tags and excerpts with optional AI while skipping duplicates."
 
     stats: {
-        downloads:  4868
+        downloads:  5432
         updated_at: 1779324147000
     }
 }

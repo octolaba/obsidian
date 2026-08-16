@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hunspell-spellchecker
 alt:
   - https://github.com/delonborges/obsidian-hunspell-spellchecker
-downloads: 470
+downloads: 651
 updated at: "2026-06-12T16:32:50Z"
 related to:
   - "[[GitHub - 1262303368]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Spellcheck notes offline using standard Hunspell .aff/.dic dictionary pairs with real-time suggestions and a local personal dictionary. Manage multiple languages and ignored-word lists, switch languages from the status bar, and enjoy mobile-optimized, low-memory performance while keeping all data local."
 
     stats: {
-        downloads:  470
+        downloads:  651
         updated_at: 1781281970000
     }
 }

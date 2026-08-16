@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/focus-first
 alt:
   - https://github.com/christian-luger-at/obsidian-focus-first
-downloads: 213
-updated at: "2026-07-20T20:25:36Z"
+downloads: 278
+updated at: "2026-07-25T20:01:58Z"
 related to:
   - "[[GitHub - 1282501036]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sort your Obsidian tasks into the Eisenhower matrix by urgency (due date) and importance (priority) so the next right action is obvious. Read Tasks-format checkboxes, pin top tasks with #focus, hide with #hide, drag to retag, and filter/group tasks across folders with live updates."
 
     stats: {
-        downloads:  213
-        updated_at: 1784579136000
+        downloads:  278
+        updated_at: 1785009718000
     }
 }
 ```

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/save-to-vault
 alt:
   - https://github.com/notesynchelper/save2obsidian
-downloads: 5
-updated at: "2026-07-23T10:15:26Z"
+downloads: 33
+updated at: "2026-07-24T07:21:57Z"
 related to:
   - "[[GitHub - 1309660618]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Import posts and threads from X into your Obsidian vault as clean Markdown notes. Mention @save2obsidian on X to queue items, then sync to pull prepared Markdown with Mustache filename/frontmatter templates, deduplication via save2obsidian_id, optional automatic sync, and preserved remote links. Homepage https://www.save2obsidian.com/"
 
     stats: {
-        downloads:  5
-        updated_at: 1784801726000
+        downloads:  33
+        updated_at: 1784877717000
     }
 }
 ```

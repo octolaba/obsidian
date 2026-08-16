@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notion-block
 alt:
   - https://github.com/bcs1037/notion-block
-downloads: 2891
+downloads: 3293
 updated at: "2026-06-26T05:00:46Z"
 related to:
   - "[[GitHub - 1233514950]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add Notion-style block interactions to Obsidian's Live Preview. Click gutter handles to convert lines into headings, lists, code, math, callouts, dividers or quotes, and use the + menu to quick-insert tables, footnotes, and frontmatter. Long-press handles to drag, reorder, and toggle line/paragraph modes."
 
     stats: {
-        downloads:  2891
+        downloads:  3293
         updated_at: 1782450046000
     }
 }

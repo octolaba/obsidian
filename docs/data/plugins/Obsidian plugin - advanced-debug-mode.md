@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/advanced-debug-mode
 alt:
   - https://github.com/mnaoumov/obsidian-advanced-debug-mode
-downloads: 4859
-updated at: "2026-07-21T01:30:33Z"
+downloads: 5303
+updated at: "2026-08-08T05:05:02Z"
 related to:
   - "[[GitHub - 953921532]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Toggle Obsidian debug mode on and off and keep inline source maps from loaded plugins intact. Preserve long stack traces across timers, promises, event handlers and other async boundaries to reveal deeper call chains for easier error diagnosis."
 
     stats: {
-        downloads:  4859
-        updated_at: 1784597433000
+        downloads:  5303
+        updated_at: 1786165502000
     }
 }
 ```

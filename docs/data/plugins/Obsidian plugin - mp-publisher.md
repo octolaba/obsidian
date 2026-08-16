@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/mp-publisher
 alt:
   - https://github.com/joeytoday/obsidian-mp-publisher
-downloads: 13918
-updated at: "2026-07-22T10:16:44Z"
+downloads: 15352
+updated at: "2026-08-07T06:50:24Z"
 related to:
   - "[[GitHub - 1150517025]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Preview and apply custom CSS themes for WeChat articles with a live WYSIWYG preview, eight built-in styles, and loading of local CSS themes. Publish directly to your WeChat public account—upload images, choose or upload covers, update drafts, and monitor publish progress. Copy formatted content to the clipboard for pasting into the WeChat editor and render LaTeX math as PNG for compatibility."
 
     stats: {
-        downloads:  13918
-        updated_at: 1784715404000
+        downloads:  15352
+        updated_at: 1786085424000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/search-exploder
 alt:
   - https://github.com/jklein64/obsidian-search-exploder
-downloads: 32
+downloads: 40
 updated at: "2026-07-12T18:17:07Z"
 related to:
   - "[[GitHub - 1296903714]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open each search result as its own note tab from the search results contextual menu. Preserve compatibility with Vertical Tabs by offering search-result expansion independently of Continuous Mode."
 
     stats: {
-        downloads:  32
+        downloads:  40
         updated_at: 1783880227000
     }
 }

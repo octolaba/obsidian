@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/lecture-lens
 alt:
   - https://github.com/yima-gu/obsidian-lecture-lens
-downloads: 202
-updated at: "2026-07-23T05:56:48Z"
+downloads: 319
+updated at: "2026-07-29T09:12:22Z"
 related to:
   - "[[GitHub - 1122296838]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Convert lecture slides and whiteboard photos into structured Markdown notes using vision-capable LLMs that extract text, LaTeX, and diagrams. Index course folders for RAG-powered, context-aware chat; analyze images singly or in batch and ask questions tied to your course materials."
 
     stats: {
-        downloads:  202
-        updated_at: 1784786208000
+        downloads:  319
+        updated_at: 1785316342000
     }
 }
 ```

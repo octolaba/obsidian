@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/inlineai
 alt:
   - https://github.com/fbarrca/obsidian-inlineAI
-downloads: 7714
+downloads: 7845
 updated at: "2026-05-30T21:17:52Z"
 related to:
   - "[[GitHub - 881354404]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Integrate AI-powered suggestions, contextual edits, and text transformations directly into the Obsidian editor. Visualize suggested changes with inline diffs and accept or discard edits with one click. Connect to OpenAI, Gemini, Ollama, or local models for online or privacy-first workflows."
 
     stats: {
-        downloads:  7714
+        downloads:  7845
         updated_at: 1780175872000
     }
 }

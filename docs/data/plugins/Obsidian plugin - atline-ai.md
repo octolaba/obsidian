@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/atline-ai
 alt:
   - https://github.com/ergesmema/obsidian-atline-ai
-downloads: 202
+downloads: 212
 updated at: "2026-03-20T16:53:24Z"
 related to:
   - "[[GitHub - 1161864766]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Ask any LLM questions inline and insert streaming AI responses directly into your notes using custom triggers and a hotkey. Connect via API or CLI to multiple providers (Claude, OpenAI, Google, Ollama/local), include [[wikilinked]] notes as context, and create agents with custom prompts."
 
     stats: {
-        downloads:  202
+        downloads:  212
         updated_at: 1774025604000
     }
 }

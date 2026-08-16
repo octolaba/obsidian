@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/discord-timestamps
 alt:
   - https://github.com/erallie/discord-timestamps
-downloads: 940
+downloads: 985
 updated at: "2026-07-22T17:32:45Z"
 related to:
   - "[[GitHub - 892282030]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display Discord-style timestamps (e.g., <t:1734818400:D>) in reading mode with colored styling and hover or selection to reveal the full date and time. Insert timestamps from a picker in multiple formats, specify time zones, reuse recent timestamps from history, and optionally skip conversion inside code blocks."
 
     stats: {
-        downloads:  940
+        downloads:  985
         updated_at: 1784741565000
     }
 }

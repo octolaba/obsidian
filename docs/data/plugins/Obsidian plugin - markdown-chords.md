@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markdown-chords
 alt:
   - https://github.com/dnotes/obsidian-markdown-chords
-downloads: 4815
+downloads: 4855
 updated at: "2023-06-11T18:35:08Z"
 related to:
   - "[[GitHub - 652052290]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render chord-marked song or lyrics fenced code blocks using markdown-it-chords syntax, converting inline chords and fingering diagrams into styled chord output. Support slash chords and chord diagrams inside code blocks labeled song or lyrics."
 
     stats: {
-        downloads:  4815
+        downloads:  4855
         updated_at: 1686508508000
     }
 }

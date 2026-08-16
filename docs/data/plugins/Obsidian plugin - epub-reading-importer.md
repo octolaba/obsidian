@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/epub-reading-importer
 alt:
   - https://github.com/skye1349/epub-reading-importer
-downloads: 297
+downloads: 426
 updated at: "2026-06-22T05:35:34Z"
 related to:
   - "[[GitHub - 1274966952]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import EPUB files on desktop into your vault as chapter-based Markdown reading workspaces. Create a book folder with numbered chapter files, an AI Reading Guide, embedded media, and the original EPUB source."
 
     stats: {
-        downloads:  297
+        downloads:  426
         updated_at: 1782106534000
     }
 }

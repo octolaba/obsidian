@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/verse-markers
 alt:
   - https://github.com/gabrielrenderos/obsidian-verse-markers
-downloads: 234
-updated at: "2026-07-01T09:33:38Z"
+downloads: 324
+updated at: "2026-08-10T21:01:45Z"
 related to:
   - "[[GitHub - 1259711492]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create anchorable verse targets by writing markers like [3] or [5a] in notes, turning inline labels into stable anchors that survive edits. Link, reference, and cross-reference individual verses, ranges, parts, or skips with wiki links; then preview and embed ranges on hover, copy references, and deep-link via Obsidian URIs. Perfect for Bible verse linking, scripture references, and verse-by-verse study notes, or any other versed media like poetry, lyrics, plays, and legal texts."
 
     stats: {
-        downloads:  234
-        updated_at: 1782898418000
+        downloads:  324
+        updated_at: 1786395705000
     }
 }
 ```

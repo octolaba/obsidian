@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-focus
 alt:
   - https://github.com/linqing24/obsidian-simple-focus
-downloads: 1615
+downloads: 1644
 updated at: "2024-11-18T23:27:34Z"
 related to:
   - "[[GitHub - 884794277]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Focus on a single file or folder in the file explorer. Right-click a file or folder and choose Focus to hide other items in the file list and reduce visual clutter."
 
     stats: {
-        downloads:  1615
+        downloads:  1644
         updated_at: 1731972454000
     }
 }

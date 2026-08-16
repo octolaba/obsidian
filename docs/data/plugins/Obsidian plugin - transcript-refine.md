@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/transcript-refine
 alt:
   - https://github.com/c1921/transcript-refine
-downloads: 12
+downloads: 34
 updated at: "2026-07-21T13:31:54Z"
 related to:
   - "[[GitHub - 1307149547]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Refine speech-to-text transcripts with AI to fix errors, improve structure, and produce clear, readable text. Pick from four presets (General, Meeting Minutes, Interview, Polish) or create templates; refine selections or whole files with multi‑API support and secure key storage."
 
     stats: {
-        downloads:  12
+        downloads:  34
         updated_at: 1784640714000
     }
 }

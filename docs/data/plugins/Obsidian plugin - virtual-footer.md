@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/virtual-footer
 alt:
   - https://github.com/signynt/virtual-content
-downloads: 9120
+downloads: 9507
 updated at: "2026-07-18T13:15:57Z"
 related to:
   - "[[GitHub - 895845082]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add virtual headers, footers, or sidebar panels to notes based on folder, tag, property, or Dataview rules. Render full Markdown (including Dataview, Datacore and Bases) without changing files and source content from plugin settings or a vault file to avoid duplicating code."
 
     stats: {
-        downloads:  9120
+        downloads:  9507
         updated_at: 1784380557000
     }
 }

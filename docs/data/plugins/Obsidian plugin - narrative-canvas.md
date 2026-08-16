@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/narrative-canvas
 alt:
   - https://github.com/ringeringeraja33/NarrativeCanvas
-downloads: 1140
-updated at: "2026-07-24T02:08:05Z"
+downloads: 1529
+updated at: "2026-07-31T10:35:16Z"
 related to:
   - "[[GitHub - 1255924367]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Narrative Canvas is a visual writing tool and planning workspace for complex, nonlinear stories. Use a node-based canvas to break narratives into scenes, choices, conditions, variables, event frames, and character references, then connect them into playable flows for branching stories, quests, and dialogue. Drag, resize, zoom, search, and navigate with a minimap while designing. Preview choices, variable writes, and simple conditions at runtime; manage character sheets, events, and variables in dedicated editors. Narrative Canvas also supports editing and export in Ink, Yarn, and Twee, plus exports to JSON, CSV, and Markdown."
 
     stats: {
-        downloads:  1140
-        updated_at: 1784858885000
+        downloads:  1529
+        updated_at: 1785494116000
     }
 }
 ```

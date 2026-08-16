@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bitcoin-block-stamp
 alt:
   - https://github.com/sfr0xyz/obsidian-bitcoin-block-stamp
-downloads: 659
+downloads: 681
 updated at: "2026-06-14T19:36:30Z"
 related to:
   - "[[GitHub - 780408744]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Stamp notes with Bitcoin block height and Moscow time, inserting the latest or any historical stamp back to the Genesis block. Insert Moscow time, block height, or \"Moscow time @ block height\" (Moscow Time Bot format), add a block-explorer link, and replace placeholders automatically on note creation or on demand."
 
     stats: {
-        downloads:  659
+        downloads:  681
         updated_at: 1781465790000
     }
 }

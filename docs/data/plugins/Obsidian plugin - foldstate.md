@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/foldstate
 alt:
   - https://github.com/samhopwell/obsidian-foldstate
-downloads: 208
+downloads: 236
 updated at: "2026-03-05T08:00:12Z"
 related to:
   - "[[GitHub - 1172949449]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Persist heading fold state across devices and sessions by inserting %% fold %% comment markers into headings. Restore fold state automatically when opening notes; markers stay hidden in Reading view and travel with your files via any sync tool."
 
     stats: {
-        downloads:  208
+        downloads:  236
         updated_at: 1772697612000
     }
 }

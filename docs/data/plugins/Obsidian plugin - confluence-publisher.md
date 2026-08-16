@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/confluence-publisher
 alt:
   - https://github.com/grhawk/obsidian-2-confluence
-downloads: 204
+downloads: 217
 updated at: "2026-01-31T22:24:33Z"
 related to:
   - "[[GitHub - 1136592602]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync the active Obsidian note to Confluence using the REST API. Convert Obsidian Markdown to Confluence storage HTML, update pages by frontmatter page ID or title lookup, or create new pages under an optional parent and write the Confluence page ID back to frontmatter."
 
     stats: {
-        downloads:  204
+        downloads:  217
         updated_at: 1769898273000
     }
 }

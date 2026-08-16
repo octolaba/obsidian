@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/onegayi-smart-tagger
 alt:
   - https://github.com/onegayi/Obsidian-Smart-Tagger
-downloads: 131
+downloads: 194
 updated at: "2026-06-19T09:51:21Z"
 related to:
   - "[[GitHub - 1274109024]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate AI tags for notes and write them to frontmatter using OpenAI‑compatible or local Ollama models. Process single files or folders in bulk, reuse prompt templates, prefer existing vault tags for consistency, add extra frontmatter fields via {{key: prompt}}, skip files with gitignore‑style rules and keep API keys encrypted."
 
     stats: {
-        downloads:  131
+        downloads:  194
         updated_at: 1781862681000
     }
 }

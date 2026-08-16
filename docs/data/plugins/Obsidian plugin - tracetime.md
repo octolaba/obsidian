@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/tracetime
 alt:
   - https://github.com/quincysx/obsidian-tracetime
-downloads: 26
-updated at: "2026-07-23T12:47:23Z"
+downloads: 68
+updated at: "2026-07-24T13:16:40Z"
 related to:
   - "[[GitHub - 1307160932]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Record and display last-edit timestamps for every block (paragraphs, headings, code blocks, lists, tables) with labels aligned to the right side of the editor. Restore timestamps after undo/redo and external file changes, support rollback to previous generations, and track edits incrementally per-block for low-latency rendering."
 
     stats: {
-        downloads:  26
-        updated_at: 1784810843000
+        downloads:  68
+        updated_at: 1784899000000
     }
 }
 ```

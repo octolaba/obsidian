@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/home-base
 alt:
   - https://github.com/davidvkimball/obsidian-home-base
-downloads: 4208
+downloads: 4423
 updated at: "2026-05-30T19:45:57Z"
 related to:
   - "[[GitHub - 1125539847]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set a dedicated home base for your vault and open it at startup, replace new tabs, or open on demand. Choose from file (.md/.mdx/.canvas/.base), workspace, random file/folder, graph, journal or periodic notes; configure view and opening modes, new-tab behavior, and enable a sticky home icon."
 
     stats: {
-        downloads:  4208
+        downloads:  4423
         updated_at: 1780170357000
     }
 }

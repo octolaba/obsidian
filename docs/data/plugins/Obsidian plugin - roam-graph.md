@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/roam-graph
 alt:
   - https://github.com/moskize91/obsidian-roam-graph
-downloads: 208
+downloads: 250
 updated at: "2026-06-02T07:40:47Z"
 related to:
   - "[[GitHub - 1255816370]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep a focus-following graph in the right sidebar that tracks the active Markdown note. Display backlinks to the left, outgoing links to the right, and nearby daily notes above and below when applicable. Render the graph as a real Obsidian Canvas file with native nodes and links for clickable navigation while you write."
 
     stats: {
-        downloads:  208
+        downloads:  250
         updated_at: 1780386047000
     }
 }

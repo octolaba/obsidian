@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/timelinex
 alt:
   - https://github.com/siavashameli/TimelineX
-downloads: 54
+downloads: 85
 updated at: "2026-07-04T23:04:16Z"
 related to:
   - "[[GitHub - 1289448251]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize and visualize notes chronologically across multiple timelines"
 
     stats: {
-        downloads:  54
+        downloads:  85
         updated_at: 1783206256000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/checkbox-sounds
 alt:
   - https://github.com/yasd251/checkbox-sounds-plugin
-downloads: 3653
+downloads: 3917
 updated at: "2026-05-25T01:03:05Z"
 related to:
   - "[[GitHub - 787940801]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Play a completion sound whenever you check off a checkbox in Obsidian. Change the sound in plugin settings to personalize the feedback."
 
     stats: {
-        downloads:  3653
+        downloads:  3917
         updated_at: 1779670985000
     }
 }

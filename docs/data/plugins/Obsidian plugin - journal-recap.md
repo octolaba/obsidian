@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/journal-recap
 alt:
   - https://github.com/aegerita/journal-recap
-downloads: 75
+downloads: 79
 updated at: "2026-05-26T02:44:09Z"
 related to:
   - "[[GitHub - 917781236]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Summarize daily journal entries into a single sentence and insert it into the note's frontmatter. Send the current note's content (excluding frontmatter) to your configured OpenAI Responses API and save the returned summary back into frontmatter."
 
     stats: {
-        downloads:  75
+        downloads:  79
         updated_at: 1779763449000
     }
 }

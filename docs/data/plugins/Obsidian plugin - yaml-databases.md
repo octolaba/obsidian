@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/yaml-databases
 alt:
   - https://github.com/ondreu/YAML-Databases
-downloads: 125
+downloads: 188
 updated at: "2026-07-05T16:24:04Z"
 related to:
   - "[[GitHub - 1289566333]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "YAML Databases turns YAML files into interactive databases inside Obsidian. Edit them as a spreadsheet, a collapsible form, or raw source — with sub-tables, find & replace, linting, and exports to CSV, XLSX, YAML and a self-contained HTML viewer. Databases are stored as Markdown notes (.yaml.md): the leading --- block is indexed as frontmatter / properties, so they work with Bases and metadata queries like any other note. The body is clean YAML — human-readable, line-by-line git diff friendly, and natively readable by AI/LLMs. No binary format, no lock-in: the file is plain text usable in any editor. Built for bills of materials (kusovníky) but works for inventories, contact lists, recipes, changelogs, config or any YAML data. Highlights - Three views: Table (spreadsheet with drag, resize, range copy/paste), Form (nested tree), Source (highlighted YAML) - Sub-databases with drill-down breadcrumbs — BOM trees with sub-assemblies - Flatten BOM → flat parts list with quantities rolled"
 
     stats: {
-        downloads:  125
+        downloads:  188
         updated_at: 1783268644000
     }
 }

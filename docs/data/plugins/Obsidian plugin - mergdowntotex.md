@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/mergdowntotex
 alt:
   - https://github.com/dvrch/mergdown2tex
-downloads: 55
+downloads: 89
 updated at: "2026-07-06T09:01:53Z"
 related to:
   - "[[GitHub - 1289922356]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Convert Obsidian notes into publication-ready LaTeX, PDF, DOCX or .tex with automatic expansion of wikilinks, embeds, images, citations zotero inegration and pandoc, math, table and Mermaid diagrams. Run a Rust/WASM engine inside Obsidian for Markdown→LaTeX conversion and compile to PDF (TeX Live + Podman) or DOCX (Pandoc++, citep & biblio)."
 
     stats: {
-        downloads:  55
+        downloads:  89
         updated_at: 1783328513000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notekeeper
 alt:
   - https://github.com/philemonchiro/obsidian-notekeeper
-downloads: 1846
+downloads: 2494
 updated at: "2026-05-16T18:29:39Z"
 related to:
   - "[[GitHub - 1224636415]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a Google Keep–style wall of sticky notes to browse, capture, pin, color, and archive Markdown notes in a masonry or compact card grid. Use quick capture, inline edit and markdown preview, multi-select bulk actions, drag-to-order pins, smart filters, live checkboxes, and image thumbnails."
 
     stats: {
-        downloads:  1846
+        downloads:  2494
         updated_at: 1778956179000
     }
 }

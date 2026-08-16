@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/heading-helper
 alt:
   - https://github.com/sidkhuntia/obsdian-headings-helper
-downloads: 994
+downloads: 1035
 updated at: "2025-06-27T09:06:29Z"
 related to:
   - "[[GitHub - 991845399]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display visual heading indicators in the editor gutter and click markers to change heading levels. Cycle, increase, decrease, or set headings with commands and receive optional hierarchy warnings to spot structural issues."
 
     stats: {
-        downloads:  994
+        downloads:  1035
         updated_at: 1751015189000
     }
 }

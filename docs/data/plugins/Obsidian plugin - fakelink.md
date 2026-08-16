@@ -12,8 +12,8 @@ tags:
 url: https://community.obsidian.md/plugins/fakelink
 alt:
   - https://github.com/godfatherlg/fakelink
-downloads: 1465
-updated at: "2026-07-16T13:52:27Z"
+downloads: 1964
+updated at: "2026-08-08T04:22:22Z"
 related to:
   - "[[GitHub - 991889023]]"
 remind me:
@@ -36,8 +36,8 @@ plugin: {
     about:       "Generate virtual links from note titles, aliases, and headers to auto-link mentions across your vault. Render links dynamically in the editor without changing Markdown files, jump straight to header targets, and convert virtual links into real links when needed."
 
     stats: {
-        downloads:  1465
-        updated_at: 1784209947000
+        downloads:  1964
+        updated_at: 1786162942000
     }
 }
 ```

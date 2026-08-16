@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/overboard
 alt:
   - https://github.com/alona-iaig/obsidian-overboard
-downloads: 80
+downloads: 89
 updated at: "2026-05-02T21:13:08Z"
 related to:
   - "[[GitHub - 1227524223]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed Overboard Studio AI whiteboards directly inside notes using a fenced code block or command. Sketch and AI-generate flowcharts, mind maps and sticky notes from plain sentences with 100+ templates, then collaborate in real time with up to 500 teammates."
 
     stats: {
-        downloads:  80
+        downloads:  89
         updated_at: 1777756388000
     }
 }

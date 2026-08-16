@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-gitlab-issues
 alt:
   - https://github.com/benr77/obsidian-gitlab-issues
-downloads: 5650
+downloads: 5681
 updated at: "2026-04-13T06:12:29Z"
 related to:
   - "[[GitHub - 516305760]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import GitLab issues as Obsidian notes into a chosen folder using customizable Handlebars templates. Keep notes read-only and automatically remove any note when its issue no longer appears on GitLab; fetch updates shortly after startup and every 15 minutes."
 
     stats: {
-        downloads:  5650
+        downloads:  5681
         updated_at: 1776060749000
     }
 }

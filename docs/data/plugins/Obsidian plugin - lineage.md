@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lineage
 alt:
   - https://github.com/ycnmhd/obsidian-lineage
-downloads: 23210
+downloads: 23552
 updated at: "2025-08-18T23:26:16Z"
 related to:
   - "[[GitHub - 759723533]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit Markdown files in a Gingko-style tree interface for hierarchical, card-based outlining. Open files from the ribbon, file context menu, or command palette and export outlines from the view context menu."
 
     stats: {
-        downloads:  23210
+        downloads:  23552
         updated_at: 1755559576000
     }
 }

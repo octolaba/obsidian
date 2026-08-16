@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-catalog
 alt:
   - https://github.com/xcloud-ai/file-catalog
-downloads: 31
+downloads: 55
 updated at: "2026-07-19T11:55:07Z"
 related to:
   - "[[GitHub - 1300408156]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate a clickable, hierarchical table of contents from any Markdown file's headings using filecatalog code blocks or the insert command. Render Obsidian [[file]] links, choose which heading levels and styling appear, and use as a drop-in DataviewJS filecatalog replacement without needing Dataview."
 
     stats: {
-        downloads:  31
+        downloads:  55
         updated_at: 1784462107000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/typing-assistant
 alt:
   - https://github.com/jambo2018/notion-assistant-plugin
-downloads: 44820
+downloads: 46565
 updated at: "2026-01-18T10:05:08Z"
 related to:
   - "[[GitHub - 658249326]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Improve writing speed with a slash-activated command menu that appears at the cursor and inserts multiple line types. Apply or switch markdown styles via a selection menu, generate link-based cards, create custom command sets with drag-and-drop ordering, and search commands quickly."
 
     stats: {
-        downloads:  44820
+        downloads:  46565
         updated_at: 1768730708000
     }
 }

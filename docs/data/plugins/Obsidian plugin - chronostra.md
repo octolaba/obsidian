@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chronostra
 alt:
   - https://github.com/kntanaka/chronostra
-downloads: 229
+downloads: 262
 updated at: "2026-07-11T00:25:34Z"
 related to:
   - "[[GitHub - 1166766969]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Plan life goals in a zoomable, timeline-based interactive table rendered from a single future-data code block in your vault. Structure rows by scope (Vision, Goal, Step), tag commitment (Must ★ or Wish ☆), track Future/Now/Gap metrics, and view decades while keeping data in plain Markdown."
 
     stats: {
-        downloads:  229
+        downloads:  262
         updated_at: 1783729534000
     }
 }

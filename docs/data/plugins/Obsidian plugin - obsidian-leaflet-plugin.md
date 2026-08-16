@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-leaflet-plugin
 alt:
   - https://github.com/javalent/obsidian-leaflet
-downloads: 296727
+downloads: 302856
 updated at: "2024-03-31T23:43:06Z"
 related to:
   - "[[GitHub - 343554994]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed interactive maps in notes using Leaflet.js via a leaflet code block. Use image files or OpenStreetMap tiles as layers, place linked markers that open notes, and control zoom, size and overlays."
 
     stats: {
-        downloads:  296727
+        downloads:  302856
         updated_at: 1711928586000
     }
 }

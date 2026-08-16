@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-link-optimizer
 alt:
   - https://github.com/qbject/obsidian-canvas-link-optimizer
-downloads: 4760
+downloads: 4950
 updated at: "2024-10-28T15:10:04Z"
 related to:
   - "[[GitHub - 753841922]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Replace canvas link node auto-loading with lightweight preview thumbnails to cut CPU/RAM use, reduce visual flicker, and limit exposure to unwanted web content. Click a thumbnail to open the full page and cache previews locally without modifying your vault."
 
     stats: {
-        downloads:  4760
+        downloads:  4950
         updated_at: 1730128204000
     }
 }

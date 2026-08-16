@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/todoist-bridge
 alt:
   - https://github.com/rodrigolourencofarinha/obsidian-todoist-bridge
-downloads: 165
-updated at: "2026-06-23T12:48:13Z"
+downloads: 215
+updated at: "2026-07-28T17:22:30Z"
 related to:
   - "[[GitHub - 1244792590]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync selected Markdown tasks in Obsidian with Todoist by tagging them with #todoist. Mirror completions, reopenings, and text edits both ways while adding a Todoist link and bridge marker to each task to maintain the match."
 
     stats: {
-        downloads:  165
-        updated_at: 1782218893000
+        downloads:  215
+        updated_at: 1785259350000
     }
 }
 ```

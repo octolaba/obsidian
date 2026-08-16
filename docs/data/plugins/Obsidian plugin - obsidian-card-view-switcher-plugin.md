@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-card-view-switcher-plugin
 alt:
   - https://github.com/qawatake/obsidian-card-view-switcher-plugin
-downloads: 8518
+downloads: 8664
 updated at: "2025-04-27T14:03:15Z"
 related to:
   - "[[GitHub - 454718740]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open Card View Switcher to browse and select notes in a card-style quick switcher. Search in three modes: recent (search contents and filenames of the 10 most recently opened files), normal (search all filenames; prefix query with ' or a leading space), or random (search all filenames and randomly pick 10; prefix with ;)."
 
     stats: {
-        downloads:  8518
+        downloads:  8664
         updated_at: 1745762595000
     }
 }

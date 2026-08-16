@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/any-block
 alt:
   - https://github.com/any-block/any-block
-downloads: 70066
+downloads: 76977
 updated at: "2026-07-06T18:39:38Z"
 related to:
   - "[[GitHub - 579347224]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Parse and render versatile Markdown blocks across Obsidian, CodeMirror, Markdown-it and Remark environments. Select lists, headings, tables, quotes, code blocks or containers and convert them into tables, tabs, cards, columns, mindmaps, markmap, mermaid/PlantUML diagrams, timelines, JSON charts or node trees. Keep notes syntax-free so content stays readable and maintainable without the plugin."
 
     stats: {
-        downloads:  70066
+        downloads:  76977
         updated_at: 1783363178000
     }
 }

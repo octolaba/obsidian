@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/metadata-links
 alt:
   - https://github.com/ansango/obsidian-metadata-links
-downloads: 44
+downloads: 61
 updated at: "2026-07-10T07:32:31Z"
 related to:
   - "[[GitHub - 1296105756]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Select links in your notes to fetch and display their metadata in a readable, structured panel. Deselect links to remove entries and refresh the displayed metadata."
 
     stats: {
-        downloads:  44
+        downloads:  61
         updated_at: 1783668751000
     }
 }

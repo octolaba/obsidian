@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mathematica-plot
 alt:
   - https://github.com/marcosnicolau/obsidian-mathematica-plot
-downloads: 3035
+downloads: 3058
 updated at: "2023-12-17T19:35:13Z"
 related to:
   - "[[GitHub - 712681049]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Plot 2D and 3D mathematical graphs using Wolfram Mathematica code directly in Obsidian. Preview and edit graphs while writing, render multiple plots in sequence, and create image files with wikilinks via wolframscript."
 
     stats: {
-        downloads:  3035
+        downloads:  3058
         updated_at: 1702841713000
     }
 }

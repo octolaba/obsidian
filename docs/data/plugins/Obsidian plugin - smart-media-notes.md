@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-media-notes
 alt:
   - https://github.com/nchuyj/obsidian-smart-media-notes
-downloads: 414
+downloads: 503
 updated at: "2026-06-01T06:00:58Z"
 related to:
   - "[[GitHub - 1238948940]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Smart Media Notes turns Obsidian into a real video note-taking workspace. Open video and audio inside Obsidian, bind notes to media with timestamp-url, insert clickable timestamps while you watch, import subtitles, and jump through media line by line from the subtitle browser. This beta especially improves mobile workflows. With optional yt-dlp direct URL resolution on desktop, supported video page links can be converted into synced direct playback mappings, so the same note can often reopen on mobile inside Obsidian instead of forcing you out into another app. It is built for language learning, lecture review, interview analysis, documentary study, and any workflow where you want your media, subtitles, and notes to stay together."
 
     stats: {
-        downloads:  414
+        downloads:  503
         updated_at: 1780293658000
     }
 }

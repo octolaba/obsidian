@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vn-memory-lane
 alt:
   - https://github.com/bangca85/obsidian-memorylane-plugin
-downloads: 7119
+downloads: 7225
 updated at: "2023-12-06T22:19:49Z"
 related to:
   - "[[GitHub - 724442025]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create an interactive timeline to document and navigate life events and milestones from your vault. Relive past moments with a Memories view that surfaces anniversaries and \"On This Day\" reminders for reflection."
 
     stats: {
-        downloads:  7119
+        downloads:  7225
         updated_at: 1701901189000
     }
 }

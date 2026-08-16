@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nav-link-header
 alt:
   - https://github.com/ahts4962/nav-link-header
-downloads: 4366
+downloads: 4412
 updated at: "2026-04-24T10:12:07Z"
 related to:
   - "[[GitHub - 858658865]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display customizable navigation headers at the top of notes to surface annotated backlinks, property-defined links, and previous/next daily or folder notes. Show MOCs and external URLs by recognizing annotation strings or file properties for faster note-to-note navigation."
 
     stats: {
-        downloads:  4366
+        downloads:  4412
         updated_at: 1777025527000
     }
 }

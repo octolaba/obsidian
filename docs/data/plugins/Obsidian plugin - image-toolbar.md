@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-toolbar
 alt:
   - https://github.com/witheredad/Rin-s-Image-Toolbar
-downloads: 293
+downloads: 345
 updated at: "2026-07-04T11:53:41Z"
 related to:
   - "[[GitHub - 1285855086]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show a floating toolbar when hovering images in Live Preview that offers Copy, Crop and Fullscreen actions. Crop images with an interactive dialog (drag handles and pixel input), save cropped files as filename_crop.ext and update note image references automatically; Reading view shows only Copy and Fullscreen."
 
     stats: {
-        downloads:  293
+        downloads:  345
         updated_at: 1783166021000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/unofficial-kinopoisk
 alt:
   - https://github.com/alintor/obsidian-kinopoisk-plugin
-downloads: 2098
+downloads: 2138
 updated at: "2024-09-19T13:04:44Z"
 related to:
   - "[[GitHub - 705542918]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search movies and TV shows on Kinopoisk and create ready-made notes with metadata and poster images. Fetch details from the Kinopoisk.dev API and populate customizable templates with fields like year, countries, genres, director, rating, description, and links."
 
     stats: {
-        downloads:  2098
+        downloads:  2138
         updated_at: 1726751084000
     }
 }

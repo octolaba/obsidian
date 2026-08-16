@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/limn
 alt:
   - https://github.com/tednaleid/limn
-downloads: 163
+downloads: 176
 updated at: "2026-07-03T19:47:36Z"
 related to:
   - "[[GitHub - 1168205726]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open and edit Limn (.limn) mind maps directly inside Obsidian. Keep everything local with offline IndexedDB autosave and cross-tab sync, pan/zoom SVG rendering, keyboard-first navigation, diff-based undo/redo, and embedded assets via ZIP-backed documents."
 
     stats: {
-        downloads:  163
+        downloads:  176
         updated_at: 1783108056000
     }
 }

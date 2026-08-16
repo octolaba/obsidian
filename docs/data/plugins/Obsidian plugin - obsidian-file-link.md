@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-file-link
 alt:
   - https://github.com/marcjulianschwarz/obsidian-file-link
-downloads: 50437
+downloads: 51886
 updated at: "2026-04-01T14:43:29Z"
 related to:
   - "[[GitHub - 399544907]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert external file links into notes directly from Obsidian by selecting files within the app. Add custom prefixes, hide or show file extensions, open files or their containing folders, embed supported documents and media inline, and scan your vault for broken file links."
 
     stats: {
-        downloads:  50437
+        downloads:  51886
         updated_at: 1775054609000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/stomp
 alt:
   - https://github.com/jheddings/obsidian-stomp
-downloads: 772
+downloads: 798
 updated at: "2026-05-13T19:33:04Z"
 related to:
   - "[[GitHub - 1022774365]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Control Obsidian hands-free with foot pedals to scroll smoothly, jump between headings or sections, and toggle continuous auto-scrolling. Map system key events to page, section, quick, or auto scroll commands and use animated scrolling for readable transitions."
 
     stats: {
-        downloads:  772
+        downloads:  798
         updated_at: 1778700784000
     }
 }

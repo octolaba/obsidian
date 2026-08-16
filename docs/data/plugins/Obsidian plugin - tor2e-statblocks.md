@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tor2e-statblocks
 alt:
   - https://github.com/modality/obsidian-the-one-ring-2e-statblocks
-downloads: 3834
+downloads: 3853
 updated at: "2023-01-04T20:23:09Z"
 related to:
   - "[[GitHub - 576723734]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render adversary statblocks for The One Ring Second Edition directly in notes, showing name, blurb, level, endurance, might/hate/resolve, parry, armour, features and combat proficiencies. Define statblocks as YAML fields in a note and include Markdown for flavor and special entries; Obsidian links are supported."
 
     stats: {
-        downloads:  3834
+        downloads:  3853
         updated_at: 1672863789000
     }
 }

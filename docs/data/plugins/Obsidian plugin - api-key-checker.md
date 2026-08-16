@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/api-key-checker
 alt:
   - https://github.com/kigrok/api-key-checker
-downloads: 28
+downloads: 57
 updated at: "2026-07-11T12:26:22Z"
 related to:
   - "[[GitHub - 1297174119]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Validate API keys and detect rate limits for 21 AI providers directly inside Obsidian with one click. Run real-provider checks (not regex), bulk-test dozens of keys, surface quota/reset times and rate limits, smart-sort failures to the top, copy masked keys on click, and view a stats bar with OK/LIMIT/INVALID counts and last-check times."
 
     stats: {
-        downloads:  28
+        downloads:  57
         updated_at: 1783772782000
     }
 }

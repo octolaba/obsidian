@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-loom
 alt:
   - https://github.com/pingzi-crypto/note-loom
-downloads: 108
+downloads: 125
 updated at: "2026-05-16T11:58:34Z"
 related to:
   - "[[GitHub - 1223389117]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn free-form Markdown notes into structured notes using your own templates and {{field}} placeholders. Preview, adjust, and confirm generated frontmatter and body content before writing, with support for headings, lists, tables, task lists, repeated fields, and Dataview inline fields."
 
     stats: {
-        downloads:  108
+        downloads:  125
         updated_at: 1778932714000
     }
 }

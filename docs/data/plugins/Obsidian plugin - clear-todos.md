@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/clear-todos
 alt:
   - https://github.com/gutentag2012/obsidian-plugin-clear-todos
-downloads: 838
+downloads: 882
 updated at: "2024-12-27T09:07:59Z"
 related to:
   - "[[GitHub - 889848385]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Clear all completed todos from the current selection or the entire document. Run a single command to remove finished task lines quickly, applying to the selection if present or to the whole file if not."
 
     stats: {
-        downloads:  838
+        downloads:  882
         updated_at: 1735290479000
     }
 }

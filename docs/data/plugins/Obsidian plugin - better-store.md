@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-store
 alt:
   - https://github.com/real-fruit-snacks/obsidian-better-store
-downloads: 514
+downloads: 1446
 updated at: "2026-07-19T12:16:05Z"
 related to:
   - "[[GitHub - 1297916432]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a full workspace tab to browse community plugins with real filters, sorting, heuristic categories and rendered README previews. View GitHub stats, trending plugins, and an installed-plugin dashboard showing version status, update badges, and stale-maintenance warnings."
 
     stats: {
-        downloads:  514
+        downloads:  1446
         updated_at: 1784463365000
     }
 }

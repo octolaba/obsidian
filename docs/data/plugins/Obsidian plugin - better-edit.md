@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-edit
 alt:
   - https://github.com/pochihh/obsidian-better-edit
-downloads: 533
+downloads: 790
 updated at: "2026-06-20T04:49:06Z"
 related to:
   - "[[GitHub - 1231341264]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Better Edit adds practical editing controls for building cleaner notes without changing how your notes are rendered. It focuses on the editing experience: paste or drop images, then resize, align, crop, caption, replace, duplicate, add alt text, or group related visuals into flexible image rows for comparisons, tutorials, research, and design reviews. It also includes block drag and drop for reorganizing text, configurable slash commands for quick insertion, a floating text styling toolbar, and a searchable symbol and emoji picker."
 
     stats: {
-        downloads:  533
+        downloads:  790
         updated_at: 1781930946000
     }
 }

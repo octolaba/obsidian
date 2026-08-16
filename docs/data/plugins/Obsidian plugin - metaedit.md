@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/metaedit
 alt:
   - https://github.com/chhoumann/MetaEdit
-downloads: 140062
+downloads: 142907
 updated at: "2026-07-13T13:14:54Z"
 related to:
   - "[[GitHub - 365332724]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit YAML and Dataview metadata across files through a quick menu. Add, update, delete, and transform properties; use auto-properties with selectable values, multi-value arrays, and progress properties that auto-update task counts; apply changes via Kanban lane changes or the plugin API."
 
     stats: {
-        downloads:  140062
+        downloads:  142907
         updated_at: 1783948494000
     }
 }

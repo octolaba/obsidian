@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/meeting-scribe-ai
 alt:
   - https://github.com/chinoryunqin/ObMeeting
-downloads: 43
+downloads: 56
 updated at: "2026-06-04T08:32:16Z"
 related to:
   - "[[GitHub - 1225370594]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Record meetings inside your vault and save original audio files. Transcribe with Doubao Speech, polish and summarize using any OpenAI-compatible model, and generate structured Markdown meeting notes written to the current note or a new file, with long-recording recovery and retry support."
 
     stats: {
-        downloads:  43
+        downloads:  56
         updated_at: 1780561936000
     }
 }

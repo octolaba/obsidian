@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/periodic-table
 alt:
   - https://github.com/r-cramer4/Periodic-Table-Obsidian
-downloads: 4731
+downloads: 4768
 updated at: "2025-01-04T20:26:03Z"
 related to:
   - "[[GitHub - 686366252]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View the periodic table in the sidebar. Click any element to open a panel with detailed information like atomic number, symbol, and key properties."
 
     stats: {
-        downloads:  4731
+        downloads:  4768
         updated_at: 1736022363000
     }
 }

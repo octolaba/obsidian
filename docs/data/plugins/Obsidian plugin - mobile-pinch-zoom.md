@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mobile-pinch-zoom
 alt:
   - https://github.com/hata-suriiken/obsidian-mobile-pinch-zoom
-downloads: 547
+downloads: 915
 updated at: "2026-07-10T10:47:09Z"
 related to:
   - "[[GitHub - 1270058204]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Pinch with two fingers to zoom notes in and out on mobile (iPad/iPhone/Android). Display a floating zoom indicator and tap it to reset to 100%. Use commands to zoom in/out/reset and choose Content mode (scales whole note; editor cursor may shift) or Font-size mode (scales text only)."
 
     stats: {
-        downloads:  547
+        downloads:  915
         updated_at: 1783680429000
     }
 }

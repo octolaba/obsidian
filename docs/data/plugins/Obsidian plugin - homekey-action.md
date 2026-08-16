@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/homekey-action
 alt:
   - https://github.com/shichishima/obsidian-homekey-plugin
-downloads: 296
+downloads: 305
 updated at: "2025-12-31T12:11:03Z"
 related to:
   - "[[GitHub - 1023519021]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move the cursor to the beginning of visible text, skipping indentation and list/quote/task markers, and toggle to the absolute line start on repeat. Bind the command to any hotkey and use an advanced variant that also recognizes headings and footnotes."
 
     stats: {
-        downloads:  296
+        downloads:  305
         updated_at: 1767183063000
     }
 }

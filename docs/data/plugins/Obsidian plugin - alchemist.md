@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/alchemist
 alt:
   - https://github.com/ksawl/obsidian-alchemist
-downloads: 172
+downloads: 207
 updated at: "2026-05-19T08:49:05Z"
 related to:
   - "[[GitHub - 1216097349]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export notes and linked assets as .textbundle/.textpack with link preservation, multi-note recursion, and smart hashing to avoid duplicates. Convert and extract audio to MP3 or FLAC in bulk via FFmpeg while syncing ID3 tags from note metadata. Export Dataview queries to CSV and strip UTM/tracking params from pasted URLs to keep your vault tidy."
 
     stats: {
-        downloads:  172
+        downloads:  207
         updated_at: 1779180545000
     }
 }

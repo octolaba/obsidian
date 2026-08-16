@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/fix-tab-size
 alt:
   - https://github.com/mnaoumov/obsidian-fix-tab-size
-downloads: 1225
-updated at: "2026-07-21T01:04:05Z"
+downloads: 1416
+updated at: "2026-08-08T04:57:38Z"
 related to:
   - "[[GitHub - 1067546214]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Fix editor tab insertion to match the Indent visual width setting. Make the Tab key insert the configured number of spaces when using spaces for indentation instead of always inserting four."
 
     stats: {
-        downloads:  1225
-        updated_at: 1784595845000
+        downloads:  1416
+        updated_at: 1786165058000
     }
 }
 ```

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/daytasks
 alt:
   - https://github.com/mhelnour/daytasks
-downloads: 185
-updated at: "2026-07-01T19:06:38Z"
+downloads: 280
+updated at: "2026-07-28T10:27:59Z"
 related to:
   - "[[GitHub - 1279569242]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage day-first tasks inside your daily notes with collapsible cards, subtasks, dependencies, priorities, estimates, tags, and optional detail notes. View and filter all tasks across days in a Task List, group and sort as needed, and keep stable IDs so cards, subtasks, dependencies, and detail notes link to the same task."
 
     stats: {
-        downloads:  185
-        updated_at: 1782932798000
+        downloads:  280
+        updated_at: 1785234479000
     }
 }
 ```

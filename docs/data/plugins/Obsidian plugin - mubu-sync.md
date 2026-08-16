@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mubu-sync
 alt:
   - https://github.com/bopan3/mubu-obsidian-sync
-downloads: 9
+downloads: 68
 updated at: "2026-07-23T01:12:02Z"
 related to:
   - "[[GitHub - 1308923119]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Mubu documents one-way into Obsidian, creating a Markdown file per document and preserving Mubu folder hierarchy. Track renames by document ID and update only changed files via hash checks; sync at startup or periodically and confine remote content between mubu-sync markers so local additions outside stay untouched."
 
     stats: {
-        downloads:  9
+        downloads:  68
         updated_at: 1784769122000
     }
 }

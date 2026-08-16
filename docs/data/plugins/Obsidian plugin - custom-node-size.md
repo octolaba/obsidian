@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/custom-node-size
 alt:
   - https://github.com/jackvonhouse/custom-node-size
-downloads: 9120
+downloads: 9474
 updated at: "2024-09-24T17:45:41Z"
 related to:
   - "[[GitHub - 861029801]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set fixed graph node sizes by adding a numeric node_size file property to notes. Override Obsidian's link-weighted sizing so nodes display the value you choose (visual range ~6–100); keep the property numeric to avoid unexpected behavior."
 
     stats: {
-        downloads:  9120
+        downloads:  9474
         updated_at: 1727199941000
     }
 }

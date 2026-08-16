@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-progress-bar
 alt:
   - https://github.com/pochihh/obsidian-simple-progress-bar
-downloads: 281
+downloads: 372
 updated at: "2026-06-05T23:04:09Z"
 related to:
   - "[[GitHub - 1128601465]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show a clean, minimal progress bar in the note header that updates in real time to reflect checkbox completion across the entire note. Add embedded section progress bars with an sp-bar code block to display counts and percentages for checkboxes inside specific headings."
 
     stats: {
-        downloads:  281
+        downloads:  372
         updated_at: 1780700649000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/flowscript-diagrams
 alt:
   - https://github.com/kilrkrow/flowscript-for-obsidian
-downloads: 120
+downloads: 131
 updated at: "2026-05-28T20:52:45Z"
 related to:
   - "[[GitHub - 1252743588]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render fenced flow code blocks as inline SVG flowcharts in Live Preview and Reading view using the FlowScript DSL. Use indentation-driven syntax to create start/end nodes, decisions, processes, branches, groups, swimlanes, flow direction and theme overrides, plus optional transparent backgrounds."
 
     stats: {
-        downloads:  120
+        downloads:  131
         updated_at: 1780001565000
     }
 }

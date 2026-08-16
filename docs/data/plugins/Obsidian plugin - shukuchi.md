@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/shukuchi
 alt:
   - https://github.com/tadashi-aikawa/shukuchi
-downloads: 5894
+downloads: 5972
 updated at: "2026-06-06T09:59:03Z"
 related to:
   - "[[GitHub - 602005175]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Teleport to the nearest URL or internal link and jump to its destination even when no link sits under the cursor. Prioritize links on the same line, otherwise move to the closest link, and provide commands to open links in-pane, new tabs/groups, or a new window; supports desktop and mobile."
 
     stats: {
-        downloads:  5894
+        downloads:  5972
         updated_at: 1780739943000
     }
 }

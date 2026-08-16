@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/random-retrieval
 alt:
   - https://github.com/jeanjean-rxl/random-retrieval-plugin
-downloads: 243
+downloads: 250
 updated at: "2024-10-25T13:27:53Z"
 related to:
   - "[[GitHub - 866513309]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Open random notes selected by a local LLM retriever and ranker to surface hidden or related ideas from your vault. Make randomness context-aware so you discover surprising, fuzzy-matching notes for exploration and inspiration."
 
     stats: {
-        downloads:  243
+        downloads:  250
         updated_at: 1729862873000
     }
 }

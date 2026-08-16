@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/memodack
 alt:
   - https://github.com/memodack/memodack
-downloads: 592
+downloads: 617
 updated at: "2025-11-27T15:27:31Z"
 related to:
   - "[[GitHub - 1023173130]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Memorize vocabulary and phrases using a compact {value|translation} syntax and attach images by linking words. Convert selections with a hotkey, use translation and text-to-speech providers, and practice offline on desktop or mobile with a focused review mode."
 
     stats: {
-        downloads:  592
+        downloads:  617
         updated_at: 1764257251000
     }
 }

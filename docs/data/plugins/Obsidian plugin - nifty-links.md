@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nifty-links
 alt:
   - https://github.com/x-ai/obsidian-nifty-links
-downloads: 10040
+downloads: 10113
 updated at: "2024-09-22T07:34:20Z"
 related to:
   - "[[GitHub - 678477645]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create elegant Notion-style link cards in Obsidian with a clean, minimalist look. Extract webpage metadata via Crestify and Microlink and render dark-mode-ready, compact link previews."
 
     stats: {
-        downloads:  10040
+        downloads:  10113
         updated_at: 1726990460000
     }
 }

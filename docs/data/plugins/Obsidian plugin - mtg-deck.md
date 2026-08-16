@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mtg-deck
 alt:
   - https://github.com/sboulema/mtg-deck
-downloads: 228
+downloads: 290
 updated at: "2026-07-13T08:07:24Z"
 related to:
   - "[[GitHub - 1225802867]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Paste a decklist into a code block to render an interactive MTG deck view with card previews, official mana symbols, prices, rarity dots, and automatic type grouping. Hover to preview, click to flip double-faced cards, toggle list or visual grid, track collection, validate format legality, and generate a buylist."
 
     stats: {
-        downloads:  228
+        downloads:  290
         updated_at: 1783930044000
     }
 }

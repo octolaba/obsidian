@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hephaistos-importer
 alt:
   - https://github.com/runa-rist/hephaistos-importer
-downloads: 385
+downloads: 395
 updated at: "2026-01-21T07:37:47Z"
 related to:
   - "[[GitHub - 901844631]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Starfinder characters from Hephaistos by public ID and generate a Markdown note per character with populated frontmatter (name, abilities, race, classes, hephaistos link, etc.). Update existing notes' frontmatter without overwriting content and create SRD-style hyperlinks plus fields compatible with Javalent's Initiative Tracker and Fantasy Statblocks."
 
     stats: {
-        downloads:  385
+        downloads:  395
         updated_at: 1768981067000
     }
 }

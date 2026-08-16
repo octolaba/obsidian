@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/kuro-gamification
 alt:
   - https://github.com/johannes-kaindl/kuro-gamification
-downloads:
-updated at:
+downloads: 94
+updated at: "2026-08-11T13:57:31Z"
 related to:
   - "[[GitHub - 1311811320]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/johannes-kaindl/kuro-gamification"
     description: "Neurodivergence-friendly gamification: XP, levels, streaks with freeze tokens, deterministic loot, and lore. Off-by-default for anything that could escalate. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Add neurodivergence-friendly gamification to Obsidian with XP, levels, streaks and freeze tokens. Track progress automatically from daily notes, redeem deterministic loot drops and optional lore, adjust XP manually, and view a live status in the sidebar or embedded block — all data stored locally."
+
+    stats: {
+        downloads:  94
+        updated_at: 1786456651000
+    }
 }
 ```
 

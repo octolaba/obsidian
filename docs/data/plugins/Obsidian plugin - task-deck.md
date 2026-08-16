@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/task-deck
 alt:
   - https://github.com/ismailivanov/task-deck
-downloads: 250
-updated at: "2026-07-17T15:42:46Z"
+downloads: 384
+updated at: "2026-07-29T00:48:49Z"
 related to:
   - "[[GitHub - 1288289947]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage tasks with a compact kanban board that keeps each card as a real Markdown note in your vault. Create lists and cards inline, drag-and-drop to reorder, apply global colored labels, add checklists and start/due dates, and view card details rendered in Markdown with automatic sync."
 
     stats: {
-        downloads:  250
-        updated_at: 1784302966000
+        downloads:  384
+        updated_at: 1785286129000
     }
 }
 ```

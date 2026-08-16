@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-crews
 alt:
   - https://github.com/johannes-kaindl/vault-crews
-downloads: 60
+downloads: 88
 updated at: "2026-07-12T18:12:14Z"
 related to:
   - "[[GitHub - 1290656804]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run autonomous local LLM crews in your vault with an orchestrator-led, deterministic pipeline that sequences collector → llm → actions. Constrain and verify every LLM output against versioned schemas before any write, then commit each run as a single git commit with one-click undo. View human-readable run logs and machine-readable state for full observability and crash recovery."
 
     stats: {
-        downloads:  60
+        downloads:  88
         updated_at: 1783879934000
     }
 }

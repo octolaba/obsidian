@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/book-exporter
 alt:
   - https://github.com/dsebastien/obsidian-book-exporter
-downloads: 920
-updated at: "2026-07-17T07:37:50Z"
+downloads: 1124
+updated at: "2026-07-29T07:43:12Z"
 related to:
   - "[[GitHub - 1223549746]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Compile a multi-note manuscript from a manifest note into EPUB or PDF via Pandoc. Use headings and bulleted wikilinks to assemble and nest parts, chapters, and scenes, inline linked notes where listed, preserve other content verbatim, and export locally (desktop only); Pandoc required, Typst recommended for PDF."
 
     stats: {
-        downloads:  920
-        updated_at: 1784273870000
+        downloads:  1124
+        updated_at: 1785310992000
     }
 }
 ```

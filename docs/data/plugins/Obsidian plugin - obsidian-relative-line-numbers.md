@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-relative-line-numbers
 alt:
   - https://github.com/nadavspi/obsidian-relative-line-numbers
-downloads: 108649
+downloads: 109817
 updated at: "2023-12-27T04:27:56Z"
 related to:
   - "[[GitHub - 324820350]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display relative line numbers in Obsidian's editor mode, mirroring Vim's relativenumber for quick movement context. Enable line numbers in Editor options to show the current line as 0 and other lines as distance counts."
 
     stats: {
-        downloads:  108649
+        downloads:  109817
         updated_at: 1703651276000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/image-to-markdown
 alt:
   - https://github.com/johannes-kaindl/image-to-markdown
-downloads: 298
-updated at: "2026-07-12T20:31:01Z"
+downloads: 476
+updated at: "2026-08-08T08:48:53Z"
 related to:
   - "[[GitHub - 1276002035]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Transcribe embedded images and PDFs in notes to editable Markdown using an OpenAI-compatible vision model that runs locally and fully offline. Stream live transcripts into a sidebar, create one transcript note per image without overwriting originals, and show model reasoning in expandable thinking blocks."
 
     stats: {
-        downloads:  298
-        updated_at: 1783888261000
+        downloads:  476
+        updated_at: 1786178933000
     }
 }
 ```

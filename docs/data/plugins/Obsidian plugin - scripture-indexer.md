@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/scripture-indexer
 alt:
   - https://github.com/jdrbrn/obsidian-scripture-indexer
-downloads: 490
+downloads: 498
 updated at: "2024-12-21T16:57:27Z"
 related to:
   - "[[GitHub - 837381183]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Index Scripture references across your vault by scanning notes and writing a consolidated index file. Update and clean the index automatically on file save, rename, or deletion, and support common citation formats like Book Chapter:Verse with ranges, commas, and semicolons."
 
     stats: {
-        downloads:  490
+        downloads:  498
         updated_at: 1734800247000
     }
 }

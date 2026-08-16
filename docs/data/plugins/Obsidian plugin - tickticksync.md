@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/tickticksync
 alt:
   - https://github.com/thesamim/TickTickSync
-downloads: 34129
-updated at: "2026-07-16T21:02:34Z"
+downloads: 35236
+updated at: "2026-08-08T17:15:37Z"
 related to:
   - "[[GitHub - 687678476]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Synchronize tasks and notes bidirectionally between Obsidian and TickTick, keeping task states aligned and supporting Tasks-plugin date/time formats. Create and update TickTick tasks automatically from Obsidian and retain full mobile compatibility."
 
     stats: {
-        downloads:  34129
-        updated_at: 1784235754000
+        downloads:  35236
+        updated_at: 1786209337000
     }
 }
 ```

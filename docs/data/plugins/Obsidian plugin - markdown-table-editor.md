@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markdown-table-editor
 alt:
   - https://github.com/ganesshkumar/obsidian-table-editor
-downloads: 116587
+downloads: 118412
 updated at: "2022-05-14T10:02:52Z"
 related to:
   - "[[GitHub - 461169491]]"
@@ -28,7 +28,7 @@ Markdown Table Editor edits Markdown tables in a visual, spreadsheet-like editor
 plugin: {
     id:     "markdown-table-editor"
     name:   "Markdown Table Editor"
-    author: "ganesshkumar"
+    author: "Ganessh Kumar R P"
     repo:   "ganesshkumar/obsidian-table-editor"
 
     html_url:    "https://community.obsidian.md/plugins/markdown-table-editor"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit Markdown tables in a visual, spreadsheet-like editor inside Obsidian. Import CSV or Excel/Sheets data and convert it to Markdown tables. Add, delete, move rows or columns, sort and justify columns, and update table content."
 
     stats: {
-        downloads:  116587
+        downloads:  118412
         updated_at: 1652522572000
     }
 }

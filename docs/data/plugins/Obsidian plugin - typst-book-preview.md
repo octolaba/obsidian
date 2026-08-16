@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/typst-book-preview
 alt:
   - https://github.com/wilbursalazar/typst-book-preview
-downloads: 239
+downloads: 313
 updated at: "2026-06-07T01:35:05Z"
 related to:
   - "[[GitHub - 1261640728]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "- Generate a live PDF preview of your Typst file - Easily Export PDF 1. Open Settings > Typst Book Preview. 2. Set Main Typst file to the vault-relative path of your entry file. 3. Use Choose file to search existing .typ and .typ.md files. 4. Run Open preview from the command palette or the ribbon icon. 5. Press Compile, or run Compile."
 
     stats: {
-        downloads:  239
+        downloads:  313
         updated_at: 1780796105000
     }
 }

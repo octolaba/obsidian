@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hexo-toolkit
 alt:
   - https://github.com/sissilab/obsidian-hexo-toolkit
-downloads: 288
+downloads: 296
 updated at: "2024-11-20T06:16:34Z"
 related to:
   - "[[GitHub - 868492815]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Obsidian notes to Hexo-compatible Markdown, extracting front-matter and translating internal title links, images (including size variants) and embedded Excalidraw into Hexo-friendly formats. Upload images to SM.MS or copy local image matches and preview the conversion in a Hexo Conversion Result window."
 
     stats: {
-        downloads:  288
+        downloads:  296
         updated_at: 1732083394000
     }
 }

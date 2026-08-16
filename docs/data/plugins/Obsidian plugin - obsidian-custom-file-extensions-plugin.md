@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-custom-file-extensions-plugin
 alt:
   - https://github.com/meeptech/obsidian-custom-file-extensions-plugin
-downloads: 15343
+downloads: 15744
 updated at: "2023-12-17T21:11:49Z"
 related to:
   - "[[GitHub - 556452303]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Assign file extensions to Obsidian view types using a JSON-configured mapping and define separate mobile mappings if needed. Edit a file's extension from the file-tree context menu, toggle case sensitivity, and enable or disable the default .md assignment."
 
     stats: {
-        downloads:  15343
+        downloads:  15744
         updated_at: 1702847509000
     }
 }

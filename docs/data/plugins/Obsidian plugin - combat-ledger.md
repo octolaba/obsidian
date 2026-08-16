@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/combat-ledger
 alt:
   - https://github.com/snifer/combat-ledger
-downloads: 116
+downloads: 143
 updated at: "2026-06-05T17:09:57Z"
 related to:
   - "[[GitHub - 1248624380]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track initiative, HP, defense (AC) and character type by reading YAML frontmatter from your Obsidian notes. Manage turns and rounds with active combatant highlighting, toggle conditions and extra numeric fields, and record every combat event to a Markdown combat log with timestamps."
 
     stats: {
-        downloads:  116
+        downloads:  143
         updated_at: 1780679397000
     }
 }

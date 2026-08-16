@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/svg-editor
 alt:
   - https://github.com/galkatzh/obs-svg
-downloads: 91
+downloads: 148
 updated at: "2026-07-16T10:58:32Z"
 related to:
   - "[[GitHub - 1095122641]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render and edit SVG code blocks and embedded .svg files inline with a visual WYSIWYG editor and a synchronized code mode. Save edits back to notes or files, convert between inline blocks and embeds, draw shapes or freehand, adjust color and opacity, undo changes, and keep output sanitized while supporting mobile touch."
 
     stats: {
-        downloads:  91
+        downloads:  148
         updated_at: 1784199512000
     }
 }

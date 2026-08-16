@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/inline-annotations
 alt:
   - https://github.com/cetrodk/obsidian-inline-annotations
-downloads: 384
+downloads: 470
 updated at: "2026-03-08T09:59:58Z"
 related to:
   - "[[GitHub - 1174506824]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add short notes inline using {text::note} syntax to attach hidden context without creating new files. Reveal annotations with a click or hover to show popups above text, ideal for TTRPG notes, study material, manuscripts, or any text needing inline commentary."
 
     stats: {
-        downloads:  384
+        downloads:  470
         updated_at: 1772963998000
     }
 }

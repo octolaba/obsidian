@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nuance-excalidraw-pen-sound
 alt:
   - https://github.com/theanh97/nuance-excalidraw-pen-sound
-downloads: 42
+downloads: 106
 updated at: "2026-07-15T08:35:16Z"
 related to:
   - "[[GitHub - 1301344738]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Play satisfying paper-writing sounds while drawing on Excalidraw canvases, delivering real-time scratching feedback. Choose between Pencil, Fountain Pen, or Marker profiles, adjust volume and pitch, and preview sounds in settings."
 
     stats: {
-        downloads:  42
+        downloads:  106
         updated_at: 1784104516000
     }
 }

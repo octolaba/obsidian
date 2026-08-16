@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/custom-slides
 alt:
   - https://github.com/davidvkimball/obsidian-custom-slides
-downloads: 3256
-updated at: "2026-07-23T05:03:51Z"
+downloads: 3477
+updated at: "2026-08-10T21:20:47Z"
 related to:
   - "[[GitHub - 1010989420]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Customize Slides navigation, transitions, progress bar, fonts, footer text, and slide numbering to tailor your presentations. Toggle arrow visibility, choose transition effects, left-align lists, enable auto-fit shrinking and auto-enter reading mode for immediate keyboard control with mobile-friendly touch support."
 
     stats: {
-        downloads:  3256
-        updated_at: 1784783031000
+        downloads:  3477
+        updated_at: 1786396847000
     }
 }
 ```

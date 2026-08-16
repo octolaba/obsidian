@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tagline
 alt:
   - https://github.com/marten-ti/obsidian-tagline
-downloads: 143
+downloads: 154
 updated at: "2026-06-16T21:28:47Z"
 related to:
   - "[[GitHub - 1230755208]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create notes from inline text using tag-driven templates. Write a line with a tag and Dataview-style inline fields, fill autocomplete suggestions for dates, folders, tags and options, then convert it into a linked note with typed frontmatter, optional checkbox sync, and Templater support."
 
     stats: {
-        downloads:  143
+        downloads:  154
         updated_at: 1781645327000
     }
 }

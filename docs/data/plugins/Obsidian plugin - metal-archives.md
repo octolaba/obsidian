@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/metal-archives
 alt:
   - https://github.com/vincenzocaputo/obsidian-metal-archives-plugin
-downloads: 2612
+downloads: 2620
 updated at: "2024-10-27T14:46:17Z"
 related to:
   - "[[GitHub - 708459500]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create notes for metal bands and albums by fetching metadata from Metal Archives. Search bands or albums to generate prefilled Obsidian notes and map relationships in the vault graph using bands, albums, and tags."
 
     stats: {
-        downloads:  2612
+        downloads:  2620
         updated_at: 1730040377000
     }
 }

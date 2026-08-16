@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/slugify
 alt:
   - https://github.com/ansango/obsidian-slugify
-downloads: 46
+downloads: 82
 updated at: "2026-07-09T21:56:33Z"
 related to:
   - "[[GitHub - 1295774137]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Rename files and update every wiki link to slug-case (lowercase, no accents, hyphens) directly from Obsidian. Preview all proposed renames before applying, run on a file, folder, selection or the whole vault, and skip or report name collisions."
 
     stats: {
-        downloads:  46
+        downloads:  82
         updated_at: 1783634193000
     }
 }

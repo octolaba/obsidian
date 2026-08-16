@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/gridsense
 alt:
   - https://github.com/grub-basket/gridsense
-downloads: 43
-updated at: "2026-07-23T15:12:30Z"
+downloads: 142
+updated at: "2026-08-08T07:24:26Z"
 related to:
   - "[[GitHub - 1306394866]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Open any folder as an editable, Excel-like grid where rows are notes and columns are your frontmatter fields. Edit with multi-cell selection, spreadsheet keys and find/replace; view note body under a heading and write undoable changes through Obsidian's frontmatter process."
 
     stats: {
-        downloads:  43
-        updated_at: 1784819550000
+        downloads:  142
+        updated_at: 1786173866000
     }
 }
 ```

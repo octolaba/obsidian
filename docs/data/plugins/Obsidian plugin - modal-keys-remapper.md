@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/modal-keys-remapper
 alt:
   - https://github.com/naoki-mizuno/obsidian-modal-keys
-downloads: 119
+downloads: 166
 updated at: "2026-06-28T22:50:23Z"
 related to:
   - "[[GitHub - 1118693183]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Remap keyboard shortcuts for navigating modal dialogs and suggestion lists, including move up/down and confirm/close actions. Define target CSS classes to scope shortcuts and assign multiple shortcuts per action (up to 10) for flexible modal navigation."
 
     stats: {
-        downloads:  119
+        downloads:  166
         updated_at: 1782687023000
     }
 }

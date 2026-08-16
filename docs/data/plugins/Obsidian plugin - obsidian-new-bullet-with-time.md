@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-new-bullet-with-time
 alt:
   - https://github.com/quorafind/Obsidian-New-Bullet-With-Time
-downloads: 7212
+downloads: 7276
 updated at: "2025-04-03T04:16:36Z"
 related to:
   - "[[GitHub - 557623705]]"
@@ -28,7 +28,7 @@ This plugin automatically inserts the current time into new bullet lines as they
 plugin: {
     id:     "obsidian-new-bullet-with-time"
     name:   "New Bullet With Time"
-    author: "quorafind"
+    author: "Boninall"
     repo:   "quorafind/Obsidian-New-Bullet-With-Time"
 
     html_url:    "https://community.obsidian.md/plugins/obsidian-new-bullet-with-time"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert the current time into new bullet lines as you create them. Customize the time format and use a regex to detect bullets that already start with a time."
 
     stats: {
-        downloads:  7212
+        downloads:  7276
         updated_at: 1743653796000
     }
 }

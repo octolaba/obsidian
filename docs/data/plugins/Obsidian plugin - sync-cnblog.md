@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sync-cnblog
 alt:
   - https://github.com/lei-ctyh/obsidian-sync-cnblog
-downloads: 849
+downloads: 868
 updated at: "2024-12-07T02:37:43Z"
 related to:
   - "[[GitHub - 732322745]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Obsidian Markdown notes to Cnblogs (博客园) and publish local images without changing your vault. Upload new posts, update published posts, and automatically rename Cnblogs articles when files are renamed in Obsidian."
 
     stats: {
-        downloads:  849
+        downloads:  868
         updated_at: 1733539063000
     }
 }

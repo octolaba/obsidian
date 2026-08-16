@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/url-cleaner
 alt:
   - https://github.com/ashishbhateja/obsidian-url-cleaner
-downloads: 92
+downloads: 106
 updated at: "2026-06-15T16:29:54Z"
 related to:
   - "[[GitHub - 1270349473]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Clean tracking parameters from URLs in the current note. Strip utm_* entries and common trackers like fbclid, gclid, igshid, mc_cid, mc_eid, rcm, ref, and ref_src to leave clean links."
 
     stats: {
-        downloads:  92
+        downloads:  106
         updated_at: 1781540994000
     }
 }

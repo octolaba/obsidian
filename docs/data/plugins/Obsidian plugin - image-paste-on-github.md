@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-paste-on-github
 alt:
   - https://github.com/hyoyoonnam/image-paste-on-github
-downloads: 74
+downloads: 83
 updated at: "2026-06-26T14:24:14Z"
 related to:
   - "[[GitHub - 1277801853]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload pasted or dropped images straight to your GitHub repository and insert raw.githubusercontent.com links instead of saving files into your vault. Keep your vault small by storing screenshots on a public GitHub repo — pasted images become publicly accessible."
 
     stats: {
-        downloads:  74
+        downloads:  83
         updated_at: 1782483854000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/vault-rooms
 alt:
   - https://github.com/dndark12/vault-rooms
-downloads: 70
-updated at: "2026-07-16T03:18:59Z"
+downloads: 150
+updated at: "2026-08-10T08:58:12Z"
 related to:
   - "[[GitHub - 1290769591]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Vault Rooms lets you create local, LAN-only rooms for selected vault folders and share them with trusted teammates in real time. Invite links get people connected in seconds; fine-grained access control (ACLs) grants read, write, or delete per file path to a user or a whole team, deny by default. Edits sync live over WebSocket, and Markdown-backed workflows like Kanban boards and Tasks keep working across every synced device. Run the relay embedded inside Obsidian for casual use, or standalone on an always-on machine for better uptime. No cloud service, no telemetry, no account to create - your files never leave your own network."
 
     stats: {
-        downloads:  70
-        updated_at: 1784171939000
+        downloads:  150
+        updated_at: 1786352292000
     }
 }
 ```

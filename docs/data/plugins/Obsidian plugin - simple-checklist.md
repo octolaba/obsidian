@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/simple-checklist
 alt:
   - https://github.com/l-4553/obsidian-simple-checklist
-downloads: 486
-updated at: "2026-07-11T01:39:49Z"
+downloads: 711
+updated at: "2026-07-30T22:58:41Z"
 related to:
   - "[[GitHub - 1252884120]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Collect all unchecked - [ ] todos from across the vault into a single side panel, grouped by source file and sorted by last modified. Jump to a todo's line by clicking it, check off items to mark them - [x] (with a small confetti burst), delete entries from the panel, and render wiki and Markdown links inline with live updates as you edit."
 
     stats: {
-        downloads:  486
-        updated_at: 1783733989000
+        downloads:  711
+        updated_at: 1785452321000
     }
 }
 ```

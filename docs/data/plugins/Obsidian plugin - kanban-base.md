@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kanban-base
 alt:
   - https://github.com/jaidetree/obsidian-kanban-base
-downloads: 261
+downloads: 318
 updated at: "2026-07-03T23:44:12Z"
 related to:
   - "[[GitHub - 1173899130]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add two Kanban views to Bases: group notes into columns by a text property or use each immediate subfolder as a column. Drag cards between columns to update the note's property or physically move the file between folders with Obsidian updating links automatically."
 
     stats: {
-        downloads:  261
+        downloads:  318
         updated_at: 1783122252000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mood-quarter-calendar
 alt:
   - https://github.com/linglingcai0314/obsidian-mood-quarter-calendar
-downloads: 128
+downloads: 137
 updated at: "2026-05-26T13:48:21Z"
 related to:
   - "[[GitHub - 1250088716]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a year-long mood calendar arranged quarter-by-quarter with consistent SVG faces pulled from daily notes. Read moods from frontmatter, inline fields, or tags and show one face per day. Record or edit moods by clicking a date to open a sticky note, keeping all data local in Markdown."
 
     stats: {
-        downloads:  128
+        downloads:  137
         updated_at: 1779803301000
     }
 }

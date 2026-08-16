@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/textflow
 alt:
   - https://github.com/tine-schreibt/textflow
-downloads: 567
+downloads: 619
 updated at: "2026-05-31T13:32:12Z"
 related to:
   - "[[GitHub - 917156763]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create flows — dynamic documents that assemble content from multiple notes using folders, tags, properties, bookmark groups, or Dataview queries. Edit flows like normal notes with automatic two-way syncing to source files, and build embed-based flows to avoid data duplication while navigating by keyboard or mouse."
 
     stats: {
-        downloads:  567
+        downloads:  619
         updated_at: 1780234332000
     }
 }

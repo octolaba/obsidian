@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-inline-fields
 alt:
   - https://github.com/dsarman/better-inline-fields
-downloads: 11238
+downloads: 11372
 updated at: "2023-08-05T06:33:26Z"
 related to:
   - "[[GitHub - 490801937]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle inline boolean fields with clickable checkboxes. Autocomplete inline field values from pages in a chosen folder using Dataview, honor page aliases, and search values with regex via a configurable trigger."
 
     stats: {
-        downloads:  11238
+        downloads:  11372
         updated_at: 1691217206000
     }
 }

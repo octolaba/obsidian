@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-vim-multibyte-char-search
 alt:
   - https://github.com/anselmwang/obsidian-vim-multibyte-char-search
-downloads: 4249
+downloads: 4264
 updated at: "2022-04-21T21:45:56Z"
 related to:
   - "[[GitHub - 467370498]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search multibyte characters in Vim mode without switching input methods by typing the initial letters of their input-method encoding (e.g., pinyin \"yl\" for \"用来\"). Run the Search Multibytes command to convert initials into multibyte search patterns and jump through matches."
 
     stats: {
-        downloads:  4249
+        downloads:  4264
         updated_at: 1650577556000
     }
 }

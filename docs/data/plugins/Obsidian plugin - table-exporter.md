@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/table-exporter
 alt:
   - https://github.com/wikty/obsidian-table-exporter
-downloads: 456
+downloads: 627
 updated at: "2026-06-25T16:49:04Z"
 related to:
   - "[[GitHub - 1262060766]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export rendered Markdown tables to PNG, CSV, Excel (.xlsx), or paginated PDF while preserving the reading-view appearance. Choose per-run export styles, detect and pick among multiple tables in a note, copy PNGs to the clipboard, or save exports to your vault."
 
     stats: {
-        downloads:  456
+        downloads:  627
         updated_at: 1782406144000
     }
 }

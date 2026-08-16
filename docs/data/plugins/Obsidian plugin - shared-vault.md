@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/shared-vault
 alt:
   - https://github.com/fangface-hub/ObsidianSharedVault
-downloads: 24
+downloads: 34
 updated at: "2026-07-18T22:46:11Z"
 related to:
   - "[[GitHub - 1304076095]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Enable serverless, conflict-free collaboration by storing Yjs-compatible operation logs, node registry entries, and snapshots inside the vault. Keep per-device CRDT caches in .obsidian/cache/{vault-id}/{node-id}/{user-id}/, apply remote changes via background polling or manual sync, and view the in-vault node registry to track active or expired participants."
 
     stats: {
-        downloads:  24
+        downloads:  34
         updated_at: 1784414771000
     }
 }

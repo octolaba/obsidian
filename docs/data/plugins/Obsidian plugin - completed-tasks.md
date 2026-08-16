@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/completed-tasks
 alt:
   - https://github.com/mgussekloo/obsidian-completedtasks
-downloads: 4134
+downloads: 4241
 updated at: "2025-12-10T20:38:13Z"
 related to:
   - "[[GitHub - 951976654]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move completed tasks to the bottom of their list automatically, reordering at a configurable interval while preserving the cursor position during sorting. Keep subtasks attached to their parent, run in Reader mode, support the Tasks plugin without requiring it, and opt out per note via frontmatter."
 
     stats: {
-        downloads:  4134
+        downloads:  4241
         updated_at: 1765399093000
     }
 }

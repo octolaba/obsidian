@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-import
 alt:
   - https://github.com/0126-hash/obsidian-smart-import
-downloads: 389
+downloads: 507
 updated at: "2026-05-02T09:55:45Z"
 related to:
   - "[[GitHub - 1214907696]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import files and folders from outside your vault and convert supported documents into Markdown notes. Preserve original source files, extract embedded media from Office documents, generate stub notes for low-quality PDFs, and apply optional OpenAI-compatible cleanup with a local rule-based fallback. Use file picker, drag-and-drop, recent downloads, Finder selection, clipboard, or natural-language lookup; desktop-only (best-tested on macOS)."
 
     stats: {
-        downloads:  389
+        downloads:  507
         updated_at: 1777715745000
     }
 }

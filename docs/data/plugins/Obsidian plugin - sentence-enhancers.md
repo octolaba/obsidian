@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sentence-enhancers
 alt:
   - https://github.com/garrett-is-a-swann/obsidian-sentence-enhancers
-downloads: 152
+downloads: 165
 updated at: "2026-01-07T20:58:50Z"
 related to:
   - "[[GitHub - 1125433612]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add contextual CSS classes to workspace and Markdown view containers (prefixed ose_ / ose--) to expose temporal info like month, weekday, day-of-month, hour and minute. Use those classes in snippets or themes to style notes and workspace elements based on date/time context."
 
     stats: {
-        downloads:  152
+        downloads:  165
         updated_at: 1767819530000
     }
 }

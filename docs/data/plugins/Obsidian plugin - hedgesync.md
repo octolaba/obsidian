@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hedgesync
 alt:
   - https://github.com/tionis/obsidian-hedgesync
-downloads: 122
+downloads: 154
 updated at: "2026-05-16T13:34:40Z"
 related to:
   - "[[GitHub - 1167114395]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Obsidian Markdown notes with HedgeDoc using a frontmatter key to map each note to a HedgeDoc document. Push, pull, and open linked documents; enable optional auto-push or true live sync for the active note; create HedgeDoc docs from notes or notes from HedgeDoc URLs/IDs; run a vault-wide pull while preserving frontmatter."
 
     stats: {
-        downloads:  122
+        downloads:  154
         updated_at: 1778938480000
     }
 }

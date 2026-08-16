@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-glance
 alt:
   - https://github.com/chenjhu/image-glance
-downloads: 18
+downloads: 41
 updated at: "2026-07-20T02:15:01Z"
 related to:
   - "[[GitHub - 1303840210]]"
@@ -36,7 +36,7 @@ plugin: {
     description: "Shows marked images as compact inline thumbnails with a larger hover or tap preview. - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  18
+        downloads:  41
         updated_at: 1784513701000
     }
 }

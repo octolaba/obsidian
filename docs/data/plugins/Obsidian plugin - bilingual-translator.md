@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bilingual-translator
 alt:
   - https://github.com/sourit2001/obsidian-bilingual-translator
-downloads: 430
+downloads: 492
 updated at: "2026-05-18T15:54:35Z"
 related to:
   - "[[GitHub - 1214884110]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Translate English notes into paragraph-by-paragraph Chinese–English bilingual (parallel) format for easier reading, study, and reference. Preserve Markdown, LaTeX and code blocks while skipping YAML frontmatter and internal links, handle long articles with intelligent chunking and progress notifications, and offer multiple translation engines for speed, quality, and cost options."
 
     stats: {
-        downloads:  430
+        downloads:  492
         updated_at: 1779119675000
     }
 }

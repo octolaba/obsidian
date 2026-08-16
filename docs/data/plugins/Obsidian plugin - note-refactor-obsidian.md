@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-refactor-obsidian
 alt:
   - https://github.com/lynchjames/note-refactor-obsidian
-downloads: 335159
+downloads: 338926
 updated at: "2023-09-18T23:06:00Z"
 related to:
   - "[[GitHub - 307868592]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extract selected text into a new note, optionally use the first line as the filename or prompt for a name. Replace the original selection with a link to the new note and sanitize characters to produce a valid filename."
 
     stats: {
-        downloads:  335159
+        downloads:  338926
         updated_at: 1695078360000
     }
 }

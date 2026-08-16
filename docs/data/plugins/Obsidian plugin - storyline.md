@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/storyline
 alt:
   - https://github.com/pixerojan/obsidian-storyline
-downloads: 21162
-updated at: "2026-07-23T11:16:30Z"
+downloads: 26625
+updated at: "2026-08-11T11:01:03Z"
 related to:
   - "[[GitHub - 1164005401]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Transform your Obsidian vault into a book planning and writing workspace to organize scenes, characters, locations, plotlines, and track writing progress. Use Corkboard sticky notes and image pins, Kanban-style Board cards, and a spreadsheet-style Plotgrid to map, arrange, and convert notes into scenes."
 
     stats: {
-        downloads:  21162
-        updated_at: 1784805390000
+        downloads:  26625
+        updated_at: 1786446063000
     }
 }
 ```

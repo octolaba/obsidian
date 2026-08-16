@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/enhanced-annotations
 alt:
   - https://github.com/ycnmhd/obsidian-enhanced-annotations
-downloads: 17239
+downloads: 17520
 updated at: "2025-02-05T16:34:34Z"
 related to:
   - "[[GitHub - 697283844]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Explore comments and highlights from the active file in a dedicated sidebar view. Create notes from comments/highlights via the editor context menu, copy comments from selected files via the file-explorer menu, assign custom styles by label (e.g., <!--todo: ...-->), and insert labeled comments with a trigger phrase."
 
     stats: {
-        downloads:  17239
+        downloads:  17520
         updated_at: 1738773274000
     }
 }

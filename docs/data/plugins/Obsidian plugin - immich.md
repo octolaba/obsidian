@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/immich
 alt:
   - https://github.com/talal-a/obsidian-immich
-downloads: 1181
+downloads: 1212
 updated at: "2026-02-23T05:06:49Z"
 related to:
   - "[[GitHub - 848603171]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert images from a self-hosted Immich album directly into Obsidian notes with one click. Browse a shared album, select single or multiple images for immediate insertion, and protect your album share key."
 
     stats: {
-        downloads:  1181
+        downloads:  1212
         updated_at: 1771823209000
     }
 }

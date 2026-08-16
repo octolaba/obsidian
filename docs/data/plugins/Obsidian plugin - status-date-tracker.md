@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/status-date-tracker
 alt:
   - https://github.com/whiletruegeek/status-date-tracker
-downloads: 32
+downloads: 41
 updated at: "2026-07-10T11:01:57Z"
 related to:
   - "[[GitHub - 1296361343]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Record a YYYY-MM-DD date property when a note's status changes, naming the property after the new status (e.g. in-progress: 2026-07-10). Keep a compact transition history as previous status-date properties remain in the note. Change the tracked property and mark final statuses (or enable preserve-first-date) to keep initial dates permanent while other status dates update on re-entry."
 
     stats: {
-        downloads:  32
+        downloads:  41
         updated_at: 1783681317000
     }
 }

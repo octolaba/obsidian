@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mails-blog-publisher
 alt:
   - https://github.com/fengxuan/mails-blog-obsidian-plugin
-downloads: 82
+downloads: 88
 updated at: "2026-06-07T08:38:44Z"
 related to:
   - "[[GitHub - 1255595150]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish the current note to Mails Blog and manage linked posts directly from Obsidian. Save drafts, publish or update linked posts, sync remote posts with conflict protection, upload vault images and insert returned Markdown, and write or remove blog binding fields in frontmatter."
 
     stats: {
-        downloads:  82
+        downloads:  88
         updated_at: 1780821524000
     }
 }

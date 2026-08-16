@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/constellations
 alt:
   - https://github.com/nikshukrem/obsidian-constellations
-downloads: 80
+downloads: 207
 updated at: "2026-07-20T08:14:30Z"
 related to:
   - "[[GitHub - 1300302973]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Explore your vault as a 3D star map: notes become stars, shared tags form constellations, and folders become universes. Fly to stars to open info cards with tags, previews and linked neighbors, filter by name or tag to spotlight matches, and enjoy animated twinkling and drifting comets."
 
     stats: {
-        downloads:  80
+        downloads:  207
         updated_at: 1784535270000
     }
 }

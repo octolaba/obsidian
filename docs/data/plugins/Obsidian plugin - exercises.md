@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/exercises
 alt:
   - https://github.com/alexccavaco/obsidian-exercises
-downloads: 4866
+downloads: 4908
 updated at: "2025-02-17T19:13:06Z"
 related to:
   - "[[GitHub - 673966186]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create interactive exercises inside your notes using a block-based syntax. Insert $match, $select, $input, $line and $choice elements to build matching, multiple-choice and text-entry questions with randomized options, multiple correct answers and revealable solutions."
 
     stats: {
-        downloads:  4866
+        downloads:  4908
         updated_at: 1739819586000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/word-frequency
 alt:
   - https://github.com/mts7/obsidian-word-frequency
-downloads: 2433
+downloads: 2499
 updated at: "2026-03-02T01:50:33Z"
 related to:
   - "[[GitHub - 942757281]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Count words in the current note and display frequency counts in a sidebar sorted from most to least common. Filter or search the list and blacklist words to exclude them from counts to identify keywords for SEO, résumés, or general writing."
 
     stats: {
-        downloads:  2433
+        downloads:  2499
         updated_at: 1772416233000
     }
 }

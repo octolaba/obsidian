@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-audio-transcription-summary
 alt:
   - https://github.com/hackerhomelab/AITranscribe
-downloads: 444
+downloads: 602
 updated at: "2026-07-09T11:32:19Z"
 related to:
   - "[[GitHub - 1258806290]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "If you appreciate this - Please donate to continue to build the plugin: https://ko-fi.com/hackerh AI Audio Transcription & Summary is a premium Obsidian plugin (macOS & iOS) to record meetings, lectures, or voice notes directly inside your notes. It features dual-provider transcription and multi-LLM post-processing, combined with a robust local backup safeguard. Key Features: Direct Recording: Record high-quality audio inside Obsidian with active waveforms and timers. Whisper & Gemini Transcription: Automatic audio chunking (22MB for Whisper, 10MB for Gemini) to bypass API payload limits. LLM Summary & Formatting: Auto-format transcripts using Claude, GPT, or Gemini. Fail-Safe Recovery: If API or network requests fail, your raw audio recording is saved locally inside your vault and linked in your note so you never lose a file. Flexible Insertion: Insert summaries directly at your cursor or generate standalone notes from templates. Support development: https://ko-fi.com/hackerhomelab"
 
     stats: {
-        downloads:  444
+        downloads:  602
         updated_at: 1783596739000
     }
 }

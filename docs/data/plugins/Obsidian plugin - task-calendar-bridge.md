@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/task-calendar-bridge
 alt:
   - https://github.com/israerusan/obsidian-task-calendar-bridge
-downloads: 90
-updated at: "2026-07-05T13:24:08Z"
+downloads: 151
+updated at: "2026-08-05T11:23:58Z"
 related to:
   - "[[GitHub - 1281891400]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Bridge dated Markdown tasks into a local, privacy-friendly .ics file for import into Google Calendar, Apple Calendar, Outlook, TickTick, or other calendar apps. Export current-note tasks for free; unlock a one-time Pro to export the full vault, enable auto-exports, include completed tasks, reminder alarms, timed and multi-day events, and folder filters."
 
     stats: {
-        downloads:  90
-        updated_at: 1783257848000
+        downloads:  151
+        updated_at: 1785929038000
     }
 }
 ```

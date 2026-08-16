@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rpg-dice-roller
 alt:
   - https://github.com/butterski/obsidian-rpg-dice-roller
-downloads: 114
+downloads: 182
 updated at: "2026-07-06T16:50:47Z"
 related to:
   - "[[GitHub - 1099062792]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Build complex RPG dice formulas visually in a side-panel formula builder with full d20 grammar support, advantage/disadvantage, reroll/explode and keep/drop operations. Generate Discord or Roll20-formatted commands, copy or insert clickable ROLL[formula] rolls into notes, and auto-detect formulas in open files."
 
     stats: {
-        downloads:  114
+        downloads:  182
         updated_at: 1783356647000
     }
 }

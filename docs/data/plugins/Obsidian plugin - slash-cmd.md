@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/slash-cmd
 alt:
   - https://github.com/maniarasan-zuper/slash-cmd
-downloads: 311
+downloads: 420
 updated at: "2026-06-30T12:07:18Z"
 related to:
   - "[[GitHub - 1260634050]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert a Notion-style slash menu to quickly add blocks like headings, tables, callouts, code blocks, lists, math blocks, links, dividers, and today's date. Type '/' and keep typing to filter options, pick a block and press Enter to insert with the cursor placed correctly."
 
     stats: {
-        downloads:  311
+        downloads:  420
         updated_at: 1782821238000
     }
 }

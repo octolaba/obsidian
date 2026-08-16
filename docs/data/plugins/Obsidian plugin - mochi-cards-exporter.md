@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mochi-cards-exporter
 alt:
   - https://github.com/kalibetre/mochi-cards-exporter
-downloads: 5374
+downloads: 5397
 updated at: "2021-05-26T08:18:50Z"
 related to:
   - "[[GitHub - 341585613]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export Markdown notes to Mochi-compatible .mochi flashcard packages, including images, audio, video and other attachments. Create cards by tagging a line as the front and separating the back with section dividers, then generate a .mochi file ready for Mochi import."
 
     stats: {
-        downloads:  5374
+        downloads:  5397
         updated_at: 1622017130000
     }
 }

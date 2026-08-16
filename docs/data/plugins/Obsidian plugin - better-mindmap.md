@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-mindmap
 alt:
   - https://github.com/linem-davton/obsidian-better-mindmap
-downloads: 3458
+downloads: 3803
 updated at: "2025-07-15T09:25:03Z"
 related to:
   - "[[GitHub - 979567158]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize Markdown outlines as interactive, live mind maps inside Obsidian. Toggle vertical or horizontal layouts, adjust rank and node spacing with in-view sliders, and pan/zoom while collapsing or expanding nodes. Click links in nodes to open notes and watch the map update as you edit."
 
     stats: {
-        downloads:  3458
+        downloads:  3803
         updated_at: 1752571503000
     }
 }

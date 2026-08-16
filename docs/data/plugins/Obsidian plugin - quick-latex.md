@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quick-latex
 alt:
   - https://github.com/joeyuping/quick_latex_obsidian
-downloads: 206309
+downloads: 207118
 updated at: "2024-01-29T03:24:07Z"
 related to:
   - "[[GitHub - 400705624]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Speed up LaTeX math typing in Obsidian with shortcuts that auto-close $/$$ and place the cursor between them. Type Greek-letter and custom shorthands, auto-insert alignment & inside align blocks, and use Tab to jump out of align/matrix/cases environments."
 
     stats: {
-        downloads:  206309
+        downloads:  207118
         updated_at: 1706498647000
     }
 }

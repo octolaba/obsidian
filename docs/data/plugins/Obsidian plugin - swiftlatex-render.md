@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/swiftlatex-render
 alt:
   - https://github.com/gboyd068/obsidian-swiftlatex-render
-downloads: 5319
+downloads: 5410
 updated at: "2026-06-27T15:17:43Z"
 related to:
   - "[[GitHub - 828319514]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render LaTeX code blocks labeled latex into PDF or labeled latexsvg into SVG directly inside Obsidian. Compile locally with the built-in SwiftLaTeX WebAssembly engine, fetch CTAN packages on demand, and convert PDFs to SVG via a wasm pdftocairo converter."
 
     stats: {
-        downloads:  5319
+        downloads:  5410
         updated_at: 1782573463000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/digital-paper
 alt:
   - https://github.com/danferns/digital-paper-obsidian-plugin
-downloads: 4819
+downloads: 4842
 updated at: "2025-11-04T16:39:46Z"
 related to:
   - "[[GitHub - 690550674]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Disable backspace, delete and cut actions to prevent accidental erasure and keep everything you type. Toggle paper mode to turn the behavior on or off; the status bar displays \"paper\" when active."
 
     stats: {
-        downloads:  4819
+        downloads:  4842
         updated_at: 1762274386000
     }
 }

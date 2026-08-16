@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/keyboard-formatter
 alt:
   - https://github.com/lauloque/Keyboard-Formatter
-downloads: 484
+downloads: 504
 updated at: "2025-07-15T17:31:30Z"
 related to:
   - "[[GitHub - 984882622]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format keyboard and mouse input inline as semantic <kbd> tags using a shortcut to convert modifiers (Ctrl, Shift, Alt, Cmd, Win), function keys, arrows, numpad keys, and mouse buttons into consistent, readable symbols. Recognize names case-insensitively and capitalize single-letter keys; include light and dark display styles."
 
     stats: {
-        downloads:  484
+        downloads:  504
         updated_at: 1752600690000
     }
 }

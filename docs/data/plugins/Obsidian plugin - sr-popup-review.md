@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/sr-popup-review
 alt:
   - https://github.com/uzusio/obsidian-sr-popup-review
-downloads: 23
-updated at: "2026-07-21T14:57:04Z"
+downloads: 39
+updated at: "2026-08-10T12:45:01Z"
 related to:
   - "[[GitHub - 1289401738]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Review your Spaced Repetition flashcards without opening Obsidian via an always-on-top, non-stealing popup that appears at regular intervals. Reveal answers and rate cards (Again / Hard / Good / Easy) directly in the popup; ratings are saved through Spaced Repetition’s review pipeline to keep scheduling consistent."
 
     stats: {
-        downloads:  23
-        updated_at: 1784645824000
+        downloads:  39
+        updated_at: 1786365901000
     }
 }
 ```

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/datadeck
 alt:
   - https://github.com/svm0n/datadeck
-downloads: 73
-updated at: "2026-07-18T05:33:35Z"
+downloads: 216
+updated at: "2026-07-25T14:31:10Z"
 related to:
   - "[[GitHub - 1302409715]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Open CSV files as rich, editable views — table, cards, kanban, habit dashboard, tasks board, single-entry reader, and travel map — and save edits directly to the original CSV. Create charts with best-fit lines and R² overlays, categorical/size encodings, aggregates and PNG export; embed live views in notes and stash conflicting disk versions to Archive."
 
     stats: {
-        downloads:  73
-        updated_at: 1784352815000
+        downloads:  216
+        updated_at: 1784989870000
     }
 }
 ```

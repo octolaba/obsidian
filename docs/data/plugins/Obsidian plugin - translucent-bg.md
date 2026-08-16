@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/translucent-bg
 alt:
   - https://github.com/mellowmarsh-git/Obsidian-Translucent-BG
-downloads: 713
+downloads: 891
 updated at: "2026-06-02T15:06:31Z"
 related to:
   - "[[GitHub - 1249189372]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Apply native Windows 11 background materials (Mica, Acrylic, Tabbed) to the Obsidian window on Windows 10/11. Keep full theme compatibility and choose plugin-managed or theme-managed tinting for precise color and opacity control that adapts across themes."
 
     stats: {
-        downloads:  713
+        downloads:  891
         updated_at: 1780412791000
     }
 }

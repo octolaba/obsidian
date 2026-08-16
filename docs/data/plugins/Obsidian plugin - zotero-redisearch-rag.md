@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zotero-redisearch-rag
 alt:
   - https://github.com/jmiba/zotero-redisearch-rag
-downloads: 1449
+downloads: 1934
 updated at: "2026-05-28T21:05:43Z"
 related to:
   - "[[GitHub - 1120222664]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Query your Zotero library from Obsidian and get answers with clickable chunk-level citations that jump to the exact passage in your note or Zotero. Import items, OCR PDFs, index chunks in Redis Stack for local retrieval, and edit chunks inline with incremental reindexing."
 
     stats: {
-        downloads:  1449
+        downloads:  1934
         updated_at: 1780002343000
     }
 }

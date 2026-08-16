@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quarto-exporter
 alt:
   - https://github.com/andreasthinks/obsidian-to-quarto-exporter
-downloads: 1397
+downloads: 1427
 updated at: "2026-05-13T08:31:13Z"
 related to:
   - "[[GitHub - 846023742]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export Obsidian notes to Quarto-compatible QMD files and convert Obsidian syntax to Quarto format. Add creation or modification dates with custom formatting, include or exclude tags, and select output folder and overwrite behavior for exported files."
 
     stats: {
-        downloads:  1397
+        downloads:  1427
         updated_at: 1778661073000
     }
 }

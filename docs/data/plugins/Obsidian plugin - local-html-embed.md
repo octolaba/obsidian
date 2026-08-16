@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/local-html-embed
 alt:
   - https://github.com/shygoly/obsidian-local-html-embed
-downloads: 522
+downloads: 669
 updated at: "2026-04-15T09:45:07Z"
 related to:
   - "[[GitHub - 1211336124]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed a vault-local HTML file inside a note using an html-embed code block to view reports, diagrams, dashboards, or interactive prototypes directly in Markdown. Preserve UTF-8 and relative assets with a generated base URL, support vault-relative or auto mode, offer fixed or automatic iframe height, and inject fallback theme variables with optional collapsible presentation for section-based layouts."
 
     stats: {
-        downloads:  522
+        downloads:  669
         updated_at: 1776246307000
     }
 }

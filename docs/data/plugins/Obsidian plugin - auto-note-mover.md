@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-note-mover
 alt:
   - https://github.com/farux/obsidian-auto-note-mover
-downloads: 111754
+downloads: 115221
 updated at: "2022-04-16T10:11:22Z"
 related to:
   - "[[GitHub - 450347734]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move active notes into destination folders based on matching tags or title rules. Apply moves automatically on create/edit/rename or run them manually; abort with a warning if the destination is missing or a name conflict exists. Include notes created from links or other plugins."
 
     stats: {
-        downloads:  111754
+        downloads:  115221
         updated_at: 1650103882000
     }
 }

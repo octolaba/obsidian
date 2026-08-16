@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/citation-callouts
 alt:
   - https://github.com/marvive/Citation-Callouts
-downloads: 726
+downloads: 772
 updated at: "2025-06-10T03:45:08Z"
 related to:
   - "[[GitHub - 998662867]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format quotes with citations into styled callouts that automatically extract the source name and display a book icon as the title. Preserve rich text (bold, italic, links) when pasting clipboard content or invoking the command to insert citation callouts."
 
     stats: {
-        downloads:  726
+        downloads:  772
         updated_at: 1749527108000
     }
 }

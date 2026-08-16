@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/shogi-kif-viewer
 alt:
   - https://github.com/luis8492/ShogiView
-downloads: 213
+downloads: 225
 updated at: "2026-02-26T01:06:28Z"
 related to:
   - "[[GitHub - 1060674153]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Shogi game records and positions directly inside Markdown notes from KIF, SFEN, BOD and CSA code blocks. Interact with an embedded board to navigate moves and variations, view captured pieces, comments, elapsed time and game metadata, and autoplay or jump to any move."
 
     stats: {
-        downloads:  213
+        downloads:  225
         updated_at: 1772067988000
     }
 }

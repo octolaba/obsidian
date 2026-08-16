@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/smart-context
 alt:
   - https://github.com/brianpetro/smart-context-obsidian
-downloads: 27828
-updated at: "2026-05-30T12:39:31Z"
+downloads: 30802
+updated at: "2026-08-06T02:14:01Z"
 related to:
   - "[[GitHub - 901340811]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Collect and clean the notes you need into reusable context bundles and copy them to the clipboard in one click. Build, save, and reopen templated contexts from folders, files, or selected blocks to paste straight into ChatGPT or other LLMs while keeping your data local and private."
 
     stats: {
-        downloads:  27828
-        updated_at: 1780144771000
+        downloads:  30802
+        updated_at: 1785982441000
     }
 }
 ```

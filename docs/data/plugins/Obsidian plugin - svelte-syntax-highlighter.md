@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/svelte-syntax-highlighter
 alt:
   - https://github.com/typhoon-kim/obsidian-svelte-syntax-highlighter
-downloads: 1331
+downloads: 1358
 updated at: "2024-06-03T18:29:05Z"
 related to:
   - "[[GitHub - 808115779]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add Svelte syntax highlighting to Obsidian code blocks. Enable live in-editor highlighting using a CodeMirror extension with Prism integration."
 
     stats: {
-        downloads:  1331
+        downloads:  1358
         updated_at: 1717439345000
     }
 }

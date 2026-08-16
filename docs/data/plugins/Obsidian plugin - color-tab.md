@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/color-tab
 alt:
   - https://github.com/rordaz/ColorTab
-downloads: 145
+downloads: 212
 updated at: "2026-06-29T20:55:31Z"
 related to:
   - "[[GitHub - 1264449976]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Assign background colors to any open tab to visually distinguish notes at a glance. Right-click tabs to set or remove colors and choose from customizable pastel palettes that update instantly across open notes."
 
     stats: {
-        downloads:  145
+        downloads:  212
         updated_at: 1782766531000
     }
 }

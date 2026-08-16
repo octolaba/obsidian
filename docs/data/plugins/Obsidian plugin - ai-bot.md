@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-bot
 alt:
   - https://github.com/kuzzh/obsidian-ai-bot
-downloads: 2755
+downloads: 2786
 updated at: "2025-11-09T05:34:37Z"
 related to:
   - "[[GitHub - 884581617]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Interact with an AI assistant directly inside Obsidian to generate, edit, and organize notes using context-aware suggestions. Connect to OpenAI or custom AI services and run intelligent, automated tasks from an intuitive modal interface. Automate repetitive workflows and get focused, relevant responses tied to your note context."
 
     stats: {
-        downloads:  2755
+        downloads:  2786
         updated_at: 1762666477000
     }
 }

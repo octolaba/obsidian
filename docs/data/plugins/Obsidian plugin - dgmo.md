@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/dgmo
 alt:
   - https://github.com/diagrammo/obsidian-dgmo
-downloads: 1178
-updated at: "2026-07-20T12:23:53Z"
+downloads: 1468
+updated at: "2026-08-10T16:47:29Z"
 related to:
   - "[[GitHub - 1158778113]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render ```dgmo code fences as rich diagrams inline in your notes — reading mode, live preview, desktop and mobile. 40+ chart types covering every category an Obsidian vault tends to need — data viz, software architecture, project planning, hierarchies, and specialty diagrams — all from one small plain-text language. One plugin instead of stitching several together. Because diagrams are plain text, they live alongside your notes: searchable by Obsidian's built-in search, diffable in git or Obsidian Sync history, easy to copy between vaults, easy to tweak six months later. No binary files, no images to re-export when you change a label. Ten built-in palettes (Catppuccin, Dracula, Gruvbox, Nord, Tokyo Night, and more) with light/dark/auto that follows Obsidian. Run \"Create example note with all chart types\" from the command palette to drop working samples into your vault."
 
     stats: {
-        downloads:  1178
-        updated_at: 1784550233000
+        downloads:  1468
+        updated_at: 1786380449000
     }
 }
 ```

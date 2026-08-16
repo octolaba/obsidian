@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/clipbook
 alt:
   - https://github.com/zkbkb/obsidian-ClipBook
-downloads: 137
+downloads: 154
 updated at: "2026-05-20T01:37:17Z"
 related to:
   - "[[GitHub - 1150866094]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Store and quickly copy API keys, tokens, and reusable text snippets from fenced clipbook code blocks in your notes. Render a compact structured list with per-row copy buttons, masked values that reveal on click, collapsible sections, inline editing, and a quick-add button to append entries without editing the source."
 
     stats: {
-        downloads:  137
+        downloads:  154
         updated_at: 1779241037000
     }
 }

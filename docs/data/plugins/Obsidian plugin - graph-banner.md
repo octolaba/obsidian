@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/graph-banner
 alt:
   - https://github.com/ras0q/obsidian-graph-banner
-downloads: 24141
-updated at: "2025-12-21T08:43:19Z"
+downloads: 24502
+updated at: "2026-08-11T06:18:50Z"
 related to:
   - "[[GitHub - 797541294]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Display a local graph view in the note header to visualize connections between the current note and nearby notes. Customize the banner via Style Settings and save or sync graph preferences with Sync Graph Settings; reload once to apply synced changes on first open."
 
     stats: {
-        downloads:  24141
-        updated_at: 1766306599000
+        downloads:  24502
+        updated_at: 1786429130000
     }
 }
 ```

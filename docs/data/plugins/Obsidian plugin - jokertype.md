@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jokertype
 alt:
   - https://github.com/kannibalk1w1/jokertype
-downloads: 177
+downloads: 224
 updated at: "2026-06-03T16:59:54Z"
 related to:
   - "[[GitHub - 1257025204]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Make typing feel game-like with floating pixel glyph particles, rising-pitch sampled typing sounds, and themed visual effects inspired by arcade and HyperType feedback. Upload custom sounds, choose presets from Subtle to Chaotic, and tune effect intensity, glyph lifetime, and pitch/streak behavior for the look and sound you want."
 
     stats: {
-        downloads:  177
+        downloads:  224
         updated_at: 1780505994000
     }
 }

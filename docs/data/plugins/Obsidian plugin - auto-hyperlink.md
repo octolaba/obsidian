@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-hyperlink
 alt:
   - https://github.com/take6/obsidian-plugin-auto-hyperlink
-downloads: 4904
+downloads: 4923
 updated at: "2024-04-13T07:46:23Z"
 related to:
   - "[[GitHub - 651741577]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert hyperlinks in reading view using JSON rules that match words or regex patterns and map them to URL templates. Use $ placeholders for dynamic URLs and optionally enable experimental editor mode to write links directly into files (editor edits may produce unexpected results)."
 
     stats: {
-        downloads:  4904
+        downloads:  4923
         updated_at: 1712994383000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/autofit-tabs
 alt:
   - https://github.com/bwya77/autofit-tabs
-downloads: 7235
+downloads: 7519
 updated at: "2026-01-17T04:13:21Z"
 related to:
   - "[[GitHub - 919626832]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Resize tab headers in real time to perfectly fit each title and eliminate awkward truncation. Keep a clean interface with smooth resize animations, optional icon hiding and pinned-tab behavior, max-width limits, scrollable tab bars and auto-centering for off-screen tabs."
 
     stats: {
-        downloads:  7235
+        downloads:  7519
         updated_at: 1768623201000
     }
 }

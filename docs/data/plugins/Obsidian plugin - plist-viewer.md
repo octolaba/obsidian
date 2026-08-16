@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/plist-viewer
 alt:
   - https://github.com/viggomeesters/obsidian-plist-viewer
-downloads: 73
+downloads: 85
 updated at: "2026-06-08T06:51:34Z"
 related to:
   - "[[GitHub - 1262619446]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Inspect .plist and .mobileconfig files as typed trees, source, and security summaries. Show a tree with key paths, type badges and masked secrets; display line-numbered XML; flag MDM, Wi‑Fi, VPN and certificate payloads; remain read-only and never install or modify profiles."
 
     stats: {
-        downloads:  73
+        downloads:  85
         updated_at: 1780901494000
     }
 }

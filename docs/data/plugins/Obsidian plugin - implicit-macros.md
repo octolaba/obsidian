@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/implicit-macros
 alt:
   - https://github.com/isolyth/implicit-macros
-downloads: 86
+downloads: 91
 updated at: "2026-05-12T23:14:06Z"
 related to:
   - "[[GitHub - 1223008681]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run inline AI macros by typing !!prompt! to call an OpenAI-compatible chat endpoint and stream the response back in place of the macro. Show braille-dot spinners sized to the original text while the call runs, then replace them with arriving tokens that briefly highlight and fade."
 
     stats: {
-        downloads:  86
+        downloads:  91
         updated_at: 1778627646000
     }
 }

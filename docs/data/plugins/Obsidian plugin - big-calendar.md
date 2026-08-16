@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/big-calendar
 alt:
   - https://github.com/quorafind/Obsidian-Big-Calendar
-downloads: 64641
+downloads: 65277
 updated at: "2025-03-11T05:45:01Z"
 related to:
   - "[[GitHub - 400950917]]"
@@ -28,7 +28,7 @@ Big Calendar displays notes and scheduled tasks in month, week, day and agenda v
 plugin: {
     id:     "big-calendar"
     name:   "Big Calendar"
-    author: "quorafind"
+    author: "Boninall"
     repo:   "quorafind/Obsidian-Big-Calendar"
 
     html_url:    "https://community.obsidian.md/plugins/big-calendar"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display notes and scheduled tasks in month, week, day and agenda views integrated with your daily notes. Parse time-stamped tasks and time blocks, update in real time, and jump from calendar events to the original note."
 
     stats: {
-        downloads:  64641
+        downloads:  65277
         updated_at: 1741671901000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ticktick
 alt:
   - https://github.com/viduycheung/ticktick-obsidian
-downloads: 9668
+downloads: 9717
 updated at: "2023-11-30T08:13:40Z"
 related to:
   - "[[GitHub - 675928738]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync TickTick tasks with your Obsidian vault, transforming task data between the two. Create TickTick tasks directly from notes and keep task metadata consistent across both platforms."
 
     stats: {
-        downloads:  9668
+        downloads:  9717
         updated_at: 1701332020000
     }
 }

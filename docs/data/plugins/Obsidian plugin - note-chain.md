@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/note-chain
 alt:
   - https://github.com/zigholding/obsidian-notechain-plugin
-downloads: 6009
-updated at: "2026-07-07T15:25:06Z"
+downloads: 6140
+updated at: "2026-08-04T15:49:20Z"
 related to:
   - "[[GitHub - 746982355]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Link notes into linear chains using PrevNote and NextNote metadata to define head, tail, previous, and next relationships. Order files in File Explorer by chain and create, jump to, or rearrange chain nodes to turn a linked graph into linear sequences."
 
     stats: {
-        downloads:  6009
-        updated_at: 1783437906000
+        downloads:  6140
+        updated_at: 1785858560000
     }
 }
 ```

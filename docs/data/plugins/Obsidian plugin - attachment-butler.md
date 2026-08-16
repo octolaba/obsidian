@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/attachment-butler
 alt:
   - https://github.com/fantsga/attachment-butler
-downloads: 121
+downloads: 143
 updated at: "2026-06-04T09:56:07Z"
 related to:
   - "[[GitHub - 1226405988]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Identify unreferenced attachments with a red-dot indicator in the file explorer to spot redundant files quickly. Jump to all notes that reference an attachment via right-click and display note-name prefixes with hover details to view reference sources at a glance."
 
     stats: {
-        downloads:  121
+        downloads:  143
         updated_at: 1780566967000
     }
 }

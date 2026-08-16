@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-min3ditorhotkeys-plugin
 alt:
   - https://github.com/d-sauer/Obsidian-Min3ditorHotkeys-plugin
-downloads: 4863
+downloads: 4925
 updated at: "2021-01-23T17:09:21Z"
 related to:
   - "[[GitHub - 331127819]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a new line above the current line even when the cursor isn’t at the line end. Add a new line below the current line even when the cursor isn’t at the line end. Duplicate the current line or selected text with a single hotkey."
 
     stats: {
-        downloads:  4863
+        downloads:  4925
         updated_at: 1611421761000
     }
 }

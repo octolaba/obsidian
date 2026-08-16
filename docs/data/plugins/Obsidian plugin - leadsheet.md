@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/leadsheet
 alt:
   - https://github.com/chrisamber/obsidian-leadsheet
-downloads: 45
+downloads: 87
 updated at: "2026-07-21T11:06:41Z"
 related to:
   - "[[GitHub - 1294488624]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render ChordPro lead sheets into performance-ready scores with per-file transposition, capo-aware chord shapes, and CJK-safe chord-over-lyric alignment. Display guitar chord diagrams, scrollable set lists, hands-free autoscroll paced to song duration, plus live authoring aids and a CLI for validation/export."
 
     stats: {
-        downloads:  45
+        downloads:  87
         updated_at: 1784632001000
     }
 }

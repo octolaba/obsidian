@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/carrel
 alt:
   - https://github.com/alas-poor-ophelia/carrel
-downloads: 494
+downloads: 568
 updated at: "2026-07-01T19:21:14Z"
 related to:
   - "[[GitHub - 1270814578]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn one or more vault folders into a column-balanced board of typed reference cards for browsing, sorting, and studying notes. Pin, filter, search, and expand cards to read content in place; keep favorites on a rail, and embed boards inline or open them as a full workspace pane."
 
     stats: {
-        downloads:  494
+        downloads:  568
         updated_at: 1782933674000
     }
 }

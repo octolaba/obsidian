@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-tikzjax
 alt:
   - https://github.com/artisticat1/obsidian-tikzjax
-downloads: 56699
+downloads: 57753
 updated at: "2024-03-31T14:39:31Z"
 related to:
   - "[[GitHub - 489437107]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render LaTeX and TikZ diagrams directly in notes by processing tikz code blocks. Produce graphs, figures, circuits, chemical diagrams, commutative diagrams and 3D/pgfplots plots using packages like chemfig, tikz-cd, circuitikz, pgfplots and amsmath."
 
     stats: {
-        downloads:  56699
+        downloads:  57753
         updated_at: 1711895971000
     }
 }

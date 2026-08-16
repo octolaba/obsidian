@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ling-gloss
 alt:
   - https://github.com/mijyuoon/obsidian-ling-gloss
-downloads: 5979
+downloads: 6034
 updated at: "2026-04-09T19:50:49Z"
 related to:
   - "[[GitHub - 614463142]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add interlinear glosses used in linguistics and conlang notes via gloss-tagged code blocks. Align source and metalanguage lines with \\gla, \\glb and optional \\glc element-by-element, handle bracketed multiword elements, escaped brackets, empty elements, comments, and a bottom \\ft free translation."
 
     stats: {
-        downloads:  5979
+        downloads:  6034
         updated_at: 1775764249000
     }
 }

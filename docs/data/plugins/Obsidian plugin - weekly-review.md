@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/weekly-review
 alt:
   - https://github.com/brandonkboswell/weekly-review
-downloads: 7846
+downloads: 7873
 updated at: "2024-05-06T01:40:07Z"
 related to:
   - "[[GitHub - 569969260]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open all notes created in the past week for a focused review session. Adjust the lookback period to load files from any recent number of days and review them together."
 
     stats: {
-        downloads:  7846
+        downloads:  7873
         updated_at: 1714959607000
     }
 }

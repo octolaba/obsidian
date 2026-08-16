@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graph-depth-gradient
 alt:
   - https://github.com/junghyunbak/graph-depth-gradient
-downloads: 140
+downloads: 187
 updated at: "2026-06-29T11:39:54Z"
 related to:
   - "[[GitHub - 1282013764]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Color graph view nodes by folder depth using a gradient between two colors. Map depth 0 to the start color and the configured max depth (and deeper) to the end color, with intermediate depths interpolated. Override other node-coloring schemes and work in Global and Local graph (desktop-only)."
 
     stats: {
-        downloads:  140
+        downloads:  187
         updated_at: 1782733194000
     }
 }

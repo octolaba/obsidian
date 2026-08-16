@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-svn
 alt:
   - https://github.com/caesarloo/obsidian-svn
-downloads: 317
+downloads: 345
 updated at: "2026-06-12T11:51:33Z"
 related to:
   - "[[GitHub - 1165409041]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage SVN working copies inside Obsidian desktop to update, refresh status, and inspect a change tree showing added/modified/deleted/conflicted/untracked items. Stage and unstage files or folders, generate commit summaries, commit staged changes, detect conflicts and mark them resolved (requires svn CLI)."
 
     stats: {
-        downloads:  317
+        downloads:  345
         updated_at: 1781265093000
     }
 }

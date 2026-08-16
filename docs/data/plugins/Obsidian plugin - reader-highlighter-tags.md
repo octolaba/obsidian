@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/reader-highlighter-tags
 alt:
   - https://github.com/ducktapekiller/obsidian-reader-highlighter-tags
-downloads: 3127
+downloads: 3815
 updated at: "2026-06-30T01:46:32Z"
 related to:
   - "[[GitHub - 1135263449]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight, tag, annotate, and organize text directly in Reading View without switching to Edit mode. Map highlights precisely to underlying Markdown across transclusions, preserve literal characters in technical text, and aggregate vault-wide highlights with advanced frontmatter filtering."
 
     stats: {
-        downloads:  3127
+        downloads:  3815
         updated_at: 1782783992000
     }
 }

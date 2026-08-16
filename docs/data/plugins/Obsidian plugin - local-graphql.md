@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/local-graphql
 alt:
   - https://github.com/twistoy/obsidian-local-graphql
-downloads: 2702
+downloads: 2725
 updated at: "2024-03-03T08:05:33Z"
 related to:
   - "[[GitHub - 714509620]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Expose a local GraphQL API to read, update, and delete notes. Run queries for todos and vault metadata, execute update and delete mutations, and subscribe to real-time changes."
 
     stats: {
-        downloads:  2702
+        downloads:  2725
         updated_at: 1709453133000
     }
 }

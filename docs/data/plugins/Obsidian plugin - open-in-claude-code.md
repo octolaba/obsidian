@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-in-claude-code
 alt:
   - https://github.com/wepee/obsidian-open-in-claude-code
-downloads: 304
+downloads: 334
 updated at: "2026-03-10T12:48:02Z"
 related to:
   - "[[GitHub - 1177830062]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open Claude Code from Obsidian in the current note's directory or at the vault root via a ribbon icon or command palette. Ensure the target directory inherits enabled plugins from the vault root's Claude settings by auto-creating and syncing a .claude/settings.json before each launch."
 
     stats: {
-        downloads:  304
+        downloads:  334
         updated_at: 1773146882000
     }
 }

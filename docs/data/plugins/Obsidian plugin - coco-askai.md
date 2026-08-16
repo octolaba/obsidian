@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/coco-askai
 alt:
   - https://github.com/yamfeel/coco-askai
-downloads: 1431
+downloads: 1439
 updated at: "2026-03-06T02:34:55Z"
 related to:
   - "[[GitHub - 744636185]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Ask AI questions and get context-aware answers using current note content and conversation history. Resize and drag multi-card pop-ups, pick models directly in prompts, apply filters and model tags, and manage AI interactions with a customizable right-click menu."
 
     stats: {
-        downloads:  1431
+        downloads:  1439
         updated_at: 1772764495000
     }
 }

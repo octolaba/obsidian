@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/o2
 alt:
   - https://github.com/songkg7/o2
-downloads: 4930
+downloads: 4939
 updated at: "2025-03-30T04:01:24Z"
 related to:
   - "[[GitHub - 601007991]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Obsidian Markdown notes to Jekyll, Chirpy, or Docusaurus formats. Run the O2 transformation on notes placed in a ready folder to export platform-ready Markdown with attachments while archiving original files."
 
     stats: {
-        downloads:  4930
+        downloads:  4939
         updated_at: 1743307284000
     }
 }

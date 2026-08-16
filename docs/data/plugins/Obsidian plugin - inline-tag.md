@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/inline-tag
 alt:
   - https://github.com/mb-yul/obsidian-inline-tag-plugin
-downloads: 333
+downloads: 352
 updated at: "2026-03-28T14:41:15Z"
 related to:
   - "[[GitHub - 1191960945]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Write tag references with human-readable labels using the [[#tag|Label]] syntax. Render labels as clickable tokens that open Obsidian Search preloaded with tag:#tag to list all notes with that tag, with Live Preview decorations and hover display of the canonical tag."
 
     stats: {
-        downloads:  333
+        downloads:  352
         updated_at: 1774708875000
     }
 }

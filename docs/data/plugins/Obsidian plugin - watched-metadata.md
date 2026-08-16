@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/watched-metadata
 alt:
   - https://github.com/nailahmed/Watched-Metadata
-downloads: 693
+downloads: 701
 updated at: "2024-06-01T20:25:28Z"
 related to:
   - "[[GitHub - 806469056]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Watch metadata fields and trigger actions when they change. Replace headers with updated metadata values and run configured Obsidian commands automatically."
 
     stats: {
-        downloads:  693
+        downloads:  701
         updated_at: 1717273528000
     }
 }

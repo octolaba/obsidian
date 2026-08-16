@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/deepseek-translator
 alt:
   - https://github.com/frankie18581/obsidian-deepseek-translator
-downloads: 373
+downloads: 443
 updated at: "2026-06-08T05:26:52Z"
 related to:
   - "[[GitHub - 1248968673]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Translate selected text instantly via a hover popup. Convert entire notes in one click (replace original or create a new file) and open a sidebar panel for manual input and language switching using DeepSeek's large model with 15+ language support."
 
     stats: {
-        downloads:  373
+        downloads:  443
         updated_at: 1780896412000
     }
 }

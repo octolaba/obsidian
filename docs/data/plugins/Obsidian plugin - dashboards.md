@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dashboards
 alt:
   - https://github.com/kevinmcaleer/obsidian-dashboards
-downloads: 1286
+downloads: 1759
 updated at: "2026-04-16T21:36:52Z"
 related to:
   - "[[GitHub - 1212857647]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Compose dashboards from across your vault and arrange charts, note embeds, stats, link cards, markdown and headings in a Bootstrap-style 12-column grid with drag-to-resize columns that auto-stack on mobile. Add and configure six widget types (chart with SQL/Bases, embed, stat, link, markdown, heading) via a visual editor or readable YAML code block and toggle between clean read and inline edit modes."
 
     stats: {
-        downloads:  1286
+        downloads:  1759
         updated_at: 1776375412000
     }
 }

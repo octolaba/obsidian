@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vitepress-theme
 alt:
   - https://github.com/weizwz/obsidian-vitepress
-downloads: 143
+downloads: 162
 updated at: "2026-05-18T08:51:38Z"
 related to:
   - "[[GitHub - 1191413243]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Apply a VitePress-style documentation theme to Obsidian, matching VitePress typography, links, tables, emoji, and relative path/line reference behavior. Render VitePress features like alert containers, collapsible details, badge components, enhanced code blocks with filename labels, grouped code tabs, and style native callouts to VitePress colors."
 
     stats: {
-        downloads:  143
+        downloads:  162
         updated_at: 1779094298000
     }
 }

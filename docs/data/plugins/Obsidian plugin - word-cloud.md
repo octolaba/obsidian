@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/word-cloud
 alt:
   - https://github.com/jetrica/obsidian-word-cloud
-downloads: 271
+downloads: 304
 updated at: "2026-02-19T14:42:09Z"
 related to:
   - "[[GitHub - 1153786161]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create interactive word clouds from your notes or lists with randomized sizes, colors, and orientations. Click a word to center it and regenerate the cloud to reveal connections, patterns, and spark new ideas."
 
     stats: {
-        downloads:  271
+        downloads:  304
         updated_at: 1771512129000
     }
 }

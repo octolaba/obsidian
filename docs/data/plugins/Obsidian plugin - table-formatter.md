@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/table-formatter
 alt:
   - https://github.com/fangface-hub/obsidian_table_formatter
-downloads: 335
-updated at: "2026-07-18T08:49:37Z"
+downloads: 434
+updated at: "2026-08-08T00:49:41Z"
 related to:
   - "[[GitHub - 1254419115]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Format Markdown tables on save to ensure consistent alignment and spacing. Configure cell padding (fixed or automatic single-space) and set delimiter dash count (automatic or fixed) to control table width and appearance."
 
     stats: {
-        downloads:  335
-        updated_at: 1784364577000
+        downloads:  434
+        updated_at: 1786150181000
     }
 }
 ```

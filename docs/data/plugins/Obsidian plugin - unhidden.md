@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/unhidden
 alt:
   - https://github.com/notenerdofficial/unhidden
-downloads: 95
+downloads: 144
 updated at: "2026-07-07T06:20:30Z"
 related to:
   - "[[GitHub - 1291847343]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reveal hidden dot-folders and dotfiles so they appear in Obsidian's file explorer, search, metadata cache, and Bases. Keep revealed folders live with eager indexing and recursive watchers without modifying files on disk; detect new hidden paths and restrict indexing by file type. Manage reveals and rescans from the command palette; desktop only."
 
     stats: {
-        downloads:  95
+        downloads:  144
         updated_at: 1783405230000
     }
 }

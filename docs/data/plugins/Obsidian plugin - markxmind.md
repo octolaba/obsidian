@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markxmind
 alt:
   - https://github.com/jinzcdev/obsidian-markxmind
-downloads: 461
+downloads: 541
 updated at: "2026-03-16T08:32:23Z"
 related to:
   - "[[GitHub - 1181702210]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render XMindMark syntax inside xmind or xmindmark code blocks as XMind mind maps directly in Obsidian. Include markers like boundary, summary, relationship, links, notes and respect light/dark themes."
 
     stats: {
-        downloads:  461
+        downloads:  541
         updated_at: 1773649943000
     }
 }

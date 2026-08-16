@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/caissa
 alt:
   - https://github.com/ekrizdis367/obsidian-caissa
-downloads: 168
-updated at: "2026-05-20T01:12:03Z"
+downloads: 221
+updated at: "2026-08-07T02:46:46Z"
 related to:
   - "[[GitHub - 1227577482]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Embed playable chess boards in notes, study openings and endgames, and browse 68 curated World Championship games. Play any position against offline Stockfish with adjustable strength, import or paste PGNs (or pull Lichess games), annotate moves, compare variations with multiple boards, and export boards as PNG or SVG."
 
     stats: {
-        downloads:  168
-        updated_at: 1779239523000
+        downloads:  221
+        updated_at: 1786070806000
     }
 }
 ```

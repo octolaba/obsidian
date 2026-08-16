@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/supersync
 alt:
   - https://github.com/rahuletto/supersync
-downloads: 76
+downloads: 157
 updated at: "2026-07-09T01:19:49Z"
 related to:
   - "[[GitHub - 1292109178]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your vault to a private GitHub repository using GitHub's API without requiring Git or command-line setup. Authenticate via GitHub device code and run automatic or manual syncs across desktop and mobile while preserving conflicting edits, browsing file history, and ignoring files with simple glob rules."
 
     stats: {
-        downloads:  76
+        downloads:  157
         updated_at: 1783559989000
     }
 }

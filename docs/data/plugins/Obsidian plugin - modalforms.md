@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/modalforms
 alt:
   - https://github.com/danielo515/obsidian-modal-form
-downloads: 62573
-updated at: "2026-07-22T08:35:17Z"
+downloads: 66009
+updated at: "2026-08-08T09:55:08Z"
 related to:
   - "[[GitHub - 686951480]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Define JSON forms and open them in modal dialogs from templates, QuickAdd, DataviewJS or any JavaScript context. Manage named forms, build note templates, register command-palette triggers, and use inputs like autocompleted note fields, lists, dates, toggles and multi-choice."
 
     stats: {
-        downloads:  62573
-        updated_at: 1784709317000
+        downloads:  66009
+        updated_at: 1786182908000
     }
 }
 ```

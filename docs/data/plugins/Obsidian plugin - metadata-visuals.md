@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/metadata-visuals
 alt:
   - https://github.com/anthonyfitzpatrick/obsidian-metadata-visuals
-downloads: 80
-updated at: "2026-07-05T15:25:40Z"
+downloads: 138
+updated at: "2026-08-02T14:58:43Z"
 related to:
   - "[[GitHub - 1289511693]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Transform frontmatter metadata into visual workflows by driving File Explorer colours, icons, inline metadata highlighting, smart folders and bulk metadata updates without altering stored files. Create rule groups, live previews and inherited folder states to visualize and act on workflow values across your vault."
 
     stats: {
-        downloads:  80
-        updated_at: 1783265140000
+        downloads:  138
+        updated_at: 1785682723000
     }
 }
 ```

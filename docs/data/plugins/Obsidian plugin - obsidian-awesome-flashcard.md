@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-awesome-flashcard
 alt:
   - https://github.com/awesomedog/obsidian-awesome-flashcard
-downloads: 5300
+downloads: 5329
 updated at: "2023-01-29T04:44:00Z"
 related to:
   - "[[GitHub - 555221845]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync flashcards written in standard Markdown from your Obsidian vault to Anki in one direction while preserving existing Anki learning progress. Support images, audio, video, code blocks, LaTeX and tables, plus deck and tag assignment per file or per card. Scan incrementally for speed and add quick links back to the source note."
 
     stats: {
-        downloads:  5300
+        downloads:  5329
         updated_at: 1674967440000
     }
 }

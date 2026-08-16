@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/omm-mindmap
 alt:
   - https://github.com/yuanlin2004/omm
-downloads: 189
+downloads: 278
 updated at: "2026-06-28T21:46:46Z"
 related to:
   - "[[GitHub - 1281805444]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render any Markdown outline as an interactive mindmap and convert a mindmap back into a clean Markdown bullet list. Pan, zoom, collapse/expand and edit nodes; follow links, use per-tree layouts (top-down or left-right), keep live two-way sync with the Markdown source, and export maps to PNG or PDF."
 
     stats: {
-        downloads:  189
+        downloads:  278
         updated_at: 1782683206000
     }
 }

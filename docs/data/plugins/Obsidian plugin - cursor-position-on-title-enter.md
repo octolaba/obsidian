@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cursor-position-on-title-enter
 alt:
   - https://github.com/chaintng/cursor-position-on-title-enter
-downloads: 513
+downloads: 532
 updated at: "2024-12-26T02:53:46Z"
 related to:
   - "[[GitHub - 896756743]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set the cursor position after pressing Enter on a note title. Choose between last known cursor, beginning of the note, or last line to control where editing resumes."
 
     stats: {
-        downloads:  513
+        downloads:  532
         updated_at: 1735181626000
     }
 }

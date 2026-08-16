@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/just-another-hotkey-addon
 alt:
   - https://github.com/chern-kp/JustAnotherHotkeyAddon
-downloads: 54
+downloads: 96
 updated at: "2026-07-08T17:58:21Z"
 related to:
   - "[[GitHub - 864209175]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a collection of hotkeys for text editing, selection, navigation, and section management in Obsidian. Move and reorder sections, select ranges and headings (including parent/child levels), jump between heading levels, and quickly edit link display text with dedicated commands."
 
     stats: {
-        downloads:  54
+        downloads:  96
         updated_at: 1783533501000
     }
 }

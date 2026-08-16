@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-tabulation
 alt:
   - https://github.com/speedarj/obsidian_folder_tabulation
-downloads: 645
+downloads: 660
 updated at: "2024-11-14T03:28:35Z"
 related to:
   - "[[GitHub - 867255720]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Navigate files in any folder like browser tabs and move to the next or previous file with wrap-around. Open files in the same tab, a new tab, new pane, or new window and add file-bar buttons to cycle and focus already-open notes."
 
     stats: {
-        downloads:  645
+        downloads:  660
         updated_at: 1731554915000
     }
 }

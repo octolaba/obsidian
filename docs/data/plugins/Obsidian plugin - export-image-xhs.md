@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/export-image-xhs
 alt:
   - https://github.com/buzuweidao/Export-Image-XHS
-downloads: 698
+downloads: 809
 updated at: "2026-05-16T07:02:19Z"
 related to:
   - "[[GitHub - 1187269106]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export notes as share-ready multi-image or long-image layouts with live preview and editable pagination to fine-tune layout before export. Customize author header and watermarks, preserve previewed appearance across pages, and apply presets tuned for 3:4 Xiaohongshu-style share cards."
 
     stats: {
-        downloads:  698
+        downloads:  809
         updated_at: 1778914939000
     }
 }

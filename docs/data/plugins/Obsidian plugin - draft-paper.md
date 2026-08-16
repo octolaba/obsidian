@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/draft-paper
 alt:
   - https://github.com/mikuloverfan/draft-paper
-downloads: 426
+downloads: 532
 updated at: "2026-06-17T00:56:15Z"
 related to:
   - "[[GitHub - 1252981273]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Draw and annotate directly on any Markdown file using a full‑screen transparent canvas in reading mode, with smooth freehand strokes, arrows, rectangles, text, and a local partial eraser. Save all marks as per‑file JSON bound to document coordinates so annotations persist and ignore layout changes."
 
     stats: {
-        downloads:  426
+        downloads:  532
         updated_at: 1781657775000
     }
 }

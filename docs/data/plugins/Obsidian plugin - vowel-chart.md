@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vowel-chart
 alt:
   - https://github.com/maplekarine/obsidian-vowel-chart
-downloads: 254
+downloads: 278
 updated at: "2026-05-16T16:20:37Z"
 related to:
   - "[[GitHub - 1131834994]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate a vowel diagram to display a language's vowel inventory inline in notes. Position vowels using a code block. Add vowels by coordinates, IPA brackets, or keywords. Choose trapezoid or triangle layouts."
 
     stats: {
-        downloads:  254
+        downloads:  278
         updated_at: 1778948437000
     }
 }

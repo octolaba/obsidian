@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/find-unlinked-files
 alt:
   - https://github.com/vinzent03/find-unlinked-files
-downloads: 211984
-updated at: "2024-08-12T20:57:36Z"
+downloads: 218572
+updated at: "2026-07-28T23:17:10Z"
 related to:
   - "[[GitHub - 313361341]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Find orphaned files, broken links, and empty notes across your vault and generate an output file listing them. Create missing linked notes for unresolved links and move unused files by extension to the system trash."
 
     stats: {
-        downloads:  211984
-        updated_at: 1723496256000
+        downloads:  218572
+        updated_at: 1785280630000
     }
 }
 ```

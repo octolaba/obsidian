@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tag-toggler
 alt:
   - https://github.com/studiogamma/tag-toggler
-downloads: 331
+downloads: 345
 updated at: "2026-06-02T05:16:12Z"
 related to:
   - "[[GitHub - 1162332310]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle tag-node visibility in Graph View by adding a configurable prefix to tags in your files, making them inactive while keeping the tagged files visible. Use per-tag and global hide/unhide controls to clean cluttered graphs; run a vault backup first since the plugin performs bulk edits."
 
     stats: {
-        downloads:  331
+        downloads:  345
         updated_at: 1780377372000
     }
 }

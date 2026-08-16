@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tree-diagram
 alt:
   - https://github.com/limpido/obsidian-tree-diagram
-downloads: 1176
+downloads: 1232
 updated at: "2025-06-09T14:15:24Z"
 related to:
   - "[[GitHub - 980207380]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert tab-indented text into a clean ASCII tree diagram inside your notes. Render nested structures with branch characters (├──, │, └──) to visualize folder-like hierarchies."
 
     stats: {
-        downloads:  1176
+        downloads:  1232
         updated_at: 1749478524000
     }
 }

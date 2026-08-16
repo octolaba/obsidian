@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/digital-garden-timer
 alt:
   - https://github.com/lucidalpha/digital-garden-obsidian
-downloads: 138
+downloads: 164
 updated at: "2026-05-13T08:51:59Z"
 related to:
   - "[[GitHub - 1236962792]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Start, pause, and reset a focus timer while earning 10 credits for each completed 10-minute block and tracking an all-time focus total. Spend credits to place objects in a small digital garden and automatically record progress—current timer, all-time duration, credit totals, and placed objects—in a Markdown note inside your vault."
 
     stats: {
-        downloads:  138
+        downloads:  164
         updated_at: 1778662319000
     }
 }

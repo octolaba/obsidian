@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graph-filter-builder
 alt:
   - https://github.com/thalikbussacro/graph-filter-builder
-downloads: 223
+downloads: 268
 updated at: "2026-04-29T03:39:23Z"
 related to:
   - "[[GitHub - 1224161583]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Build graph filters as structured Include/Exclude clauses with type selection (tag, path, file) and autocomplete. Combine clauses with AND and write the generated string into the native graph filter input so the filter updates live and bookmarks save normally."
 
     stats: {
-        downloads:  223
+        downloads:  268
         updated_at: 1777433963000
     }
 }

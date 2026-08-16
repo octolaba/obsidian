@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/study-vault
 alt:
   - https://github.com/wesswart77/obsidian-study-vault
-downloads: 176
+downloads: 207
 updated at: "2026-05-24T20:06:39Z"
 related to:
   - "[[GitHub - 1248532555]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage courses and exam schedules with records that track exam dates, topic counts, and subjects. Create structured topic notes with Summary, Key Concepts, Flashcards, Practice Questions, and related links, then run interactive flashcard reviews that pull Q/A pairs from notes and track known vs unsure. View per-course progress bars and days-until-exam in a sidebar."
 
     stats: {
-        downloads:  176
+        downloads:  207
         updated_at: 1779653199000
     }
 }

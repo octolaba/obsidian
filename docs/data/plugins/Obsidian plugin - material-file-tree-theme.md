@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/material-file-tree-theme
 alt:
   - https://github.com/j4charlie/material-file-tree-theme
-downloads: 220
+downloads: 265
 updated at: "2026-06-10T05:29:51Z"
 related to:
   - "[[GitHub - 1263698346]]"
@@ -36,7 +36,7 @@ plugin: {
     description: "Stable, theme-compatible Material Icon Theme file and folder icons for the file tree. - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  220
+        downloads:  265
         updated_at: 1781069391000
     }
 }

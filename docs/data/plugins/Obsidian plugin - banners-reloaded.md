@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/banners-reloaded
 alt:
   - https://github.com/dgcreations00/obsidian-banners-reloaded
-downloads: 11529
+downloads: 12504
 updated at: "2026-03-27T11:10:57Z"
 related to:
   - "[[GitHub - 1095837882]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add customizable banners to notes and control banner priority globally, by tag, or per note. Choose from five visual styles (gradients, blurs, curved swoosh), drag to set focal alignment, overlay templated headers using {{filename}} or any frontmatter property, and adjust content margin to overlap text."
 
     stats: {
-        downloads:  11529
+        downloads:  12504
         updated_at: 1774609857000
     }
 }

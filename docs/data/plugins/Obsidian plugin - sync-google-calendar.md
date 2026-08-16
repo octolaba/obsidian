@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sync-google-calendar
 alt:
   - https://github.com/dexin-qi/obsidian-sync-calendar
-downloads: 13689
+downloads: 13992
 updated at: "2023-06-09T01:56:10Z"
 related to:
   - "[[GitHub - 607958934]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Google Calendar events into Obsidian and manage them as tasks, with calendar edits automatically synced back into your notes. Push Obsidian tasks to Google Calendar by adding a start-date marker and list tasks by date using Dataview; recurring tasks aren't supported yet."
 
     stats: {
-        downloads:  13689
+        downloads:  13992
         updated_at: 1686275770000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-citation-plugin
 alt:
   - https://github.com/hans/obsidian-citation-plugin
-downloads: 229167
+downloads: 231623
 updated at: "2022-09-24T15:25:58Z"
 related to:
   - "[[GitHub - 319739679]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Integrate your reference library into Obsidian by reading BibTeX/BibLaTeX (.bib) or CSL-JSON exports and enable in-editor reference search. Create or open literature notes, insert links or full reference content into documents, and cite sources directly from the editor."
 
     stats: {
-        downloads:  229167
+        downloads:  231623
         updated_at: 1664033158000
     }
 }

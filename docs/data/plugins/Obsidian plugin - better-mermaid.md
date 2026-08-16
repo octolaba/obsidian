@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-mermaid
 alt:
   - https://github.com/joven-lynn/obsidian-better-mermaid
-downloads: 599
+downloads: 952
 updated at: "2026-07-03T01:48:25Z"
 related to:
   - "[[GitHub - 1265753820]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Version 1.0.5 增加默认缩放级别配置项 Open any Mermaid diagram in a full-size frosted-glass modal by clicking it in reading mode. Pan, drag and Ctrl+scroll to zoom with quick presets (20/50/75/100%), export high-resolution PNGs (2x), and inject custom CSS or switch UI language between English and Chinese."
 
     stats: {
-        downloads:  599
+        downloads:  952
         updated_at: 1783043305000
     }
 }

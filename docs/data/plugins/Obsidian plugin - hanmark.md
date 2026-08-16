@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/hanmark
 alt:
   - https://github.com/laguna821/hanmark
-downloads: 435
-updated at: "2026-07-22T06:27:13Z"
+downloads: 728
+updated at: "2026-08-10T13:45:43Z"
 related to:
   - "[[GitHub - 1267115275]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Import HWP, HWPX, PDF, DOCX and XLSX into clean Markdown with a bundled offline parser and record source metadata in frontmatter. Preview HWP and DOCX side-by-side inside Obsidian. Export notes back to HWP, DOCX or HTML on demand while keeping Markdown as your canonical, future‑proof source."
 
     stats: {
-        downloads:  435
-        updated_at: 1784701633000
+        downloads:  728
+        updated_at: 1786369543000
     }
 }
 ```

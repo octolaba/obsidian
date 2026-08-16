@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/readingrate
 alt:
   - https://github.com/simonsbookclub/readingrate-obsidian
-downloads: 81
+downloads: 135
 updated at: "2026-07-07T15:49:48Z"
 related to:
   - "[[GitHub - 1292368291]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "ReadingRate is a reading tracker. This plugin syncs your ReadingRate library into your vault as linked Markdown notes: a note per book and author, your reading journal, saved quotes with block references, AI reading insights, domain mastery, themes, and a reading timeline — all connected with wikilinks, so the graph view becomes a map of your reading. Sync is one-directional (ReadingRate → vault) and never touches anything you write below the notes marker in each file. It also adds commands to insert quotes or quote embeds into any note, Bases dashboards for your library, and optional graph colors per note type. Requires a ReadingRate account; the free tier syncs everything, while AI synthesis notes and vault lint require a ReadingRate subscription."
 
     stats: {
-        downloads:  81
+        downloads:  135
         updated_at: 1783439388000
     }
 }

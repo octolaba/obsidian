@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/omnifocus-task-sync
 alt:
   - https://github.com/jimmitchell/tasks-to-omnifocus
-downloads: 168
+downloads: 200
 updated at: "2026-05-14T11:49:42Z"
 related to:
   - "[[GitHub - 1226427313]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Send uncompleted tasks from the active Obsidian note to the OmniFocus inbox and mark them complete in Obsidian, with each forwarded task including a link back to its source note. Send single, selected, or all tasks; preserve nested checkboxes as subtasks; map inline fields like due, defer, flag, estimate and tags to OmniFocus fields."
 
     stats: {
-        downloads:  168
+        downloads:  200
         updated_at: 1778759382000
     }
 }

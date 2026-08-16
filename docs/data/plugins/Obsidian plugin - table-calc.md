@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/table-calc
 alt:
   - https://github.com/benruns/table-calc-plugin
-downloads: 453
+downloads: 761
 updated at: "2026-07-03T01:50:08Z"
 related to:
   - "[[GitHub - 1279278734]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add spreadsheet-style formulas to your markdown tables and render results inline in Live Preview and Reading view. Opt a table into formula evaluation by adding {calc} as the first header cell, which becomes a row-number column. Use cell references (A1), ranges (A1:A5), functions like SUM/AVG/MIN/MAX/COUNT/ABS/ROUND and arithmetic; hover results to reveal original formulas."
 
     stats: {
-        downloads:  453
+        downloads:  761
         updated_at: 1783043408000
     }
 }

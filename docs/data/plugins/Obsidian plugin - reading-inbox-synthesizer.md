@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/reading-inbox-synthesizer
 alt:
   - https://github.com/ibrh96-prog/obsidian-reading-inbox-synthesizer
-downloads: 108
+downloads: 121
 updated at: "2026-07-12T08:22:20Z"
 related to:
   - "[[GitHub - 1267873599]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn your backlog of web clippings into a single Reading Synthesis note with short summaries, key claims, cross-article themes, weekly highlights, and a prioritized \"needs attention\" list. View estimated read times, shared topics, and stale items to decide what to read or discard."
 
     stats: {
-        downloads:  108
+        downloads:  121
         updated_at: 1783844540000
     }
 }

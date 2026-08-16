@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/decks
 alt:
   - https://github.com/dscherdi/decks
-downloads: 8221
-updated at: "2026-07-23T20:08:34Z"
+downloads: 8930
+updated at: "2026-08-09T18:54:47Z"
 related to:
   - "[[GitHub - 1032750807]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Study flashcards with spaced repetition using the FSRS algorithm directly inside Obsidian. Create cards from headers or two-column tables, auto-extract decks from filenames or tags, and show optional notes during review."
 
     stats: {
-        downloads:  8221
-        updated_at: 1784837314000
+        downloads:  8930
+        updated_at: 1786301687000
     }
 }
 ```

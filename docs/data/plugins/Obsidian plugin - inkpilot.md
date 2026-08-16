@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/inkpilot
 alt:
   - https://github.com/nicholas-yu/InkPilot
-downloads: 467
+downloads: 627
 updated at: "2026-05-28T12:48:04Z"
 related to:
   - "[[GitHub - 1252251554]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage novel projects with structured modules for characters, worldbuilding, foreshadowing and chapter outlines to keep long-form work coherent. Generate, stream, expand or rewrite chapters with AI assistance, run consistency and AI‑flavor checks, brainstorm via chat, and track token costs across multiple AI providers."
 
     stats: {
-        downloads:  467
+        downloads:  627
         updated_at: 1779972484000
     }
 }

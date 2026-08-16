@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/components-lib-downloader
 alt:
   - https://github.com/raven-pensieve/obsidian-components-lib-downloader
-downloads: 308
-updated at: "2026-07-16T04:12:17Z"
+downloads: 463
+updated at: "2026-08-02T06:05:17Z"
 related to:
   - "[[GitHub - 1278183680]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Download file assets from Feishu wiki bitable libraries directly into configured folders inside your vault. Browse built-in components, xdbjs, and forms libraries in a tabbed, card-based view with cover previews, image carousel/lightbox, download progress, and duplicate-file handling (skip, rename, overwrite). Use Feishu Open Platform app credentials with Obsidian's requestUrl to fetch records and save attachments into your vault."
 
     stats: {
-        downloads:  308
-        updated_at: 1784175137000
+        downloads:  463
+        updated_at: 1785650717000
     }
 }
 ```

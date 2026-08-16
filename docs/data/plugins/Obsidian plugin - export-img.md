@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/export-img
 alt:
   - https://github.com/379949990/obsidian-export-img
-downloads: 24
-updated at: "2026-07-23T05:24:25Z"
+downloads: 103
+updated at: "2026-07-25T10:03:13Z"
 related to:
   - "[[GitHub - 1307208273]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Export the Reading view as pixel-perfect images using Obsidian's MarkdownRenderer, waiting for images, fonts, and Mermaid diagrams to finish before capture. Preview at 1× in a live studio, fit wide blocks, split long notes into pages, and copy/save images at selectable multipliers or batch-export folders to ZIP."
 
     stats: {
-        downloads:  24
-        updated_at: 1784784265000
+        downloads:  103
+        updated_at: 1784973793000
     }
 }
 ```

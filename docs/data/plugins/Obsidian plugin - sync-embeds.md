@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sync-embeds
 alt:
   - https://github.com/uthvah/sync-embeds
-downloads: 21057
+downloads: 22684
 updated at: "2026-06-14T15:53:00Z"
 related to:
   - "[[GitHub - 1059074853]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit embedded notes in-place with live two-way syncing to their source files, including section-specific embeds using standard note#header anchors. Keep full keyboard shortcut support, apply dynamic date/title patterns and custom display names, and save edits instantly with a lightweight, performant design."
 
     stats: {
-        downloads:  21057
+        downloads:  22684
         updated_at: 1781452380000
     }
 }

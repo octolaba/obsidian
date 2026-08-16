@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-timeline
 alt:
   - https://github.com/george-debug/obsidian-timeline
-downloads: 89084
+downloads: 90510
 updated at: "2022-07-22T17:54:32Z"
 related to:
   - "[[GitHub - 384234696]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create chronological timelines from simple Markdown by using timeline or timeline-labeled blocks. Define events with three +‑prefixed lines (time, title, content) or with labeled lines (date:, title:, content:), and separate events with blank lines for readability."
 
     stats: {
-        downloads:  89084
+        downloads:  90510
         updated_at: 1658512472000
     }
 }

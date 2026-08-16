@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/windows-file-explorer-links
 alt:
   - https://github.com/disciple-dev/obsidian-plugin-open-file-explorer
-downloads: 153
+downloads: 177
 updated at: "2025-11-17T05:16:39Z"
 related to:
   - "[[GitHub - 1091862149]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Prompt to convert pasted local file paths into clickable file:// links in the editor. Create Markdown links from paths (e.g., C:\\Users\\Public → [Public](file:///C:/Users/Public)) and open .lnk targets like apps when clicked."
 
     stats: {
-        downloads:  153
+        downloads:  177
         updated_at: 1763356599000
     }
 }

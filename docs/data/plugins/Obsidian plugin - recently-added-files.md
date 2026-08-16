@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/recently-added-files
 alt:
   - https://github.com/lemon695/obsidian-recently-added-files
-downloads: 3429
+downloads: 3519
 updated at: "2026-06-08T09:04:25Z"
 related to:
   - "[[GitHub - 881802036]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a sidebar of recently added files to quickly find new notes, images, PDFs and more. Filter by type (Markdown, PDF, Image, Video, Other), exclude paths, and rename newly added images with MD5 hashes to avoid name collisions."
 
     stats: {
-        downloads:  3429
+        downloads:  3519
         updated_at: 1780909465000
     }
 }

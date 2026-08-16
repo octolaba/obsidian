@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/plugin-setting-renamer
 alt:
   - https://github.com/hornatx/plugin-setting-renamer
-downloads: 250
+downloads: 260
 updated at: "2026-06-05T22:37:57Z"
 related to:
   - "[[GitHub - 1246721807]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Rename, restyle, and declutter the Settings sidebar by custom-naming tabs, swapping Lucide icons, and hiding unused plugin panels. Use the responsive dashboard to search and jump to any settings panel, keep a fail-safe lock to avoid hiding the renamer, and auto-restore defaults when disabled."
 
     stats: {
-        downloads:  250
+        downloads:  260
         updated_at: 1780699077000
     }
 }

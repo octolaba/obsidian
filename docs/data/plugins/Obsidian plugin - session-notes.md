@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/session-notes
 alt:
   - https://github.com/tabibyte/session-notes
-downloads: 913
+downloads: 936
 updated at: "2024-11-02T02:37:07Z"
 related to:
   - "[[GitHub - 871849801]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create temporary notes that auto-delete when you switch away, and session notes that persist through the app session and are removed when Obsidian closes. Manage transient ideas without cluttering your vault."
 
     stats: {
-        downloads:  913
+        downloads:  936
         updated_at: 1730515027000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zhihu
 alt:
   - https://github.com/zimya/zhihu_obsidian
-downloads: 4583
+downloads: 4728
 updated at: "2026-05-11T12:41:48Z"
 related to:
   - "[[GitHub - 965169911]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish Markdown files directly to Zhihu as articles or answers, converting notes into Zhihu-formatted HTML. Create article and answer drafts, submit articles to Zhihu questions, and browse personalized recommendations, followings, and hot lists from within Obsidian."
 
     stats: {
-        downloads:  4583
+        downloads:  4728
         updated_at: 1778503308000
     }
 }

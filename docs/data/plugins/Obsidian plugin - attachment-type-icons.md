@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/attachment-type-icons
 alt:
   - https://github.com/goodjinc/obsidian-attachment-type-icons
-downloads: 40
+downloads: 72
 updated at: "2026-07-20T06:57:29Z"
 related to:
   - "[[GitHub - 1299883402]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add configurable file-type icons to Obsidian internal attachment links in Reading view. Preserve link aliases and original Markdown while showing icons for common types (images, PDFs, spreadsheets, audio, video, archives) and customize icons and extensions per type."
 
     stats: {
-        downloads:  40
+        downloads:  72
         updated_at: 1784530649000
     }
 }

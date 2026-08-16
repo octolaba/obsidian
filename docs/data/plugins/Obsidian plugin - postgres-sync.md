@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/postgres-sync
 alt:
   - https://github.com/lanjak/obsidian-postgres-sync
-downloads:
-updated at:
+downloads: 19
+updated at: "2026-07-25T03:55:41Z"
 related to:
   - "[[GitHub - 1311640199]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/lanjak/obsidian-postgres-sync"
     description: "Syncs this vault to a self-hosted Postgres database (via PostgREST) instead of Sync or CouchDB - every note is embedded for semantic search from agent tooling too. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Sync your Obsidian vault across devices through a self-hosted Postgres database accessed via PostgREST. Embed each note into a vector column so the same table doubles as a semantic search index you can query outside Obsidian. Work on desktop and mobile over HTTP(S)."
+
+    stats: {
+        downloads:  19
+        updated_at: 1784951741000
+    }
 }
 ```
 

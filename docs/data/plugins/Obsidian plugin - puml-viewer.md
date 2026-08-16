@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/puml-viewer
 alt:
   - https://github.com/andreykolygin/obsidian-puml-viewer
-downloads: 993
+downloads: 1225
 updated at: "2026-05-21T08:53:38Z"
 related to:
   - "[[GitHub - 1203778744]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render PlantUML diagrams from .puml files and fenced markdown blocks. Toggle between diagram View and code Edit with line numbers, zoom, drag-to-pan, auto-fit and auto-refresh; reopen last file on startup. Export diagrams as PNG, SVG or ASCII art and connect to PlantUML, Kroki, or local servers."
 
     stats: {
-        downloads:  993
+        downloads:  1225
         updated_at: 1779353618000
     }
 }

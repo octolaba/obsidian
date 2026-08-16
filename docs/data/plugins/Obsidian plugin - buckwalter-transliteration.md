@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/buckwalter-transliteration
 alt:
   - https://github.com/amrojjeh/obsidian-buckwalter
-downloads: 1021
+downloads: 1044
 updated at: "2024-03-29T23:08:18Z"
 related to:
   - "[[GitHub - 776899948]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Arabic text written in Buckwalter transliteration into Arabic script within notes. Use the b/ prefix (e.g., b/Asmy Emrw) and include it inline or inside internal links like [[b/Asmy Emrw]]—backticks are ignored; rendering is not supported in Live Preview."
 
     stats: {
-        downloads:  1021
+        downloads:  1044
         updated_at: 1711753698000
     }
 }

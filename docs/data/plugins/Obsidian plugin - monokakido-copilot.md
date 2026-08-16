@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/monokakido-copilot
 alt:
   - https://github.com/noheartpen/obsidian-monokakido-copilot-plugin
-downloads: 690
+downloads: 714
 updated at: "2026-06-28T13:50:35Z"
 related to:
   - "[[GitHub - 973509888]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "During editing, simply double-press the option key to search with the Dictionaries by Monokakido. This plugin is not affiliated with MONOKAKIDO Co. Ltd. (JAPAN). The Monokakido trademark is the property of MONOKAKIDO Co. Ltd. (JAPAN)."
 
     stats: {
-        downloads:  690
+        downloads:  714
         updated_at: 1782654635000
     }
 }

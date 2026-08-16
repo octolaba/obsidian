@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/augmented-canvas
 alt:
   - https://github.com/metacorp/obsidian-augmented-canvas
-downloads: 7655
+downloads: 7746
 updated at: "2024-11-24T15:07:22Z"
 related to:
   - "[[GitHub - 746336189]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add AI actions to Canvas to query a note's content, generate linked response notes or questions, and create images from note context. Create flashcards for Spaced Repetition, run system prompts across folders, and insert curated or custom system prompts into your canvas. Requires an OpenAI API key and GPT-4."
 
     stats: {
-        downloads:  7655
+        downloads:  7746
         updated_at: 1732460842000
     }
 }

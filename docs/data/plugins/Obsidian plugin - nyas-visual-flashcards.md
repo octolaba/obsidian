@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nyas-visual-flashcards
 alt:
   - https://github.com/nyaaas/visual-flashcards-obsidian
-downloads: 120
+downloads: 137
 updated at: "2026-03-17T11:40:12Z"
 related to:
   - "[[GitHub - 1183555283]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Study with a clean visual flashcard interface featuring 3D card-flip animations and tap-to-reveal answers. Track performance with Got it/Missed it scoring, end-screen results and per-note session history, retry missed cards immediately, shuffle decks and pick any note from your vault."
 
     stats: {
-        downloads:  120
+        downloads:  137
         updated_at: 1773747612000
     }
 }

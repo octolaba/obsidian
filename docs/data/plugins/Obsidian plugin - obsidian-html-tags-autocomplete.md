@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-html-tags-autocomplete
 alt:
   - https://github.com/bicarlsen/obsidian_html_tags_autocomplete
-downloads: 17668
+downloads: 17768
 updated at: "2023-04-23T15:58:35Z"
 related to:
   - "[[GitHub - 419251547]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert matching closing HTML tags as you type. Skip across tags, update the corresponding tag when you edit one, and jump to matching tags for quick navigation."
 
     stats: {
-        downloads:  17668
+        downloads:  17768
         updated_at: 1682265515000
     }
 }

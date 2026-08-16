@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-explorer
 alt:
   - https://github.com/decaf-dev/obsidian-vault-explorer
-downloads: 14432
+downloads: 14494
 updated at: "2025-05-03T03:03:07Z"
 related to:
   - "[[GitHub - 770755988]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Explore and organize your vault using frontmatter properties and file data. Filter and sort notes into grid, list, table, or social-style feed views and show cover images extracted from frontmatter, links, embeds, or URLs."
 
     stats: {
-        downloads:  14432
+        downloads:  14494
         updated_at: 1746241387000
     }
 }

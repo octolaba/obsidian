@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/standardform
 alt:
   - https://github.com/philphilphil/obsidian-standardform
-downloads: 750
+downloads: 775
 updated at: "2026-05-14T08:28:15Z"
 related to:
   - "[[GitHub - 882453554]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render logical standard-form proofs written inside fenced code blocks labeled standardform into clean, styled visual reconstructions. Parse numbered premises, optional identifiers ending with ':' or '.', escaped punctuation, blank or labeled conclusions (-- or -- text --), and single/double inference lines (==) to produce readable reconstructions."
 
     stats: {
-        downloads:  750
+        downloads:  775
         updated_at: 1778747295000
     }
 }

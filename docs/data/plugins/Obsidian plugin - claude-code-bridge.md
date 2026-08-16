@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/claude-code-bridge
 alt:
   - https://github.com/radical7vii/obsidian-claude-code-bridge
-downloads: 204
+downloads: 241
 updated at: "2026-06-04T09:46:35Z"
 related to:
   - "[[GitHub - 1252082419]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bridge selected text from Obsidian to Claude Code CLI in real time, mirroring selections as \"Selected N lines from <file>\" in the adjacent Claude terminal just like VS Code. Start a local WebSocket server and write a discovery lock file so Claude Code auto-discovers and receives JSON-RPC selection_changed notifications."
 
     stats: {
-        downloads:  204
+        downloads:  241
         updated_at: 1780566395000
     }
 }

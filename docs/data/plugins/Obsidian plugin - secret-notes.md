@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/secret-notes
 alt:
   - https://github.com/baendlorel/obsidian-secret-notes
-downloads: 82
+downloads: 134
 updated at: "2026-07-05T06:43:34Z"
 related to:
   - "[[GitHub - 1284551565]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Encrypt sensitive content inside secret fenced code blocks (```secret) with a password, writing only ciphertext back to the file so plaintext never stays unencrypted. Reveal and edit plaintext after entering the correct password, change passwords, or permanently decrypt; encryption runs locally (AES-256-GCM) so your password never leaves your device."
 
     stats: {
-        downloads:  82
+        downloads:  134
         updated_at: 1783233814000
     }
 }

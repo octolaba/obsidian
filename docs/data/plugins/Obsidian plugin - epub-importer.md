@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/epub-importer
 alt:
   - https://github.com/aoout/obsidian-epub-importer
-downloads: 37537
+downloads: 38786
 updated at: "2025-12-09T02:19:26Z"
 related to:
   - "[[GitHub - 680067497]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert EPUB files into a folder of Markdown notes with extracted assets inside your vault. Read and annotate books, highlight passages, and create links between notes to organize and reference your ebooks directly in Obsidian."
 
     stats: {
-        downloads:  37537
+        downloads:  38786
         updated_at: 1765246766000
     }
 }

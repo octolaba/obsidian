@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-llama
 alt:
   - https://github.com/tomhan518/vault-llama
-downloads: 155
+downloads: 174
 updated at: "2026-03-07T06:35:32Z"
 related to:
   - "[[GitHub - 1175036735]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with your local Ollama models from a desktop-only sidebar inside Obsidian. Select installed models, stream responses with a stop button, clear sessions, copy the latest answer, or insert it directly at the cursor in the active note."
 
     stats: {
-        downloads:  155
+        downloads:  174
         updated_at: 1772865332000
     }
 }

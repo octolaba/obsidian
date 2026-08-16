@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rpg-homebrew-importer
 alt:
   - https://github.com/kilowattrl/rpg-homebrew-importer
-downloads: 183
+downloads: 233
 updated at: "2026-06-18T20:57:47Z"
 related to:
   - "[[GitHub - 1273143957]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import creations from RPG Homebrew into Obsidian as searchable Markdown notes with compact, game-ready rendered cards. Preserve original JSON inside each note for rerendering, render cards with theme-safe CSS grids, click dice notation to roll with detailed totals and history, and accept direct website exports or JSON files."
 
     stats: {
-        downloads:  183
+        downloads:  233
         updated_at: 1781816267000
     }
 }

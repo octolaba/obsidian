@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/autocorrect-formatter
 alt:
   - https://github.com/b-yp/obsidian-autocorrect
-downloads: 7815
+downloads: 8204
 updated at: "2026-06-24T02:58:40Z"
 related to:
   - "[[GitHub - 717731181]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format Markdown content with Autocorrect rules directly inside Obsidian. Run the \"Format content\" command from the command palette to clean, standardize, and correct Markdown syntax and style."
 
     stats: {
-        downloads:  7815
+        downloads:  8204
         updated_at: 1782269920000
     }
 }

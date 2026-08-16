@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/mac-autocorrect
 alt:
   - https://github.com/ninsuhnrey/mac-autocorrect
-downloads: 61
-updated at: "2026-07-23T03:30:16Z"
+downloads: 225
+updated at: "2026-08-07T23:08:10Z"
 related to:
   - "[[GitHub - 1305967304]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Apply macOS autocorrect, capitalization rules, and Text Replacements as you type, using the system NSSpellChecker for native corrections that respect learned words. Skip corrections in code, math, links, frontmatter, ALLCAPS/camelCase and during IME composition; allow immediate undo, revert-last-correction for the session, and a permanent ignore list."
 
     stats: {
-        downloads:  61
-        updated_at: 1784777416000
+        downloads:  225
+        updated_at: 1786144090000
     }
 }
 ```

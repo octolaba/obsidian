@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/drawio-editor
 alt:
   - https://github.com/doge-liang/obsidian-drawio
-downloads: 2052
+downloads: 3318
 updated at: "2026-07-15T02:48:43Z"
 related to:
   - "[[GitHub - 1258845586]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed, preview, and edit draw.io (diagrams.net) diagrams directly in your notes. Store diagrams inline in ```drawio code blocks or as .drawio files, render SVG previews inline, and open a full-screen or in-place editor (online or bundled offline). Save diagrams as readable, pretty-printed XML and match Obsidian's light/dark theme."
 
     stats: {
-        downloads:  2052
+        downloads:  3318
         updated_at: 1784083723000
     }
 }

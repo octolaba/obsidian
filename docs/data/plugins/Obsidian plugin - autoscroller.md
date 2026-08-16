@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/autoscroller
 alt:
   - https://github.com/chaskane/autoscroller
-downloads: 123
+downloads: 167
 updated at: "2026-06-22T15:01:12Z"
 related to:
   - "[[GitHub - 828202655]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Auto-scroll the active note at a configurable pace for hands-free reading or during presentations. Toggle scrolling with a command or ribbon icon and adjust speed using increase/decrease commands or right-click the icon to cycle rates."
 
     stats: {
-        downloads:  123
+        downloads:  167
         updated_at: 1782140472000
     }
 }

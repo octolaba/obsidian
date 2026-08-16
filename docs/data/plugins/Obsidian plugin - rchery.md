@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rchery
 alt:
   - https://github.com/inlinkz/obsidian-archery
-downloads: 102
+downloads: 112
 updated at: "2026-06-26T19:53:35Z"
 related to:
   - "[[GitHub - 1271558712]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Record archery sessions in dedicated .rchery scorecard files with end×arrow grids. Enter arrows in View mode either using 1–10 button entry and Undo or on-target drag'n'drop, or switch to Edit to modify the underlying markdown tables. Calculate end and grand totals and persist every change to the file; optionally aggregate session stats and charts with Dataview and Charts."
 
     stats: {
-        downloads:  102
+        downloads:  112
         updated_at: 1782503615000
     }
 }

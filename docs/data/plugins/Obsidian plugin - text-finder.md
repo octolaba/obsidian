@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/text-finder
 alt:
   - https://github.com/nyable/obsidian-text-finder
-downloads: 8658
+downloads: 9430
 updated at: "2025-11-20T08:40:40Z"
 related to:
   - "[[GitHub - 870498553]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search and replace text in the current Markdown editor with a VS Code–style find/replace panel. Highlight matches, show match counts, and support regular expressions, case sensitivity, and input history."
 
     stats: {
-        downloads:  8658
+        downloads:  9430
         updated_at: 1763628040000
     }
 }

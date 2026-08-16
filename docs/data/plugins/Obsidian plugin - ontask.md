@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ontask
 alt:
   - https://github.com/bfloydd/ontask
-downloads: 191
+downloads: 227
 updated at: "2026-06-07T20:58:40Z"
 related to:
   - "[[GitHub - 1064869923]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage tasks with a Bullet Journal–inspired workflow that automatically collects tasks from your vault and filters them by priority, tag, or file. Set a Top Task to stay focused, personalize its appearance, and sync with Streams for seamless task flow. Stuck? Automatically create a day plan from your tasks."
 
     stats: {
-        downloads:  191
+        downloads:  227
         updated_at: 1780865920000
     }
 }

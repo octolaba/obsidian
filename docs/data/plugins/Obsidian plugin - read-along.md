@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/read-along
 alt:
   - https://github.com/zebo101/ReadAlong
-downloads: 220
+downloads: 293
 updated at: "2026-06-22T09:26:53Z"
 related to:
   - "[[GitHub - 1274095551]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export Markdown notes or whole folders as self-contained, offline HTML pages — clean typography, a clickable table of contents, preserved folder structure, and converted wikilinks. Read them in your browser or right inside Obsidian. Optionally enable Read Along: sentence-by-sentence TTS narration that highlights the current sentence as it plays, with a floating player (play/pause, speed, previous/next sentence, progress bar). Read Along uses your own Volcengine (ByteDance) TTS API key; the HTML export works without it."
 
     stats: {
-        downloads:  220
+        downloads:  293
         updated_at: 1782120413000
     }
 }

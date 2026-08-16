@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ziping
 alt:
   - https://github.com/dyse-sofqi/ziping
-downloads: 341
+downloads: 395
 updated at: "2026-07-02T09:24:22Z"
 related to:
   - "[[GitHub - 1241179012]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate professional eight character layout and complete true solar time calibration, support Gregorian/lunar input and minute accuracy, and calculate offline based on built-in city longitude and latitude. Analyze the relationship between the Ten Gods, the Great Fortune and the Flowing Years, integrate the sidebar to call and save as a Markdown case with standard YAML frontmatter with one click."
 
     stats: {
-        downloads:  341
+        downloads:  395
         updated_at: 1782984262000
     }
 }

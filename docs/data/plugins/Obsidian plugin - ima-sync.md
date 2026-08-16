@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ima-sync
 alt:
   - https://github.com/cmzhangxin/obsidian-ima-sync
-downloads: 308
+downloads: 402
 updated at: "2026-05-05T10:30:03Z"
 related to:
   - "[[GitHub - 1224132096]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault with Tencent IMA via the official OpenAPI, pushing Markdown notes into IMA notebooks by folder and pulling plaintext notes back into your vault. Run bidirectional sync to pull then push in one step, enable auto-sync on save or a timer, trigger sync manually, and configure folder-to-notebook routing with the built-in wizard."
 
     stats: {
-        downloads:  308
+        downloads:  402
         updated_at: 1777977003000
     }
 }

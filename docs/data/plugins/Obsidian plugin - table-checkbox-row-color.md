@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/table-checkbox-row-color
 alt:
   - https://github.com/mtplr/obsidian-table-checkbox-row-color
-downloads: 266
+downloads: 313
 updated at: "2026-04-06T18:45:34Z"
 related to:
   - "[[GitHub - 1202729238]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Enable interactive checkboxes in Markdown tables in Reading Mode and save toggles back to the source file. Highlight entire rows when any checkbox in a row is checked and optionally apply strikethrough to completed rows; support multiple checkboxes per cell and complex table layouts."
 
     stats: {
-        downloads:  266
+        downloads:  313
         updated_at: 1775501134000
     }
 }

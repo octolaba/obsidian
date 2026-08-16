@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/drift
 alt:
   - https://github.com/ryanbbrown/obsidian-drift
-downloads: 774
+downloads: 824
 updated at: "2026-07-10T19:17:13Z"
 related to:
   - "[[GitHub - 1158702460]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View VS Code–style side-by-side diffs for external file changes inside Obsidian, with collapsible unchanged regions. Detect external edits instantly and cherry-pick per-chunk accept/reject or use Accept All/Reject All. Persist pending diffs across restarts and warn before editing files with unresolved diffs."
 
     stats: {
-        downloads:  774
+        downloads:  824
         updated_at: 1783711033000
     }
 }

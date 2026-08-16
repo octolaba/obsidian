@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/latex-paren-math
 alt:
   - https://github.com/konoyo-014/obsidian-latex-paren-math
-downloads: 189
+downloads: 232
 updated at: "2026-02-21T13:39:14Z"
 related to:
   - "[[GitHub - 1163342890]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert \\( ... \\) to $...$ for single-line formulas and \\[ ... \\] to $$...$$ across a note or the entire vault. Preserve multi-line \\( ... \\) blocks and skip fenced code blocks and inline code spans to avoid accidental rewrites; use the ribbon to convert the active note."
 
     stats: {
-        downloads:  189
+        downloads:  232
         updated_at: 1771681154000
     }
 }

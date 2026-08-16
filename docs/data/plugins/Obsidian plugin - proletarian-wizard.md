@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/proletarian-wizard
 alt:
   - https://github.com/cfe84/obsidian-pw
-downloads: 15876
+downloads: 16342
 updated at: "2026-05-26T18:27:46Z"
 related to:
   - "[[GitHub - 465496400]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track tasks across all notes and organize your day with a centralized task board that reflects todos inline in their source files. Select and prioritize tasks, update statuses with two-way sync back to notes, auto-expand natural-language dates, and generate reports of completed work."
 
     stats: {
-        downloads:  15876
+        downloads:  16342
         updated_at: 1779820066000
     }
 }

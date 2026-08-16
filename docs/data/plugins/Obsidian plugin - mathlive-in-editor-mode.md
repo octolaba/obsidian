@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mathlive-in-editor-mode
 alt:
   - https://github.com/mizarzh/mathlive-in-editor-mode
-downloads: 3000
+downloads: 3076
 updated at: "2026-07-13T16:18:21Z"
 related to:
   - "[[GitHub - 792474277]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit LaTeX inline or in blocks with MathLive widgets inside the Obsidian editor and choose different display modes. Toggle MathLive per note or block, switch to built‑in MathJax, and use macros, shortcuts and hotkeys for live editing."
 
     stats: {
-        downloads:  3000
+        downloads:  3076
         updated_at: 1783959501000
     }
 }

@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-sketch
 alt:
   - https://github.com/yohh/obsidian-simple-sketch
-downloads: 4886
+downloads: 4969
 updated at: "2024-11-26T15:49:58Z"
 related to:
   - "[[GitHub - 844095190]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Create simple sketches in a dedicated Obsidian view with a minimal, productivity-focused interface. Draw freehand or use lines, rectangles, ellipses and text, erase and undo, then save sketches into your vault or download them as images."
 
     stats: {
-        downloads:  4886
+        downloads:  4969
         updated_at: 1732636198000
     }
 }

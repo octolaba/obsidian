@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-enhancing-export
 alt:
   - https://github.com/mokeyish/obsidian-enhancing-export
-downloads: 425241
+downloads: 430678
 updated at: "2026-02-05T14:58:52Z"
 related to:
   - "[[GitHub - 487683041]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export notes to Markdown (including Hugo), HTML, DOCX, LaTeX and other formats via Pandoc, preserving media for Markdown and HTML exports. Customize export templates and commands using built-in variables to control output paths, filenames and formats."
 
     stats: {
-        downloads:  425241
+        downloads:  430678
         updated_at: 1770303532000
     }
 }

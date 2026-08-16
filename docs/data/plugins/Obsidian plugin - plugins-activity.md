@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/plugins-activity
 alt:
   - https://github.com/yunz93/obsidian-plugins-activity
-downloads: 651
+downloads: 1240
 updated at: "2026-05-28T01:55:37Z"
 related to:
   - "[[GitHub - 1245235227]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track local usage of third-party plugins by recording commands, views, and interactions over time. View a searchable, sortable overview with last-used times, 7-day totals, daily histories, plugin details, and automatic cleanup, keeping all data stored only in your vault."
 
     stats: {
-        downloads:  651
+        downloads:  1240
         updated_at: 1779933337000
     }
 }

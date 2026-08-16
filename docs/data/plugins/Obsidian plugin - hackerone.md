@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hackerone
 alt:
   - https://github.com/neolex-security/obsidian-hackerone
-downloads: 3833
+downloads: 3860
 updated at: "2026-01-28T18:50:09Z"
 related to:
   - "[[GitHub - 640970301]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Link HackerOne reports into your Obsidian vault and import report details as notes. Display report summaries and metadata inside notes; use Dataview to generate summaries."
 
     stats: {
-        downloads:  3833
+        downloads:  3860
         updated_at: 1769626209000
     }
 }

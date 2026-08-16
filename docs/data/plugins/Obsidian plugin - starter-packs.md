@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/starter-packs
 alt:
   - https://github.com/grub-basket/starter-packs
-downloads: 62
+downloads: 130
 updated at: "2026-07-23T15:19:06Z"
 related to:
   - "[[GitHub - 1290676804]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create named starter packs that bundle community plugins and themes and share them as links, short codes, Markdown, or exportable notes. Import or preview a pack, install items individually or install all missing with progress tracking and notifications, then enable plugins or apply themes. Obviously plugin settings, CSS snippets, and other Obsidian settings are not included."
 
     stats: {
-        downloads:  62
+        downloads:  130
         updated_at: 1784819946000
     }
 }

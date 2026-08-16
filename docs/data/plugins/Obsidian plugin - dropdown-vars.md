@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dropdown-vars
 alt:
   - https://github.com/majid-khonji/obsidian-dropdown-vars
-downloads: 326
+downloads: 370
 updated at: "2026-07-02T23:33:44Z"
 related to:
   - "[[GitHub - 1079032667]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create interactive dropdowns in your notes using tokens such as {Status: Todo | ^In Progress | Done}. Sync selections to Dataview inline fields or YAML frontmatter so Dataview queries (e.g., = this.Status) and Live Preview reflect the current value."
 
     stats: {
-        downloads:  326
+        downloads:  370
         updated_at: 1783035224000
     }
 }

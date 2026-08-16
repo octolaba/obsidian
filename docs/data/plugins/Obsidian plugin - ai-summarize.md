@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-summarize
 alt:
   - https://github.com/ravenwits/obsidian-ai-summarize
-downloads: 2960
+downloads: 3080
 updated at: "2026-06-08T08:20:09Z"
 related to:
   - "[[GitHub - 777428665]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate high-quality summaries of notes using OpenAI models (GPT-3.5 to GPT-5 and reasoning models) with real-time streaming and smart chunking for large documents. Insert summaries inline, below selection, or into frontmatter, manage multiple profiles and custom prompts, and cancel or prevent overlapping requests."
 
     stats: {
-        downloads:  2960
+        downloads:  3080
         updated_at: 1780906809000
     }
 }

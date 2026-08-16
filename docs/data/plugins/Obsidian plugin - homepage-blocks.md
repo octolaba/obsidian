@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/homepage-blocks
 alt:
   - https://github.com/acaprino/obsidian-plugin-homepage
-downloads: 773
+downloads: 1027
 updated at: "2026-06-06T18:58:18Z"
 related to:
   - "[[GitHub - 1173333127]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a composable, drag-and-drop homepage in Obsidian with 15 block types — e.g., greeting, clock, quotes, quick links, image gallery, embedded notes, pomodoro, bookmarks, recent files and random note. Resize and reorder blocks in two dimensions, apply per-block styling and accent tints, collapse sections, and use a responsive layout with full-screen gallery lightbox."
 
     stats: {
-        downloads:  773
+        downloads:  1027
         updated_at: 1780772298000
     }
 }

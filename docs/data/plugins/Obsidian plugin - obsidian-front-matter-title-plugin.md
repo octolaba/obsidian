@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-front-matter-title-plugin
 alt:
   - https://github.com/snezhig/obsidian-front-matter-title
-downloads: 58314
+downloads: 63472
 updated at: "2026-06-26T11:41:35Z"
 related to:
   - "[[GitHub - 481609664]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display YAML front-matter values as file titles in the file explorer and graph. Use a template path with dot-notation to select keys (string, number, or array) and show their value without renaming files."
 
     stats: {
-        downloads:  58314
+        downloads:  63472
         updated_at: 1782474095000
     }
 }

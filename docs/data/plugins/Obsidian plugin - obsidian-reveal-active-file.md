@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-reveal-active-file
 alt:
   - https://github.com/shichongrui/obsidian-reveal-active-file
-downloads: 28084
+downloads: 28497
 updated at: "2024-09-17T22:01:04Z"
 related to:
   - "[[GitHub - 321809533]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reveal the active file in the file explorer whenever you open or switch to it. Keep the navigation pane synced with the editor so the current note is always highlighted."
 
     stats: {
-        downloads:  28084
+        downloads:  28497
         updated_at: 1726610464000
     }
 }

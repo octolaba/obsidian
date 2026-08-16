@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-llm-wiki
 alt:
   - https://github.com/youzhixiaomutou/auto-llm-wiki
-downloads: 943
+downloads: 1291
 updated at: "2026-07-13T06:02:47Z"
 related to:
   - "[[GitHub - 1252131252]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a Karpathy-style LLM wiki from raw Markdown sources, turning notes into a persistent, structured knowledge base. Scan source folders, send only new or changed files to an OpenAI-compatible chat endpoint to generate JSON change plans, preview updates in a card modal, and apply confirmed changes while keeping sources read-only."
 
     stats: {
-        downloads:  943
+        downloads:  1291
         updated_at: 1783922567000
     }
 }

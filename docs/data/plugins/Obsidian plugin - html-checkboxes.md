@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/html-checkboxes
 alt:
   - https://github.com/anareaty/html-checkboxes
-downloads: 1925
+downloads: 1969
 updated at: "2025-03-12T08:22:19Z"
 related to:
   - "[[GitHub - 857634702]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add clickable HTML checkboxes anywhere in notes, including inside Markdown tables and inline rows, while keeping Markdown files valid. Keep created checkboxes visible if the plugin is disabled and fix duplicate IDs automatically or via a command to preserve clickability. Pick alternate checkbox styles from the editor menu."
 
     stats: {
-        downloads:  1925
+        downloads:  1969
         updated_at: 1741767739000
     }
 }

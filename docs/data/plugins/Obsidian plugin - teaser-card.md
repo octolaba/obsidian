@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/teaser-card
 alt:
   - https://github.com/britz/obsidian-teaser-card
-downloads: 23
+downloads: 32
 updated at: "2026-06-29T14:12:56Z"
 related to:
   - "[[GitHub - 1282320307]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Rendere aus einem fenced code block mit dem Tag teaser eine anklickbare Bild-Teaser-Karte, die Bild, Titel, Text und Link anzeigt. Beachte, dass Obsidian-interne Attachment-Links (![[...]] ) derzeit noch nicht aufgelöst werden."
 
     stats: {
-        downloads:  23
+        downloads:  32
         updated_at: 1782742376000
     }
 }

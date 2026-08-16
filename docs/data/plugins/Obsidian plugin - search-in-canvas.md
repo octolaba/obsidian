@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/search-in-canvas
 alt:
   - https://github.com/quorafind/Obsidian-Search-In-Canvas
-downloads: 8955
+downloads: 9153
 updated at: "2024-06-18T03:34:39Z"
 related to:
   - "[[GitHub - 812638397]]"
@@ -28,7 +28,7 @@ Search In Canvas searches a canvas for text across all node types and across the
 plugin: {
     id:     "search-in-canvas"
     name:   "Search In Canvas"
-    author: "quorafind"
+    author: "Boninall"
     repo:   "quorafind/Obsidian-Search-In-Canvas"
 
     html_url:    "https://community.obsidian.md/plugins/search-in-canvas"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search the canvas for text across all node types and connecting edges. Highlight matches and jump between occurrences to quickly locate content."
 
     stats: {
-        downloads:  8955
+        downloads:  9153
         updated_at: 1718681679000
     }
 }

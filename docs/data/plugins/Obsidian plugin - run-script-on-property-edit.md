@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/run-script-on-property-edit
 alt:
   - https://github.com/oneautumnmango/run-script-on-property-edit
-downloads: 221
+downloads: 226
 updated at: "2025-12-15T12:09:05Z"
 related to:
   - "[[GitHub - 1116781025]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Detect edits to YAML frontmatter properties and run specified scripts automatically. Pass property name, new and previous values, file path, file name and vault path as environment variables to your script for conditional file actions."
 
     stats: {
-        downloads:  221
+        downloads:  226
         updated_at: 1765800545000
     }
 }

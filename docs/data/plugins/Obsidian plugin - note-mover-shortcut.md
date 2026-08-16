@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-mover-shortcut
 alt:
   - https://github.com/bueckerlars/obsidian-note-mover-shortcut
-downloads: 7296
+downloads: 8952
 updated at: "2026-07-23T09:52:11Z"
 related to:
   - "[[GitHub - 911271373]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move single files or batch-move entire vaults into target folders based on tags, frontmatter properties, filenames, content, paths, and dates. Run moves automatically on file edit or at set intervals, and apply blacklist/whitelist filters to include or exclude matches."
 
     stats: {
-        downloads:  7296
+        downloads:  8952
         updated_at: 1784800331000
     }
 }

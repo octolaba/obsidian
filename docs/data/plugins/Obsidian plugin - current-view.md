@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/current-view
 alt:
   - https://github.com/luceast/obsidian-current-view
-downloads: 6643
+downloads: 9135
 updated at: "2026-07-19T19:03:38Z"
 related to:
   - "[[GitHub - 985454695]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Control view modes automatically for notes using folder paths, file patterns/RegEx, tags, and frontmatter to open files in Reading, Live Preview, or Source mode. Lock files or folders from the context menu to force a mode and see inline badges in File Explorer and Notebook Navigator with real-time updates."
 
     stats: {
-        downloads:  6643
+        downloads:  9135
         updated_at: 1784487818000
     }
 }

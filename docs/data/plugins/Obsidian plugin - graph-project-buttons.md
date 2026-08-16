@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graph-project-buttons
 alt:
   - https://github.com/danielkremen818/obsidian-graph-project-buttons
-downloads: 113
+downloads: 134
 updated at: "2026-06-14T11:07:52Z"
 related to:
   - "[[GitHub - 1269112518]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add one-click project filter buttons to every graph view to filter by subfolder without typing path: queries. Show auto-discovered buttons for each project subfolder plus Curated and All buttons, with active-button highlighting, a collapsible dockable bar, and automatic updates when the graph changes."
 
     stats: {
-        downloads:  113
+        downloads:  134
         updated_at: 1781435272000
     }
 }

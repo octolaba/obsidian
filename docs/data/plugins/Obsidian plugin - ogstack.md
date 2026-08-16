@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/ogstack
 alt:
   - https://github.com/uvesarshad/ostack
-downloads: 111
+downloads: 120
 updated at: "2026-05-20T15:54:32Z"
 related to:
   - "[[GitHub - 1238638516]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Run AI skills inside Obsidian to brainstorm, research, plan, and write using your linked notes as context. Walk the note graph, score linked notes by relevance and recency, assemble context windows, and stream AI output directly into notes with gstack SKILL.md compatibility and multi-provider support."
 
     stats: {
-        downloads:  111
+        downloads:  120
         updated_at: 1779292472000
     }
 }

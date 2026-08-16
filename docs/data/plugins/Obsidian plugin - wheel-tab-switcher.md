@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wheel-tab-switcher
 alt:
   - https://github.com/22-2/wheel-tab-switcher
-downloads: 1899
+downloads: 1997
 updated at: "2026-07-22T10:42:14Z"
 related to:
   - "[[GitHub - 945822430]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Switch tabs using the mouse wheel while hovering over tab headers. Scroll up to go to the previous tab and scroll down to go to the next; loop around at the ends and work in all Obsidian windows."
 
     stats: {
-        downloads:  1899
+        downloads:  1997
         updated_at: 1784716934000
     }
 }

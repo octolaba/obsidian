@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/remotely-secure
 alt:
   - https://github.com/sboesen/remotely-sync
-downloads: 65636
+downloads: 66888
 updated at: "2024-05-04T21:10:20Z"
 related to:
   - "[[GitHub - 701918341]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault with cloud services (S3/S3-compatible, Dropbox, OneDrive, WebDAV) and keep desktop and mobile devices synchronized. Encrypt files end-to-end with AES-256-GCM, schedule automatic syncs, and trigger manual syncs from the sidebar or command palette."
 
     stats: {
-        downloads:  65636
+        downloads:  66888
         updated_at: 1714857020000
     }
 }

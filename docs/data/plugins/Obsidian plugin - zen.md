@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zen
 alt:
   - https://github.com/maxymillion/zen
-downloads: 15083
+downloads: 15302
 updated at: "2023-07-24T11:55:15Z"
 related to:
   - "[[GitHub - 596969431]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Enter a distraction-free focus mode by hiding Obsidian UI elements on demand. Customize hidden items, preview targets with the eye icon, and add integrations to run actions when entering or leaving Zen mode."
 
     stats: {
-        downloads:  15083
+        downloads:  15302
         updated_at: 1690199715000
     }
 }

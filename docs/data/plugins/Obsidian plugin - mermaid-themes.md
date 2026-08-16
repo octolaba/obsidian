@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mermaid-themes
 alt:
   - https://github.com/jvsteiner/mermaid-themes
-downloads: 16122
+downloads: 16314
 updated at: "2023-06-01T18:39:48Z"
 related to:
   - "[[GitHub - 635957017]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Apply and customize themes to mermaid.js diagrams in Obsidian. Supply a full mermaid theme object or override parts to merge with a base theme, and use the merm code fence to render themed diagrams."
 
     stats: {
-        downloads:  16122
+        downloads:  16314
         updated_at: 1685644788000
     }
 }

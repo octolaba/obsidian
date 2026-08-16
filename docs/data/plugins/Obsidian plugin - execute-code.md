@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/execute-code
 alt:
   - https://github.com/twibiral/obsidian-execute-code
-downloads: 152825
+downloads: 155948
 updated at: "2025-03-01T16:32:05Z"
 related to:
   - "[[GitHub - 471021194]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run code locally from code blocks with a run button and support for 30+ languages such as Python, JavaScript, Rust, R, Java, C/C++ and Shell. Show execution results inline, create interactive input fields for prompts, render embedded plots (Python/R/Octave), and persist outputs in notes for PDF export."
 
     stats: {
-        downloads:  152825
+        downloads:  155948
         updated_at: 1740846725000
     }
 }

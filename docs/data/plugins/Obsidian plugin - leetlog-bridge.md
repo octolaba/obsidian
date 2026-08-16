@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/leetlog-bridge
 alt:
   - https://github.com/yzyhhhstudy/leetlog
-downloads: 42
+downloads: 60
 updated at: "2026-07-06T06:50:22Z"
 related to:
   - "[[GitHub - 1288597438]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture LeetCode sessions into structured Obsidian notes, auto-saving code plus runtime and memory stats when a submission is accepted. Start a timer on first keystroke, count submissions and accumulate every attempt in the same note while keeping all data local to your vault."
 
     stats: {
-        downloads:  42
+        downloads:  60
         updated_at: 1783320622000
     }
 }

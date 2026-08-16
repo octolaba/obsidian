@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-2hop-links-plugin
 alt:
   - https://github.com/tokuhirom/obsidian-2hop-links-plugin
-downloads: 8584
+downloads: 8653
 updated at: "2022-06-16T14:35:18Z"
 related to:
   - "[[GitHub - 359698978]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show two-hop links beneath the editor to preview pages linked two steps away without leaving your note. Support Live Preview and provide commands to enable or temporarily disable the 2-hop view."
 
     stats: {
-        downloads:  8584
+        downloads:  8653
         updated_at: 1655390118000
     }
 }

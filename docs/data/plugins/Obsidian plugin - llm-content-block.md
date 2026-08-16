@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/llm-content-block
 alt:
   - https://github.com/slow-coding/obsidian-llm-content-block
-downloads: 37
+downloads: 58
 updated at: "2026-07-10T19:04:29Z"
 related to:
   - "[[GitHub - 1296801353]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create self-contained, scrollable cards for AI conversations that render the conversation's Markdown only inside the card. Preserve user/AI turns as bubbles with source tags, prevent AI headings and code blocks from altering your note's structure, and collapse long replies by default."
 
     stats: {
-        downloads:  37
+        downloads:  58
         updated_at: 1783710269000
     }
 }

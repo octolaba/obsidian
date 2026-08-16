@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quickclip-organize
 alt:
   - https://github.com/vipsyvipul/QuickClip-Organize
-downloads: 157
+downloads: 187
 updated at: "2026-06-27T06:11:00Z"
 related to:
   - "[[GitHub - 1246609837]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Triage captured notes in a Portent-based dashboard that classifies, links, and tracks entries from raw clips to organized knowledge. Surface any note by adding a type frontmatter field, view by type/domain/status, and edit metadata inline with instant saves."
 
     stats: {
-        downloads:  157
+        downloads:  187
         updated_at: 1782540660000
     }
 }

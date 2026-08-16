@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cquiz
 alt:
   - https://github.com/carbon-softlab/CQuiz
-downloads: 99
+downloads: 124
 updated at: "2026-06-13T13:18:17Z"
 related to:
   - "[[GitHub - 1265334660]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn Markdown notes into interactive, scored quizzes that run inside Obsidian. Create questions with checkbox lists (single or multi-answer), include hints/notes, use spaced-repetition and scoring, and review analytics or export results."
 
     stats: {
-        downloads:  99
+        downloads:  124
         updated_at: 1781356697000
     }
 }

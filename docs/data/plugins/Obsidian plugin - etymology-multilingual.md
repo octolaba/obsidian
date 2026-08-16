@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/etymology-multilingual
 alt:
   - https://github.com/ducktapekiller/etymology-multilingual
-downloads: 112
+downloads: 122
 updated at: "2026-05-21T02:30:20Z"
 related to:
   - "[[GitHub - 1133208299]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Look up word origins in English, Spanish, and French directly inside your notes. Save etymologies to a note's frontmatter or matching dictionary notes, insert results at the cursor, or copy to clipboard, with in-memory caching for instant repeats."
 
     stats: {
-        downloads:  112
+        downloads:  122
         updated_at: 1779330620000
     }
 }

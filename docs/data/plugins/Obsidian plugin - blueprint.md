@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/blueprint
 alt:
   - https://github.com/madx/blueprint-obsidian-plugin
-downloads: 3584
+downloads: 3747
 updated at: "2026-07-16T08:20:18Z"
 related to:
   - "[[GitHub - 1027748289]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Enforce per-note templates using Nunjucks-backed blueprints with frontmatter interpolation and section-aware layouts. Apply blueprints non-destructively to single notes, folders, or the entire vault and update notes while preserving existing content."
 
     stats: {
-        downloads:  3584
+        downloads:  3747
         updated_at: 1784190018000
     }
 }

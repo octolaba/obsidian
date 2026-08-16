@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/email-block-plugin
 alt:
   - https://github.com/joleaf/obsidian-email-block-plugin
-downloads: 7450
+downloads: 7631
 updated at: "2025-11-21T18:44:00Z"
 related to:
   - "[[GitHub - 579435822]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Compose and plan small emails directly inside your notes using an email code block, with body content as plain text, a referenced note, or inline after YAML. Use variables and frontmatter placeholders like {{name}} to inject content, specify recipients (to/cc/bcc), and show a mailto link."
 
     stats: {
-        downloads:  7450
+        downloads:  7631
         updated_at: 1763750640000
     }
 }

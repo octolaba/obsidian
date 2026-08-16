@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/embed-plus
 alt:
   - https://github.com/4513echo/obsidian-embed-plus
-downloads: 370
+downloads: 428
 updated at: "2026-07-18T10:18:01Z"
 related to:
   - "[[GitHub - 1206150328]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed more external websites, for example posts of Bluesky, GitHub Gist, and more in the future. You can simply use the same Markdown syntax as external images. Live-preview mode is supported as well."
 
     stats: {
-        downloads:  370
+        downloads:  428
         updated_at: 1784369881000
     }
 }

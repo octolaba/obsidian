@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sql-viewer
 alt:
   - https://github.com/viggomeesters/obsidian-sql-viewer
-downloads: 214
+downloads: 282
 updated at: "2026-06-13T19:55:45Z"
 related to:
   - "[[GitHub - 1262620543]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Inspect local .sqlite/.sqlite3/.db files in a dedicated view and browse tables, views, indexes, and metadata (page count, size, encoding, schema/user/app IDs). Preview rows with lazy loading and caps, filter objects and previews, and run a read-only single SELECT/WITH runner that blocks mutating keywords and limits rows and execution time."
 
     stats: {
-        downloads:  214
+        downloads:  282
         updated_at: 1781380545000
     }
 }

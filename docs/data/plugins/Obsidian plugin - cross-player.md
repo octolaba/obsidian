@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cross-player
 alt:
   - https://github.com/imed-ghomari/cross-player-obsidian
-downloads: 364
+downloads: 406
 updated at: "2026-06-22T11:59:22Z"
 related to:
   - "[[GitHub - 1135246511]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform a local folder into a managed playback queue for audio and video with broad format support, smart resume, auto-play-next, and variable-speed playback, emphasizing seamless cross-device playback on desktop and mobile."
 
     stats: {
-        downloads:  364
+        downloads:  406
         updated_at: 1782129562000
     }
 }

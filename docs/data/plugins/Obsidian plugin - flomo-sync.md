@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/flomo-sync
 alt:
   - https://github.com/watermelon4000/flomo-obsidian-sync
-downloads: 434
+downloads: 531
 updated at: "2026-06-20T14:54:35Z"
 related to:
   - "[[GitHub - 1228811460]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Flomo memos into your vault and convert rich HTML to clean Markdown files with YAML frontmatter (date, slug, source, tags). Organize notes into folders mirroring Flomo tags (duplicate memos for multiple tags), and keep content current with incremental updates, optional auto-sync, and one-click login."
 
     stats: {
-        downloads:  434
+        downloads:  531
         updated_at: 1781967275000
     }
 }

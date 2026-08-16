@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/flowcharts
 alt:
   - https://github.com/land0r/obsidian-flowchart-plugin
-downloads: 3917
+downloads: 4040
 updated at: "2025-02-23T19:55:15Z"
 related to:
   - "[[GitHub - 886457370]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render flowcharts in Obsidian using flowchart.js syntax via dedicated code blocks. Customize styles and element appearance to craft interactive, visually appealing diagrams directly inside your notes."
 
     stats: {
-        downloads:  3917
+        downloads:  4040
         updated_at: 1740340515000
     }
 }

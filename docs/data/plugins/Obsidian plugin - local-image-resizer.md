@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/local-image-resizer
 alt:
   - https://github.com/jstoolsspace/img-resizer-obsidian
-downloads: 12
-updated at: "2026-07-22T13:09:38Z"
+downloads: 64
+updated at: "2026-07-24T10:16:11Z"
 related to:
   - "[[GitHub - 1308422028]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Resize and compress JPEG, PNG, and WebP images locally in your vault with linked or independent dimensions and optional target file size. Preview results and save a resized copy beside the original or replace an embedded image in the current note. Keep all processing local with no uploads or accounts. More info on https://img-resizer.github.io"
 
     stats: {
-        downloads:  12
-        updated_at: 1784725778000
+        downloads:  64
+        updated_at: 1784888171000
     }
 }
 ```

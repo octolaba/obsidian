@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ink-buddy
 alt:
   - https://github.com/mgcsysinfcat/Ink-Buddy
-downloads: 124
+downloads: 182
 updated at: "2025-12-08T19:48:06Z"
 related to:
   - "[[GitHub - 1112002089]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track your writing sessions and display a floating emoji mascot that changes mood based on typing speed and idle status. Monitor words, session time, and real-time WPH per file with a minimalist, unobtrusive widget."
 
     stats: {
-        downloads:  124
+        downloads:  182
         updated_at: 1765223286000
     }
 }

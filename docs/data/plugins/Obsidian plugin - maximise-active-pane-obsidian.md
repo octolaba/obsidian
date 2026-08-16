@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/maximise-active-pane-obsidian
 alt:
   - https://github.com/deathau/maximise-active-pane-obsidian
-downloads: 16181
+downloads: 16424
 updated at: "2021-01-28T22:48:57Z"
 related to:
   - "[[GitHub - 316666587]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Maximise the active pane to fill the entire workspace and hide other panes. Toggle again to restore the previous layout."
 
     stats: {
-        downloads:  16181
+        downloads:  16424
         updated_at: 1611874137000
     }
 }

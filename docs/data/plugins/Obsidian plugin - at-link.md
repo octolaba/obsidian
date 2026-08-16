@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/at-link
 alt:
   - https://github.com/stefan-imbesi/obsidian-at-link
-downloads: 204
+downloads: 271
 updated at: "2026-05-19T05:27:44Z"
 related to:
   - "[[GitHub - 1217460589]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open an internal-link autocomplete by typing @ at the start of a line or after whitespace, searching vault files, headings, and blocks with ^id. Select a suggestion to replace @query with a wikilink ([[Note Title]], [[Note Title#Heading]] or [[Note Title#^blockid]]); typing space or Esc closes the popup."
 
     stats: {
-        downloads:  204
+        downloads:  271
         updated_at: 1779168464000
     }
 }

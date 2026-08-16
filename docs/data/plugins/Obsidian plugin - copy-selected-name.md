@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-selected-name
 alt:
   - https://github.com/mikeddy/obsidian-copy-selected-name
-downloads: 208
+downloads: 589
 updated at: "2026-07-07T14:12:02Z"
 related to:
   - "[[GitHub - 1225168077]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy selected file and folder names from Obsidian's file explorer as @filename.md references or convert them to obsidian:// URLs for pasting into AI chats and notes. Append multiple selections into a single paste-ready list, maintain an internal clipboard and history, and export to the system clipboard when required."
 
     stats: {
-        downloads:  208
+        downloads:  589
         updated_at: 1783433522000
     }
 }

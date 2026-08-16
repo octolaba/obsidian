@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/full-calendar-remastered
 alt:
   - https://github.com/obsidian-full-calendar-remastered/plugin-full-calendar
-downloads: 30588
+downloads: 34869
 updated at: "2026-07-21T22:26:10Z"
 related to:
   - "[[GitHub - 1016386591]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep your calendar inside your vault with a visual FullCalendar view and link events directly to notes. Store each event as a separate frontmatter note and sync across Daily Notes, frontmatter-based notes, read-only ICS, two-way CalDAV and Google Calendar, Bases and Obsidian Tasks."
 
     stats: {
-        downloads:  30588
+        downloads:  34869
         updated_at: 1784672770000
     }
 }

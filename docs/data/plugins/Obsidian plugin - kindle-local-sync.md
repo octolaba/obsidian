@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kindle-local-sync
 alt:
   - https://github.com/mykyquan/kindle-local-sync
-downloads: 165
+downloads: 216
 updated at: "2026-07-23T05:34:55Z"
 related to:
   - "[[GitHub - 1239267260]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Kindle highlights and notes from a USB-connected My Clippings.txt into your Obsidian vault as Markdown. Group clippings by book into one note per title, skip bookmarks, avoid duplicate entries, preserve user content outside the sync region, and keep everything local without cloud services."
 
     stats: {
-        downloads:  165
+        downloads:  216
         updated_at: 1784784895000
     }
 }

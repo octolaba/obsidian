@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/handlebars-dynamic
 alt:
   - https://github.com/hided62/obsidian-handlebars-dynamic
-downloads: 302
+downloads: 354
 updated at: "2026-01-31T18:07:32Z"
 related to:
   - "[[GitHub - 1072179749]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Handlebars templates inside Obsidian notes and convert tagged code blocks into formatted content. Apply variables, lists, and Handlebars expressions (including #each) to generate dynamic note content from inline data."
 
     stats: {
-        downloads:  302
+        downloads:  354
         updated_at: 1769882852000
     }
 }

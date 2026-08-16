@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/script-launcher
 alt:
   - https://github.com/alessandroruggiero/script-launcher
-downloads: 9366
+downloads: 9473
 updated at: "2026-06-06T09:29:32Z"
 related to:
   - "[[GitHub - 524474191]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Launch scripts written in any language directly from Obsidian by registering script paths and invoking them from the bottom bar or the command palette. Pass the vault path and active file path to scripts as $1 and $2, view exit codes and output as in-app notices, and enable scripts to run at startup."
 
     stats: {
-        downloads:  9366
+        downloads:  9473
         updated_at: 1780738172000
     }
 }

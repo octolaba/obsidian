@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/interlinear
 alt:
   - https://github.com/linyp/obsidian-interlinear
-downloads: 192
+downloads: 297
 updated at: "2026-07-18T13:48:50Z"
 related to:
   - "[[GitHub - 1262953031]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render paragraph-by-paragraph interlinear translations in Reading view with one click, showing bilingual or translation-only layouts alongside the original. Keep files unchanged by injecting translations into the render layer; run translations on-demand, toggle views, hover to reveal originals, pick from five visual styles, and use a local cache."
 
     stats: {
-        downloads:  192
+        downloads:  297
         updated_at: 1784382530000
     }
 }

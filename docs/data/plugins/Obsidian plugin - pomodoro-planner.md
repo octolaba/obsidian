@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pomodoro-planner
 alt:
   - https://github.com/onesvat/obsidian-pomodoro-planner
-downloads: 3144
+downloads: 3179
 updated at: "2024-02-29T14:46:34Z"
 related to:
   - "[[GitHub - 758477201]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate a daily plan using the Pomodoro Technique based on your input and formatted for Obsidian Day Planner compatibility. Insert the generated plan at the cursor or copy it to the clipboard for quick use."
 
     stats: {
-        downloads:  3144
+        downloads:  3179
         updated_at: 1709217994000
     }
 }

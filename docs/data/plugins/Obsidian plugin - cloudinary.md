@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cloudinary
 alt:
   - https://github.com/uday-samsani/obsidian-cloudinary
-downloads: 4036
+downloads: 4050
 updated at: "2023-07-07T09:37:40Z"
 related to:
   - "[[GitHub - 647378502]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload pasted or dragged images, audio, and video to Cloudinary and replace local embeds with web-friendly Cloudinary URLs. Apply default or per-type/folder transformations via Cloudinary URL parameters to cut local storage and speed note rendering. Use unsigned uploads without storing an API secret."
 
     stats: {
-        downloads:  4036
+        downloads:  4050
         updated_at: 1688722660000
     }
 }

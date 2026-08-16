@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sts-indentation
 alt:
   - https://github.com/cesditarllas/STS-indentation
-downloads: 174
+downloads: 217
 updated at: "2026-07-04T02:09:23Z"
 related to:
   - "[[GitHub - 1268350445]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Indent headings and content blocks by their actual heading ancestry, treating the first heading as depth zero and supporting lists, tasks, code blocks, images, quotes, tables, math, callouts, and embeds. Draw one parent guide per heading, color guides from their parent, keep native fold arrows on guide lines, and toggle and customize guides across Live Preview, Source, and Reading views on desktop and mobile."
 
     stats: {
-        downloads:  174
+        downloads:  217
         updated_at: 1783130963000
     }
 }

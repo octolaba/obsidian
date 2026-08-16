@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tag-buddy
 alt:
   - https://github.com/moremeyou/Obsidian-Tag-Buddy
-downloads: 6193
+downloads: 6297
 updated at: "2026-06-25T18:30:29Z"
 related to:
   - "[[GitHub - 692415573]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit, add, and remove tags directly in Reading Mode across the active note or your entire vault. Generate tag summaries to query tagged content, then copy or move paragraphs to note sections, rename or convert tags, or remove tags for single instances, notes, or the whole vault."
 
     stats: {
-        downloads:  6193
+        downloads:  6297
         updated_at: 1782412229000
     }
 }

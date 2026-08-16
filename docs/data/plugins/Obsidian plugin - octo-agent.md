@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/octo-agent
 alt:
   - https://github.com/open-octo/octo-obsidian
-downloads: 25
+downloads: 37
 updated at: "2026-07-11T07:27:46Z"
 related to:
   - "[[GitHub - 1296523910]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Make your vault the Octo Agent's working directory so the assistant can read, write, edit, search files, run bash commands, and execute multi-step workflows. Use inline edits with word-level diff, slash commands and Skills, @mentions, instruction mode, and multi-tab conversations for iterative coding and file automation."
 
     stats: {
-        downloads:  25
+        downloads:  37
         updated_at: 1783754866000
     }
 }

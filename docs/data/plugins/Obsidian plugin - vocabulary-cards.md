@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vocabulary-cards
 alt:
   - https://github.com/meniam/obsidian-vocabulary-cards
-downloads: 6937
+downloads: 6982
 updated at: "2023-09-29T21:13:19Z"
 related to:
   - "[[GitHub - 689716147]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Study vocabulary with flashcard-style cards or list tables directly in notes using simple YAML-compatible blocks. Preview one random word at a time with voca-card or view all entries in a voca-table. Track correct-answer statistics locally in a data.json file."
 
     stats: {
-        downloads:  6937
+        downloads:  6982
         updated_at: 1696021999000
     }
 }

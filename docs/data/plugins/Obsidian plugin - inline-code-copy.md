@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/inline-code-copy
 alt:
   - https://github.com/lhinxue/obsidian-inline-code-copy-plugin
-downloads: 812
+downloads: 833
 updated at: "2025-03-31T21:56:56Z"
 related to:
   - "[[GitHub - 940247550]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy inline code content with a single click in reading view. Skip text selection to quickly grab credentials, snippets, or short code fragments for pasting elsewhere."
 
     stats: {
-        downloads:  812
+        downloads:  833
         updated_at: 1743458216000
     }
 }

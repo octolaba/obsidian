@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/metafolders
 alt:
   - https://github.com/makary-s/obsidian-metafolders
-downloads: 2374
+downloads: 2394
 updated at: "2024-03-13T22:09:39Z"
 related to:
   - "[[GitHub - 752817267]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize notes into virtual folders by using notes as containers and allowing a single note to appear in multiple locations. Build and navigate a parent/child tree from a configurable link property, pin root notes, track root history, and open notes directly from the navigator."
 
     stats: {
-        downloads:  2374
+        downloads:  2394
         updated_at: 1710367779000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/moltn-sync
 alt:
   - https://github.com/affluency-dev/obsidian-moltn-sync
-downloads: 29
+downloads: 36
 updated at: "2026-07-08T07:52:16Z"
 related to:
   - "[[GitHub - 1292322345]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Pull finished notes from your Moltn install into your vault and write them into a target folder without overwriting existing files (adds numeric suffix on name clashes). Push a chosen folder back to Moltn as context and poll Moltn on startup and at intervals, acknowledging queued notes so Moltn removes them."
 
     stats: {
-        downloads:  29
+        downloads:  36
         updated_at: 1783497136000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-reading-mode
 alt:
   - https://github.com/kelvinc6/auto-reading-mode
-downloads: 3915
+downloads: 3942
 updated at: "2024-03-18T16:10:20Z"
 related to:
   - "[[GitHub - 702155974]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Switch Markdown files in Live Preview or Source into Reading view after a configurable idle timeout. Keep the timer running while Obsidian is active or minimized and start previously opened documents in Reading view on launch."
 
     stats: {
-        downloads:  3915
+        downloads:  3942
         updated_at: 1710778220000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/engram-quest
 alt:
   - https://github.com/bahfahh/engram-quest
-downloads: 1250
+downloads: 1989
 updated at: "2026-07-20T18:46:56Z"
 related to:
   - "[[GitHub - 1207699034]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn your Obsidian vault into a spaced-repetition memory system that keeps flashcards inline and leaves original Markdown untouched. Write cards by hand or generate them with AI, use Q&A, multi-line, and cloze formats with images, then review decks and visual memory maps."
 
     stats: {
-        downloads:  1250
+        downloads:  1989
         updated_at: 1784573216000
     }
 }

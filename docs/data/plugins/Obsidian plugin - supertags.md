@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/supertags
 alt:
   - https://github.com/dandele/obsidian-atom-creator
-downloads: 569
+downloads: 1028
 updated at: "2026-06-03T08:41:43Z"
 related to:
   - "[[GitHub - 1204946758]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create structured notes from tagged lines and replace the line with a wikilink. Pre-fill the new note with exact frontmatter and body from your template so it's ready to develop. Support multiple supertags for different note types, work across desktop, mobile and Obsidian Sync, and show an undo notice."
 
     stats: {
-        downloads:  569
+        downloads:  1028
         updated_at: 1780476103000
     }
 }

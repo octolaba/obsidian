@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/share-my-plugin-list
 alt:
   - https://github.com/benature/obsidian-share-my-plugin-list
-downloads: 7092
+downloads: 7378
 updated at: "2024-04-04T12:49:20Z"
 related to:
   - "[[GitHub - 747192965]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Share the plugins active or inactive in your vault as a formatted list or table for easy recommendations. Export names, authors and versions with direct install links and run one command to install all missing plugins at once."
 
     stats: {
-        downloads:  7092
+        downloads:  7378
         updated_at: 1712234960000
     }
 }

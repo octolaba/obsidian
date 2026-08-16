@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/language-injector
 alt:
   - https://github.com/sunmagicshow/obsidian-language-injector
-downloads: 84
+downloads: 91
 updated at: "2026-03-25T07:40:30Z"
 related to:
   - "[[GitHub - 1174331474]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Inject language markers into code blocks by specifying a property on the block. Apply consistent language tags to ensure correct syntax highlighting and tooling."
 
     stats: {
-        downloads:  84
+        downloads:  91
         updated_at: 1774424430000
     }
 }

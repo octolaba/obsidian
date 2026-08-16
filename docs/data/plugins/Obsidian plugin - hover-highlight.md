@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hover-highlight
 alt:
   - https://github.com/raito1chi/hover-highlight
-downloads: 62
+downloads: 92
 updated at: "2026-07-08T10:37:20Z"
 related to:
   - "[[GitHub - 1293395415]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a soft dot-grid spotlight that follows your cursor on Canvas, replacing the static dot background with a subtle radial glow. Smooth the spotlight with lerp-based animation and optional fade-out, and adjust glow radius, dot brightness and follow smoothness for a GPU-accelerated, performance-friendly effect."
 
     stats: {
-        downloads:  62
+        downloads:  92
         updated_at: 1783507040000
     }
 }

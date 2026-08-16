@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-hackernews
 alt:
   - https://github.com/arpitbbhayani/obsidian-hackernews
-downloads: 6578
+downloads: 6595
 updated at: "2021-09-08T07:27:54Z"
 related to:
   - "[[GitHub - 401638090]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display top Hacker News stories in an Obsidian pane, periodically fetching a random top story to keep your feed fresh. Save any story as a Markdown note to read, archive, or revisit later."
 
     stats: {
-        downloads:  6578
+        downloads:  6595
         updated_at: 1631086074000
     }
 }

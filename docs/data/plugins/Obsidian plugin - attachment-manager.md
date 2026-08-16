@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/attachment-manager
 alt:
   - https://github.com/chenfeicqq/obsidian-attachment-manager
-downloads: 12008
+downloads: 12106
 updated at: "2023-10-18T13:54:38Z"
 related to:
   - "[[GitHub - 672540674]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bind attachment folder names to note names and keep them synced by renaming folders and files when notes change. Download remote images from the current Markdown or Canvas note into its attachment folder, auto-rename pasted images, auto-delete empty folders, and toggle folder visibility."
 
     stats: {
-        downloads:  12008
+        downloads:  12106
         updated_at: 1697637278000
     }
 }

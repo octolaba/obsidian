@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/relational-graph
 alt:
   - https://github.com/tristanvangarsse/relational-graph
-downloads: 63
+downloads: 108
 updated at: "2026-07-21T06:21:33Z"
 related to:
   - "[[GitHub - 1299592210]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize connections between notes using shared-context and direct-link relationships with recency-weighting and incremental vault indexing. Filter and focus graphs with relationship filters and project metadata. Style and rearrange nodes interactively; click nodes to open their notes."
 
     stats: {
-        downloads:  63
+        downloads:  108
         updated_at: 1784614893000
     }
 }

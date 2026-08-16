@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/beautiful-contact-cards
 alt:
   - https://github.com/seth10/beautiful-obsidian-contacts
-downloads: 1428
+downloads: 1614
 updated at: "2026-06-28T18:34:05Z"
 related to:
   - "[[GitHub - 882877344]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render a formatted contact card from a \"contact\" code block in Obsidian notes. Format birthdays (show age when year present), normalize phone numbers and provide call/message links, validate emails, link Instagram usernames, and create Discord DM links when a channel ID is supplied. Support multiple phones, emails, Instagram and Discord entries and list subsequent names as nicknames."
 
     stats: {
-        downloads:  1428
+        downloads:  1614
         updated_at: 1782671645000
     }
 }

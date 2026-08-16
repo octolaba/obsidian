@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/issuetracker
 alt:
   - https://github.com/eve1329/issuetracker
-downloads: 74
-updated at: "2026-06-23T07:43:08Z"
+downloads: 125
+updated at: "2026-08-07T06:23:32Z"
 related to:
   - "[[GitHub - 1276868574]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync issues from selected GitCode repositories or an entire organization into your vault, persisting each issue as a normalized note under GitCode Issues/issues. Classify issues as bug, requirement, or unknown, mark authors as internal or external using collaborator data and a whitelist, generate daily machine-friendly reports and AI-friendly briefs, and save sync metadata and collaborator caches under GitCode Issues/meta."
 
     stats: {
-        downloads:  74
-        updated_at: 1782200588000
+        downloads:  125
+        updated_at: 1786083812000
     }
 }
 ```

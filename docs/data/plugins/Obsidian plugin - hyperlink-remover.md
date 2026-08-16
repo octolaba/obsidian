@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/hyperlink-remover
 alt:
   - https://github.com/alphahasher/obsidian-remove-links
-downloads: 5284
-updated at: "2026-07-14T19:15:28Z"
+downloads: 6036
+updated at: "2026-08-03T19:30:06Z"
 related to:
   - "[[GitHub - 990937232]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Remove hyperlinks and wikilinks from a selection or entire file, converting linked text to plain text and stripping image and file embeds. Filter removals by internal/external type and apply whitelist or blacklist rules to preserve or target specific domains, URLs, or wikilink paths."
 
     stats: {
-        downloads:  5284
-        updated_at: 1784056528000
+        downloads:  6036
+        updated_at: 1785785406000
     }
 }
 ```

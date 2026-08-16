@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/recipe-box
 alt:
   - https://github.com/adamarcane/obsidian-recipebox
-downloads: 383
-updated at: "2026-07-21T18:28:49Z"
+downloads: 786
+updated at: "2026-08-08T20:34:16Z"
 related to:
   - "[[GitHub - 1274746272]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Open any recipe to see an interactive card with scaled ingredients, inline cooking timers, nutrition, and customizable metadata badges. Plan your week with a drag-and-drop meal planner that supports recipes, custom meals, and leftovers, then generate a grocery list automatically. Import recipes from websites with one command using your own template. Track cook history with dates, notes, and photos. Discover meal suggestions from favorites, go-to recipes, neglected dishes, or your own custom selection modes. Everything lives as plain Markdown in your vault. Recipes, meal plans, grocery lists, and history remain portable, searchable with Dataview or Obsidian Bases, and readable without the plugin."
 
     stats: {
-        downloads:  383
-        updated_at: 1784658529000
+        downloads:  786
+        updated_at: 1786221256000
     }
 }
 ```

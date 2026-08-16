@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/douyin-capture
 alt:
   - https://github.com/lyxdream/obsidian-douyin-capture
-downloads: 902
+downloads: 1264
 updated at: "2026-06-05T03:29:35Z"
 related to:
   - "[[GitHub - 1258935002]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Douyin content into Obsidian with a single click. Paste a share link, extract videos and image-text posts locally, and get structured notes—automatically."
 
     stats: {
-        downloads:  902
+        downloads:  1264
         updated_at: 1780630175000
     }
 }

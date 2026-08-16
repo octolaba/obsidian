@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/fix-require-modules
 alt:
   - https://github.com/mnaoumov/obsidian-codescript-toolkit
-downloads: 16253
-updated at: "2026-07-23T02:01:49Z"
+downloads: 17391
+updated at: "2026-08-10T20:46:02Z"
 related to:
   - "[[GitHub - 741198066]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Write and run JavaScript or TypeScript scripts across Obsidian (DevTools, CustomJS, dataviewjs, QuickAdd, Templater, JS Engine and module scripts) using modern ESM and modular patterns. Prototype Obsidian plugins, explore the Obsidian API at runtime, and invoke scripts via commands or hotkeys."
 
     stats: {
-        downloads:  16253
-        updated_at: 1784772109000
+        downloads:  17391
+        updated_at: 1786394762000
     }
 }
 ```

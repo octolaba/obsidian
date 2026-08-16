@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/blog-bridge
 alt:
   - https://github.com/merrier/obsidian-blog-bridge
-downloads: 102
+downloads: 108
 updated at: "2026-05-13T15:07:36Z"
 related to:
   - "[[GitHub - 1234688618]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Markdown notes to GitHub-backed static-site blogs, committing post files and images or opening pull requests via a custom branch. Apply framework presets to map paths and frontmatter while preserving metadata and filling missing title/date, and open a sync status page to batch-sync and track modified notes."
 
     stats: {
-        downloads:  102
+        downloads:  108
         updated_at: 1778684856000
     }
 }

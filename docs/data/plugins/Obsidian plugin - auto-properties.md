@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-properties
 alt:
   - https://github.com/aarongilly/obsidian-auto-properties
-downloads: 7982
+downloads: 9285
 updated at: "2026-07-15T22:31:54Z"
 related to:
   - "[[GitHub - 1119357477]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create auto-updating frontmatter properties from note content using user-defined rules. Define rules like pull first/all lines, count lines, match regex, or detect starts/contains/ends, and choose triggers (on edit pause, on file-focus change, or manual) to keep metadata current."
 
     stats: {
-        downloads:  7982
+        downloads:  9285
         updated_at: 1784154714000
     }
 }

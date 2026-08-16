@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lemon-comments
 alt:
   - https://github.com/blackflag0623/obsidian-lemon-comments
-downloads: 54
+downloads: 97
 updated at: "2026-07-12T08:42:21Z"
 related to:
   - "[[GitHub - 1296705644]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add lightweight, non-intrusive Markdown comments to Reading view. Select text to open a mini toolbar, attach Markdown comments, and highlight with lemon-green rounded marks that show popups on hover or open an editor on click. Store comments in plugin data so notes remain unchanged."
 
     stats: {
-        downloads:  54
+        downloads:  97
         updated_at: 1783845741000
     }
 }

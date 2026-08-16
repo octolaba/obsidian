@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quick-bookmarks
 alt:
   - https://github.com/kieranmansfield/obsidian-quick-bookmarks
-downloads: 1027
+downloads: 1054
 updated at: "2026-05-28T23:42:08Z"
 related to:
   - "[[GitHub - 1099220847]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search your Obsidian bookmarks with a fuzzy-search modal that finds files, folders, saved searches, and bookmark groups. Navigate nested groups with breadcrumb paths, switch between separate or flattened group views, create per-group commands, and hide bookmarks from results for cleaner access."
 
     stats: {
-        downloads:  1027
+        downloads:  1054
         updated_at: 1780011728000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sonkil
 alt:
   - https://github.com/ohyoungpark/obsidian-sonkil
-downloads: 289
+downloads: 297
 updated at: "2025-05-20T12:23:36Z"
 related to:
   - "[[GitHub - 960892988]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add Emacs-style kill, yank and mark operations to Obsidian for familiar text-editing workflows. Store up to 120 kills in a ring with system clipboard sync, cut/paste across multiple cursors, highlight mark selections, and show operation status in the status bar."
 
     stats: {
-        downloads:  289
+        downloads:  297
         updated_at: 1747743816000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/default-query-in-backlink
 alt:
   - https://github.com/benature/obsidian-default-query-in-backlink
-downloads: 4646
+downloads: 4808
 updated at: "2024-03-31T06:04:30Z"
 related to:
   - "[[GitHub - 766561026]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set custom default queries and view options for the backlinks panel — filter by path, collapse results, show more context, control sort order and expand unlinked mentions. Remember panel display per file/leaf and automatically run or update the saved query when a file opens."
 
     stats: {
-        downloads:  4646
+        downloads:  4808
         updated_at: 1711865070000
     }
 }

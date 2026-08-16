@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/drivesync
 alt:
   - https://github.com/lcjury/obsidian-drivesync
-downloads: 56
+downloads: 98
 updated at: "2026-07-11T20:46:48Z"
 related to:
   - "[[GitHub - 1269365552]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault bidirectionally with Google Drive, including .obsidian while excluding a few workspace/graph files. Perform full reconciliation on startup, upload edits after a short debounce, poll Drive for remote changes or run manual sync; newest wins and older versions are saved as (conflicted).md, using your own Google Cloud project and account."
 
     stats: {
-        downloads:  56
+        downloads:  98
         updated_at: 1783802808000
     }
 }

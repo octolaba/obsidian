@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-shellcommands
 alt:
   - https://github.com/taitava/obsidian-shellcommands
-downloads: 87185
+downloads: 89934
 updated at: "2024-11-09T16:35:32Z"
 related to:
   - "[[GitHub - 398575626]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Define shell/terminal commands in settings and run them from the command palette or via hotkeys. Include note-related variables (current file name/path, parent folder, custom timestamps) in commands and insert command output directly into notes."
 
     stats: {
-        downloads:  87185
+        downloads:  89934
         updated_at: 1731170132000
     }
 }

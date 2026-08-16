@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nai4obsidian
 alt:
   - https://github.com/salokingreen/NAI4Obsidian
-downloads: 6353
+downloads: 6429
 updated at: "2024-12-20T08:28:27Z"
 related to:
   - "[[GitHub - 651931383]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Write with an integrated NovelAI companion directly inside Obsidian, using Generate and Retry commands to create or redo text. Manage prompts and a built-in lorebook, and connect with your NovelAI API key (subscription required)."
 
     stats: {
-        downloads:  6353
+        downloads:  6429
         updated_at: 1734683307000
     }
 }

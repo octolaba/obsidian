@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-image-ocr
 alt:
   - https://github.com/rootiest/obsidian-ai-image-ocr
-downloads: 9081
+downloads: 9687
 updated at: "2026-05-12T17:45:39Z"
 related to:
   - "[[GitHub - 997138203]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extract text from images and handwriting with AI-powered OCR for highly accurate, reliable results. Pick cloud models like Google Gemini or OpenAI, or run local models via Ollama for offline OCR and faster processing."
 
     stats: {
-        downloads:  9081
+        downloads:  9687
         updated_at: 1778607939000
     }
 }

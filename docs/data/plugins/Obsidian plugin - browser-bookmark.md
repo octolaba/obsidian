@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/browser-bookmark
 alt:
   - https://github.com/notenerdofficial/browser-bookmark
-downloads: 25
-updated at: "2026-07-23T18:50:26Z"
+downloads: 146
+updated at: "2026-07-25T03:41:16Z"
 related to:
   - "[[GitHub - 1309276967]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Open saved links in Obsidian's Web Viewer from a persistent bookmarks sidebar to keep browsing in-app. Organize nested folders with drag-and-drop and search; drag links from notes, pin favorites to an icon row, and fall back to your system browser if Web Viewer is unavailable."
 
     stats: {
-        downloads:  25
-        updated_at: 1784832626000
+        downloads:  146
+        updated_at: 1784950876000
     }
 }
 ```

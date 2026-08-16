@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/arxiv-papers
 alt:
   - https://github.com/ar4l/obsidian-papers
-downloads: 122
+downloads: 308
 updated at: "2026-06-08T10:40:45Z"
 related to:
   - "[[GitHub - 1258108519]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search and import arXiv research papers into your vault, saving structured metadata (title, authors, year, URL) and downloading or embedding the PDF. Fall back to OpenAlex and handle arXiv rate limits, timeouts, and retries to keep imports reliable."
 
     stats: {
-        downloads:  122
+        downloads:  308
         updated_at: 1780915245000
     }
 }

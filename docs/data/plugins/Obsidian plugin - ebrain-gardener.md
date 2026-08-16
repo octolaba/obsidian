@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ebrain-gardener
 alt:
   - https://github.com/karx/kaaroGarden
-downloads: 304
+downloads: 352
 updated at: "2026-05-17T21:37:22Z"
 related to:
   - "[[GitHub - 1223219031]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bring your digital gardening workflow into Obsidian with a Process → Triage → Publish pipeline that scores inbox notes, suggests WikiLinks, and enriches frontmatter using LLMs. Use a live scored inbox sidebar, sortable triage table, and an approval-gated publish command to manage and publish grown notes."
 
     stats: {
-        downloads:  304
+        downloads:  352
         updated_at: 1779053842000
     }
 }

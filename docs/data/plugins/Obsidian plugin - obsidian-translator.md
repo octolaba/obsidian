@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-translator
 alt:
   - https://github.com/luhaifeng666/obsidian-translator
-downloads: 15392
+downloads: 15628
 updated at: "2024-10-06T11:32:17Z"
 related to:
   - "[[GitHub - 487024135]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Translate selected text or typed phrases directly in Obsidian using a simple translator modal. Choose Youdao, Microsoft, or Baidu as the translation engine and set a hotkey for quick access."
 
     stats: {
-        downloads:  15392
+        downloads:  15628
         updated_at: 1728214337000
     }
 }

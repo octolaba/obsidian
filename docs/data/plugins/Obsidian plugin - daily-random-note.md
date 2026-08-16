@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-random-note
 alt:
   - https://github.com/d4rkp1xel/daily-random-note
-downloads: 1004
+downloads: 1038
 updated at: "2024-12-31T15:35:29Z"
 related to:
   - "[[GitHub - 879933373]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Schedule daily random notes from selected folders and tags to open at a time you choose, refreshing your memory with past notes. Open a single random note on demand using the ribbon icon."
 
     stats: {
-        downloads:  1004
+        downloads:  1038
         updated_at: 1735659329000
     }
 }

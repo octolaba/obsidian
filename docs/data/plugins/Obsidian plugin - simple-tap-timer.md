@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-tap-timer
 alt:
   - https://github.com/gustipardo/simple-tap-timer
-downloads: 122
+downloads: 132
 updated at: "2026-02-17T22:43:43Z"
 related to:
   - "[[GitHub - 1160347953]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run interactive timers directly in notes from tap-timer code blocks and start or stop each timer with one tap; mark timers as independent to run in parallel or keep a single active timer per note. Generate an updatable timer summary table, reset all timers in a note, and save session logs to any file path in your vault."
 
     stats: {
-        downloads:  122
+        downloads:  132
         updated_at: 1771368223000
     }
 }

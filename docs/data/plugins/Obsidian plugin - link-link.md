@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/link-link
 alt:
   - https://github.com/artieficr/link-link
-downloads: 731
-updated at: "2026-07-12T21:48:27Z"
+downloads: 1418
+updated at: "2026-08-01T00:25:35Z"
 related to:
   - "[[GitHub - 1260625399]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Link Link! finds semantically related notes in a live sidebar panel, ranked by a 0.00–1.00 similarity score and color‑coded for relevance. Open results, visualize connections as a native-style graph, drag to paste [[links]], click to add or remove relations, or batch-interconnect your vault in one go! Keep all processing local and private."
 
     stats: {
-        downloads:  731
-        updated_at: 1783892907000
+        downloads:  1418
+        updated_at: 1785543935000
     }
 }
 ```

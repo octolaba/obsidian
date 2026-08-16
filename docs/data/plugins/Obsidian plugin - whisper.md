@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/whisper
 alt:
   - https://github.com/nikdanilov/whisper-obsidian-plugin
-downloads: 52180
+downloads: 53619
 updated at: "2026-04-07T02:02:56Z"
 related to:
   - "[[GitHub - 623164200]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Record or upload audio on desktop or mobile and transcribe using Whisper-compatible APIs (OpenAI, Groq, Azure, or local endpoints). Post-process results with an LLM to clean grammar, remove filler words, format as Markdown, extract action items, and auto-generate titled, templated notes with embedded audio."
 
     stats: {
-        downloads:  52180
+        downloads:  53619
         updated_at: 1775527376000
     }
 }

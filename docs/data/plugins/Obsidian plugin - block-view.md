@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/block-view
 alt:
   - https://github.com/timobechtel/obsidian-block-view
-downloads: 6309
-updated at: "2026-07-04T11:57:42Z"
+downloads: 8606
+updated at: "2026-08-03T08:39:03Z"
 related to:
   - "[[GitHub - 1138521528]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "List and filter note content as individual blocks across your vault using a Bases view. Resurface tagged paragraphs, collect incomplete tasks or code snippets, group and sort results, and check off tasks directly in the view without opening each file."
 
     stats: {
-        downloads:  6309
-        updated_at: 1783166262000
+        downloads:  8606
+        updated_at: 1785746343000
     }
 }
 ```

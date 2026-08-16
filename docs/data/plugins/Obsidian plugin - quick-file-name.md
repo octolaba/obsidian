@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quick-file-name
 alt:
   - https://github.com/wapply/obsidian-quick-file-name
-downloads: 1505
+downloads: 1523
 updated at: "2024-03-20T11:17:18Z"
 related to:
   - "[[GitHub - 773488577]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate new notes with randomized filenames. Customize string length and character sets (uppercase, lowercase, numbers, symbols) to control the generated names."
 
     stats: {
-        downloads:  1505
+        downloads:  1523
         updated_at: 1710933438000
     }
 }

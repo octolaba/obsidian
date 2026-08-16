@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/code-block-fold
 alt:
   - https://github.com/mkali-personal/obsidian-code-block-fold
-downloads: 224
+downloads: 317
 updated at: "2026-06-06T18:04:56Z"
 related to:
   - "[[GitHub - 1261459986]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fold and unfold code blocks with a single click, collapsing them into a one-line preview that shows the language, first line, and a copy button to copy the block without expanding. Save fold state inline as {fold} so it syncs with your files, and run commands to fold/unfold all blocks or toggle the block under the cursor."
 
     stats: {
-        downloads:  224
+        downloads:  317
         updated_at: 1780769096000
     }
 }

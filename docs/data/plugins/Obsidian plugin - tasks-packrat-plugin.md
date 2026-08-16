@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tasks-packrat-plugin
 alt:
   - https://github.com/therden/packrat
-downloads: 6076
+downloads: 6095
 updated at: "2024-01-02T21:20:48Z"
 related to:
   - "[[GitHub - 485556519]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Process completed recurring tasks in the active note and tidy them based on per-task triggers. Delete unwanted completions, move retained ones to the bottom of the source note, or archive them into a separate note. Work with Tasks-style recurring items and Dataview-format inline fields."
 
     stats: {
-        downloads:  6076
+        downloads:  6095
         updated_at: 1704230448000
     }
 }

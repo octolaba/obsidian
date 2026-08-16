@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/calculite
 alt:
   - https://github.com/gfxholo/calculite
-downloads: 2752
+downloads: 2867
 updated at: "2025-07-04T03:44:45Z"
 related to:
   - "[[GitHub - 990261597]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Perform quick arithmetic like totals, averages, and countdowns directly in Obsidian without leaving your notes. Toggle a floating calculator on desktop or open a compact tab on mobile. Keep the current equation when relaunching Obsidian if the calculator tab remains open."
 
     stats: {
-        downloads:  2752
+        downloads:  2867
         updated_at: 1751600685000
     }
 }

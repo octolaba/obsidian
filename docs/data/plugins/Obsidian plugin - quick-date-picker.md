@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quick-date-picker
 alt:
   - https://github.com/ritalee2333/obsidian-quick-date-picker
-downloads: 184
+downloads: 406
 updated at: "2026-06-11T02:42:35Z"
 related to:
   - "[[GitHub - 1262653890]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert dates quickly by typing @ (or a custom trigger) to summon a mini calendar; pick a date with mouse or keyboard or type relative shortcuts like +3d or -1w to insert the resolved date. Switch between multiple output formats from the popup and use the date picker in note titles; UI adapts to English and Chinese."
 
     stats: {
-        downloads:  184
+        downloads:  406
         updated_at: 1781145755000
     }
 }

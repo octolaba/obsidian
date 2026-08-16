@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hot-reload
 alt:
   - https://github.com/pjeby/hot-reload
-downloads: 51853
+downloads: 54380
 updated at: "2026-07-06T02:14:00Z"
 related to:
   - "[[GitHub - 334343202]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Developers only: automatically reload your in-development plugins when their files change. See README for full documentation."
 
     stats: {
-        downloads:  51853
+        downloads:  54380
         updated_at: 1783304040000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/personal-life-system
 alt:
   - https://github.com/xiaoqiang-huang/obsidian-life-os-community
-downloads: 215
-updated at: "2026-06-19T14:50:32Z"
+downloads: 239
+updated at: "2026-08-11T12:49:48Z"
 related to:
   - "[[GitHub - 1261372920]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Organize diary entries, tasks, projects, knowledge, and long-term memory inside your Obsidian vault with local-first daily capture and review workflows. Extract tasks, track project progress with overview cards and unfinished task lists, run AI-assisted reviews using selected vault, task, or web context, and view daily, weekly, and monthly dashboards."
 
     stats: {
-        downloads:  215
-        updated_at: 1781880632000
+        downloads:  239
+        updated_at: 1786452588000
     }
 }
 ```

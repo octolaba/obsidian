@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/private-mode
 alt:
   - https://github.com/markusmo3/obsidian-private-mode
-downloads: 795
+downloads: 813
 updated at: "2026-01-05T18:07:54Z"
 related to:
   - "[[GitHub - 874189190]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Blur files, links, and search results tagged with #private to hide sensitive content until you hover, focus, or use Reveal all. Choose Reveal all, Reveal on hover, or Reveal never; protect content during screenshare and control visibility from the status bar."
 
     stats: {
-        downloads:  795
+        downloads:  813
         updated_at: 1767636474000
     }
 }

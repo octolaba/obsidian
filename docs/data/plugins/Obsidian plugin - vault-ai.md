@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-ai
 alt:
   - https://github.com/0xneobyte/VaultAI
-downloads: 4491
+downloads: 4585
 updated at: "2026-04-11T16:47:43Z"
 related to:
   - "[[GitHub - 888733156]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bring Gemini-powered AI writing and vault-wide semantic search to Obsidian, generating answers grounded in your notes with citations. Insert AI responses at the cursor, create reusable prompts with smart placeholders, and chat in a resizable interface while keeping your API key and history local."
 
     stats: {
-        downloads:  4491
+        downloads:  4585
         updated_at: 1775926063000
     }
 }

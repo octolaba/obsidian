@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/masonry-pinboards
 alt:
   - https://github.com/darkseasonstudios/obsidian-masonry
-downloads: 339
+downloads: 518
 updated at: "2026-06-24T18:00:29Z"
 related to:
   - "[[GitHub - 1277846244]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display folder contents in a Pinterest-like masonry layout and view notes and images as draggable tiles. Create pin boards, drag files to pin or move them, add tags, filter by name or #tag, and double-click images to preview."
 
     stats: {
-        downloads:  339
+        downloads:  518
         updated_at: 1782324029000
     }
 }

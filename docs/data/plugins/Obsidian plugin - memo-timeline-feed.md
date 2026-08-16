@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/memo-timeline-feed
 alt:
   - https://github.com/lbb2446/bestmemo
-downloads: 130
+downloads: 141
 updated at: "2026-03-20T06:12:07Z"
 related to:
   - "[[GitHub - 1186911715]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display notes, diaries and images as a visual timeline, diary feed, or photo wall for easy browsing and review. Gather content from notes tagged #timeline or diary notes and show titles, dates, paths, summaries, tags and image previews in a card-based gallery layout."
 
     stats: {
-        downloads:  130
+        downloads:  141
         updated_at: 1773987127000
     }
 }

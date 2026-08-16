@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/fancy-kanban
 alt:
   - https://github.com/robertoallende/fancy-kanban
-downloads: 180
-updated at: "2026-07-23T12:32:32Z"
+downloads: 454
+updated at: "2026-08-05T10:18:01Z"
 related to:
   - "[[GitHub - 1297516229]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Embed Kanban boards directly in notes and render them inline alongside your content. Define custom relational fields per board, drag-and-drop cards across columns, open a modal card editor or standalone board view, and keep board data stored as a human-readable Markdown table."
 
     stats: {
-        downloads:  180
-        updated_at: 1784809952000
+        downloads:  454
+        updated_at: 1785925081000
     }
 }
 ```

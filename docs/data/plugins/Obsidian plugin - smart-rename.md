@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/smart-rename
 alt:
   - https://github.com/mnaoumov/obsidian-smart-rename
-downloads: 14294
-updated at: "2026-07-21T01:22:33Z"
+downloads: 14978
+updated at: "2026-08-08T19:39:21Z"
 related to:
   - "[[GitHub - 616215126]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Rename notes and add the previous title as an alias on the renamed file. Update wiki and Markdown links to point to the new filename while preserving the old display text and keeping backlinks intact."
 
     stats: {
-        downloads:  14294
-        updated_at: 1784596953000
+        downloads:  14978
+        updated_at: 1786217961000
     }
 }
 ```

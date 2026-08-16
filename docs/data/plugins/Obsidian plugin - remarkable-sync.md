@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/remarkable-sync
 alt:
   - https://github.com/timdommett/Remarkable-Sync---Obsidian-Plugin
-downloads: 1014
+downloads: 1273
 updated at: "2026-07-04T10:51:16Z"
 related to:
   - "[[GitHub - 1157843551]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync reMarkable Paper Pro documents to your Obsidian vault as high-fidelity PDFs, preserving nine pen types, 14 colors, layered drawings, and text styles. Keep notes current with incremental or auto-sync and merge annotations into the original PDF background while rendering extended pages correctly."
 
     stats: {
-        downloads:  1014
+        downloads:  1273
         updated_at: 1783162276000
     }
 }

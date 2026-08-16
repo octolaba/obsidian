@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kill-and-yank
 alt:
   - https://github.com/inouetakuya/obsidian-kill-and-yank
-downloads: 4100
+downloads: 4114
 updated at: "2023-03-14T16:26:38Z"
 related to:
   - "[[GitHub - 590545170]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Enable Emacs-style kill and yank editing in the Obsidian editor. Cut from the cursor or selection and paste from the kill ring to recall recently killed text."
 
     stats: {
-        downloads:  4100
+        downloads:  4114
         updated_at: 1678811198000
     }
 }

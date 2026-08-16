@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/image-upload-toolkit
 alt:
   - https://github.com/addozhang/obsidian-image-upload-toolkit
-downloads: 14183
-updated at: "2026-05-21T02:06:45Z"
+downloads: 14852
+updated at: "2026-07-25T06:47:52Z"
 related to:
   - "[[GitHub - 535174818]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Upload and manage images from your notes to multiple cloud providers with automatic detection of Markdown and Wiki links and batch processing. Convert mermaid diagrams to PNG, re-upload web images, handle PNG/JPG/GIF/SVG/WebP/Excalidraw formats, show real-time progress, and support flexible relative paths."
 
     stats: {
-        downloads:  14183
-        updated_at: 1779329205000
+        downloads:  14852
+        updated_at: 1784962072000
     }
 }
 ```

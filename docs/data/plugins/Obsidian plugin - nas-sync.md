@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nas-sync
 alt:
   - https://github.com/beomjin4/nas-sync-plugin
-downloads: 105
+downloads: 131
 updated at: "2026-06-12T08:48:19Z"
 related to:
   - "[[GitHub - 1265987000]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault with a NAS to mirror files across devices on your local network. Keep notes available on both your local vault and NAS with automated file synchronization to maintain consistency."
 
     stats: {
-        downloads:  105
+        downloads:  131
         updated_at: 1781254099000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/check-and-delete
 alt:
   - https://github.com/danitiate/check-and-delete
-downloads: 918
+downloads: 945
 updated at: "2025-01-06T13:51:41Z"
 related to:
   - "[[GitHub - 872439700]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Delete completed checklist items with a single button press. Recognize Markdown checklist markers like (x) or (X) and remove checked lines instantly to save time on cleanup."
 
     stats: {
-        downloads:  918
+        downloads:  945
         updated_at: 1736171501000
     }
 }

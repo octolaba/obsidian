@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gmail-mailbox
 alt:
   - https://github.com/nabheetcloud/obsidian-gmail
-downloads: 122
+downloads: 225
 updated at: "2026-07-05T11:53:59Z"
 related to:
   - "[[GitHub - 1289898492]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Gmail into your vault as one Markdown note per message with YAML frontmatter (from/to/cc/date/labels/thread/web link) and regenerate per-label thread indexes grouped by conversation. Mirror Google Calendar into a rolling upcoming-meetings sidebar with one note per event and auto-link events to related emails; run incremental Gmail syncs and optionally download attachments with a size cap."
 
     stats: {
-        downloads:  122
+        downloads:  225
         updated_at: 1783252439000
     }
 }

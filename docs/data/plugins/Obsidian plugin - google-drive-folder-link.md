@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/google-drive-folder-link
 alt:
   - https://github.com/andrewmarconi/GoogleDriveFolderLink
-downloads: 224
+downloads: 254
 updated at: "2026-05-17T18:54:06Z"
 related to:
   - "[[GitHub - 1191938975]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Attach a Google Drive folder to a note via fuzzy search and save the association in the note’s frontmatter. Search across My Drive and Shared Drives roots and open linked folders with one click from the note’s Properties pane."
 
     stats: {
-        downloads:  224
+        downloads:  254
         updated_at: 1779044046000
     }
 }

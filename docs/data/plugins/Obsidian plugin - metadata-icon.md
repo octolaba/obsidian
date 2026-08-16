@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/metadata-icon
 alt:
   - https://github.com/benature/obsidian-metadata-icon
-downloads: 5367
+downloads: 6007
 updated at: "2024-06-04T07:45:32Z"
 related to:
   - "[[GitHub - 747094925]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Customize metadata property icons across your vault to give fields visual cues and faster recognition. Assign icons using http/https URLs, relative or absolute local file paths, or data: base64-encoded images."
 
     stats: {
-        downloads:  5367
+        downloads:  6007
         updated_at: 1717487132000
     }
 }

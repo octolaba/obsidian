@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-markdown-export-plugin
 alt:
   - https://github.com/bingryan/obsidian-markdown-export-plugin
-downloads: 49778
+downloads: 50601
 updated at: "2026-07-02T16:28:52Z"
 related to:
   - "[[GitHub - 565353256]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export notes or entire folders to packaged Markdown or HTML outputs, including image attachments. Preserve embedded content, support GitHub Flavored Markdown, and output assets alongside exported files for easy sharing."
 
     stats: {
-        downloads:  49778
+        downloads:  50601
         updated_at: 1783009732000
     }
 }

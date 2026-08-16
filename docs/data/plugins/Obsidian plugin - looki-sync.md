@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/looki-sync
 alt:
   - https://github.com/kidd911-cmd/obsidian-looki-sync
-downloads: 36
+downloads: 58
 updated at: "2026-07-17T06:25:16Z"
 related to:
   - "[[GitHub - 1298299937]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Looki Moments and For You into per-date Daily Memory Markdown notes, merging same‑day items into Moments and For You sections. Write metadata (title, description, place, time), parse location JSON, optionally download/embed images/videos, and keep each day's note idempotent with incremental or full resync."
 
     stats: {
-        downloads:  36
+        downloads:  58
         updated_at: 1784269516000
     }
 }

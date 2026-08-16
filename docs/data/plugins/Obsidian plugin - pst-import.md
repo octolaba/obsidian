@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pst-import
 alt:
   - https://github.com/wenciara/obsidian-pst-importer
-downloads: 171
+downloads: 223
 updated at: "2026-06-29T00:36:50Z"
 related to:
   - "[[GitHub - 1262640887]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Outlook PST archives into Obsidian as Markdown files, preserving folder hierarchy and adding full email metadata in YAML frontmatter. Convert embedded images to Obsidian ![[wikilink]] format, store attachments in attachments/ subfolders, and run entirely in JavaScript with no Outlook or external executables."
 
     stats: {
-        downloads:  171
+        downloads:  223
         updated_at: 1782693410000
     }
 }

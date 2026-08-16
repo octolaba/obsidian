@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/paste-transform
 alt:
   - https://github.com/rekby/obsidian-paste-transform
-downloads: 2451
+downloads: 2490
 updated at: "2026-03-01T18:22:37Z"
 related to:
   - "[[GitHub - 748977911]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform pasted plain text or links using regex or JavaScript scripts to auto-expand short codes into full links or formatted content. Apply sequential rules with optional selection-aware replacers to use selected text as link titles or generate dynamic replacements."
 
     stats: {
-        downloads:  2451
+        downloads:  2490
         updated_at: 1772389357000
     }
 }

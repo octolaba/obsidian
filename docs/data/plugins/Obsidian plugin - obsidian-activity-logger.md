@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-activity-logger
 alt:
   - https://github.com/creling/obsidian-activity-logger
-downloads: 5334
+downloads: 5347
 updated at: "2021-08-06T14:20:42Z"
 related to:
   - "[[GitHub - 392589598]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Log note activity — created, modified, and deleted files — into notes using customizable templates with $createdFiles, $modifiedFiles and $deletedFiles placeholders. Preserve idempotency by updating existing entries placed between defined start and end lines."
 
     stats: {
-        downloads:  5334
+        downloads:  5347
         updated_at: 1628259642000
     }
 }

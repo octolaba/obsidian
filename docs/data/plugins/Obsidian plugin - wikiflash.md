@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wikiflash
 alt:
   - https://github.com/paolinpaperin/obsidian-wikiflash
-downloads: 141
+downloads: 157
 updated at: "2026-06-03T09:07:47Z"
 related to:
   - "[[GitHub - 1253653794]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Flash a wikilink's [[ ]] brackets briefly when you create a link or move the cursor into one, giving a momentary color pop that leaves note content untouched. Customize color, opacity, duration and corner radius, respect system reduce-motion, run a test flash, and keep the effect in Live Preview, Source mode and pop-out windows."
 
     stats: {
-        downloads:  141
+        downloads:  157
         updated_at: 1780477667000
     }
 }

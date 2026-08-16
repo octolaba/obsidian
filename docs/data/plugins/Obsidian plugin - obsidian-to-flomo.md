@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-to-flomo
 alt:
   - https://github.com/kaminono/obsidian-to-flomo
-downloads: 5476
+downloads: 5531
 updated at: "2024-02-03T01:31:32Z"
 related to:
   - "[[GitHub - 542101201]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Share selected text or entire notes to Flomo or Catnote using commands and an editor menu. Send selections as a single entry, each line, or each paragraph. Set your Flomo or Catnote API key to enable sending."
 
     stats: {
-        downloads:  5476
+        downloads:  5531
         updated_at: 1706923892000
     }
 }

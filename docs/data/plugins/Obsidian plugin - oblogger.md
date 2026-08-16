@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/oblogger
 alt:
   - https://github.com/lofttech/obsidian-oblogger
-downloads: 288
+downloads: 320
 updated at: "2026-05-05T18:46:39Z"
 related to:
   - "[[GitHub - 667213229]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Explore and manage tags in a side-panel tag explorer with custom groups and pre-defined lists (dailies, recents, files, untagged), pin bookmarked notes to group tops, and flag untagged files. Log entries into new notes' frontmatter with a modal logger, set custom note icons via frontmatter, use an avatar in the panel, and sort daily notes by year/month/day."
 
     stats: {
-        downloads:  288
+        downloads:  320
         updated_at: 1778006799000
     }
 }

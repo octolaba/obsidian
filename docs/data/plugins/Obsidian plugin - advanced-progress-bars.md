@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/advanced-progress-bars
 alt:
   - https://github.com/cactuzhead/Advanced-Progress-Bars
-downloads: 13009
+downloads: 13573
 updated at: "2026-02-25T10:22:53Z"
 related to:
   - "[[GitHub - 936252869]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create customizable progress bars in notes using a simple fenced code block. Define Title: Value/Total (e.g., My Title: 57/100) to render visual progress bars directly in your Markdown files."
 
     stats: {
-        downloads:  13009
+        downloads:  13573
         updated_at: 1772014973000
     }
 }

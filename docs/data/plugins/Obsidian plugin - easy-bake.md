@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/easy-bake
 alt:
   - https://github.com/obsidian-community/obsidian-easy-bake
-downloads: 11377
+downloads: 11518
 updated at: "2024-02-20T18:47:59Z"
 related to:
   - "[[GitHub - 679412277]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Compile notes into larger documents by recursively expanding links and embeds that appear on their own line. Replace inline links with their display text and include content from linked files in the final document."
 
     stats: {
-        downloads:  11377
+        downloads:  11518
         updated_at: 1708454879000
     }
 }

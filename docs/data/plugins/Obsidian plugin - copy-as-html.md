@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-as-html
 alt:
   - https://github.com/jenningsb2/copy-as-html
-downloads: 51861
+downloads: 52226
 updated at: "2023-05-26T12:14:18Z"
 related to:
   - "[[GitHub - 451171227]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert selected Markdown to HTML and copy it to the clipboard. Paste into Slack, Google Docs, or any editor that accepts HTML to retain original formatting."
 
     stats: {
-        downloads:  51861
+        downloads:  52226
         updated_at: 1685103258000
     }
 }

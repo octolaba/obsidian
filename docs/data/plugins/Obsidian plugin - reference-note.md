@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/reference-note
 alt:
   - https://github.com/rafaelmehdiyev/obsidian-reference-note
-downloads: 115
+downloads: 126
 updated at: "2026-05-25T19:06:27Z"
 related to:
   - "[[GitHub - 1249419903]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create new notes by cloning selected frontmatter and properties from any existing note to use as a template. Choose which keys to carry, set the target folder and name, and optionally add a source link property to reference the original."
 
     stats: {
-        downloads:  115
+        downloads:  126
         updated_at: 1779735987000
     }
 }

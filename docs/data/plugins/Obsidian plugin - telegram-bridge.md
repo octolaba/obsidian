@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/telegram-bridge
 alt:
   - https://github.com/tmlnv/obsidian-telegram-bridge
-downloads: 137
+downloads: 153
 updated at: "2026-06-30T09:31:46Z"
 related to:
   - "[[GitHub - 1171093184]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync messages from a Telegram bot into your Obsidian vault in real time, converting chats, forum topics, attached files, and message edits into Markdown notes. Route messages with flexible rules, store raw data in Supabase for persistence, and fetch new content into your vault as .md files."
 
     stats: {
-        downloads:  137
+        downloads:  153
         updated_at: 1782811906000
     }
 }

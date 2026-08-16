@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/linked-attachments
 alt:
   - https://github.com/ckelsoe/obsidian-linked-attachments
-downloads: 81
+downloads: 145
 updated at: "2026-07-08T17:34:26Z"
 related to:
   - "[[GitHub - 1270615279]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Offload large binaries to an S3-compatible bucket or an external local folder and replace them with small, resolvable pointer notes in your vault. Verify every move with byte-for-byte checks and keep readable Markdown pointers that let you open, reveal, or restore files; optionally mirror to both local and S3 for fast reads plus durable backup. Run on desktop only when using local folder access."
 
     stats: {
-        downloads:  81
+        downloads:  145
         updated_at: 1783532066000
     }
 }

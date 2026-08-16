@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-equation-numbering
 alt:
   - https://github.com/wolframscs/obsidian-auto-equation-numbering
-downloads: 28
+downloads: 62
 updated at: "2026-07-18T07:45:27Z"
 related to:
   - "[[GitHub - 1302838205]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Auto-number display LaTeX equations in Markdown by appending \\tag{n} and recalculating after edits, while ignoring inline math and code blocks. Sync \\label entries with Markdown link references, support customizable numbering styles, optional deduplication, and a sidebar update panel."
 
     stats: {
-        downloads:  28
+        downloads:  62
         updated_at: 1784360727000
     }
 }

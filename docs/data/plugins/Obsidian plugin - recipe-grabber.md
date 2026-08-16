@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/recipe-grabber
 alt:
   - https://github.com/seethroughdev/obsidian-recipe-grabber
-downloads: 11243
+downloads: 11590
 updated at: "2024-06-05T16:17:03Z"
 related to:
   - "[[GitHub - 634018377]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Paste a recipe URL into a note and extract a concise recipe with ingredients, steps, image and a link back to the original page. Save recipe images into your vault and customize output with Handlebars templates, helpers for tags and time, or include raw JSON for manual tweaks."
 
     stats: {
-        downloads:  11243
+        downloads:  11590
         updated_at: 1717604223000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/accounting-journal-ledger
 alt:
   - https://github.com/javierribaldelrio/accounting-journal-ledger
-downloads: 583
+downloads: 607
 updated at: "2025-07-06T15:58:06Z"
 related to:
   - "[[GitHub - 1006172459]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Record simple double-entry journal entries using modern or classical Spanish libro diario formats and T-account ledgers. Save entries as editable Markdown, recognize accounts manually or from a chart file, and convert journal or ledger blocks to clean HTML directly in the active note. Use a minimal interface focused on clarity for teaching and example creation."
 
     stats: {
-        downloads:  583
+        downloads:  607
         updated_at: 1751817486000
     }
 }

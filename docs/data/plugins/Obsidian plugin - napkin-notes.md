@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/napkin-notes
 alt:
   - https://github.com/clairefro/obsidian-plugin-napkin-notes
-downloads: 516
+downloads: 710
 updated at: "2026-05-20T02:52:33Z"
 related to:
   - "[[GitHub - 1133635044]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create inline, PDF-style image carousels from handwritten notes, sketches, and whiteboard photos in Obsidian. Upload via filesystem, camera, or QR code from your phone, add optional image annotations for searchable notes, and display responsive light/dark viewers with an optional napkin texture."
 
     stats: {
-        downloads:  516
+        downloads:  710
         updated_at: 1779245553000
     }
 }

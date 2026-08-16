@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pdf-to-markdown-local
 alt:
   - https://github.com/xhydros/pdf-to-markdown-local
-downloads: 360
+downloads: 615
 updated at: "2026-06-17T08:03:07Z"
 related to:
   - "[[GitHub - 1257125956]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert text-based PDFs to traceable Markdown locally from the file or folder context menu. Create side-by-side .md files (never overwrite PDFs) with optional embedded images, conservative cleanup of hyphenation/headers/footers and two-column layouts, built-in templates, local previous/next links and optional merged batch conversion with preview."
 
     stats: {
-        downloads:  360
+        downloads:  615
         updated_at: 1781683387000
     }
 }

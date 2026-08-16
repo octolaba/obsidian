@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/masking-type
 alt:
   - https://github.com/telehakke/masking-type
-downloads: 2189
-updated at: "2026-05-24T17:19:33Z"
+downloads: 2356
+updated at: "2026-08-02T14:01:31Z"
 related to:
   - "[[GitHub - 879159314]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create memorization-style notes by masking bold, italic, and highlighted text in reading mode. Click or hover masked areas to reveal hidden text, show optional blur or peek hints, convert masks to cloze tests when exporting to PDF, and configure masking per note."
 
     stats: {
-        downloads:  2189
-        updated_at: 1779643173000
+        downloads:  2356
+        updated_at: 1785679291000
     }
 }
 ```

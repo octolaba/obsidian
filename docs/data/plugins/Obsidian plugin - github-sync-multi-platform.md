@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/github-sync-multi-platform
 alt:
   - https://github.com/thiter/obsidian-github-sync-multi-platform
-downloads: 1428
+downloads: 1716
 updated at: "2026-06-08T09:35:04Z"
 related to:
   - "[[GitHub - 1180524973]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync notes across desktop and mobile using the GitHub REST API without requiring a local Git client. Enable serverless, real-time auto-sync with event-driven updates and 5-second debounce, hash-based conflict resolution, binary file support up to 10MB, and a web dashboard for sync stats."
 
     stats: {
-        downloads:  1428
+        downloads:  1716
         updated_at: 1780911304000
     }
 }

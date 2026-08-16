@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/convert-case
 alt:
   - https://github.com/23maverick23/obsidian-convert-case
-downloads: 149
+downloads: 165
 updated at: "2026-05-17T03:31:23Z"
 related to:
   - "[[GitHub - 1241154573]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert selected text between multiple case styles, including Title Case, UPPER, lower, swap, camelCase, PascalCase, snake_case, and kebab-case. Apply conversions to multiple selections without extra dependencies."
 
     stats: {
-        downloads:  149
+        downloads:  165
         updated_at: 1778988683000
     }
 }

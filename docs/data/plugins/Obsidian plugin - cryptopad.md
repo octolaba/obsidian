@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cryptopad
 alt:
   - https://github.com/riogesulgon/obsidian-cryptopad
-downloads: 82
+downloads: 92
 updated at: "2026-06-23T14:39:05Z"
 related to:
   - "[[GitHub - 1267367897]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Use keyboard shortcuts influenced by vim to efficiently encrypt and decrypt text. Keyboard shortcuts are list on the user interface. Encrypt and decrypt selected text inline using AES-256-GCM with PBKDF2-SHA256 key derivation, all client-side so nothing leaves your vault."
 
     stats: {
-        downloads:  82
+        downloads:  92
         updated_at: 1782225545000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/github-stars
 alt:
   - https://github.com/flyingnobita/obsidian-github-stars
-downloads: 585
+downloads: 850
 updated at: "2026-07-21T05:55:54Z"
 related to:
   - "[[GitHub - 948633251]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display GitHub star counts next to repository links in Reading View and Live Preview, and embed star counts directly into Markdown for visibility outside Obsidian. Cache counts to reduce API requests, support abbreviated formatting and optional GitHub API token for higher rate limits, and provide commands to refresh, embed, or remove counts."
 
     stats: {
-        downloads:  585
+        downloads:  850
         updated_at: 1784613354000
     }
 }

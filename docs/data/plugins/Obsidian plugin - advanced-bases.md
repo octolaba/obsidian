@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/advanced-bases
 alt:
   - https://github.com/brightwav3/advanced-bases
-downloads: 282
+downloads: 446
 updated at: "2026-07-06T09:46:50Z"
 related to:
   - "[[GitHub - 1288283590]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add three Notion-style Bases views: Cards Compact, Feed, and Timeline. View compact card rows, a lazy-rendering feed of Markdown previews with truncation and expanders, and a Gantt-style timeline that plots notes by date on grouped, color-coded lanes with zoom and pan."
 
     stats: {
-        downloads:  282
+        downloads:  446
         updated_at: 1783331210000
     }
 }

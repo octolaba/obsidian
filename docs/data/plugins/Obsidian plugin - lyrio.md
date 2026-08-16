@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lyrio
 alt:
   - https://github.com/whitte-h/Lyrio
-downloads: 92
+downloads: 101
 updated at: "2026-05-13T18:54:46Z"
 related to:
   - "[[GitHub - 1223221902]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync song sections across notes by tagging blocks like ::Chorus so edits propagate automatically. Auto-fill bare tags from the nearest instance. Attach inline bar content (| Am C F G |) for chords/metadata, use ::Tag* to keep changes local, or mark exception tags to sync bars but keep lyrics unique."
 
     stats: {
-        downloads:  92
+        downloads:  101
         updated_at: 1778698486000
     }
 }

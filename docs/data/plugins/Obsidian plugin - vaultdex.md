@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vaultdex
 alt:
   - https://github.com/reggie86/vaultdex
-downloads: 566
+downloads: 1121
 updated at: "2026-06-07T13:37:59Z"
 related to:
   - "[[GitHub - 1249360775]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search your vault with a retro-styled, relevance-scored full-text engine that opens as a workspace tab and indexes on load. Get ranked results with highlighted snippets and clickable tags; filter by PARA or folder, sort by Relevance or date, run phrase/AND queries or use I'm Feeling Lucky to open a random note."
 
     stats: {
-        downloads:  566
+        downloads:  1121
         updated_at: 1780839479000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dired
 alt:
   - https://github.com/gapmiss/dired
-downloads: 110
+downloads: 126
 updated at: "2026-07-13T21:48:49Z"
 related to:
   - "[[GitHub - 1265597016]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Navigate and manage vault files from a keyboard-driven text buffer that lists directories as an editable CodeMirror buffer; edit names inline, mark multiple files for batch moves or deletes, and apply renames/moves that update wiki links and embeds. Use safe deletes to trash with confirmation, bookmark folders for quick jumps, preview files in a split while moving the cursor, and keep listings auto-refreshed."
 
     stats: {
-        downloads:  110
+        downloads:  126
         updated_at: 1783979329000
     }
 }

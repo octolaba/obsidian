@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-crypto-lookup
 alt:
   - https://github.com/kinabalu/obsidian-crypto-lookup
-downloads: 4283
+downloads: 4315
 updated at: "2021-10-26T03:20:15Z"
 related to:
   - "[[GitHub - 421098246]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Lookup cryptocurrency exchange rates and convert to a target currency via the Cryptonator API (currently unavailable while a replacement is sought). Use commands to fetch a specified or default coin rate and return just the price or extended data for quick reference in notes."
 
     stats: {
-        downloads:  4283
+        downloads:  4315
         updated_at: 1635218415000
     }
 }

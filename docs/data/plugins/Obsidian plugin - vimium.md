@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vimium
 alt:
   - https://github.com/karstenpedersen/obsidian-vimium
-downloads: 9219
+downloads: 9418
 updated at: "2024-06-21T17:51:45Z"
 related to:
   - "[[GitHub - 748327663]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show Vimium-style markers on clickable elements and press the corresponding keys to activate links and buttons. Customize the CSS selectors scanned and change marker font size for better readability."
 
     stats: {
-        downloads:  9219
+        downloads:  9418
         updated_at: 1718992305000
     }
 }

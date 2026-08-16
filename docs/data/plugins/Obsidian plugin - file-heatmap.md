@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-heatmap
 alt:
   - https://github.com/sato-note/file-heatmap
-downloads: 112
+downloads: 133
 updated at: "2026-06-23T02:28:39Z"
 related to:
   - "[[GitHub - 1277554687]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a real-time heatmap overlay in the file explorer to highlight recently modified files using color and vertical block density that reflect age. Show numeric day counts for items modified within two weeks, hide indicators for older files to keep the sidebar minimal, and require no hotkeys or popups. Customize the 30-day color scale and block density to match your workflow."
 
     stats: {
-        downloads:  112
+        downloads:  133
         updated_at: 1782181719000
     }
 }

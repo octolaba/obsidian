@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/bookmarker
 alt:
   - https://github.com/istefox/obsidian-bookmarker
-downloads: 357
-updated at: "2026-07-11T21:47:52Z"
+downloads: 476
+updated at: "2026-08-02T20:04:45Z"
 related to:
   - "[[GitHub - 1268753735]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Save web pages into your vault as clean Markdown notes with a preview image, AI-proposed tags and a suggested destination folder, all kept locally with no external backend. Review and edit title, tags and folder before saving, browse bookmarks in a cover-style board, detect duplicates, auto-detect content type and check broken links."
 
     stats: {
-        downloads:  357
-        updated_at: 1783806472000
+        downloads:  476
+        updated_at: 1785701085000
     }
 }
 ```

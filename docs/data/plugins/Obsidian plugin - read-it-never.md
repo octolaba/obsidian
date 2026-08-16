@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/read-it-never
 alt:
   - https://github.com/leweii/read-it-never
-downloads: 134
+downloads: 173
 updated at: "2026-07-10T05:41:21Z"
 related to:
   - "[[GitHub - 1283907003]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Archive web pages and media into your Vault as Markdown notes using dedicated templates for articles, videos, social posts and more. Download images, process URL batches, and apply a simple template engine with predefined variables for consistent archiving on desktop and mobile."
 
     stats: {
-        downloads:  134
+        downloads:  173
         updated_at: 1783662081000
     }
 }

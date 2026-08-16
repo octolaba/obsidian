@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pomodoro-widget
 alt:
   - https://github.com/gvvim/obsidian-pomodoro-widget
-downloads: 8362
+downloads: 8499
 updated at: "2025-11-24T05:01:35Z"
 related to:
   - "[[GitHub - 720235029]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a pomodoro clock widget to Obsidian that mimics a wind-up kitchen timer, supports manual winding or button-set timers, and resets automatically. Start a stopwatch, drag and anchor the widget to window corners for resizing, and place the toggle in the ribbon, status bar, or as a command while styling adapts to your theme."
 
     stats: {
-        downloads:  8362
+        downloads:  8499
         updated_at: 1763960495000
     }
 }

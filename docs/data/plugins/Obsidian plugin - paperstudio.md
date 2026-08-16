@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/paperstudio
 alt:
   - https://github.com/naros899/obsidian-paperstudio
-downloads: 327
+downloads: 333
 updated at: "2026-03-02T03:39:53Z"
 related to:
   - "[[GitHub - 1149481932]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish Obsidian notes to Paper Studio as shareable, branded HTML documents. Upload local images (PNG/JPEG/GIF/WebP/SVG) automatically, convert Markdown to styled HTML using your Paper Studio brand, and copy the shareable link to your clipboard."
 
     stats: {
-        downloads:  327
+        downloads:  333
         updated_at: 1772422793000
     }
 }

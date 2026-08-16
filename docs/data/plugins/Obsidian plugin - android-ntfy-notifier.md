@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/android-ntfy-notifier
 alt:
   - https://github.com/arias007/obsidian-ntfy
-downloads: 137
-updated at: "2026-06-27T14:27:28Z"
+downloads: 326
+updated at: "2026-08-11T09:17:17Z"
 related to:
   - "[[GitHub - 1275928133]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Send ntfy push notifications from Obsidian by scanning unchecked tasks and standalone reminder lines in Markdown, supporting multiple reminder syntaxes and date/time formats. Manage queued, scheduled, and delivered notifications in an internal notification manager and schedule delayed alerts; optionally route notifications through AI webhooks."
 
     stats: {
-        downloads:  137
-        updated_at: 1782570448000
+        downloads:  326
+        updated_at: 1786439837000
     }
 }
 ```

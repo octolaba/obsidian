@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/note-sync
 alt:
   - https://github.com/zigholding/obsidian-notesync-plugin
-downloads: 832
-updated at: "2026-01-04T14:13:48Z"
+downloads: 943
+updated at: "2026-08-08T15:55:48Z"
 related to:
   - "[[GitHub - 790213931]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync files and folders to another vault, copying notes, embedded attachments and folder structure while overwriting only if the source is newer. Export plugins (with optional data.json) and export notes as README with asset and metadata options; download files or folders from configured Git repositories by selecting items or \"all\"."
 
     stats: {
-        downloads:  832
-        updated_at: 1767536028000
+        downloads:  943
+        updated_at: 1786204548000
     }
 }
 ```

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/graph-insight
 alt:
   - https://github.com/n23eos/advanced_graph_view
-downloads: 201
-updated at: "2026-07-21T00:45:57Z"
+downloads: 1667
+updated at: "2026-08-10T07:03:53Z"
 related to:
   - "[[GitHub - 1306506008]]"
 remind me:
@@ -28,7 +28,7 @@ An alternative graph view for large vaults that draws a WebGL graph in which nod
 plugin: {
     id:     "graph-insight"
     name:   "Advanced Graph View"
-    author: "N23eos"
+    author: "n23eos"
     repo:   "n23eos/advanced_graph_view"
 
     html_url:    "https://community.obsidian.md/plugins/graph-insight"
@@ -37,8 +37,8 @@ plugin: {
     about:       "Visualize large vaults with a high-performance WebGL graph that maps usage, hubs, orphaned notes, and missing links using metric-driven node size, color, and glow. Reveal clusters and track local opens and timeline, and filter or zoom into N‑hop neighborhoods for focused analysis."
 
     stats: {
-        downloads:  201
-        updated_at: 1784594757000
+        downloads:  1667
+        updated_at: 1786345433000
     }
 }
 ```

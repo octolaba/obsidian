@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/calendar
 alt:
   - https://github.com/liamcain/obsidian-calendar-plugin
-downloads: 2924349
+downloads: 2992761
 updated at: "2021-04-20T18:50:01Z"
 related to:
   - "[[GitHub - 288880289]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a monthly calendar in the sidebar to navigate and open daily and weekly notes. Create new daily/weekly notes from your template and visualize writing with up to five dots that reflect each day's word count."
 
     stats: {
-        downloads:  2924349
+        downloads:  2992761
         updated_at: 1618944601000
     }
 }

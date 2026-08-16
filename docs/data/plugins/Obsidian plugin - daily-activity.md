@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-activity
 alt:
   - https://github.com/trydalch/obsidian-daily-activity
-downloads: 17073
+downloads: 17370
 updated at: "2025-04-12T01:02:34Z"
 related to:
   - "[[GitHub - 338215842]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track daily file activity and insert linked or plain-text lists of files created or modified between dates using natural-language date ranges. Generate stats tables, recent activity logs, daily summaries and weekly overviews to record edits, event types, and content changes alongside your daily notes."
 
     stats: {
-        downloads:  17073
+        downloads:  17370
         updated_at: 1744419754000
     }
 }

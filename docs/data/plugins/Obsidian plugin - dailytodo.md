@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dailytodo
 alt:
   - https://github.com/aaronarcade/Obsidian-Daily-Todo
-downloads: 110
+downloads: 162
 updated at: "2026-06-15T00:14:13Z"
 related to:
   - "[[GitHub - 1264524856]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create dated TODO files in a dedicated folder and open today's TODO with one click. Roll incomplete items from the # TODO section into the next file while preserving nested content and adding frontmatter metadata that links to the source."
 
     stats: {
-        downloads:  110
+        downloads:  162
         updated_at: 1781482453000
     }
 }

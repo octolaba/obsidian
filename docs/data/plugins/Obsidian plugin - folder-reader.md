@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-reader
 alt:
   - https://github.com/jagajaga/obsidian-folder-reader
-downloads: 171
+downloads: 205
 updated at: "2026-06-09T18:47:36Z"
 related to:
   - "[[GitHub - 1264294150]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Read all notes in a folder together in one continuous, scrolling view, rendering each Markdown file sequentially with filename headers. Open any folder via the explorer context menu or command palette to assemble the view in name order. Load large folders lazily, keep clickable titles, and preserve wikilinks, embeds, and images."
 
     stats: {
-        downloads:  171
+        downloads:  205
         updated_at: 1781030856000
     }
 }

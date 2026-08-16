@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lds-scriptures-reference
 alt:
   - https://github.com/pacokwon/obsidian-lds-library-plugin
-downloads: 4022
+downloads: 4042
 updated at: "2026-04-07T16:19:38Z"
 related to:
   - "[[GitHub - 638174127]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert scripture verses and General Conference selections into notes using short inline references and callouts. Support the standard works (KJV Bible, Book of Mormon, Doctrine and Covenants, Pearl of Great Price) and generate verse ranges with the :Book Chapter:Verse: syntax (English book titles required)."
 
     stats: {
-        downloads:  4022
+        downloads:  4042
         updated_at: 1775578778000
     }
 }

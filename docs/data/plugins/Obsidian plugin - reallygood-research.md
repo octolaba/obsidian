@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/reallygood-research
 alt:
   - https://github.com/reallygood83/reallygood-research
-downloads: 267
+downloads: 670
 updated at: "2026-07-08T00:50:34Z"
 related to:
   - "[[GitHub - 1291599887]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish deep-research reports from Obsidian to Tavily or NotebookLM MCP and save results directly into your vault. Open the deep-research console to generate Markdown notes, optional HTML reports and JSON history, and call local AI CLIs or provider APIs while keeping keys and tools on your machine."
 
     stats: {
-        downloads:  267
+        downloads:  670
         updated_at: 1783471834000
     }
 }

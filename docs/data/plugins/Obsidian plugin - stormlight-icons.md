@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/stormlight-icons
 alt:
   - https://github.com/eonfuzz/stormlight-actions
-downloads: 121
+downloads: 130
 updated at: "2025-12-12T10:15:28Z"
 related to:
   - "[[GitHub - 1115082503]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render inline code tokens like `strm:r` as styled action-icon glyphs in Reading mode and Live Preview. Type simple case-insensitive tokens using the strm:<token> pattern (e.g. r, 1, u, f, o, c) to keep searchable text while showing compact CSS glyphs."
 
     stats: {
-        downloads:  121
+        downloads:  130
         updated_at: 1765534528000
     }
 }

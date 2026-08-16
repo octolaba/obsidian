@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-collapse-inactive-folders
 alt:
   - https://github.com/somehowitworks/auto-collapse-inactive-folders
-downloads: 184
+downloads: 219
 updated at: "2026-03-10T17:32:13Z"
 related to:
   - "[[GitHub - 1178065310]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Collapse inactive folders to keep the file explorer focused on the current note. Keep the folder containing the active note expanded while folding all others for a cleaner, easier-to-navigate file list."
 
     stats: {
-        downloads:  184
+        downloads:  219
         updated_at: 1773163933000
     }
 }

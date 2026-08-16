@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/linked-note-exporter
 alt:
   - https://github.com/the-c0d3r/obsidian-linked-note-exporter
-downloads: 8166
+downloads: 8469
 updated at: "2026-01-25T11:08:25Z"
 related to:
   - "[[GitHub - 1006135839]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export a note and all its attachments and linked notes into a single folder or ZIP for easy sharing. Follow WikiLinks and Markdown links across selectable link depth, preserve folder structure or organize linked notes by headers and include backlinks for full context."
 
     stats: {
-        downloads:  8166
+        downloads:  8469
         updated_at: 1769339305000
     }
 }

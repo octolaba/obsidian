@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/taggr-sync
 alt:
   - https://github.com/taggrobs/obsidian-taggr-sync
-downloads: 93
+downloads: 101
 updated at: "2026-05-17T07:24:13Z"
 related to:
   - "[[GitHub - 1203090523]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish notes from Obsidian to Taggr and pull Taggr posts back into your vault as Markdown, auto-organized into realm subfolders. Sync images, comments, and bidirectional backlinks; display post status, direct links, and cost in frontmatter and publish/unpublish from your files."
 
     stats: {
-        downloads:  93
+        downloads:  101
         updated_at: 1779002653000
     }
 }

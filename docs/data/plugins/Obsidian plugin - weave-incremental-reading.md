@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/weave-incremental-reading
 alt:
   - https://github.com/zhuzhige123/Obsidian-Weave-incremental-reading
-downloads: 533
-updated at: "2026-07-23T06:38:47Z"
+downloads: 899
+updated at: "2026-08-10T19:20:32Z"
 related to:
   - "[[GitHub - 1243158756]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create reading points from documents, selections, or external sources and group them into .irdeck topics for sustainable incremental reading. Schedule and view reading points on a calendar, set daily limits and time budgets, track reading progress, and jump back to the original source to continue."
 
     stats: {
-        downloads:  533
-        updated_at: 1784788727000
+        downloads:  899
+        updated_at: 1786389632000
     }
 }
 ```

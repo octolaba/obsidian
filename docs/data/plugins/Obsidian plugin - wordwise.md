@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wordwise
 alt:
   - https://github.com/ckt1031/obsidian-wordwise-plugin
-downloads: 7494
+downloads: 8037
 updated at: "2025-07-11T10:57:23Z"
 related to:
   - "[[GitHub - 657906698]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Improve your writing with AI-powered editing, rewriting, and prompt-driven suggestions directly inside Obsidian. Experiment with built-in or file-based custom prompts and connect to OpenAI, Gemini, Cohere, Anthropic, DeepSeek, or OpenRouter for a lightweight, mobile-friendly AI workflow."
 
     stats: {
-        downloads:  7494
+        downloads:  8037
         updated_at: 1752231443000
     }
 }

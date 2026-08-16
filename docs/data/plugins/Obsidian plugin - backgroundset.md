@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/backgroundset
 alt:
   - https://github.com/youngmoss/obsidian-backgroundset
-downloads: 2003
+downloads: 2037
 updated at: "2024-12-29T08:39:36Z"
 related to:
   - "[[GitHub - 908839446]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage workspace backgrounds by adding image folders and setting specific or random images as the background. Apply smooth fade-in and fade-out transitions for seamless background changes."
 
     stats: {
-        downloads:  2003
+        downloads:  2037
         updated_at: 1735461576000
     }
 }

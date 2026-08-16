@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/url-into-selection
 alt:
   - https://github.com/denolehov/obsidian-url-into-selection
-downloads: 476523
+downloads: 483812
 updated at: "2025-08-27T21:42:49Z"
 related to:
   - "[[GitHub - 307866560]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Paste URLs into selected text using Ctrl/Cmd+V to turn the selection into a Markdown link Notion-style. Insert text into a selected URL via the command palette to replace the link label. Run on Obsidian v0.9.8+."
 
     stats: {
-        downloads:  476523
+        downloads:  483812
         updated_at: 1756330969000
     }
 }

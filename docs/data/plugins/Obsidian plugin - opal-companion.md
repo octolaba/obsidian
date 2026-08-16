@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/opal-companion
 alt:
   - https://github.com/cyriusweng/opal-companion
-downloads: 33
+downloads: 53
 updated at: "2026-07-15T08:32:59Z"
 related to:
   - "[[GitHub - 1301385487]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add live-preview controls for Opal theme per-note options and layouts. Apply page states, recolours, callouts, coloured highlights, task states, and image layouts with one click while previewing the rendered effect."
 
     stats: {
-        downloads:  33
+        downloads:  53
         updated_at: 1784104379000
     }
 }

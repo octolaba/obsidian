@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-tasks
 alt:
   - https://github.com/jamiefdhurst/obsidian-auto-tasks
-downloads: 6458
+downloads: 6684
 updated at: "2026-07-23T08:47:43Z"
 related to:
   - "[[GitHub - 851089698]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Carry over incomplete tasks from previous daily or weekly periodic notes into new notes to keep TODOs current. Insert a tasks header, preserve original dates as due dates, search specific headers, and collect tasks across your vault into a synced Kanban board."
 
     stats: {
-        downloads:  6458
+        downloads:  6684
         updated_at: 1784796463000
     }
 }

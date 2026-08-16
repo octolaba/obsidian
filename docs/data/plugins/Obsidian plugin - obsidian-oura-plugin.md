@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-oura-plugin
 alt:
   - https://github.com/kinabalu/obsidian-oura-plugin
-downloads: 5685
+downloads: 5760
 updated at: "2025-08-18T05:48:21Z"
 related to:
   - "[[GitHub - 418349662]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add Oura Ring sleep, readiness, activity, and body metrics to any Obsidian note for a chosen date. Fetch data from your Oura account using a personal access token and insert metrics automatically for pages dated YYYY-MM-DD or for today's date."
 
     stats: {
-        downloads:  5685
+        downloads:  5760
         updated_at: 1755496101000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/embed-eml
 alt:
   - https://github.com/useroption3/obsidian-embed-eml
-downloads: 145
+downloads: 202
 updated at: "2026-07-17T10:25:57Z"
 related to:
   - "[[GitHub - 1269276839]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed .eml files inline with ![[file.eml]] or open emails full-width in their own tab. Display subject, sender/recipients, date, formatted body and attachments; render HTML in a sandboxed iframe, resolve cid images, and block remote images by default with a Load images button."
 
     stats: {
-        downloads:  145
+        downloads:  202
         updated_at: 1784283957000
     }
 }

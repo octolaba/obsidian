@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tv-tracker
 alt:
   - https://github.com/shreshth-mehra/Obsidian-TV-Tracker
-downloads: 4327
+downloads: 4384
 updated at: "2025-04-11T07:28:28Z"
 related to:
   - "[[GitHub - 750579332]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track movies and TV shows in your vault by searching and adding titles to a library with status and ratings. Add episode lists to the current file, fetch new seasons and episodes, update metadata and country-specific streaming availability with OTT provider filters, and add titles from anywhere via a command."
 
     stats: {
-        downloads:  4327
+        downloads:  4384
         updated_at: 1744356508000
     }
 }

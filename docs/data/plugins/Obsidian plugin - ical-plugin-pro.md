@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ical-plugin-pro
 alt:
   - https://github.com/liuh886/obsidian-ical-plugin-pro
-downloads: 347
+downloads: 414
 updated at: "2026-06-24T03:42:56Z"
 related to:
   - "[[GitHub - 1199480144]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Markdown tasks and daily notes to standards-compliant iCalendar feeds for Google Calendar, Apple Calendar, and Outlook. Keep data local with optional GitHub Gist sync, strict RFC 5545 compliance, and intelligent VEVENT/VTODO splitting that preserves stable UIDs and task metadata."
 
     stats: {
-        downloads:  347
+        downloads:  414
         updated_at: 1782272576000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/css-inserter
 alt:
   - https://github.com/erallie/css-inserter
-downloads: 1524
+downloads: 1548
 updated at: "2024-12-11T16:52:15Z"
 related to:
   - "[[GitHub - 835487076]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert user-defined CSS snippets into selected text by specifying HTML tag, class, and inline style for each snippet. Apply or remove snippets from the editor via the context menu or command palette."
 
     stats: {
-        downloads:  1524
+        downloads:  1548
         updated_at: 1733935935000
     }
 }

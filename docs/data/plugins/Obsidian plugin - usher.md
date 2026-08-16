@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/usher
 alt:
   - https://github.com/vrtmrz/usher
-downloads: 600
+downloads: 625
 updated at: "2024-12-03T09:36:14Z"
 related to:
   - "[[GitHub - 888546692]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage multiple .obsidian directories and visually compare overridden configs in a dedicated Usher pane with diff highlights showing newer or unchanged files. Apply selected entries to the current device using automatic selection rules, filters and optional JSON merging."
 
     stats: {
-        downloads:  600
+        downloads:  625
         updated_at: 1733218574000
     }
 }

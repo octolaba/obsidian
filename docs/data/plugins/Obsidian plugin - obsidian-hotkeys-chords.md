@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-hotkeys-chords
 alt:
   - https://github.com/trenta3/obsidian-hotkeys-chords
-downloads: 4380
+downloads: 4395
 updated at: "2022-02-22T22:44:55Z"
 related to:
   - "[[GitHub - 458654942]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set hotkey chords (sequences of keystrokes) to trigger any Obsidian command, including commands exported by other plugins. Bind Emacs-style sequences like C-x C-s to commands to create sequential keybindings."
 
     stats: {
-        downloads:  4380
+        downloads:  4395
         updated_at: 1645569895000
     }
 }

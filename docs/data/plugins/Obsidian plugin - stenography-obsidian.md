@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/stenography-obsidian
 alt:
   - https://github.com/bramses/stenography-obsidian
-downloads: 4892
+downloads: 4904
 updated at: "2021-10-28T14:47:48Z"
 related to:
   - "[[GitHub - 409388755]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Translate selected code blocks into plain English and detect the programming language. Trigger translations from the Stenography ribbon icon to receive readable explanations for highlighted code."
 
     stats: {
-        downloads:  4892
+        downloads:  4904
         updated_at: 1635432468000
     }
 }

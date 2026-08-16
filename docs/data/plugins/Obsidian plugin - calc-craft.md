@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/calc-craft
 alt:
   - https://github.com/klaudyu/CalcCraft
-downloads: 21577
+downloads: 22062
 updated at: "2026-02-16T18:52:46Z"
 related to:
   - "[[GitHub - 709389996]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add spreadsheet-style formulas to Markdown tables and compute values using mathjs functions. Keep formulas visible while editing with live overlays, and replace them with computed results in preview or reading mode. Use a1 and column-row references, matrix ranges that expand into cells, and highlight parent cells that influence a result."
 
     stats: {
-        downloads:  21577
+        downloads:  22062
         updated_at: 1771267966000
     }
 }

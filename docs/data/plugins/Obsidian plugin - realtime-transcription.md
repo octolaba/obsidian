@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/realtime-transcription
 alt:
   - https://github.com/garetneda-gif/obsidian-realtime-transcription
-downloads: 332
-updated at: "2026-07-15T17:15:31Z"
+downloads: 424
+updated at: "2026-08-06T14:09:08Z"
 related to:
   - "[[GitHub - 1170679937]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Transcribe speech locally in real time with SenseVoice‑Small, Silero VAD and sherpa‑onnx, providing live preview and toggleable stable/fast modes. Detect Chinese, English, Japanese, Korean and Cantonese, translate non‑Chinese to Chinese via OpenAI‑compatible APIs, apply AI polishing and auto-summaries, and export timestamped Obsidian Markdown with persistent history."
 
     stats: {
-        downloads:  332
-        updated_at: 1784135731000
+        downloads:  424
+        updated_at: 1786025348000
     }
 }
 ```

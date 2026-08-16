@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/block-step-reader
 alt:
   - https://github.com/gorf/obsidian-block-step-reader
-downloads: 211
-updated at: "2026-06-22T08:26:23Z"
+downloads: 287
+updated at: "2026-08-02T12:52:19Z"
 related to:
   - "[[GitHub - 1266074216]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Navigate markdown by block with keyboard step-reading and auto-center the current block for focused, Reader-style reading. Highlight the active block, show reading progress and time-remaining, and manage a library sidebar to filter, sort, and mark notes read/unread while saving per-user reading position."
 
     stats: {
-        downloads:  211
-        updated_at: 1782116783000
+        downloads:  287
+        updated_at: 1785675139000
     }
 }
 ```

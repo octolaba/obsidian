@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/latex-symbol-picker
 alt:
   - https://github.com/ryxwaer/obsidian-latex-symbol-picker
-downloads: 226
+downloads: 306
 updated at: "2026-06-14T10:03:58Z"
 related to:
   - "[[GitHub - 1260264099]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Draw or search for LaTeX symbols and insert them at the cursor in your note. Auto-wrap commands in $...$ when the cursor isn't inside a math context and work fully offline with a built-in classifier that includes only symbols renderable by Obsidian's MathJax."
 
     stats: {
-        downloads:  226
+        downloads:  306
         updated_at: 1781431438000
     }
 }

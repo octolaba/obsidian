@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note_uid_generator
 alt:
   - https://github.com/netajam/obsidian_note_uid_generator
-downloads: 2713
+downloads: 2862
 updated at: "2026-04-27T20:14:22Z"
 related to:
   - "[[GitHub - 963147511]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate and manage unique identifiers in note frontmatter metadata to create stable references for linking, scripting, or external systems. Choose UUIDv4, customizable NanoID, or lexicographic ULID; perform manual, automatic, or bulk add/remove actions, copy UIDs or title+UIDs, and prevent collisions with built-in duplicate detection."
 
     stats: {
-        downloads:  2713
+        downloads:  2862
         updated_at: 1777320862000
     }
 }

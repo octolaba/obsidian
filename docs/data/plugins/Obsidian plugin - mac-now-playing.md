@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mac-now-playing
 alt:
   - https://github.com/hajorda/obsidian-mac-now-playing
-downloads: 184
+downloads: 298
 updated at: "2026-06-05T14:18:49Z"
 related to:
   - "[[GitHub - 1260410024]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display the currently playing song from Spotify or Apple Music in Obsidian's status bar. Click the item to open an interactive popover with album art, live progress and media controls, and choose a custom status icon — works natively via AppleScript with no API keys or internet."
 
     stats: {
-        downloads:  184
+        downloads:  298
         updated_at: 1780669129000
     }
 }

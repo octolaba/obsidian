@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gpg-encrypt
 alt:
   - https://github.com/lajg-dev/Obsidian-Plugin-GPG-Inline-Encrypt
-downloads: 3215
+downloads: 3265
 updated at: "2026-05-30T22:57:46Z"
 related to:
   - "[[GitHub - 739091759]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Encrypt selected text or entire notes using the GPG executable installed on your system. Select recipient keys from your OS keyring and optionally sign the encrypted output with your private key. Perform inline (selected block) or full-document encryption via native GPG."
 
     stats: {
-        downloads:  3215
+        downloads:  3265
         updated_at: 1780181866000
     }
 }

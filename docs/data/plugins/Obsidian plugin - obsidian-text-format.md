@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-text-format
 alt:
   - https://github.com/benature/obsidian-text-format
-downloads: 217705
+downloads: 222832
 updated at: "2024-06-17T06:10:08Z"
 related to:
   - "[[GitHub - 373355885]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format selected text or note titles to lowercase, uppercase, capitalize, title case, cycle cases, or convert to slug/snake case. Clean redundant spaces and newlines, fix Markdown headings, convert citation indexes for academic notes, and offer experimental format-on-paste."
 
     stats: {
-        downloads:  217705
+        downloads:  222832
         updated_at: 1718604608000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/blockquote-levels
 alt:
   - https://github.com/czottmann/obsidian-blockquote-levels
-downloads: 5655
+downloads: 5691
 updated at: "2022-09-28T16:13:25Z"
 related to:
   - "[[GitHub - 534687191]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Increase or decrease Markdown blockquote levels on the current line or selection(s) using simple commands. Add repeated '>' prefixes to raise levels or remove a single leading '>' per line to lower levels, with multi-line and mixed-level handling."
 
     stats: {
-        downloads:  5655
+        downloads:  5691
         updated_at: 1664381605000
     }
 }

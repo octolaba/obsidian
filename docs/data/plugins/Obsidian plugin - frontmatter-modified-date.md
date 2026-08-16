@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/frontmatter-modified-date
 alt:
   - https://github.com/alangrainger/obsidian-frontmatter-modified-date
-downloads: 52926
+downloads: 54290
 updated at: "2026-05-27T13:23:40Z"
 related to:
   - "[[GitHub - 673024074]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Update a frontmatter modified field whenever you edit a note inside Obsidian, using editor events instead of filesystem modification time. Choose a custom YAML field and MomentJS date format, exclude folders or files from updates, and optionally append each edit timestamp to a history array."
 
     stats: {
-        downloads:  52926
+        downloads:  54290
         updated_at: 1779888220000
     }
 }

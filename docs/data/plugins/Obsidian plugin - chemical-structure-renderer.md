@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chemical-structure-renderer
 alt:
   - https://github.com/xaya1001/obsidian-Chemical-Structure-Renderer
-downloads: 6347
+downloads: 6404
 updated at: "2025-02-04T10:06:51Z"
 related to:
   - "[[GitHub - 649044324]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render chemical structures from SMILES code blocks directly in Obsidian's live preview using Ketcher and Indigo. Display inline molecular diagrams via the bundled Ketcher+Indigo render service or a self-hosted server. Avoid running other SMILES transformers (e.g., Obsidian-Chem) to prevent conflicts."
 
     stats: {
-        downloads:  6347
+        downloads:  6404
         updated_at: 1738663611000
     }
 }

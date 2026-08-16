@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/no-dupe-leaves
 alt:
   - https://github.com/scambier/obsidian-no-dupe-leaves
-downloads: 13940
+downloads: 13985
 updated at: "2024-07-13T10:55:26Z"
 related to:
   - "[[GitHub - 485508174]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Prevent duplicate panes by switching focus to an already-open note instead of reopening it. Respect deliberate \"open in new pane\" actions (e.g., middle-click). Modify link-opening behavior, which may affect other plugins that call the same function."
 
     stats: {
-        downloads:  13940
+        downloads:  13985
         updated_at: 1720868126000
     }
 }

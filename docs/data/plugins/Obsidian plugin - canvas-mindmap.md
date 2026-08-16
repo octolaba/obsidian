@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-mindmap
 alt:
   - https://github.com/quorafind/Obsidian-Canvas-MindMap
-downloads: 147347
+downloads: 150549
 updated at: "2024-09-04T02:47:03Z"
 related to:
   - "[[GitHub - 576280147]]"
@@ -28,7 +28,7 @@ Canvas Mindmap makes a canvas behave like a mindmap, with hierarchical nodes and
 plugin: {
     id:     "canvas-mindmap"
     name:   "Canvas Mindmap"
-    author: "quorafind"
+    author: "Boninall"
     repo:   "quorafind/Obsidian-Canvas-MindMap"
 
     html_url:    "https://community.obsidian.md/plugins/canvas-mindmap"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create mind maps on Obsidian canvases with hierarchical nodes and auto-layout for specific directions. Add child, sibling, or floating nodes with hotkeys, navigate between nodes, select node subtrees, and change node edge colors for visual grouping."
 
     stats: {
-        downloads:  147347
+        downloads:  150549
         updated_at: 1725418023000
     }
 }

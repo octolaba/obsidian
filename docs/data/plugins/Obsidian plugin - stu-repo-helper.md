@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/stu-repo-helper
 alt:
   - https://github.com/yingflower/obsidian-stu-repo-helper
-downloads: 487
+downloads: 495
 updated at: "2025-03-28T03:48:18Z"
 related to:
   - "[[GitHub - 895855804]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert photos of exams, notes, or artworks into editable Markdown and auto-organize them by capture order. Analyze key problems and drawings with AI to generate summaries and new practice questions, and provide English study tools like TTS, translation, vocabulary tracking, and grammar analysis."
 
     stats: {
-        downloads:  487
+        downloads:  495
         updated_at: 1743133698000
     }
 }

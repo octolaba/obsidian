@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-kanban
 alt:
   - https://github.com/denis2710/simple-kanban
-downloads: 269
+downloads: 297
 updated at: "2026-02-16T22:30:14Z"
 related to:
   - "[[GitHub - 1159566395]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize notes as Kanban cards in configurable columns driven by a frontmatter status property. Drag and drop to update files instantly, scan folders recursively for .md notes, show custom frontmatter fields on cards, and use special columns for missing or unknown statuses."
 
     stats: {
-        downloads:  269
+        downloads:  297
         updated_at: 1771281014000
     }
 }

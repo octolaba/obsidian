@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/secret-placeholders
 alt:
   - https://github.com/lai2301/obsidian-secret-placeholders
-downloads: 209
+downloads: 255
 updated at: "2026-07-07T05:42:03Z"
 related to:
   - "[[GitHub - 1244507386]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reference secrets from your password manager using inline placeholders and display live values only inside Obsidian. Keep only placeholders in Markdown files so secrets never appear on disk, in git history, or backups; supports OpenBao/HashiCorp Vault, 1Password Connect, and Bitwarden/Vaultwarden."
 
     stats: {
-        downloads:  209
+        downloads:  255
         updated_at: 1783402923000
     }
 }

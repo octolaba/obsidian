@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ketcher
 alt:
   - https://github.com/yulei-chen/obsidian-ketcher
-downloads: 8970
+downloads: 9043
 updated at: "2023-08-22T02:55:25Z"
 related to:
   - "[[GitHub - 626411108]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Draw and view chemical structures and reactions inside Obsidian using the Ketcher web-based sketcher. Embed editable molecular sketches into notes and render reactions inline for easy reference."
 
     stats: {
-        downloads:  8970
+        downloads:  9043
         updated_at: 1692672925000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/url-enricher
 alt:
   - https://github.com/mattmarotta/obsidian-url-enricher
-downloads: 354
+downloads: 404
 updated at: "2025-11-11T16:20:19Z"
 related to:
   - "[[GitHub - 1072584554]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform plain URLs into rich, non-destructive previews showing title, description, site name and favicon while keeping your Markdown source unchanged. Display compact inline or detailed card styles with cursor-aware editing, automatic metadata fetching, per-page frontmatter overrides, and special handling for common sites. Use in Live Preview mode only."
 
     stats: {
-        downloads:  354
+        downloads:  404
         updated_at: 1762878019000
     }
 }

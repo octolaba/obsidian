@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/recipe-vault
 alt:
   - https://github.com/taylorsdugger/obsidian-recipe-vault
-downloads: 462
+downloads: 884
 updated at: "2026-07-08T16:08:52Z"
 related to:
   - "[[GitHub - 1183654743]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage recipes in your vault: import from URLs (JSON-LD) or add recipes manually, then browse your collection in a visual gallery. Build shopping lists from ingredients with unit merging, track when recipes were made, and edit notes with AI or Handlebars templates."
 
     stats: {
-        downloads:  462
+        downloads:  884
         updated_at: 1783526932000
     }
 }

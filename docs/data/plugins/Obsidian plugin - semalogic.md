@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/semalogic
 alt:
   - https://github.com/mm-go/UseSemaLogic
-downloads: 1443
-updated at: "2026-07-08T17:20:05Z"
+downloads: 1470
+updated at: "2026-07-31T07:18:41Z"
 related to:
   - "[[GitHub - 726163821]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Use SemaLogic in Obsidian to convert between natural, technical and practical logic representations without losing relationships. Display technical language and realtime diagrams, preview SemaLogic commands as HTML, and send problems to a SemaLogic service for solving."
 
     stats: {
-        downloads:  1443
-        updated_at: 1783531205000
+        downloads:  1470
+        updated_at: 1785482321000
     }
 }
 ```

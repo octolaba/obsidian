@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/porygon
 alt:
   - https://github.com/iuga/obsidian-porygon
-downloads: 442
-updated at: "2026-07-21T13:27:18Z"
+downloads: 482
+updated at: "2026-07-24T13:50:37Z"
 related to:
   - "[[GitHub - 1228999271]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Turn your vault into a local chat workspace by connecting Obsidian to an Ollama model and stream Markdown responses as they generate. Mention notes to include their latest content as chat context, search and filter files, and use built-in tools to list, view, search, or edit Markdown notes while keeping processing local for privacy."
 
     stats: {
-        downloads:  442
-        updated_at: 1784640438000
+        downloads:  482
+        updated_at: 1784901037000
     }
 }
 ```

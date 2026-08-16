@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cards-for-links
 alt:
   - https://github.com/mats324/cards4links
-downloads: 202
+downloads: 247
 updated at: "2026-07-11T10:48:03Z"
 related to:
   - "[[GitHub - 1276979965]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Paste URLs to create rich card-styled links with title, description, thumbnail, favicon, and host directly in your editor. Auto-fetch Open Graph metadata for instant previews, choose Card/Compact/Minimal layouts, position or hide thumbnails, mark videos as Watched and articles as Read, and group cards."
 
     stats: {
-        downloads:  202
+        downloads:  247
         updated_at: 1783766883000
     }
 }

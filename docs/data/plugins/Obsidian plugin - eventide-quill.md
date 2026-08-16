@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/eventide-quill
 alt:
   - https://github.com/eventidemiles/eventide-quill
-downloads: 137
-updated at: "2026-07-23T17:41:33Z"
+downloads: 319
+updated at: "2026-08-02T12:03:02Z"
 related to:
   - "[[GitHub - 1268042139]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Improve novel prose with deterministic lints, AI editorial feedback, in-place rewrites, and strict style constraints. Build manuscript intelligence with automatic character/location/plot extraction, lorebook coaching, pacing and dialogue analytics, and local-model-first operation."
 
     stats: {
-        downloads:  137
-        updated_at: 1784828493000
+        downloads:  319
+        updated_at: 1785672182000
     }
 }
 ```

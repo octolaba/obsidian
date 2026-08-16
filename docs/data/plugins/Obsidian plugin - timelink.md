@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/timelink
 alt:
   - https://github.com/korioinc/obsidian-timelink
-downloads: 261
+downloads: 324
 updated at: "2026-07-10T20:04:46Z"
 related to:
   - "[[GitHub - 1136526614]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect calendar, timeline, kanban boards and a board-level Gantt to manage dated work and schedules in one place. Create notes and events from kanban cards, keep backlinks in sync, apply per-board colors, and review tasks from daily views up to a year-based Gantt overview."
 
     stats: {
-        downloads:  261
+        downloads:  324
         updated_at: 1783713886000
     }
 }

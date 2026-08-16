@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/feishu-inbox
 alt:
   - https://github.com/qqyzk/feishu-obsidian-inbox
-downloads: 98
+downloads: 137
 updated at: "2026-06-27T07:01:16Z"
 related to:
   - "[[GitHub - 1280121713]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync quick notes from a Feishu/Lark group chat into a vault-relative Markdown inbox with one click in Obsidian. Pull new messages manually, avoid duplicate imports, and ignore system events while using your own Feishu/Lark custom app with secrets stored locally."
 
     stats: {
-        downloads:  98
+        downloads:  137
         updated_at: 1782543676000
     }
 }

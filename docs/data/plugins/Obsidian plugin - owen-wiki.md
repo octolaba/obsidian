@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/owen-wiki
 alt:
   - https://github.com/towishy/owen-wiki-plugin
-downloads: 60
+downloads: 75
 updated at: "2026-06-11T13:20:42Z"
 related to:
   - "[[GitHub - 1266181842]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Install the Owen-WIKI Template Kit into the active vault and create a complete LLM wiki structure with starter pages, ontology and page templates, automation scripts, assets, and an optional GitHub Actions workflow. Choose presets to provision Minimal, Standard, Full, or Custom setups."
 
     stats: {
-        downloads:  60
+        downloads:  75
         updated_at: 1781184042000
     }
 }

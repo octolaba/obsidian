@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/heading-link-copy
 alt:
   - https://github.com/wilmtang/obsidian-heading-linker
-downloads: 177
+downloads: 232
 updated at: "2026-07-11T00:18:57Z"
 related to:
   - "[[GitHub - 1237411542]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy markdown links to specific headings from the editor or outline via right-click. Choose relative or full-vault paths and include parent headings to create hierarchical anchors or link only the target heading."
 
     stats: {
-        downloads:  177
+        downloads:  232
         updated_at: 1783729137000
     }
 }

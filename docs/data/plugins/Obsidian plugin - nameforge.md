@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/nameforge
 alt:
   - https://github.com/kennyrn/nameForge
-downloads: 41
-updated at: "2026-07-05T19:12:27Z"
+downloads: 78
+updated at: "2026-08-04T17:43:16Z"
 related to:
   - "[[GitHub - 1288106443]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Feed it a list of names, let it work out the Markov Magic, and generate fresh names right inside Obsidian. It studies how each name is built, recombines the segments, and produces believable variations for characters, places, or stand-in data."
 
     stats: {
-        downloads:  41
-        updated_at: 1783278747000
+        downloads:  78
+        updated_at: 1785865396000
     }
 }
 ```

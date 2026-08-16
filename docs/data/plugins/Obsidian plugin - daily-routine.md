@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-routine
 alt:
   - https://github.com/sechan100/daily-routine-2
-downloads: 1829
+downloads: 2353
 updated at: "2025-12-31T05:22:39Z"
 related to:
   - "[[GitHub - 862061779]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage recurring routines and one-off todos with auto-generated daily routine notes that record tasks by date. View routines and todos on a calendar and track completion with visual statistics to monitor consistency. Access on mobile to manage routines anywhere."
 
     stats: {
-        downloads:  1829
+        downloads:  2353
         updated_at: 1767158559000
     }
 }

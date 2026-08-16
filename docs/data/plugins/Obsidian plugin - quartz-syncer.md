@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quartz-syncer
 alt:
   - https://github.com/saberzero1/quartz-syncer
-downloads: 10236
+downloads: 10693
 updated at: "2026-06-08T14:50:15Z"
 related to:
   - "[[GitHub - 732809972]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish notes to Quartz static sites from Obsidian via Git providers (GitHub, GitLab, Bitbucket, Codeberg, Gitea, Forgejo or self-hosted). Compile Dataview, Datacore and Fantasy Statblocks queries into static content with smart caching and automatic recompilation for dynamic data. Preview exact diffs in split or unified view and selectively publish, update or remove notes while automating workflows via the Obsidian CLI."
 
     stats: {
-        downloads:  10236
+        downloads:  10693
         updated_at: 1780930215000
     }
 }

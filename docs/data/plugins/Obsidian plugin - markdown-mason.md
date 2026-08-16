@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/markdown-mason
 alt:
   - https://github.com/mmomm-org/obsidian-markdown-mason
-downloads: 197
-updated at: "2026-07-13T07:24:27Z"
+downloads: 234
+updated at: "2026-07-23T15:20:25Z"
 related to:
   - "[[GitHub - 1271052309]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Markdown Mason helps you to keep your notes formatted in a way you like. When you paste a web source into an existing note, the heading levels rarely match and citation numbers restart from [1], colliding with footnotes you already have. Mason fits the incoming text into the target note instead: it cascades headings relative to where the cursor sits, turns inline citations into real footnotes, renumbers and deduplicates them against what's already there, and files them into a Resources section. The transforms run as small scripts managed by the plugin — installed from a curated, reviewed library or imported from your own vault — not as loose files scattered through your notes. This allows you to configure Mason in a way you want, to format your notes in the way you want."
 
     stats: {
-        downloads:  197
-        updated_at: 1783927467000
+        downloads:  234
+        updated_at: 1784820025000
     }
 }
 ```

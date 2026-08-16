@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/at-people
 alt:
   - https://github.com/backmind/obsidian-at-people
-downloads: 3040
+downloads: 3298
 updated at: "2026-06-30T21:56:16Z"
 related to:
   - "[[GitHub - 1082530000]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mention people with @ and insert wiki-links automatically into your notes. Get smart fuzzy suggestions (typos, initials, accents), match frontmatter aliases, rank results by backlinks and recency, link selected text to a person via command, and optionally auto-create person files."
 
     stats: {
-        downloads:  3040
+        downloads:  3298
         updated_at: 1782856576000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-bible-linker
 alt:
   - https://github.com/kuchejak/obsidian-bible-linker-plugin
-downloads: 17722
+downloads: 17897
 updated at: "2026-05-30T12:21:39Z"
 related to:
   - "[[GitHub - 467534371]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create Obsidian links for Bible verses from Markdown chapter files by entering references like Gen 1,1-3. Group multiple verses into a single editable block while inserting hidden per-verse links (visible in source mode) to preserve individual verse anchors and backlinks."
 
     stats: {
-        downloads:  17722
+        downloads:  17897
         updated_at: 1780143699000
     }
 }

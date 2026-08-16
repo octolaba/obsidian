@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/asciidoctor-editor
 alt:
   - https://github.com/dzruyk/obsidian-asciidoc
-downloads: 2903
+downloads: 2952
 updated at: "2026-01-03T20:33:56Z"
 related to:
   - "[[GitHub - 776568072]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit and view Asciidoc files directly in Obsidian with native edit and read modes. Avoid relying on global file search — Obsidian's API doesn't support it — and avoid using this plugin alongside other Asciidoctor plugins (asciidoc-reader, asciidoc-blocks)."
 
     stats: {
-        downloads:  2903
+        downloads:  2952
         updated_at: 1767472436000
     }
 }

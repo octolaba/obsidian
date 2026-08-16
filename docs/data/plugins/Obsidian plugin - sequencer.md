@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sequencer
 alt:
   - https://github.com/alieron/obsidian-sequencer
-downloads: 373
+downloads: 388
 updated at: "2026-05-17T13:48:40Z"
 related to:
   - "[[GitHub - 882787633]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Navigate notes sequentially by adding prev and next frontmatter links to your files. Define prev and next in each note's frontmatter to build linear chains and move forward or backward through the sequence."
 
     stats: {
-        downloads:  373
+        downloads:  388
         updated_at: 1779025720000
     }
 }

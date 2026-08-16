@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pug-templates
 alt:
   - https://github.com/nicholas-wilcox/pug-templates-obsidian-plugin
-downloads: 297
+downloads: 312
 updated at: "2024-09-08T16:09:52Z"
 related to:
   - "[[GitHub - 667240389]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Pug templates inside pug code blocks and inject the current note's front matter as fm into the template context. Support include/extend partials via a configurable includes folder (defaults to .obsidian/pug-includes) for reusable templates."
 
     stats: {
-        downloads:  297
+        downloads:  312
         updated_at: 1725811792000
     }
 }

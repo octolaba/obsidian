@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tile-line-base
 alt:
   - https://github.com/campfirium/obsidian-tile-line-base
-downloads: 7333
+downloads: 7889
 updated at: "2026-06-07T05:10:25Z"
 related to:
   - "[[GitHub - 1072582327]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create multidimensional, text-based databases directly inside Markdown notes with zero frontmatter or code. View and manage one set of records as Table, Kanban, Gallery, or Slides with inline formulas, smart date/time parsing, automatic note linking, and built-in GTD task statuses."
 
     stats: {
-        downloads:  7333
+        downloads:  7889
         updated_at: 1780809025000
     }
 }

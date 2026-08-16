@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/time-machine
 alt:
   - https://github.com/dsebastien/obsidian-time-machine
-downloads: 8581
-updated at: "2026-07-17T07:42:10Z"
+downloads: 9901
+updated at: "2026-07-29T07:47:40Z"
 related to:
   - "[[GitHub - 1155224378]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Scrub through your note's history on an interactive timeline that merges Obsidian File Recovery snapshots with git commits. Preview colored diffs, slide to any moment, and restore whole versions or single paragraphs; git commits appear on desktop while File Recovery snapshots work everywhere."
 
     stats: {
-        downloads:  8581
-        updated_at: 1784274130000
+        downloads:  9901
+        updated_at: 1785311260000
     }
 }
 ```

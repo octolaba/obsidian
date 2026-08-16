@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/marktex
 alt:
   - https://github.com/mappedinfo/MarkTex
-downloads: 100
+downloads: 110
 updated at: "2026-06-07T10:17:48Z"
 related to:
   - "[[GitHub - 1113614923]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Markdown to LaTeX with smart table handling—auto-select tabular/tabularx/longtable, compute column widths, enable cell wrapping, and apply booktabs styling. Preview and compile to PDF in-browser via SwiftLaTeX (WASM), export .tex or copy LaTeX, with full Unicode/Chinese offline support."
 
     stats: {
-        downloads:  100
+        downloads:  110
         updated_at: 1780827468000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-timestamp
 alt:
   - https://github.com/mkauto/obsidian-simple-timestamp
-downloads: 187
+downloads: 225
 updated at: "2026-05-22T07:41:55Z"
 related to:
   - "[[GitHub - 1246207909]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Stamp a configurable frontmatter property with the current date/time whenever a Markdown note changes. Choose property name and date format, opt into creating missing properties, exclude folders or templates, set a cooldown, and skip Excalidraw files while operating quietly without moving the cursor or causing update loops."
 
     stats: {
-        downloads:  187
+        downloads:  225
         updated_at: 1779435715000
     }
 }

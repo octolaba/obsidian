@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/easyfilereplace
 alt:
   - https://github.com/srpernax/obsidian-easyfilereplace
-downloads: 10
+downloads: 38
 updated at: "2026-07-21T17:14:32Z"
 related to:
   - "[[GitHub - 1307911197]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Replace attachment files in-place without breaking internal Markdown links. Select a file from your system to overwrite the attachment while retaining its original name and path, and require the same file extension to prevent format mismatches or corruption."
 
     stats: {
-        downloads:  10
+        downloads:  38
         updated_at: 1784654072000
     }
 }

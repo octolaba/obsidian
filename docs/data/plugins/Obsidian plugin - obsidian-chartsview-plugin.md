@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-chartsview-plugin
 alt:
   - https://github.com/caronchen/obsidian-chartsview-plugin
-downloads: 90918
+downloads: 92426
 updated at: "2025-12-08T07:22:12Z"
 related to:
   - "[[GitHub - 368724857]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create interactive charts and graphs inside Obsidian using Ant Design Charts to visualize note data. Load data from CSV or Dataview, insert ready-made templates (Pie, Bar, WordCloud, Treemap, DualAxes, Mix, Radar, OrganizationTreeGraph, TinyLine) and combine multi-file or folder data."
 
     stats: {
-        downloads:  90918
+        downloads:  92426
         updated_at: 1765178532000
     }
 }

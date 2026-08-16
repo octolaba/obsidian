@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/3d_embeds
 alt:
   - https://github.com/elmoneedsarson/Obsidian-3D-embed
-downloads: 4157
+downloads: 4340
 updated at: "2026-05-19T23:18:02Z"
 related to:
   - "[[GitHub - 879051602]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed 3D models from your vault (STL, GLB, OBJ/MTL, FBX, 3MF) directly into notes or open them from the file explorer. Customize scene appearance, lighting, autorotation, scale, HDR backgrounds, grid layouts and capture snapshots or card views."
 
     stats: {
-        downloads:  4157
+        downloads:  4340
         updated_at: 1779232682000
     }
 }

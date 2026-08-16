@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/mnemoloop
 alt:
   - https://github.com/marco-pozzecco/mnemoloop-plugin
-downloads: 264
-updated at: "2026-07-06T13:11:31Z"
+downloads: 304
+updated at: "2026-08-03T10:30:31Z"
 related to:
   - "[[GitHub - 1132138504]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage spaced repetition with FSRS scheduling directly inside Obsidian. Store each flashcard as its own Markdown file to keep source notes pristine and git-friendly. Detect stale cards when sources change and study on desktop or mobile with a responsive dashboard."
 
     stats: {
-        downloads:  264
-        updated_at: 1783343491000
+        downloads:  304
+        updated_at: 1785753031000
     }
 }
 ```

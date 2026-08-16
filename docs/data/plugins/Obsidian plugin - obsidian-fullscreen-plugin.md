@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-fullscreen-plugin
 alt:
   - https://github.com/razumihin/obsidian-fullscreen-plugin
-downloads: 44853
+downloads: 45492
 updated at: "2022-01-08T12:41:52Z"
 related to:
   - "[[GitHub - 309325841]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Enter fullscreen focus mode for the current pane to hide other panes and concentrate on a single note. Return to the previous layout with Esc or trigger the mode from the command palette or a keyboard shortcut."
 
     stats: {
-        downloads:  44853
+        downloads:  45492
         updated_at: 1641645712000
     }
 }

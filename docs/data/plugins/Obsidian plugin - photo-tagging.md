@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/photo-tagging
 alt:
   - https://github.com/thebesttvarynka/photo-tagging
-downloads: 35
+downloads: 50
 updated at: "2026-07-18T14:14:38Z"
 related to:
   - "[[GitHub - 1158551701]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Tag people in photos and link each tag to a note representing that person, letting you connect images to people in your vault. Display a person's photos inside their note with a simple tagged-photos code block; all tags are saved to a JSON file in the vault."
 
     stats: {
-        downloads:  35
+        downloads:  50
         updated_at: 1784384078000
     }
 }

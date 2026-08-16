@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/timestamper
 alt:
   - https://github.com/coignard/obsidian-timestamper
-downloads: 118
+downloads: 137
 updated at: "2025-11-08T09:12:32Z"
 related to:
   - "[[GitHub - 1038129120]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert the current time into notes with a customizable timestamp format. Open today's daily note automatically when needed. Place timestamps at the document end or at the next empty line and optionally auto-scroll to the bottom."
 
     stats: {
-        downloads:  118
+        downloads:  137
         updated_at: 1762593152000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-as-latex
 alt:
   - https://github.com/mo-seph/obsidian-copy-as-latex
-downloads: 11829
+downloads: 11873
 updated at: "2022-02-10T17:23:37Z"
 related to:
   - "[[GitHub - 415967583]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Obsidian Markdown into LaTeX-ready output, mapping headings, bold/italic, math, lists and links to their LaTeX equivalents. Preserve code blocks with language for listings, turn internal @citations into \\cite and ^references into \\ref for easy export."
 
     stats: {
-        downloads:  11829
+        downloads:  11873
         updated_at: 1644513817000
     }
 }

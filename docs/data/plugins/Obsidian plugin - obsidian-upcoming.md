@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-upcoming
 alt:
   - https://github.com/charliecm/obsidian-upcoming
-downloads: 4630
+downloads: 4642
 updated at: "2022-10-21T23:35:52Z"
 related to:
   - "[[GitHub - 488096933]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open upcoming and past daily notes in separate panes, tabs, or windows to view and plan ahead. Start the sequence from the active daily note or from today when no daily note is active. Close all previously opened daily notes with a single action."
 
     stats: {
-        downloads:  4630
+        downloads:  4642
         updated_at: 1666395352000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/galaxy-view
 alt:
   - https://github.com/longwind1984/galaxy-view
-downloads: 3378
-updated at: "2026-07-22T15:12:14Z"
+downloads: 5775
+updated at: "2026-07-29T12:34:38Z"
 related to:
   - "[[GitHub - 1270003180]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Fly through your vault in a cinematic 3D galaxy where notes are luminous nodes, links form filament trails, and the camera glides and orbits between items. Render thousands of notes smoothly with real-time physics to reshape layouts, focus mode to spotlight neighborhoods, fuzzy search navigation, and theme-aware dark/light visuals."
 
     stats: {
-        downloads:  3378
-        updated_at: 1784733134000
+        downloads:  5775
+        updated_at: 1785328478000
     }
 }
 ```

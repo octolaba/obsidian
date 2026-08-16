@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/languageforge
 alt:
   - https://github.com/kennyrn/languageForge
-downloads:
-updated at:
+downloads: 92
+updated at: "2026-07-24T21:15:28Z"
 related to:
   - "[[GitHub - 1306386508]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/kennyrn/languageForge"
     description: "Seed naming cultures for your world: language family trees, culture cards, gate-filtered name batches with pronunciation and meaning, reverse-seeding, and naming traditions. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Generate conlang-based names with built-in pronunciation guides and meanings, producing readable, culture-stable word forms. Create and evolve language family trees, mix languages or spawn dialects, and use the visual tree to pick languages and mint names for any culture."
+
+    stats: {
+        downloads:  92
+        updated_at: 1784927728000
+    }
 }
 ```
 

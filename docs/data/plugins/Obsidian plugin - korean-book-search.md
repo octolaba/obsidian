@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/korean-book-search
 alt:
   - https://github.com/lazerfit/korean-book-search
-downloads: 1076
+downloads: 1136
 updated at: "2025-09-24T01:51:15Z"
 related to:
   - "[[GitHub - 981964087]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fill YAML frontmatter for Korean book notes by fetching metadata from the Aladin Open API, including title, subtitle, author, publisher, ISBN, publication date, cover image and page count. Add custom frontmatter fields, toggle defaults like rating and reading status, choose high-quality covers, and rename the file to match the book title."
 
     stats: {
-        downloads:  1076
+        downloads:  1136
         updated_at: 1758678675000
     }
 }

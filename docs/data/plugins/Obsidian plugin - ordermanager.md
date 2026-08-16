@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ordermanager
 alt:
   - https://github.com/jaliriogbarrios19/ordermanager-plugin
-downloads: 211
+downloads: 225
 updated at: "2026-06-16T20:07:36Z"
 related to:
   - "[[GitHub - 1252608803]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage clients, suppliers, inventory, transactions and debts with multi-currency support, real-time exchange rates and multiple accounting books. View dashboard KPIs, monthly charts and top products; get stock and due alerts, record recurring transactions, reconcile payments and export CSV while storing notes as native Markdown with YAML frontmatter."
 
     stats: {
-        downloads:  211
+        downloads:  225
         updated_at: 1781640456000
     }
 }

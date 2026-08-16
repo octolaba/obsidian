@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/marvis
 alt:
   - https://github.com/mahdi-massahi/obsidian-marvis
-downloads: 483
-updated at: "2026-06-08T22:27:36Z"
+downloads: 594
+updated at: "2026-07-30T13:51:05Z"
 related to:
   - "[[GitHub - 1229084290]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Plan projects using Markdown notes as a single source of truth across Kanban, Timeline (Gantt), Calendar, and Table views with drag-and-drop, filters, and fuzzy search. Talk to your planner via Google Gemini Live for voice or text edits and queries. Sync Apple Calendar (macOS), run coding agents against task files, and work on mobile."
 
     stats: {
-        downloads:  483
-        updated_at: 1780957656000
+        downloads:  594
+        updated_at: 1785419465000
     }
 }
 ```

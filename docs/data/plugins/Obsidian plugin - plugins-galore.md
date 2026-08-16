@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/plugins-galore
 alt:
   - https://github.com/plugins-galore/obsidian-plugins-galore
-downloads: 6173
+downloads: 6187
 updated at: "2022-04-27T03:46:35Z"
 related to:
   - "[[GitHub - 482404222]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Install plugins by pasting a repository URL to sideload plugins not listed in the official directory. Sideload from GitHub, GitLab, or Gitea repos and manage them like regular community plugins. Check for updates on demand and update selected sideloaded plugins."
 
     stats: {
-        downloads:  6173
+        downloads:  6187
         updated_at: 1651031195000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-paste-as-html
 alt:
   - https://github.com/maotong06/obsidian-paste-as-html-plugin
-downloads: 13548
+downloads: 13662
 updated at: "2022-12-30T08:38:23Z"
 related to:
   - "[[GitHub - 576979086]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Paste HTML copied from a browser into Obsidian notes as formatted HTML. Retain original CSS styles and structure so web content appears like the source page."
 
     stats: {
-        downloads:  13548
+        downloads:  13662
         updated_at: 1672389503000
     }
 }

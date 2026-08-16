@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/last-edit-location
 alt:
   - https://github.com/awfrok/obsidian-plugin-last-edit-location
-downloads: 531
+downloads: 561
 updated at: "2025-11-05T04:50:04Z"
 related to:
   - "[[GitHub - 1010442437]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Restore the cursor to the last edit position when opening a note, applying the jump once per note. Use a plugin-generated UUID, a frontmatter field, or the file path as the note identifier, and restrict behavior to chosen folders with an adjustable restore delay."
 
     stats: {
-        downloads:  531
+        downloads:  561
         updated_at: 1762318204000
     }
 }

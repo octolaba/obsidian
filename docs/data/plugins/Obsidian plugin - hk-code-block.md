@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hk-code-block
 alt:
   - https://github.com/heekangpark/obsidian-hk-code-block
-downloads: 10182
+downloads: 10286
 updated at: "2023-04-17T23:58:27Z"
 related to:
   - "[[GitHub - 594970882]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add titles, collapsible sections, configurable line numbers, and line-range highlighting to code blocks for clearer code presentation. Label blocks with quoted titles, toggle collapse, set line-number start or hide numbers, and mark specific lines or ranges for emphasis."
 
     stats: {
-        downloads:  10182
+        downloads:  10286
         updated_at: 1681775907000
     }
 }

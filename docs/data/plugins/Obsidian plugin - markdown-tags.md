@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markdown-tags
 alt:
   - https://github.com/binarynoir/obsidian-markdown-tags
-downloads: 10547
+downloads: 10959
 updated at: "2025-08-19T13:51:50Z"
 related to:
   - "[[GitHub - 885629351]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Style and highlight inline labels in Markdown using simple ((...)) syntax with | or / separators. Apply predefined or custom hex colors for background and foreground and add optional arrow indicators for left-pointing tags. Use built-in tag presets for common statuses."
 
     stats: {
-        downloads:  10547
+        downloads:  10959
         updated_at: 1755611510000
     }
 }

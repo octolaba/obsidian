@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/sync-to-xlog
 alt:
   - https://github.com/otto-j/sync-to-xlog
-downloads: 3145
+downloads: 3175
 updated at: "2023-10-24T11:55:14Z"
 related to:
   - "[[GitHub - 705723485]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Sync Obsidian notes to xlog.app and write returned post metadata back into each note's front matter. Upload notes via the context menu, convert embedded images to IPFS, and create or update posts while showing upload progress and status."
 
     stats: {
-        downloads:  3145
+        downloads:  3175
         updated_at: 1698148514000
     }
 }

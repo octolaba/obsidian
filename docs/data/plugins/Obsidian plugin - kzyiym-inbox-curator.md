@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kzyiym-inbox-curator
 alt:
   - https://github.com/kzyiym/inbox-curator
-downloads: 119
+downloads: 138
 updated at: "2026-06-14T13:58:47Z"
 related to:
   - "[[GitHub - 1261642065]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Review, summarize, and auto-sort Inbox notes using OpenAI, Gemini, or Anthropic to classify items into Archive, Read Later, or Tasks. Run locally in your vault and process articles, chat logs, PDFs, images, and URLs in bulk, with content sent to your chosen AI provider and actions remaining reversible."
 
     stats: {
-        downloads:  119
+        downloads:  138
         updated_at: 1781445527000
     }
 }

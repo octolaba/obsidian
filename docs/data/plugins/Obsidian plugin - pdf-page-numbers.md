@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pdf-page-numbers
 alt:
   - https://github.com/dwbutler/obsidian-pdf-page-numbers
-downloads: 343
+downloads: 363
 updated at: "2026-03-12T16:41:34Z"
 related to:
   - "[[GitHub - 1179254741]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add configurable page numbers to PDFs exported from Obsidian. Choose position (top/bottom, left/center/right), pick a format or custom template, skip the first page, and set font, color, and margins from the export dialog."
 
     stats: {
-        downloads:  343
+        downloads:  363
         updated_at: 1773333694000
     }
 }

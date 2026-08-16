@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/torah-verse-inserter
 alt:
   - https://github.com/spenhos/obsidian-torah-verse-inserter
-downloads: 87
+downloads: 106
 updated at: "2026-06-11T22:52:42Z"
 related to:
   - "[[GitHub - 1266667837]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert any Tanakh verse into your notes with full Hebrew text, including nikud and cantillation, available offline. Search by reference, Hebrew, or Latin transliteration (type Hebrew without switching keyboards), add optional translations and AlHaTorah deep-links, and insert as formatted quote blocks."
 
     stats: {
-        downloads:  87
+        downloads:  106
         updated_at: 1781218362000
     }
 }

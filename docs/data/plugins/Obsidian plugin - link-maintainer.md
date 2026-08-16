@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/link-maintainer
 alt:
   - https://github.com/wenlzhang/obsidian-link-maintainer
-downloads: 1969
+downloads: 1981
 updated at: "2025-10-03T18:23:28Z"
 related to:
   - "[[GitHub - 891544284]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Update block references when splitting or reorganizing notes to prevent broken links after block IDs move. Scan and rewrite references across Markdown notes and Canvas files with a single command to preserve link integrity."
 
     stats: {
-        downloads:  1969
+        downloads:  1981
         updated_at: 1759515808000
     }
 }

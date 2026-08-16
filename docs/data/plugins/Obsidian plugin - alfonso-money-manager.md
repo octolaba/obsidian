@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/alfonso-money-manager
 alt:
   - https://github.com/smartlife-gpt/alfonso-money-manager-obsidian
-downloads: 2319
+downloads: 2334
 updated at: "2023-12-24T13:43:28Z"
 related to:
   - "[[GitHub - 735311572]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Alfonso mobile app data with your Obsidian vault for unified expense and budget tracking. Query and generate reports using Alfonso Query Language (AQL) to filter, group, and analyze finances. Render interactive charts with ApexCharts inside Obsidian for clear visual insights."
 
     stats: {
-        downloads:  2319
+        downloads:  2334
         updated_at: 1703425408000
     }
 }

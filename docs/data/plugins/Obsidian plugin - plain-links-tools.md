@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/plain-links-tools
 alt:
   - https://github.com/soheidon/Plain-Links-Tools
-downloads: 68
+downloads: 98
 updated at: "2026-07-02T12:50:46Z"
 related to:
   - "[[GitHub - 1286805837]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Markdown links and Obsidian wikilinks in the current note to display text or raw URLs. Render bare email addresses as plain text in Reading View and Live Preview while preserving explicit mailto links and allowing Ctrl/Cmd+click to open suppressed addresses."
 
     stats: {
-        downloads:  68
+        downloads:  98
         updated_at: 1782996646000
     }
 }

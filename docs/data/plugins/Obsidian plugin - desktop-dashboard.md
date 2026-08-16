@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/desktop-dashboard
 alt:
   - https://github.com/liyaomingme/desktop-dashboard
-downloads: 291
+downloads: 388
 updated at: "2026-06-30T00:38:50Z"
 related to:
   - "[[GitHub - 1270687478]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform your startup screen into a desktop-first control center with a dual-column layout, interactive calendar and timeline. Parse dates from YAML, filenames and folder paths for sync-proof ordering, display traditional serif typography and Chinese almanac indicators, and capture notes with a smooth quick-capture modal."
 
     stats: {
-        downloads:  291
+        downloads:  388
         updated_at: 1782779930000
     }
 }

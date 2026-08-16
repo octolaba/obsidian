@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/gremlins
 alt:
   - https://github.com/xryul/gremlins
-downloads: 61
-updated at: "2026-07-20T12:25:10Z"
+downloads: 214
+updated at: "2026-08-05T07:06:39Z"
 related to:
   - "[[GitHub - 1304356351]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Reveal invisible and easily confused characters in Obsidian's Markdown editor. Draw a red bar over zero-width and bidirectional control characters, highlight non‑breaking spaces, soft hyphens and similar symbols, optionally mark curly quotes and en dashes, warn on mixed tabs/spaces indentation, and show a bug icon with hoverable code point, description and severity plus an Inspect command; works in Source and Live Preview."
 
     stats: {
-        downloads:  61
-        updated_at: 1784550310000
+        downloads:  214
+        updated_at: 1785913599000
     }
 }
 ```

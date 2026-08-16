@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smartpick
 alt:
   - https://github.com/bcs1037/SmartPick
-downloads: 1222
+downloads: 1337
 updated at: "2026-07-13T06:12:31Z"
 related to:
   - "[[GitHub - 1148204454]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Select text to summon a floating toolbar; run AI actions (summarize, translate, explain), trigger Obsidian commands, system shortcuts, or external links. Customize grouped commands with drag-and-drop ordering, add URL-scheme actions and reusable AI prompt templates, and view AI replies as rendered Markdown with English/Chinese support."
 
     stats: {
-        downloads:  1222
+        downloads:  1337
         updated_at: 1783923151000
     }
 }

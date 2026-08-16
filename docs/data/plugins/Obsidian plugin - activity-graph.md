@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/activity-graph
 alt:
   - https://github.com/rwyattwalker/obsidian-activity-graph
-downloads: 378
+downloads: 431
 updated at: "2026-03-27T20:17:54Z"
 related to:
   - "[[GitHub - 1191096440]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render a GitHub-style activity heatmap from Dataview queries to visualize daily activity or numeric metrics across a rolling date range. Use Dataview date+value output and apply per-query overrides for range, colors, labels, and value scale to customize the chart (requires Dataview)."
 
     stats: {
-        downloads:  378
+        downloads:  431
         updated_at: 1774642674000
     }
 }

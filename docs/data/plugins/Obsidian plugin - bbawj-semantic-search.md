@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bbawj-semantic-search
 alt:
   - https://github.com/bbawj/obsidian-semantic-search
-downloads: 7259
+downloads: 7299
 updated at: "2025-06-20T13:36:09Z"
 related to:
   - "[[GitHub - 620411670]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search notes by meaning using semantic embeddings with a WASM/Rust-powered file switcher. Generate input CSVs from note sections, create embeddings via your API, and query notes in a modal or from selection to insert recommended markdown links."
 
     stats: {
-        downloads:  7259
+        downloads:  7299
         updated_at: 1750426569000
     }
 }

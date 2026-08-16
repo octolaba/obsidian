@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nested-notes
 alt:
   - https://github.com/october-learns/nested-notes
-downloads: 272
+downloads: 353
 updated at: "2026-05-27T01:26:52Z"
 related to:
   - "[[GitHub - 1241619918]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize notes into nested hierarchies with drag-and-drop to build nested tags, indexes, or maps of content. Collapse or expand groups and hide folders or non‑Markdown files to focus on your note structure."
 
     stats: {
-        downloads:  272
+        downloads:  353
         updated_at: 1779845212000
     }
 }

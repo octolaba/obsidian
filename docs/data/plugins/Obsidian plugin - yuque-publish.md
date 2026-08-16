@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/yuque-publish
 alt:
   - https://github.com/oylbin/obsidian-yuque-publish
-downloads: 447
+downloads: 474
 updated at: "2025-05-16T15:26:23Z"
 related to:
   - "[[GitHub - 971469479]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish Obsidian notes to Yuque with a single command. Create or update documents on personal or team spaces, set document visibility, and manage multiple group configurations."
 
     stats: {
-        downloads:  447
+        downloads:  474
         updated_at: 1747409183000
     }
 }

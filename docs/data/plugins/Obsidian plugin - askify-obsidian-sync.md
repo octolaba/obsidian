@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/askify-obsidian-sync
 alt:
   - https://github.com/helloworldkr/Askify-Obsidian-Sync
-downloads: 3828
+downloads: 3856
 updated at: "2024-05-26T12:55:56Z"
 related to:
   - "[[GitHub - 617346467]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync notes and metadata between Obsidian and Askify, keeping tags, dates, and multi-language content aligned across platforms. Enable sync with your Askify key; the token is stored locally in your vault to authorize transfers."
 
     stats: {
-        downloads:  3828
+        downloads:  3856
         updated_at: 1716728156000
     }
 }

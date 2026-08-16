@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/progressbar
 alt:
   - https://github.com/zwpaper/obsidian-progressbar
-downloads: 18336
+downloads: 18573
 updated at: "2025-10-10T00:39:43Z"
 related to:
   - "[[GitHub - 594432677]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render progress bars from progressbar code blocks using time ranges or explicit values. Support day-year, day-month, day-week, month, day-custom and manual modes, plus templated labels, adjustable width, and min/max/value settings."
 
     stats: {
-        downloads:  18336
+        downloads:  18573
         updated_at: 1760056783000
     }
 }

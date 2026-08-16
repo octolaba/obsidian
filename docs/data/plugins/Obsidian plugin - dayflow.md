@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/dayflow
 alt:
   - https://github.com/caezium/obsidian-dayflow-plugin
-downloads: 141
-updated at: "2026-06-05T09:31:28Z"
+downloads: 208
+updated at: "2026-08-04T14:46:09Z"
 related to:
   - "[[GitHub - 1259044359]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Import Dayflow's chunks.sqlite to generate daily and weekly notes with rich frontmatter and inline SVG charts (treemap, heatmap, Sankey). Show a live Today side pane that auto-refreshes after sync, include Bases dashboards, and opt into local ActivityWatch enrichment for precise per-app minutes — all local-first with no network calls."
 
     stats: {
-        downloads:  141
-        updated_at: 1780651888000
+        downloads:  208
+        updated_at: 1785854769000
     }
 }
 ```

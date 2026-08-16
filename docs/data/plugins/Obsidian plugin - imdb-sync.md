@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/imdb-sync
 alt:
   - https://github.com/aaachen/IMDb-Obsidian
-downloads: 1258
+downloads: 1283
 updated at: "2024-04-11T15:41:29Z"
 related to:
   - "[[GitHub - 742610767]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import IMDb lists and watchlists into Obsidian as individual, templated notes, preserving IMDb fields like title, year, rating, genres and links. Fetch posters and extended metadata via OMDb and use Mustache templates to customize note content such as plot, cast, writers and runtime."
 
     stats: {
-        downloads:  1258
+        downloads:  1283
         updated_at: 1712850089000
     }
 }

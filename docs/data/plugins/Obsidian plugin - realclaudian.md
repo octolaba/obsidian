@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/realclaudian
 alt:
   - https://github.com/yishentu/claudian
-downloads: 1514509
-updated at: "2026-07-22T13:57:28Z"
+downloads: 1751787
+updated at: "2026-08-10T17:03:55Z"
 related to:
   - "[[GitHub - 1110782890]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Embed AI coding agents in your vault to read, write, search, run commands and execute multi-step workflows within the vault."
 
     stats: {
-        downloads:  1514509
-        updated_at: 1784728648000
+        downloads:  1751787
+        updated_at: 1786381435000
     }
 }
 ```

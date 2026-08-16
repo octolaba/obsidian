@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/clang-format-code-blocks
 alt:
   - https://github.com/oemer-kara/clang-format-obsidian-code-blocks
-downloads: 13
+downloads: 37
 updated at: "2026-07-20T22:18:57Z"
 related to:
   - "[[GitHub - 1307035203]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format fenced C-family and other clang-format–supported code blocks in your notes by piping each block through clang-format and replacing it in place. Scan the active note or format only the block at cursor, with optional format-on-save (desktop only; clang-format must be installed)."
 
     stats: {
-        downloads:  13
+        downloads:  37
         updated_at: 1784585937000
     }
 }

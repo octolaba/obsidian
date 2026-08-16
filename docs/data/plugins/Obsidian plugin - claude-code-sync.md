@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/claude-code-sync
 alt:
   - https://github.com/mattbirchler/claude-code-obsidian
-downloads: 173
+downloads: 299
 updated at: "2026-07-10T02:12:30Z"
 related to:
   - "[[GitHub - 1292756579]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mirror every Claude Code session into your vault as readable, searchable Markdown notes by pointing it at your Claude Code projects folder. Save each session as a single dated note inside its project folder with session metadata and collapsed tool/thinking callouts, kept as read-only mirrors that regenerate when sessions change."
 
     stats: {
-        downloads:  173
+        downloads:  299
         updated_at: 1783649550000
     }
 }

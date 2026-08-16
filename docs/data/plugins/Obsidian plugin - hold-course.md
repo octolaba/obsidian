@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/hold-course
 alt:
   - https://github.com/liveaquietlife/obsidian-hold-course
-downloads: 102
-updated at: "2026-07-16T00:37:37Z"
+downloads: 222
+updated at: "2026-08-10T22:23:38Z"
 related to:
   - "[[GitHub - 1278597828]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Track your academic progress inside your Obsidian vault. Organize semesters, classes, lectures, assignments and exams, link resources to notes, and use dashboard and calendar views to see upcoming work and today's priorities (desktop only)."
 
     stats: {
-        downloads:  102
-        updated_at: 1784162257000
+        downloads:  222
+        updated_at: 1786400618000
     }
 }
 ```

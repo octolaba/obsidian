@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/evc-team-relay
 alt:
   - https://github.com/entire-vc/evc-team-relay-obsidian-plugin
-downloads: 781
-updated at: "2026-07-10T15:45:23Z"
+downloads: 990
+updated at: "2026-07-26T05:36:08Z"
 related to:
   - "[[GitHub - 1150533792]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Team Relay adds real-time collaboration, web publishing, and AI-agent access to your notes. Several people can edit the same note at once, with changes merged automatically through a conflict-free (CRDT) sync engine that works offline and reconciles when you reconnect. Share entire folders with viewer or editor permissions. Publish any note or folder to the web in one step, in three modes: public, protected by a link and token, or private behind a login, with optional custom domains. AI agents can read and write your shared notes through a Model Context Protocol connection: assistants such as Claude Code can fetch context and update notes automatically, and an OpenClaw skill wires this into agent workflows. So your vault becomes shared memory for both your team and your AI tools. Sync, publishing, and agent access run over a relay server you can self-host so all data stays on your own infrastructure, or use a managed instance. Either way your notes stay plain files in your vault."
 
     stats: {
-        downloads:  781
-        updated_at: 1783698323000
+        downloads:  990
+        updated_at: 1785044168000
     }
 }
 ```

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/vault-name
 alt:
   - https://github.com/gapmiss/vault-name
-downloads: 2016
-updated at: "2026-06-06T13:27:43Z"
+downloads: 2192
+updated at: "2026-08-08T21:41:40Z"
 related to:
   - "[[GitHub - 803535755]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Display the vault name in the side file explorer to restore pre-1.6.0 behavior. Customize styling and set a sticky position, and integrate with the Legacy Vault Switcher for quick vault switching."
 
     stats: {
-        downloads:  2016
-        updated_at: 1780752463000
+        downloads:  2192
+        updated_at: 1786225300000
     }
 }
 ```

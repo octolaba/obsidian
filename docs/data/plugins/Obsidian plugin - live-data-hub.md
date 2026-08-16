@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/live-data-hub
 alt:
   - https://github.com/chefrocker/obsidian-awesome-livedata-plugin
-downloads: 119
+downloads: 126
 updated at: "2026-05-21T21:30:04Z"
 related to:
   - "[[GitHub - 1244582675]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display live MQTT and REST API data inside notes and turn any note into a live dashboard with real-time widgets. Use livedata blocks for MQTT (ws/wss; tcp on desktop) and REST polling, pick number/text/badge/toggle displays, see live/stale/offline status, open an overview sidebar, and store credentials in the OS keychain."
 
     stats: {
-        downloads:  119
+        downloads:  126
         updated_at: 1779399004000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markpilot
 alt:
   - https://github.com/taichimaeda/markpilot
-downloads: 1465
+downloads: 1479
 updated at: "2024-06-29T15:40:34Z"
 related to:
   - "[[GitHub - 780802774]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add AI-powered inline completions and a Copilot-style chat sidebar to Obsidian, supporting OpenAI, OpenRouter and local Ollama models. Generate context-aware suggestions that detect Markdown context and code languages, and manage usage with caching to help control costs."
 
     stats: {
-        downloads:  1465
+        downloads:  1479
         updated_at: 1719675634000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cao
 alt:
   - https://github.com/iamgodot/CAO
-downloads: 4806
+downloads: 4862
 updated at: "2025-12-06T21:14:07Z"
 related to:
   - "[[GitHub - 913559839]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with Claude or OpenAI-compatible models directly inside notes. Store conversations as editable Markdown notes with foldable callout formatting and image embedding. Create templates, attach wikilinks as context, and switch between Anthropic and OpenAI-compatible APIs."
 
     stats: {
-        downloads:  4806
+        downloads:  4862
         updated_at: 1765055647000
     }
 }

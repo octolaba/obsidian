@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-csv-table
 alt:
   - https://github.com/coddingtonbear/obsidian-csv-table
-downloads: 34590
+downloads: 35010
 updated at: "2021-10-13T05:38:53Z"
 related to:
   - "[[GitHub - 370215976]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render CSV files as tables inside notes by referencing a CSV source. Select or rename columns, filter and sort rows with expressions, and limit displayed rows for concise views."
 
     stats: {
-        downloads:  34590
+        downloads:  35010
         updated_at: 1634103533000
     }
 }

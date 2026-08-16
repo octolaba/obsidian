@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mrdoc
 alt:
   - https://github.com/zmister2016/obsidian-mrdoc
-downloads: 2041
+downloads: 2121
 updated at: "2025-10-29T02:45:41Z"
 related to:
   - "[[GitHub - 719367813]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Markdown files and folder structures between Obsidian vaults and MrDoc collections, using mappings and timestamps to resolve updates and avoid accidental overwrites. Browse and edit notes offline in Obsidian and push or pull changes to MrDoc for online document viewing and management."
 
     stats: {
-        downloads:  2041
+        downloads:  2121
         updated_at: 1761705941000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/autolinks
 alt:
   - https://github.com/devxoul/obsidian-autolinks
-downloads: 268
+downloads: 300
 updated at: "2026-06-03T16:11:02Z"
 related to:
   - "[[GitHub - 1135425414]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert full regex patterns into clickable links in Reading View and Live Preview, supporting capture groups ($1-$9) for URL templates. Skip code blocks, inline code, existing links, wikilinks and frontmatter; enable or disable patterns individually, apply changes in real time, and prevent overlaps with first-match-wins."
 
     stats: {
-        downloads:  268
+        downloads:  300
         updated_at: 1780503062000
     }
 }

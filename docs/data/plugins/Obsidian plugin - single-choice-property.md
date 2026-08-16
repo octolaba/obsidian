@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/single-choice-property
 alt:
   - https://github.com/moyf/single-choice-property
-downloads: 227
+downloads: 257
 updated at: "2026-06-04T12:32:27Z"
 related to:
   - "[[GitHub - 1259155734]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep list-style properties to a single latest value by trimming lists to their last item (defaults to status). Watch configured property names and update metadata precisely after changes, optionally showing a notification with note, property and kept value. Run locally and only modify arrays with more than one item."
 
     stats: {
-        downloads:  227
+        downloads:  257
         updated_at: 1780576347000
     }
 }

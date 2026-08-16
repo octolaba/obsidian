@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/momentum-life
 alt:
   - https://github.com/jnagase/obsidian-momentum
-downloads: 346
-updated at: "2026-07-22T14:23:48Z"
+downloads: 635
+updated at: "2026-08-10T01:51:35Z"
 related to:
   - "[[GitHub - 1283410315]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage a life dashboard in Obsidian for Habits, Tasks, Fitness, Nutrition and Studies, with dashboards, charts, Kanban and calendars rendered directly from your vault's Markdown. Store all data as plain Markdown in a single folder and work fully offline; optional Open Food Facts search only contacts the internet."
 
     stats: {
-        downloads:  346
-        updated_at: 1784730228000
+        downloads:  635
+        updated_at: 1786326695000
     }
 }
 ```

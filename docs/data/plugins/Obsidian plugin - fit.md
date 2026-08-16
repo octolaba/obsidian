@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/fit
 alt:
   - https://github.com/joshuakto/fit
-downloads: 58543
+downloads: 59917
 updated at: "2026-05-19T13:00:28Z"
 related to:
   - "[[GitHub - 763852749]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your vault across mobile and desktop with one click or enable automatic syncing via GitHub. Save conflicting remote changes into a local _fit folder for manual comparison and merges without failing the sync. Include Markdown files and attachments while excluding .obsidian settings and hidden files."
 
     stats: {
-        downloads:  58543
+        downloads:  59917
         updated_at: 1779195628000
     }
 }

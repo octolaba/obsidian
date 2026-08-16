@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quick-nav
 alt:
   - https://github.com/exoticknight/quick-nav
-downloads: 338
+downloads: 367
 updated at: "2025-03-31T11:12:59Z"
 related to:
   - "[[GitHub - 923017440]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Expose cursor navigation and selection commands for fine-grained movement without preset shortcuts. Assign custom hotkeys for line, page and end movements plus selection variants to navigate and edit precisely."
 
     stats: {
-        downloads:  338
+        downloads:  367
         updated_at: 1743419579000
     }
 }

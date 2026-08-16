@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/timeline-view
 alt:
   - https://github.com/b-camphart/timeline-view
-downloads: 9941
+downloads: 10053
 updated at: "2026-01-26T02:58:12Z"
 related to:
   - "[[GitHub - 690155890]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display notes on an interactive timeline or number line ordered by any numeric or date property. Resize items, drag to update property values, double-click to create notes at a point, and filter or color-group entries for focused visualization."
 
     stats: {
-        downloads:  9941
+        downloads:  10053
         updated_at: 1769396292000
     }
 }

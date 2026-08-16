@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-placeholder
 alt:
   - https://github.com/xzst4nce/note-placeholder
-downloads: 360
+downloads: 391
 updated at: "2025-04-21T10:32:48Z"
 related to:
   - "[[GitHub - 907393178]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Replace note links in view mode with text taken from a note's placeholder property, showing custom text instead of the link title. Set the placeholder property name, force placeholders over link names, add header/block separators, or disable placeholders per link."
 
     stats: {
-        downloads:  360
+        downloads:  391
         updated_at: 1745231568000
     }
 }

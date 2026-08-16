@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/emoji-autocomplete
 alt:
   - https://github.com/kraxen72/obsidian-emoji-autocomplete
-downloads: 12895
+downloads: 13747
 updated at: "2026-05-12T20:56:46Z"
 related to:
   - "[[GitHub - 727149348]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert emoji quickly using shortcode autocomplete with fuzzy matching and highlighted suggestions. Use tag search and recent history to find emojis, choose immediate replacement or keep shortcodes with live preview, powered by gemoji for an up-to-date list and fast performance."
 
     stats: {
-        downloads:  12895
+        downloads:  13747
         updated_at: 1778619406000
     }
 }

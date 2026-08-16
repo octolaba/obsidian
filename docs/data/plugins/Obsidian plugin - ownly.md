@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ownly
 alt:
   - https://github.com/liuh886/ownly
-downloads: 104
+downloads: 114
 updated at: "2026-06-24T03:57:22Z"
 related to:
   - "[[GitHub - 1252205061]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track objects, subscriptions, and experiences in Obsidian using plain Markdown, lifecycle statuses, and structured reviews to reduce decision noise. Record net worth snapshots, analyze recurring and acquisition costs, archive or restore items, map travel, run local diagnostics, and keep data fully local."
 
     stats: {
-        downloads:  104
+        downloads:  114
         updated_at: 1782273442000
     }
 }

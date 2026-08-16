@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tab-file-path
 alt:
   - https://github.com/johnburnett/obsidian-tab-file-path
-downloads: 609
+downloads: 664
 updated at: "2025-09-16T21:08:26Z"
 related to:
   - "[[GitHub - 1017048175]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display full vault-relative file paths in tab titles to show each note's location at a glance. Make it easy to distinguish files with identical names."
 
     stats: {
-        downloads:  609
+        downloads:  664
         updated_at: 1758056906000
     }
 }

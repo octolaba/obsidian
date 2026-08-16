@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/netwik
 alt:
   - https://github.com/fivol/netwik-obsidian
-downloads: 4239
+downloads: 4257
 updated at: "2021-09-28T19:44:13Z"
 related to:
   - "[[GitHub - 405048248]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect your vault to a global network of shared Markdown notes and synchronize edits among all participants. Search and open remote notes with auto-suggestions, create or edit cloud notes, copy shareable obsidian:// links, and download remote files into your local vault on demand."
 
     stats: {
-        downloads:  4239
+        downloads:  4257
         updated_at: 1632858253000
     }
 }

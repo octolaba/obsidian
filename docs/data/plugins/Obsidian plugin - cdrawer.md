@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cdrawer
 alt:
   - https://github.com/hxuanwang/obsidian-cdrawer
-downloads: 59
+downloads: 91
 updated at: "2026-07-20T09:07:51Z"
 related to:
   - "[[GitHub - 1303571862]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create commutative diagrams on a fixed grid with LaTeX labels and drag-to-draw arrows, then click away to commit edits. Store diagrams as inline SVGs inside cd-fenced JSON blocks so they remain plain-text, diff-clean, and reopenable in the grid editor. Export and import to tikz-cd or AMS CD for paper use."
 
     stats: {
-        downloads:  59
+        downloads:  91
         updated_at: 1784538471000
     }
 }

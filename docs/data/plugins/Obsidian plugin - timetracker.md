@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/timetracker
 alt:
   - https://github.com/hedgehog1833/obsidian-timetracker
-downloads: 8472
+downloads: 8561
 updated at: "2026-06-20T18:46:16Z"
 related to:
   - "[[GitHub - 695765272]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a persistent stopwatch to Obsidian to track elapsed time and restore the value across restarts. Insert the current timestamp into notes via hotkey or set a custom start value if you forgot to start, and paste using customizable formats (trim zeros, line break, color)."
 
     stats: {
-        downloads:  8472
+        downloads:  8561
         updated_at: 1781981176000
     }
 }

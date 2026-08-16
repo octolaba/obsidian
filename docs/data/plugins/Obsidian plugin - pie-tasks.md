@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pie-tasks
 alt:
   - https://github.com/pieofmind/pie-task-plugin-obsidian
-downloads: 142
+downloads: 187
 updated at: "2026-07-06T07:22:26Z"
 related to:
   - "[[GitHub - 1288236917]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage tasks inside Markdown files as Kanban boards, lists, calendars, or dashboards with checkboxes that sync back to the file. Switch between multiple named boards, use lanes and task-detail drawers, and assign people with optional avatars while keeping all data in plain Markdown."
 
     stats: {
-        downloads:  142
+        downloads:  187
         updated_at: 1783322546000
     }
 }

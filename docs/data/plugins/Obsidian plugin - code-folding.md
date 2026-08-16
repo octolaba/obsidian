@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/code-folding
 alt:
   - https://github.com/mr-pounds/code-folding
-downloads: 156
+downloads: 171
 updated at: "2026-01-29T07:32:50Z"
 related to:
   - "[[GitHub - 1144866504]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add smart folding to code blocks and auto-collapse snippets that exceed the line threshold (default 5 lines). Click the code header to expand/collapse and use the one-click copy button; lightweight and theme-compatible."
 
     stats: {
-        downloads:  156
+        downloads:  171
         updated_at: 1769671970000
     }
 }

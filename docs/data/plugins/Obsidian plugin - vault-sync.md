@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-sync
 alt:
   - https://github.com/thewordisbird/VaultSync
-downloads: 971
+downloads: 1013
 updated at: "2025-03-01T16:05:13Z"
 related to:
   - "[[GitHub - 760140806]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Link your Obsidian vault to Dropbox and sync files between local and remote folders on desktop and mobile. Sync bidirectionally: download provider-only files, upload local-only files, and resolve conflicts by keeping the most recently modified version. Select a remote vault folder to mirror with your local vault."
 
     stats: {
-        downloads:  971
+        downloads:  1013
         updated_at: 1740845113000
     }
 }

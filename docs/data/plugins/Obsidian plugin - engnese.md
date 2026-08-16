@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/engnese
 alt:
   - https://github.com/xxxgeorge/obsidian-engnese
-downloads: 91
+downloads: 97
 updated at: "2026-04-16T15:34:43Z"
 related to:
   - "[[GitHub - 1212504684]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Type English letters and convert the current token to Chinese by treating it as pinyin in the background, replacing the typed token when a candidate is accepted. Read local Rime .dict.yaml dictionaries (including import_tables), fall back to the longest matching prefix, support candidate shortcuts, paging and optional double-space acceptance, and skip fenced code, inline code, and math."
 
     stats: {
-        downloads:  91
+        downloads:  97
         updated_at: 1776353683000
     }
 }

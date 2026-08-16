@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/apple-books-notes-sync
 alt:
   - https://github.com/moskize91/apple-books-notes-sync
-downloads: 145
+downloads: 177
 updated at: "2026-06-03T06:59:43Z"
 related to:
   - "[[GitHub - 1167152991]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Apple Books highlights, notes, and PDF annotations into local Markdown notes in your vault. Use the absync companion CLI to read local Apple Books data and run sync work outside Obsidian’s UI. Create a managed Apple Books folder and generate a Books.base view for browsing synced notes (desktop macOS only)."
 
     stats: {
-        downloads:  145
+        downloads:  177
         updated_at: 1780469983000
     }
 }

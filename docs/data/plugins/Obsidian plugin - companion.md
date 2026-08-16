@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/companion
 alt:
   - https://github.com/rizerphe/obsidian-companion
-downloads: 33996
+downloads: 34136
 updated at: "2024-05-28T18:04:42Z"
 related to:
   - "[[GitHub - 612603924]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add AI-powered inline autocomplete that suggests words, phrases, and full sentences as ghost text based on your note context. Accept suggestions or ignore them to speed up writing; support OpenAI GPT-3/3.5/ChatGPT and locally hosted Ollama models."
 
     stats: {
-        downloads:  33996
+        downloads:  34136
         updated_at: 1716919482000
     }
 }

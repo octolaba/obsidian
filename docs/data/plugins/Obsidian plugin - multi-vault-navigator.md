@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/multi-vault-navigator
 alt:
   - https://github.com/finarfin12/Multi-Vault-Plugin-Obsidian
-downloads: 292
+downloads: 411
 updated at: "2026-06-16T09:32:59Z"
 related to:
   - "[[GitHub - 1260822201]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search, view, and switch between multiple Obsidian vaults from a single Command Center with fuzzy search, snippet previews, and pinned results. Open cross-vault notes in a native read-only tab, jump to the source vault, copy cross-vault links, and navigate via [[VaultName::NoteTitle]] references."
 
     stats: {
-        downloads:  292
+        downloads:  411
         updated_at: 1781602379000
     }
 }

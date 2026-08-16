@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/myloc
 alt:
   - https://github.com/mrcnkobu/myloc
-downloads: 175
+downloads: 191
 updated at: "2026-07-05T16:40:32Z"
 related to:
   - "[[GitHub - 1151773344]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert current location into notes with GPS coordinates, reverse-geocoded addresses and timezone info. Save named places with radius-aware matching, create location notes or frontmatter for map plotting, and output in multiple formats or custom templates. Use on mobile with GPS or on desktop via IP-based geolocation, and track time with check-in/check-out entries."
 
     stats: {
-        downloads:  175
+        downloads:  191
         updated_at: 1783269632000
     }
 }

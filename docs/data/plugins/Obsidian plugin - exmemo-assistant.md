@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/exmemo-assistant
 alt:
   - https://github.com/exmemo-ai/obsidian-exmemo-assistant
-downloads: 977
+downloads: 990
 updated at: "2025-03-19T05:48:36Z"
 related to:
   - "[[GitHub - 897229757]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate and update file metadata such as tags, titles, descriptions and edit times using large language models. Auto-generate consistent tag suggestions from your vault and produce concise descriptions to standardize notes and speed document editing."
 
     stats: {
-        downloads:  977
+        downloads:  990
         updated_at: 1742363316000
     }
 }

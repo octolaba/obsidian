@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jisage-japanese-indentation
 alt:
   - https://github.com/telehakke/jisage-japanese-indentation
-downloads: 3820
+downloads: 4002
 updated at: "2026-05-27T16:00:29Z"
 related to:
   - "[[GitHub - 873771219]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Japanese jisage indentation created with a full-width leading space so indented lines display properly in preview. Reopen the file after adding or removing leading full-width spaces to make edits appear due to an Obsidian application limitation."
 
     stats: {
-        downloads:  3820
+        downloads:  4002
         updated_at: 1779897629000
     }
 }

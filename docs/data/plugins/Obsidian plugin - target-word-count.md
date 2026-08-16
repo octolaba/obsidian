@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/target-word-count
 alt:
   - https://github.com/twofive-labs/target-word-count
-downloads: 1089
+downloads: 1112
 updated at: "2024-04-09T21:02:57Z"
 related to:
   - "[[GitHub - 779100675]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set a target word count and lock editing until you add that many new words across all documents. Track progress across notes and reset or stop the restriction to resume editing."
 
     stats: {
-        downloads:  1089
+        downloads:  1112
         updated_at: 1712696577000
     }
 }

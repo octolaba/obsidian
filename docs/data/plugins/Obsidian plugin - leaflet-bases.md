@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/leaflet-bases
 alt:
   - https://github.com/requiae/obsidian-leaflet-bases-plugin
-downloads: 2030
+downloads: 2409
 updated at: "2026-05-21T09:27:11Z"
 related to:
   - "[[GitHub - 1136250140]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a Leaflet Map view to Bases and a 'marker' property type to attach interactive markers to notes. Store marker data inside notes, and embed image-based maps with zoom and scale. Ideal for fantasy maps! Also works with vaults published with Quartz gardens (using a separate Quartz plugin)."
 
     stats: {
-        downloads:  2030
+        downloads:  2409
         updated_at: 1779355631000
     }
 }

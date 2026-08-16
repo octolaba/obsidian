@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-tagger
 alt:
   - https://github.com/jdenoy/obsidian-smart-tagger
-downloads: 204
+downloads: 269
 updated at: "2026-06-12T09:05:03Z"
 related to:
   - "[[GitHub - 1010040641]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate 2–5 contextually relevant tags for notes using OpenAI (ChatGPT) or Claude, with AI suggestions matched to your vault’s existing tags so vault casing prevails. Preview and apply tags per note or process the whole vault in batch, with rate limiting and automatic retry/backoff."
 
     stats: {
-        downloads:  204
+        downloads:  269
         updated_at: 1781255103000
     }
 }

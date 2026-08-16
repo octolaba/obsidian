@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/every-day-calendar
 alt:
   - https://github.com/sporarum/every-day-calendar
-downloads: 1183
+downloads: 1195
 updated at: "2025-02-27T16:37:36Z"
 related to:
   - "[[GitHub - 917846738]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create yearly habit trackers rendered as an Every Day Calendar heatmap via dataviewjs. Map each date to a numeric completion value to color-code days with Obsidian theme colors, and extend visuals or add values through CSS snippets."
 
     stats: {
-        downloads:  1183
+        downloads:  1195
         updated_at: 1740674256000
     }
 }

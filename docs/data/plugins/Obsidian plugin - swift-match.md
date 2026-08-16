@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/swift-match
 alt:
   - https://github.com/dlsdgj/Obsidian-SwiftMatch
-downloads: 234
+downloads: 268
 updated at: "2026-07-14T10:51:53Z"
 related to:
   - "[[GitHub - 1267900202]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search and highlight selected text across your vault instantly, showing matches grouped by file, headings, tags and file names. Use a floating toggle with match counters and search box to navigate and open matches, copy entries or export results as Markdown. Customize highlight styles and pin keywords to persist highlights across sessions; switch UI language between Chinese and English."
 
     stats: {
-        downloads:  234
+        downloads:  268
         updated_at: 1784026313000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/artifact-embed
 alt:
   - https://github.com/leonyew-ley/obsidian-artifact-embed
-downloads: 410
+downloads: 673
 updated at: "2026-05-21T16:47:24Z"
 related to:
   - "[[GitHub - 1240509745]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed interactive HTML cards into notes from local files, remote URLs, or inline source using a single artifact code block. Run each artifact in a sandboxed iframe that inherits Obsidian theme variables and provides a compact toolbar to reload, open externally, or copy the source; works in Reading mode and Live Preview."
 
     stats: {
-        downloads:  410
+        downloads:  673
         updated_at: 1779382044000
     }
 }

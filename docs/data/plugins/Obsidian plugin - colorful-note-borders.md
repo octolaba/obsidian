@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/colorful-note-borders
 alt:
   - https://github.com/rusi/obsidian-colorful-note-borders
-downloads: 16059
+downloads: 16222
 updated at: "2023-03-31T01:36:03Z"
 related to:
   - "[[GitHub - 619000361]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Apply colorful borders to notes based on folder location or frontmatter rules to visually distinguish and categorize your vault. Define, edit, and reorder rules to set precedence and keep borders consistent across light and dark modes."
 
     stats: {
-        downloads:  16059
+        downloads:  16222
         updated_at: 1680226563000
     }
 }

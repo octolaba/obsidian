@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lns-directories
 alt:
   - https://github.com/hunchulchoi/lns_directories
-downloads: 147
+downloads: 190
 updated at: "2026-06-02T07:13:29Z"
 related to:
   - "[[GitHub - 1249138759]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Link external files and folders into your vault as symbolic links so they appear in the Obsidian file explorer without copying data. Create symlinks from absolute paths into relative vault locations, add them via the file explorer context menu, and manage registered links with health status and removal."
 
     stats: {
-        downloads:  147
+        downloads:  190
         updated_at: 1780384409000
     }
 }

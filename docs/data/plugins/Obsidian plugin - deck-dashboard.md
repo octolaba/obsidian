@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/deck-dashboard
 alt:
   - https://github.com/yut0takagi/obsidian-deck-dashboard
-downloads: 223
+downloads: 279
 updated at: "2026-06-18T13:29:46Z"
 related to:
   - "[[GitHub - 1273240186]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open .dashboard files in a custom view and arrange widget slots in a draggable grid. Build on a Phase 1 scaffold prepared for widgets like tasks, Dataview queries, Bases, and calendars — widgets not yet implemented."
 
     stats: {
-        downloads:  223
+        downloads:  279
         updated_at: 1781789386000
     }
 }

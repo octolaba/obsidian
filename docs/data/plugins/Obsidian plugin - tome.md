@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tome
 alt:
   - https://github.com/tsukki-is-dead/Tome
-downloads: 35
+downloads: 87
 updated at: "2026-07-14T11:29:43Z"
 related to:
   - "[[GitHub - 1300395856]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search books by ISBN or title across Open Library, Google Books, and OpenAlex and download covers into your vault. Organize book details as frontmatter-first Markdown notes with ratings, reading status, progress, and a built-in gallery view compatible with Dataview and Obsidian Bases."
 
     stats: {
-        downloads:  35
+        downloads:  87
         updated_at: 1784028583000
     }
 }

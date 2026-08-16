@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/byoc
 alt:
   - https://github.com/winters27/obsidian-byoc
-downloads: 949
-updated at: "2026-07-16T15:07:49Z"
+downloads: 1463
+updated at: "2026-08-06T14:48:38Z"
 related to:
   - "[[GitHub - 1213881909]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync your Obsidian vault to self-hosted cloud storage with a robust engine supporting S3, WebDAV, Dropbox, OneDrive, Google Drive, Box, pCloud, Yandex, Koofr, Azure Blob and Webdis. Resolve conflicts with a 3-way merge that creates timestamped conflict copies and run timed background sync or sync-on-save. Encrypt data end-to-end with optional AES-256 (rclone-crypt) and keep cloud credentials local."
 
     stats: {
-        downloads:  949
-        updated_at: 1784214469000
+        downloads:  1463
+        updated_at: 1786027718000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mercenai-vault-sync
 alt:
   - https://github.com/xmachinesai/mercenai-vault-sync
-downloads: 11
+downloads: 23
 updated at: "2026-07-23T03:29:52Z"
 related to:
   - "[[GitHub - 1309044398]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect your Obsidian vault to a MERCENAI knowledge base and sync Markdown notes via Obsidian's Vault API. Run sync immediately when the dashboard connection starts and on note create/modify/rename/delete, sending each note's vault-relative path and Markdown content to MERCENAI while keeping tokens in Obsidian SecretStorage and leaving files unmodified."
 
     stats: {
-        downloads:  11
+        downloads:  23
         updated_at: 1784777392000
     }
 }

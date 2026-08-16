@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/modules
 alt:
   - https://github.com/polyipseity/obsidian-modules
-downloads: 6497
-updated at: "2025-03-22T11:44:26Z"
+downloads: 6588
+updated at: "2026-08-03T00:21:18Z"
 related to:
   - "[[GitHub - 669649952]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Load JavaScript and TypeScript modules from your vault and the Internet on all platforms, treating Markdown files as loadable code. Resolve relative paths, vault paths, Markdown links, wikilinks and external URLs, and support CommonJS and ES modules, circular CommonJS deps, nested imports, and source maps for debugging."
 
     stats: {
-        downloads:  6497
-        updated_at: 1742643866000
+        downloads:  6588
+        updated_at: 1785716478000
     }
 }
 ```

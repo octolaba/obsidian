@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/csvzall
 alt:
   - https://github.com/vincentlaucsb/obsidian-csvzall
-downloads: 316
+downloads: 380
 updated at: "2026-07-13T05:41:19Z"
 related to:
   - "[[GitHub - 1252081528]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Open and edit .csv files in an embedded, editable table view inside Obsidian by connecting to a local csvzall helper. Create new CSVs from folder menus and install or update the helper binary with verified downloads. Regenerate charts and export Markdown tables when CSVs change."
 
     stats: {
-        downloads:  316
+        downloads:  380
         updated_at: 1783921279000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lazy-album
 alt:
   - https://github.com/somehowitworks/lazy-album
-downloads: 130
+downloads: 146
 updated at: "2026-03-13T13:51:55Z"
 related to:
   - "[[GitHub - 1178864471]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display images in a Masonry (waterfall) layout from multiple sources: web URLs, individual files, or entire folders. Customize columns, gaps and pagination; exclude specific images, show hover captions via \"Path | Caption\", and auto-repair paths when files are moved or renamed."
 
     stats: {
-        downloads:  130
+        downloads:  146
         updated_at: 1773409915000
     }
 }

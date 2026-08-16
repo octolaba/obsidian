@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rainbow-folders-fixer
 alt:
   - https://github.com/dee158/obsidian-rainbow-folders-fixer
-downloads: 1970
+downloads: 2061
 updated at: "2025-04-12T01:36:28Z"
 related to:
   - "[[GitHub - 956892161]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fix rainbow folder color flicker in the File Explorer by adding stable data attributes to folder elements so colors remain consistent while scrolling. Apply per-folder numbering with optional recursive propagation and target folders in your theme/CSS via the data attribute (e.g. data-foldernumber) for reliable rainbow styling."
 
     stats: {
-        downloads:  1970
+        downloads:  2061
         updated_at: 1744421788000
     }
 }

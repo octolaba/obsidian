@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-format-code
 alt:
   - https://github.com/ivariable/Obsidian-Format-Code
-downloads: 12614
+downloads: 12716
 updated at: "2022-03-19T17:08:22Z"
 related to:
   - "[[GitHub - 471703410]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format code blocks written in JSON, YAML, HTML, GraphQL, and TypeScript using Prettier. Apply custom commands to clean up and standardize embedded code snippets inside your notes."
 
     stats: {
-        downloads:  12614
+        downloads:  12716
         updated_at: 1647709702000
     }
 }

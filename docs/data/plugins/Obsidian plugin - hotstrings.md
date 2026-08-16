@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hotstrings
 alt:
   - https://github.com/wakywayne/obsidian-hotstrings
-downloads: 962
+downloads: 980
 updated at: "2025-01-10T02:46:53Z"
 related to:
   - "[[GitHub - 914625926]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create custom hotstrings to automatically expand short triggers into longer text as you type. Define simple or complex replacements, use them in any note or editor, and reload hotstrings on the fly without restarting Obsidian."
 
     stats: {
-        downloads:  962
+        downloads:  980
         updated_at: 1736477213000
     }
 }

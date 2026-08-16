@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nightly-journal
 alt:
   - https://github.com/damofer/nightly-journal
-downloads: 64
+downloads: 106
 updated at: "2026-07-17T02:15:12Z"
 related to:
   - "[[GitHub - 1303094926]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Interview yourself each night with a local AI (via Ollama) and generate a confirmed daily note capturing mood, energy, summary, wins, to-dos, and wikilinked person and project notes. Build and query a local embeddings memory of past notes and attachments with dated citations, with optional local voice I/O."
 
     stats: {
-        downloads:  64
+        downloads:  106
         updated_at: 1784254512000
     }
 }

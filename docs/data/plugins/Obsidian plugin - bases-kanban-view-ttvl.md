@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/bases-kanban-view-ttvl
 alt:
   - https://github.com/totocaster/kanban-base-view-obsidian
-downloads: 535
-updated at: "2026-05-22T20:57:14Z"
+downloads: 809
+updated at: "2026-07-28T04:44:40Z"
 related to:
   - "[[GitHub - 1246713117]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Better Kanban Bases View adds a clean Kanban layout to Obsidian Bases. Columns are built from the active Bases grouping and cards show each note's title plus the properties you already selected in Bases, including formula values. Choose whether to show empty properties and add small or large plain-text previews from the note body. Reorder columns and cards with drag-and-drop, keyboard shortcuts, or context menus. Layouts are saved per grouping, and card order resets naturally when the Base sort changes. When a board is grouped by a writable note property, moving a card to another column updates that note's frontmatter. You can also add notes directly to writable columns and rename or delete notes from the card menu. The plugin keeps the interface minimal and uses Obsidian's existing Base controls for sorting, grouping, filtering, and property selection. It makes no network requests and has no telemetry."
 
     stats: {
-        downloads:  535
-        updated_at: 1779483434000
+        downloads:  809
+        updated_at: 1785213880000
     }
 }
 ```

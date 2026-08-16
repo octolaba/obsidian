@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/second-brain
 alt:
   - https://github.com/graceruowenwang/obsidian-second-brain
-downloads: 316
+downloads: 393
 updated at: "2026-05-18T06:44:35Z"
 related to:
   - "[[GitHub - 1215006158]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Compile scattered notes into a structured, interlinked wiki with bidirectional [[links]], entity pages, source summaries, and a mind map. Search semantically and chat with an AI that answers using and cites your own notes; run incremental compiles that reprocess only changed files for fast updates."
 
     stats: {
-        downloads:  316
+        downloads:  393
         updated_at: 1779086675000
     }
 }

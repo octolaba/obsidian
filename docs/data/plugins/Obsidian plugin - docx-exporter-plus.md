@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/docx-exporter-plus
 alt:
   - https://github.com/michellegdyason/docx-exporter-plus
-downloads: 698
-updated at: "2026-07-22T03:18:22Z"
+downloads: 1117
+updated at: "2026-07-28T12:47:05Z"
 related to:
   - "[[GitHub - 1250249314]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Export the active Markdown note to .docx with mapped Word heading levels, preserved clickable links, and embedded images and notes, using Obsidian's renderer to keep inline styling. Adjust rendered text colors for readability on white paper, convert image captions into Word figure captions with numbering, and save the .docx beside the source note."
 
     stats: {
-        downloads:  698
-        updated_at: 1784690302000
+        downloads:  1117
+        updated_at: 1785242825000
     }
 }
 ```

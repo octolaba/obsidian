@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/plaud-importer
 alt:
   - https://github.com/ckelsoe/obsidian-plaud-importer
-downloads: 883
-updated at: "2026-07-18T15:12:50Z"
+downloads: 1190
+updated at: "2026-08-10T18:53:03Z"
 related to:
   - "[[GitHub - 1209817233]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Import meeting recordings, AI summaries, transcripts, and attachments from Plaud.AI into your Obsidian vault as Markdown notes. Create one note per recording with frontmatter metadata, a Plaud-generated summary, a heading-based transcript with chapter navigation, and a matching -assets folder for images and other artifacts."
 
     stats: {
-        downloads:  883
-        updated_at: 1784387570000
+        downloads:  1190
+        updated_at: 1786387983000
     }
 }
 ```

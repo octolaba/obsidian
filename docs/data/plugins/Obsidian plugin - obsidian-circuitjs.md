@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-circuitjs
 alt:
   - https://github.com/stevengann/obsidian-circuitjs
-downloads: 5459
+downloads: 5520
 updated at: "2026-02-27T02:02:22Z"
 related to:
   - "[[GitHub - 440297675]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed interactive CircuitJS simulations directly into notes and run them offline using the bundled engine. View and interact with live simulations in Reading view, open circuits for quick editing, and store circuit source in fenced code blocks for version control and backup."
 
     stats: {
-        downloads:  5459
+        downloads:  5520
         updated_at: 1772157742000
     }
 }

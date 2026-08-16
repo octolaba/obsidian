@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-daily-notes
 alt:
   - https://github.com/willjhliang/obsidian-better-daily-notes
-downloads: 123
+downloads: 169
 updated at: "2026-06-29T20:14:26Z"
 related to:
   - "[[GitHub - 1280953870]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and organize daily notes in a single infinite-scrolling page. Jump between dates and see which days have notes using the integrated calendar. Runs standalone with core Daily Notes features built in."
 
     stats: {
-        downloads:  123
+        downloads:  169
         updated_at: 1782764066000
     }
 }

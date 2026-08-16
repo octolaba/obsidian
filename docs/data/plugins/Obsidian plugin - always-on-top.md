@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/always-on-top
 alt:
   - https://github.com/ras0q/obsidian-always-on-top
-downloads: 456
+downloads: 574
 updated at: "2026-06-16T12:56:22Z"
 related to:
   - "[[GitHub - 1205030577]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep the Obsidian window on top of other applications. Toggle the topmost state via a command or hotkey. Run on desktop only; behavior may vary across operating systems."
 
     stats: {
-        downloads:  456
+        downloads:  574
         updated_at: 1781614582000
     }
 }

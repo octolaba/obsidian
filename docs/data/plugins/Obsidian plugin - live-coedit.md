@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/live-coedit
 alt:
   - https://github.com/kebl3541/Obsidian-AI-Co-Editor
-downloads: 48
+downloads: 76
 updated at: "2026-07-13T02:14:02Z"
 related to:
   - "[[GitHub - 1292617665]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit notes with AI-suggested tracked changes shown inline as struck deletions and green insertions. Review and accept or reject edits word-by-word from a side-panel chat or per-change dialog, keeping full control over your text."
 
     stats: {
-        downloads:  48
+        downloads:  76
         updated_at: 1783908842000
     }
 }

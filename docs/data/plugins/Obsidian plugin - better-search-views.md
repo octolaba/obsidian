@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-search-views
 alt:
   - https://github.com/ivan-lednev/better-search-views
-downloads: 46087
+downloads: 47513
 updated at: "2024-12-01T14:32:06Z"
 related to:
   - "[[GitHub - 666683607]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Decorate Obsidian's global search, backlinks and embedded queries with outliner-style context and clickable breadcrumbs for every match. Render matched Markdown to HTML, chain ancestor headings and list items into breadcrumbs, and display sub-list items or the first section below a matched heading for immediate context."
 
     stats: {
-        downloads:  46087
+        downloads:  47513
         updated_at: 1733063526000
     }
 }

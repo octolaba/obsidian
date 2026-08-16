@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/remark-bridge
 alt:
   - https://github.com/bggbtac/obsidian-remark-bridge
-downloads: 117
+downloads: 131
 updated at: "2026-04-17T17:53:10Z"
 related to:
   - "[[GitHub - 1212737840]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Push the active Obsidian note to your reMarkable tablet with a single command. Display live reMark Bridge sync status in the status bar, surface clear error notices on failures, and connect over HTTP to a locally hosted reMark Bridge so data stays on your infrastructure."
 
     stats: {
-        downloads:  117
+        downloads:  131
         updated_at: 1776448390000
     }
 }

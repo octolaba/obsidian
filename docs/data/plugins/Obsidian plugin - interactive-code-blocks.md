@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/interactive-code-blocks
 alt:
   - https://github.com/windesheim-hbo-ict/Obsidian-Interactive-Code-Block-Plugin
-downloads: 405
+downloads: 413
 updated at: "2024-06-06T18:42:06Z"
 related to:
   - "[[GitHub - 810550345]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview interactive code blocks in Obsidian's reader mode to view and test markdown examples while drafting. Indicate which blocks are runnable and editable and which are static, while noting preview limits: no in-preview editing, no sandbox mode, and no syntax highlighting."
 
     stats: {
-        downloads:  405
+        downloads:  413
         updated_at: 1717699326000
     }
 }

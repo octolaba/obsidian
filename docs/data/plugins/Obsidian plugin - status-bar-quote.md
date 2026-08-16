@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/status-bar-quote
 alt:
   - https://github.com/yesjinu/StatusBarQuote
-downloads: 4423
+downloads: 4440
 updated at: "2022-10-16T07:32:52Z"
 related to:
   - "[[GitHub - 552190338]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show a personal quote in the status bar for daily motivation or reflection. Change the displayed quote in the plugin settings to keep a consistent, relevant message."
 
     stats: {
-        downloads:  4423
+        downloads:  4440
         updated_at: 1665905572000
     }
 }

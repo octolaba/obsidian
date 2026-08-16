@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wysimark-editor
 alt:
   - https://github.com/takeshy/obsidian-wysimark
-downloads: 3669
+downloads: 4103
 updated at: "2026-07-15T23:00:56Z"
 related to:
   - "[[GitHub - 1112732953]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit notes with a WYSIWYG rich-text interface while preserving the underlying Markdown source. Apply familiar formatting and block elements (headings, lists, code blocks, tables, HTML embeds), insert links and images, and keep YAML frontmatter hidden and preserved with auto-save and a reload option."
 
     stats: {
-        downloads:  3669
+        downloads:  4103
         updated_at: 1784156456000
     }
 }

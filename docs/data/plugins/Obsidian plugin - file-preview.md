@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-preview
 alt:
   - https://github.com/xhuajin/obsidian-file-preview
-downloads: 5086
+downloads: 5157
 updated at: "2025-01-09T14:15:25Z"
 related to:
   - "[[GitHub - 804142757]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display preview text and inline images beneath markdown filenames in the file explorer for at-a-glance reading. Toggle previews with the explorer button and refresh the view to include newly created files."
 
     stats: {
-        downloads:  5086
+        downloads:  5157
         updated_at: 1736432125000
     }
 }

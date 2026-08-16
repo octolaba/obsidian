@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/weekly-goal-tracker
 alt:
   - https://github.com/gitgorman/weekly-goal-tracker
-downloads: 1212
+downloads: 1222
 updated at: "2025-01-04T19:02:44Z"
 related to:
   - "[[GitHub - 875531364]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track daily and weekly goals with status-bar buttons that show current and target values and open to a colored progress bar. Attach tasks to goals to award points on completion and update progress directly from the button with clicks to increment or decrement. Save progress to daily or weekly note frontmatter."
 
     stats: {
-        downloads:  1212
+        downloads:  1222
         updated_at: 1736017364000
     }
 }

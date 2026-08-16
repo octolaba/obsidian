@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sidebar-mimocode
 alt:
   - https://github.com/allenx95/sidebar-mimocode
-downloads: 242
+downloads: 279
 updated at: "2026-07-02T04:51:31Z"
 related to:
   - "[[GitHub - 1273137073]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed a MiMo-Code agent in your vault to read, write, search, run bash, and perform multi-step workflows directly on files. Edit inline with word-level diff previews, use slash commands/Skills and @mentions for files or subagents, toggle Plan or Instruction modes, and connect external MCP servers."
 
     stats: {
-        downloads:  242
+        downloads:  279
         updated_at: 1782967891000
     }
 }

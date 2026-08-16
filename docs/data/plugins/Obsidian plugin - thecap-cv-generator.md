@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/thecap-cv-generator
 alt:
   - https://github.com/xthecapx/Thecap-cv-generator
-downloads: 1063
+downloads: 1095
 updated at: "2025-02-19T16:11:49Z"
 related to:
   - "[[GitHub - 920854092]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate a PDF CV directly from Markdown in your Obsidian vault. Create and edit resume sections using the plugin's structured Markdown notation and preview a PDF that matches the web version's formatting."
 
     stats: {
-        downloads:  1063
+        downloads:  1095
         updated_at: 1739981509000
     }
 }

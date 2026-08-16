@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ahmed-toolkit
 alt:
   - https://github.com/ahmdmusa/obsidian-toolkit
-downloads: 560
+downloads: 833
 updated at: "2026-06-22T08:20:04Z"
 related to:
   - "[[GitHub - 1266523334]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add seven integrated modules: a searchable formatting palette, AI smart suggestions and template generator, and image controls with resize, align, rotate and lightbox. Focus with fullscreen reading view, pin quick-access buttons, use SF Symbols-style file tree icons and zoom into a folder as the visual vault root."
 
     stats: {
-        downloads:  560
+        downloads:  833
         updated_at: 1782116404000
     }
 }

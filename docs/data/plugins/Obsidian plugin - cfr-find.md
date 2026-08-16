@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cfr-find
 alt:
   - https://github.com/cferrugem/obsidian-cfr-find
-downloads: 107
+downloads: 197
 updated at: "2026-07-04T23:21:25Z"
 related to:
   - "[[GitHub - 1289421359]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search your vault with a background worker-powered full-text engine that returns ranked, typo-tolerant, prefix-matching results across Markdown, Canvas, and plaintext. Jump to matches in the active note, apply phrase, exclusion, extension, and path filters, and keep the UI responsive with background indexing and lightweight result highlighting."
 
     stats: {
-        downloads:  107
+        downloads:  197
         updated_at: 1783207285000
     }
 }

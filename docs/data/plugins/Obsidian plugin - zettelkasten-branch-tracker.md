@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zettelkasten-branch-tracker
 alt:
   - https://github.com/thelivingphilosophy/zettelkasten-branch-tracker
-downloads: 2392
+downloads: 2438
 updated at: "2025-07-06T10:13:00Z"
 related to:
   - "[[GitHub - 1014715786]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize Zettelkasten hierarchies in a branch-style, navigable graph that recognizes complex Zettelkasten ID formats. Show color-coded tiers and scaled nodes with interactive pan/zoom and hover feedback to explore ancestors, siblings, continuations and branching children."
 
     stats: {
-        downloads:  2392
+        downloads:  2438
         updated_at: 1751796780000
     }
 }

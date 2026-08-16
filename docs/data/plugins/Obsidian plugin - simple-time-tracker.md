@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/simple-time-tracker
 alt:
   - https://github.com/ellpeck/ObsidianSimpleTimeTracker
-downloads: 40713
-updated at: "2026-05-18T09:11:54Z"
+downloads: 41688
+updated at: "2026-08-07T20:33:28Z"
 related to:
   - "[[GitHub - 542096886]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Insert a time tracker into any note and start or end named segments to record durations. View trackers in live preview or reading mode and see entries saved and summarized in a table. Access a public API for Dataview/DataviewJS to load trackers and compute totals across the vault."
 
     stats: {
-        downloads:  40713
-        updated_at: 1779095514000
+        downloads:  41688
+        updated_at: 1786134808000
     }
 }
 ```

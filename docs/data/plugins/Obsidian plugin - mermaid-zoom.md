@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/mermaid-zoom
 alt:
   - https://github.com/xiaozhuang0433/mermaid-zoom
-downloads: 4594
-updated at: "2026-07-04T09:22:24Z"
+downloads: 5749
+updated at: "2026-08-11T06:06:44Z"
 related to:
   - "[[GitHub - 1128133120]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Zoom and pan Mermaid diagrams inside Obsidian with mouse wheel, drag, or touch gestures. Open diagrams in a fullscreen modal, reset to fit, use on-screen zoom controls, and view a real-time scale indicator while navigating complex charts."
 
     stats: {
-        downloads:  4594
-        updated_at: 1783156944000
+        downloads:  5749
+        updated_at: 1786428404000
     }
 }
 ```

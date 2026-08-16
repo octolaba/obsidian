@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/import-fixer
 alt:
   - https://github.com/tonylee2016/obsidian-import-fixer
-downloads: 169
+downloads: 193
 updated at: "2026-05-04T01:50:46Z"
 related to:
   - "[[GitHub - 1227725685]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Clean notes imported from web clippers by removing oversized favicons, avatars, badges, tracking pixels and leftover resource folders. Repair broken ![[.../.resources/...]] wiki links by relinking to the best res_*.resources folder, shrink known UI icons with a size modifier, and strip image embeds nested inside link text."
 
     stats: {
-        downloads:  169
+        downloads:  193
         updated_at: 1777859446000
     }
 }

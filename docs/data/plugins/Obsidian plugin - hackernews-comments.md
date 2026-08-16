@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hackernews-comments
 alt:
   - https://github.com/gapmiss/hackernews-comments
-downloads: 105
+downloads: 116
 updated at: "2026-07-17T22:48:33Z"
 related to:
   - "[[GitHub - 986691213]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fetch and save Hacker News comments as Markdown notes. Preserve threaded indentation and include post metadata and comment counts. Convert HTML to safe Markdown, add linked usernames and timestamps, and customize filenames with template variables."
 
     stats: {
-        downloads:  105
+        downloads:  116
         updated_at: 1784328513000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/ics
 alt:
   - https://github.com/open-horizon-labs/obsidian-ics
-downloads: 27909
-updated at: "2025-09-26T19:24:11Z"
+downloads: 29540
+updated at: "2026-08-03T19:17:04Z"
 related to:
   - "[[GitHub - 373940609]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Import events from calendar/ICS URLs into your Daily Note on demand using the date of the currently open daily or periodic note. Call getEvents() with date strings, moment, or Date objects, leverage vdir local calendar cache for speed, and integrate output with Dataview, Templater, or Day Planner."
 
     stats: {
-        downloads:  27909
-        updated_at: 1758914651000
+        downloads:  29540
+        updated_at: 1785784624000
     }
 }
 ```

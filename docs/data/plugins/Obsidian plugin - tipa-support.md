@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tipa-support
 alt:
   - https://github.com/akdemirdeniz/obsidian-tipa
-downloads: 340
+downloads: 357
 updated at: "2025-12-20T19:24:08Z"
 related to:
   - "[[GitHub - 1073529401]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert TIPA/TeX IPA notation to Unicode IPA symbols using \\textipa{}, \\tipa{}, \\nt{}, and \\wt{} commands. Render inline $...$ transcriptions and code blocks, with automatic rendering for code blocks in edit and reading modes. Expect no live inline preview for some constructs (e.g. \\textschwa)."
 
     stats: {
-        downloads:  340
+        downloads:  357
         updated_at: 1766258648000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/vir
 alt:
   - https://github.com/djolex999/vir-obsidian
-downloads: 109
-updated at: "2026-06-26T11:15:00Z"
+downloads: 129
+updated at: "2026-07-31T12:47:11Z"
 related to:
   - "[[GitHub - 1251777721]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Surface vir-distilled LLM wiki notes in Obsidian's sidebar, offering Recent and Related tabs that show notes relevant to the file you're editing. Display a live daemon-health dot in the status bar to indicate healthy, stale, or down states."
 
     stats: {
-        downloads:  109
-        updated_at: 1782472500000
+        downloads:  129
+        updated_at: 1785502031000
     }
 }
 ```

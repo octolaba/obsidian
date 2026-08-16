@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/evernote-decryptor
 alt:
   - https://github.com/rcmdnk/obsidian-evernote-decryptor
-downloads: 2627
+downloads: 2662
 updated at: "2025-02-23T22:09:24Z"
 related to:
   - "[[GitHub - 732757752]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Decrypt Evernote-encrypted data imported as text by entering the password, showing decrypted content inline or replacing the selection. Format encrypted blocks as Evernote secret inline buttons for click-to-decrypt in preview and encrypt selected text into Evernote secret format."
 
     stats: {
-        downloads:  2627
+        downloads:  2662
         updated_at: 1740348564000
     }
 }

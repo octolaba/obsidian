@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/imap-mail-importer
 alt:
   - https://github.com/andreas13xxx/obsidian-mail-importer
-downloads: 242
+downloads: 311
 updated at: "2026-06-06T13:14:46Z"
 related to:
   - "[[GitHub - 1235501792]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import unread emails from any IMAP mailbox into your vault as Markdown notes with YAML frontmatter. Convert HTML to Markdown while preserving tables, headings and lists; save attachments and inline images locally with links; sync automatically or on demand, handle duplicate filenames, and show sync progress."
 
     stats: {
-        downloads:  242
+        downloads:  311
         updated_at: 1780751686000
     }
 }

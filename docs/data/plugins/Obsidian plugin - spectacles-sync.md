@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/spectacles-sync
 alt:
   - https://github.com/r3d5/obsidian-spectacles-sync
-downloads: 80
+downloads: 87
 updated at: "2026-05-26T14:26:18Z"
 related to:
   - "[[GitHub - 1250332701]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export your Obsidian vault as a JSON knowledge graph and sync it to a Spectacles AR Lens to explore notes in 3D. Encrypt the export locally with a password-only key (server stores only ciphertext), choose to include full note bodies or exclude folders/tags, and enable auto-sync to keep the lens up to date."
 
     stats: {
-        downloads:  80
+        downloads:  87
         updated_at: 1779805578000
     }
 }

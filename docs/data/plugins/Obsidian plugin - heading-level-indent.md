@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/heading-level-indent
 alt:
   - https://github.com/svonjoi/obsidian-heading-level-indent
-downloads: 32468
+downloads: 33286
 updated at: "2026-04-17T02:35:24Z"
 related to:
   - "[[GitHub - 474391299]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Indent content under headings to create a clear visual hierarchy and make document structure easier to scan. Customize indentation for each heading level to match your layout. Apply indentation across editor, live preview, reading view, PDF export and common embeds, and toggle per note with the heading-indent frontmatter."
 
     stats: {
-        downloads:  32468
+        downloads:  33286
         updated_at: 1776393324000
     }
 }

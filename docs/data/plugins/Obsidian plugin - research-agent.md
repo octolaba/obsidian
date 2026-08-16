@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/research-agent
 alt:
   - https://github.com/0126-hash/obsidian-research-agent
-downloads: 103
+downloads: 113
 updated at: "2026-04-30T01:08:17Z"
 related to:
   - "[[GitHub - 1221693191]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run conversational research workflows with chat-driven tasks, progress tracking, separate evidence notes, and Markdown deliverables. Connect to Deep Research Cloud for online search, fact-checking, and long-running runs, sending the current note or selected text only when you explicitly share them. Export completed research back into your vault as Markdown."
 
     stats: {
-        downloads:  103
+        downloads:  113
         updated_at: 1777511297000
     }
 }

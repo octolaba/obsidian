@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/harper
 alt:
   - https://github.com/automattic/harper-obsidian-plugin
-downloads: 100613
-updated at: "2026-06-24T16:52:46Z"
+downloads: 105643
+updated at: "2026-07-29T15:16:27Z"
 related to:
   - "[[GitHub - 825503108]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Check grammar and style locally inside Obsidian with a privacy-first, on-device engine that never sends your notes to the internet. Ignore code fences and inline code, get real-time, low-latency suggestions, and inspect or extend the open-source code with English support by default."
 
     stats: {
-        downloads:  100613
-        updated_at: 1782319966000
+        downloads:  105643
+        updated_at: 1785338187000
     }
 }
 ```

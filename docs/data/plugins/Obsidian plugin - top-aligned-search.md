@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/top-aligned-search
 alt:
   - https://github.com/tyronewj/top-aligned-search
-downloads: 73
+downloads: 82
 updated at: "2026-06-17T04:24:02Z"
 related to:
   - "[[GitHub - 1271843038]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search the active Markdown note with a floating find bar that stays above the editor and highlights all matches. Align the selected match to the top of the editor as you jump between results, keep the search window open while editing, and drag or resize it without closing."
 
     stats: {
-        downloads:  73
+        downloads:  82
         updated_at: 1781670242000
     }
 }

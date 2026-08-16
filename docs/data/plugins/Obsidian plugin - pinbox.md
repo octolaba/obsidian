@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pinbox
 alt:
   - https://github.com/kuoe0/obsidian-pinbox
-downloads: 441
+downloads: 476
 updated at: "2026-05-18T04:12:07Z"
 related to:
   - "[[GitHub - 1004491087]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture text and URLs from your mobile share menu and append them directly into designated notes in your vault. Pin notes for quick sharing, include file bookmarks, set global or per-note append templates with timestamps, and keep pinned paths updated when files are moved or renamed."
 
     stats: {
-        downloads:  441
+        downloads:  476
         updated_at: 1779077527000
     }
 }

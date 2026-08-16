@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/trans-hub-plugin-localizer
 alt:
   - https://github.com/sakenw/trans-hub-obsidian-localizer
-downloads: 67
-updated at: "2026-07-23T21:47:19Z"
+downloads: 275
+updated at: "2026-08-03T22:05:23Z"
 related to:
   - "[[GitHub - 1305280310]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Localize Obsidian community plugins into your chosen language by applying verified translations to plugin names, descriptions, settings, commands, and interface text at runtime. Keep plugin files and notes untouched while using version-aware, exact matches that exclude editors, reading views, code, scripts, and editable content."
 
     stats: {
-        downloads:  67
-        updated_at: 1784843239000
+        downloads:  275
+        updated_at: 1785794723000
     }
 }
 ```

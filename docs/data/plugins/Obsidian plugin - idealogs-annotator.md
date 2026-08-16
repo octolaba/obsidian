@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/idealogs-annotator
 alt:
   - https://github.com/idlgcl/obsidialogs
-downloads: 639
+downloads: 705
 updated at: "2026-06-15T07:56:36Z"
 related to:
   - "[[GitHub - 939501839]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert and view Idealogs articles directly in Obsidian using article suggestions and WritingLinks that open articles in a dedicated WritingView with rendered Markdown and syntax highlighting. Annotate notes and inline comments to link markdown text to specific article passages with automatic validation, Prev/Next navigation, and flash-highlighted passage jumps; Idealogs files are fetched read-only and cleaned up automatically."
 
     stats: {
-        downloads:  639
+        downloads:  705
         updated_at: 1781510196000
     }
 }

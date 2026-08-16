@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/fight-note
 alt:
   - https://github.com/loac/obsidian-fight-note
-downloads: 1453
+downloads: 1483
 updated at: "2024-04-21T22:53:07Z"
 related to:
   - "[[GitHub - 771749175]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Tekken notation into an easy-to-read visual format directly from fight code blocks in your notes. Parse full, short, or loose syntax, show fields like name, damage, and hits, and apply custom abbreviations, colors, icons, and effects to buttons and stances."
 
     stats: {
-        downloads:  1453
+        downloads:  1483
         updated_at: 1713739987000
     }
 }

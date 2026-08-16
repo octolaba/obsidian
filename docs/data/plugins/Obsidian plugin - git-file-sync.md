@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/git-file-sync
 alt:
   - https://github.com/firstsun-dev/git-files-sync
-downloads: 792
-updated at: "2026-07-23T07:17:44Z"
+downloads: 1172
+updated at: "2026-08-07T15:58:19Z"
 related to:
   - "[[GitHub - 1197500954]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # Git File Sync
 
-Syncs individual notes with GitHub, GitLab or a self-hosted Gitea through an API key, on desktop and mobile, without installing Git or creating a local repository. Each push, pull, remote deletion or file move is preceded by a sync plan describing the changes to be applied. A searchable tree view shows sync status, compares local and remote content with diffs, resolves conflicts visually and handles renamed files and moved folders without leaving remote duplicates.
+Syncs selected notes rather than the whole vault to GitHub, GitLab or a self-hosted Gitea, on desktop and mobile, without installing Git or creating a local .git repository. Every push, pull, remote deletion or file move is preceded by a sync plan listing the changes that will be applied. A searchable tree view shows sync status, built-in diffs compare local and remote content, conflicts are resolved visually, and renamed files or moved folders sync without leaving duplicates behind remotely.
 
 ```cue
 plugin: {
@@ -33,12 +33,12 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/git-file-sync"
     github_url:  "https://github.com/firstsun-dev/git-files-sync"
-    description: "Selectively sync individual notes with GitLab or GitHub. Use API key to push, pull, diff, and resolve conflicts — file by file, on mobile and desktop. - This plugin has not been manually reviewed by Obsidian staff."
+    description: "Both mobile and desktop. Selectively sync the notes you choose—not your whole vault—with GitHub, GitLab, or Gitea. No local Git repository required. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Git File Sync gives you safe, file-by-file Git sync for Obsidian on desktop and mobile—without installing Git or creating a local .git repository. Connect directly to GitHub, GitLab, or self-hosted Gitea, then choose exactly which notes to push or pull. Keep personal notes private while sharing, publishing, or backing up selected files through your existing Git repository. Before every push, pull, remote deletion, or file move, review a clear sync plan of the changes that will be applied. Browse sync status in a searchable tree view, compare local and remote content with built-in diffs, resolve conflicts visually, and sync renamed files or moved folders without leaving duplicates behind remotely. Git File Sync is for people who want Git’s portability and ownership without turning their entire vault into a Git working tree."
 
     stats: {
-        downloads:  792
-        updated_at: 1784791064000
+        downloads:  1172
+        updated_at: 1786118299000
     }
 }
 ```

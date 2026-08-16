@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chinese-calendar
 alt:
   - https://github.com/devilroshan/obsidian-lunar-calendar
-downloads: 14779
+downloads: 15050
 updated at: "2025-12-28T10:41:16Z"
 related to:
   - "[[GitHub - 817185943]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a Chinese-style calendar showing lunar dates, traditional festivals, holiday adjustments and solar terms in month or year view. Switch views and click a day, week, month, quarter or year to create corresponding Periodic Notes; support QuickAdd templates and date fields for automated note creation."
 
     stats: {
-        downloads:  14779
+        downloads:  15050
         updated_at: 1766918476000
     }
 }

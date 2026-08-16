@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/generate-timeline
 alt:
   - https://github.com/shanshuimei/obsidian-generate-timeline
-downloads: 3238
+downloads: 3306
 updated at: "2025-11-26T12:50:07Z"
 related to:
   - "[[GitHub - 915332839]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate timelines from folders, tags, metadata, or file links by scanning notes' time attributes. Export as a timeline view or Markdown file, and mark milestones via a custom frontmatter attribute to render special milestone cards."
 
     stats: {
-        downloads:  3238
+        downloads:  3306
         updated_at: 1764161407000
     }
 }

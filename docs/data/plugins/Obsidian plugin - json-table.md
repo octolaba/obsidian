@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/json-table
 alt:
   - https://github.com/dario-baumberger/obsidian-json-table
-downloads: 8307
+downloads: 8387
 updated at: "2025-09-25T13:59:35Z"
 related to:
   - "[[GitHub - 705294001]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert JSON to Markdown tables and back. Generate a table from a selected JSON string or from a URL returning JSON, and produce JSON from a selected Markdown table."
 
     stats: {
-        downloads:  8307
+        downloads:  8387
         updated_at: 1758808775000
     }
 }

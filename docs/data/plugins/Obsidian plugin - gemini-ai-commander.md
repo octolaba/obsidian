@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gemini-ai-commander
 alt:
   - https://github.com/etsefzale/obsidian_gemini-ai-commander
-downloads: 493
+downloads: 577
 updated at: "2026-05-22T17:44:40Z"
 related to:
   - "[[GitHub - 1159557230]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with Google Gemini directly in your vault and insert AI responses into notes or process attached files. Summarize notes and media (text, images, audio, embedded notes), stream real-time output, cancel generation instantly, and revert safely if errors occur."
 
     stats: {
-        downloads:  493
+        downloads:  577
         updated_at: 1779471880000
     }
 }

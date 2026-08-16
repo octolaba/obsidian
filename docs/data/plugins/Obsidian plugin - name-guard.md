@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/name-guard
 alt:
   - https://github.com/toadfans/NameGuard
-downloads: 115
+downloads: 148
 updated at: "2026-06-08T03:11:18Z"
 related to:
   - "[[GitHub - 1261825816]]"
@@ -28,7 +28,7 @@ Enforces unique note names across the vault so Obsidian never silently rewrites 
 plugin: {
     id:     "name-guard"
     name:   "NameGuard"
-    author: "toadfans"
+    author: "astroyhs"
     repo:   "toadfans/NameGuard"
 
     html_url:    "https://community.obsidian.md/plugins/name-guard"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep every note name unique and prevent Obsidian from silently rewriting wikilinks when a duplicate appears. Block new-note creation, create-from-link, templates, moves, and renames that would introduce name collisions (shortest-path-aware) so links stay stable and diffs stay clean. Run locally with no network or telemetry."
 
     stats: {
-        downloads:  115
+        downloads:  148
         updated_at: 1780888278000
     }
 }

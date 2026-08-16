@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/chess-pgn-viewer
 alt:
   - https://github.com/puhhh/chess-pgn-obsidian
-downloads: 187
-updated at: "2026-06-17T11:28:58Z"
+downloads: 231
+updated at: "2026-07-27T08:32:43Z"
 related to:
   - "[[GitHub - 1222452796]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render interactive chess games from PGN inside fenced chess code blocks with a clickable board. Navigate moves and reset the board while viewing comments, nested variations, board annotations (square highlights and arrows) and PGN move glyphs."
 
     stats: {
-        downloads:  187
-        updated_at: 1781695738000
+        downloads:  231
+        updated_at: 1785141163000
     }
 }
 ```

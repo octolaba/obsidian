@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/chatobby
 alt:
   - https://github.com/titaniceclair/chatobby-obsidian
-downloads:
-updated at:
+downloads: 153
+updated at: "2026-08-11T20:30:19Z"
 related to:
   - "[[GitHub - 1303305167]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/titaniceclair/chatobby-obsidian"
     description: "A local agent with chat and tool use, with MCP and plugin support. Bring your own API key, Chatobby supports many LLM providers - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Connect Obsidian to a locally installed Chatobby agent runtime over an authenticated loopback transport. Manage runtime lifecycle, vault-authority bridge operations, and UI integration while the local runtime handles models, prompts, memory, tasks, subagents and workflows."
+
+    stats: {
+        downloads:  153
+        updated_at: 1786480219000
+    }
 }
 ```
 

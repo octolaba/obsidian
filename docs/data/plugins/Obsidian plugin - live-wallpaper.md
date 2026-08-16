@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/live-wallpaper
 alt:
   - https://github.com/remememe/Live-Wallpaper
-downloads: 12303
-updated at: "2026-06-21T18:14:31Z"
+downloads: 12991
+updated at: "2026-07-26T18:47:42Z"
 related to:
   - "[[GitHub - 973304370]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add animated or static backgrounds to notes using images or videos (.jpg, .jpeg, .png, .gif, .mp4, .webm, .avif). Customize placement and visual effects (opacity, blur, brightness, contrast), schedule wallpapers by time/day or auto-rotate, manage wallpaper history and full-resolution images, and control transparency and modal styling via CSS selectors."
 
     stats: {
-        downloads:  12303
-        updated_at: 1782065671000
+        downloads:  12991
+        updated_at: 1785091662000
     }
 }
 ```

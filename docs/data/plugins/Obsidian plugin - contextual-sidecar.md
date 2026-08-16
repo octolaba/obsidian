@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/contextual-sidecar
 alt:
   - https://github.com/matthewturk/obsidian-sidecar-panel
-downloads: 2056
+downloads: 2188
 updated at: "2025-05-30T13:34:27Z"
 related to:
   - "[[GitHub - 756522981]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a contextual sidebar for notes via a sidecar-panel frontmatter property or tag-to-panel mappings. Render panel files as if they belong to the active note so widgets and INPUT bindings modify the parent file. Combine multiple panel files into a single sidecar."
 
     stats: {
-        downloads:  2056
+        downloads:  2188
         updated_at: 1748612067000
     }
 }

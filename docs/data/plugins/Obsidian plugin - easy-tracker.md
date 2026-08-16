@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/easy-tracker
 alt:
   - https://github.com/hunter-ji/obsidian-easy-tracker
-downloads: 5457
+downloads: 5909
 updated at: "2026-01-21T05:53:41Z"
 related to:
   - "[[GitHub - 1076688347]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert ready-made tracker modules (overview, heatmap, buttons, goal card) into any note to track a single goal or habit. Log daily progress with one click, review streaks, gaps and an annual heatmap, and keep all check-ins as plain text for easy search and sync. Use in English or Simplified Chinese."
 
     stats: {
-        downloads:  5457
+        downloads:  5909
         updated_at: 1768974821000
     }
 }

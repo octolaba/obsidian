@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/fast-image-upload
 alt:
   - https://github.com/eust-w/obsidian-image-auto-upload
-downloads: 518
+downloads: 526
 updated at: "2024-07-24T12:00:28Z"
 related to:
   - "[[GitHub - 830550466]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload images automatically from clipboard, drag-and-drop, or the file context menu and replace them with online links in your notes. Send uploads to GitHub, Qiniu Cloud, or Samba and block uploads from blacklisted domains to avoid unwanted sources."
 
     stats: {
-        downloads:  518
+        downloads:  526
         updated_at: 1721822428000
     }
 }

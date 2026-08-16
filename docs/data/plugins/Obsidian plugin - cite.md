@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/cite
 alt:
   - https://github.com/pmgwork/obsidian-cite
-downloads: 31
-updated at: "2026-07-21T15:10:57Z"
+downloads: 148
+updated at: "2026-07-28T06:55:44Z"
 related to:
   - "[[GitHub - 1239042604]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render LaTeX (\\cite{key}) and Pandoc ([@key]) citations as numbered internal links and generate a lightweight bibliography from BibTeX blocks in dedicated reference notes. Complete citation keys while typing, resolve entries from notes, and reindex automatically as references change; works in Live Preview and Reading view."
 
     stats: {
-        downloads:  31
-        updated_at: 1784646657000
+        downloads:  148
+        updated_at: 1785221744000
     }
 }
 ```

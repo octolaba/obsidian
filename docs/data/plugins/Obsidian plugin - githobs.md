@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/githobs
 alt:
   - https://github.com/gabalpha/obsidian-githobs
-downloads: 11561
+downloads: 11677
 updated at: "2025-08-14T11:42:03Z"
 related to:
   - "[[GitHub - 717579623]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit and create GitHub issues directly from Obsidian using a dedicated sidebar and note-based workflow, tracking issues by number. Sync changes with Git operations like fetch, pull and push to update the repository and submit issue edits."
 
     stats: {
-        downloads:  11561
+        downloads:  11677
         updated_at: 1755171723000
     }
 }

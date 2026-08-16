@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/paragraph-break
 alt:
   - https://github.com/mateusznitka/obsidian-paragraph-break
-downloads: 271
+downloads: 358
 updated at: "2026-05-21T15:12:48Z"
 related to:
   - "[[GitHub - 1206162153]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Simple plugin to change default Obsidian Enter behaviour: Single Enter creates a new paragraph just like in \"normal\" text editor instead of a soft line break. Lists or code blocks are not affected, so they keep their standard behavior."
 
     stats: {
-        downloads:  271
+        downloads:  358
         updated_at: 1779376368000
     }
 }

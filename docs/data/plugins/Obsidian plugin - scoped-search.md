@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/scoped-search
 alt:
   - https://github.com/ragetrip/scoped-search
-downloads: 1332
+downloads: 1603
 updated at: "2025-11-12T17:13:36Z"
 related to:
   - "[[GitHub - 1050320066]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search only selected folders from a dedicated modal or dockable tab and pick targets with a List or collapsed Tree folder picker. Preview results in an expandable pane, search filenames for non‑Markdown files, use advanced search syntax, and restore folder selections between sessions."
 
     stats: {
-        downloads:  1332
+        downloads:  1603
         updated_at: 1762967616000
     }
 }

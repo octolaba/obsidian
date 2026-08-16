@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vision-recall
 alt:
   - https://github.com/travisvn/obsidian-vision-recall
-downloads: 2246
+downloads: 2286
 updated at: "2025-03-20T21:26:42Z"
 related to:
   - "[[GitHub - 928563761]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture and automatically process screenshots from an intake folder, clipboard, uploads or deep links, extracting text with OCR and analyzing images with vision language models. Generate intelligent Obsidian notes with summaries, tags and metadata, link back to originals, and browse or search via gallery, list, text, tag and date filters."
 
     stats: {
-        downloads:  2246
+        downloads:  2286
         updated_at: 1742506002000
     }
 }

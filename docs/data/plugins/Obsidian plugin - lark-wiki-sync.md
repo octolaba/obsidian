@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lark-wiki-sync
 alt:
   - https://github.com/fszlnwr/obsidian-lark-wiki-sync
-downloads: 461
+downloads: 553
 updated at: "2026-05-13T14:32:40Z"
 related to:
   - "[[GitHub - 1219907057]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync one or more Lark Wiki spaces into your Obsidian vault via lark-cli, mirroring folders and converting Lark markup to native Markdown with GFM tables. Download inline images to local attachments, detect and reconcile three-way conflicts with a pre-sync plan modal, and manage per-space syncs with live progress and selective pull/push."
 
     stats: {
-        downloads:  461
+        downloads:  553
         updated_at: 1778682760000
     }
 }

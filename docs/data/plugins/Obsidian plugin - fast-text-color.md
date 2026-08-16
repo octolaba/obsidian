@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/fast-text-color
 alt:
   - https://github.com/superschnizel/obsidian-fast-text-color
-downloads: 76247
-updated at: "2026-01-10T13:13:59Z"
+downloads: 78980
+updated at: "2026-08-08T15:23:59Z"
 related to:
   - "[[GitHub - 705838567]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Color text using a compact custom syntax (~={id}...=~) and see live previews while editing. Apply and remove colors via context menu, editor integrations, or keyboard; bundle palettes into themes and override per-note with ftcTheme frontmatter. Keep HTML out of the editor and style text with CSS classes for bold, italics, caps and more."
 
     stats: {
-        downloads:  76247
-        updated_at: 1768050839000
+        downloads:  78980
+        updated_at: 1786202639000
     }
 }
 ```

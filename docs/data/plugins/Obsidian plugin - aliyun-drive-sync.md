@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/aliyun-drive-sync
 alt:
   - https://github.com/wjiajie/obsidian-aliyun-sync
-downloads: 119
+downloads: 181
 updated at: "2026-06-27T04:01:19Z"
 related to:
   - "[[GitHub - 1275752380]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault to a specified Aliyun Drive cloud folder via the Aliyun Drive API using OpenList refresh_token authentication. Perform two-way, incremental sync across devices with SHA-1 content checks, parallel transfers, conflict handling (three-way merge for Markdown), deletion protection and status/progress integration."
 
     stats: {
-        downloads:  119
+        downloads:  181
         updated_at: 1782532879000
     }
 }

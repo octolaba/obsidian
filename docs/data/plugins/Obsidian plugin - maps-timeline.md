@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/maps-timeline
 alt:
   - https://github.com/jagajaga/obsidian-maps-timeline
-downloads: 98
+downloads: 134
 updated at: "2026-06-29T13:15:24Z"
 related to:
   - "[[GitHub - 1283868666]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View Google Maps Timeline in a dedicated Obsidian pane with an interactive map and clickable timeline showing visits as dots, precise GPS tracks, routes and flights. Choose day, week, month or custom ranges, resolve unlabeled places via the Places API with local caching, pick OpenStreetMap or Google basemaps, and keep all data on your machine."
 
     stats: {
-        downloads:  98
+        downloads:  134
         updated_at: 1782738924000
     }
 }

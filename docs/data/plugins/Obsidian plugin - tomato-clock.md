@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tomato-clock
 alt:
   - https://github.com/kkbin505/tomato-clock-plugin
-downloads: 193
+downloads: 248
 updated at: "2026-06-08T22:59:14Z"
 related to:
   - "[[GitHub - 1261336129]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run a Pomodoro timer in the sidebar with countdown, phase indicator and session controls. Show minutes in the status bar, send OS notifications and a browser-synthesized beep at phase end, and log sessions to a Markdown file that opens for notes and [[wikilinks]]."
 
     stats: {
-        downloads:  193
+        downloads:  248
         updated_at: 1780959554000
     }
 }

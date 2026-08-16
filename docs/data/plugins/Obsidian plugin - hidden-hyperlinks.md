@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hidden-hyperlinks
 alt:
   - https://github.com/lawrencefeng17/obsidian-hidden-hyperlinks
-downloads: 404
+downloads: 418
 updated at: "2025-06-29T00:40:05Z"
 related to:
   - "[[GitHub - 1005158574]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide secret text behind display text and copy the hidden payload to the clipboard with a click. Configure custom delimiters and separators, show the payload on hover, and receive unobtrusive, theme-aware notifications when text is copied."
 
     stats: {
-        downloads:  404
+        downloads:  418
         updated_at: 1751157605000
     }
 }

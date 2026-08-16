@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/korean-spellchecker
 alt:
   - https://github.com/dldisud/obsidian-korean-spellchecker
-downloads: 2215
-updated at: "2026-05-21T09:39:37Z"
+downloads: 2781
+updated at: "2026-07-23T21:58:18Z"
 related to:
   - "[[GitHub - 834917282]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Check Korean spelling, grammar, and spacing in selected editor text and get correction suggestions. Compare originals and edits in an interactive modal, apply changes at once, exclude registered proper nouns from checks, and handle long documents with automatic pagination and theme-aware UI."
 
     stats: {
-        downloads:  2215
-        updated_at: 1779356377000
+        downloads:  2781
+        updated_at: 1784843898000
     }
 }
 ```

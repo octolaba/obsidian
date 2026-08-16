@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wayfinder
 alt:
   - https://github.com/alas-poor-ophelia/wayfinder
-downloads: 179
+downloads: 230
 updated at: "2026-06-20T05:11:11Z"
 related to:
   - "[[GitHub - 1270821983]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a Pathfinder 1st Edition character sheet in Obsidian's right sidebar, optimized for one-handed iPad use. Store character data in the plugin, link rule text from your vault, calculate AC, saves, attacks, skill totals and spell DCs, and do not enforce prerequisites—seed some defaults but leave legality to you."
 
     stats: {
-        downloads:  179
+        downloads:  230
         updated_at: 1781932271000
     }
 }

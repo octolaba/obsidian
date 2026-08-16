@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/tasks-map
 alt:
   - https://github.com/nicoknl/tasks-map
-downloads: 12350
-updated at: "2026-07-18T19:12:25Z"
+downloads: 12847
+updated at: "2026-07-26T10:51:15Z"
 related to:
   - "[[GitHub - 1026724173]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Visualize your tasks as an interactive, draggable graph with nodes for tasks and edges showing dependencies. Use inline checkbox tasks via Dataview or file-based NoteTask notes, filter by tags, define relationships via emoji/link syntax or frontmatter, and mark tasks done or undone directly from the graph."
 
     stats: {
-        downloads:  12350
-        updated_at: 1784401945000
+        downloads:  12847
+        updated_at: 1785063075000
     }
 }
 ```

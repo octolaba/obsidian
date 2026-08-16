@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/foldable-frontmatter-groups
 alt:
   - https://github.com/cwagner223355/obsidian-foldable-frontmatter-groups
-downloads:
-updated at:
+downloads: 110
+updated at: "2026-07-27T13:25:17Z"
 related to:
   - "[[GitHub - 1232496662]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/cwagner223355/obsidian-foldable-frontmatter-groups"
     description: "Adds collapsible group headers, canonical key ordering, folder-scoped templates, and cleanup tools to the native Properties panel. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Group frontmatter keys into collapsible sections in the native Properties panel and pin keys to a canonical order. Apply folder-scoped templates and auto-reconcile notes to insert defaults, remove stale or empty fields, and manage exclusions and cleanup from settings."
+
+    stats: {
+        downloads:  110
+        updated_at: 1785158717000
+    }
 }
 ```
 

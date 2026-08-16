@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wechat-obsync
 alt:
   - https://github.com/less1001/obsync
-downloads: 3522
+downloads: 5542
 updated at: "2026-07-14T06:38:56Z"
 related to:
   - "[[GitHub - 1272822090]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync WeChat Official Account articles and Mini Program memos directly into your Obsidian vault as formatted Markdown with automatic de-duplication. Show real-time sync status and last-sync time in the status bar and present a dark glassmorphism UI that mirrors the Mini Program."
 
     stats: {
-        downloads:  3522
+        downloads:  5542
         updated_at: 1784011136000
     }
 }

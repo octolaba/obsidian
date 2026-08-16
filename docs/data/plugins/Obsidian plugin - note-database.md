@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/note-database
 alt:
   - https://github.com/pangy9/obsidian-note-database
-downloads: 1592
-updated at: "2026-07-19T09:52:44Z"
+downloads: 2474
+updated at: "2026-08-02T17:32:31Z"
 related to:
   - "[[GitHub - 1244932989]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create database views from note frontmatter and browse notes as table, board, gallery, list, chart, calendar or timeline with inline editing that writes back to Markdown frontmatter. Write computed fields with formulas, apply filters, sorts and groups, embed read-only views, and import or export CSV, Markdown ZIP, or XLSX while keeping data local."
 
     stats: {
-        downloads:  1592
-        updated_at: 1784454764000
+        downloads:  2474
+        updated_at: 1785691951000
     }
 }
 ```

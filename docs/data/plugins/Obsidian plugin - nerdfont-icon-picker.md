@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/nerdfont-icon-picker
 alt:
   - https://github.com/xavwe/obsidian-nerdfont-icon-picker
-downloads: 2487
-updated at: "2025-08-22T06:52:34Z"
+downloads: 2699
+updated at: "2026-08-05T23:55:26Z"
 related to:
   - "[[GitHub - 922090791]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add a searchable Nerd Font icon picker to Obsidian for quick insertion of icons into notes and interface elements. Set a Nerd Font as your text and interface font to render icons correctly."
 
     stats: {
-        downloads:  2487
-        updated_at: 1755845554000
+        downloads:  2699
+        updated_at: 1785974126000
     }
 }
 ```

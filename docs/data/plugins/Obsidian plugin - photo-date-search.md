@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/photo-date-search
 alt:
   - https://github.com/appendjeff/photo-search-obsidian-plugin
-downloads: 27
+downloads: 39
 updated at: "2026-07-08T13:10:01Z"
 related to:
   - "[[GitHub - 1292870604]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Jump from a note to a Google Photos or Immich search for that note's date, opening the app or web search for that day. Parse the active note's filename or collect dates from outgoing links, embeds, frontmatter and daily-note backlinks; open a single match immediately or show a fuzzy picker for multiple dates."
 
     stats: {
-        downloads:  27
+        downloads:  39
         updated_at: 1783516201000
     }
 }

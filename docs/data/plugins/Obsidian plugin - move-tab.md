@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/move-tab
 alt:
   - https://github.com/jasonfirkus/obsidian-move-tab
-downloads:
-updated at:
+downloads: 37
+updated at: "2026-07-24T19:49:49Z"
 related to:
   - "[[GitHub - 1309293120]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/jasonfirkus/obsidian-move-tab"
     description: "Adds commands for moving the active tab left or right. Works across tab groups. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Move the active tab left or right within a pane or into an adjacent tab group at the pane edge. Shift surrounding tabs to preserve order as the active tab relocates."
+
+    stats: {
+        downloads:  37
+        updated_at: 1784922589000
+    }
 }
 ```
 

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvasblocks
 alt:
   - https://github.com/kay607/obsidian-canvasblocks
-downloads: 2345
+downloads: 2370
 updated at: "2024-07-14T19:13:58Z"
 related to:
   - "[[GitHub - 796061538]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Execute Python snippets inside Obsidian Canvas to process nodes, transform images or text, and generate assets like QR codes. Choose Simple mode for quick one-input scripts or Workflow mode to chain scripts for multi-step, reusable processing."
 
     stats: {
-        downloads:  2345
+        downloads:  2370
         updated_at: 1720984438000
     }
 }

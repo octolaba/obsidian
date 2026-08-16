@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/inboxer
 alt:
   - https://github.com/eoinhurrell/obsidian-inboxer
-downloads: 423
+downloads: 464
 updated at: "2026-06-07T08:46:12Z"
 related to:
   - "[[GitHub - 958102221]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize notes using dedicated INBOX and TIMELINE sections. Add new headings to INBOX and timestamped entries to TIMELINE while preserving section hierarchy and placing the cursor for immediate typing."
 
     stats: {
-        downloads:  423
+        downloads:  464
         updated_at: 1780821972000
     }
 }

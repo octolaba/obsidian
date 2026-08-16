@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/simple-storage-sync-and-backup
 alt:
   - https://github.com/ceilaolabs/obsidian-s3-sync-and-backup
-downloads: 842
-updated at: "2026-07-19T13:00:58Z"
+downloads: 1080
+updated at: "2026-07-28T03:41:32Z"
 related to:
   - "[[GitHub - 1123049111]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync your vault across devices via S3-compatible storage with bi-directional three-way reconciliation and per-file SHA-256 baselines to detect changes locally. Backup scheduled snapshots, optionally encrypt data end-to-end, preserve conflicts as LOCAL_ and REMOTE_ copies, and display real-time status in the status bar."
 
     stats: {
-        downloads:  842
-        updated_at: 1784466058000
+        downloads:  1080
+        updated_at: 1785210092000
     }
 }
 ```

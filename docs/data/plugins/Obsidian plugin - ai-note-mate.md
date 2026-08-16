@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/ai-note-mate
 alt:
   - https://github.com/ialex32x/ai-note-mate
-downloads: 441
-updated at: "2026-07-16T08:07:53Z"
+downloads: 471
+updated at: "2026-08-10T01:57:34Z"
 related to:
   - "[[GitHub - 1233743022]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Chat with AI about your notes, generate content, search the web, and create images without leaving your vault. Connect to OpenAI, Azure, Gemini or any OpenAI-compatible API and let the AI read, search, browse, and edit notes with persistent sessions and reviewable edit history."
 
     stats: {
-        downloads:  441
-        updated_at: 1784189273000
+        downloads:  471
+        updated_at: 1786327054000
     }
 }
 ```

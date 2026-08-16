@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/japanese-calendar
 alt:
   - https://github.com/kojiman55/obsidian-japanese-calendar
-downloads: 2393
+downloads: 3076
 updated at: "2026-07-17T08:34:10Z"
 related to:
   - "[[GitHub - 1238915494]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display Japanese public and substitute holidays on the calendar using official government data, marking them in red and showing holiday names inside cells. Show Japanese era (wareki) and rokuyo, color weekends and adjacent-month dates, and create/open daily notes on date click with automatic holiday callouts."
 
     stats: {
-        downloads:  2393
+        downloads:  3076
         updated_at: 1784277250000
     }
 }

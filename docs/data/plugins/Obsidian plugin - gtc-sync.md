@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gtc-sync
 alt:
   - https://github.com/etudes-informatiques-et-services35/gtc-sync
-downloads: 88
+downloads: 93
 updated at: "2026-05-20T10:04:10Z"
 related to:
   - "[[GitHub - 1228627151]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Maintain a persistent WebSocket connection to a GTC-Sync server and synchronize notes bidirectionally. Send modified or renamed notes to the server only when the note has an IdNote in its YAML and is the active file. Execute server commands to read, create, replace, move, find, or open notes in the vault."
 
     stats: {
-        downloads:  88
+        downloads:  93
         updated_at: 1779271450000
     }
 }

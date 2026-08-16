@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wechat-capture
 alt:
   - https://github.com/lyxdream/obsidian-wechat-capture
-downloads: 292
+downloads: 400
 updated at: "2026-06-04T10:05:06Z"
 related to:
   - "[[GitHub - 1259194704]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture WeChat public account articles into your vault as Markdown, extracting title, author, body and images. Save article content and attachments locally for offline reading and note-taking."
 
     stats: {
-        downloads:  292
+        downloads:  400
         updated_at: 1780567506000
     }
 }

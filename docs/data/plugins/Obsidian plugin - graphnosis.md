@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graphnosis
 alt:
   - https://github.com/nehloo/graphnosis-obsidian-plugin
-downloads: 167
+downloads: 201
 updated at: "2026-06-07T23:25:53Z"
 related to:
   - "[[GitHub - 1261959581]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Index and encrypt your vault into a local semantic memory via the Graphnosis sidecar, keeping data AES-256-GCM encrypted on your machine. Recall across your cortex with command-palette semantic search and insert results at the cursor; save notes to the encrypted cortex, auto-sync on save and at launch, and route notes into engrams to separate topics."
 
     stats: {
-        downloads:  167
+        downloads:  201
         updated_at: 1780874753000
     }
 }

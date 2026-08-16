@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/scroll-anchor
 alt:
   - https://github.com/senjanson/obsidian-scroll-anchor
-downloads: 214
+downloads: 254
 updated at: "2026-04-13T08:30:53Z"
 related to:
   - "[[GitHub - 1192643656]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Anchor scroll and cursor positions per note and restore all open tabs to their saved spots after app restart. Save positions continuously in both edit and reading modes with mobile-first aggressive saves to avoid losing your place."
 
     stats: {
-        downloads:  214
+        downloads:  254
         updated_at: 1776069053000
     }
 }

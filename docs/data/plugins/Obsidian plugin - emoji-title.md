@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/emoji-title
 alt:
   - https://github.com/arturtupiassu/emoji-title-plugin
-downloads: 188
+downloads: 245
 updated at: "2026-05-29T19:51:06Z"
 related to:
   - "[[GitHub - 1186728641]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Adicione emojis automaticamente aos títulos de notas e pastas no explorador de arquivos e nas abas ativas. Resolva qual emoji exibir a partir do frontmatter, herança de pastas ou tipo de arquivo; crie e sincronize notas de pasta automaticamente e suspenda a injeção durante renomeações para evitar glitches com renderização otimizada."
 
     stats: {
-        downloads:  188
+        downloads:  245
         updated_at: 1780084266000
     }
 }

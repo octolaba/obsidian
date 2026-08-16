@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/awesome-reader
 alt:
   - https://github.com/awesomedog/obsidian-awesome-reader
-downloads: 12834
+downloads: 13123
 updated at: "2023-02-20T09:25:33Z"
 related to:
   - "[[GitHub - 592224646]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Read EPUB and PDF ebooks inside your vault and resume reading across devices with synced progress. Create book notes from a table of contents with clean, organized headings and save them alongside the source file."
 
     stats: {
-        downloads:  12834
+        downloads:  13123
         updated_at: 1676885133000
     }
 }

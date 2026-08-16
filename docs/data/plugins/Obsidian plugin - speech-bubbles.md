@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/speech-bubbles
 alt:
   - https://github.com/forketyfork/obsidian-speech-bubbles
-downloads: 734
+downloads: 832
 updated at: "2026-03-26T10:54:32Z"
 related to:
   - "[[GitHub - 1141466763]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render transcript notes as message-style speech bubbles with speaker-specific colors, icons, aliases, and right-aligned owner bubbles. Display inline timestamps, date separators, speaker groups/sides for roleplay or D&D, and fine-tune bubble width, radius, and text/icon sizes via note frontmatter."
 
     stats: {
-        downloads:  734
+        downloads:  832
         updated_at: 1774522472000
     }
 }

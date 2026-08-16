@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/inline-encrypter
 alt:
   - https://github.com/solargate/obsidian-inline-encrypter
-downloads: 11528
+downloads: 11679
 updated at: "2026-05-29T18:31:45Z"
 related to:
   - "[[GitHub - 701231748]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Encrypt selected text inline into secure code blocks or insert pre-encrypted values, and reveal them via clickable decrypt buttons in Reading and Live Preview modes. Decrypt in-place or view decrypted text temporarily and copy to clipboard; passwords are never stored and decrypted content stays only in memory."
 
     stats: {
-        downloads:  11528
+        downloads:  11679
         updated_at: 1780079505000
     }
 }

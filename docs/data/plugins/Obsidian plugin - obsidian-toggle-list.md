@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-toggle-list
 alt:
   - https://github.com/thingnotok/obsidian-toggle-list
-downloads: 20362
+downloads: 20698
 updated at: "2024-09-08T11:09:22Z"
 related to:
   - "[[GitHub - 530527097]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Override Obsidian's default checkbox toggle and cycle list items through custom state groups (e.g., unchecked → in-progress → done) via hotkey or command. Set prefixes, suffixes and timestamps ({time:: YYYY-MM-DD}), show state groups in a suggestion window, and apply states to tasks, highlights and journal entries."
 
     stats: {
-        downloads:  20362
+        downloads:  20698
         updated_at: 1725793762000
     }
 }

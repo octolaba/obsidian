@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vinyl-catalog-tools
 alt:
   - https://github.com/iart0s/obsidian-vinyl-catalog-tools
-downloads: 158
+downloads: 173
 updated at: "2026-05-17T13:14:42Z"
 related to:
   - "[[GitHub - 1164218316]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage your vinyl collection in Obsidian: add record cards with optional cover download, browse in sortable table or cover-card views, and import Discogs CSV with upsert and cover backfill. Export collection to CSV, Markdown or .base and export card grids to PNG/JPEG as single or multi-file images with custom layouts and aspect-ratio options."
 
     stats: {
-        downloads:  158
+        downloads:  173
         updated_at: 1779023682000
     }
 }

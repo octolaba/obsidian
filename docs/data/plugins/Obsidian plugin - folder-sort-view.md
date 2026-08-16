@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-sort-view
 alt:
   - https://github.com/viggomeesters/obsidian-folder-sort-view
-downloads: 105
+downloads: 136
 updated at: "2026-06-14T08:30:36Z"
 related to:
   - "[[GitHub - 1268039427]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a safe, read-only sidebar that presents vault folders and files with custom sorting: folders Z-to-A and files A-to-Z. Expand folders to lazily render descendants and open files through Obsidian's normal workspace while leaving vault files untouched and blocking file-management actions."
 
     stats: {
-        downloads:  105
+        downloads:  136
         updated_at: 1781425836000
     }
 }

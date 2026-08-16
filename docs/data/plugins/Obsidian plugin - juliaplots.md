@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/juliaplots
 alt:
   - https://github.com/ivnmansi/juliaplots
-downloads: 1050
+downloads: 1089
 updated at: "2025-12-12T20:32:23Z"
 related to:
   - "[[GitHub - 1008400764]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate 2D and 3D function plots inside Obsidian using Julia with concise, script-like inputs. Customize colors, line width, titles, axis labels and dark mode, render multiple functions and scatter points, and adjust ranges and resolution for smooth graphs."
 
     stats: {
-        downloads:  1050
+        downloads:  1089
         updated_at: 1765571543000
     }
 }

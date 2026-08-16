@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/slides-extended
 alt:
   - https://github.com/ebullient/obsidian-slides-extended
-downloads: 40192
+downloads: 41638
 updated at: "2026-07-12T17:29:33Z"
 related to:
   - "[[GitHub - 759006745]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create slide decks from your Obsidian notes. Embed notes into slides, preview edits live, apply themes and annotations, and export as PDF or HTML while preserving Obsidian Markdown."
 
     stats: {
-        downloads:  40192
+        downloads:  41638
         updated_at: 1783877373000
     }
 }

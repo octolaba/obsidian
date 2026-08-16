@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/private-quartz-publish
 alt:
   - https://github.com/jagajaga/private-quartz-publish
-downloads: 138
+downloads: 158
 updated at: "2026-06-02T11:48:12Z"
 related to:
   - "[[GitHub - 1254676700]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish individual notes or entire folders to a self-hosted Quartz site using cryptographically random, unguessable slugs for public URLs. Edit only frontmatter locally while a separate server stack serves content, hides filenames and vault structure, and prevents sitemap or URL enumeration."
 
     stats: {
-        downloads:  138
+        downloads:  158
         updated_at: 1780400892000
     }
 }

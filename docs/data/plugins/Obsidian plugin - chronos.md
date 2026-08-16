@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chronos
 alt:
   - https://github.com/clairefro/obsidian-plugin-chronos
-downloads: 51875
+downloads: 53608
 updated at: "2026-05-20T03:34:18Z"
 related to:
   - "[[GitHub - 880465653]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render interactive timelines in Obsidian from simple chronos Markdown or inline blocks, supporting date ranges, single-point events, grouping, colors and note linking. Generate timelines from highlighted text with AI or combine Chronos items from a folder to create merged, linkable overviews."
 
     stats: {
-        downloads:  51875
+        downloads:  53608
         updated_at: 1779248058000
     }
 }

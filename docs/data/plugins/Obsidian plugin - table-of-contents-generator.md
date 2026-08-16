@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/table-of-contents-generator
 alt:
   - https://github.com/m-kk/toc
-downloads: 56
-updated at: "2026-07-10T17:35:49Z"
+downloads: 100
+updated at: "2026-07-30T17:00:44Z"
 related to:
   - "[[GitHub - 1053702596]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Generate a clean, invisible table of contents tracked in YAML frontmatter to keep your source files uncluttered. Position the TOC at the top or after the last H1, update it as headings change, handle duplicate headings correctly, integrate with Obsidian's metadata cache, and exclude headings via ReDoS-hardened regex."
 
     stats: {
-        downloads:  56
-        updated_at: 1783704949000
+        downloads:  100
+        updated_at: 1785430844000
     }
 }
 ```

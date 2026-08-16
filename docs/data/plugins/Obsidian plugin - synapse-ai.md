@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/synapse-ai
 alt:
   - https://github.com/fredrix1/synapse-ai-obsidian
-downloads: 135
+downloads: 167
 updated at: "2026-06-18T11:19:39Z"
 related to:
   - "[[GitHub - 1272665592]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with your vault in a side panel, stream, stop, or regenerate AI replies, and pull linked or searched notes into context. Bring your own API key and model (Gemini, OpenRouter, or any OpenAI‑compatible/local endpoint), save answers as plain-text notes, and keep data routed only to your chosen provider."
 
     stats: {
-        downloads:  135
+        downloads:  167
         updated_at: 1781781579000
     }
 }

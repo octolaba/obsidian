@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/prologue
 alt:
   - https://github.com/joshavanier/prologue
-downloads: 535
+downloads: 551
 updated at: "2025-10-07T02:49:49Z"
 related to:
   - "[[GitHub - 1020107771]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a random note, quote, or reminder each time you open a new tab. Source entries from a generated collection.md in your vault—add items separated by blank lines and choose a different collection in settings."
 
     stats: {
-        downloads:  535
+        downloads:  551
         updated_at: 1759805389000
     }
 }

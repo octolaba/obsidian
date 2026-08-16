@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/insert-new-line
 alt:
   - https://github.com/freddyouellette/obsidian-insert-new-line-plugin
-downloads: 690
+downloads: 710
 updated at: "2024-12-14T14:16:56Z"
 related to:
   - "[[GitHub - 893014784]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert a blank line above or below the current line with two simple commands. Use the commands to quickly add spacing in notes without altering your text layout."
 
     stats: {
-        downloads:  690
+        downloads:  710
         updated_at: 1734185816000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/poneglyph
 alt:
   - https://github.com/kausthub-kannan/poneglyph
-downloads: 205
+downloads: 328
 updated at: "2026-05-26T21:08:52Z"
 related to:
   - "[[GitHub - 1229128754]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform your Obsidian graph into a living, cited research map by turning each markdown node into a locally agent‑generated, deeply researched artifact. Generate fully cited nodes, maintain a vault-wide SOURCES.md ledger, link nodes relationally, and tag verified items for human-reviewed accuracy."
 
     stats: {
-        downloads:  205
+        downloads:  328
         updated_at: 1779829732000
     }
 }

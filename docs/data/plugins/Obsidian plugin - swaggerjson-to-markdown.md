@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/swaggerjson-to-markdown
 alt:
   - https://github.com/krontur/obsidian-swaggerjson-to-markdown
-downloads: 202
+downloads: 226
 updated at: "2026-07-01T20:29:54Z"
 related to:
   - "[[GitHub - 1236890376]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Swagger 2.0 or OpenAPI 3.x JSON to static, Swagger-style Markdown optimized for Obsidian and PDF exports. Generate full docs or reusable fragments with real Markdown headings, group operations by tags, include endpoints/parameters/bodies/responses/examples, resolve internal $ref, and emit sanitized code blocks."
 
     stats: {
-        downloads:  202
+        downloads:  226
         updated_at: 1782937794000
     }
 }

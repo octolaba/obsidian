@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/s-three-image-sync-pro
 alt:
   - https://github.com/hailanbb/s3-image-sync-pro
-downloads: 10
-updated at: "2026-07-23T14:22:39Z"
+downloads: 60
+updated at: "2026-08-11T07:26:26Z"
 related to:
   - "[[GitHub - 1309021508]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Scan and upload local note images to S3-compatible cloud storage (Cloudflare R2, AWS S3, MinIO) and replace local Markdown image links with public remote URLs. Browse and manage uploads in a mobile-friendly responsive image grid with adaptive card sizing and instant selection performance."
 
     stats: {
-        downloads:  10
-        updated_at: 1784816559000
+        downloads:  60
+        updated_at: 1786433186000
     }
 }
 ```

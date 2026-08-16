@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/editorialist
 alt:
   - https://github.com/ericrhystaylor/Editorialist
-downloads: 166
-updated at: "2026-07-20T20:19:31Z"
+downloads: 207
+updated at: "2026-07-29T17:22:05Z"
 related to:
   - "[[GitHub - 1194166252]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "ED is designed for comprehensive AI assisted manuscript editorial workflows. Import structured revision notes into your manuscript from editors, beta readers, and AI models using your preferred LLM and review suggested edits in-context across manuscript scenes. Apply multiple edit types including expand, condense, cut, revise, move and memo. A side-panel and contextual toolbar guide the process. Adjust configuration and curate contributor profiles in settings."
 
     stats: {
-        downloads:  166
-        updated_at: 1784578771000
+        downloads:  207
+        updated_at: 1785345725000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-to-mp
 alt:
   - https://github.com/sunbooshi/note-to-mp
-downloads: 23077
+downloads: 23621
 updated at: "2026-06-27T07:27:22Z"
 related to:
   - "[[GitHub - 773673544]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy Obsidian notes into the WeChat Official Account editor while preserving styles, code highlighting with line numbers, theme backgrounds, and LaTeX/AsciiMath math rendering. Upload local images, display links inline or as endnotes, and send formatted drafts to your account to skip manual reformatting."
 
     stats: {
-        downloads:  23077
+        downloads:  23621
         updated_at: 1782545242000
     }
 }

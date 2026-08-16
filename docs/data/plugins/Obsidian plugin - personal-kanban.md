@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/personal-kanban
 alt:
   - https://github.com/jesuspinarte/obsidian-personal-kanban
-downloads: 204
+downloads: 274
 updated at: "2026-05-23T17:00:24Z"
 related to:
   - "[[GitHub - 1247125811]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and manage multiple local Kanban boards inside Obsidian with a clean, Trello-like sidebar interface. Drag and drop to reorder cards, columns, and boards, open cards to edit titles, tags and full Markdown descriptions in a modal, and move items across boards."
 
     stats: {
-        downloads:  204
+        downloads:  274
         updated_at: 1779555624000
     }
 }

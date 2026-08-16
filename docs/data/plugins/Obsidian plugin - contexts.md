@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/contexts
 alt:
   - https://github.com/ba2slk/obsidian-contexts
-downloads:
-updated at:
+downloads: 1414
+updated at: "2026-07-24T17:34:55Z"
 related to:
   - "[[GitHub - 1107320730]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/ba2slk/obsidian-contexts"
     description: "Save and switch between working contexts — sync-safe across desktop and mobile. Supports any type of file. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Save groups of open tabs as named contexts, including Markdown, PDFs, Canvases, and images. Switch between contexts safely across devices using relative file paths to avoid workspace conflicts; restores open files but not pane layouts. Manage, create, and delete contexts via a simple UI."
+
+    stats: {
+        downloads:  1414
+        updated_at: 1784914495000
+    }
 }
 ```
 

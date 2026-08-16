@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-relative-find
 alt:
   - https://github.com/phibr0/obsidian-relative-find
-downloads: 4693
+downloads: 4731
 updated at: "2021-09-03T07:50:17Z"
 related to:
   - "[[GitHub - 397938572]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Find occurrences of a word before or after the cursor, or across the whole document, with a single command. Copy search-pane results to the clipboard via a command or hotkey for quick reuse."
 
     stats: {
-        downloads:  4693
+        downloads:  4731
         updated_at: 1630655417000
     }
 }

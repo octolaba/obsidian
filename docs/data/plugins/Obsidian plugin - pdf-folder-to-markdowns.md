@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pdf-folder-to-markdowns
 alt:
   - https://github.com/crishood/pdf-folder-to-markdowns
-downloads: 5606
+downloads: 5903
 updated at: "2025-12-27T16:42:44Z"
 related to:
   - "[[GitHub - 941150277]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert a folder of PDFs into individual Markdown notes with each PDF embedded. Create notes for every PDF, optionally rename the source folder with a suffix, follow Obsidian attachment settings to move PDFs beside notes, and apply a Templater or core template after conversion."
 
     stats: {
-        downloads:  5606
+        downloads:  5903
         updated_at: 1766853764000
     }
 }

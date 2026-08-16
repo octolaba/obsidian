@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-siteswap
 alt:
   - https://github.com/tdresser/obsidian-siteswap
-downloads: 3686
+downloads: 3696
 updated at: "2022-01-23T16:12:26Z"
 related to:
   - "[[GitHub - 444601482]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Siteswap juggling notation as animated GIFs via the Juggling Lab server. Specify simple patterns inline or provide per-animation YAML to set pattern, hand/body movement, colors and tempo for customized visualizations; requires an internet connection."
 
     stats: {
-        downloads:  3686
+        downloads:  3696
         updated_at: 1642954346000
     }
 }

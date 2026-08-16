@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/linkify
 alt:
   - https://github.com/matthewhchan/linkify
-downloads: 8598
+downloads: 8656
 updated at: "2026-02-17T06:46:12Z"
 related to:
   - "[[GitHub - 353218790]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert matching text into clickable links using configurable regular-expression patterns. Define regex-to-URL mappings with replacement patterns and optional CSS classes; matches render as links in Live Preview and open in your browser without altering the underlying .md files."
 
     stats: {
-        downloads:  8598
+        downloads:  8656
         updated_at: 1771310772000
     }
 }

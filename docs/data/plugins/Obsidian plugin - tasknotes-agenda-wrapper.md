@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/tasknotes-agenda-wrapper
 alt:
   - https://github.com/toya-co/tasknotes-agenda-wrapper
-downloads: 82
-updated at: "2026-07-20T23:48:27Z"
+downloads: 303
+updated at: "2026-08-04T22:20:21Z"
 related to:
   - "[[GitHub - 1304590323]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Display today's TaskNotes agenda in a sidebar pane or embedded block with collapsible Unplanned, Overdue, and upcoming day groups and stat tiles for Todo, Overdue, and Unplanned counts. Add quick TaskNotes-formatted tasks, open notes or change task status from the widget, and read TaskNotes data at runtime (requires TaskNotes plugin)."
 
     stats: {
-        downloads:  82
-        updated_at: 1784591307000
+        downloads:  303
+        updated_at: 1785882021000
     }
 }
 ```

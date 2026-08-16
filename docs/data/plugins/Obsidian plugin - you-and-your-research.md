@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/you-and-your-research
 alt:
   - https://github.com/neozhang/you-and-your-research
-downloads: 831
+downloads: 852
 updated at: "2024-07-18T23:43:11Z"
 related to:
   - "[[GitHub - 811269317]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Consolidate web search, AI chat, and file browsing into a single Obsidian sidebar for focused research. Summarize and extract long-form web content with OpenAI-powered analysis and save structured, searchable notes back into your vault."
 
     stats: {
-        downloads:  831
+        downloads:  852
         updated_at: 1721346191000
     }
 }

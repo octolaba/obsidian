@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/pinax
 alt:
   - https://github.com/sphragis-oss/pinax
-downloads: 133
-updated at: "2026-07-11T19:32:04Z"
+downloads: 261
+updated at: "2026-07-25T10:45:49Z"
 related to:
   - "[[GitHub - 1288454951]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create domain-agnostic, LLM-buildable dashboards from simple profile JSON that hot-reloads over your existing notes. Add widgets (folder-list, table, board, heatmap, stat, iframe, custom) that read and rewrite frontmatter, auto-refresh, and provide undoable actions."
 
     stats: {
-        downloads:  133
-        updated_at: 1783798324000
+        downloads:  261
+        updated_at: 1784976349000
     }
 }
 ```

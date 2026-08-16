@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/timer
 alt:
   - https://github.com/raboro/obsidian-timer-plugin
-downloads: 12953
+downloads: 13084
 updated at: "2025-10-12T19:12:45Z"
 related to:
   - "[[GitHub - 685688126]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Measure time and set countdowns via commands, ribbon icon, or on-screen timer buttons. Start, stop, pause, resume, reset, or cancel timers, view the active timer in the status bar, and receive a notification when a timer ends. Save favorite presets and enter times as HH:MM:SS or 10m 11s with an optional verbose display."
 
     stats: {
-        downloads:  12953
+        downloads:  13084
         updated_at: 1760296365000
     }
 }

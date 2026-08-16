@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/newslog
 alt:
   - https://github.com/protoavatar/obsidian-newsletters
-downloads: 493
+downloads: 508
 updated at: "2025-12-15T17:39:05Z"
 related to:
   - "[[GitHub - 1060882285]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Bundle newsletters, RSS feeds, and articles into a single daily digest with an index and AI-generated summary to help decide what to read. Send digests to Kindle or email, and save full Markdown bundles plus synced Kindle highlights directly into your Obsidian vault."
 
     stats: {
-        downloads:  493
+        downloads:  508
         updated_at: 1765820345000
     }
 }

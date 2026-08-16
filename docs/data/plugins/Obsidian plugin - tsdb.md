@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/tsdb
 alt:
   - https://github.com/dtkav/obsidian-tsdb
-downloads: 650
-updated at: "2026-07-10T23:50:30Z"
+downloads: 1031
+updated at: "2026-07-30T09:21:40Z"
 related to:
   - "[[GitHub - 1292919001]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Embed real-time charts into your notes with PromQL. Register your own plugin's Counters, Gauges, Histograms and Summaries via the TypeScript API, or scrape external Prometheus endpoints. Includes Obsidian performance metrics, and vault metrics."
 
     stats: {
-        downloads:  650
-        updated_at: 1783727430000
+        downloads:  1031
+        updated_at: 1785403300000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lens
 alt:
   - https://github.com/fredoliveira/obsidian-lens
-downloads: 74
+downloads: 93
 updated at: "2026-06-13T17:11:49Z"
 related to:
   - "[[GitHub - 1256263248]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Think through a note or selection with LLM-powered lenses like Challenge, Steelman, or Concretize, and add custom lenses. Stream results into a side panel, save outputs as linked, tagged notes, and run models from Anthropic, OpenAI-compatible hosts, or local servers."
 
     stats: {
-        downloads:  74
+        downloads:  93
         updated_at: 1781370709000
     }
 }

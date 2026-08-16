@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mcp-vault-bridge
 alt:
   - https://github.com/allexcd/obsidian-mcp
-downloads: 231
+downloads: 251
 updated at: "2026-06-20T19:22:33Z"
 related to:
   - "[[GitHub - 1223446965]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect your Obsidian vault to MCP clients like Claude Desktop and LM Studio in read-only, token-gated mode to serve notes without write, delete, or command access. Control privacy with exclusion-based rules and always-deny hidden/system folders; enable optional semantic search via local embedding endpoints to keep data local."
 
     stats: {
-        downloads:  231
+        downloads:  251
         updated_at: 1781983353000
     }
 }

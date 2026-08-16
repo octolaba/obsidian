@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/s-c-panel
 alt:
   - https://github.com/oquhe/obsidian-scp
-downloads: 103
+downloads: 110
 updated at: "2026-04-18T13:33:38Z"
 related to:
   - "[[GitHub - 1123573359]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a searchable command panel via a trigger character or command and assign custom display names with hidden search text and optional descriptions to keep labels short. Insert text or execute JSON‑formatted scripts (insert, command, move, delete, select, data) and pass query parameters for flexible note actions."
 
     stats: {
-        downloads:  103
+        downloads:  110
         updated_at: 1776519218000
     }
 }

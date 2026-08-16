@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/github-copilot
 alt:
   - https://github.com/pierrad/obsidian-github-copilot
-downloads: 43353
+downloads: 44108
 updated at: "2026-05-03T11:11:52Z"
 related to:
   - "[[GitHub - 779994962]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Use GitHub Copilot inside Obsidian to get inline completions and suggestions as you type, accepting or dismissing recommendations directly in the editor. Ask questions via GitHub Copilot Chat to summarize, explain, or expand your notes conversationally."
 
     stats: {
-        downloads:  43353
+        downloads:  44108
         updated_at: 1777806712000
     }
 }

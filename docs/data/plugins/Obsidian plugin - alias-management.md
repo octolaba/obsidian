@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/alias-management
 alt:
   - https://github.com/withmarcel/alias-management
-downloads: 3976
+downloads: 4030
 updated at: "2024-02-29T19:51:45Z"
 related to:
   - "[[GitHub - 759913991]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Identify duplicate notes by scanning aliases and filenames in real time without modifying files. View color-coded lists with interactive links, open files directly, and quickly rename or remove alias entries."
 
     stats: {
-        downloads:  3976
+        downloads:  4030
         updated_at: 1709236305000
     }
 }

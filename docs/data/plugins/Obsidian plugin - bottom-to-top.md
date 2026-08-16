@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bottom-to-top
 alt:
   - https://github.com/lizard-heart/obsidian-bottom-to-top-text
-downloads: 350
+downloads: 365
 updated at: "2024-11-17T01:48:10Z"
 related to:
   - "[[GitHub - 877072595]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert new lines above the current line when pressing Enter instead of below. Reverse all lines in the current note or toggle reverse mode per note to enable or disable the behavior."
 
     stats: {
-        downloads:  350
+        downloads:  365
         updated_at: 1731808090000
     }
 }

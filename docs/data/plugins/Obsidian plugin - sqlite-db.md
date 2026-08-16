@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sqlite-db
 alt:
   - https://github.com/stfrigerio/sqliteDB
-downloads: 3050
+downloads: 3132
 updated at: "2025-11-05T13:09:19Z"
 related to:
   - "[[GitHub - 924259893]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Query SQLite databases from notes using SQL code blocks and render results as natural lists or custom formats directly in your document. Visualize query output with pie, line, or bar charts, inspect table schemas, and export table rows as new notes; operate on local .db files or remote API endpoints."
 
     stats: {
-        downloads:  3050
+        downloads:  3132
         updated_at: 1762348159000
     }
 }

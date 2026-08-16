@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/art-de-one
 alt:
   - https://github.com/artdeone/art-de-one
-downloads: 75
+downloads: 84
 updated at: "2026-06-15T04:20:04Z"
 related to:
   - "[[GitHub - 1269737206]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Ask questions about selected text with an AI panel using any OpenAI-compatible endpoint; stream responses, switch models, and apply full or partial replies into your note. Highlight text in six colors and insert/edit tables with a visual grid picker and a floating toolbar."
 
     stats: {
-        downloads:  75
+        downloads:  84
         updated_at: 1781497204000
     }
 }

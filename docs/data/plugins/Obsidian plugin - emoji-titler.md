@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/emoji-titler
 alt:
   - https://github.com/hyeonseonam/obsidian-emoji-titler
-downloads: 6792
+downloads: 6831
 updated at: "2023-03-12T14:22:41Z"
 related to:
   - "[[GitHub - 606514170]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add an emoji to the active note's title with a keyboard shortcut to tag and visually distinguish notes. Set multiple emojis and use the shortcut to insert, replace, or remove emojis at the start of titles for quick organization."
 
     stats: {
-        downloads:  6792
+        downloads:  6831
         updated_at: 1678630961000
     }
 }

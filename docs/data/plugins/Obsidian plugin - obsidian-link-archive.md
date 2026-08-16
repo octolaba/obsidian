@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-link-archive
 alt:
   - https://github.com/tomzorz/obsidian-link-archive
-downloads: 6975
+downloads: 7005
 updated at: "2021-10-25T02:15:56Z"
 related to:
   - "[[GitHub - 418285926]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Archive links in the current note by submitting external URLs to archive.org. Embed (Archived) links next to the originals as soon as snapshots are saved and avoid recreating existing archive links. Show progress and handle errors during the archiving process."
 
     stats: {
-        downloads:  6975
+        downloads:  7005
         updated_at: 1635128156000
     }
 }

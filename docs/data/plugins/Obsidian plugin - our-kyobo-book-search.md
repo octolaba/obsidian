@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/our-kyobo-book-search
 alt:
   - https://github.com/hantae-ho/obsidian-our-kyobo-book-search
-downloads: 127
+downloads: 139
 updated at: "2026-03-08T04:47:34Z"
 related to:
   - "[[GitHub - 1175727553]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search Kyobo Book's JSON database to fetch accurate book metadata and auto-generate perfectly formatted reading notes in Obsidian. Extract authors and translators into separate properties, render clean book descriptions and tables of contents without ads, and prevent duplicate folder spacing."
 
     stats: {
-        downloads:  127
+        downloads:  139
         updated_at: 1772945254000
     }
 }

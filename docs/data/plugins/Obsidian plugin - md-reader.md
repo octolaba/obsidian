@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/md-reader
 alt:
   - https://github.com/mrrepac/obsidian-md-reader
-downloads: 295
-updated at: "2026-07-05T17:06:36Z"
+downloads: 692
+updated at: "2026-08-06T01:54:55Z"
 related to:
   - "[[GitHub - 1283801210]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render Markdown notes into fixed-size pages and flip them horizontally by swipe, tap, or arrow keys with single- or two-page spreads. Remember your place across resizes, hide UI for immersive reading, use theme fonts/colors, and paginate automatically."
 
     stats: {
-        downloads:  295
-        updated_at: 1783271196000
+        downloads:  692
+        updated_at: 1785981295000
     }
 }
 ```

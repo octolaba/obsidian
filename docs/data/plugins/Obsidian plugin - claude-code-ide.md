@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/claude-code-ide
 alt:
   - https://github.com/petersolopov/obsidian-claude-ide
-downloads: 11341
+downloads: 13472
 updated at: "2026-06-04T10:46:30Z"
 related to:
   - "[[GitHub - 1174711953]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Lets Claude Code read your current editor context through a local WebSocket MCP bridge. It shares the active file, open files, and selected text in real time, so Claude can answer questions about what you are editing and receive selected text from the command palette. Connections stay local to your machine, use per-session tokens, and expose read-only context only. After enabling the plugin, choose the IDE from Claude Code's /ide menu."
 
     stats: {
-        downloads:  11341
+        downloads:  13472
         updated_at: 1780569990000
     }
 }

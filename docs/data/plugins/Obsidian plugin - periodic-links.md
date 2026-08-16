@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/periodic-links
 alt:
   - https://github.com/davidvkimball/obsidian-periodic-links
-downloads: 834
-updated at: "2026-05-30T19:48:25Z"
+downloads: 914
+updated at: "2026-08-10T22:40:07Z"
 related to:
   - "[[GitHub - 1140111397]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Link periodic notes using natural-language phrases like \"tomorrow\", \"next week\", \"in two weeks\", or \"last Tuesday\". Create linked notes with templates and proper folders on demand, support written numbers and weekday-specific phrases, and adapt to your configured daily/weekly/monthly/quarterly/yearly formats."
 
     stats: {
-        downloads:  834
-        updated_at: 1780170505000
+        downloads:  914
+        updated_at: 1786401607000
     }
 }
 ```

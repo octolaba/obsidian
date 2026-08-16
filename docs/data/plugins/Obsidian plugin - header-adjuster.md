@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/header-adjuster
 alt:
   - https://github.com/netajam/header-adjuster
-downloads: 2378
+downloads: 2623
 updated at: "2026-01-31T16:32:17Z"
 related to:
   - "[[GitHub - 815920654]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Adjust Markdown header levels across an entire note or within a specific line range by a chosen number. Apply changes via the command palette or ribbon and use default level increments for quick edits."
 
     stats: {
-        downloads:  2378
+        downloads:  2623
         updated_at: 1769877137000
     }
 }

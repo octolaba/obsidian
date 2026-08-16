@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/window-collapse
 alt:
   - https://github.com/gquental/obsidian-window-collapse
-downloads: 5816
+downloads: 5818
 updated at: "2021-08-27T16:36:19Z"
 related to:
   - "[[GitHub - 397916721]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Collapse sidebars to reclaim screen real estate without entering fullscreen. Toggle the left, right, or both sidebars with dedicated commands."
 
     stats: {
-        downloads:  5816
+        downloads:  5818
         updated_at: 1630082179000
     }
 }

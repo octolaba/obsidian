@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/semlink
 alt:
   - https://github.com/ouou365/Semlink
-downloads: 106
-updated at: "2026-07-14T05:49:19Z"
+downloads: 137
+updated at: "2026-08-09T09:36:49Z"
 related to:
   - "[[GitHub - 1248360288]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # Semlink
 
-Semlink vectorizes the notes of a vault and exposes a local MCP HTTP server, so that AI clients such as Claude and Cursor can run semantic search over them. Indexes are kept updated in real time, natural-language queries return full notes or sections, similar notes can be found, and reindexing can be triggered.
+Adds an AI chat panel that answers questions about notes with sources, keeps conversation history and switches between model providers; a note dragged in is attached for question-and-answer on its content. Questions are also suggested from recent notes. Separately, notes are vectorized and exposed through a local MCP HTTP server, so clients such as Claude and Cursor can search them semantically, fetch a specific note or section, find similar notes, see the currently open note and trigger a reindex.
 
 ```cue
 plugin: {
@@ -33,12 +33,12 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/semlink"
     github_url:  "https://github.com/ouou365/Semlink"
-    description: "Semantic search for Obsidian Vault via MCP - This plugin has not been manually reviewed by Obsidian staff."
-    about:       "Vectorize your Vault notes and expose a local MCP HTTP server so AI clients like Claude and Cursor can perform semantic search. Keep indexes updated in real time, query with natural-language prompts to fetch full notes or sections, find similar notes, and trigger reindexing."
+    description: "AI assistant for Obsidian: chat with your notes, drag in notes for Q&A, semantic search via MCP - This plugin has not been manually reviewed by Obsidian staff."
+    about:       "Semlink is an AI assistant built into Obsidian. Chat with your notes in a built-in panel with conversation history and multi-provider model switching: ask questions and the AI answers with sources, or drag in any note from your Vault and it is attached for instant Q&A on its content. AI also suggests questions based on your recent notes and helps you organize your knowledge base. MCP support is included as an extra: your notes are vectorized and exposed via a local MCP HTTP server, so AI clients like Claude and Cursor can semantically search and read your notes with natural language — fetch the exact note or section, find similar notes, see the currently open note, and reindex on demand."
 
     stats: {
-        downloads:  106
-        updated_at: 1784008159000
+        downloads:  137
+        updated_at: 1786268209000
     }
 }
 ```

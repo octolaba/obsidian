@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bitwarden
 alt:
   - https://github.com/toki1703/bitwarden
-downloads: 102
+downloads: 134
 updated at: "2026-06-17T08:00:55Z"
 related to:
   - "[[GitHub - 1243614274]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse your Bitwarden vault in Obsidian's side panel with client-side decryption and master-password unlock. Search by name, username or URL, switch between type and folder views, show favorites and favicons, and quick-copy usernames, passwords and auto-updating TOTP codes while supporting cloud and self-hosted servers."
 
     stats: {
-        downloads:  102
+        downloads:  134
         updated_at: 1781683255000
     }
 }

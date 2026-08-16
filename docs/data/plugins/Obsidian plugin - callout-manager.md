@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/callout-manager
 alt:
   - https://github.com/eth-p/obsidian-callout-manager
-downloads: 179812
-updated at: "2026-04-20T06:23:28Z"
+downloads: 192087
+updated at: "2026-08-01T06:58:03Z"
 related to:
   - "[[GitHub - 598279818]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage callouts with a visual browser and preview available types. Customize colors and icons or create new callouts; auto-detect callouts from snippets and themes. Use on mobile and integrate with other plugins via the Plugin API."
 
     stats: {
-        downloads:  179812
-        updated_at: 1776666208000
+        downloads:  192087
+        updated_at: 1785567483000
     }
 }
 ```

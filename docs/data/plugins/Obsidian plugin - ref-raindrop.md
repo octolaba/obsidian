@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ref-raindrop
 alt:
   - https://github.com/oikeya/obsidian-ref-raindrop
-downloads: 98
+downloads: 123
 updated at: "2026-06-29T22:17:49Z"
 related to:
   - "[[GitHub - 1282738998]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Raindrop.io bookmarks into your vault as compact Markdown notes with URL, Raindrop metadata, local notes, and AI frontmatter—without saving full page content. Keep multiple accounts, update by Raindrop ID or URL, and run AI indexing to store summaries and retry states in reserved frontmatter."
 
     stats: {
-        downloads:  98
+        downloads:  123
         updated_at: 1782771469000
     }
 }

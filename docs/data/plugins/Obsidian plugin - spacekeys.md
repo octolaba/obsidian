@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/spacekeys
 alt:
   - https://github.com/jlumpe/obsidian-spacekeys
-downloads: 3661
+downloads: 3730
 updated at: "2025-09-21T07:14:03Z"
 related to:
   - "[[GitHub - 906477100]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Execute Obsidian commands via mnemonic key sequences triggered by a single leader key. Display a popup menu with grouped submenus for quick discovery and assign a large, customizable keymap that can include commands from other plugins."
 
     stats: {
-        downloads:  3661
+        downloads:  3730
         updated_at: 1758438843000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-sweep
 alt:
   - https://github.com/reallygood83/note-sweep
-downloads: 73
+downloads: 208
 updated at: "2026-07-21T01:07:28Z"
 related to:
   - "[[GitHub - 1307017585]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Score vault notes by stale, orphan, duplicate and avoidance signals and surface the top cards to tackle today. Run timed declutter sessions with automatic daily start, Korean/English UI, and no network, AI, or telemetry."
 
     stats: {
-        downloads:  73
+        downloads:  208
         updated_at: 1784596048000
     }
 }

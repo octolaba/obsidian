@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/smart-templates
 alt:
   - https://github.com/brianpetro/obsidian-smart-templates
-downloads: 18279
-updated at: "2026-05-30T13:04:39Z"
+downloads: 20013
+updated at: "2026-08-05T01:40:27Z"
 related to:
   - "[[GitHub - 822673899]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Turn Markdown templates into reusable AI workflows that pair your vault context with trusted templates to build consistent prompts. Copy ready-to-run prompts from the active note or a selection, keep templates and context together, and generate inside Obsidian or via the clipboard while preserving local-first privacy."
 
     stats: {
-        downloads:  18279
-        updated_at: 1780146279000
+        downloads:  20013
+        updated_at: 1785894027000
     }
 }
 ```

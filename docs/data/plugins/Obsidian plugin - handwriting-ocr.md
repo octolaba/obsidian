@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/handwriting-ocr
 alt:
   - https://github.com/ikmolbo/handwriting-ocr-obsidian-plugin
-downloads: 221
+downloads: 317
 updated at: "2026-07-02T14:00:03Z"
 related to:
   - "[[GitHub - 1010624477]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert handwritten notes and scanned images into editable, searchable text using AI-powered handwriting-to-text OCR. Extract results to the clipboard, create new notes, or append text to existing notes directly from the editor or file explorer; supports PDFs and common image formats."
 
     stats: {
-        downloads:  221
+        downloads:  317
         updated_at: 1783000803000
     }
 }

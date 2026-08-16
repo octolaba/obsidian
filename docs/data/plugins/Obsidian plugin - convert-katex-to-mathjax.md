@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/convert-katex-to-mathjax
 alt:
   - https://github.com/pejakovic/obsidian-convert-katex-to-mathjax
-downloads: 7201
+downloads: 7519
 updated at: "2025-10-03T13:33:25Z"
 related to:
   - "[[GitHub - 890219157]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert KaTeX notation to MathJax in your vault to preserve pasted mathematical expressions. Apply automatic paste conversion, use commands to paste with conversion, convert the current file, or batch-convert all files to fix KaTeX-to-MathJax formatting."
 
     stats: {
-        downloads:  7201
+        downloads:  7519
         updated_at: 1759498405000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-linker-with-previewer
 alt:
   - https://github.com/nickrallison/obsidian-note-linker-with-previewer
-downloads: 1471
+downloads: 1525
 updated at: "2024-08-26T05:08:06Z"
 related to:
   - "[[GitHub - 819498464]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Find links between notes across your vault while skipping code blocks, LaTeX, and other non-markdown sections using a built-in Markdown parser. Cache scan results for faster re-runs, run full-vault or current-note linking, report invalid/unparsed notes, and reset the cache to troubleshoot."
 
     stats: {
-        downloads:  1471
+        downloads:  1525
         updated_at: 1724648886000
     }
 }

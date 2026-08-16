@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/clist-calc
 alt:
   - https://github.com/abdur-nur-porag/CList-Calc
-downloads: 85
+downloads: 96
 updated at: "2026-03-03T07:49:33Z"
 related to:
   - "[[GitHub - 1171389594]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Calculate totals, averages, counts, min/max, median, mode and other list-based statistics from simple or nested Markdown lists. Apply math functions—powers, roots, rounding, logs, trig—and checkbox-aware totals directly inside Obsidian notes using ccalc-list blocks."
 
     stats: {
-        downloads:  85
+        downloads:  96
         updated_at: 1772524173000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-jira-issue
 alt:
   - https://github.com/marc0l92/obsidian-jira-issue
-downloads: 43567
+downloads: 43913
 updated at: "2025-09-25T17:02:16Z"
 related to:
   - "[[GitHub - 475748782]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track Jira issues from your Obsidian notes. Embed issue cards, run Jira searches and counts, and render inline issue links and checklist items. Connect to your Jira server to display live issue status and progress inside Obsidian."
 
     stats: {
-        downloads:  43567
+        downloads:  43913
         updated_at: 1758819736000
     }
 }

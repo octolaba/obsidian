@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/scholar
 alt:
   - https://github.com/lolipopshock/obsidian-scholar
-downloads: 9078
+downloads: 9382
 updated at: "2025-07-05T23:42:38Z"
 related to:
   - "[[GitHub - 701832415]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import papers from web links to download PDFs and create metadata-rich notes in a local research library. Search your library or query Semantic Scholar, view abstracts and references inline, copy BibTeX, and sync with PDF++ for in-file citations and automatic note updates."
 
     stats: {
-        downloads:  9078
+        downloads:  9382
         updated_at: 1751758958000
     }
 }

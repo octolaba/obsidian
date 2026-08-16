@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/todo-gcal-sync
 alt:
   - https://github.com/jash101/calsync
-downloads: 114
+downloads: 120
 updated at: "2026-02-18T00:14:07Z"
 related to:
   - "[[GitHub - 1156132729]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync todos from notes to Google Calendar as timed events with correct durations, stacking incomplete tasks sequentially from a 10:30 AM start. Update event descriptions for completed todos with estimated vs actual time, remove events for deleted todos, and require a Google account with desktop OAuth."
 
     stats: {
-        downloads:  114
+        downloads:  120
         updated_at: 1771373647000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/extended-file-support
 alt:
   - https://github.com/nick-de-bruin/obsidian-extended-file-support
-downloads: 2357
+downloads: 2433
 updated at: "2025-07-28T19:34:26Z"
 related to:
   - "[[GitHub - 914510683]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View and embed a range of non-editable file types in Obsidian, including Krita (.kra), Photoshop (.psd), Illustrator (.ai), Clip Studio (.clip) and 3D models (.gltf, .glb, .obj, .stl). Display files inline in notes and Canvas with adjustable sizing and interactive 3D viewing options."
 
     stats: {
-        downloads:  2357
+        downloads:  2433
         updated_at: 1753731266000
     }
 }

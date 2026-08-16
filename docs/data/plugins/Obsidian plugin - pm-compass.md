@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/pm-compass
 alt:
   - https://github.com/laurent-ferier/pm-compass
-downloads: 93
-updated at: "2026-07-19T10:50:15Z"
+downloads: 190
+updated at: "2026-07-31T12:48:23Z"
 related to:
   - "[[GitHub - 1280021029]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add a task dashboard, inbox, weekly review, and interactive dependency graph to your existing project notes and daily checklists without a separate database. Insert recurring habits into daily notes, capture tasks to an aged inbox with staleness warnings, perform one-tap actions on checklist items, and manage dependencies and priorities via an inline draggable graph."
 
     stats: {
-        downloads:  93
-        updated_at: 1784458215000
+        downloads:  190
+        updated_at: 1785502103000
     }
 }
 ```

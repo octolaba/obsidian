@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/monthly-tracker
 alt:
   - https://github.com/younginshin115/obsidian-monthly-tracker
-downloads: 114
+downloads: 139
 updated at: "2026-06-07T22:15:40Z"
 related to:
   - "[[GitHub - 1258067311]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize daily note data as color-coded monthly tracker strips directly inside monthly notes for habits, moods, sleep, exercise and more. Map frontmatter values or file existence to colored cells and click any cell to open that day's note."
 
     stats: {
-        downloads:  114
+        downloads:  139
         updated_at: 1780870540000
     }
 }

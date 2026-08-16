@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pds-sync
 alt:
   - https://github.com/moshyfawn/obsidian-pds-sync
-downloads: 81
+downloads: 90
 updated at: "2026-06-11T22:10:44Z"
 related to:
   - "[[GitHub - 1265617200]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your vault to an atproto Personal Data Server (PDS), choosing private encrypted records or publishable public documents. Encrypt private notes client-side (Argon2id + AES-256-GCM) and perform two-way push/pull with compare-and-swap conflict handling, orphan deletion, and restore. Publish flagged notes as site.standard.document for public readers, use OAuth or app password for authentication, and run auto-sync with a status-bar indicator and mobile support."
 
     stats: {
-        downloads:  81
+        downloads:  90
         updated_at: 1781215844000
     }
 }

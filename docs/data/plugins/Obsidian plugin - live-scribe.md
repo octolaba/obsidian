@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/live-scribe
 alt:
   - https://github.com/korthomasjeong/live-scribe
-downloads: 49
+downloads: 77
 updated at: "2026-07-10T13:48:20Z"
 related to:
   - "[[GitHub - 1296529581]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transcribe meetings live in a sidebar via ElevenLabs Scribe v2 Realtime with low latency and multi-language detection. Stream transcripts, insert full sessions or single segments into the active note, auto-save the entire session to a file, and run client-side with your API key."
 
     stats: {
-        downloads:  49
+        downloads:  77
         updated_at: 1783691300000
     }
 }

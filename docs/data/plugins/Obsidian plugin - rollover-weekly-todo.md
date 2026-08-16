@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rollover-weekly-todo
 alt:
   - https://github.com/shsethi/obsidian-rollover-weekly-todos
-downloads: 2353
+downloads: 2390
 updated at: "2024-09-10T13:04:53Z"
 related to:
   - "[[GitHub - 830977050]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Rollover incomplete todos from the previous week's note into the current weekly note. Trigger the rollover from the command palette, ribbon icon, or automatically when a new weekly note is created, and insert items under a chosen template heading or at the note end. Optionally delete originals and restore them via undo."
 
     stats: {
-        downloads:  2353
+        downloads:  2390
         updated_at: 1725973493000
     }
 }

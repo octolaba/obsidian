@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/timeline-calendar
 alt:
   - https://github.com/deemsd/timeline-calendar
-downloads: 223
+downloads: 249
 updated at: "2026-06-18T07:35:51Z"
 related to:
   - "[[GitHub - 1269927641]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display month, week, day and agenda views in a cleaner timeline with line-aligned time labels. Read time-stamped tasks and list items from daily notes as timed or all-day events, manage them with drag-and-drop and resizing, and open the original note when selecting an event."
 
     stats: {
-        downloads:  223
+        downloads:  249
         updated_at: 1781768151000
     }
 }

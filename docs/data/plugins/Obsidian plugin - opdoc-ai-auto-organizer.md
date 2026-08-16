@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/opdoc-ai-auto-organizer
 alt:
   - https://github.com/rklpoi5678/OpDoc-AI-Auto-Organizer
-downloads: 252
+downloads: 292
 updated at: "2026-05-20T10:42:50Z"
 related to:
   - "[[GitHub - 1226362783]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize new notes dropped into an Inbox folder with AI (Ollama or OpenAI): analyze content, inject tags into frontmatter, and move files to the correct folder. Match notes to folders via embedding-based similarity, log actions to OpDoc-Log.md, and retry on failures with collision-safe renaming."
 
     stats: {
-        downloads:  252
+        downloads:  292
         updated_at: 1779273770000
     }
 }

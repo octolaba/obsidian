@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-contextual-typography
 alt:
   - https://github.com/mgmeyers/obsidian-contextual-typography
-downloads: 110545
+downloads: 111351
 updated at: "2023-05-07T02:14:24Z"
 related to:
   - "[[GitHub - 321754030]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a data-tag-name attribute to every top-level markdown preview div to enable contextual CSS targeting. Target preview blocks by surrounding heading tags for precise, context-aware typography; the plugin does not add styles itself."
 
     stats: {
-        downloads:  110545
+        downloads:  111351
         updated_at: 1683425664000
     }
 }

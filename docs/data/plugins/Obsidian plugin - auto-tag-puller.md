@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-tag-puller
 alt:
   - https://github.com/pharelljordan/auto-tag-puller-obsidian
-downloads: 132
+downloads: 145
 updated at: "2026-06-16T06:40:55Z"
 related to:
   - "[[GitHub - 1220622033]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Aggregate tagged lines across your vault into live-updating blocks or static, editable lists. Insert live dynamic blocks that auto-refresh when viewing notes, or pull static lists grouped by source file as numbered, editable text you can modify directly."
 
     stats: {
-        downloads:  132
+        downloads:  145
         updated_at: 1781592055000
     }
 }

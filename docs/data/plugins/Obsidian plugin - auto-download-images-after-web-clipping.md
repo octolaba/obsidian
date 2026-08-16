@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-download-images-after-web-clipping
 alt:
   - https://github.com/chenxiccc/obsidian-auto-download-images-after-web-clipping
-downloads: 1398
+downloads: 1850
 updated at: "2026-07-22T08:31:07Z"
 related to:
   - "[[GitHub - 1179688881]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Download images automatically when clipping webpages with Web Clipper, converting external image links into local attachments in the background. Monitor chosen folders for new clippings and save images to Obsidian's attachment location, a per-file folder, or a specified subfolder."
 
     stats: {
-        downloads:  1398
+        downloads:  1850
         updated_at: 1784709067000
     }
 }

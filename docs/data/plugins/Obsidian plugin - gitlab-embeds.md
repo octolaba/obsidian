@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gitlab-embeds
 alt:
   - https://github.com/oliviergoulet5/obsidian-gitlab-plugin
-downloads: 126
+downloads: 138
 updated at: "2026-02-05T04:25:31Z"
 related to:
   - "[[GitHub - 1148364527]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed GitLab issues, merge requests, projects and other resources directly into notes for quick reference and richer context. Fetch and render content from gitlab.com or self-hosted GitLab instances in preview mode."
 
     stats: {
-        downloads:  126
+        downloads:  138
         updated_at: 1770265531000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/querydash
 alt:
   - https://github.com/liufree/obsidian-querydash
-downloads: 5773
+downloads: 5971
 updated at: "2025-10-15T16:34:28Z"
 related to:
   - "[[GitHub - 858501972]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display and interact with Bases and Dataview-powered data in table, list, timeline, gallery or Anki-style memory card views. Query with Dataview SQL, search, filter, aggregate, paginate, and edit tasks to manage notes, tasks and spaced-repetition reviews."
 
     stats: {
-        downloads:  5773
+        downloads:  5971
         updated_at: 1760546068000
     }
 }

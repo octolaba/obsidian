@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/busy-goblins
 alt:
   - https://github.com/roseygoblin/busy-goblins
-downloads: 134
+downloads: 142
 updated at: "2026-05-22T21:22:23Z"
 related to:
   - "[[GitHub - 1246840921]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Build reusable chains of AI steps to process, write, and rewrite Markdown notes using a local Ollama model. Read from files or folders, feed outputs between steps, save chains as presets, and run workflows with one click."
 
     stats: {
-        downloads:  134
+        downloads:  142
         updated_at: 1779484943000
     }
 }

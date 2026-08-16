@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/draft-indicator
 alt:
   - https://github.com/beardicus/obsidian-draft-indicator-plugin
-downloads: 946
+downloads: 957
 updated at: "2024-04-25T17:50:34Z"
 related to:
   - "[[GitHub - 791917209]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a pencil icon and italicize note titles in the file explorer for files with draft: true in their frontmatter. Apply styling automatically based on frontmatter."
 
     stats: {
-        downloads:  946
+        downloads:  957
         updated_at: 1714067434000
     }
 }

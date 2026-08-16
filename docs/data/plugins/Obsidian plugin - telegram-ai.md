@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/telegram-ai
 alt:
   - https://github.com/realm74/obsidian-telegram-ai
-downloads: 182
+downloads: 232
 updated at: "2026-06-22T20:55:13Z"
 related to:
   - "[[GitHub - 1164949175]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn Telegram into a smart capture inbox for your Obsidian vault. Send any message — text, voice, photo, document, or video — to your personal bot. It arrives in your vault as a structured, AI-processed note. AI Processing — OpenAI models analyze content, generate titles, summaries, and categories. Whisper transcribes voice, audio, and video into searchable text. Local-First — PDF and DOCX files are parsed on your machine. No data leaves your vault unless you enable AI. Media Albums — Telegram photo/video groups stay together in a single note, preserving context. Smart Routing — URL-only messages skip AI to save tokens. Each content type gets its own prompt and processing toggle. ️ Dynamic Templates — Organize with {{ai:title}}, {{category}}, {{date:YYYY-MM}} variables and keyword-based category routing. Setup in under a minute: create a bot via @BotFather, paste the token, and start capturing."
 
     stats: {
-        downloads:  182
+        downloads:  232
         updated_at: 1782161713000
     }
 }

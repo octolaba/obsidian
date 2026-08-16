@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lapel
 alt:
   - https://github.com/liamcain/obsidian-lapel
-downloads: 35964
+downloads: 37153
 updated at: "2026-05-12T14:14:55Z"
 related to:
   - "[[GitHub - 469853978]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show heading-level markers in the editor gutter to clearly distinguish h1, h2, h3, etc. Switch heading levels quickly from a gutter menu. Customize each level with CSS to change markers or styles per heading."
 
     stats: {
-        downloads:  35964
+        downloads:  37153
         updated_at: 1778595295000
     }
 }

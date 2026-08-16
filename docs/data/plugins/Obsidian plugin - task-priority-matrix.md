@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/task-priority-matrix
 alt:
   - https://github.com/dipendave/priority-matrix-obsidian
-downloads: 661
+downloads: 751
 updated at: "2026-05-17T00:36:04Z"
 related to:
   - "[[GitHub - 1153245646]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Prioritize tasks by urgency and importance using a four-quadrant Eisenhower Matrix (Do, Schedule, Delegate, Eliminate) inside Obsidian. Add, edit, drag-and-drop and complete tasks with inline editing, relative due dates, undo/revive, a collapsible completed bin with timestamps, mobile touch support and Obsidian Sync."
 
     stats: {
-        downloads:  661
+        downloads:  751
         updated_at: 1778978164000
     }
 }

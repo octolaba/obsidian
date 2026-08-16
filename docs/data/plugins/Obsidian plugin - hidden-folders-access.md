@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/hidden-folders-access
 alt:
   - https://github.com/dsebastien/obsidian-hidden-folders-access
-downloads: 8791
-updated at: "2026-07-17T07:38:22Z"
+downloads: 10461
+updated at: "2026-07-29T07:45:36Z"
 related to:
   - "[[GitHub - 1211521735]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Expose dot-prefixed root folders to Obsidian's UI and index while keeping their on-disk names unchanged. Inject chosen hidden folders into the vault cache so explorer, search, graph, Bases, Dataview and other plugins see live files, with filesystem-watcher updates and clean removal when disabled."
 
     stats: {
-        downloads:  8791
-        updated_at: 1784273902000
+        downloads:  10461
+        updated_at: 1785311136000
     }
 }
 ```

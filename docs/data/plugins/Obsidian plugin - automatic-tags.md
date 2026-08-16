@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/automatic-tags
 alt:
   - https://github.com/jamalam360/obsidian-automatic-tags
-downloads: 6582
+downloads: 6630
 updated at: "2024-04-14T11:35:50Z"
 related to:
   - "[[GitHub - 719119856]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add tags to new notes based on their file path via a simple path-to-tag mapping. Use simplified glob-style paths to target folders or files and tag notes automatically on creation."
 
     stats: {
-        downloads:  6582
+        downloads:  6630
         updated_at: 1713094550000
     }
 }

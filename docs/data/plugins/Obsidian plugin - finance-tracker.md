@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/finance-tracker
 alt:
   - https://github.com/arangutambo/finance-tracker
-downloads: 51
-updated at: "2026-07-22T05:44:43Z"
+downloads: 183
+updated at: "2026-07-30T03:17:50Z"
 related to:
   - "[[GitHub - 1224619014]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Log spending as tagged bullets inside your daily notes and keep running totals in plain Markdown—no separate database. Turn notes into spending, budget, holiday and savings dashboards and capture transactions from your phone or an inbox for quick entry."
 
     stats: {
-        downloads:  51
-        updated_at: 1784699083000
+        downloads:  183
+        updated_at: 1785381470000
     }
 }
 ```

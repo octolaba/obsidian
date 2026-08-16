@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/list-fold
 alt:
   - https://github.com/rezgi/obsidian-list-fold
-downloads: 108
+downloads: 132
 updated at: "2026-06-10T17:38:08Z"
 related to:
   - "[[GitHub - 1265339626]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle folding for list items only, leaving headings expanded so you can collapse outlines without hiding section headers. Use commands to fold/unfold top-level lists or all nested list levels; commands auto-detect fold state and work alongside Outliner (requires Obsidian desktop with CodeMirror 6)."
 
     stats: {
-        downloads:  108
+        downloads:  132
         updated_at: 1781113088000
     }
 }

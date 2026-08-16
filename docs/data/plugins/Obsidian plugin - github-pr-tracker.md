@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/github-pr-tracker
 alt:
   - https://github.com/davidmonnom/obsidian-pr-tracker
-downloads: 103
+downloads: 115
 updated at: "2026-07-12T18:43:46Z"
 related to:
   - "[[GitHub - 1274155535]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track GitHub pull requests in a sidebar panel and view per-PR details like title, repo, number, author, last updated, and review status. See inline review counts and combined CI commit status, refresh or remove PRs individually or in bulk, and keep closed PRs for reference. Store your GitHub token securely in the system keychain."
 
     stats: {
-        downloads:  103
+        downloads:  115
         updated_at: 1783881826000
     }
 }

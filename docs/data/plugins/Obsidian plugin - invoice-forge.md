@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/invoice-forge
 alt:
   - https://github.com/israerusan/obsidian-invoice-forge
-downloads: 109
-updated at: "2026-07-18T19:26:28Z"
+downloads: 134
+updated at: "2026-07-24T13:50:36Z"
 related to:
   - "[[GitHub - 1281884004]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Turn billable hours logged in your notes into client invoices by tagging lines with #billable and client tokens. Generate numbered Markdown invoices with line items and totals, preview unbilled hours, and export styled PDFs with branding, tax, multi-currency and payment tracking."
 
     stats: {
-        downloads:  109
-        updated_at: 1784402788000
+        downloads:  134
+        updated_at: 1784901036000
     }
 }
 ```

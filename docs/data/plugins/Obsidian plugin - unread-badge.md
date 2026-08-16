@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/unread-badge
 alt:
   - https://github.com/dzplnk/obsidian-unread-badge
-downloads: 139
+downloads: 154
 updated at: "2026-04-25T08:26:32Z"
 related to:
   - "[[GitHub - 1208442123]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show a dot badge next to files and folders in the file explorer when a note hasn't been opened since it was last modified. Mark notes read by opening them or use context-menu actions and commands to toggle read/unread per file, folder (recursive), or all notes."
 
     stats: {
-        downloads:  139
+        downloads:  154
         updated_at: 1777105592000
     }
 }

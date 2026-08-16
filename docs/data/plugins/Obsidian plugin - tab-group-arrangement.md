@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tab-group-arrangement
 alt:
   - https://github.com/situ2001/obsidian-tab-group-arrangement
-downloads: 882
+downloads: 902
 updated at: "2025-02-27T05:11:56Z"
 related to:
   - "[[GitHub - 927540299]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Arrange tab groups evenly or expand the active group while shrinking the others, mirroring VS Code behavior. Switch between manual and auto-expand modes to auto-expand the active group on focus change or editor tab click."
 
     stats: {
-        downloads:  882
+        downloads:  902
         updated_at: 1740633116000
     }
 }

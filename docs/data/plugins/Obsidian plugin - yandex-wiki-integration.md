@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/yandex-wiki-integration
 alt:
   - https://github.com/cubieprog/Obsidian-Yandex-Wiki-Integration
-downloads: 1197
+downloads: 1235
 updated at: "2025-08-12T09:22:03Z"
 related to:
   - "[[GitHub - 994345740]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Integrate Obsidian with your Yandex Wiki knowledge base and authenticate via your browser. Browse the Wiki tree, set a working directory, and export the repository into your vault with an export progress indicator."
 
     stats: {
-        downloads:  1197
+        downloads:  1235
         updated_at: 1754990523000
     }
 }

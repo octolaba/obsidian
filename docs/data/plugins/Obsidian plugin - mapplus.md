@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mapplus
 alt:
   - https://github.com/ccmdi/obsidian-map-plus
-downloads: 1723
+downloads: 1747
 updated at: "2026-05-27T23:44:17Z"
 related to:
   - "[[GitHub - 1072986089]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a fast, customizable map layout for Obsidian Bases that scales to large vaults and shows thumbnails for locations. Add tag hierarchy with prioritization, timeline filtering by date with grouping and a date slider, and optional search geocoding. Pull coordinates from frontmatter or base properties."
 
     stats: {
-        downloads:  1723
+        downloads:  1747
         updated_at: 1779925457000
     }
 }

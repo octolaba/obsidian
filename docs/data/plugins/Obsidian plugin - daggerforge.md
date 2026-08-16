@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daggerforge
 alt:
   - https://github.com/torutu/daggerforge
-downloads: 4369
+downloads: 4698
 updated at: "2026-07-20T23:52:49Z"
 related to:
   - "[[GitHub - 1023313077]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add Daggerheart adversaries and environments to notes using quick search and filters. Build and customize monsters, track HP and Stress on stat blocks, roll dice with clickable buttons, and resolve encounters with the Battle Calculator that follows the rulebook."
 
     stats: {
-        downloads:  4369
+        downloads:  4698
         updated_at: 1784591569000
     }
 }

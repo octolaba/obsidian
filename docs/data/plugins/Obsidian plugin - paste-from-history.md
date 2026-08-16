@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/paste-from-history
 alt:
   - https://github.com/karakaz/obsidian-paste-from-history
-downloads: 2712
+downloads: 2743
 updated at: "2025-12-25T17:09:49Z"
 related to:
   - "[[GitHub - 737885237]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Paste from recent clipboard entries captured in Obsidian's editor, choosing from a docked or hovered history menu. Keep a session-only, text-only history of copy/cut events that occur inside Obsidian and clear the history on demand."
 
     stats: {
-        downloads:  2712
+        downloads:  2743
         updated_at: 1766682589000
     }
 }

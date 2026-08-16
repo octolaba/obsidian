@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lilypond
 alt:
   - https://github.com/dot-asterisk-nl/obsidian-lilypond
-downloads: 4276
+downloads: 4298
 updated at: "2024-10-14T13:33:22Z"
 related to:
   - "[[GitHub - 648947156]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render LilyPond sheet music directly from fenced code blocks in Obsidian. Write LilyPond in ```lily``` blocks and view fully rendered notation inline using your local LilyPond installation."
 
     stats: {
-        downloads:  4276
+        downloads:  4298
         updated_at: 1728912802000
     }
 }

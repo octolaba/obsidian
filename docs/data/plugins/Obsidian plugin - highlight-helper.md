@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/highlight-helper
 alt:
   - https://github.com/byfun/obsidian-highlight-helper
-downloads: 2627
+downloads: 2642
 updated at: "2023-12-12T01:52:27Z"
 related to:
   - "[[GitHub - 727079462]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy all highlights from the open note to the clipboard. Customize regular expressions or use built-in defaults for Markdown and Highlightr highlight formats to collect highlights."
 
     stats: {
-        downloads:  2627
+        downloads:  2642
         updated_at: 1702345947000
     }
 }

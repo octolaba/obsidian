@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obshare
 alt:
   - https://github.com/xigua222/ObShare
-downloads: 8062
+downloads: 8498
 updated at: "2026-02-06T17:48:42Z"
 related to:
   - "[[GitHub - 1055637575]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Share your Obsidian notes to Feishu Cloud Docs with one-click uploads and automatic conversion of Markdown, mermaid, YAML and images into Feishu-friendly formats. Encrypt sensitive credentials locally with AES‑GCM 256, track upload history and progress, and set document permissions directly from Obsidian. 像云文档一样分享你的每一篇Markdown文档，极致安全便捷，Obsidian分享的终极解决方案"
 
     stats: {
-        downloads:  8062
+        downloads:  8498
         updated_at: 1770400122000
     }
 }

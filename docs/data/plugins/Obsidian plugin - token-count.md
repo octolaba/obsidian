@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/token-count
 alt:
   - https://github.com/lemondepat/token-count
-downloads: 219
+downloads: 264
 updated at: "2026-05-23T05:48:55Z"
 related to:
   - "[[GitHub - 1245822501]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display token counts for the active Markdown note in the status bar on desktop using the same tokenizers as GPT, Claude, and Gemini. Update counts in real time as you edit, count the entire editor content (including YAML frontmatter), and optionally show the selected model name."
 
     stats: {
-        downloads:  219
+        downloads:  264
         updated_at: 1779515335000
     }
 }

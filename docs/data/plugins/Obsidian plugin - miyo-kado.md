@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/miyo-kado
 alt:
   - https://github.com/mmomm-org/miyo-kado
-downloads: 387
+downloads: 415
 updated at: "2026-07-18T17:47:59Z"
 related to:
   - "[[GitHub - 1175990483]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Control AI access to your vault with default-deny, per-key permissioning and full audit logs. Grant assistants granular read, write, delete and search access to notes, frontmatter, files and Dataview fields via a local MCP server, with path/type scopes, optimistic concurrency and rate limits."
 
     stats: {
-        downloads:  387
+        downloads:  415
         updated_at: 1784396879000
     }
 }

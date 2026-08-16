@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/intelligence
 alt:
   - https://github.com/ransurf/obsidian-intelligence
-downloads: 3226
+downloads: 3239
 updated at: "2023-12-22T02:12:02Z"
 related to:
   - "[[GitHub - 715415883]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Integrate OpenAI Assistants into Obsidian to create and personalize GPT assistants with custom instructions and reuse them across conversations. Upload notes for retrieval, run the code interpreter to process data and generate files or visualizations, and view clickable footnote sources in threaded conversations."
 
     stats: {
-        downloads:  3226
+        downloads:  3239
         updated_at: 1703211122000
     }
 }

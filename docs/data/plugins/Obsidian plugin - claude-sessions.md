@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/claude-sessions
 alt:
   - https://github.com/gapmiss/claude-sessions
-downloads: 702
-updated at: "2026-07-13T21:08:20Z"
+downloads: 885
+updated at: "2026-08-06T23:01:31Z"
 related to:
   - "[[GitHub - 1195248044]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Browse Claude Code sessions as interactive timelines with collapsible labeled turns and timestamped progress. Render tool outputs as diffs, highlighted code, images, question cards, and inline sub-agent logs; read JSONL files locally to keep conversations private (desktop-only)."
 
     stats: {
-        downloads:  702
-        updated_at: 1783976900000
+        downloads:  885
+        updated_at: 1786057291000
     }
 }
 ```

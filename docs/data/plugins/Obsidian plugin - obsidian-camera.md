@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-camera
 alt:
   - https://github.com/aldrinjenson/obsidian-camera
-downloads: 15652
+downloads: 15773
 updated at: "2024-01-27T10:09:58Z"
 related to:
   - "[[GitHub - 495599680]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture photos and videos directly into your vault and save recordings as files. Insert links to recordings automatically into the open Markdown note and browse saved media with a file picker. Target desktop use; expect some differences on mobile devices."
 
     stats: {
-        downloads:  15652
+        downloads:  15773
         updated_at: 1706350198000
     }
 }

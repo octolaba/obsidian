@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-publisher
 alt:
   - https://github.com/yiglas/obsidian-file-publisher
-downloads: 3659
+downloads: 3668
 updated at: "2023-03-06T22:16:55Z"
 related to:
   - "[[GitHub - 601376533]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish files and attachments directly to a POST endpoint with API key and secret support. Use a frontmatter template (title, excerpt, timestamp) to format the note and send the current file to the configured endpoint."
 
     stats: {
-        downloads:  3659
+        downloads:  3668
         updated_at: 1678141015000
     }
 }

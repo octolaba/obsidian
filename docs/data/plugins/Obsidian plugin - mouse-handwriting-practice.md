@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mouse-handwriting-practice
 alt:
   - https://github.com/khr0907/obsidian-mouse-handwriting
-downloads: 30
+downloads: 47
 updated at: "2026-07-03T08:22:27Z"
 related to:
   - "[[GitHub - 1288027038]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Practice handwriting with your mouse on full-page penmanship sheets and trace on-screen guides to build control and form. Choose letters, words, short or long passages in English, Korean, or Japanese; switch guide styles (outline, filled, ruled, or none) and preview a guide-free image of your writing for pressure-free, no-scoring practice."
 
     stats: {
-        downloads:  30
+        downloads:  47
         updated_at: 1783066947000
     }
 }

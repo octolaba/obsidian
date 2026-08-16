@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-importer
 alt:
   - https://github.com/ahmed-hegazi0/image-importer
-downloads: 151
+downloads: 170
 updated at: "2025-12-28T09:49:01Z"
 related to:
   - "[[GitHub - 1124069651]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import images from your device or the web into your vault (JPEG, PNG supported). Create an optional accompanying Markdown file with a custom name, choose to copy or move local files, and auto-paste image URLs from the clipboard while setting default behaviors."
 
     stats: {
-        downloads:  151
+        downloads:  170
         updated_at: 1766915341000
     }
 }

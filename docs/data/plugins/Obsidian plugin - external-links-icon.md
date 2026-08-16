@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/external-links-icon
 alt:
   - https://github.com/moziar/obsidian-external-links-icon
-downloads: 613
-updated at: "2026-07-18T05:52:21Z"
+downloads: 716
+updated at: "2026-08-11T11:46:13Z"
 related to:
   - "[[GitHub - 928201483]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add icons to external and internal links to visually distinguish link types and highlight supported sites and URL schemes. Include built-in icons for many services, accept custom SVG icons, and adapt colors to your theme while keeping assets optimized for performance."
 
     stats: {
-        downloads:  613
-        updated_at: 1784353941000
+        downloads:  716
+        updated_at: 1786448773000
     }
 }
 ```

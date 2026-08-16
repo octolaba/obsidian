@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/custom-publish
 alt:
   - https://github.com/danyim/obsidian-custom-publish
-downloads: 83
+downloads: 89
 updated at: "2026-02-20T05:01:50Z"
 related to:
   - "[[GitHub - 1162270461]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set, unset, or toggle frontmatter flags to control publishing and visibility of notes from the command palette. Copy a note's public URL to the clipboard using a URL template with ${PAGE} replaced by a slugified filename."
 
     stats: {
-        downloads:  83
+        downloads:  89
         updated_at: 1771563710000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/paste-image-rename-convert
 alt:
   - https://github.com/yiaos/obsidian-paste-image-rename-convert
-downloads: 1951
+downloads: 2020
 updated at: "2025-05-24T05:33:57Z"
 related to:
   - "[[GitHub - 961737264]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Rename images when pasting into notes and allow manual naming. Compress and convert images to reduce file size, supporting JPG and WebP output. Work with external upload plugins to send renamed images to cloud storage."
 
     stats: {
-        downloads:  1951
+        downloads:  2020
         updated_at: 1748064837000
     }
 }

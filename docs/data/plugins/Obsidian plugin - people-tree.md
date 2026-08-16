@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/people-tree
 alt:
   - https://github.com/juppinger0/obsidian-people-tree
-downloads: 254
+downloads: 365
 updated at: "2026-06-27T19:44:29Z"
 related to:
   - "[[GitHub - 1282285390]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Build and view family trees, org charts, timelines and sortable lists directly from your Markdown notes' YAML frontmatter. Drag notes or photos onto the board, edit fields inline so changes write back to the note, reposition and zoom cards, and highlight connections while keeping all data local."
 
     stats: {
-        downloads:  254
+        downloads:  365
         updated_at: 1782589469000
     }
 }

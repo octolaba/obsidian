@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-local-graph-paths
 alt:
   - https://github.com/0melette/copy-local-graph-paths
-downloads: 442
+downloads: 451
 updated at: "2025-03-08T01:17:17Z"
 related to:
   - "[[GitHub - 936423175]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy file paths from links in the current note, formatted for external use. Prepend a custom base path, exclude folders by name, and output newline- or semicolon-separated lists for documentation, scripts, or RAG workflows."
 
     stats: {
-        downloads:  442
+        downloads:  451
         updated_at: 1741396637000
     }
 }

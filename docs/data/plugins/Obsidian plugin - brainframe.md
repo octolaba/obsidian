@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/brainframe
 alt:
   - https://github.com/pedersen/obsidian-brainframe
-downloads: 5216
+downloads: 5254
 updated at: "2023-03-28T14:33:37Z"
 related to:
   - "[[GitHub - 586727758]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save product, Git, and gift-idea bookmarks from your browser into designated vault files as Markdown link entries. Append page title and URL to chosen files (defaults: products.md, gitmarks.md) with quick commands for simple centralized bookmark collection."
 
     stats: {
-        downloads:  5216
+        downloads:  5254
         updated_at: 1680014017000
     }
 }

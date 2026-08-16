@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/routine-streaks
 alt:
   - https://github.com/holyhooly/routine-streaks
-downloads: 290
+downloads: 319
 updated at: "2026-07-04T08:38:37Z"
 related to:
   - "[[GitHub - 1255065510]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track routine streaks by reading Daily Note checkboxes tagged like #routine/morning and marking a date complete when all matching items are checked. View progress in a sidebar dashboard or embedded widgets, generate iOS Scriptable widgets, manage routines, and use weekday schedules and streak freeze days."
 
     stats: {
-        downloads:  290
+        downloads:  319
         updated_at: 1783154317000
     }
 }

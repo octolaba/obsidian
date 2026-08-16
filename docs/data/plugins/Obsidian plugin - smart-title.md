@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-title
 alt:
   - https://github.com/maxzyma/obsidian-plugin-smart-title
-downloads: 12721
+downloads: 12948
 updated at: "2023-12-18T05:47:20Z"
 related to:
   - "[[GitHub - 714643846]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extract tags and aliases automatically from note titles and add them to note metadata. Integrate with Obsidian's alias link feature to keep title-derived aliases synced with links and search."
 
     stats: {
-        downloads:  12721
+        downloads:  12948
         updated_at: 1702878440000
     }
 }

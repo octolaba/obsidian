@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lazy-plugins
 alt:
   - https://github.com/alangrainger/obsidian-lazy-plugins
-downloads: 124286
+downloads: 129308
 updated at: "2026-05-31T10:48:05Z"
 related to:
   - "[[GitHub - 838057218]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Delay plugin loading on Obsidian startup to push nonessential plugins into timed background loads and reduce initial app launch to sub-second times. Apply changes over up to two restarts to reach full speed; disable plugins inside Lazy Loader settings to keep them disabled across restarts."
 
     stats: {
-        downloads:  124286
+        downloads:  129308
         updated_at: 1780224485000
     }
 }

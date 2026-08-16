@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/live-preview
 alt:
   - https://github.com/hxwguang/obsidian-live-preview
-downloads: 412
-updated at: "2026-06-10T09:15:37Z"
+downloads: 562
+updated at: "2026-07-26T17:47:00Z"
 related to:
   - "[[GitHub - 1237022485]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Preview HTML files live in Obsidian using an embedded pane or open them in your system browser, served by a local HTTP server so relative paths, CSS/JS, fonts, and images work correctly. Reload edits automatically via WebSocket, restrict served files to the chosen directory, and auto-increment ports if busy."
 
     stats: {
-        downloads:  412
-        updated_at: 1781082937000
+        downloads:  562
+        updated_at: 1785088020000
     }
 }
 ```

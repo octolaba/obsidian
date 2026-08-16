@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vcf-contacts
 alt:
   - https://github.com/broekema41/obsidian-vcf-contacts
-downloads: 5397
+downloads: 5564
 updated at: "2026-06-01T19:23:41Z"
 related to:
   - "[[GitHub - 944485746]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage contacts as Markdown notes with vCard-compliant frontmatter, add avatars, and track birthdays. Import and export vCard 4.0 files, search and link contacts across your vault, and act on phone numbers and emails with click-to-call and quick-copy."
 
     stats: {
-        downloads:  5397
+        downloads:  5564
         updated_at: 1780341821000
     }
 }

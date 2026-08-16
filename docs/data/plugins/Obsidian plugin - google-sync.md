@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/google-sync
 alt:
   - https://github.com/cordedmink2/obsidian-google-sync
-downloads: 868
+downloads: 1214
 updated at: "2026-06-16T05:43:47Z"
 related to:
   - "[[GitHub - 1251914740]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Pulls Google Calendar events into a folder, \"events\", and Google Tasks tasks into a folder, 'tasks'. Updates in obsidian get synced into google. Events/tasks past event date/due dates will get automatically archived. Tasks can be linked to events. Please read the github docs for setup Instructions."
 
     stats: {
-        downloads:  868
+        downloads:  1214
         updated_at: 1781588627000
     }
 }

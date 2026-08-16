@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/researcher
 alt:
   - https://github.com/slaymish/async-researcher
-downloads: 199
+downloads: 271
 updated at: "2026-05-24T11:19:52Z"
 related to:
   - "[[GitHub - 1240700673]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn Markdown notes into a lightweight async research workflow with a research sidebar grouped by research status. Create research idea notes from selection, track status in frontmatter, and start deep research runs (internal stub or Python sidecar) that record run progress and final reports. Use Ollama or OpenAI for clarifying questions when a model is configured, otherwise fall back to deterministic placeholders."
 
     stats: {
-        downloads:  199
+        downloads:  271
         updated_at: 1779621592000
     }
 }

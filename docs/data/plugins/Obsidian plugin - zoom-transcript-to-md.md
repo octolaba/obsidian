@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zoom-transcript-to-md
 alt:
   - https://github.com/ibatura/obsidian-meeting-transcript-converter
-downloads: 62
+downloads: 93
 updated at: "2026-07-05T21:44:18Z"
 related to:
   - "[[GitHub - 1290138920]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert .txt and .vtt meeting transcripts to clean Markdown offline, render WebVTT cues as bulleted items, and optionally prefix bullets with timestamps based on the file creation time. Watch a folder to auto-convert new files, add YAML frontmatter with meeting_name, date, duration and participants, and optionally delete the original."
 
     stats: {
-        downloads:  62
+        downloads:  93
         updated_at: 1783287858000
     }
 }

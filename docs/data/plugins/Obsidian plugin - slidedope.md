@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/slidedope
 alt:
   - https://github.com/russquan/slidedope
-downloads: 85
+downloads: 120
 updated at: "2026-07-06T14:29:48Z"
 related to:
   - "[[GitHub - 1290910537]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create self-contained HTML slide decks inside your vault with a PPTX-like, single-file editor that opens and plays in any browser. Edit slides using a thumbnail sidebar, inline text editing, slide clipboard, and full undo/redo. Paste images as files in a deck images folder and drag, nudge, or resize them; play or print standalone decks with section progress and page counts."
 
     stats: {
-        downloads:  85
+        downloads:  120
         updated_at: 1783348188000
     }
 }

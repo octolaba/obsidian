@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/macOS-keyboard-nav-obsidian
 alt:
   - https://github.com/ryanjamurphy/macOS-keyboard-nav-obsidian
-downloads: 8030
+downloads: 8258
 updated at: "2020-11-20T02:40:01Z"
 related to:
   - "[[GitHub - 312638573]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Restore macOS keyboard navigation by re-enabling alt+↑ / alt+↓ and alt+shift+↑ / alt+shift+↓ in Obsidian. Preserve familiar macOS cursor and selection movement for smoother text editing across notes."
 
     stats: {
-        downloads:  8030
+        downloads:  8258
         updated_at: 1605840001000
     }
 }

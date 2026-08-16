@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/brain-dump-mode
 alt:
   - https://github.com/yesjinu/brain-dump-mode
-downloads: 1080
+downloads: 1142
 updated at: "2024-10-05T09:32:18Z"
 related to:
   - "[[GitHub - 844761904]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Disable Backspace and Delete to force uninterrupted drafting and prevent in-progress editing. Trigger Shark Mode to chase you when typing slows, motivating continuous typing. Overcome perfectionism and push through writer's block by keeping momentum."
 
     stats: {
-        downloads:  1080
+        downloads:  1142
         updated_at: 1728120738000
     }
 }

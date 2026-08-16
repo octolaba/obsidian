@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-bellboy
 alt:
   - https://github.com/shakedlokits/obsidian-bellboy
-downloads: 3959
+downloads: 3995
 updated at: "2022-08-06T09:07:20Z"
 related to:
   - "[[GitHub - 488608531]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Rename notes to the kebab-case of their first header and add frontmatter icons to filenames for easier discovery. Move notes automatically between inbox, waiting, working, and archive folders based on metadata status using the Idea Processor workflow."
 
     stats: {
-        downloads:  3959
+        downloads:  3995
         updated_at: 1659776840000
     }
 }

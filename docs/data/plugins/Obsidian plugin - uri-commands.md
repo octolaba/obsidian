@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/uri-commands
 alt:
   - https://github.com/kzhovn/uri-commands-obsidian
-downloads: 7444
+downloads: 7600
 updated at: "2025-01-21T07:54:29Z"
 related to:
   - "[[GitHub - 410605229]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add custom URI commands to the command palette to call Obsidian URIs or any system URI scheme. Use placeholders like {{fileName}}, {{filePath}}, {{fileText}}, {{selection}}, {{line}}, {{vaultName}} and {{meta:FIELD_NAME}} with automatic URL-encoding; commands with placeholders hide when no active file."
 
     stats: {
-        downloads:  7444
+        downloads:  7600
         updated_at: 1737446069000
     }
 }

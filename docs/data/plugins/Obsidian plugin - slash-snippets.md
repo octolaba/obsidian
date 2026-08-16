@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/slash-snippets
 alt:
   - https://github.com/echo-saurav/slash-snippets-plugin
-downloads: 10790
+downloads: 11044
 updated at: "2026-02-07T06:07:40Z"
 related to:
   - "[[GitHub - 991250605]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert frequently used text snippets instantly while writing in Obsidian using a chosen trigger (default '/'). Store snippets as plain-text files and include variables like %%cursor%% and %%textSelection%%; enable Templater syntax to create dynamic snippets for Dataview blocks, callouts, HTML, mermaid, and more."
 
     stats: {
-        downloads:  10790
+        downloads:  11044
         updated_at: 1770444460000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/mermaid-flow
 alt:
   - https://github.com/thansheer/obsidian-mermaid-flow
-downloads: 1072
-updated at: "2026-06-27T04:21:34Z"
+downloads: 1683
+updated at: "2026-08-04T09:14:52Z"
 related to:
   - "[[GitHub - 1251453941]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Edit Mermaid flowcharts visually inside Obsidian with a WYSIWYG drag-and-drop editor. Drag nodes and draw connections without writing Mermaid code, preserve manual layouts via hidden comments, and work in an embedded pane or modal with Live Preview and Reading Mode edit buttons."
 
     stats: {
-        downloads:  1072
-        updated_at: 1782534094000
+        downloads:  1683
+        updated_at: 1785834892000
     }
 }
 ```

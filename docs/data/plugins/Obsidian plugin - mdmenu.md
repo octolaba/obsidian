@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mdmenu
 alt:
   - https://github.com/sandsaber/mdMenu
-downloads: 284
+downloads: 438
 updated at: "2026-07-19T21:49:41Z"
 related to:
   - "[[GitHub - 1262967630]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a compact WYSIWYG-style Markdown toolbar to Obsidian to apply headings, lists, callouts, links, highlights, code blocks, checkboxes and inline formatting while keeping notes as plain Markdown. Position the toolbar fixed, by selection or cursor, or drag and pin it manually, and customize buttons and presets to suit your workflow."
 
     stats: {
-        downloads:  284
+        downloads:  438
         updated_at: 1784497781000
     }
 }

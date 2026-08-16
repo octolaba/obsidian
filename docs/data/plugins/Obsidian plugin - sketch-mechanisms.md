@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/sketch-mechanisms
 alt:
   - https://github.com/masoudmim/sketch-mechanisms
-downloads: 89
-updated at: "2026-06-30T20:24:13Z"
+downloads: 142
+updated at: "2026-07-26T23:25:04Z"
 related to:
   - "[[GitHub - 1284615303]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render live, hand-drawn animations of common 2D mechanisms—four-bar linkages, slider-cranks, gear pairs, cams, pendulums, and spring-mass systems—directly in your notes from a simple code block. Draw strokes in a sketchy rough.js style as a live SVG that plays in Reading View and Live Preview, works on mobile, respects reduced-motion, and lets you click drawings to play or pause."
 
     stats: {
-        downloads:  89
-        updated_at: 1782851053000
+        downloads:  142
+        updated_at: 1785108304000
     }
 }
 ```

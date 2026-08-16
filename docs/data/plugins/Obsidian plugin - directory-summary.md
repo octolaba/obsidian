@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/directory-summary
 alt:
   - https://github.com/va9id/obsidian-directory-summary
-downloads: 115
+downloads: 120
 updated at: "2026-05-15T23:46:02Z"
 related to:
   - "[[GitHub - 1149309631]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate a summary note for any folder that lists files as backlinks and groups entries by subfolder. Limit depth and item count and show a specified file property value next to each backlink."
 
     stats: {
-        downloads:  115
+        downloads:  120
         updated_at: 1778888762000
     }
 }

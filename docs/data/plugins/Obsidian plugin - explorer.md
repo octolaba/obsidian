@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/explorer
 alt:
   - https://github.com/manemajef/obsidian-explorer
-downloads: 1351
-updated at: "2026-07-07T09:03:11Z"
+downloads: 2478
+updated at: "2026-08-07T17:00:41Z"
 related to:
   - "[[GitHub - 1140588720]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Browse folder contents directly inside the editor pane using card or list views and navigate folders from any note. Sort by name, creation or modification date, run fast scoped searches within the current folder, paginate large folders, and enjoy folder-note, mobile, and RTL support."
 
     stats: {
-        downloads:  1351
-        updated_at: 1783414991000
+        downloads:  2478
+        updated_at: 1786122041000
     }
 }
 ```

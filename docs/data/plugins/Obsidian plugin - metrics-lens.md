@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/metrics-lens
 alt:
   - https://github.com/totocaster/metrics-obsidian
-downloads: 106
+downloads: 116
 updated at: "2026-05-13T12:08:23Z"
 related to:
   - "[[GitHub - 1209843481]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Metrics is an Obsidian plugin for viewing and editing structured metric records stored as plain *.metrics.ndjson files. It is designed for measurements, scores, counts, durations, and other discrete data that do not fit naturally into notes. Obsidian is already excellent at handling prose and documents. Metrics handles the structured side, keeping the files readable and editable outside the UI so humans and AI agents can work with the same records. It follows the Plaintext Commons idea that the folder is the platform and the file is the protocol."
 
     stats: {
-        downloads:  106
+        downloads:  116
         updated_at: 1778674103000
     }
 }

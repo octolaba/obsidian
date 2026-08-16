@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/video-controls-enhancer
 alt:
   - https://github.com/postpollux/obsidian-video-controls-enhancer
-downloads: 168
+downloads: 404
 updated at: "2026-07-09T18:37:45Z"
 related to:
   - "[[GitHub - 1289639161]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add touch-first gesture controls to Obsidian's local video player for horizontal scrubbing, vertical volume control, double-tap jumps, and long-press fast-forwarding. Show lightweight on-screen overlays and apply gestures to every local video element in notes, Canvas, previews, and fullscreen on desktop and mobile."
 
     stats: {
-        downloads:  168
+        downloads:  404
         updated_at: 1783622265000
     }
 }

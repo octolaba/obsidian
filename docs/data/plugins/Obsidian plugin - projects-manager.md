@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/projects-manager
 alt:
   - https://github.com/wesswart77/obsidian-project-manager
-downloads: 665
+downloads: 823
 updated at: "2026-05-24T20:31:02Z"
 related to:
   - "[[GitHub - 1248531945]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage projects, track status, milestones, tasks, and progress with a kanban-style sidebar showing Planning, Active, On Hold, and Complete columns. Create projects with name, status, due date and priority; add milestones, log percent-complete updates, view progress bars and priority badges on cards, and archive projects."
 
     stats: {
-        downloads:  665
+        downloads:  823
         updated_at: 1779654662000
     }
 }

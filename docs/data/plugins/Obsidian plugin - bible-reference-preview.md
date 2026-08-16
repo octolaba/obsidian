@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bible-reference-preview
 alt:
   - https://github.com/yuriy-bak/obsidian-bible-reference-preview
-downloads: 129
+downloads: 143
 updated at: "2026-06-01T15:37:27Z"
 related to:
   - "[[GitHub - 1239099810]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Find Bible references in Obsidian notes and show verse previews from EPUB translations you import. Import and store multiple translations, compare up to four side-by-side, and open previews as floating popups or in a side panel. Highlight references in editor and Reading view and copy verse or comparison text to clipboard."
 
     stats: {
-        downloads:  129
+        downloads:  143
         updated_at: 1780328247000
     }
 }

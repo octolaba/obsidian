@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/calendar-plus
 alt:
   - https://github.com/mattmaiorana/calendar-plus
-downloads: 2908
+downloads: 3509
 updated at: "2026-07-13T02:28:04Z"
 related to:
   - "[[GitHub - 1238668056]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Calendar Plus is a sidebar calendar with daily, weekly, monthly, quarterly, and yearly periodic notes built in. It's an update to Liam Cain's original Calendar plugin with a few notable upgrades and differences. The biggest changes are: periodic notes are integrated, month/quarter/year labels are clickable, there's a new year navigator, and featured images can be shown on the calendar. There are also many bug fixes that bring both the calendar view and periodic note functionality up to modern Obsidian plugin standards. This is built to be a no-compromise improvement to the original Calendar plugin."
 
     stats: {
-        downloads:  2908
+        downloads:  3509
         updated_at: 1783909684000
     }
 }

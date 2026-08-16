@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ninja-cursor
 alt:
   - https://github.com/vrtmrz/ninja-cursor
-downloads: 52851
+downloads: 55040
 updated at: "2026-06-17T08:20:54Z"
 related to:
   - "[[GitHub - 511387258]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Improve cursor visibility with a bold, high-contrast cursor overlay inside Obsidian. Draw on Neovide's \"nonsense\" cursor effect for a subtle, respectful styling."
 
     stats: {
-        downloads:  52851
+        downloads:  55040
         updated_at: 1781684454000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-tagger-universe
 alt:
   - https://github.com/niehu2018/obsidian-ai-tagger-universe
-downloads: 13348
+downloads: 13891
 updated at: "2026-06-23T11:52:58Z"
 related to:
   - "[[GitHub - 932131047]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate intelligent tags for notes using local or cloud AI and add them to frontmatter to organize and surface connections. Match tags to your existing vault or predefined lists, create nested hierarchical tags, and run batch tagging across notes. Visualize tag relationships in an interactive network to explore patterns."
 
     stats: {
-        downloads:  13348
+        downloads:  13891
         updated_at: 1782215578000
     }
 }

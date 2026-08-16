@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/create-note-in-folder
 alt:
   - https://github.com/mara-li/obsidian-create-note-in-folder
-downloads: 15375
+downloads: 15526
 updated at: "2026-05-20T07:56:41Z"
 related to:
   - "[[GitHub - 600896354]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create notes directly in specified folder paths with a dedicated command. Configure per-folder behavior: set filenames and templates (Templater), use {{current}} for the current file path, choose where to open and focus notes, and expose commands in the file menu or quick-switcher."
 
     stats: {
-        downloads:  15375
+        downloads:  15526
         updated_at: 1779263801000
     }
 }

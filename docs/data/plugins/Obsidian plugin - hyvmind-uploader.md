@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/hyvmind-uploader
 alt:
   - https://github.com/anshuman-ecc-eth/hm-obsidian
-downloads: 135
-updated at: "2026-06-22T08:55:21Z"
+downloads: 154
+updated at: "2026-07-30T09:56:32Z"
 related to:
   - "[[GitHub - 1211068042]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Hyvmind is a collaborative space for legal researchers. This plugin lets you push your notes directly to the app. From there, you can publish them as extensible graphs to earn Trust."
 
     stats: {
-        downloads:  135
-        updated_at: 1782118521000
+        downloads:  154
+        updated_at: 1785405392000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/battery-indicator
 alt:
   - https://github.com/opisek/obsidian-battery-indicator
-downloads: 912
+downloads: 933
 updated at: "2024-10-15T12:28:18Z"
 related to:
   - "[[GitHub - 841411511]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a battery indicator in Obsidian's status bar. Show a textual percentage or separate battery level and charging icons, and pair with a status bar organizer to control when or where the indicator appears."
 
     stats: {
-        downloads:  912
+        downloads:  933
         updated_at: 1728995298000
     }
 }

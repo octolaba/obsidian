@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/annotation-marker
 alt:
   - https://github.com/uuq007/obsidian-annotation-marker
-downloads: 5190
+downloads: 5834
 updated at: "2026-06-17T18:53:31Z"
 related to:
   - "[[GitHub - 1169523684]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add colored highlights, inline comments and ruby (phonetic) annotations to notes while keeping original Markdown untouched; store annotations in separate files that auto-sync when notes change. Mark text across paragraphs, handle nested or overlapping highlights, edit in preview or editor modes, and manage all annotations from a floating panel and a sidebar list."
 
     stats: {
-        downloads:  5190
+        downloads:  5834
         updated_at: 1781722411000
     }
 }

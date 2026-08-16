@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gyazo
 alt:
   - https://github.com/nota/gyazo-obsidian-plugin
-downloads: 631
+downloads: 656
 updated at: "2025-06-24T07:45:10Z"
 related to:
   - "[[GitHub - 977870754]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View and embed Gyazo captures directly in your notes using a sidebar gallery with drag-and-drop embedding and a detailed preview showing metadata and OCR. Copy ready-to-use Markdown, use context-menu actions for captures, and access the latest 10 captures on free accounts or up to 100 with Pro; supports English and Japanese."
 
     stats: {
-        downloads:  631
+        downloads:  656
         updated_at: 1750751110000
     }
 }

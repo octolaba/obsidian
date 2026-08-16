@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-file-path-to-uri
 alt:
   - https://github.com/michalbures/obsidian-file-path-to-uri
-downloads: 23580
+downloads: 23903
 updated at: "2022-09-04T12:06:17Z"
 related to:
   - "[[GitHub - 330360316]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert local file and folder paths into file:// URIs or Markdown links so you can link to items outside your vault. Toggle selected paths between plain path and URI, paste converted URIs from the clipboard, or insert Markdown links using the full path or just the name as link text."
 
     stats: {
-        downloads:  23580
+        downloads:  23903
         updated_at: 1662293177000
     }
 }

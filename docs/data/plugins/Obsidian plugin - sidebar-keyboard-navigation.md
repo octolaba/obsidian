@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/sidebar-keyboard-navigation
 alt:
   - https://github.com/denvolok/obsidian-sidebar-keyboard-navigation
-downloads:
-updated at:
+downloads: 4950
+updated at: "2026-07-25T15:38:30Z"
 related to:
   - "[[GitHub - 798953492]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/denvolok/obsidian-sidebar-keyboard-navigation"
     description: "Smoothly navigate the native File Explorer using keyboard only (Vim-like). - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Navigate the native File Explorer with Vim-like keyboard commands to preview, open, split, and edit files and folders. Keep focus in the explorer with background opening, avoid duplicate tabs by focusing already-open files, and auto-focus adjacent nodes after deletions."
+
+    stats: {
+        downloads:  4950
+        updated_at: 1784993910000
+    }
 }
 ```
 

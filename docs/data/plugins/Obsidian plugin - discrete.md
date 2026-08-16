@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/discrete
 alt:
   - https://github.com/shkarlsson/obsidian-discrete
-downloads: 393
+downloads: 431
 updated at: "2026-07-19T18:34:06Z"
 related to:
   - "[[GitHub - 923044633]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Filter files in the file explorer by frontmatter metadata to hide or show matching notes in real time. Choose from comparison operators (=, contains, exists, includes, >, <), combine filters with AND/OR, and create quick filters from a file's right-click menu."
 
     stats: {
-        downloads:  393
+        downloads:  431
         updated_at: 1784486046000
     }
 }

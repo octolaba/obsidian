@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/snippets-catcher
 alt:
   - https://github.com/opa-oz/obsidian-snippets-plugin
-downloads: 109
+downloads: 130
 updated at: "2026-05-27T08:12:59Z"
 related to:
   - "[[GitHub - 1207538708]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Download and manage CSS snippets from a GitHub repository directly inside Obsidian. Activate downloaded snippets in Appearance and switch to a custom repo to use or contribute your own collection."
 
     stats: {
-        downloads:  109
+        downloads:  130
         updated_at: 1779869579000
     }
 }

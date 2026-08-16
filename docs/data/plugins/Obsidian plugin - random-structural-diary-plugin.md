@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/random-structural-diary-plugin
 alt:
   - https://github.com/shockthunder/RandomStructuralDiary
-downloads: 8099
+downloads: 8122
 updated at: "2022-07-16T14:03:56Z"
 related to:
   - "[[GitHub - 400031680]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert random structural diary questions into your note to spark new thoughts. Load the built-in list or specify a Markdown file with # section headers and one question per line, pick questions globally or by section, and insert chosen questions at the cursor."
 
     stats: {
-        downloads:  8099
+        downloads:  8122
         updated_at: 1657980236000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/advanced-canvas
 alt:
   - https://github.com/developer-mike/obsidian-advanced-canvas
-downloads: 681006
+downloads: 726947
 updated at: "2026-07-10T13:12:48Z"
 related to:
   - "[[GitHub - 749129274]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extend Canvas with advanced node, edge, presentation, and metadata features for flowcharts, slides, and embedded canvases. Use auto-resizing nodes, custom shapes and colors, diverse edge styles and pathfinding, frontmatter-driven links, collapsible groups, native-like canvas search, and transparent PNG/SVG export."
 
     stats: {
-        downloads:  681006
+        downloads:  726947
         updated_at: 1783689168000
     }
 }

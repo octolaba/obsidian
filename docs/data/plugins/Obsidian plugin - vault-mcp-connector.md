@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-mcp-connector
 alt:
   - https://github.com/vault-mcp/platform
-downloads: 126
+downloads: 340
 updated at: "2026-07-13T23:20:30Z"
 related to:
   - "[[GitHub - 1267721076]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect Obsidian to ChatGPT, Claude, Codex and other MCP clients while controlling what gets indexed and shared. Run an optional local MCP server, set access levels for local reads and direct writes, and queue reviewable vault-write proposals from hosted deployments."
 
     stats: {
-        downloads:  126
+        downloads:  340
         updated_at: 1783984830000
     }
 }

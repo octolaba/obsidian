@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/collapsible-code-blocks
 alt:
   - https://github.com/bwya77/collapsible-code-blocks
-downloads: 7479
-updated at: "2026-01-17T14:26:39Z"
+downloads: 7992
+updated at: "2026-08-04T18:51:06Z"
 related to:
   - "[[GitHub - 923776407]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Make code blocks collapsible in preview to hide long snippets and show a toggle for expand/collapse. Customize default collapse state, visible lines, icons, and horizontal scrolling, control per-note state via frontmatter, and enjoy smooth animated transitions with preserved layout."
 
     stats: {
-        downloads:  7479
-        updated_at: 1768659999000
+        downloads:  7992
+        updated_at: 1785869466000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-llm-extender
 alt:
   - https://github.com/phasip/obsidian-canvas-llm-extender
-downloads: 4076
+downloads: 4104
 updated at: "2026-01-17T14:30:48Z"
 related to:
   - "[[GitHub - 704359127]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add AI-generated text nodes to your Canvas from a selected text node, automatically creating an outgoing edge to the new node using nearby edge-wise text as context. Require your own OpenAI API key; currently works with text nodes only."
 
     stats: {
-        downloads:  4076
+        downloads:  4104
         updated_at: 1768660248000
     }
 }

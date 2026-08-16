@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hover-reveal
 alt:
   - https://github.com/asrieal/HoverReveal
-downloads: 3831
+downloads: 3973
 updated at: "2026-03-20T17:10:38Z"
 related to:
   - "[[GitHub - 884859874]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reveal hidden text in tooltips using [visibleText]{tooltipText} syntax, showing underlined, bold visible text that displays the tooltip on hover. Insert and navigate hover syntax with commands, adapt to themes, support live preview, and customize tooltip colors and styles."
 
     stats: {
-        downloads:  3831
+        downloads:  3973
         updated_at: 1774026638000
     }
 }

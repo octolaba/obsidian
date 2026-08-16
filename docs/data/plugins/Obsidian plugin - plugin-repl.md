@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/plugin-repl
 alt:
   - https://github.com/talwrii/plugin-repl
-downloads: 594
+downloads: 608
 updated at: "2025-02-20T21:30:47Z"
 related to:
   - "[[GitHub - 893256941]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Execute JavaScript inside notes using an Emacs-style REPL to evaluate lines or selections with a single key press. Interact with Obsidian's plugin API to move the cursor, insert text, open files, and define commands in JavaScript. Iterate and test scripts instantly with built-in convenience helpers."
 
     stats: {
-        downloads:  594
+        downloads:  608
         updated_at: 1740087047000
     }
 }

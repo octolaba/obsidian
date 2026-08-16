@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/remove-newlines
 alt:
   - https://github.com/handcartcactus/obsidian-remove-newlines
-downloads: 8935
+downloads: 9221
 updated at: "2026-01-01T18:49:54Z"
 related to:
   - "[[GitHub - 818900068]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Remove hard line breaks and blank lines from selections or when pasting text. Strip hyphenated word breaks, collapse excessive whitespace, and turn PDF- or web-copied text into clean paragraphs."
 
     stats: {
-        downloads:  8935
+        downloads:  9221
         updated_at: 1767293394000
     }
 }

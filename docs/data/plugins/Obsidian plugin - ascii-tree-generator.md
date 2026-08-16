@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ascii-tree-generator
 alt:
   - https://github.com/michalekmatej/obsidian.md-ascii-tree-generator
-downloads: 3245
+downloads: 3373
 updated at: "2026-04-28T19:29:50Z"
 related to:
   - "[[GitHub - 931572379]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform indented Markdown lists or =-based outlines into clean ASCII tree diagrams directly in your notes. Render professional box-drawing trees with unlimited nesting, automatic hierarchy detection, and support for both edit and preview modes."
 
     stats: {
-        downloads:  3245
+        downloads:  3373
         updated_at: 1777404590000
     }
 }

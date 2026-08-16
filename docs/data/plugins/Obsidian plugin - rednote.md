@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rednote
 alt:
   - https://github.com/ch-yyk/obsidian-rednote
-downloads: 92
+downloads: 177
 updated at: "2026-07-12T03:07:56Z"
 related to:
   - "[[GitHub - 1297870113]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert RedNote (Xiaohongshu小红书) notes into templated Markdown notes with parsed title, tags, content, and categories. Handle xiaohongshu/rednote/xhslink domains."
 
     stats: {
-        downloads:  92
+        downloads:  177
         updated_at: 1783825676000
     }
 }

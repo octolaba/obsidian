@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/study-flow-planner
 alt:
   - https://github.com/resina37451-cell/study-flow-planner
-downloads: 2509
+downloads: 2797
 updated at: "2026-03-28T05:16:53Z"
 related to:
   - "[[GitHub - 1194249877]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Plan your week inside your Obsidian vault with a scrollable timeline calendar from 5:00–23:00 and multiple zoom levels. Create color-coded events, link them to notes with autocomplete, auto-detect events from daily notes, toggle Study Mode to highlight academic items, and mark tasks done with a live now line."
 
     stats: {
-        downloads:  2509
+        downloads:  2797
         updated_at: 1774675013000
     }
 }

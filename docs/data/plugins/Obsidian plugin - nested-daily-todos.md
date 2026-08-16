@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nested-daily-todos
 alt:
   - https://github.com/thomasbrezinski/obsidian-nested-daily-todos
-downloads: 4204
+downloads: 4232
 updated at: "2024-07-30T15:37:08Z"
 related to:
   - "[[GitHub - 593168051]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Parse previous Daily Notes for incomplete todos and insert them into today's Daily Note, preserving nested todos and their children intact. Group carried todos by headers, recognize alternative checkbox styles, search previous days for outstanding items, and prefer more recently updated versions when conflicts arise."
 
     stats: {
-        downloads:  4204
+        downloads:  4232
         updated_at: 1722353828000
     }
 }

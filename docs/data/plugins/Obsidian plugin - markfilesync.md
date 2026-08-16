@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markfilesync
 alt:
   - https://github.com/rouvenjahnke/markwhen-file-sync
-downloads: 1572
+downloads: 1594
 updated at: "2025-09-20T11:31:14Z"
 related to:
   - "[[GitHub - 910929234]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Synchronize note properties with Markwhen .mw timeline files, offering bidirectional sync, auto-sync, and status-tag support. Group, sort, and filter events by note properties and preserve existing timeline headers while handling month- or year-only dates."
 
     stats: {
-        downloads:  1572
+        downloads:  1594
         updated_at: 1758367874000
     }
 }

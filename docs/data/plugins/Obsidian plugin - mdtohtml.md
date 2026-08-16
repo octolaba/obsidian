@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mdtohtml
 alt:
   - https://github.com/maal0lan/md2html
-downloads: 17
+downloads: 32
 updated at: "2026-07-11T10:02:31Z"
 related to:
   - "[[GitHub - 1297199434]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert the open Markdown note to HTML via a Python renderer and save the output to the note's folder or a configured export folder. Apply a chosen light/dark/blue theme to the HTML and show clear success or error notices."
 
     stats: {
-        downloads:  17
+        downloads:  32
         updated_at: 1783764151000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-footnotes
 alt:
   - https://github.com/michabrugger/obsidian-footnotes
-downloads: 137512
+downloads: 138648
 updated at: "2023-08-25T04:20:09Z"
 related to:
   - "[[GitHub - 443123230]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert auto-numbered or named footnote markers with auto-incremented indexes and append corresponding footnote details at the end of the document via a hotkey. Place the cursor in the new footnote detail for immediate editing and jump quickly between markers and their details."
 
     stats: {
-        downloads:  137512
+        downloads:  138648
         updated_at: 1692937209000
     }
 }

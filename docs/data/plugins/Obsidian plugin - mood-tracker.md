@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mood-tracker
 alt:
   - https://github.com/dartungar/obsidian-mood-tracker
-downloads: 24467
+downloads: 25482
 updated at: "2026-05-21T13:04:19Z"
 related to:
   - "[[GitHub - 627856602]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track moods and emotions with customizable labels, ratings, detailed emotion lists, and notes stored as plain JSON in your vault. Add or edit entries (including past dates), attach entries to journal notes via dynamic paths, and view interactive history graphs and embeddable stats with a mood-tracker-stats code block."
 
     stats: {
-        downloads:  24467
+        downloads:  25482
         updated_at: 1779368659000
     }
 }

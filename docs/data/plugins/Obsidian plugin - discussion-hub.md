@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/discussion-hub
 alt:
   - https://github.com/takeshy/obsidian-discussion-hub
-downloads:
-updated at:
+downloads: 47
+updated at: "2026-07-25T02:49:56Z"
 related to:
   - "[[GitHub - 1310884009]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/takeshy/obsidian-discussion-hub"
     description: "Shared multi-model AI discussions for Obsidian AI plugins. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Host turn-based, multi-participant AI discussions inside Obsidian with a shared orchestration UI. Mix models from connected AI plugins and humans, assign roles and voters, attach reference files, run parallel turns with final conclusions and voting, and save the complete transcript as a Markdown note."
+
+    stats: {
+        downloads:  47
+        updated_at: 1784947796000
+    }
 }
 ```
 

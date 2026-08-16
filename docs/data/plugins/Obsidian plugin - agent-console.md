@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/agent-console
 alt:
   - https://github.com/donivatamazondotcom/obsidian-agent-console
-downloads: 1040
-updated at: "2026-07-13T03:07:04Z"
+downloads: 1392
+updated at: "2026-08-01T04:02:20Z"
 related to:
   - "[[GitHub - 1225829462]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Finally put your second brain to work. Agent Console connects your vault to the best AI models – Claude Code, Codex, Gemini CLI, Kiro CLI, or any custom ACP-compatible agent. Point them at the notes that matter and they follow the links between your notes to see the full picture, then build right alongside you: docs, slides, projects, even code. Everything you work out gets saved back to your notes, so each new project starts further ahead than the last. Run several agents at once in a tabbed sidebar – each tab keeps its own session and a status icon showing whether it's busy, waiting, or done. You see every command an agent runs and approve anything that touches your system. Pinned notes are referenced, not re-pasted, so long chats stay token-efficient. Agent Console was built start to finish this way – it's its own proof."
 
     stats: {
-        downloads:  1040
-        updated_at: 1783912024000
+        downloads:  1392
+        updated_at: 1785556940000
     }
 }
 ```

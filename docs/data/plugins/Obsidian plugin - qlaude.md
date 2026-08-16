@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/qlaude
 alt:
   - https://github.com/ziadkadry99/Qlaude
-downloads: 123
+downloads: 133
 updated at: "2026-03-02T08:14:47Z"
 related to:
   - "[[GitHub - 1169109480]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a modal and run Claude Code commands in your vault to read, edit, and create notes with live-streamed Markdown rendering. Use quick-action one-shot prompts or chat mode with resumable multi-turn history, choose any Claude model, and stream edits in real time. Recognize [[wikilinks]], YAML frontmatter, and Obsidian conventions."
 
     stats: {
-        downloads:  123
+        downloads:  133
         updated_at: 1772439287000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/mermaid-integrator
 alt:
   - https://github.com/fangface-hub/obsidian_mermaid_integrator
-downloads:
-updated at:
+downloads: 38
+updated at: "2026-07-25T14:13:30Z"
 related to:
   - "[[GitHub - 1311898376]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/fangface-hub/obsidian_mermaid_integrator"
     description: "Obsidian plugin to assist editing Mermaid code blocks - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Edit Mermaid diagrams quickly in Obsidian. Wrap selections with mermaid code blocks, insert a flowchart template, set default flow direction (TD or LR), and parse %% @meta comments to apply alignment, width, margin, background, zoom, interactive and theme attributes to rendered diagrams."
+
+    stats: {
+        downloads:  38
+        updated_at: 1784988810000
+    }
 }
 ```
 

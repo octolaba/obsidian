@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/http-link-maker
 alt:
   - https://github.com/kennethac/obsidian-http-links-plugin
-downloads: 598
+downloads: 635
 updated at: "2025-08-29T12:20:35Z"
 related to:
   - "[[GitHub - 1017202470]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create clickable HTTPS links from Obsidian obsidian:// URLs so notes open reliably across devices and apps. Keep file contents private: links only convey the title and require access to your vault to open, with optional self-hosted redirect."
 
     stats: {
-        downloads:  598
+        downloads:  635
         updated_at: 1756470035000
     }
 }

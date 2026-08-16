@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-lock
 alt:
   - https://github.com/pyh1107/obsidian-note-lock
-downloads: 386
+downloads: 500
 updated at: "2026-02-12T08:38:23Z"
 related to:
   - "[[GitHub - 1152892239]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Lock individual Markdown notes with a password to require verification before opening protected files. Store passwords as SHA-256 hashes, auto-lock notes after configurable idle time or on tab close, and track access per session across desktop and mobile. Keep note contents unencrypted on disk — protection applies only within Obsidian's UI."
 
     stats: {
-        downloads:  386
+        downloads:  500
         updated_at: 1770885503000
     }
 }

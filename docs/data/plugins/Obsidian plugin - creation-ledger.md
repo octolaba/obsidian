@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/creation-ledger
 alt:
   - https://github.com/torusheadstudios/creation-ledger
-downloads: 153
+downloads: 161
 updated at: "2026-01-02T19:10:27Z"
 related to:
   - "[[GitHub - 1126763060]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture what you're working on and track progress with lightweight activity notes saved as plain Markdown in a CreationLedger folder. Create quick entries with title, status, project and tags, and view work via optional dashboards and a Kanban board when paired with Dataview."
 
     stats: {
-        downloads:  153
+        downloads:  161
         updated_at: 1767381027000
     }
 }

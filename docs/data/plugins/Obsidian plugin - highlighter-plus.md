@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/highlighter-plus
 alt:
   - https://github.com/creesee/obsidian-highligter-plus
-downloads: 538
+downloads: 692
 updated at: "2026-05-17T06:26:28Z"
 related to:
   - "[[GitHub - 1239814370]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create unlimited custom highlighters with distinct colors, underline styles, and separate Light and Dark appearances. Apply highlights with an extended ==id=Your text== syntax or cycle context-aware highlighters with a smart hotkey that targets only relevant lines, while keeping the native highlighter and PDF export compatibility."
 
     stats: {
-        downloads:  538
+        downloads:  692
         updated_at: 1778999188000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/missing-link-file-creator
 alt:
   - https://github.com/lemon695/obsidian-missing-link-file-creator
-downloads: 1892
+downloads: 1952
 updated at: "2026-06-10T06:27:20Z"
 related to:
   - "[[GitHub - 889732368]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create missing Markdown files referenced by links in your notes with one click. Detect standard, aliased, path-specific, embedded, and resource-directory links, preserve aliases in frontmatter, perform bulk or folder scans, and apply templates and filename rules to place and populate new files."
 
     stats: {
-        downloads:  1892
+        downloads:  1952
         updated_at: 1781072840000
     }
 }

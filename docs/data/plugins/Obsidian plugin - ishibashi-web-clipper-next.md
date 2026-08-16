@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ishibashi-web-clipper-next
 alt:
   - https://github.com/ishibashi-c/ishibashi-web-clipper-v2
-downloads: 269
+downloads: 936
 updated at: "2026-07-21T20:13:10Z"
 related to:
   - "[[GitHub - 1302934084]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save web links as local Markdown notes without requesting or scraping the source page to keep captures private. Capture via mobile share, clipboard, bookmarklet, or obsidian://; prevent duplicate URLs, add domain- and folder-derived tags, collect clips in an inbox, review/search history, and record capture provenance."
 
     stats: {
-        downloads:  269
+        downloads:  936
         updated_at: 1784664790000
     }
 }

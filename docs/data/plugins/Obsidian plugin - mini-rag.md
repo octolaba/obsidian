@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mini-rag
 alt:
   - https://github.com/jjwheatley/mini-rag
-downloads: 1775
+downloads: 1875
 updated at: "2026-07-14T04:10:56Z"
 related to:
   - "[[GitHub - 995239285]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with a locally running Ollama LLM using the content of selected Obsidian notes and folders as context. Open chats from note or folder menus, pick any installed Ollama model for responses, and save conversations back into your vault. Run on desktop with a local Ollama instance."
 
     stats: {
-        downloads:  1775
+        downloads:  1875
         updated_at: 1784002256000
     }
 }

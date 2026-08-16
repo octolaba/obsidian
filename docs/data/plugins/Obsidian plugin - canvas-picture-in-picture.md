@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-picture-in-picture
 alt:
   - https://github.com/h-sphere/obsidian-canvas-picture-in-picture
-downloads: 1736
+downloads: 1764
 updated at: "2024-08-02T20:22:25Z"
 related to:
   - "[[GitHub - 806273657]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Float a selected Canvas node above the workspace to keep it visible while editing other notes. Resize and reposition the picture-in-picture window to maintain context and edit without switching views."
 
     stats: {
-        downloads:  1736
+        downloads:  1764
         updated_at: 1722630145000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/live-cursor
 alt:
   - https://github.com/live-cursor/Live-Cursor
-downloads: 347
+downloads: 401
 updated at: "2026-05-26T23:10:17Z"
 related to:
   - "[[GitHub - 1243982018]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Enable real-time collaborative editing and view live cursors and text selections from other editors directly inside your notes. Sync your .obsidian configuration, run a built-in background server for local vault synchronization, and monitor server health with secure admin diagnostics."
 
     stats: {
-        downloads:  347
+        downloads:  401
         updated_at: 1779837017000
     }
 }

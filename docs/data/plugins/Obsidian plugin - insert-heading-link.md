@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/insert-heading-link
 alt:
   - https://github.com/signynt/insert-heading-link
-downloads: 5260
+downloads: 5288
 updated at: "2026-05-21T12:54:07Z"
 related to:
   - "[[GitHub - 456458383]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert a link to a heading with a single hotkey (Cmd + Shift + L). Generate wiki-style heading links like [[##]] at the cursor for quick navigation to specific sections."
 
     stats: {
-        downloads:  5260
+        downloads:  5288
         updated_at: 1779368047000
     }
 }

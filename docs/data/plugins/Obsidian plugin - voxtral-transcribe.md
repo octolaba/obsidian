@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/voxtral-transcribe
 alt:
   - https://github.com/maxonamission/obsidian-voxtral
-downloads: 1408
-updated at: "2026-07-22T00:21:56Z"
+downloads: 1631
+updated at: "2026-08-07T22:10:34Z"
 related to:
   - "[[GitHub - 1176293714]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # Voxtral Transcribe
 
-Voxtral Transcribe dictates into notes using Mistral's Voxtral with an optional correction pass, so talking and typing mix in one flow. Voice commands add Markdown structure such as headings, lists, to-dos and tables, localized in 13 languages while transcription covers more. It works in real time on desktop and through tap-to-send on mobile, and it also transcribes existing recordings such as meetings, lectures and voice memos with optional speaker labels. A Mistral API key is supplied by the user, and experimental local transcription requires a desktop GPU.
+Dictates into notes in real time on desktop and mobile, with spoken commands that apply Markdown structure such as headings, lists, to-dos and tables; those commands are localized in 13 languages while transcription covers more. Transcription runs on Mistral's Voxtral with an optional correction pass and a user-supplied API key, and an earlier tap-to-send mode remains as a fallback. Recordings such as meetings, lectures and voice memos can also be transcribed, optionally with speaker labels. Local transcription is experimental, requires a GPU and works only on desktop.
 
 ```cue
 plugin: {
@@ -33,12 +33,12 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/voxtral-transcribe"
     github_url:  "https://github.com/maxonamission/obsidian-voxtral"
-    description: "Talk, type and structure in one flow: high-quality dictation with auto-correction, on desktop and mobile. Voice commands for headings, lists and to-dos in 13 languages. File transcription included. - This plugin has not been manually reviewed by Obsidian staff."
-    about:       "Dictate notes that are done when you stop talking. You can talk and type in one uninterrupted flow. Add markdown structure using voice commands as you go: headings, lists, to-dos, tables and more. Commands have been localized in 13 languages. Transcription supports more languages. Be sure to let me know if you need commands in another language supported. Deliberately powered by Mistral's Voxtral for top transcription quality, with an optional correction pass. My goal is to make sure that what lands in your note needs no clean-up. Works realtime on desktop and in the same uninterrupted flow on mobile via tap-to-send. Also transcribes existing recordings: meetings, lectures, voice memos with optional speaker labels. Bring your own Mistral API key. Experimental features include local transcription but this will require a GPU to ensure a similarly high quality result and will only work on desktop. I will keep looking for high quality local options on desktop and mobile."
+    description: "Talk, type and structure in one flow: high-quality live dictation, works on desktop and mobile. Voice commands for headings, lists, to-dos and more in 13 languages. File transcription included. - This plugin has not been manually reviewed by Obsidian staff."
+    about:       "Dictate notes that are - actually- done when you stop talking. Talk, type and structure in one uninterrupted flow. Add markdown layout using voice commands as you go: headings, lists, to-dos, tables and more. Commands have been localized in 13 languages. Transcription supports more languages. Be sure to let me know if you need commands in another language supported. Deliberately powered by Mistral's Voxtral for top transcription quality with an optional correction pass. My goal is to make sure that what lands in your note needs no clean-up. Works realtime on desktop AND now also on mobile! With the earlier tap-to-send as a backup. Also transcribes recordings: meetings, lectures, voice memos with optional speaker labels. Bring your own Mistral API key. Experimental features include local transcription but this will require a GPU to ensure a similarly high quality result and will only work on desktop. I will keep looking for high quality local options on desktop and mobile."
 
     stats: {
-        downloads:  1408
-        updated_at: 1784679716000
+        downloads:  1631
+        updated_at: 1786140634000
     }
 }
 ```

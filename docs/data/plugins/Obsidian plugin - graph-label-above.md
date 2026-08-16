@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graph-label-above
 alt:
   - https://github.com/agilesmagile/obsidian-graph-label-above
-downloads: 173
+downloads: 198
 updated at: "2026-05-13T13:05:06Z"
 related to:
   - "[[GitHub - 1212994860]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move graph labels above nodes in both the built-in 2D graph and the 3D Graph plugin to prevent enlarged cursors from hiding them. Adjust label distance with a slider, reposition the 3D hover tooltip above the cursor, and optionally override 2D label color."
 
     stats: {
-        downloads:  173
+        downloads:  198
         updated_at: 1778677506000
     }
 }

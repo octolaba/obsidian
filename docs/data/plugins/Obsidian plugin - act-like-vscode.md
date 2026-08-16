@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/act-like-vscode
 alt:
   - https://github.com/forever-utf8/obsidian-act-like-vscode
-downloads: 188
+downloads: 234
 updated at: "2026-06-19T15:54:26Z"
 related to:
   - "[[GitHub - 1216830134]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Make Obsidian behave like VS Code with tabs that preview on single-click and pin on double-click. Color the file explorer by archive status—unarchived notes green, archived notes gray—show tag badges beside filenames, and present minimalist file/folder icons for a cleaner navigator."
 
     stats: {
-        downloads:  188
+        downloads:  234
         updated_at: 1781884466000
     }
 }

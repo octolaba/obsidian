@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/beauty-diagram
 alt:
   - https://github.com/beauty-diagram/obsidian-beauty-diagram
-downloads: 1029
-updated at: "2026-06-15T18:41:19Z"
+downloads: 1975
+updated at: "2026-08-04T09:03:40Z"
 related to:
   - "[[GitHub - 1244951835]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Replace built-in mermaid rendering with slide-ready themed diagrams. Nine polished themes (Classic, Modern, Slate, Atlas, Obsidian, Brutalist, Atelier, Blueprint, Memphis), dark-mode-friendly contrast, per-block theme override via `%% bd:theme=` directive, and PlantUML support without local Java or Graphviz. Renders through the Beauty Diagram service (https://www.beauty-diagram.com). Free use is anonymous and watermarked; Pro/Premium users can opt in per-page (`bd-share: true` in front-matter) for watermark-free preview. The Inject embed URLs command produces portable `<img>` references that render anywhere markdown is read — GitHub, Notion, blog static sites."
 
     stats: {
-        downloads:  1029
-        updated_at: 1781548879000
+        downloads:  1975
+        updated_at: 1785834220000
     }
 }
 ```

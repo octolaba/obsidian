@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/moc-link-helper
 alt:
   - https://github.com/bogdancodreanu/obsidian-moc-link-helper
-downloads: 1107
+downloads: 1118
 updated at: "2024-12-16T14:19:41Z"
 related to:
   - "[[GitHub - 803859322]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage and sync links between a Map of Content (MOC) and its child notes. Open a dedicated view to add or remove 'up' frontmatter links in bulk, find notes that reference the MOC but aren’t included, and insert or filter included notes for splitting or syncing MOCs."
 
     stats: {
-        downloads:  1107
+        downloads:  1118
         updated_at: 1734358781000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-explorer-plus
 alt:
   - https://github.com/kelszo/obsidian-file-explorer-plus
-downloads: 86577
+downloads: 89330
 updated at: "2025-04-20T18:01:51Z"
 related to:
   - "[[GitHub - 674242594]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide or pin files and folders in the file explorer using wildcard or regex filters for names, paths, and tags. Toggle filters globally or per-filter, hide or pin items instantly from the file menu, inspect which paths are affected, and support mobile devices."
 
     stats: {
-        downloads:  86577
+        downloads:  89330
         updated_at: 1745172111000
     }
 }

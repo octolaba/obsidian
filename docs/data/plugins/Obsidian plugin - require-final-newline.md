@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/require-final-newline
 alt:
   - https://github.com/nnoodle/obsidian-require-final-newline
-downloads: 169
+downloads: 173
 updated at: "2026-01-08T09:26:42Z"
 related to:
   - "[[GitHub - 1130218984]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Ensure files end with a newline. Automatically append a final newline on save to prevent missing end-of-file newline issues and editor warnings."
 
     stats: {
-        downloads:  169
+        downloads:  173
         updated_at: 1767864402000
     }
 }

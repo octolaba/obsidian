@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian42-text-transporter
 alt:
   - https://github.com/tfthacker/obsidian42-text-transporter
-downloads: 37075
+downloads: 37290
 updated at: "2024-11-06T06:57:30Z"
 related to:
   - "[[GitHub - 400474201]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit and modify contents of files across your vault, even when files aren't open. Select lines and blocks, create block references, and run keyboard-driven text operations for fast, precise manipulation."
 
     stats: {
-        downloads:  37075
+        downloads:  37290
         updated_at: 1730876250000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/slash-blocks
 alt:
   - https://github.com/stefan-imbesi/obsidian-slash-blocks
-downloads: 157
+downloads: 167
 updated at: "2026-05-17T00:07:37Z"
 related to:
   - "[[GitHub - 1217468644]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Type / at the start of a line to open a quick-access block menu and insert common Markdown blocks instantly. Choose tasks, headings, lists, quotes, dividers, images or attachments and get the correct Markdown inserted with the cursor ready for editing."
 
     stats: {
-        downloads:  157
+        downloads:  167
         updated_at: 1778976457000
     }
 }

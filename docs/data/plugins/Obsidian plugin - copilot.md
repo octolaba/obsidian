@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/copilot
 alt:
   - https://github.com/logancyang/obsidian-copilot
-downloads: 1586293
-updated at: "2026-05-21T01:28:10Z"
+downloads: 1672618
+updated at: "2026-08-11T19:46:55Z"
 related to:
   - "[[GitHub - 621575252]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Use an in‑vault AI assistant in Obsidian for chat-based vault search, web and YouTube parsing, and to run OpenAI-compatible or local models while keeping your data local. Drop webpages, videos, images, PDFs, and EPUBs for contextual analysis, compose and apply edits, and create AI-ready project contexts or agent workflows."
 
     stats: {
-        downloads:  1586293
-        updated_at: 1779326890000
+        downloads:  1672618
+        updated_at: 1786477615000
     }
 }
 ```

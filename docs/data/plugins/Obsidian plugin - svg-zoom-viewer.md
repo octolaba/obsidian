@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/svg-zoom-viewer
 alt:
   - https://github.com/enakzzz/svg-zoom-viewer
-downloads: 175
+downloads: 203
 updated at: "2026-04-07T15:52:20Z"
 related to:
   - "[[GitHub - 1203998007]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open SVG and common image embeds (svg, png, jpg, jpeg, webp, gif) in a dedicated zoomable leaf by double-clicking them in reading view. Zoom with the mouse wheel, drag to pan, and double-click inside the viewer to reset the transform; SVGs render in an iframe to preserve vector quality."
 
     stats: {
-        downloads:  175
+        downloads:  203
         updated_at: 1775577140000
     }
 }

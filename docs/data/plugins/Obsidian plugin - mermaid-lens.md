@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mermaid-lens
 alt:
   - https://github.com/aitsuki/obsidian-mermaid-lens
-downloads: 3
+downloads: 119
 updated at: "2026-07-23T10:23:51Z"
 related to:
   - "[[GitHub - 1308722425]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Unify Mermaid styling across your vault by applying a single global theme, colors, fonts and layout to all diagrams. Open diagrams in a separate viewer that escapes note width, supports pan, cursor-centered zoom, touch gestures and preserves clickable links. Validate and save only JSON configs accepted by Mermaid to keep settings safe."
 
     stats: {
-        downloads:  3
+        downloads:  119
         updated_at: 1784802231000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pinned-daily-notes
 alt:
   - https://github.com/docmarionum1/obsidian-pinned-daily-notes
-downloads: 1344
+downloads: 1397
 updated at: "2025-06-11T00:51:39Z"
 related to:
   - "[[GitHub - 946308234]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open today's daily note in a pinned tab via the ribbon icon or command. Create a pinned tab if none exists, or update and focus the existing pinned daily note to show today's note. Support any daily-note folder/format and respect your Daily Notes settings."
 
     stats: {
-        downloads:  1344
+        downloads:  1397
         updated_at: 1749603099000
     }
 }

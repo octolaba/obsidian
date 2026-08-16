@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/keyword-notes-editor
 alt:
   - https://github.com/fengshuzi/keyword-notes-editor
-downloads: 222
-updated at: "2026-07-06T08:09:37Z"
+downloads: 290
+updated at: "2026-07-30T07:23:10Z"
 related to:
   - "[[GitHub - 1253132521]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Organize the sidebar by keyword tags and folder paths and view and edit all matching notes in a single scrollable editor. Expand multi-level sub-tag trees, aggregate multiple tags or folders, apply time filters, collapse or expand all, and batch-browse notes with infinite scroll for smooth performance."
 
     stats: {
-        downloads:  222
-        updated_at: 1783325377000
+        downloads:  290
+        updated_at: 1785396190000
     }
 }
 ```

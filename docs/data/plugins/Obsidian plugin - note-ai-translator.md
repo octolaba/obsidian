@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/note-ai-translator
 alt:
   - https://github.com/l10n-dev/obsidian-plugin-ai-translator
-downloads: 311
-updated at: "2026-07-14T12:05:42Z"
+downloads: 347
+updated at: "2026-08-11T19:04:23Z"
 related to:
   - "[[GitHub - 1222545287]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # L10n.dev - AI Translator
 
-L10n.dev - AI Translator translates notes through the l10n.dev API into more than 165 languages while preserving Markdown formatting and document structure. A translation can go into a new note, replace the current one, or be appended; YAML frontmatter can be skipped, languages searched as you type, and characters used and remaining are shown. It also generates and saves AI glossaries so terminology stays consistent, and it handles json, yaml and other plain-text formats.
+Translates a whole note or a selection into any of more than 165 languages through the l10n.dev translation API, keeping Markdown formatting and document structure intact. Output can be written to a new note, replace the current note or be appended, and YAML frontmatter can optionally be skipped. Language search is dynamic, characters used and remaining are shown, and generated glossaries can be saved to keep terminology consistent across translations; json, yaml and other plain-text formats are also handled.
 
 ```cue
 plugin: {
@@ -33,12 +33,12 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/note-ai-translator"
     github_url:  "https://github.com/l10n-dev/obsidian-plugin-ai-translator"
-    description: "Translate notes into any of 165 languages with AI. Preserves Markdown formatting and structure. Powered by L10n.dev's AI translation API. Supports json, yaml, other plain-text formats. - This plugin has not been manually reviewed by Obsidian staff."
-    about:       "Translate Obsidian notes with l10n.dev AI for context-aware translations into 165+ languages while preserving Markdown formatting and document structure. Create a new note, replace the current note, or append translations; optionally skip YAML frontmatter, search languages dynamically, and view characters used and remaining. Generates and save AI glossaries for consistent terminology across translations. Supports json, yaml, other plain-text formats."
+    description: "Translate notes, selected text, into any of 165 languages with AI. Preserves Markdown formatting and structure. Powered by L10n.dev's AI translation API. Supports json, yaml, other plain-text formats. - This plugin has not been manually reviewed by Obsidian staff."
+    about:       "Translate Obsidian notes, or selected text, with l10n.dev AI for context-aware translations into 165+ languages while preserving Markdown formatting and document structure. Create a new note, replace the current note, or append translations; optionally skip YAML frontmatter, search languages dynamically, and view characters used and remaining. Generates and save AI glossaries for consistent terminology across translations. Supports json, yaml, other plain-text formats."
 
     stats: {
-        downloads:  311
-        updated_at: 1784030742000
+        downloads:  347
+        updated_at: 1786475063000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folderize
 alt:
   - https://github.com/jheddings/obsidian-folderize
-downloads: 586
+downloads: 641
 updated at: "2026-05-13T20:57:51Z"
 related to:
   - "[[GitHub - 1021789519]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize attachments into a predictable folder hierarchy derived from each file's SHA-256 checksum. Place identical files in the same path, spread files across nested folders to avoid oversized directories, and run manual or automatic organization with optional empty-folder cleanup."
 
     stats: {
-        downloads:  586
+        downloads:  641
         updated_at: 1778705871000
     }
 }

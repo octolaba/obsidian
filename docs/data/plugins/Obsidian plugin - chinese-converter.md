@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chinese-converter
 alt:
   - https://github.com/lanternyoru/obsidian-chinese-converter
-downloads: 415
+downloads: 477
 updated at: "2025-09-11T16:10:28Z"
 related to:
   - "[[GitHub - 1054986685]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert selected content or the entire document to Simplified Chinese or Traditional Chinese. Use the buttons in the left toolbar or command panel to convert with a single click; the buttons automatically switch between \"Traditional/Simplified\" to indicate the conversion direction."
 
     stats: {
-        downloads:  415
+        downloads:  477
         updated_at: 1757607028000
     }
 }

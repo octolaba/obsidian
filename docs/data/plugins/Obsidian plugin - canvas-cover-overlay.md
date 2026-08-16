@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-cover-overlay
 alt:
   - https://github.com/llaori1/canvas-cover-overlay
-downloads: 701
+downloads: 952
 updated at: "2026-05-16T13:39:15Z"
 related to:
   - "[[GitHub - 1222385884]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add per-canvas embedded thumbnails and canvas view backgrounds by reading cover fields from the target .canvas frontmatter. Preserve native rendering by applying a non-interactive overlay layer and support configurable frontmatter keys and overlay opacity; requires Advanced Canvas (desktop only)."
 
     stats: {
-        downloads:  701
+        downloads:  952
         updated_at: 1778938755000
     }
 }

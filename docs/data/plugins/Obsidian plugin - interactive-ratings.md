@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/interactive-ratings
 alt:
   - https://github.com/peritus/obsidian-interactive-ratings
-downloads: 3381
+downloads: 3470
 updated at: "2025-09-10T05:29:40Z"
 related to:
   - "[[GitHub - 950107572]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add interactive rating symbols to notes and update them with a click; symbols change instantly and update any optional numeric rating. Pick from many built-in symbol sets or custom emojis and display scores as fractions or percentages that stay synced automatically."
 
     stats: {
-        downloads:  3381
+        downloads:  3470
         updated_at: 1757482180000
     }
 }

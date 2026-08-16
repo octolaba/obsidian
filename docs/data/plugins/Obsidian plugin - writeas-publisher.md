@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/writeas-publisher
 alt:
   - https://github.com/encima/obsidian-writeas-plugin
-downloads: 3342
+downloads: 3413
 updated at: "2023-09-03T16:36:41Z"
 related to:
   - "[[GitHub - 374306437]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish Obsidian notes to Write.as or a self-hosted WriteFreely instance directly from your vault. Add the post ID and URL to note frontmatter and update the same post on subsequent publishes."
 
     stats: {
-        downloads:  3342
+        downloads:  3413
         updated_at: 1693759001000
     }
 }

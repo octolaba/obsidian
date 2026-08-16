@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-hoist
 alt:
   - https://github.com/jcmexdev/obsidian-image-hoist
-downloads: 136
+downloads: 145
 updated at: "2026-05-17T09:03:23Z"
 related to:
   - "[[GitHub - 1224691331]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move local images to ImgBB and replace them with shareable cloud links so notes stay lightweight and images display anywhere. Auto-upload pasted images, reuse existing uploads to avoid duplicates, and hoist all images in a note with a single action."
 
     stats: {
-        downloads:  136
+        downloads:  145
         updated_at: 1779008603000
     }
 }

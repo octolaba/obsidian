@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quadro
 alt:
   - https://github.com/chrisgrieser/obsidian-quadro
-downloads: 6413
+downloads: 6478
 updated at: "2026-07-02T12:54:51Z"
 related to:
   - "[[GitHub - 727197421]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Perform qualitative data analysis in Obsidian using Markdown files to store data and codes, keeping research files readable and future-proof. Code data following Grounded Theory, extract and aggregate findings with Qualitative Content Analysis workflows, and track progress and theoretical saturation."
 
     stats: {
-        downloads:  6413
+        downloads:  6478
         updated_at: 1782996891000
     }
 }

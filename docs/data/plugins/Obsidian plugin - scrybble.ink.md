@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/scrybble.ink
 alt:
   - https://github.com/scrybbling-together/scrybble
-downloads: 22641
+downloads: 22865
 updated at: "2026-01-25T17:42:32Z"
 related to:
   - "[[GitHub - 523857172]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync handwritten notes, highlights and typed text from your reMarkable tablet into Obsidian as a single, page-organized Markdown file per document with searchable content. Bring ebooks, PDFs and quick notes into your vault and keep reMarkable tags in frontmatter and page headings for easy organization."
 
     stats: {
-        downloads:  22641
+        downloads:  22865
         updated_at: 1769362952000
     }
 }

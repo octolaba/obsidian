@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/latexocr
 alt:
   - https://github.com/jackbarker7/obsidian-latexocr
-downloads: 2617
+downloads: 2637
 updated at: "2024-04-02T15:41:58Z"
 related to:
   - "[[GitHub - 737859838]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert equation images to raw LaTeX code using a locally installed LaTeX-OCR engine. Add a left-ribbon button, a command-palette command, and an optional status-bar indicator to run and monitor LaTeX-OCR."
 
     stats: {
-        downloads:  2617
+        downloads:  2637
         updated_at: 1712072518000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-note-autocreator
 alt:
   - https://github.com/simontc/obsidian-note-autocreation
-downloads: 14239
+downloads: 14336
 updated at: "2025-06-17T18:02:03Z"
 related to:
   - "[[GitHub - 489639540]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create notes automatically when inserting links and auto-generate the target file if it doesn't exist. Use a configurable trigger to summon link suggestions, insert links to headers or blocks, search aliases, suggest folders, and apply templates when new notes are created."
 
     stats: {
-        downloads:  14239
+        downloads:  14336
         updated_at: 1750183323000
     }
 }

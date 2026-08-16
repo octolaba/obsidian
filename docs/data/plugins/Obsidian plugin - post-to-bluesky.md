@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/post-to-bluesky
 alt:
   - https://github.com/rietamura/Post-To-Bluesky
-downloads: 184
-updated at: "2026-03-09T07:13:27Z"
+downloads: 268
+updated at: "2026-08-09T08:36:29Z"
 related to:
   - "[[GitHub - 1042430437]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Post to Bluesky from Obsidian. Attach up to four images, pick emojis with a built-in emoji picker, and add default hashtags to posts."
 
     stats: {
-        downloads:  184
-        updated_at: 1773040407000
+        downloads:  268
+        updated_at: 1786264589000
     }
 }
 ```

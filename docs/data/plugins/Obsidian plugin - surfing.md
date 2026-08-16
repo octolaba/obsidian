@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/surfing
 alt:
   - https://github.com/pkm-er/Obsidian-Surfing
-downloads: 109723
+downloads: 113015
 updated at: "2024-11-09T15:40:58Z"
 related to:
   - "[[GitHub - 555283025]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse web pages inside Obsidian by opening file/http/https links in an integrated web view, including local HTML. Search selected text from the editor or within pages, copy links to highlights or video timestamps (experimental), manage history, open pages in an external browser, and launch URLs via bookmarklets."
 
     stats: {
-        downloads:  109723
+        downloads:  113015
         updated_at: 1731166858000
     }
 }

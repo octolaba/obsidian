@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/prioritize
 alt:
   - https://github.com/tekknoman/obsidian-prio-plugin
-downloads: 5233
+downloads: 5260
 updated at: "2023-03-16T07:23:59Z"
 related to:
   - "[[GitHub - 611130618]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mark notes and tasks with customizable priority levels by selecting text and applying a level. Configure number and names of levels, save presets, and switch between presets to reuse priority schemes. Increase, decrease, or remove priorities with simple commands."
 
     stats: {
-        downloads:  5233
+        downloads:  5260
         updated_at: 1678951439000
     }
 }

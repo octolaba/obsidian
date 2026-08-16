@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mermaid-elk
 alt:
   - https://github.com/keksnet/obsidian-mermaid-elk
-downloads: 1522
+downloads: 1678
 updated at: "2025-11-24T16:17:12Z"
 related to:
   - "[[GitHub - 1103192314]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Restore ELK (Eclipse Layout Kernel) layout support for Mermaid diagrams in Obsidian. Switch to the ELK renderer by prepending your Mermaid diagram with a YAML config header specifying layout: \"elk\"."
 
     stats: {
-        downloads:  1522
+        downloads:  1678
         updated_at: 1764001032000
     }
 }

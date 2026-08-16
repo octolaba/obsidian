@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/kaper
 alt:
   - https://github.com/nikoneex/obsidian-kaper
-downloads: 464
-updated at: "2026-07-04T21:48:53Z"
+downloads: 751
+updated at: "2026-08-07T18:29:46Z"
 related to:
   - "[[GitHub - 1223302031]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render Kaper code blocks as structured, editable recipes in Live Preview while keeping surrounding Markdown as regular notes. Edit title, servings, tags, ingredient groups and steps in an auto-saving form, jump to Cook Mode on kaper.me with one click, and create new recipes from the ribbon."
 
     stats: {
-        downloads:  464
-        updated_at: 1783201733000
+        downloads:  751
+        updated_at: 1786127386000
     }
 }
 ```

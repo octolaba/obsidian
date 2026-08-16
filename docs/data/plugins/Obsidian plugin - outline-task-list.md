@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/outline-task-list
 alt:
   - https://github.com/alexandrerbb/obsidian-outline-tasklist-plugin
-downloads: 859
+downloads: 870
 updated at: "2024-04-27T17:05:52Z"
 related to:
   - "[[GitHub - 789796981]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert a note's outline into a Markdown task list. Insert the task list at the cursor or create a new note with the converted list using the plugin commands."
 
     stats: {
-        downloads:  859
+        downloads:  870
         updated_at: 1714237552000
     }
 }

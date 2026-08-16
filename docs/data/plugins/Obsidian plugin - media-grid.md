@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/media-grid
 alt:
   - https://github.com/subhash3/obsidian-plugin-media-grid
-downloads: 129
+downloads: 159
 updated at: "2026-07-02T13:15:06Z"
 related to:
   - "[[GitHub - 1282231351]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Wrap local images and MP4 videos into a customizable grid using a simple block syntax. Set columns, gap and a container id for CSS targeting; supports jpg/jpeg/png/webp images and mp4 videos and renders an error callout for unsupported extensions. Match row height to the tallest item to preserve media dimensions."
 
     stats: {
-        downloads:  129
+        downloads:  159
         updated_at: 1782998106000
     }
 }

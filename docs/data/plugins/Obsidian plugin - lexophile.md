@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lexophile
 alt:
   - https://github.com/bryanmanio/obsidian-lexophile
-downloads: 301
+downloads: 467
 updated at: "2026-05-13T06:53:04Z"
 related to:
   - "[[GitHub - 1233557229]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Build your vocabulary one word at a time by turning any word into a permanent, searchable dictionary note in your vault. Capture from the web via a companion browser extension, add words manually, or import Kobo \"My Words\" into linked book notes with definition, part of speech, example, and source. Keep your lexicon local and optionally use an offline dictionary for instant, network-free lookups. https://lexophile.org/"
 
     stats: {
-        downloads:  301
+        downloads:  467
         updated_at: 1778655184000
     }
 }

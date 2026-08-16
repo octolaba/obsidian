@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/arroweds-adversary-bank
 alt:
   - https://github.com/arrowedisgaming/arroweds-adversary-bank
-downloads: 446
-updated at: "2026-07-22T19:34:41Z"
+downloads: 571
+updated at: "2026-07-25T00:02:44Z"
 related to:
   - "[[GitHub - 1200778741]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Search, create, and edit Daggerheart adversary and environment stat blocks with editable, rollable renders. Manage encounters with auto-suffixed duplicate names, clickable instance naming, per-instance condition tracking, summon buttons, interactive stress/HP controls, and one-click rolls."
 
     stats: {
-        downloads:  446
-        updated_at: 1784748881000
+        downloads:  571
+        updated_at: 1784937764000
     }
 }
 ```

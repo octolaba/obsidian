@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-illustrator
 alt:
   - https://github.com/threem-mmm/note-illustrator
-downloads: 97
+downloads: 104
 updated at: "2025-11-14T15:34:02Z"
 related to:
   - "[[GitHub - 1094467783]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate AI art from a chosen heading and automatically replace a placeholder image using an OpenAI-compatible API (default DALL‑E 3). Regenerate past images with confirmation, match placeholder dimensions when embedding, and optionally update frontmatter image keys or move replaced files to trash."
 
     stats: {
-        downloads:  97
+        downloads:  104
         updated_at: 1763134442000
     }
 }

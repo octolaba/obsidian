@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/yaml-editor
 alt:
   - https://github.com/idheitmann/obsidian-yaml-editor
-downloads: 185
+downloads: 269
 updated at: "2026-07-03T19:30:49Z"
 related to:
   - "[[GitHub - 1268599781]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit YAML in a focused mode across frontmatter, fenced yaml/yml code blocks, or standalone .yaml/.yml files. Get schema-aware completions learned from your vault or JSON Schemas, a snippet palette, structural indentation and folding, and round-trip preservation of key order, comments, and whitespace."
 
     stats: {
-        downloads:  185
+        downloads:  269
         updated_at: 1783107049000
     }
 }

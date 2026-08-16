@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/hindsight
 alt:
   - https://github.com/vectorize-io/hindsight-obsidian
-downloads: 736
-updated at: "2026-06-10T15:01:08Z"
+downloads: 1181
+updated at: "2026-08-10T19:27:55Z"
 related to:
   - "[[GitHub - 1263974336]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add an AI agent to your vault by syncing notes one-way into a Hindsight memory bank while keeping Obsidian as the single source of truth. Chat in a side panel that answers questions grounded in your notes, cites source notes (click to open), shows retrieved notes and reasoning, and displays live sync status."
 
     stats: {
-        downloads:  736
-        updated_at: 1781103668000
+        downloads:  1181
+        updated_at: 1786390075000
     }
 }
 ```

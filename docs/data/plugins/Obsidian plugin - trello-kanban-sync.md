@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/trello-kanban-sync
 alt:
   - https://github.com/lewisstarkov/obsidian-trello-kanban-sync
-downloads: 19
-updated at: "2026-07-23T04:22:38Z"
+downloads: 79
+updated at: "2026-07-24T12:38:08Z"
 related to:
   - "[[GitHub - 1309487410]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Mirror Trello boards into native Obsidian Kanban boards as file-backed copies. Keep Trello as the default source of truth with one-way sync; enable experimental two-way sync to push card names, lane moves, and creation and archival from Obsidian back to Trello while preserving Trello-only fields."
 
     stats: {
-        downloads:  19
-        updated_at: 1784780558000
+        downloads:  79
+        updated_at: 1784896688000
     }
 }
 ```

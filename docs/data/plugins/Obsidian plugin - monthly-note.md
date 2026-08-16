@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/monthly-note
 alt:
   - https://github.com/benjohnson/obsidian-monthly-notes
-downloads: 72
+downloads: 93
 updated at: "2026-06-29T01:37:38Z"
 related to:
   - "[[GitHub - 1282374517]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open or create the current month's note with a single click or command. Create missing folders and apply templates using {{title}}, {{date}} and {{time}}, with support for custom date/time formats."
 
     stats: {
-        downloads:  72
+        downloads:  93
         updated_at: 1782697058000
     }
 }

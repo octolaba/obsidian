@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rename-file-to-selection
 alt:
   - https://github.com/aavagames/obsidian-rename-file-to-selection
-downloads: 442
+downloads: 456
 updated at: "2025-03-05T20:23:08Z"
 related to:
   - "[[GitHub - 629458331]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Rename the active file to the current text selection after sanitizing it into a filesystem-safe filename. Trigger the command to quickly rename files from highlighted text without retyping."
 
     stats: {
-        downloads:  442
+        downloads:  456
         updated_at: 1741206188000
     }
 }

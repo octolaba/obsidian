@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/juggl
 alt:
   - https://github.com/hemile/juggl
-downloads: 131168
+downloads: 133258
 updated at: "2023-11-10T12:57:09Z"
 related to:
   - "[[GitHub - 318838117]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Explore your vault as an interactive, stylable workspace graph using Cytoscape.js to control node colors, shapes, sizes, icons and images. Expand, hide, pin and save node subsets, embed graphs in notes, label edges, switch layouts, and extend functionality via an open API for desktop and mobile."
 
     stats: {
-        downloads:  131168
+        downloads:  133258
         updated_at: 1699621029000
     }
 }

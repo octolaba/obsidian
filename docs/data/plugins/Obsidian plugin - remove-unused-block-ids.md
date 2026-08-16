@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/remove-unused-block-ids
 alt:
   - https://github.com/isdmg/obsidian-remove-unused-block-ids
-downloads: 500
+downloads: 520
 updated at: "2024-10-09T04:29:11Z"
 related to:
   - "[[GitHub - 861505468]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Remove unused block IDs from your vault to clean up orphaned anchors and stray references. Scan the vault and confirm deletion; back up your vault first, as canvas cards and duplicate block IDs may be misidentified."
 
     stats: {
-        downloads:  500
+        downloads:  520
         updated_at: 1728448151000
     }
 }

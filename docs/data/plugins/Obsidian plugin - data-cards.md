@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/data-cards
 alt:
   - https://github.com/sophokles187/data-cards
-downloads: 29324
+downloads: 30098
 updated at: "2025-06-21T18:34:11Z"
 related to:
   - "[[GitHub - 941066151]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform Dataview query results into customizable card layouts or interactive kanban boards. Use presets and per-block overrides, show images from frontmatter/wiki/Markdown, pick responsive or fixed columns, and manage items with inline editing, new-item creation, manual refresh, and mobile-optimized layouts."
 
     stats: {
-        downloads:  29324
+        downloads:  30098
         updated_at: 1750530851000
     }
 }

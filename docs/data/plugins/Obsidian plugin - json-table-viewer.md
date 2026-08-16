@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/json-table-viewer
 alt:
   - https://github.com/usero2/obsidian-plugins-json-table-viewer
-downloads: 57
+downloads: 99
 updated at: "2026-07-07T17:15:15Z"
 related to:
   - "[[GitHub - 1292571655]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render JSON data as interactive, recursively nested tables inside note code blocks or open .json files directly as structured tables. Sort, filter, group and collapse rows with per-table state; use sticky headers, live reloading, nesting depth indicators, clickable links, formatted numbers and visual highlights for selection and booleans."
 
     stats: {
-        downloads:  57
+        downloads:  99
         updated_at: 1783444515000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/llm-docs
 alt:
   - https://github.com/shane-lamb/obsidian-llm-docs
-downloads: 929
+downloads: 958
 updated at: "2025-07-19T08:32:44Z"
 related to:
   - "[[GitHub - 916616246]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with LLMs directly inside plain Markdown files and edit conversation history inline. Include linked Obsidian notes and images as prompt context and connect to OpenAI or OpenAI‑compatible local models like Ollama. Display execution controls and loading indicators for clearer interactions."
 
     stats: {
-        downloads:  929
+        downloads:  958
         updated_at: 1752913964000
     }
 }

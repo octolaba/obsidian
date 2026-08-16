@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-note-lookback
 alt:
   - https://github.com/dyllonwright/Obsidian-Daily-Note-Lookback-Plugin
-downloads: 30
+downloads: 55
 updated at: "2026-07-14T01:56:13Z"
 related to:
   - "[[GitHub - 1299202143]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render a compact chrono-retrospection in daily notes that lists chosen offsets (years, months, days) and shows whether an entry exists for each date. Keep rows collapsed and cost-free until expanded, loading each section on demand so daily notes open instantly on desktop and phone."
 
     stats: {
-        downloads:  30
+        downloads:  55
         updated_at: 1783994173000
     }
 }

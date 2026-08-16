@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-latex-generator
 alt:
   - https://github.com/aaaaayushh/ai-latex-generator
-downloads: 1262
+downloads: 1276
 updated at: "2024-09-14T09:45:06Z"
 related to:
   - "[[GitHub - 834092168]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert selected text into LaTeX equations within Obsidian using a local Ollama model. Display a loading indicator during conversion and provide detailed error messages for troubleshooting."
 
     stats: {
-        downloads:  1262
+        downloads:  1276
         updated_at: 1726307106000
     }
 }

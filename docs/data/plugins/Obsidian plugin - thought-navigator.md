@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/thought-navigator
 alt:
   - https://github.com/qingxuanlin-s/obsidian-thought-navigator
-downloads: 880
-updated at: "2026-07-19T11:55:45Z"
+downloads: 1527
+updated at: "2026-07-28T00:05:47Z"
 related to:
   - "[[GitHub - 1227662248]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Build visual, navigable thought trees from .moc files to map Zettelkasten, MOC, and long-term knowledge. Edit nodes on a canvas (drag, connect, group, color), paste images as nodes, explore local graph context, move nodes across MOCs with a scratchpad, and open graphs via Obsidian URIs."
 
     stats: {
-        downloads:  880
-        updated_at: 1784462145000
+        downloads:  1527
+        updated_at: 1785197147000
     }
 }
 ```

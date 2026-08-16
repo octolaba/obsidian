@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/memos-view
 alt:
   - https://github.com/likemuuxi/obsidian-memos-view
-downloads: 295
-updated at: "2026-06-30T01:53:57Z"
+downloads: 359
+updated at: "2026-07-27T02:01:38Z"
 related to:
   - "[[GitHub - 1215510522]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Explore the Obsidian plugin API with a sample that adds a ribbon icon showing a notice, a command to open a modal, and a plugin settings tab. Register global click and interval handlers that log events to the console for testing and development."
 
     stats: {
-        downloads:  295
-        updated_at: 1782784437000
+        downloads:  359
+        updated_at: 1785117698000
     }
 }
 ```

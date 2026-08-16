@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/finnish-spellcheck
 alt:
   - https://github.com/antokeinanen/obsidian-finnish-spellcheck
-downloads: 4614
+downloads: 4651
 updated at: "2023-07-13T13:43:58Z"
 related to:
   - "[[GitHub - 663978780]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Check Finnish spelling and grammar in Obsidian using Voikko's morphological analysis, spelling and hyphenation data. Highlight errors inline, suggest corrections, and analyze word morphology for more accurate suggestions."
 
     stats: {
-        downloads:  4614
+        downloads:  4651
         updated_at: 1689255838000
     }
 }

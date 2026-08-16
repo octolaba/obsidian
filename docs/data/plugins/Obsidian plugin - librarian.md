@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/librarian
 alt:
   - https://github.com/lastratalive/Librarian
-downloads: 170
+downloads: 202
 updated at: "2026-03-11T23:31:57Z"
 related to:
   - "[[GitHub - 1173665968]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage your reading and library inside Obsidian by importing book metadata from Open Library and generating standardized book notes with YAML frontmatter. Track reading states and session logs, organize books into shelves, capture quotes with page refs, and view reading statistics."
 
     stats: {
-        downloads:  170
+        downloads:  202
         updated_at: 1773271917000
     }
 }

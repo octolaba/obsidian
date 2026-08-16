@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/linux-image-rendering-fix
 alt:
   - https://github.com/evgene-kopylov/linux-image-rendering-fix
-downloads: 504
+downloads: 574
 updated at: "2026-06-01T12:42:54Z"
 related to:
   - "[[GitHub - 1241053897]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fix image rendering in Obsidian on Linux by reading local image files from the vault and replacing broken app:// paths with blob: URLs. Load PNG, JPG, GIF, WebP, SVG and BMP automatically on page open and run a reprocess command to refresh images."
 
     stats: {
-        downloads:  504
+        downloads:  574
         updated_at: 1780317774000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/replace-commands
 alt:
   - https://github.com/elowry/obsidian-replace-commands
-downloads: 352
-updated at: "2026-06-21T08:52:23Z"
+downloads: 442
+updated at: "2026-08-08T22:50:06Z"
 related to:
   - "[[GitHub - 1195220243]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create named, reusable search-and-replace actions using plain text or JavaScript regex to modify selections or entire documents. Test rules live with step-by-step previews, chain and reorder multiple replacements, use capture groups and custom flags, and apply them as a single undoable operation from the Command Palette or editor context menu."
 
     stats: {
-        downloads:  352
-        updated_at: 1782031943000
+        downloads:  442
+        updated_at: 1786229406000
     }
 }
 ```

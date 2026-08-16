@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/related-notes
 alt:
   - https://github.com/mrboxtobox/obsidian-related-notes
-downloads: 3071
-updated at: "2026-03-31T19:09:03Z"
+downloads: 3201
+updated at: "2026-07-30T11:52:46Z"
 related to:
   - "[[GitHub - 926253493]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Find related notes using Bloom filter n-gram similarity analysis across your vault. Link related notes with one click, run all processing locally, and handle multilingual and CJK scripts with automatic optimization for large vaults."
 
     stats: {
-        downloads:  3071
-        updated_at: 1774984143000
+        downloads:  3201
+        updated_at: 1785412366000
     }
 }
 ```

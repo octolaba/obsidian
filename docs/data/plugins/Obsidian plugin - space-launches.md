@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/space-launches
 alt:
   - https://github.com/elmoneedsarson/space-news
-downloads: 85
+downloads: 94
 updated at: "2026-07-01T14:30:36Z"
 related to:
   - "[[GitHub - 1284015433]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track upcoming rocket launches and space events in Obsidian via a sidebar panel showing countdowns, providers, locations, and status. Filter by provider, location, and event type, and receive an optional 15-minute notice before tracked launches."
 
     stats: {
-        downloads:  85
+        downloads:  94
         updated_at: 1782916236000
     }
 }

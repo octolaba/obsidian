@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-link-clicker
 alt:
   - https://github.com/eniverz/obsidian-better-link-clicker-plugin
-downloads: 627
+downloads: 670
 updated at: "2026-03-16T12:22:02Z"
 related to:
   - "[[GitHub - 1044244625]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Modify link clicks to edit links in Live Preview instead of navigating away. Prompt before creating a new note for links without targets, preserve modifier-clicks to open in new panes or windows, and support wikilinks, markdown links, and plain URLs."
 
     stats: {
-        downloads:  627
+        downloads:  670
         updated_at: 1773663722000
     }
 }

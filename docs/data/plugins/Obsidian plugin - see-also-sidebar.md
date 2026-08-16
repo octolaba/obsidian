@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/see-also-sidebar
 alt:
   - https://github.com/davidbreece/obsidian-see-also-sidebar
-downloads: 162
-updated at: "2026-06-23T03:00:13Z"
+downloads: 197
+updated at: "2026-08-08T18:44:48Z"
 related to:
   - "[[GitHub - 1254052936]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Keep related notes handy in a dedicated sidebar. Add a see-also property to any note's frontmatter and those links appear instantly in the panel — no need to scroll back to the top of the note or hunt through the properties view."
 
     stats: {
-        downloads:  162
-        updated_at: 1782183613000
+        downloads:  197
+        updated_at: 1786214688000
     }
 }
 ```

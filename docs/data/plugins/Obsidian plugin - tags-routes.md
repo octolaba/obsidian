@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tags-routes
 alt:
   - https://github.com/kctekn/obsidian-TagsRoutes
-downloads: 17275
+downloads: 17642
 updated at: "2024-12-06T17:39:21Z"
 related to:
   - "[[GitHub - 826617582]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize your vault as an interactive 3D network of files and tags. Animate vault growth with time-lapse, apply positive and negative path filters, lock scenes to freeze layouts, and open scenes in the sidebar for easy navigation."
 
     stats: {
-        downloads:  17275
+        downloads:  17642
         updated_at: 1733506761000
     }
 }

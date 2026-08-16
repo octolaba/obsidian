@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/advanced-pdf-export
 alt:
   - https://github.com/shrekbytes/advanced-pdf-export
-downloads: 7570
-updated at: "2026-07-19T07:34:14Z"
+downloads: 9788
+updated at: "2026-08-09T08:42:02Z"
 related to:
   - "[[GitHub - 1253521026]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Export notes as pixel-perfect PDFs with a live, full-resolution page preview (A4/A3/A5/Letter/Legal) that updates instantly as you edit. Apply built-in style presets, insert /// for manual page breaks or auto-break before H1/H2, tweak layout, typography, margins, headers/footers and colors, then export silently via a native save dialog."
 
     stats: {
-        downloads:  7570
-        updated_at: 1784446454000
+        downloads:  9788
+        updated_at: 1786264922000
     }
 }
 ```

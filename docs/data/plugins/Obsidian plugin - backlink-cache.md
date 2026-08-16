@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/backlink-cache
 alt:
   - https://github.com/mnaoumov/obsidian-backlink-cache
-downloads: 25462
-updated at: "2026-07-21T00:37:24Z"
+downloads: 27784
+updated at: "2026-08-08T05:58:01Z"
 related to:
   - "[[GitHub - 689799494]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Speed up backlink queries and the Backlinks pane by maintaining a persistent backlink cache to improve performance in large vaults. Include Canvas and frontmatter markdown links and offer fast and safe app.metadataCache.getBacklinksForFile wrappers, with access to the original function."
 
     stats: {
-        downloads:  25462
-        updated_at: 1784594244000
+        downloads:  27784
+        updated_at: 1786168681000
     }
 }
 ```

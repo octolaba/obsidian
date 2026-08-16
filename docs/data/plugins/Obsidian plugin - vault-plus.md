@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-plus
 alt:
   - https://github.com/jabaho9523/obsidian-vault-plus
-downloads: 736
+downloads: 1061
 updated at: "2026-07-19T20:01:44Z"
 related to:
   - "[[GitHub - 1208359754]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Find messy vault issues from a single sidebar dashboard and fix them with one click. Scan for orphan notes, broken links, empty or oversized files, fuzzy title duplicates, unused tags, and unreferenced attachments, then open, compare, or delete items directly. Skip setup and start cleaning immediately."
 
     stats: {
-        downloads:  736
+        downloads:  1061
         updated_at: 1784491304000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/replace-all
 alt:
   - https://github.com/patrickchiang/obsidian-replace-all
-downloads: 3335
+downloads: 3431
 updated at: "2024-10-22T04:06:43Z"
 related to:
   - "[[GitHub - 864907879]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add replace-all support to the core file search, letting you perform batch replacements across files using Obsidian's built-in find. Revert the last batch operation with the \"Undo replace all\" command."
 
     stats: {
-        downloads:  3335
+        downloads:  3431
         updated_at: 1729570003000
     }
 }

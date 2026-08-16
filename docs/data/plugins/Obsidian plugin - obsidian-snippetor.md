@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-snippetor
 alt:
   - https://github.com/ebullient/obsidian-snippetor
-downloads: 10942
+downloads: 11282
 updated at: "2026-05-13T17:19:37Z"
 related to:
   - "[[GitHub - 449062744]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create common CSS snippets with a few clicks. Generate and edit snippet files from guided modals—build custom checkboxes or colored folders, preview renders, and export ready-to-use snippets for Obsidian's Appearance system."
 
     stats: {
-        downloads:  10942
+        downloads:  11282
         updated_at: 1778692777000
     }
 }

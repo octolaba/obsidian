@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/multi-state-checkbox-switcher
 alt:
   - https://github.com/kubamiszcz/MultiStateCheckBoxSwitcher
-downloads: 6474
+downloads: 6573
 updated at: "2023-12-04T22:43:17Z"
 related to:
   - "[[GitHub - 725699769]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle and cycle 3-state checkboxes ([ ], [/], [x]) and custom multistate symbols directly in notes. Support multiline selection and toggling of empty lines, and integrate with themes that display state icons."
 
     stats: {
-        downloads:  6474
+        downloads:  6573
         updated_at: 1701729797000
     }
 }

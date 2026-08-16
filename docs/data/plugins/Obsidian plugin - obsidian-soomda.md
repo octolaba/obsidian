@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-soomda
 alt:
   - https://github.com/michaellee/soomda
-downloads: 4206
+downloads: 4227
 updated at: "2023-05-04T03:55:53Z"
 related to:
   - "[[GitHub - 603619714]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide and show Obsidian sidebars instantly with a single leaf-shaped toggle in the left ribbon. Toggle sidebars on or off to clear your workspace and focus on your notes."
 
     stats: {
-        downloads:  4206
+        downloads:  4227
         updated_at: 1683172553000
     }
 }

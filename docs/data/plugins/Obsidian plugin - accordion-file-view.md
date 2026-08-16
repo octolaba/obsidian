@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/accordion-file-view
 alt:
   - https://github.com/cazzek/obsidian-accordion-file-view
-downloads: 136
+downloads: 155
 updated at: "2026-05-16T07:12:06Z"
 related to:
   - "[[GitHub - 1217053671]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse Markdown and TXT files in an accordion-style preview list, expanding one file at a time. Render Markdown as formatted previews and show TXT as plain text; scope lists to a folder or the entire vault and filter by name or path. Open items from the preview to edit."
 
     stats: {
-        downloads:  136
+        downloads:  155
         updated_at: 1778915526000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/soundscapes
 alt:
   - https://github.com/andrewmcgivery/obsidian-soundscapes
-downloads: 26364
+downloads: 26715
 updated at: "2025-01-09T05:18:34Z"
 related to:
   - "[[GitHub - 743634138]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Play Lofi beats, nature sounds, and ambient music from a compact status-bar player with persistent volume and optional auto-play on launch. Create custom Soundscapes from YouTube playlists or index a local MP3 folder for a full library view with play, pause, next, previous, seek, shuffle, and search."
 
     stats: {
-        downloads:  26364
+        downloads:  26715
         updated_at: 1736399914000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tag-group-manager
 alt:
   - https://github.com/stargazer-cc/obsidian-tag-group-manager
-downloads: 5508
+downloads: 5726
 updated at: "2026-04-19T06:09:57Z"
 related to:
   - "[[GitHub - 944587218]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize tags into custom groups and switch between group-sets, using a draggable floating selector or right-hand overview to insert, reorder, and manage tags. Rename tags across your vault (including YAML frontmatter and Canvas), apply custom colors, support multi-level tag trees, and clear or batch-edit tags quickly."
 
     stats: {
-        downloads:  5508
+        downloads:  5726
         updated_at: 1776578997000
     }
 }

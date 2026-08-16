@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/llm-shortcut
 alt:
   - https://github.com/chernodub/obsidian-llm-shortcut
-downloads: 839
+downloads: 861
 updated at: "2026-02-17T17:17:53Z"
 related to:
   - "[[GitHub - 1006578025]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn Markdown prompt files into Obsidian commands. Map a folder of .md prompts (including nested folders) to command-palette entries, run prompts against the active note with any OpenAI-compatible provider, and stream responses into the editor selection or show them in an info popup."
 
     stats: {
-        downloads:  839
+        downloads:  861
         updated_at: 1771348673000
     }
 }

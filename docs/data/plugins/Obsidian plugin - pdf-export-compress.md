@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pdf-export-compress
 alt:
   - https://github.com/hunter00zb/pdf-export-compress
-downloads: 197
+downloads: 217
 updated at: "2026-06-04T11:44:25Z"
 related to:
   - "[[GitHub - 1246831240]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export Markdown notes to PDF with automatic image compression, adjustable JPEG quality and max width to produce much smaller files. Render CJK text reliably with macOS system fonts, resolve Obsidian wiki-links and standard Markdown images via a Python (reportlab + Pillow) engine; macOS only."
 
     stats: {
-        downloads:  197
+        downloads:  217
         updated_at: 1780573465000
     }
 }

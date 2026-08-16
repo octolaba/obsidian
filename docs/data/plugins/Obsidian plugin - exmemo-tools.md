@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/exmemo-tools
 alt:
   - https://github.com/exmemo-ai/obsidian-exmemo-tools
-downloads: 1977
+downloads: 1996
 updated at: "2025-06-05T03:52:30Z"
 related to:
   - "[[GitHub - 879513674]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage notes with LLM-driven tools for smart archiving, metadata generation, directory indexing, and AI-assisted editing. Auto-generate tags, titles and descriptions, recommend suitable folders, insert or continue text contextually, and create Luhmann cards or directory indexes from files or selections."
 
     stats: {
-        downloads:  1977
+        downloads:  1996
         updated_at: 1749095550000
     }
 }

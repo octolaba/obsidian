@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-to-red
 alt:
   - https://github.com/yeban8090/note-to-red
-downloads: 6602
+downloads: 6900
 updated at: "2025-08-21T03:01:17Z"
 related to:
   - "[[GitHub - 947652568]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Obsidian notes into Xiaohongshu-style images, auto-generating one image per H1/H2 heading. Choose from multiple templates, customize fonts, colors, spacing, avatar, nickname and footer, preview edits in real time, and export single or batch images with an optional lock to prevent refresh."
 
     stats: {
-        downloads:  6602
+        downloads:  6900
         updated_at: 1755745277000
     }
 }

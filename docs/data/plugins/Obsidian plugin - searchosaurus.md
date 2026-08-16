@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/searchosaurus
 alt:
   - https://github.com/polygonhunter/searchosaurus
-downloads: 296
+downloads: 880
 updated at: "2026-07-17T10:37:01Z"
 related to:
   - "[[GitHub - 1302427118]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search your vault with a Spotlight-style panel that pins exact title or alias matches to the top and ranks results deterministically. Preview notes, images, PDFs and saved links live — including OCR-extracted text — all entirely offline."
 
     stats: {
-        downloads:  296
+        downloads:  880
         updated_at: 1784284621000
     }
 }

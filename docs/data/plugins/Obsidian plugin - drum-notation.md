@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/drum-notation
 alt:
   - https://github.com/vkamolov/obsidian-drum-notation
-downloads: 44
-updated at: "2026-07-08T00:35:03Z"
+downloads: 144
+updated at: "2026-08-04T11:20:07Z"
 related to:
   - "[[GitHub - 1259869453]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render drum kit patterns as graphical SVG percussion staff notation in Obsidian and play them back with adjustable tempo and metronome count-in. Edit patterns with an interactive grid editor, insert ready-made notation blocks, and embed read-only rendered drums for setlists, export, and tempo training."
 
     stats: {
-        downloads:  44
-        updated_at: 1783470903000
+        downloads:  144
+        updated_at: 1785842407000
     }
 }
 ```

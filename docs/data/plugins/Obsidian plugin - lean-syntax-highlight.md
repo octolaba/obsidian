@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lean-syntax-highlight
 alt:
   - https://github.com/tomaz1502/lean-syntax-highlight
-downloads: 2408
+downloads: 2428
 updated at: "2025-02-05T02:58:25Z"
 related to:
   - "[[GitHub - 745997616]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add live syntax highlighting for the Lean programming language in Obsidian, applying language-aware coloring to Lean files and code blocks. Improve code readability with accurate tokenization and editor styling tailored to Lean."
 
     stats: {
-        downloads:  2408
+        downloads:  2428
         updated_at: 1738724305000
     }
 }

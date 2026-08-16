@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zotero-sync-client
 alt:
   - https://github.com/frthjf/obsidian-zotero-sync-client
-downloads: 10276
+downloads: 10359
 updated at: "2025-07-31T14:36:40Z"
 related to:
   - "[[GitHub - 655025408]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mirror your Zotero library as Markdown files in Obsidian via the Zotero web API (API key) or a local Zotero connection. Keep a read-only, incrementally cached copy for linking and search without modifying your Zotero library. Sync generated files to mobile like any other vault content."
 
     stats: {
-        downloads:  10276
+        downloads:  10359
         updated_at: 1753972600000
     }
 }

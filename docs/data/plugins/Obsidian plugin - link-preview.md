@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/link-preview
 alt:
   - https://github.com/felipetappata/obsidian-link-preview
-downloads: 6464
+downloads: 6613
 updated at: "2025-01-28T18:21:08Z"
 related to:
   - "[[GitHub - 889173698]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview external links on hover to view webpage snapshots without leaving Obsidian. Configure preview size and hover delay, and display a clean, native-looking window that matches your theme."
 
     stats: {
-        downloads:  6464
+        downloads:  6613
         updated_at: 1738088468000
     }
 }

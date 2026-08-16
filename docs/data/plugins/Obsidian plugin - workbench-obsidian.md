@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/workbench-obsidian
 alt:
   - https://github.com/ryanjamurphy/workbench-obsidian
-downloads: 28924
+downloads: 29264
 updated at: "2024-03-26T15:07:01Z"
 related to:
   - "[[GitHub - 310931897]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture thinking from any note into a persistent Workbench note. Link or embed pages, headers, and blocks, or copy the current line, and add items via alt+click or cmd/windows+alt+click; insert or clear Workbench contents as needed. Customize the Workbench name and item line prefix in settings."
 
     stats: {
-        downloads:  28924
+        downloads:  29264
         updated_at: 1711465621000
     }
 }

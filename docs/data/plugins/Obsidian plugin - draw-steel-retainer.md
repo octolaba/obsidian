@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/draw-steel-retainer
 alt:
   - https://github.com/martindampier/draw-steel-retainer
-downloads: 813
+downloads: 847
 updated at: "2026-01-17T04:13:12Z"
 related to:
   - "[[GitHub - 835470548]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage Draw Steel combat encounters with an initiative tracker tailored to MCDM's system. Open the tracker via the scroll ribbon to view two tables for Draw Steel–style initiative and automatically include player characters added in settings."
 
     stats: {
-        downloads:  813
+        downloads:  847
         updated_at: 1768623192000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-memos
 alt:
   - https://github.com/quorafind/Obsidian-Thino
-downloads: 385913
-updated at: "2026-07-10T01:07:35Z"
+downloads: 401795
+updated at: "2026-08-08T04:44:59Z"
 related to:
   - "[[GitHub - 441027750]]"
 remind me:
@@ -28,7 +28,7 @@ This closed-source plugin captures memos quickly and displays them in the sideba
 plugin: {
     id:     "obsidian-memos"
     name:   "Thino"
-    author: "quorafind"
+    author: "Boninall"
     repo:   "quorafind/Obsidian-Thino"
 
     html_url:    "https://community.obsidian.md/plugins/obsidian-memos"
@@ -37,8 +37,8 @@ plugin: {
     about:       "Capture ideas quickly and append them into your diary or any specified note as time-stamped entries parsed into individual Thinos. Read Thinos from multiple sources and use a global or live-preview editor to compose, preview, and insert captures into your notes."
 
     stats: {
-        downloads:  385913
-        updated_at: 1783645655000
+        downloads:  401795
+        updated_at: 1786164299000
     }
 }
 ```

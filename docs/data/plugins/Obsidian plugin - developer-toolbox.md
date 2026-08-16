@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/developer-toolbox
 alt:
   - https://github.com/ckelsoe/obsidian-developer-toolbox
-downloads: 386
-updated at: "2026-07-09T17:45:04Z"
+downloads: 454
+updated at: "2026-08-11T14:47:55Z"
 related to:
   - "[[GitHub - 1252447920]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Capture annotated screenshots and generate paste-ready Markdown issue payloads with structured context and privacy-minded path redaction. Reload plugins instantly during development and auto-reload watched builds. Browse icon IDs and inspect CSS variables and registered commands."
 
     stats: {
-        downloads:  386
-        updated_at: 1783619104000
+        downloads:  454
+        updated_at: 1786459675000
     }
 }
 ```

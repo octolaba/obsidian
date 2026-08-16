@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-google-lookup
 alt:
   - https://github.com/ntawileh/obsidian-google-lookup
-downloads: 18682
+downloads: 19256
 updated at: "2026-03-18T06:29:43Z"
 related to:
   - "[[GitHub - 487952533]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert Google Calendar events and Google Contacts (personal and Workspace Directory) directly into notes to populate meeting metadata and contact profiles. Look up events and people via suggestion modals, support multiple Google accounts, and use customizable templates for inserted content."
 
     stats: {
-        downloads:  18682
+        downloads:  19256
         updated_at: 1773815383000
     }
 }

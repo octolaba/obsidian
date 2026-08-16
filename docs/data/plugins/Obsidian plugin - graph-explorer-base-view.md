@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/graph-explorer-base-view
 alt:
   - https://github.com/dsebastien/obsidian-graph-explorer-base-view
-downloads: 1559
-updated at: "2026-07-17T07:38:06Z"
+downloads: 2350
+updated at: "2026-07-29T07:44:54Z"
 related to:
   - "[[GitHub - 1203529865]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Explore notes as an interactive force-directed graph scoped to a Base query, showing only matching notes and persisting node positions per view. Track explored/unexplored state and maturity via frontmatter, visualize roles, confidence, tags or dates with node color/shape, and open notes in a resizable side panel."
 
     stats: {
-        downloads:  1559
-        updated_at: 1784273886000
+        downloads:  2350
+        updated_at: 1785311094000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/google-selection-translate
 alt:
   - https://github.com/junweihu0/obsidian-google-translate
-downloads: 94
+downloads: 159
 updated at: "2026-07-08T15:48:41Z"
 related to:
   - "[[GitHub - 1251501896]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Select text in any note to display an instant Google translation in a read-only side panel—no buttons or copy-paste. Preserve the original note while merging broken line breaks into coherent paragraphs; lock translations to prevent overwrite, copy results with one click, and reuse cached translations to save API quota."
 
     stats: {
-        downloads:  94
+        downloads:  159
         updated_at: 1783525721000
     }
 }

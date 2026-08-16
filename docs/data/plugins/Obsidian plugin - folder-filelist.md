@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-filelist
 alt:
   - https://github.com/band/obsidian-folder-filelist
-downloads: 746
+downloads: 787
 updated at: "2025-06-19T14:55:44Z"
 related to:
   - "[[GitHub - 968104720]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate folder filelists of wiki-links for specified folders, producing an index file (e.g., ndx-root.md for /) with newest files listed first. Auto-generate and manually regenerate via a ribbon icon; exclude specific files or extensions and customize the listfile pattern."
 
     stats: {
-        downloads:  746
+        downloads:  787
         updated_at: 1750344944000
     }
 }

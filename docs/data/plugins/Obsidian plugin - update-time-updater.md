@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/update-time-updater
 alt:
   - https://github.com/muratagawa/update-time-updater
-downloads: 1029
+downloads: 1048
 updated at: "2024-04-10T00:31:02Z"
 related to:
   - "[[GitHub - 781290486]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Update the modified datetime in a note's frontmatter manually from the left ribbon or the command palette. Specify the frontmatter key to update and choose the datetime format for the timestamp."
 
     stats: {
-        downloads:  1029
+        downloads:  1048
         updated_at: 1712709062000
     }
 }

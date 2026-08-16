@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/content-linker
 alt:
   - https://github.com/medill-east/obsidian-content-linker
-downloads: 4105
+downloads: 4125
 updated at: "2024-04-04T06:34:50Z"
 related to:
   - "[[GitHub - 680454231]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search the vault for repeated phrases not wrapped in [[...]] and display a ranked list of potential bi-links. Convert selected entries into [[...]] links, exclude folders from scans, add/remove items from an ignore list, and revert chosen links back to plain text."
 
     stats: {
-        downloads:  4105
+        downloads:  4125
         updated_at: 1712212490000
     }
 }

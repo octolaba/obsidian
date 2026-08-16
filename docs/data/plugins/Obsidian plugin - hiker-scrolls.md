@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hiker-scrolls
 alt:
   - https://github.com/rickliang-jy/HikerScrolls
-downloads: 230
+downloads: 252
 updated at: "2026-03-09T22:59:58Z"
 related to:
   - "[[GitHub - 1172952429]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create scrollytelling journals from photos, notes, and GPX tracks that sync with an animated topographic map and trace your route as you scroll. Build a personal atlas of pinned trips, jump to journeys from a timeline, and watch multi-segment routes draw and animate in real time."
 
     stats: {
-        downloads:  230
+        downloads:  252
         updated_at: 1773097198000
     }
 }

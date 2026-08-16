@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tree-search
 alt:
   - https://github.com/catacgc/obsidian-tree-search
-downloads: 2643
+downloads: 2671
 updated at: "2025-02-10T04:47:41Z"
 related to:
   - "[[GitHub - 857350120]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Navigate a live hierarchy of notes and connections that builds as you type. Record relationships without special annotations and traverse linked structures to quickly find context, paths, and related notes."
 
     stats: {
-        downloads:  2643
+        downloads:  2671
         updated_at: 1739162861000
     }
 }

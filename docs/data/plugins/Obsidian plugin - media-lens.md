@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/media-lens
 alt:
   - https://github.com/stephquery/obsidian-media-lens
-downloads: 162
+downloads: 181
 updated at: "2026-05-18T19:03:21Z"
 related to:
   - "[[GitHub - 1207445918]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Inspect detailed metadata for images, audio, video and subtitle files in a sidebar, showing format, codecs, resolution, bitrate and duration. Compare two files side-by-side with highlighted differences, synced playback, split A|B view, capture frames and save as a markdown note."
 
     stats: {
-        downloads:  162
+        downloads:  181
         updated_at: 1779131001000
     }
 }

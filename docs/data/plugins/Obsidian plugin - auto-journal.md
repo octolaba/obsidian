@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-journal
 alt:
   - https://github.com/ebonsignori/obsidian-auto-journal
-downloads: 5722
+downloads: 5755
 updated at: "2025-09-28T03:35:09Z"
 related to:
   - "[[GitHub - 677573016]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Backfill daily and monthly notes into a fixed YEAR/MONTH/DAY folder layout, creating missing folders and prefixed notes for days or months you missed. Insert the original note date in backfilled files using {{auto-journal-date}} with optional inline formats like {{auto-journal-date:YYYY-MM-DD}}."
 
     stats: {
-        downloads:  5722
+        downloads:  5755
         updated_at: 1759030509000
     }
 }

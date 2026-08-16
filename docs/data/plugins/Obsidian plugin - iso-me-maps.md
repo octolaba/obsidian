@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/iso-me-maps
 alt:
   - https://github.com/codybontecou/isome-maps
-downloads: 990
+downloads: 1115
 updated at: "2026-06-12T22:18:33Z"
 related to:
   - "[[GitHub - 1225767478]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render interactive Leaflet maps inline in Obsidian notes from iso.me exports and compatible location formats (GPX, GeoJSON, OwnTracks, etc.). Display visit markers with duration-encoded sizes, route polylines, heatmaps, outlier markers, a stats bar, and optional day/time filters for interactive exploration."
 
     stats: {
-        downloads:  990
+        downloads:  1115
         updated_at: 1781302713000
     }
 }

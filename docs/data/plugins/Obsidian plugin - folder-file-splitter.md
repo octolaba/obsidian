@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-file-splitter
 alt:
   - https://github.com/xuquan-nikkkki/FolderFile-Splitter-Plugin
-downloads: 6140
+downloads: 6201
 updated at: "2025-08-30T13:48:14Z"
 related to:
   - "[[GitHub - 909687714]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Split folders and files into separate, visually distinct panels to simplify browsing and navigation. Pin items, sort lists, and toggle horizontal or vertical layouts while keeping the interface consistent with your Obsidian theme."
 
     stats: {
-        downloads:  6140
+        downloads:  6201
         updated_at: 1756561694000
     }
 }

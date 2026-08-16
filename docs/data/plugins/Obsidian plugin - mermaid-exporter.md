@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mermaid-exporter
 alt:
   - https://github.com/addozhang/obsidian-mermaid-exporter
-downloads: 1532
+downloads: 1896
 updated at: "2026-05-19T01:43:05Z"
 related to:
   - "[[GitHub - 1192589898]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export rendered Mermaid diagrams as PNG images directly from Obsidian. Preserve your current theme's WYSIWYG rendering and choose a scale factor up to 4× for crisp high‑DPI output. Save files anywhere with the native system file picker; export button appears on hover in Live Preview and Reading modes."
 
     stats: {
-        downloads:  1532
+        downloads:  1896
         updated_at: 1779154985000
     }
 }

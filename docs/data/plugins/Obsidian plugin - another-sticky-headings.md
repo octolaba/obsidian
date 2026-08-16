@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/another-sticky-headings
 alt:
   - https://github.com/zhouhua/obsidian-sticky-headings
-downloads: 7864
+downloads: 7982
 updated at: "2025-01-21T04:03:29Z"
 related to:
   - "[[GitHub - 814445653]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep current and ancestor headings visible while reading or editing to maintain orientation and track progress. Click displayed headings to jump to sections and switch between concise or full modes for minimal or detailed contextual breadcrumbs."
 
     stats: {
-        downloads:  7864
+        downloads:  7982
         updated_at: 1737432209000
     }
 }

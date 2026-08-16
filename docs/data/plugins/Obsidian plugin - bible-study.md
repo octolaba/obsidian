@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/bible-study
 alt:
   - https://github.com/linkongren/obsidian-bible-study
-downloads: 106
-updated at: "2026-06-26T10:54:42Z"
+downloads: 140
+updated at: "2026-08-11T07:00:46Z"
 related to:
   - "[[GitHub - 1277487453]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "插入并展开和合本（简体）经文，使用 :约3:16 等简写自动转为可点击引用并在悬停时弹出预览卡片。 浏览右侧阅读面板以选择书卷与章节，按中文名、简称或拼音搜索并将经文插入或复制到当前笔记。"
 
     stats: {
-        downloads:  106
-        updated_at: 1782471282000
+        downloads:  140
+        updated_at: 1786431646000
     }
 }
 ```

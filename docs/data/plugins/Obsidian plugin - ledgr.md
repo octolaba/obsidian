@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/ledgr
 alt:
   - https://github.com/jcig789/ledgr
-downloads: 78
-updated at: "2026-07-17T08:14:05Z"
+downloads: 230
+updated at: "2026-08-04T07:05:02Z"
 related to:
   - "[[GitHub - 1301299544]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "If Obsidian is where you think, plan, and write — your financial data should live there too. Ledgr brings personal finance into your vault as plain Markdown and JSON files. No accounts. No subscriptions. No data leaving your device. Track daily spending, set category budgets, monitor net worth across multiple accounts and currencies, log loan payments, and generate CPA-style financial statements — all without opening another app. Your transactions are Markdown table rows with Dataview inline fields, so you can query them like any other note. Features: quick transaction capture · monthly dashboard · budgets · net worth tracker · liability tracker with payment reminders · financial statements (P&L, cash flow, balance sheet) · savings goals · monthly review notes · year-end Wrapped summary · multi-currency with custom exchange rates · international transfer tracker (opt-in) · mobile-friendly"
 
     stats: {
-        downloads:  78
-        updated_at: 1784276045000
+        downloads:  230
+        updated_at: 1785827102000
     }
 }
 ```

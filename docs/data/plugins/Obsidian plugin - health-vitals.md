@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/health-vitals
 alt:
   - https://github.com/johannes-kaindl/health-vitals
-downloads: 12
-updated at: "2026-07-23T13:55:39Z"
+downloads: 82
+updated at: "2026-08-04T20:17:38Z"
 related to:
   - "[[GitHub - 1306598644]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Import Apple Health export ZIP or XML and stream-parse large files without loading them into memory to produce a compact health-cache.json of daily aggregates and workouts. Browse and visualize metrics in a dashboard with tiles, sparklines and favorites while keeping the original export read-only outside your vault."
 
     stats: {
-        downloads:  12
-        updated_at: 1784814939000
+        downloads:  82
+        updated_at: 1785874658000
     }
 }
 ```

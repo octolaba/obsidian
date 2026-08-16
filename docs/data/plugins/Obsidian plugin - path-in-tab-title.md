@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/path-in-tab-title
 alt:
   - https://github.com/d9k/obsidian-path-in-tab-title
-downloads: 117
+downloads: 149
 updated at: "2026-04-22T22:30:18Z"
 related to:
   - "[[GitHub - 1217536038]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display the file path in the active tab title so you see contextual folders instead of only the filename. Update only focused tabs with a short delay before refreshing; tab titles revert to defaults after restarting Obsidian."
 
     stats: {
-        downloads:  117
+        downloads:  149
         updated_at: 1776897018000
     }
 }

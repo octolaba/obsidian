@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-auto-link-title
 alt:
   - https://github.com/zolrath/obsidian-auto-link-title
-downloads: 369535
+downloads: 374182
 updated at: "2024-12-04T21:35:35Z"
 related to:
   - "[[GitHub - 358133470]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fetch webpage titles for pasted URLs and insert them as Markdown links with the correct title. Convert existing raw URLs or replace the text of existing Markdown links with fetched titles via a command."
 
     stats: {
-        downloads:  369535
+        downloads:  374182
         updated_at: 1733348135000
     }
 }

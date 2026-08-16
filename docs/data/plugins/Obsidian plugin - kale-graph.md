@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kale-graph
 alt:
   - https://github.com/olillin/obsidian-kale-graph
-downloads: 760
+downloads: 775
 updated at: "2025-06-02T20:19:33Z"
 related to:
   - "[[GitHub - 869060827]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and render graph-theory diagrams directly in Obsidian using kale code blocks. Define vertices, edges and paths with simple line-based syntax, use flags for directed/simple/auto/flipped graphs, and mark invisible vertices with a leading underscore to control layout."
 
     stats: {
-        downloads:  760
+        downloads:  775
         updated_at: 1748895573000
     }
 }

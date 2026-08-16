@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/multiple-notes-outline
 alt:
   - https://github.com/iiz00/obsidian-multiple-notes-outline
-downloads: 9492
+downloads: 9582
 updated at: "2024-04-28T00:52:53Z"
 related to:
   - "[[GitHub - 598862651]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display outlines and relationships across multiple notes using two views. Use File View to list the active file plus its outgoing and backlink outlines (local graph at depth 1), and use Folder View to list outlines for all files in a selected folder."
 
     stats: {
-        downloads:  9492
+        downloads:  9582
         updated_at: 1714265573000
     }
 }

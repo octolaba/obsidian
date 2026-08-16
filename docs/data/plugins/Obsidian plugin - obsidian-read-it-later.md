@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-read-it-later
 alt:
   - https://github.com/dominikpieper/obsidian-ReadItLater
-downloads: 133089
+downloads: 134108
 updated at: "2025-01-28T16:57:34Z"
 related to:
   - "[[GitHub - 406640843]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Archive web pages, videos and social posts into Markdown notes using content-specific templates for articles, YouTube, Twitter and more. Download images, batch-process URL lists, and insert saved content into new or existing notes with a flexible template engine and variables. Use on Obsidian desktop and iOS/Android to keep web archives alongside your vault."
 
     stats: {
-        downloads:  133089
+        downloads:  134108
         updated_at: 1738083454000
     }
 }

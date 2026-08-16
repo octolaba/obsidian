@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/custom-file-viewer
 alt:
   - https://github.com/peabody28/obsidian-extension-custom-file-viewer
-downloads: 906
+downloads: 953
 updated at: "2025-05-29T10:02:51Z"
 related to:
   - "[[GitHub - 992528594]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open non‑Markdown files in external applications based on file extension. Map extensions to specific application paths, set a default app for unmapped types, and ignore chosen extensions. Click files in the Obsidian file explorer to launch them in your configured apps."
 
     stats: {
-        downloads:  906
+        downloads:  953
         updated_at: 1748512971000
     }
 }

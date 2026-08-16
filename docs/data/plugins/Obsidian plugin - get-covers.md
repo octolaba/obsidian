@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/get-covers
 alt:
   - https://github.com/ionmint/get-covers
-downloads:
-updated at:
+downloads: 63
+updated at: "2026-08-02T11:33:16Z"
 related to:
   - "[[GitHub - 1307075763]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/ionmint/get-covers"
     description: "A minimal and simple plugin for getting media covers. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Search and assign a cover image to the current note from Google Images or structured databases (Google Books, TMDb, AniList, SteamGridDB). Pick a result in a touch-friendly gallery to download the image into your vault or write its URL to the note's frontmatter, with automatic fallbacks and adjustable result counts."
+
+    stats: {
+        downloads:  63
+        updated_at: 1785670396000
+    }
 }
 ```
 

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nushell
 alt:
   - https://github.com/christianlemer/obsidian-nushell
-downloads: 109
+downloads: 124
 updated at: "2026-04-13T18:54:43Z"
 related to:
   - "[[GitHub - 1208667249]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render .nuon files as colored Nushell tables with nested records and type-aware coloring. Syntax-highlight .nu scripts and embed nuon/nu code blocks in notes using your local Nushell, with graceful fallback to raw text when Nushell isn't installed."
 
     stats: {
-        downloads:  109
+        downloads:  124
         updated_at: 1776106483000
     }
 }

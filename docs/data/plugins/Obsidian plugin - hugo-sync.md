@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hugo-sync
 alt:
   - https://github.com/crayhuang/Obsidian-Hugo-Sync
-downloads: 353
+downloads: 354
 updated at: "2024-09-14T09:57:36Z"
 related to:
   - "[[GitHub - 855516879]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync selected Obsidian notes to a Hugo site, converting Obsidian-style Markdown and frontmatter into Hugo-compatible format. Convert Obsidian tags to Hugo tags, filter out specified headers and their nested content, and export files to a configurable Hugo content path."
 
     stats: {
-        downloads:  353
+        downloads:  354
         updated_at: 1726307856000
     }
 }

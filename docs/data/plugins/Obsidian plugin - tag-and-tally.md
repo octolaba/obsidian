@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tag-and-tally
 alt:
   - https://github.com/matalina/obsidian-tag-and-tally
-downloads: 155
+downloads: 177
 updated at: "2026-06-10T21:59:31Z"
 related to:
   - "[[GitHub - 1243846504]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run Tag and Tally in-vault with inline resolution rolls using full Tag and Tally mechanics (advantage, disadvantage, tag bonuses, qualifiers) and polyhedral dice presets. Open the sidebar to search the bundled rulebook, use lookup tables and card decks for improv, and procedurally generate NPC appearances, traits, and hooks."
 
     stats: {
-        downloads:  155
+        downloads:  177
         updated_at: 1781128771000
     }
 }

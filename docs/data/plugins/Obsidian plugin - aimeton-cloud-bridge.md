@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/aimeton-cloud-bridge
 alt:
   - https://github.com/dimar4713/aimeton-cloud-bridge
-downloads: 22
+downloads: 42
 updated at: "2026-07-12T17:29:32Z"
 related to:
   - "[[GitHub - 1298364855]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect your vault to Yandex Disk and manage cloud files directly from Obsidian. Browse folders in a side panel, upload and download files, preview images, track transfer progress, and use desktop proxy modes (HTTP CONNECT, HTTPS CONNECT, SOCKS5); supports English and Russian."
 
     stats: {
-        downloads:  22
+        downloads:  42
         updated_at: 1783877372000
     }
 }

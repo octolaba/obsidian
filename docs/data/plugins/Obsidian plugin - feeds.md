@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/feeds
 alt:
   - https://github.com/lukemt/obsidian-feeds
-downloads: 3460
+downloads: 3548
 updated at: "2025-04-13T12:07:45Z"
 related to:
   - "[[GitHub - 702614968]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create feeds of topic-specific bullet points in Obsidian by adding a simple feed code block to a topic note. Install the Dataview plugin to enable feed generation."
 
     stats: {
-        downloads:  3460
+        downloads:  3548
         updated_at: 1744546065000
     }
 }

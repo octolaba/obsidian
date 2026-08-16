@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/codex-bridge
 alt:
   - https://github.com/ranjugao/codex-bridge
-downloads: 405
+downloads: 495
 updated at: "2026-05-08T02:45:08Z"
 related to:
   - "[[GitHub - 1232515509]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect your local vault to Codex via a localhost MCP endpoint, allowing Codex to search, read, and write notes without hardcoded paths. Export note context, create request files, append or create notes from bridge replies, and generate AI summaries into daily notes with deduplication and auto-tagging."
 
     stats: {
-        downloads:  405
+        downloads:  495
         updated_at: 1778208308000
     }
 }

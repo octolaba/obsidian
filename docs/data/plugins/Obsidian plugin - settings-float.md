@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/settings-float
 alt:
   - https://github.com/swartzrock/obsidian-settings-float-plugin
-downloads: 334
+downloads: 440
 updated at: "2026-07-22T05:18:33Z"
 related to:
   - "[[GitHub - 1270496677]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Make Obsidian's Settings modal and supported catalog dialogs movable and resizable. Preview theme and plugin changes while keeping your notes and workspace visible by dragging and resizing Settings, theme browser, and plugin browser windows."
 
     stats: {
-        downloads:  334
+        downloads:  440
         updated_at: 1784697513000
     }
 }

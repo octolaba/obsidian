@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/trawl-intelligence
 alt:
   - https://github.com/trawlhq/obsidian-trawl-intelligence
-downloads: 125
+downloads: 138
 updated at: "2026-04-08T15:03:49Z"
 related to:
   - "[[GitHub - 1205025046]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Pull Trawl intelligence reports into your Obsidian vault as Markdown notes. Include AI summaries, Reddit sentiment, insider trading, news, SEC filings, and congressional trading data."
 
     stats: {
-        downloads:  125
+        downloads:  138
         updated_at: 1775660629000
     }
 }

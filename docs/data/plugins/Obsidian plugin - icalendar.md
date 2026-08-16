@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/icalendar
 alt:
   - https://github.com/that-yolanda/obsidian-calendar
-downloads: 338
+downloads: 383
 updated at: "2026-04-24T18:00:10Z"
 related to:
   - "[[GitHub - 1218157385]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize tasks from daily notes and project files in an interactive calendar with month, week, and list views. Create, edit, drag-and-drop to reschedule tasks, color-code by source and status, open notes by date, and view stats and charts with a mobile-friendly layout."
 
     stats: {
-        downloads:  338
+        downloads:  383
         updated_at: 1777053610000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-research-assistant
 alt:
   - https://github.com/interwebalchemy/obsidian-ai-research-assistant
-downloads: 10597
+downloads: 10698
 updated at: "2026-06-05T21:29:28Z"
 related to:
   - "[[GitHub - 597615828]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Build and refine prompts and AI conversations with ChatGPT models inside Obsidian. Save conversations to searchable, taggable notes; edit memory context, mark messages as Core/Remembered/Forgotten, and swap models mid-conversation to compare outputs. Review conversation summaries and raw inputs/outputs directly in notes."
 
     stats: {
-        downloads:  10597
+        downloads:  10698
         updated_at: 1780694968000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/miyo-hakobi
 alt:
   - https://github.com/mmomm-org/miyo-hakobi
-downloads: 98
+downloads: 104
 updated at: "2026-05-13T07:03:21Z"
 related to:
   - "[[GitHub - 1227106271]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Ferry files on a schedule between your Obsidian vault and local filesystem paths with no network surface, cloud APIs, or background daemon. Create per-rule import or export rules (folder, tag, or note sources), opt in per device, and record metadata-only NDJSON audit logs for each run."
 
     stats: {
-        downloads:  98
+        downloads:  104
         updated_at: 1778655801000
     }
 }

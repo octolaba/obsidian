@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/cloud-attach
 alt:
   - https://github.com/curryhendry/obsidian-cloud-attach
-downloads: 363
-updated at: "2026-07-18T15:09:08Z"
+downloads: 430
+updated at: "2026-08-07T12:22:50Z"
 related to:
   - "[[GitHub - 1210005464]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Browse and insert cloud files from WebDAV (OpenList-compatible) and S3 object storage directly into notes via a sidebar file panel. Upload local attachments to the server, generate signed URLs, preview images/video/audio/documents inline, and switch between multiple accounts to free local space."
 
     stats: {
-        downloads:  363
-        updated_at: 1784387348000
+        downloads:  430
+        updated_at: 1786105370000
     }
 }
 ```

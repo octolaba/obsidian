@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-omnivore
 alt:
   - https://github.com/omnivore-app/obsidian-omnivore
-downloads: 132826
+downloads: 132962
 updated at: "2024-07-16T04:15:20Z"
 related to:
   - "[[GitHub - 580674618]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import saved Omnivore articles and highlights into Obsidian as individual pages with metadata, labels, nested highlights, and notes. Create graphs from Omnivore data, filter imports using Omnivore's advanced search syntax, and apply custom templates to shape imported content."
 
     stats: {
-        downloads:  132826
+        downloads:  132962
         updated_at: 1721103320000
     }
 }

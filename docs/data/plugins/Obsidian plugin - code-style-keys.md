@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/code-style-keys
 alt:
   - https://github.com/aiday-mar/code-style-keys
-downloads: 79
+downloads: 95
 updated at: "2026-06-14T09:29:25Z"
 related to:
   - "[[GitHub - 1268750614]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Wrap selected text in backticks with a single keystroke: turn single-line selections into inline code and multi-line selections into fenced code blocks. Remove accidental duplicate trailing backticks to keep code formatting clean."
 
     stats: {
-        downloads:  79
+        downloads:  95
         updated_at: 1781429365000
     }
 }

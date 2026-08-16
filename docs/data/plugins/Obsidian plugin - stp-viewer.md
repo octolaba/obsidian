@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/stp-viewer
 alt:
   - https://github.com/dfceo/obsidian-stp-viewer
-downloads: 77
+downloads: 100
 updated at: "2026-07-01T05:21:28Z"
 related to:
   - "[[GitHub - 1285140826]]"
@@ -36,7 +36,7 @@ plugin: {
     description: "3D STEP file previewer — powered by OpenCascade WASM + Three.js. Rotate, zoom, and inspect CAD models directly in Obsidian. - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  77
+        downloads:  100
         updated_at: 1782883288000
     }
 }

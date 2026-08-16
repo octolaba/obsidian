@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/project-cockpit
 alt:
   - https://github.com/30jannik06/Obsidian-Cockpit
-downloads: 426
+downloads: 525
 updated at: "2026-05-18T10:19:39Z"
 related to:
   - "[[GitHub - 1213261236]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Replace the new tab with a project dashboard that displays project cards with status badges, TODO counts, last-modified times, and status filters. Aggregate open TODOs by project, show recent sessions, a 52-week journal heatmap, link graph, stats bar, backlinks, and one-click quick actions."
 
     stats: {
-        downloads:  426
+        downloads:  525
         updated_at: 1779099579000
     }
 }

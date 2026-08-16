@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/merge-notes
 alt:
   - https://github.com/fnya/merge-notes
-downloads: 15519
+downloads: 15749
 updated at: "2025-05-05T09:34:43Z"
 related to:
   - "[[GitHub - 692704150]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Merge selected notes from the file explorer into a single Markdown file. Rearrange the selection by drag-and-drop, specify the merged note's title, and save the new note in the same folder as the first selected file."
 
     stats: {
-        downloads:  15519
+        downloads:  15749
         updated_at: 1746437683000
     }
 }

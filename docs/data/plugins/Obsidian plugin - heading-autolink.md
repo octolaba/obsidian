@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/heading-autolink
 alt:
   - https://github.com/jaewone/heading-autolink
-downloads: 270
+downloads: 369
 updated at: "2026-07-08T09:40:30Z"
 related to:
   - "[[GitHub - 1264732973]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert heading wikilinks with a picker by typing # after a file wikilink and choose single headings or insert a heading plus its descendant sections. Add missing heading aliases and update matching heading links across the vault when headings are renamed. Preserve text and list formatting and ignore code blocks, YAML frontmatter, and HTML comments."
 
     stats: {
-        downloads:  270
+        downloads:  369
         updated_at: 1783503630000
     }
 }

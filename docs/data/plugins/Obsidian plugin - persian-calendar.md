@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/persian-calendar
 alt:
   - https://github.com/karfekr/obsidian-persian-calendar
-downloads: 10791
-updated at: "2026-07-23T09:57:43Z"
+downloads: 11593
+updated at: "2026-07-26T14:45:58Z"
 related to:
   - "[[GitHub - 751913779]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "View the Persian calendar and Iranian official events alongside Gregorian and Hijri dates in one sidebar calendar. Create daily, weekly, monthly, seasonal and yearly notes with templates that support {{placeholders}}, reference notes via @, and store files in Gregorian for plugin compatibility."
 
     stats: {
-        downloads:  10791
-        updated_at: 1784800663000
+        downloads:  11593
+        updated_at: 1785077158000
     }
 }
 ```

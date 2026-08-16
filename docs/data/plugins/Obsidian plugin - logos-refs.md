@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/logos-refs
 alt:
   - https://github.com/joey-kilgore/logos-refs
-downloads: 1113
+downloads: 1188
 updated at: "2026-04-22T19:28:31Z"
 related to:
   - "[[GitHub - 962103981]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Paste Logos passages as formatted quote blocks with automatic BibTeX extraction and YAML frontmatter metadata compatible with Obsidian properties, Dataview and Bases. Generate bibliographies in MLA/APA/Chicago/LaTeX, export .bib files, track citations with block IDs, handle page ranges and remove duplicates."
 
     stats: {
-        downloads:  1113
+        downloads:  1188
         updated_at: 1776886111000
     }
 }

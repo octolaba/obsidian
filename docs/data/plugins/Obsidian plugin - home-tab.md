@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/home-tab
 alt:
   - https://github.com/olrenso/obsidian-home-tab
-downloads: 73480
+downloads: 74904
 updated at: "2024-10-20T08:11:28Z"
 related to:
   - "[[GitHub - 607245868]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a browser-like Home tab with a search bar and a grid of starred files to quickly open notes and attachments. Filter searches by file type or extension and embed the search bar or recent/starred file lists inside any note."
 
     stats: {
-        downloads:  73480
+        downloads:  74904
         updated_at: 1729411888000
     }
 }

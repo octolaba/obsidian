@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/download-image
 alt:
   - https://github.com/yinshaohua/obsidian-download-image
-downloads: 135
+downloads: 157
 updated at: "2026-05-18T05:45:17Z"
 related to:
   - "[[GitHub - 1205543761]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save remote image links from the active note into your vault and rewrite the note to reference local attachment paths for offline, self-contained notes. Clean unused attachments by scanning for orphaned files, reviewing results, and moving them to .trash or deleting them permanently."
 
     stats: {
-        downloads:  135
+        downloads:  157
         updated_at: 1779083117000
     }
 }

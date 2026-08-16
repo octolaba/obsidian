@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-bullets
 alt:
   - https://github.com/lualum/obsidian-better-bullets
-downloads: 3329
+downloads: 4016
 updated at: "2026-05-31T20:25:36Z"
 related to:
   - "[[GitHub - 1118792922]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform list readability by swapping bullet symbols and scaling items by nesting depth to create a clear visual outline. Auto-format lines to bold higher-level headers, mark notes and examples, highlight term|definition pairs, italicize quotes/parentheses, underline years, and hide control markers while keeping Markdown intact."
 
     stats: {
-        downloads:  3329
+        downloads:  4016
         updated_at: 1780259136000
     }
 }

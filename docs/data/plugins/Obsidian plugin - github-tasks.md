@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/github-tasks
 alt:
   - https://github.com/epistemic-technology/obsidian-github-tasks
-downloads: 471
+downloads: 485
 updated at: "2025-09-08T15:46:39Z"
 related to:
   - "[[GitHub - 1003691630]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import GitHub issues and pull requests into Obsidian as tasks, including items assigned to or opened by you. Map labels and repository names to tags, mark closed issues/PRs completed, choose Tasks Emoji or Dataview formats, and auto-refresh or clear completed on a schedule. Keep a one-way sync from GitHub to Obsidian; completing a task in Obsidian does not update GitHub."
 
     stats: {
-        downloads:  471
+        downloads:  485
         updated_at: 1757346399000
     }
 }

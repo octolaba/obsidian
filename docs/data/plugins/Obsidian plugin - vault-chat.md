@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-chat
 alt:
   - https://github.com/exoascension/vault-chat
-downloads: 9033
+downloads: 9100
 updated at: "2023-06-03T14:22:28Z"
 related to:
   - "[[GitHub - 613095191]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with ChatGPT about your vault or active note, summarize individual notes, and run semantic searches across your files. Index your vault to train the assistant and query your notes conversationally with context-aware responses."
 
     stats: {
-        downloads:  9033
+        downloads:  9100
         updated_at: 1685802148000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vertical-tabs-beta-helper
 alt:
   - https://github.com/oxdc/obsidian-vertical-tabs-beta-helper
-downloads: 2902
+downloads: 3025
 updated at: "2026-06-12T09:53:35Z"
 related to:
   - "[[GitHub - 1045390041]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage beta versions of Vertical Tabs for Obsidian. Easily install, update, and validate beta builds directly within Obsidian."
 
     stats: {
-        downloads:  2902
+        downloads:  3025
         updated_at: 1781258015000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/termux-bridge
 alt:
   - https://github.com/abduznik/obsidian-shell-termux
-downloads: 135
+downloads: 202
 updated at: "2026-05-16T14:17:35Z"
 related to:
   - "[[GitHub - 1119444086]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect Obsidian to Termux via a local HTTP bridge and run shell commands on your Android device directly from notes. Send commands and retrieve output silently over localhost with bi-directional responses and a generated security token to prevent unauthorized access."
 
     stats: {
-        downloads:  135
+        downloads:  202
         updated_at: 1778941055000
     }
 }

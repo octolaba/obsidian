@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-activity
 alt:
   - https://github.com/daniegee/obsidian-vault-activity
-downloads: 264
+downloads: 458
 updated at: "2026-07-06T22:30:43Z"
 related to:
   - "[[GitHub - 1184675996]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track note creation and modification across your vault and surface streaks, rhythm summaries, and activity trends. Open a compact dashboard to scan weekly, monthly, yearly and all-time charts and drill down into note lists for any data point to see which notes drive your activity."
 
     stats: {
-        downloads:  264
+        downloads:  458
         updated_at: 1783377043000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pi-agent
 alt:
   - https://github.com/christianlempa/obsidian-pi
-downloads: 842
+downloads: 1211
 updated at: "2026-07-23T11:00:23Z"
 related to:
   - "[[GitHub - 1228571830]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with Pi in an Obsidian sidebar using context from the current note, linked notes, backlinks, tags, metadata, headings and selected text. Pick Chat, Review, Edit or Full agent modes to control Pi's tools, review diffs, create notes from answers, copy responses and open cited notes."
 
     stats: {
-        downloads:  842
+        downloads:  1211
         updated_at: 1784804423000
     }
 }

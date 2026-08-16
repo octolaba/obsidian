@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/show-all-hidden-files
 alt:
   - https://github.com/anatoliykmetyuk/show-all-hidden-files
-downloads: 909
+downloads: 1053
 updated at: "2026-05-15T05:31:34Z"
 related to:
   - "[[GitHub - 1239391399]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reveal every dot-prefixed hidden file and folder in the vault at any depth, including .git, .obsidian, .env and .DS_Store. Enable Obsidian's unsupported-file visibility while active to show non‑Markdown hidden files, and keep exact names hidden via ignored names; does not modify files."
 
     stats: {
-        downloads:  909
+        downloads:  1053
         updated_at: 1778823094000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/magic-calendar
 alt:
   - https://github.com/vaccarini-lorenzo/MagicCalendar
-downloads: 7519
+downloads: 7547
 updated at: "2023-11-15T20:05:45Z"
 related to:
   - "[[GitHub - 672244077]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Detect calendar events in Markdown using AI/NLP and sync them with Apple Calendar or Google Calendar. Embed events inline with a simple code-block syntax, ban incorrect detections, set custom delimiters for missed patterns, and get two-way sync with Apple (Google uses OAuth and supports push with HTTPS)."
 
     stats: {
-        downloads:  7519
+        downloads:  7547
         updated_at: 1700078745000
     }
 }

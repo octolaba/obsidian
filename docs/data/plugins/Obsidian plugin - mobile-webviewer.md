@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/mobile-webviewer
 alt:
   - https://github.com/arias007/obsidian-mobile-webviewer
-downloads: 300
-updated at: "2026-06-30T06:50:17Z"
+downloads: 498
+updated at: "2026-08-01T21:47:01Z"
 related to:
   - "[[GitHub - 1269660040]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Open a mobile-first web viewer inside Obsidian with two modes: Browser View offers a mobile browser pane with address/search, tabs, history, bookmarks, downloads and one-tap link capture; Note Browser renders a Markdown note that embeds live web content. Edit reader-style web notes or doodles while a Chromium webview runs in the background and auto-saves changes."
 
     stats: {
-        downloads:  300
-        updated_at: 1782802217000
+        downloads:  498
+        updated_at: 1785620821000
     }
 }
 ```

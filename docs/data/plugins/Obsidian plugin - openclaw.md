@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/openclaw
 alt:
   - https://github.com/oscarhenrycollins/obsidianclaw
-downloads: 7362
+downloads: 8164
 updated at: "2026-05-23T06:42:08Z"
 related to:
   - "[[GitHub - 1164303052]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with your OpenClaw AI agent in a persistent Obsidian sidebar and keep conversations synced across devices. See streaming, natively rendered Markdown replies and visibility into files read/written, commands run, and pages fetched. Send any note as context with one command."
 
     stats: {
-        downloads:  7362
+        downloads:  8164
         updated_at: 1779518528000
     }
 }

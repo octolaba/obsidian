@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/findoc
 alt:
   - https://github.com/studiowebux/obsidian-findoc
-downloads: 9554
+downloads: 9657
 updated at: "2026-02-08T16:51:49Z"
 related to:
   - "[[GitHub - 625774333]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Read and edit CSV files inside Obsidian. Generate line, pie and radar charts plus table reports from CSV data. Manage custom models, split data by quarter/week, analyze categories and value ranges, and resize charts with polished table views on desktop and mobile."
 
     stats: {
-        downloads:  9554
+        downloads:  9657
         updated_at: 1770569509000
     }
 }

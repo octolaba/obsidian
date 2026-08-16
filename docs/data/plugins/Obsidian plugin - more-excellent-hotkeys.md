@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/more-excellent-hotkeys
 alt:
   - https://github.com/kraxen72/more-excellent-hotkeys
-downloads: 679
+downloads: 772
 updated at: "2026-05-27T08:03:56Z"
 related to:
   - "[[GitHub - 868182814]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle common Markdown formatting (bold, italics, highlight, inline code, comment, strikethrough, underscore) using commands that expand or contract selections to the nearest word while preserving cursor position. Manage task checkboxes with a fuzzy picker, change checkbox types or promote bullet lines to tasks, and access commands from the editor context menu."
 
     stats: {
-        downloads:  679
+        downloads:  772
         updated_at: 1779869036000
     }
 }

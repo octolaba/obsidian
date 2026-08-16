@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-rich-links
 alt:
   - https://github.com/dhamaniasad/obsidian-rich-links
-downloads: 31945
+downloads: 32102
 updated at: "2023-05-01T15:33:27Z"
 related to:
   - "[[GitHub - 388325414]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert URLs in your notes into Notion-style rich link previews. Generate inline preview cards for links with a single command to show a cleaner, more informative view of external content."
 
     stats: {
-        downloads:  31945
+        downloads:  32102
         updated_at: 1682955207000
     }
 }

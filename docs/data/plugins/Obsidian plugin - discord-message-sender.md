@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/discord-message-sender
 alt:
   - https://github.com/okawak/discord_message_sender
-downloads: 768
+downloads: 815
 updated at: "2026-07-04T04:56:04Z"
 related to:
   - "[[GitHub - 989511082]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Discord messages into Obsidian by converting channel posts into dated Markdown files automatically on startup or via the command palette. Clip web pages from URLs with the !url command, process prefixed commands as custom handlers, and send completion notifications back to Discord."
 
     stats: {
-        downloads:  768
+        downloads:  815
         updated_at: 1783140964000
     }
 }

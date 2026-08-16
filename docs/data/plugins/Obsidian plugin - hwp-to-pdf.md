@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hwp-to-pdf
 alt:
   - https://github.com/kathar0s/obsidian-hwp-to-pdf
-downloads: 69
+downloads: 88
 updated at: "2026-06-24T14:23:57Z"
 related to:
   - "[[GitHub - 1279018543]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Korean HWP/HWPX files to PDF or Markdown offline as soon as they appear in your vault or via the command palette. Create image-based searchable PDFs with an invisible text layer, compact text-based PDFs, or small Markdown notes with reconstructed paragraphs and tables, all rendered locally by a Rust+WASM engine."
 
     stats: {
-        downloads:  69
+        downloads:  88
         updated_at: 1782311037000
     }
 }

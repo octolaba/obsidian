@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-tables
 alt:
   - https://github.com/yaye-work/obsidian-better-tables
-downloads: 940
+downloads: 1762
 updated at: "2026-07-06T13:24:18Z"
 related to:
   - "[[GitHub - 1283798424]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Click to edit any cell, with Tab / Enter to move between cells Drag dividers to resize columns and rows Drag the edge handles to reorder columns and rows Hover insert dots to add a column or row between any two Select + delete a row or column (click its handle, then Delete) Add columns and rows from the + pills on the right and bottom edges Horizontal scrolling for wide tables Column widths and row heights are remembered --- The same table tool is now included in my CanvasKit Plugin!"
 
     stats: {
-        downloads:  940
+        downloads:  1762
         updated_at: 1783344258000
     }
 }

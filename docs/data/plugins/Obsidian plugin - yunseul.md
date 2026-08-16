@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/yunseul
 alt:
   - https://github.com/zaemyung/yunseul
-downloads: 129
+downloads: 188
 updated at: "2026-07-06T07:14:47Z"
 related to:
   - "[[GitHub - 1261438557]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with your Obsidian vault using a local OpenAI-compatible LLM server (LM Studio, Ollama, llama.cpp server, vLLM, LocalAI) or the Claude Code CLI."
 
     stats: {
-        downloads:  129
+        downloads:  188
         updated_at: 1783322087000
     }
 }

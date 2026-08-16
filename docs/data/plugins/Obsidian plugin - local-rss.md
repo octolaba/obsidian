@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/local-rss
 alt:
   - https://github.com/onikun94/obsidian-local-rss
-downloads: 3160
+downloads: 3229
 updated at: "2026-03-11T10:14:50Z"
 related to:
   - "[[GitHub - 979858668]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save articles from RSS feeds as local Markdown files with customizable file names and content templates. Manage multiple feeds with automatic periodic updates, front matter, and tag support. Use template variables for title, link, author, dates, images, description, and content."
 
     stats: {
-        downloads:  3160
+        downloads:  3229
         updated_at: 1773224090000
     }
 }

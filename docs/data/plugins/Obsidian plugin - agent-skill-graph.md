@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/agent-skill-graph
 alt:
   - https://github.com/hanamizuki/obsidian-skill-graph
-downloads: 340
+downloads: 470
 updated at: "2026-05-17T11:10:57Z"
 related to:
   - "[[GitHub - 1198057072]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize OpenClaw and Claude Code agent skill structures in Obsidian's graph view by parsing SKILL.md frontmatter to label skill root nodes and auto-link referenced files. Color-code nodes by type (skill root vs referenced) and keep all changes read-only and in-memory."
 
     stats: {
-        downloads:  340
+        downloads:  470
         updated_at: 1779016257000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/frontmatter-cleaner
 alt:
   - https://github.com/sharfaroz7/frontmatter-cleaner
-downloads: 13
+downloads: 35
 updated at: "2026-07-19T11:03:55Z"
 related to:
   - "[[GitHub - 1297903775]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Review and remove properties from the current note without opening the frontmatter block. View a tap-friendly list showing each property's value, select rows to delete in bulk, and preserve the remaining frontmatter's formatting and order. There are plugins that help you clean up the entire vault and you can do some cleaning from the \"show all properties\" default option as well. But that becomes an entire task of its own and if you have accumulated hundreds of property names across your vault, this can cause a lot of decision fatigue and planning to run the right rule without adversely impacting any note. So thats where my plugin comes in handy, it is a quick fix of your active file so that you can return to your actual plan for the note without getting side tracked by bulk cleaning."
 
     stats: {
-        downloads:  13
+        downloads:  35
         updated_at: 1784459035000
     }
 }

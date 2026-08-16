@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/image-transcriber
 alt:
   - https://github.com/dsebastien/obsidian-transcriber
-downloads: 1105
-updated at: "2026-07-17T07:42:12Z"
+downloads: 1276
+updated at: "2026-07-29T07:47:55Z"
 related to:
   - "[[GitHub - 1175118262]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Transcribe images to structured Markdown with local Ollama vision models, extracting headings, lists, tables and code blocks. Batch-transcribe folders with per-file progress, create a .md beside each image, and manage models locally while keeping all processing on your machine."
 
     stats: {
-        downloads:  1105
-        updated_at: 1784274132000
+        downloads:  1276
+        updated_at: 1785311275000
     }
 }
 ```

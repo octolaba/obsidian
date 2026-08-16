@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsync-webdav-gpg
 alt:
   - https://github.com/normanify/obsync_webdav_gpg
-downloads: 72
+downloads: 119
 updated at: "2026-07-14T13:27:50Z"
 related to:
   - "[[GitHub - 1290528605]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Encrypt your Obsidian vault with Post Quantum and sync only ciphertext to any WebDAV server while keeping private keys local. Hide filenames and folder structure via per-segment AES-256-GCM path encryption, and perform bidirectional incremental sync with conflict detection and optional auto-sync."
 
     stats: {
-        downloads:  72
+        downloads:  119
         updated_at: 1784035670000
     }
 }

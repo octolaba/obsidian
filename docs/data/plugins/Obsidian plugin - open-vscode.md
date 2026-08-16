@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/open-vscode
 alt:
   - https://github.com/nomarcub/obsidian-open-vscode
-downloads: 46217
-updated at: "2026-06-08T21:56:04Z"
+downloads: 47250
+updated at: "2026-08-02T21:06:19Z"
 related to:
   - "[[GitHub - 386433147]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Open your vault in Visual Studio Code from a ribbon button, file-explorer context menu, or commands. Launch via the code CLI or vscode:// URL, assign hotkeys, and use VS Code for git, formatting, linting and other workspace workflows."
 
     stats: {
-        downloads:  46217
-        updated_at: 1780955764000
+        downloads:  47250
+        updated_at: 1785704779000
     }
 }
 ```

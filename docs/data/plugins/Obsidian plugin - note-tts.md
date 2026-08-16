@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-tts
 alt:
   - https://github.com/sourit2001/obsidian-note-tts
-downloads: 117
+downloads: 141
 updated at: "2026-06-30T14:51:04Z"
 related to:
   - "[[GitHub - 1258260680]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert the current note or selected text to speech via your TTS provider, save the audio into your vault and open a built-in player. Use MiniMax, Replicate or a custom HTTP provider, preview cleaned text before sending, and trigger conversion from the command palette, sidebar, file menu or note context menu."
 
     stats: {
-        downloads:  117
+        downloads:  141
         updated_at: 1782831064000
     }
 }

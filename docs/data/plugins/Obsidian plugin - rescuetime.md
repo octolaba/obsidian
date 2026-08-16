@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rescuetime
 alt:
   - https://github.com/tatz884/RescueTime-Obsidian
-downloads: 2893
+downloads: 2902
 updated at: "2024-01-22T09:04:40Z"
 related to:
   - "[[GitHub - 685468872]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View RescueTime activity logs and interactive graphs directly inside Obsidian. Display today's dashboard or query custom date ranges to show activity summaries and visualizations alongside your notes."
 
     stats: {
-        downloads:  2893
+        downloads:  2902
         updated_at: 1705914280000
     }
 }

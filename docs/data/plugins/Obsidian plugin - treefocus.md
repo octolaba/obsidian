@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/treefocus
 alt:
   - https://github.com/iosonntag/obsidian-plugin-treefocus
-downloads: 7175
+downloads: 7292
 updated at: "2026-06-10T01:13:18Z"
 related to:
   - "[[GitHub - 692549645]]"
@@ -36,7 +36,7 @@ plugin: {
     description: "Highlight, dim & style your files & folders in the file explorer (navigation) based on predefined or custom rules."
 
     stats: {
-        downloads:  7175
+        downloads:  7292
         updated_at: 1781053998000
     }
 }

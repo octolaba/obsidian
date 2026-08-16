@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-languagetool-plugin
 alt:
   - https://github.com/clemens-e/obsidian-languagetool-plugin
-downloads: 296351
+downloads: 299303
 updated at: "2026-02-16T00:07:47Z"
 related to:
   - "[[GitHub - 343574212]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Check grammar and spelling with LanguageTool directly inside Obsidian for whole documents or selected text. View red underlines, open suggestion popovers to apply corrections or add words to a personal dictionary, and optionally connect to a self-hosted LanguageTool server for privacy."
 
     stats: {
-        downloads:  296351
+        downloads:  299303
         updated_at: 1771200467000
     }
 }

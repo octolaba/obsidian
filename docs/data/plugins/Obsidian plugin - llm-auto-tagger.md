@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/llm-auto-tagger
 alt:
   - https://github.com/matbo1/llm-auto-tagger
-downloads: 204
+downloads: 232
 updated at: "2026-06-22T09:50:13Z"
 related to:
   - "[[GitHub - 1239659196]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Auto-tag notes using your configured LLM to pick matching tags from your vault and write them to frontmatter.tags. Keep existing frontmatter fields and tags, run automatically after a note is idle, and support OpenAI-compatible, Anthropic, Google Gemini and other common providers."
 
     stats: {
-        downloads:  204
+        downloads:  232
         updated_at: 1782121813000
     }
 }

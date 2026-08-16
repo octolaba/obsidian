@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-tasks-plugin
 alt:
   - https://github.com/obsidian-tasks-group/obsidian-tasks
-downloads: 3865744
+downloads: 4007449
 updated at: "2026-07-23T13:12:56Z"
 related to:
   - "[[GitHub - 349537651]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track tasks across your vault and query them with flexible search blocks to gather filtered lists anywhere. Mark tasks done from any view and update the original Markdown file; support due dates, recurring tasks, done dates, and partial checklist items. Use the create/edit command to add or modify tasks."
 
     stats: {
-        downloads:  3865744
+        downloads:  4007449
         updated_at: 1784812376000
     }
 }

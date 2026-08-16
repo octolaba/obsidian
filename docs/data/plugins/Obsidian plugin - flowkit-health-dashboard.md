@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/flowkit-health-dashboard
 alt:
   - https://github.com/israerusan/flowkit-health-dashboard
-downloads: 51
-updated at: "2026-07-05T14:01:33Z"
+downloads: 113
+updated at: "2026-08-03T22:17:30Z"
 related to:
   - "[[GitHub - 1289471375]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Score every installed community plugin on five signals — Quality, Maintenance, Performance, Popularity, and Compatibility — and display a blended overall score plus vault-wide averages and at-risk counts. Show maintained/aging/unmaintained badges, update and sideloaded flags, and provide search, filter, sort and hoverable score explanations."
 
     stats: {
-        downloads:  51
-        updated_at: 1783260093000
+        downloads:  113
+        updated_at: 1785795450000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/github-copilot-integration
 alt:
   - https://github.com/go2engle/obsidian-github-copilot-integration
-downloads: 854
+downloads: 1044
 updated at: "2026-05-19T15:13:35Z"
 related to:
   - "[[GitHub - 1156570954]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with your documents, generate or rewrite content, and insert AI responses directly into notes via a persistent sidebar with streaming output and automatic document context. Use inline edits, send selections to chat, and run built-in actions like summarize, continue writing, fix grammar, extract tasks, generate code, or plan projects."
 
     stats: {
-        downloads:  854
+        downloads:  1044
         updated_at: 1779203615000
     }
 }

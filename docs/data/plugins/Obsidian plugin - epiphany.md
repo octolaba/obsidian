@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/epiphany
 alt:
   - https://github.com/epiphany-notes/epiphany-obsidian-plugin
-downloads: 722
+downloads: 755
 updated at: "2026-05-12T11:51:31Z"
 related to:
   - "[[GitHub - 830132921]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Dictate voice notes from iPhone or Apple Watch and attach screenshots, links, photos, or files for context. Send transcribed notes as markdown into your Obsidian vault—append to daily notes, route to project files, and sync automatically even when offline."
 
     stats: {
-        downloads:  722
+        downloads:  755
         updated_at: 1778586691000
     }
 }

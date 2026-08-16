@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simply-scroll
 alt:
   - https://github.com/hornatx/simply-scroll
-downloads: 291
+downloads: 336
 updated at: "2026-06-05T22:24:34Z"
 related to:
   - "[[GitHub - 1246715859]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Restore exact reading and editing scroll positions when switching between Markdown files to return you instantly to where you left off. Prevent flicker and layout shifts by cloaking and smoothing editor opacity and blurring aggressive focus during load, and auto-update and clean saved scroll states on file rename or delete."
 
     stats: {
-        downloads:  291
+        downloads:  336
         updated_at: 1780698274000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hotkey-helper
 alt:
   - https://github.com/pjeby/hotkey-helper
-downloads: 83386
+downloads: 86215
 updated at: "2026-07-05T22:48:13Z"
 related to:
   - "[[GitHub - 348204125]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage plugins' hotkeys and settings from the Core and Community plugin lists using icons beside each plugin to open its options or hotkey assignments. Hover icons to see command counts, assigned hotkeys and conflicts; icons update automatically and highlight conflicts."
 
     stats: {
-        downloads:  83386
+        downloads:  86215
         updated_at: 1783291693000
     }
 }

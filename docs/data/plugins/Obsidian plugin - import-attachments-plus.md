@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/import-attachments-plus
 alt:
   - https://github.com/alberti42/obsidian-import-attachments-plus
-downloads: 3893
+downloads: 3941
 updated at: "2024-11-17T21:31:31Z"
 related to:
   - "[[GitHub - 793755452]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import and organize attachments by moving or copying files into your vault on drag-and-drop or paste. Embed or link files, set folder locations and naming conventions, and manage attachment folders with rename, delete, and visibility controls. Open files externally or reveal them in your system file manager."
 
     stats: {
-        downloads:  3893
+        downloads:  3941
         updated_at: 1731879091000
     }
 }

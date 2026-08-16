@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-commit
 alt:
   - https://github.com/arumata/obsidian-ai-commit
-downloads: 68
+downloads: 92
 updated at: "2026-07-02T07:03:29Z"
 related to:
   - "[[GitHub - 1286798415]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate meaningful git commit messages from staged changes directly in the Obsidian Git source control view. Click the sparkle button or run the command to send the staged diff to DeepSeek and auto-fill the commit area with a customizable AI-written message."
 
     stats: {
-        downloads:  68
+        downloads:  92
         updated_at: 1782975809000
     }
 }

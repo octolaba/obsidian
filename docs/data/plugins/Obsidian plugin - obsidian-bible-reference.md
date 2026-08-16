@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-bible-reference
 alt:
   - https://github.com/tim-hub/obsidian-bible-reference
-downloads: 57051
-updated at: "2026-07-14T23:48:53Z"
+downloads: 58254
+updated at: "2026-08-07T08:55:53Z"
 related to:
   - "[[GitHub - 407984639]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Insert Bible verse references and receive automatic verse suggestions as you type (e.g., --John1:1). Fetch a verse of the day with --vod and paste full verses into notes for quick, inline Bible study and referencing."
 
     stats: {
-        downloads:  57051
-        updated_at: 1784072933000
+        downloads:  58254
+        updated_at: 1786092953000
     }
 }
 ```

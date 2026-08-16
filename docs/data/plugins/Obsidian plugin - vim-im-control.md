@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vim-im-control
 alt:
   - https://github.com/hideakitai/obsidian-vim-im-control
-downloads: 4088
+downloads: 4183
 updated at: "2026-04-05T05:45:21Z"
 related to:
   - "[[GitHub - 716401471]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Switch input method automatically when entering and leaving Vim insert mode, restoring the previous IM on return. Support macOS, Windows, and Linux with common controllers (im-select, fcitx5-remote, fcitx-remote, ibus) and custom commands; Linux Snap/Flatpak installs are not supported."
 
     stats: {
-        downloads:  4088
+        downloads:  4183
         updated_at: 1775367921000
     }
 }

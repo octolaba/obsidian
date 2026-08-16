@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/santi-younger-tools
 alt:
   - https://github.com/santiyounger/obsidian-santi-younger-tools
-downloads: 496
-updated at: "2026-06-15T19:49:36Z"
+downloads: 668
+updated at: "2026-08-05T00:20:42Z"
 related to:
   - "[[GitHub - 1256162284]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "For existing Santi Younger buyers only. Sign in with a one-time email code to access the catalog linked to your account. After signing in, you can install and update the Santi Younger plugins and themes you have already purchased. The catalog lists Santi Younger products only."
 
     stats: {
-        downloads:  496
-        updated_at: 1781552976000
+        downloads:  668
+        updated_at: 1785889242000
     }
 }
 ```

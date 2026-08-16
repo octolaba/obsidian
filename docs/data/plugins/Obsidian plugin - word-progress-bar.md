@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/word-progress-bar
 alt:
   - https://github.com/somenoy/obsidian-word-progress-bar
-downloads: 139
+downloads: 167
 updated at: "2026-05-18T10:25:28Z"
 related to:
   - "[[GitHub - 1199244861]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track writing progress with a miniature progress bar in the status bar. Set a word-count goal and watch the bar fill in real time, turning green when you hit your target."
 
     stats: {
-        downloads:  139
+        downloads:  167
         updated_at: 1779099928000
     }
 }

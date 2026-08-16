@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/extreme-wikilinks
 alt:
   - https://github.com/bobstanton/extreme-wikilinks
-downloads: 101
-updated at: "2026-07-08T12:28:49Z"
+downloads: 164
+updated at: "2026-08-01T11:36:33Z"
 related to:
   - "[[GitHub - 1282336110]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Customize Wikilink display using linked file frontmatter and templates to render icons, addresses, or custom labels inline. Reference built-in values (title, basename, path, wikilink, linkDestination, frontmatter), access frontmatter properties (use bracket syntax for names with spaces), and use JavaScript expressions for conditional output."
 
     stats: {
-        downloads:  101
-        updated_at: 1783513729000
+        downloads:  164
+        updated_at: 1785584193000
     }
 }
 ```

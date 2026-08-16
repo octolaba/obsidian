@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-llm
 alt:
   - https://github.com/farlenkov/obsidian-canvas-llm
-downloads: 2443
-updated at: "2026-07-15T17:01:06Z"
+downloads: 2685
+updated at: "2026-07-31T09:51:33Z"
 related to:
   - "[[GitHub - 1030534270]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create a canvas-style visual workspace to build branching LLM conversations using Input, File, Web and Generate nodes. Call different models per node, combine files and web content into prompts, and connect your API keys to run non-linear chat flows for research and complex tasks."
 
     stats: {
-        downloads:  2443
-        updated_at: 1784134866000
+        downloads:  2685
+        updated_at: 1785491493000
     }
 }
 ```

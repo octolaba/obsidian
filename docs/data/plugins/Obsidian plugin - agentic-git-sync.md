@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/agentic-git-sync
 alt:
   - https://github.com/leweii/agentic-git-sync
-downloads: 448
+downloads: 492
 updated at: "2026-07-07T09:18:04Z"
 related to:
   - "[[GitHub - 1243065333]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault two-way with GitHub, map folders to independent repositories with real submodule support, and manage folder-specific repos from a single vault. Recover Git failures automatically via an AI agent that classifies errors and applies fixes, and resolve conflicts with a three‑pane semantic merge UI that explains AI choices."
 
     stats: {
-        downloads:  448
+        downloads:  492
         updated_at: 1783415884000
     }
 }

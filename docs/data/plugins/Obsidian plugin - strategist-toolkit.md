@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/strategist-toolkit
 alt:
   - https://github.com/psovit/obs-plg-bmc
-downloads: 195
+downloads: 214
 updated at: "2026-04-02T16:53:54Z"
 related to:
   - "[[GitHub - 1199454867]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate a color-coded Business Model Canvas as an Obsidian Canvas file with one click or via the command palette. Create nine emoji-labeled, color-distinct cards laid out in the classic BMC grid with guiding questions and \"[Type here…]\" placeholders, and name the file by project and date in the current folder."
 
     stats: {
-        downloads:  195
+        downloads:  214
         updated_at: 1775148834000
     }
 }

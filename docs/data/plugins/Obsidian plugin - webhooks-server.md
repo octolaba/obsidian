@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/webhooks-server
 alt:
   - https://github.com/khabaroff-studio/obsidian-webhooks-server
-downloads: 156
+downloads: 189
 updated at: "2026-05-22T15:28:36Z"
 related to:
   - "[[GitHub - 1152471751]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn external HTTP events into Markdown notes in your vault in real time. Deliver events instantly via Server-Sent Events (SSE) with polling fallback, guarantee exactly-once delivery using ACKs, and store event data encrypted at rest for self-hosted control. Use passwordless email magic links for secure access."
 
     stats: {
-        downloads:  156
+        downloads:  189
         updated_at: 1779463716000
     }
 }

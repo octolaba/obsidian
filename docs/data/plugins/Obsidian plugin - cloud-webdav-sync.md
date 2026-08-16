@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cloud-webdav-sync
 alt:
   - https://github.com/seventeen-tan/cloud-webdav-sync
-downloads: 18
+downloads: 36
 updated at: "2026-07-16T06:27:12Z"
 related to:
   - "[[GitHub - 1302263284]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Cloud WebDAV Sync is an experimental synchronization plugin that stores notes and attachments in a WebDAV-backed repository. Instead of directly overwriting files in a plain remote folder, it uses content-addressed objects, verified commit snapshots, file-tree planning, server capability checks, and guarded remote HEAD updates to reduce accidental data loss. It can run manual checks from the ribbon or command palette, perform automatic checks while the app is running, and show sync state through a desktop status bar and a cross-platform sync center. The sync center includes pending changes, history, diagnostics, server capability reports, and conflict handling. Markdown conflicts can be reviewed with local and remote line-numbered previews, diff highlighting, synchronized scrolling, and explicit local/remote resolution choices before sync continues. Passwords are stored with the app’s SecretStorage API, logs redact credentials and tokens, HTTPS is enforced for remote servers, and large"
 
     stats: {
-        downloads:  18
+        downloads:  36
         updated_at: 1784183232000
     }
 }

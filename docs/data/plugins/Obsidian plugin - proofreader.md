@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/proofreader
 alt:
   - https://github.com/chrisgrieser/obsidian-proofreader
-downloads: 3397
+downloads: 3461
 updated at: "2026-05-13T13:14:10Z"
 related to:
   - "[[GitHub - 954701817]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert AI proofreading suggestions inline as ==highlights== for additions and ~~strikethroughs~~ for removals. Accept or reject suggestions with one hotkey, get concise style comments, and run checks via your LLM API key (network requests may incur usage costs)."
 
     stats: {
-        downloads:  3397
+        downloads:  3461
         updated_at: 1778678050000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bionic-reading
 alt:
   - https://github.com/omeg-lu/obsidian-bionic-reading
-downloads: 1260
+downloads: 1420
 updated at: "2026-03-05T19:39:25Z"
 related to:
   - "[[GitHub - 1173787793]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Apply a bionic reading effect in Reading View by bolding the initial portion of words to create fixation points and help eyes move through text faster. Process only Latin-alphabet text, skip code/math/SVG elements, keep Markdown files unchanged, and adjust fixation strength."
 
     stats: {
-        downloads:  1260
+        downloads:  1420
         updated_at: 1772739565000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lugji
 alt:
   - https://github.com/lugji-app/obsidian-lugji
-downloads: 65
+downloads: 72
 updated at: "2026-06-10T00:47:39Z"
 related to:
   - "[[GitHub - 1264109669]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Lugji is an on-device Cantonese + Mandarin meeting recorder for iPhone. It records, transcribes, and writes a clean Markdown note for every meeting straight into your Obsidian vault — your audio never leaves your device, and transcription runs fully on-device. This power-user layer adds, on top of that vault: • A metadata side-pane for each meeting (date, attendees, topics, language, duration). • 4-tier smart links — topics, attendees, daily note, and transcript matches. • A sortable meetings dashboard via a lugji-meetings codeblock. • Version-mismatch banners that flag schema differences. The Lugji iOS app's vault integration works without it — install for the power-user features. The plugin makes no network requests. Mac, iPhone, and iPad."
 
     stats: {
-        downloads:  65
+        downloads:  72
         updated_at: 1781052459000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pandoc-export-buttons
 alt:
   - https://github.com/kebl3541/Obsidian-Pandoc-Export-Buttons
-downloads: 167
+downloads: 284
 updated at: "2026-07-13T13:43:09Z"
 related to:
   - "[[GitHub - 1294086425]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export notes to Word, PDF, HTML, EPUB, LaTeX or any Pandoc format via one-click sidebar buttons or commands. Expand transclusions, resolve images and citations, preserve preview output, produce LaTeX-quality PDFs with a TeX engine or fall back to Chromium rendering, and set export location or extra Pandoc args."
 
     stats: {
-        downloads:  167
+        downloads:  284
         updated_at: 1783950189000
     }
 }

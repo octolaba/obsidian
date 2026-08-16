@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/people-graph
 alt:
   - https://github.com/yashmurty/obsidian-people-graph
-downloads: 221
+downloads: 288
 updated at: "2026-05-31T12:50:59Z"
 related to:
   - "[[GitHub - 1208288989]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize your personal network as an interactive force-directed graph with photo nodes, relationship edges, and company-based clustering. Position people by closeness around a central You node, hover for name/company/role/closeness, click to open notes, and pan/zoom with live updates."
 
     stats: {
-        downloads:  221
+        downloads:  288
         updated_at: 1780231859000
     }
 }

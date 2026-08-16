@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-darkmodifier
 alt:
   - https://github.com/0qln/obsidian-image-darkmodifier
-downloads: 554
+downloads: 585
 updated at: "2026-01-31T13:34:12Z"
 related to:
   - "[[GitHub - 1005108431]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Apply visual filters to Markdown image links, including a darkmode shorthand that inverts images, removes backgrounds and boosts lightness. Add filters in the image alias/alt text (e.g., @darkmode or @invert) and chain multiple filters left-to-right; support local embeds, Markdown links and remote images."
 
     stats: {
-        downloads:  554
+        downloads:  585
         updated_at: 1769866452000
     }
 }

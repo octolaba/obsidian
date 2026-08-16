@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-share
 alt:
   - https://github.com/iqijun/obsidian-image-share
-downloads: 540
+downloads: 566
 updated at: "2025-05-01T15:50:54Z"
 related to:
   - "[[GitHub - 928409265]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Share selected text as styled images directly from your notes. Copy images to clipboard, download them, and zoom previews to adjust appearance before saving."
 
     stats: {
-        downloads:  540
+        downloads:  566
         updated_at: 1746114654000
     }
 }

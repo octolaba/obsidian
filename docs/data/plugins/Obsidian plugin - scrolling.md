@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/scrolling
 alt:
   - https://github.com/omeyenburg/obsidian-scrolling
-downloads: 6543
-updated at: "2026-06-12T21:58:08Z"
+downloads: 7129
+updated at: "2026-07-31T22:24:32Z"
 related to:
   - "[[GitHub - 988286322]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Improve scrolling and navigation in Obsidian with centered-cursor editing, disabling code wrapping, auto-save/restore of scroll positions, Ctrl-scroll image zoom. Control scrollbar visibility, set line-length limits, adjust mouse/touchpad speed, and enable Vim-like reading keybinds."
 
     stats: {
-        downloads:  6543
-        updated_at: 1781301488000
+        downloads:  7129
+        updated_at: 1785536672000
     }
 }
 ```

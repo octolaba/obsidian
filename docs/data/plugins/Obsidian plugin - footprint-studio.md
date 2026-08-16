@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/footprint-studio
 alt:
   - https://github.com/vsme/obsidian-footprint-studio
-downloads: 16
+downloads: 32
 updated at: "2026-07-20T08:59:55Z"
 related to:
   - "[[GitHub - 1304043597]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and edit travel footprint notes with an interactive map, structured frontmatter, and managed photo attachments. View all footprints on a single map with draft markers, import/reorder/caption multiple photos with EXIF GPS/timestamp support, and search or reverse-geocode places. Link footprints to Markdown/MDX posts and keep images in dedicated attachment folders; interface available in Simplified Chinese and works on desktop and mobile."
 
     stats: {
-        downloads:  16
+        downloads:  32
         updated_at: 1784537995000
     }
 }

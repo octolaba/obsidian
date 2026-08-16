@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/knowledge-graph-analysis
 alt:
   - https://github.com/luolanaatud/obsidian-graph-analysis
-downloads: 1418
+downloads: 1874
 updated at: "2026-07-15T03:40:32Z"
 related to:
   - "[[GitHub - 950641065]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn your vault into a knowledge graph and compute graph-theory metrics to give AI structured, quantitative context. Visualize a force-directed network sized and colored by centrality, explore semantic, structure and evolution analyses, add AI-suggested links, surface priority review cards, and get per-note AI summaries."
 
     stats: {
-        downloads:  1418
+        downloads:  1874
         updated_at: 1784086832000
     }
 }

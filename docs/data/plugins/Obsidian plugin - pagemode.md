@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pagemode
 alt:
   - https://github.com/lugglory/pagemode
-downloads: 278
+downloads: 289
 updated at: "2026-06-26T02:58:31Z"
 related to:
   - "[[GitHub - 1270797944]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Navigate Markdown notes with a left-side file position bar, and gather text with one click."
 
     stats: {
-        downloads:  278
+        downloads:  289
         updated_at: 1782442711000
     }
 }

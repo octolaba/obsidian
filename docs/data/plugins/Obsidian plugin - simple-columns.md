@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-columns
 alt:
   - https://github.com/josie1902/Simple-Columns
-downloads: 21518
+downloads: 22244
 updated at: "2025-11-26T15:54:24Z"
 related to:
   - "[[GitHub - 997817988]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create resizable, customizable column layouts in notes using a simple markdown syntax or command. Insert up to four columns with unique IDs, embed code blocks, and set widths via YAML ratios. Resize columns and add borders for clearer structure."
 
     stats: {
-        downloads:  21518
+        downloads:  22244
         updated_at: 1764172464000
     }
 }

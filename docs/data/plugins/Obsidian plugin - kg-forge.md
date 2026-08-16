@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kg-forge
 alt:
   - https://github.com/jimmycarroll2021/obsidian-kg-forge
-downloads: 30
+downloads: 63
 updated at: "2026-07-05T07:36:25Z"
 related to:
   - "[[GitHub - 1289754962]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extract typed subject–predicate–object triples from YAML frontmatter, Connections fields, and wikilinks, and attach provenance (source, confidence, timestamp, lineage) to every fact. Build graph tools locally: generate GraphRAG prompts from k‑hop subgraphs, validate vault schema and competency‑question coverage, and export graphs as Neo4j Cypher or Dataview templates."
 
     stats: {
-        downloads:  30
+        downloads:  63
         updated_at: 1783236985000
     }
 }

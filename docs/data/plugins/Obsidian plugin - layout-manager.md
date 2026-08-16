@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/layout-manager
 alt:
   - https://github.com/shadiestgoat/obsidian-layout-manager
-downloads: 547
+downloads: 559
 updated at: "2025-06-22T17:09:03Z"
 related to:
   - "[[GitHub - 966745091]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set Obsidian layouts based on the file you open, restoring splits, split direction and ratios, file groupings, editor mode, tab order and non-file views. Save layouts from a single file, match files with glob patterns, load layouts ad-hoc or automatically on open, and restrict layouts to specific platforms."
 
     stats: {
-        downloads:  547
+        downloads:  559
         updated_at: 1750612143000
     }
 }

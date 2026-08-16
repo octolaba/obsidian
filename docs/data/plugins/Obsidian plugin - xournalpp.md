@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/xournalpp
 alt:
   - https://github.com/jonjampen/obsidian-xournalpp
-downloads: 9733
+downloads: 9882
 updated at: "2025-06-21T06:53:44Z"
 related to:
   - "[[GitHub - 794979480]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export Xournal++ notes to PDF automatically whenever they change, enabling links, embeds, and in-Obsidian previewing. Create .xopp files from the ribbon, file explorer, or command palette and open files directly in Xournal++ from PDF preview or file explorer. Back up your vault to avoid overwriting PDFs that share names and locations with .xopp files."
 
     stats: {
-        downloads:  9733
+        downloads:  9882
         updated_at: 1750488824000
     }
 }

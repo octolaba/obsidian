@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/csv-modern-codeblock
 alt:
   - https://github.com/vitovt/obsidian-csv-modern-codeblock
-downloads: 321
+downloads: 370
 updated at: "2026-05-19T21:36:14Z"
 related to:
   - "[[GitHub - 1193617296]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render CSV/TSV fenced code blocks as interactive, scrollable tables with sticky headers and automatic link detection. Parse quoted, escaped, and multiline fields correctly; auto-detect delimiters; report malformed CSV with row and field details; add a toolbar for sorting and per-column filtering. Also supports safe per-cell editing."
 
     stats: {
-        downloads:  321
+        downloads:  370
         updated_at: 1779226574000
     }
 }

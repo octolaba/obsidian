@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cornell-notes-pro
 alt:
   - https://github.com/m-abdullahtariq/Cornell-Note-Obsidian-Plugin
-downloads: 445
+downloads: 571
 updated at: "2026-06-12T07:43:26Z"
 related to:
   - "[[GitHub - 1241262700]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn any Obsidian note into a Cornell-style study sheet using plain Obsidian callouts — no special syntax to learn. Cues line up in a left margin, your notes sit beside them, and a summary runs across the bottom. It works in both Reading view and Live Preview (editing), and you can stack several Cornell \"pages\" in one file."
 
     stats: {
-        downloads:  445
+        downloads:  571
         updated_at: 1781250206000
     }
 }

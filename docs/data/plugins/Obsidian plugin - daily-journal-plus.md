@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-journal-plus
 alt:
   - https://github.com/wesswart77/obsidian-daily-journal
-downloads: 230
+downloads: 278
 updated at: "2026-05-24T20:05:26Z"
 related to:
   - "[[GitHub - 1248531381]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create daily journal entries with pre-filled prompts, habit checkboxes, and a 1–5 mood tracker. View weekly mood and habit completion in a sidebar, log moods and habits via a quick-entry modal, and track streaks with rotating reflection prompts."
 
     stats: {
-        downloads:  230
+        downloads:  278
         updated_at: 1779653126000
     }
 }

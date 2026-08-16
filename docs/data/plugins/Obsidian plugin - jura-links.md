@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jura-links
 alt:
   - https://github.com/justanotherjurastudent/Jura-Links
-downloads: 795
+downloads: 862
 updated at: "2026-05-04T17:46:58Z"
 related to:
   - "[[GitHub - 863089730]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Link legal citations, statutes, case numbers and journal references in your notes to multiple legal providers (Dejure, Rewis.io, Buzer, LexMea, Landesrecht.online). Search and filter known statutes and abbreviations in a built-in window and let the plugin detect common legal citation formats in your text."
 
     stats: {
-        downloads:  795
+        downloads:  862
         updated_at: 1777916818000
     }
 }

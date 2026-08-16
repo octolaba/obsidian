@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-file-info-plugin
 alt:
   - https://github.com/cattailnu/obsidian-file-info-panel-plugin
-downloads: 26216
+downloads: 26626
 updated at: "2026-06-05T07:25:25Z"
 related to:
   - "[[GitHub - 437867735]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display file metadata including creation and modification dates, human-readable size, image dimensions, and links to open the file or its folder. Show writing statistics (characters, words, sentences, paragraphs), selected-text counts, estimated pages, and word frequency analysis."
 
     stats: {
-        downloads:  26216
+        downloads:  26626
         updated_at: 1780644325000
     }
 }

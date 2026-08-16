@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/vim-motions
 alt:
   - https://github.com/saberzero1/motions
-downloads: 1947
-updated at: "2026-07-23T22:00:37Z"
+downloads: 3425
+updated at: "2026-08-11T11:39:31Z"
 related to:
   - "[[GitHub - 1267251409]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # Vim Motions
 
-Vim Motions extends Obsidian's Vim mode with its own engine aimed at a Neovim-native experience, adding Lua scripting and more than 75 configurable settings. It ships over 20 Markdown-aware text objects for bold, italic, code, links, blockquotes, callouts, table cells and wikilinks that work with d, c, y and v, plus Flash and EasyMotion jumps, a Telescope-style fuzzy picker, an Oil-style file explorer, snippets, vim-surround, a branching undo tree, hint-based UI navigation, Harpoon pinning and a cross-note jump list. Configuration comes from a vimrc or a Lua init file with keymap, option, api, autocommand and timer support, and it runs with or without Obsidian's built-in vim mode, on desktop and mobile.
+Provides a Neovim-style editing engine with Lua scripting and more than 75 settings, working with or without Obsidian's built-in vim mode on desktop and mobile. It adds over 20 Markdown-aware text objects for bold, italic, code, links, blockquotes, callouts, table cells and wikilinks that combine with d, c, y and v, plus Flash and EasyMotion jumps, a Telescope-style fuzzy picker with 14 sources, an Oil file explorer, VS Code-compatible snippets, vim-surround, an animated cursor, a branching undo tree, Vimium-style hints, Harpoon pinning and a cross-note jump list. Line numbers, fold commands, table editing and more than 100 ex commands are included, configured through .obsidian.vimrc or .obsidian.init.lua.
 
 ```cue
 plugin: {
@@ -33,12 +33,12 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/vim-motions"
     github_url:  "https://github.com/saberzero1/motions"
-    description: "Enhances Obsidian's Vim mode with Markdown-aware text objects, structural navigation, workspace keyboard control, and a polished Neovim-native experience. - This plugin has not been manually reviewed by Obsidian staff."
+    description: "Full Neovim experience inside Obsidian with Lua scripting, Flash/EasyMotion jumps, Telescope-style picker, Oil explorer, snippets, surround, animated cursor, undo tree, and Markdown text objects. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Vim Motions brings a full Neovim-native editing experience to Obsidian with its own enhanced vim engine, Lua scripting, and 75+ configurable settings. 20+ Markdown-aware text objects (bold, italic, code, links, blockquotes, callouts, table cells, wikilinks, and more) that work with d/c/y/v. Flash and EasyMotion for instant cursor jumps. Telescope-style fuzzy picker with 14 sources, preview, and frecency scoring. Oil file explorer for editing directories as buffers. VS Code-compatible snippets with a LuaSnip-inspired Lua DSL. Vim-surround with Markdown support. Animated smear cursor. Branching undo tree. Vimium-style UI hints. Harpoon file pinning. Cross-note jump list. Line numbers, marks gutter, fold commands, table editing, hard-wrap formatting, and 100+ ex commands. Configure with .obsidian.vimrc or .obsidian.init.lua (vim.keymap.set, vim.opt, vim.api, autocommands, timers). Works with or without Obsidian's built-in vim mode. Desktop and mobile."
 
     stats: {
-        downloads:  1947
-        updated_at: 1784844037000
+        downloads:  3425
+        updated_at: 1786448371000
     }
 }
 ```

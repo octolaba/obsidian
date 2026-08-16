@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/project-manager
 alt:
   - https://github.com/stepankropachev/obsidian-pm
-downloads: 44205
+downloads: 52006
 updated at: "2026-07-03T02:49:33Z"
 related to:
   - "[[GitHub - 1196349223]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage projects in plain Markdown files with YAML frontmatter. Switch between Table, Gantt and Kanban views to edit and schedule. Track subtasks, dependencies, milestones, time, custom fields and bulk actions—fully offline."
 
     stats: {
-        downloads:  44205
+        downloads:  52006
         updated_at: 1783046973000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-export-pdf
 alt:
   - https://github.com/l1xnan/obsidian-better-export-pdf
-downloads: 296842
+downloads: 310335
 updated at: "2026-07-04T10:22:50Z"
 related to:
   - "[[GitHub - 680765222]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export Markdown to PDF with preview, outline bookmarks, preserved internal links, front-matter metadata, customizable margins, and add page numbers. Combine multiple files or folders into one PDF, batch-export many PDFs, and choose any page size or single-page output."
 
     stats: {
-        downloads:  296842
+        downloads:  310335
         updated_at: 1783160570000
     }
 }

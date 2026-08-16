@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/orgmode-cm6
 alt:
   - https://github.com/bbazard/obsidian-orgmode-cm6
-downloads: 7526
+downloads: 7678
 updated at: "2026-06-19T20:47:58Z"
 related to:
   - "[[GitHub - 729461449]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit and preview Org-mode (.org) files in Obsidian with a syntax-aware CM6 editor and live preview. Use folding, customizable todo keywords, wiki and ID links, inline images, property drawers, source-block highlighting, and optional Vim support."
 
     stats: {
-        downloads:  7526
+        downloads:  7678
         updated_at: 1781902078000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/latex-exporter
 alt:
   - https://github.com/mscott99/Latex-Exporter
-downloads: 3975
+downloads: 4071
 updated at: "2026-05-11T16:57:56Z"
 related to:
   - "[[GitHub - 789618116]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export an Obsidian note to a complete LaTeX paper, converting Markdown headers into sections and including embedded content, figures, equations, and LaTeX environments. Include citations, cross-references, YAML title/author, abstracts and appendices, and export via templates or copy selections to the clipboard."
 
     stats: {
-        downloads:  3975
+        downloads:  4071
         updated_at: 1778518676000
     }
 }

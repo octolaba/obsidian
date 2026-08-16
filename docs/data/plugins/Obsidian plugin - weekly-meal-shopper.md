@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/weekly-meal-shopper
 alt:
   - https://github.com/arangutambo/weekly-meal-shopper
-downloads: 23
+downloads: 51
 updated at: "2026-07-22T05:54:25Z"
 related to:
   - "[[GitHub - 1192174822]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Standardize recipe notes and parse ingredient metadata into a consistent, machine-readable format. Create weekly meal-prep canvases from bundled editable templates, add recipe file cards, and generate categorized shopping lists. Transcribe recipes from URLs, videos, or image folders."
 
     stats: {
-        downloads:  23
+        downloads:  51
         updated_at: 1784699665000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/japanese-novel-ruby
 alt:
   - https://github.com/k-quels/japanese-novel-ruby
-downloads: 5227
-updated at: "2026-06-10T16:51:03Z"
+downloads: 5501
+updated at: "2026-08-08T00:44:44Z"
 related to:
   - "[[GitHub - 864578823]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Display and insert ruby (furigana) marks using the Japanese-novel syntax common on Aozora Bunko and Shōsetsuka. Edit with live preview, insert or remove ruby, toggle hidden-on-hover, change ruby delimiters, and enable ruby per note; UI in English, Japanese, Simplified and Traditional Chinese."
 
     stats: {
-        downloads:  5227
-        updated_at: 1781110263000
+        downloads:  5501
+        updated_at: 1786149884000
     }
 }
 ```

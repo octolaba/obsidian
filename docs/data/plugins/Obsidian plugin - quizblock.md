@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/quizblock
 alt:
   - https://github.com/olliecheng/quizblock
-downloads: 273
+downloads: 340
 updated at: "2026-05-30T06:29:11Z"
 related to:
   - "[[GitHub - 1253162594]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Create interactive multiple-choice quizzes in notes using a simple fenced \"quiz\" code block."
 
     stats: {
-        downloads:  273
+        downloads:  340
         updated_at: 1780122551000
     }
 }

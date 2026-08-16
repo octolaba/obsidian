@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/qmd-search
 alt:
   - https://github.com/achekulaev/obsidian-qmd
-downloads: 1905
+downloads: 2148
 updated at: "2026-06-23T22:04:00Z"
 related to:
   - "[[GitHub - 1144833977]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search your vault by meaning with a fully local, privacy-first semantic search that generates embeddings and indexes on-device—no APIs, keys, or cloud. Fall back automatically to keyword (BM25) search and use a cancellable, responsive modal or optional sidebar that follow Obsidian's native UX."
 
     stats: {
-        downloads:  1905
+        downloads:  2148
         updated_at: 1782252240000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/go-up
 alt:
   - https://github.com/jinmugo/obsidian-go-up
-downloads: 1792
+downloads: 1823
 updated at: "2026-06-29T04:36:01Z"
 related to:
   - "[[GitHub - 736215636]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Jump to a designated parent note by adding an \"up\" front-matter property that links to one or multiple parent pages. Rename the parent property in settings and navigate instantly from child notes to their parent(s)."
 
     stats: {
-        downloads:  1792
+        downloads:  1823
         updated_at: 1782707761000
     }
 }

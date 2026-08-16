@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-name-history
 alt:
   - https://github.com/davidvkimball/obsidian-file-name-history
-downloads: 5174
+downloads: 5309
 updated at: "2026-05-30T19:45:52Z"
 related to:
   - "[[GitHub - 1053593438]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track file and parent-folder renames for Markdown files and store old names in a configurable frontmatter property (default aliases) to preserve history for redirects. Apply ignore patterns, folder filters, debounced updates, case-sensitivity options, and custom extensions to control which renames get recorded."
 
     stats: {
-        downloads:  5174
+        downloads:  5309
         updated_at: 1780170352000
     }
 }

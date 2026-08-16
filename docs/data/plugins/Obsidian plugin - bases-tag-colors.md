@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bases-tag-colors
 alt:
   - https://github.com/olegbrovchenko/bases-tag-colors
-downloads: 233
+downloads: 278
 updated at: "2026-05-27T11:43:35Z"
 related to:
   - "[[GitHub - 1247823651]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Color tags per base by storing palettes beside each .base file in a .colors.json so colors stay local and never bleed between bases. Edit palettes with a visual picker, hex input and search, see live updates, and auto-detect the active base for instant changes."
 
     stats: {
-        downloads:  233
+        downloads:  278
         updated_at: 1779882215000
     }
 }

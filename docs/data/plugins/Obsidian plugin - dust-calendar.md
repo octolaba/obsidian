@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dust-calendar
 alt:
   - https://github.com/a-nano-dust/dust-obsidian-calendar
-downloads: 14332
+downloads: 14627
 updated at: "2024-06-17T17:02:50Z"
 related to:
   - "[[GitHub - 779879915]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a Chinese-style calendar showing Gregorian and lunar dates, weekdays, solar terms, holidays and adjusted workdays in month or year view. Create and link periodic notes (daily, weekly, monthly, quarterly, yearly) from the calendar with templates, and mark note stats like word counts and todo status as colored dots or hollow markers."
 
     stats: {
-        downloads:  14332
+        downloads:  14627
         updated_at: 1718643770000
     }
 }

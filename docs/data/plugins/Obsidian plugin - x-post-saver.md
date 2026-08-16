@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/x-post-saver
 alt:
   - https://github.com/tanaka-mambinge/x-post-saver
-downloads: 1547
+downloads: 1600
 updated at: "2025-09-30T10:29:44Z"
 related to:
   - "[[GitHub - 1008929339]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save X (formerly Twitter) posts' text as new notes or into a specified folder in your vault. Configure default save locations and note templates, and use quick commands or the command palette to capture posts from URLs or copied text on desktop and mobile."
 
     stats: {
-        downloads:  1547
+        downloads:  1600
         updated_at: 1759228184000
     }
 }

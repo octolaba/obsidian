@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-old-note-admonitor
 alt:
   - https://github.com/tadashi-aikawa/obsidian-old-note-admonitor
-downloads: 5161
+downloads: 5177
 updated at: "2023-10-14T08:39:10Z"
 related to:
   - "[[GitHub - 535178246]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show admonitions on notes not updated within a set number of days, using file modified time, a front-matter key, or a regex capture group to determine the date. Customize the warning template with ${numberOfDays} and ${date}, choose update triggers (open/save), exclude path prefixes, and style the admonition via CSS."
 
     stats: {
-        downloads:  5161
+        downloads:  5177
         updated_at: 1697272750000
     }
 }

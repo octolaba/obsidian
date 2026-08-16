@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wypst
 alt:
   - https://github.com/andredalbosco/obsidian-wypst
-downloads: 4422
+downloads: 4453
 updated at: "2024-05-13T08:32:00Z"
 related to:
   - "[[GitHub - 729231931]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Typst math directly in Obsidian by replacing inline and block math ($...$, $$...$$) with high-quality Typst output. Switch to MathJax for LaTeX environments or backslash commands and provide a fallback to LaTeX rendering for constructs Typst can't handle."
 
     stats: {
-        downloads:  4422
+        downloads:  4453
         updated_at: 1715589120000
     }
 }

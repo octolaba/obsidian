@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/calendar-hub
 alt:
   - https://github.com/hwy1dot0/calendar-hub
-downloads: 871
+downloads: 1021
 updated at: "2026-07-16T07:19:44Z"
 related to:
   - "[[GitHub - 1254154114]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn the calendar sidebar into a hub for your daily notes by surfacing every note created on a selected date, no matter where it lives in your vault. Find, open, and manage all matching notes from one panel using filename date matching, extra formats, frontmatter fallback, folder filters, and note-count dots."
 
     stats: {
-        downloads:  871
+        downloads:  1021
         updated_at: 1784186384000
     }
 }

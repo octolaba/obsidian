@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-banners
 alt:
   - https://github.com/noatpad/obsidian-banners
-downloads: 337767
+downloads: 342580
 updated at: "2022-04-20T20:20:37Z"
 related to:
   - "[[GitHub - 400030894]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add banner images and emoji icons to notes by selecting local files or pasting image URLs. Drag to reposition and lock banner placement, remove banners or icons, and store banner data in your file's frontmatter for manual editing or integration with other plugins."
 
     stats: {
-        downloads:  337767
+        downloads:  342580
         updated_at: 1650486037000
     }
 }

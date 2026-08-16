@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/editor-autofocus
 alt:
   - https://github.com/mgussekloo/obsidian-editor-autofocus
-downloads: 2617
+downloads: 2627
 updated at: "2023-11-12T20:01:24Z"
 related to:
   - "[[GitHub - 712110604]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Autofocus the editor when opening notes shorter than three lines to start typing immediately. Select the first-line heading (if present) to rename the title directly."
 
     stats: {
-        downloads:  2617
+        downloads:  2627
         updated_at: 1699819284000
     }
 }

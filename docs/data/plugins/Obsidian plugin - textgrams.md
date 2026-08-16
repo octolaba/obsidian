@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/textgrams
 alt:
   - https://github.com/akopdev/obsidian-textgrams
-downloads: 1816
+downloads: 1854
 updated at: "2024-12-03T11:21:09Z"
 related to:
   - "[[GitHub - 859887380]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and store ASCII graphics directly in notes and render them as clean SVGs in preview. Use the built-in editor to author diagrams, flowcharts, tables, Gantt charts and other text-based visuals without leaving Obsidian."
 
     stats: {
-        downloads:  1816
+        downloads:  1854
         updated_at: 1733224869000
     }
 }

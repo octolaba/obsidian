@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notesmith
 alt:
   - https://github.com/csteamengine/notesmith
-downloads: 546
+downloads: 560
 updated at: "2025-07-06T15:38:28Z"
 related to:
   - "[[GitHub - 1014576788]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Refine messy Markdown notes with an OpenAI-compatible LLM to clean formatting, fix grammar and punctuation, and apply sensible heading structure. Convert bullet lists into tasks, add optional tag annotations, and overwrite the file with the polished output via a single command or right-click."
 
     stats: {
-        downloads:  546
+        downloads:  560
         updated_at: 1751816308000
     }
 }

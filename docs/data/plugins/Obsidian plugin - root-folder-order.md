@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/root-folder-order
 alt:
   - https://github.com/chilohwei/obsidian-root-folder-order
-downloads: 156
+downloads: 195
 updated at: "2026-05-27T03:50:59Z"
 related to:
   - "[[GitHub - 1250857851]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Order root-level folders in a custom, stable sequence while leaving notes and nested folders to Obsidian's normal sorting. Reorder with drag-and-drop, position numbers, or up/down controls; add missing or future root folders by name and optionally auto-track renames or removals."
 
     stats: {
-        downloads:  156
+        downloads:  195
         updated_at: 1779853859000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-from-form
 alt:
   - https://github.com/arhichief/obsidian-note-from-form
-downloads: 612
+downloads: 653
 updated at: "2026-06-23T18:22:30Z"
 related to:
   - "[[GitHub - 861867673]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Define form-driven templates with strongly typed fields (text, number, date/time), set initial values, and run custom JavaScript to compute field values or file metadata. Generate notes from those templates, map form fields into template placeholders, and produce dynamic file names and folder locations."
 
     stats: {
-        downloads:  612
+        downloads:  653
         updated_at: 1782238950000
     }
 }

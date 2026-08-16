@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/pdftion
 alt:
   - https://github.com/arias007/pdftion
-downloads: 545
-updated at: "2026-07-15T06:29:49Z"
+downloads: 852
+updated at: "2026-08-04T19:33:45Z"
 related to:
   - "[[GitHub - 1265542660]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "添加可编辑注释与手写画布到 Obsidian PDF 阅读器，支持钢笔、高亮、文本覆盖、选择、四角缩放、橡皮、撤销/重做与触控手势。导出带标注的 PDF、将标注导出为 Markdown 或生成 DOCX 摘要，并开放 window.PdftionAI 脚本/AI 接口，支持统计、批量操作、插入 Obsidian 链接与 Vault 图片及自动导出。"
 
     stats: {
-        downloads:  545
-        updated_at: 1784096989000
+        downloads:  852
+        updated_at: 1785872025000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-handlebars
 alt:
   - https://github.com/sbquinlan/obsidian-handlebars
-downloads: 4522
+downloads: 4534
 updated at: "2024-02-06T04:28:35Z"
 related to:
   - "[[GitHub - 558635151]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add Handlebars templating to Obsidian to render frontmatter-driven templates and generate Markdown from inline template blocks. Iterate vault files with the notes block helper and create internal links with the link partial, using note metadata (name, path, frontmatter) for each item."
 
     stats: {
-        downloads:  4522
+        downloads:  4534
         updated_at: 1707193715000
     }
 }

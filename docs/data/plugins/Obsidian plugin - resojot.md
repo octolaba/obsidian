@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/resojot
 alt:
   - https://github.com/jiaoyingxing/resojot
-downloads: 6090
-updated at: "2026-07-23T14:22:02Z"
+downloads: 7755
+updated at: "2026-08-04T21:14:16Z"
 related to:
   - "[[GitHub - 1201465868]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Record voice notes directly into your vault, saving original audio and transcripts. Transcribe with local or cloud ASR and send results to an LLM to polish, summarize, or convert into structured Markdown. Archive audio, transcripts, and organized notes together inside your Obsidian workflow."
 
     stats: {
-        downloads:  6090
-        updated_at: 1784816522000
+        downloads:  7755
+        updated_at: 1785878056000
     }
 }
 ```

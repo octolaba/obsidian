@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/scratchblocks
 alt:
   - https://github.com/hayribakici/obsidian-scratchblocks
-downloads: 201
+downloads: 269
 updated at: "2026-07-23T13:36:35Z"
 related to:
   - "[[GitHub - 1237016468]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render scratchblock code blocks written in scratch syntax directly in the editor."
 
     stats: {
-        downloads:  201
+        downloads:  269
         updated_at: 1784813795000
     }
 }

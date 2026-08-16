@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wiki-otd
 alt:
   - https://github.com/arcticleo/wiki-otd
-downloads: 123
+downloads: 148
 updated at: "2026-05-15T23:49:14Z"
 related to:
   - "[[GitHub - 1127555952]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert Wikipedia's \"On This Day\" Events, Births, and Deaths into your current note as clean, readable Markdown. Fetch entries for today or any date, convert relative links to full URLs, strip page noise, and output links inline, grouped at the end, or removed."
 
     stats: {
-        downloads:  123
+        downloads:  148
         updated_at: 1778888954000
     }
 }

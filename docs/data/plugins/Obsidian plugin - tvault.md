@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tvault
 alt:
   - https://github.com/namelesscorp/tvault-obsidian-plugin
-downloads: 20
+downloads: 33
 updated at: "2026-07-19T22:03:54Z"
 related to:
   - "[[GitHub - 1303269653]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn your vault into a lockable safe by encrypting notes into a secure container and removing plaintext; unlock to restore notes from the container. Use the side panel to lock/unlock, manage passphrases or Shamir token shares, and keep the .obsidian folder intact so settings persist (desktop only)."
 
     stats: {
-        downloads:  20
+        downloads:  33
         updated_at: 1784498634000
     }
 }

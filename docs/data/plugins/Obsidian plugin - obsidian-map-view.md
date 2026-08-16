@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-map-view
 alt:
   - https://github.com/esm7/obsidian-map-view
-downloads: 157554
+downloads: 161117
 updated at: "2026-03-22T14:18:35Z"
 related to:
   - "[[GitHub - 377730992]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn notes into an interactive map by extracting geolocations and paths and plotting them on embeddable, offline maps. Add locations from search, the map, external services or GPS; draw shapes; import/export GeoJSON/GPX/KML/TCX; calculate routes (driving, cycling, walking); customize markers and filter with boolean queries."
 
     stats: {
-        downloads:  157554
+        downloads:  161117
         updated_at: 1774189115000
     }
 }

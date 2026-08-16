@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-trello
 alt:
   - https://github.com/nathonius/obsidian-trello
-downloads: 18439
+downloads: 18632
 updated at: "2026-01-03T11:19:17Z"
 related to:
   - "[[GitHub - 395657674]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect Trello cards to Obsidian notes to view and update labels, comments, checklists, and card details inside your vault. Create new cards, move cards between lists, add comments, and refresh card data from the Trello pane."
 
     stats: {
-        downloads:  18439
+        downloads:  18632
         updated_at: 1767439157000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cloud-sync
 alt:
   - https://github.com/ai-bytedance/obsidian-cloud-sync
-downloads: 1928
+downloads: 1976
 updated at: "2025-07-20T04:55:24Z"
 related to:
   - "[[GitHub - 946507557]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync notes to cloud drives with AES-256 end-to-end encryption so files are encrypted before upload. Use WebDAV now for bidirectional, automatic, scheduled and selective sync with basic conflict resolution and Markdown link conversion; GitHub and iCloud support are in development. Back up important data while using the alpha release."
 
     stats: {
-        downloads:  1928
+        downloads:  1976
         updated_at: 1752987324000
     }
 }

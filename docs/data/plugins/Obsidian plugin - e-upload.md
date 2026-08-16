@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/e-upload
 alt:
   - https://github.com/appleec/e-obsidian-upload-plugin
-downloads: 207
+downloads: 218
 updated at: "2025-01-16T16:11:50Z"
 related to:
   - "[[GitHub - 871567617]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload files from Obsidian to remote storage repositories like Lskypro, Halo, or GitHub. Use a right-click context menu to send files and manage multiple platform targets with per-service API settings."
 
     stats: {
-        downloads:  207
+        downloads:  218
         updated_at: 1737043910000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tasks-caldav-sync
 alt:
   - https://github.com/josecoelho/obsidian-tasks-caldav
-downloads: 3742
+downloads: 4206
 updated at: "2026-07-21T07:11:26Z"
 related to:
   - "[[GitHub - 1089830923]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync obsidian-tasks with CalDAV servers bidirectionally, converting task status, dates, priorities, recurrence, tags and indented notes to VTODO items. Map tags to multiple calendars, run auto-sync or dry-run previews, detect conflicts and deletions, and reconcile duplicates."
 
     stats: {
-        downloads:  3742
+        downloads:  4206
         updated_at: 1784617886000
     }
 }

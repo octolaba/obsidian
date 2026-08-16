@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/inkporter
 alt:
   - https://github.com/amadeusssystem/Inkporter
-downloads: 1967
+downloads: 1996
 updated at: "2026-04-23T14:28:32Z"
 related to:
   - "[[GitHub - 922989931]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Digitize handwritten notes into Obsidian with smart ink isolation, dual threshold modes (luminosity or RGB), and optional grayscale conversion. Preview and process clipboard scans in real time, apply adaptive CSS theming, and save assets with smart filename templates into your vault."
 
     stats: {
-        downloads:  1967
+        downloads:  1996
         updated_at: 1776954512000
     }
 }

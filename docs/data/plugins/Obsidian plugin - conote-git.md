@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/conote-git
 alt:
   - https://github.com/maximilianwte/Obsidian_CoNote_Git
-downloads: 143
+downloads: 209
 updated at: "2026-07-22T14:31:36Z"
 related to:
   - "[[GitHub - 1272377598]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Collaborate on notes via GitHub by syncing selected vault subfolders to repos you control, keeping the rest of your vault private and untracked. Auto-commit edits after inactivity, auto-pull and merge frequently, and resolve conflicts with a merge modal—no raw conflict markers, external servers, or system git required."
 
     stats: {
-        downloads:  143
+        downloads:  209
         updated_at: 1784730696000
     }
 }

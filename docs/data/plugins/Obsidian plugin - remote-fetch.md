@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/remote-fetch
 alt:
   - https://github.com/shaharyar-developer/remote-fetch
-downloads: 504
+downloads: 526
 updated at: "2025-08-21T16:28:00Z"
 related to:
   - "[[GitHub - 1015000755]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Download files from any HTTP or HTTPS URL directly into your vault with automatic filename extraction and optional custom naming. Choose destination folders with type‑ahead, detect and apply file extensions automatically, and block dangerous or oversized files while showing clear error messages."
 
     stats: {
-        downloads:  504
+        downloads:  526
         updated_at: 1755793680000
     }
 }

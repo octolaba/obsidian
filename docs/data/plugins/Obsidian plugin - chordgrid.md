@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chordgrid
 alt:
   - https://github.com/mathieucgit/ChordGrid_for_Obsidian
-downloads: 104
+downloads: 118
 updated at: "2026-01-06T00:03:30Z"
 related to:
   - "[[GitHub - 1091768985]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render chord progressions from simple text into clean, scalable SVG chord charts with precise rhythmic notation inside Obsidian. Include automatic beaming, ties, tuplets, dotted notes, complex time signatures, repeats/voltas, transpose tools, pick/strum patterns and optional counting for rhythm learning."
 
     stats: {
-        downloads:  104
+        downloads:  118
         updated_at: 1767657810000
     }
 }

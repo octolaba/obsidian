@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/task-director
 alt:
   - https://github.com/cybertramp/obsidian-task-director
-downloads: 391
+downloads: 399
 updated at: "2024-11-15T02:25:11Z"
 related to:
   - "[[GitHub - 882930139]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Change all tasks in the selected file from todo to done or revert all done tasks back to todo in one action. Show a page-level todo summary with total counts. Remove completion dates from tasks when reverting them to todo."
 
     stats: {
-        downloads:  391
+        downloads:  399
         updated_at: 1731637511000
     }
 }

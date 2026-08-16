@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/super-nutrition-calculator
 alt:
   - https://github.com/liuba1223/super-nutrition-calculator
-downloads: 89
+downloads: 99
 updated at: "2026-06-02T10:08:30Z"
 related to:
   - "[[GitHub - 1256973295]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Analyze foods, ingredients, and recipes across Boohee, USDA FoodData Central, Chinese food databases, and local datasets with single-item lookup or multi-ingredient aggregation. Compare totals to 30+ DRI profiles, use AI-assisted field mapping for cross-source matches, and insert Markdown results into notes."
 
     stats: {
-        downloads:  89
+        downloads:  99
         updated_at: 1780394910000
     }
 }

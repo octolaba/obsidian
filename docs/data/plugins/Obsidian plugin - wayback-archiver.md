@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/wayback-archiver
 alt:
   - https://github.com/ishizueitaro/obsidian-wayback-archiver
-downloads: 1175
-updated at: "2026-07-11T19:52:04Z"
+downloads: 1267
+updated at: "2026-07-25T17:59:45Z"
 related to:
   - "[[GitHub - 968197345]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Archive web links via the Wayback Machine and append archived snapshots directly into your notes. Scan a note or the entire vault, apply include/exclude filters and URL substitution rules, retry failed attempts, and manage profile-based settings for targeted, vault-wide archiving."
 
     stats: {
-        downloads:  1175
-        updated_at: 1783799524000
+        downloads:  1267
+        updated_at: 1785002385000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hemingway-mode
 alt:
   - https://github.com/jobedom/obsidian-hemingway-mode
-downloads: 1629
+downloads: 1632
 updated at: "2025-08-06T23:33:35Z"
 related to:
   - "[[GitHub - 776147200]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Force yourself to write without editing by disabling cursor movement, backspace, cut shortcuts and other editing keys. Allow only appending text at the end of the current note and toggle Hemingway Mode on or off via a command."
 
     stats: {
-        downloads:  1629
+        downloads:  1632
         updated_at: 1754523215000
     }
 }

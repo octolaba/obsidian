@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-reviewer
 alt:
   - https://github.com/travislinkey/note-reviewer
-downloads: 589
+downloads: 598
 updated at: "2025-06-29T00:25:17Z"
 related to:
   - "[[GitHub - 829172432]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Review notes by filtering and fetching items based on YAML frontmatter tags. Open the Note Reviewer from the sidebar and mark notes done with the review checkbox to record completion."
 
     stats: {
-        downloads:  589
+        downloads:  598
         updated_at: 1751156717000
     }
 }

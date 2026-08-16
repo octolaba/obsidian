@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cooklang-viewer-and-editor
 alt:
   - https://github.com/rveciana/obsidian-cooklang
-downloads: 3486
+downloads: 3720
 updated at: "2025-06-04T21:30:11Z"
 related to:
   - "[[GitHub - 745510282]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit and view recipes in Cooklang format inside Obsidian with localized section titles. Scale ingredient quantities with a slider and choose fraction or decimal displays; include webp image support and full Cooklang syntax editing."
 
     stats: {
-        downloads:  3486
+        downloads:  3720
         updated_at: 1749072611000
     }
 }

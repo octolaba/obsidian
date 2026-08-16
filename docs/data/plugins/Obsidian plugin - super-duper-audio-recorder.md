@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/super-duper-audio-recorder
 alt:
   - https://github.com/madpin/super-duper-audio-recorder
-downloads: 5910
+downloads: 6183
 updated at: "2024-08-14T12:27:56Z"
 related to:
   - "[[GitHub - 831589897]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Record audio directly into a selected folder and choose your input device. Pause and resume sessions, create multi-track recordings for different speakers or instruments, and set custom durations with a clean recording interface."
 
     stats: {
-        downloads:  5910
+        downloads:  6183
         updated_at: 1723638476000
     }
 }

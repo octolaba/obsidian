@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/theme-engine
 alt:
   - https://github.com/yazanammar/obsidian-theme-engine
-downloads: 2289
+downloads: 2681
 updated at: "2026-05-14T15:17:39Z"
 related to:
   - "[[GitHub - 1042695105]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Customize and manage Obsidian from a unified visual workflow without touching CSS. Create reusable profiles that bundle colors, snippets, backgrounds, and customization settings, switch between them instantly, import or export them as JSON, and dynamically build on top of your active theme instead of replacing it entirely."
 
     stats: {
-        downloads:  2289
+        downloads:  2681
         updated_at: 1778771859000
     }
 }

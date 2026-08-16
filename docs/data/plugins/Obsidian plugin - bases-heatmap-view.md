@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bases-heatmap-view
 alt:
   - https://github.com/serafinovsky/bases-heatmap-view
-downloads: 1540
+downloads: 1707
 updated at: "2026-02-17T00:02:37Z"
 related to:
   - "[[GitHub - 1151060658]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display GitHub-contributions-style heatmaps for any date-based property in Bases tables. Track activity, habits, and progress with color-coded squares and filters to focus on the records that matter."
 
     stats: {
-        downloads:  1540
+        downloads:  1707
         updated_at: 1771286557000
     }
 }

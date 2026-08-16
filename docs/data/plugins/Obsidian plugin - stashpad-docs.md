@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/stashpad-docs
 alt:
   - https://github.com/stashpad/obsidian-to-stashpad
-downloads: 344
+downloads: 355
 updated at: "2024-05-21T18:49:13Z"
 related to:
   - "[[GitHub - 801251098]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Share the current Obsidian note to Stashpad Docs by creating a new Stashpad Doc with the note's contents. Open the new doc in your browser for immediate viewing and sharing."
 
     stats: {
-        downloads:  344
+        downloads:  355
         updated_at: 1716317353000
     }
 }

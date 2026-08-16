@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/uuugl-uploader
 alt:
   - https://github.com/johnkim05/obsidian-uuugl-plugin
-downloads: 84
+downloads: 89
 updated at: "2025-11-05T13:24:49Z"
 related to:
   - "[[GitHub - 1089953293]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload Obsidian notes to uuu.gl as rendered GitHub-Flavored Markdown pages with syntax highlighting, preserving images, attachments, and internal links. Create custom short URLs, optionally protect notes with a password, and keep auto-saved version history; copy the published link from the status bar."
 
     stats: {
-        downloads:  84
+        downloads:  89
         updated_at: 1762349089000
     }
 }

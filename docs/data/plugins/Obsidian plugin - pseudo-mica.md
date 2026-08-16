@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pseudo-mica
 alt:
   - https://github.com/aaaaalexis/obsidian-pseudo-mica
-downloads: 6214
+downloads: 6739
 updated at: "2026-06-18T05:59:14Z"
 related to:
   - "[[GitHub - 904056768]]"
@@ -36,7 +36,7 @@ plugin: {
     description: "Customize translucent window effects on Windows and macOS."
 
     stats: {
-        downloads:  6214
+        downloads:  6739
         updated_at: 1781762354000
     }
 }

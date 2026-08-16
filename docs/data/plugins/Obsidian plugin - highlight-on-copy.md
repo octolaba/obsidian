@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/highlight-on-copy
 alt:
   - https://github.com/trevortylerlee/highlight-on-copy
-downloads: 89
+downloads: 99
 updated at: "2026-02-28T08:14:27Z"
 related to:
   - "[[GitHub - 976354082]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight selected text with a brief animation when copying to the clipboard. Show a clear visual flash on the selection to confirm the copy action."
 
     stats: {
-        downloads:  89
+        downloads:  99
         updated_at: 1772266467000
     }
 }

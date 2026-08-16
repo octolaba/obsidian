@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/moulinette
 alt:
   - https://github.com/svenwerlen/moulinette-obsidian-plugin
-downloads: 3241
+downloads: 3267
 updated at: "2025-03-08T19:12:16Z"
 related to:
   - "[[GitHub - 742901613]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search and download images, sounds, music, and Obsidian notes from Moulinette Cloud and insert them directly into your vault. Browse community and creator content, access free or premium assets, and support creators to unlock paid offerings."
 
     stats: {
-        downloads:  3241
+        downloads:  3267
         updated_at: 1741461136000
     }
 }

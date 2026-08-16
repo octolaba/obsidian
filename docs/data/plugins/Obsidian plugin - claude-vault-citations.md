@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/claude-vault-citations
 alt:
   - https://github.com/nord342/obsidian-claude-citations
-downloads: 129
+downloads: 141
 updated at: "2026-05-19T14:25:26Z"
 related to:
   - "[[GitHub - 1243630783]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Ask questions about your vault and get answers with verified paragraph-level citations that link directly to the exact note and passage. Use Anthropic's Citations API to guarantee cited passages come from your notes, speed follow-ups with cached context, and keep your API key stored locally while only top-ranked paragraphs are sent."
 
     stats: {
-        downloads:  129
+        downloads:  141
         updated_at: 1779200726000
     }
 }

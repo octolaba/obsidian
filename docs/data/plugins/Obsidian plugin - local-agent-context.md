@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/local-agent-context
 alt:
   - https://github.com/xwang0176/obsidian-agent-context
-downloads: 104
+downloads: 149
 updated at: "2026-06-25T05:28:39Z"
 related to:
   - "[[GitHub - 1277118030]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate a local, token-free, agent-readable index of your vault so AI agents quickly map notes, folders, and central files. Store a removable, offline context map with no LLM calls, embeddings, or uploads to reduce blind reading and save tokens."
 
     stats: {
-        downloads:  104
+        downloads:  149
         updated_at: 1782365319000
     }
 }

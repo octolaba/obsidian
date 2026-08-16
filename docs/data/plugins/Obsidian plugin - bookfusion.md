@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bookfusion
 alt:
   - https://github.com/bookfusion/obsidian-plugin
-downloads: 6289
+downloads: 6383
 updated at: "2026-02-24T08:43:06Z"
 related to:
   - "[[GitHub - 706578033]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import highlights, notes, reviews and annotations from PDFs, EPUBs, MOBI, CBZ/CBR and other ebook formats into your Obsidian vault. Sync atomic text and image highlights, route content to multiple vaults, and customize exports and frontmatter with Liquid templates."
 
     stats: {
-        downloads:  6289
+        downloads:  6383
         updated_at: 1771922586000
     }
 }

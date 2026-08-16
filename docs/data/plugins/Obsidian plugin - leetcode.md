@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/leetcode
 alt:
   - https://github.com/likesundaylikerain/obsidian-leetcode
-downloads: 260
+downloads: 456
 updated at: "2026-06-22T16:38:54Z"
 related to:
   - "[[GitHub - 1238379843]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse LeetCode problems and open them as Obsidian notes with rendered statements and locked frontmatter. Write solutions in fenced code blocks, run tests or submit with verdicts shown, add techniques as backlinks to build a knowledge graph, and keep problems readable offline."
 
     stats: {
-        downloads:  260
+        downloads:  456
         updated_at: 1782146334000
     }
 }

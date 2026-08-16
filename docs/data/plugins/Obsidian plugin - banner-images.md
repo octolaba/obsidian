@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/banner-images
 alt:
   - https://github.com/saltyfireball/obsidian-banner-images
-downloads: 761
+downloads: 905
 updated at: "2026-05-18T18:10:40Z"
 related to:
   - "[[GitHub - 1166224364]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display banner images at the top of notes via a single frontmatter field. Use vault-relative paths, wikilinks, or external URLs; control height, opacity, vertical position, fit mode and gradient fade; render in Reading View, Live Preview and on mobile."
 
     stats: {
-        downloads:  761
+        downloads:  905
         updated_at: 1779127840000
     }
 }

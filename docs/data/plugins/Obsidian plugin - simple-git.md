@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-git
 alt:
   - https://github.com/mikealexsoldatkin/obsidian-simple-git
-downloads: 103
+downloads: 114
 updated at: "2026-06-19T20:05:03Z"
 related to:
   - "[[GitHub - 1274251388]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage Git from the status bar: pull, commit, push, create branches, and switch branches without leaving your vault. Open a commit window to stage files or auto-stage with per-branch messages; create branches named type/issue-key (e.g., feature/KEY-1234) and push with upstream tracking, running on desktop with your local Git/Git LFS."
 
     stats: {
-        downloads:  103
+        downloads:  114
         updated_at: 1781899503000
     }
 }

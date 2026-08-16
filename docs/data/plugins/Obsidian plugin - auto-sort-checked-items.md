@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-sort-checked-items
 alt:
   - https://github.com/tom-un/obsidian-checkbox-reorder
-downloads: 165
+downloads: 233
 updated at: "2026-06-16T12:08:41Z"
 related to:
   - "[[GitHub - 1269189263]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move checked items to the bottom of their checkbox group when marked, keeping active tasks at the top. Preserve nesting by moving parents with their sub-items and reorder indented items within their level, with a clean undo that reverses check and move in one step."
 
     stats: {
-        downloads:  165
+        downloads:  233
         updated_at: 1781611721000
     }
 }

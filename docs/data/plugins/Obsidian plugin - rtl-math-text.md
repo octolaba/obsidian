@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rtl-math-text
 alt:
   - https://github.com/orelby/obsidian-rtl-math-text-plugin
-downloads: 358
+downloads: 378
 updated at: "2025-07-04T15:54:27Z"
 related to:
   - "[[GitHub - 971490731]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add support for mixing right-to-left (RTL) and left-to-right (LTR) text inside MathJax expressions using custom LaTeX commands like \\R{\\text{...}} and \\L{...}. Nest math inside RTL/LTR and configure the command names. Expect no support for combining-letter scripts (e.g., Arabic) yet."
 
     stats: {
-        downloads:  358
+        downloads:  378
         updated_at: 1751644467000
     }
 }

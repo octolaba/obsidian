@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/subtitles-md
 alt:
   - https://github.com/pedrofuentes/obsidian-subtitles-md
-downloads: 142
+downloads: 194
 updated at: "2026-07-08T22:06:01Z"
 related to:
   - "[[GitHub - 1273967556]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Read .srt and .vtt subtitle files as readable, searchable Markdown notes or open them in a read-only transcript view. Convert files into Markdown notes, embed transcripts inline with transcript code blocks, and keep plain-text output that's searchable, linkable, and ready for annotation."
 
     stats: {
-        downloads:  142
+        downloads:  194
         updated_at: 1783548361000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/csv-codeblock
 alt:
   - https://github.com/elrindir/obsidian-csv-codeblock
-downloads: 5672
+downloads: 5715
 updated at: "2024-07-18T07:46:13Z"
 related to:
   - "[[GitHub - 697636061]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render csv and tsv codeblocks as tables inside your notes. Parse comma- or tab-separated rows into HTML table cells for clear, inline table display."
 
     stats: {
-        downloads:  5672
+        downloads:  5715
         updated_at: 1721288773000
     }
 }

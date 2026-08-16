@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/writing-menu
 alt:
   - https://github.com/zpzp13/obsidian-writing-menu
-downloads: 1722
+downloads: 2356
 updated at: "2026-07-10T17:03:45Z"
 related to:
   - "[[GitHub - 1127736803]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Writing Menu — Obsidian Writing Assistant Plugin A comprehensive writing environment plugin for Obsidian, tailored for novelists and writers. Integrates typography controls, focus mode, smart input, word counter, daily work time tracker, calendar dashboard, version control, and wiki view into one plugin. Key Features Typography: Font, size, line height, line width per note or folder Focus Mode & Typewriter Scroll: Distraction-free writing Smart Input: Auto quotes, symbol triggers, text substitution, smart enter Char Count: Munpia/Novelpia format tracking with daily notes integration Work Time Tracker: Per-mode (draft/writing/editing) time tracking saved to frontmatter Calendar Dashboard: Date strip, monthly view, hover preview with tasks/char count/time Version Control: Snapshot, side-by-side diff, partial revert Wiki View: Card view for characters/settings with custom groups and relations Export: TXT/HWP export, heading/footnote exclusion Music Player: In-vault audio playback"
 
     stats: {
-        downloads:  1722
+        downloads:  2356
         updated_at: 1783703025000
     }
 }

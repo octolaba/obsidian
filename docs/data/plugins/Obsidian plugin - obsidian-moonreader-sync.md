@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-moonreader-sync
 alt:
   - https://github.com/seeyou2n1ght/obsidian-MoonReaderNoteSync
-downloads: 43
+downloads: 58
 updated at: "2026-07-06T09:15:05Z"
 related to:
   - "[[GitHub - 1245522256]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Moon+ Reader (.an) highlights and notes from WebDAV into your Vault with smart PROPFIND-based incremental updates and offline cache. Encrypt WebDAV credentials with a local AES key stored outside the Vault, parse zlib-compressed .an files to extract highlights/notes into Markdown, and design output with a drag-and-drop template builder and live preview."
 
     stats: {
-        downloads:  43
+        downloads:  58
         updated_at: 1783329305000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markwhen
 alt:
   - https://github.com/mark-when/obsidian-plugin
-downloads: 43456
+downloads: 44137
 updated at: "2025-07-14T17:45:19Z"
 related to:
   - "[[GitHub - 793083164]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create timelines using Markwhen's timeline syntax inside Obsidian notes. Embed and render those timelines inline to view and edit chronological visualizations alongside your Markdown."
 
     stats: {
-        downloads:  43456
+        downloads:  44137
         updated_at: 1752515119000
     }
 }

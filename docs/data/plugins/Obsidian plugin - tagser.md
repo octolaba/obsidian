@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tagser
 alt:
   - https://github.com/caorol/obsidian-plugin-tagser
-downloads: 127
+downloads: 141
 updated at: "2026-05-21T12:33:50Z"
 related to:
   - "[[GitHub - 1243545986]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit a note’s tags directly from the right pane while the note is open. Add, remove, or rename individual tag values and have updates applied to the note in real time."
 
     stats: {
-        downloads:  127
+        downloads:  141
         updated_at: 1779366830000
     }
 }

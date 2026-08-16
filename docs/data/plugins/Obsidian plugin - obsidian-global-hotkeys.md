@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-global-hotkeys
 alt:
   - https://github.com/mjessome/obsidian-global-hotkeys
-downloads: 14551
+downloads: 14683
 updated at: "2022-03-15T14:21:16Z"
 related to:
   - "[[GitHub - 363545623]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Map any Obsidian command to a system-wide hotkey. Bring Obsidian to the front, toggle visibility, or show/hide Settings using global shortcuts."
 
     stats: {
-        downloads:  14551
+        downloads:  14683
         updated_at: 1647354076000
     }
 }

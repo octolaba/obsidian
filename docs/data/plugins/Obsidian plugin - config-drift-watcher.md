@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/config-drift-watcher
 alt:
   - https://github.com/rixct/config-drift-watcher
-downloads: 72
+downloads: 82
 updated at: "2026-07-04T14:09:41Z"
 related to:
   - "[[GitHub - 1284786572]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep your server documentation honest. Annotate a code block in a note with a server alias and a remote file path, then compare your documented config against the real file – read-only, over SFTP. The plugin shows an inline, line-by-line diff and marks each block as in sync or drifted, so you can see at a glance when a reboot, a manual fix, or a script changed reality out from under your notes. \"Snapshot from server\" captures the current remote file into the note as a baseline. Server profiles keep credentials out of your notes – a note only ever references an alias. SSH host keys are verified (trust on first use, with manual pinning), and no remote command is ever executed: an SFTP read can only read a file, never run code on the host. Desktop only. Key-based SSH authentication. Optional ignore rules for whitespace and comment-only lines."
 
     stats: {
-        downloads:  72
+        downloads:  82
         updated_at: 1783174181000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copilot-auto-completion
 alt:
   - https://github.com/j0rd1smit/obsidian-copilot-auto-completion
-downloads: 12033
+downloads: 12098
 updated at: "2024-03-10T10:15:15Z"
 related to:
   - "[[GitHub - 667852848]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add Copilot-like autocompletion to Obsidian with fill-in-the-middle suggestions shown as a transparent inline overlay. Accept suggestions with Tab or the right arrow, dismiss with Escape, and get context- and language-aware completions for prose, code and math via OpenAI, Azure, Ollama or OpenAI-compatible local APIs."
 
     stats: {
-        downloads:  12033
+        downloads:  12098
         updated_at: 1710065715000
     }
 }

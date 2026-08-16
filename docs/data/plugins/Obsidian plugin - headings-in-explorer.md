@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/headings-in-explorer
 alt:
   - https://github.com/patrickchiang/obsidian-headings-in-explorer
-downloads: 1423
+downloads: 1456
 updated at: "2024-06-26T03:12:51Z"
 related to:
   - "[[GitHub - 809232743]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show headings in the file explorer as a clickable hierarchy beneath each file for direct navigation and consolidated outline access. Use the Highlight Location button to reveal and focus the heading under your cursor, and match custom lines to appear as explorer entries."
 
     stats: {
-        downloads:  1423
+        downloads:  1456
         updated_at: 1719371571000
     }
 }

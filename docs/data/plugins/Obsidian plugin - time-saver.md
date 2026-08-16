@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/time-saver
 alt:
   - https://github.com/odayou/task-processing-extension
-downloads: 429
+downloads: 1140
 updated at: "2025-03-06T05:12:50Z"
 related to:
   - "[[GitHub - 770687993]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Calculate time spent per task by extracting time ranges from tasks in the current note and display per-task and total durations in hours and minutes. Provide commands and a right-click menu to insert todo/checked items and the current timestamp."
 
     stats: {
-        downloads:  429
+        downloads:  1140
         updated_at: 1741237970000
     }
 }

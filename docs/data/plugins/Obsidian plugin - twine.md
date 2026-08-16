@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/twine
 alt:
   - https://github.com/engassa/obsidian-twine
-downloads: 70
+downloads: 97
 updated at: "2026-07-10T12:14:54Z"
 related to:
   - "[[GitHub - 1295118215]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault end-to-end encrypted to your own S3-compatible bucket (Cloudflare R2, Backblaze B2) with no server or subscription. Encrypt file contents and paths client-side, preserve conflicting edits and versions, and sync automatically on file changes and app resume."
 
     stats: {
-        downloads:  70
+        downloads:  97
         updated_at: 1783685694000
     }
 }

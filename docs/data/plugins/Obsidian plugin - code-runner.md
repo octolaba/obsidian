@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/code-runner
 alt:
   - https://github.com/chujiu-dev/obsidian-code-runner
-downloads: 234
+downloads: 496
 updated at: "2026-07-15T03:04:17Z"
 related to:
   - "[[GitHub - 1293660204]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run code blocks in Obsidian — works on desktop, iOS & Android. Python via Pyodide (WASM), 18+ languages supported. Zero config. 在 Obsidian 里运行代码 | Run code blocks in Obsidian — 桌面/iOS/Android 全平台可用, Python 基于 Pyodide (WASM), 支持 18+ 语言, 零配置。"
 
     stats: {
-        downloads:  234
+        downloads:  496
         updated_at: 1784084657000
     }
 }

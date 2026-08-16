@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/fast-graph
 alt:
   - https://github.com/jkraccoon/obsidian-fast-graph
-downloads: 176
+downloads: 255
 updated at: "2026-06-24T06:08:00Z"
 related to:
   - "[[GitHub - 1277670579]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Explore your entire vault as a smooth, real‑time 3D force‑directed graph that stays fluid with tens of thousands of notes. Render with GPU‑instanced nodes and Web Worker physics, group notes by folder/tag for cluster‑aware layouts, and click nodes to open notes or focus a local graph."
 
     stats: {
-        downloads:  176
+        downloads:  255
         updated_at: 1782281280000
     }
 }

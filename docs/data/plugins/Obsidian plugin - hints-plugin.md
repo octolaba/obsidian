@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hints-plugin
 alt:
   - https://github.com/slpbx/obsidian-plugin
-downloads: 10853
+downloads: 10894
 updated at: "2024-01-05T10:49:15Z"
 related to:
   - "[[GitHub - 580736176]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture messages and content from Telegram, WhatsApp, Slack, Email, SMS, Raycast and other sources directly into Obsidian using customizable templates. Create flows to route captures from connected apps (Notion, ClickUp, Trello, HubSpot, Pipedrive, Jira, Calendar) into organized notes for quick review."
 
     stats: {
-        downloads:  10853
+        downloads:  10894
         updated_at: 1704451755000
     }
 }

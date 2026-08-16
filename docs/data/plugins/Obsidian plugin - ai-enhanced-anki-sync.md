@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-enhanced-anki-sync
 alt:
   - https://github.com/jannusgoe/obsidian-ankisync
-downloads: 816
+downloads: 838
 updated at: "2024-12-11T21:13:01Z"
 related to:
   - "[[GitHub - 868483915]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Detect Remnote-style flashcards in notes, expand and polish card content using OpenAI models from brief keywords, and sync them to Anki via AnkiConnect. Assign decks from file names and create hierarchical tags from headings, with a customizable system prompt to shape AI output."
 
     stats: {
-        downloads:  816
+        downloads:  838
         updated_at: 1733951581000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/advanced-import-export
 alt:
   - https://github.com/huangcheng/obsidian-advanced-import-export
-downloads: 266
+downloads: 322
 updated at: "2026-07-23T17:34:48Z"
 related to:
   - "[[GitHub - 1223314393]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export Obsidian notes as portable Markdown and bridge your vault with Bear, WPS Cloud Note, Youdao Note, and Flomo via their official clients. Transform Obsidian-specific syntax—wikilinks, embeds, callouts, frontmatter, and attachment paths—into standard Markdown, copy to clipboard or export to a folder, and send/import notes while degrading gracefully on mobile."
 
     stats: {
-        downloads:  266
+        downloads:  322
         updated_at: 1784828088000
     }
 }

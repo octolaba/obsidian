@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/keepsidian
 alt:
   - https://github.com/lc0rp/KeepSidian
-downloads: 3747
-updated at: "2026-07-12T21:43:05Z"
+downloads: 4359
+updated at: "2026-07-29T20:27:54Z"
 related to:
   - "[[GitHub - 822100323]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # KeepSydian
 
-Imports and syncs notes between Google Keep and the vault, on demand or on a schedule, with two-way sync supported. Download, upload or two-way plans can be reviewed in a Sync Center before they are applied. Connection runs through a KIM-based sync server, and the plugin states that credentials and tokens are stored locally and not retained on the server.
+Syncs notes between Google Keep and Obsidian on demand or on a schedule, in one direction or both. A Sync Center presents the download, upload or two-way plan for review before any change is applied. The connection runs through a KIM-based sync server, with credentials and tokens stored locally rather than retained on that server.
 
 ```cue
 plugin: {
@@ -33,12 +33,12 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/keepsidian"
     github_url:  "https://github.com/lc0rp/KeepSidian"
-    description: "Commands to import Google Keep notes."
+    description: "Google Keep sync: one or two-way, on-demand or set and forget."
     about:       "Sync notes between Google Keep and Obsidian on demand or on a schedule with full two-way sync support. Review download, upload, or two-way plans in the Sync Center before applying changes, and connect via a KIM-based sync server while keeping credentials and tokens stored locally and not retained on the server."
 
     stats: {
-        downloads:  3747
-        updated_at: 1783892585000
+        downloads:  4359
+        updated_at: 1785356874000
     }
 }
 ```

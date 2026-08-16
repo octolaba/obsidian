@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/intervaults
 alt:
   - https://github.com/mrdanrave/Intervaults
-downloads: 161
+downloads: 198
 updated at: "2026-06-23T16:39:28Z"
 related to:
   - "[[GitHub - 1275065530]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render multiple vaults as a single interactive graph with intersection dots for shared notes; drag, pan and zoom the force-directed canvas. Compare and merge differing notes in a side-by-side diff editor with editable panes, per-line highlighting and one-click accept for hunks, and filter intersections with a compact query language."
 
     stats: {
-        downloads:  161
+        downloads:  198
         updated_at: 1782232768000
     }
 }

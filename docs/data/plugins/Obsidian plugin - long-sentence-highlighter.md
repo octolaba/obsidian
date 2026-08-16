@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/long-sentence-highlighter
 alt:
   - https://github.com/robertmeissner/obsidian-long-sentence-highlighter
-downloads: 577
+downloads: 594
 updated at: "2025-09-25T08:04:42Z"
 related to:
   - "[[GitHub - 1008939427]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight sentences that exceed a configurable word-count threshold to keep prose concise. Use background or underline marks with custom colors and toggle automatic or manual checks; highlights update in real time in both edit and reading modes."
 
     stats: {
-        downloads:  577
+        downloads:  594
         updated_at: 1758787482000
     }
 }

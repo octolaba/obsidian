@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/text-focus
 alt:
   - https://github.com/usysrc/obsidian-text-focus-plugin
-downloads: 1594
+downloads: 1610
 updated at: "2024-11-26T17:40:35Z"
 related to:
   - "[[GitHub - 759176758]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Focus the editor text area automatically when opening a new note so you can start typing immediately. Remove the need to click the editor and speed up quick note capture."
 
     stats: {
-        downloads:  1594
+        downloads:  1610
         updated_at: 1732642835000
     }
 }

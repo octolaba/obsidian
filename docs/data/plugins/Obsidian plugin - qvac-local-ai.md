@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/qvac-local-ai
 alt:
   - https://github.com/thomasblc/obsidian-qvac
-downloads: 83
+downloads: 132
 updated at: "2026-07-17T12:39:41Z"
 related to:
   - "[[GitHub - 1280409964]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with your vault on your machine using semantic search and cited answers, plus inline writing commands and OCR for images. Fine-tune a model on your notes to make responses mirror your knowledge and style, and discover or create related notes with suggested [[wikilinks]] while keeping all data local."
 
     stats: {
-        downloads:  83
+        downloads:  132
         updated_at: 1784291981000
     }
 }

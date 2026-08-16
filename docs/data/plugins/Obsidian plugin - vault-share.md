@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-share
 alt:
   - https://github.com/bobhy/vault-share
-downloads: 450
+downloads: 528
 updated at: "2026-06-17T03:19:31Z"
 related to:
   - "[[GitHub - 1224213330]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Share all or part of a vault across multiple devices using Google Drive as the rendezvous."
 
     stats: {
-        downloads:  450
+        downloads:  528
         updated_at: 1781666371000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smartscribe
 alt:
   - https://github.com/gloamfox/obsidian-smart-scribe
-downloads: 117
+downloads: 132
 updated at: "2026-06-02T08:10:11Z"
 related to:
   - "[[GitHub - 1194290171]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate titles, tags, categories, and summaries with multi‑platform AI, reusing existing tags and suggesting categories from folder structure. Optimize and rewrite selected text or whole notes with a dual‑panel preview showing edits and suggestions, and apply changes directly from the editor or context menu."
 
     stats: {
-        downloads:  117
+        downloads:  132
         updated_at: 1780387811000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/influx
 alt:
   - https://github.com/jensmtg/influx
-downloads: 29635
+downloads: 30387
 updated at: "2026-01-30T19:03:40Z"
 related to:
   - "[[GitHub - 507421399]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform backlinks into rich contextual excerpts by showing the surrounding content instead of bare titles. Group related contexts automatically and customize sorting, layout, and filtering to turn backlinks into research-ready insights."
 
     stats: {
-        downloads:  29635
+        downloads:  30387
         updated_at: 1769799820000
     }
 }

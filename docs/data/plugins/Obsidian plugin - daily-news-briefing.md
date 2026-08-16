@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/daily-news-briefing
 alt:
   - https://github.com/chenziqiadam/Daily-News-Briefing
-downloads: 3014
-updated at: "2026-07-01T02:51:09Z"
+downloads: 3167
+updated at: "2026-08-05T21:02:37Z"
 related to:
   - "[[GitHub - 941137730]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Generate AI daily news summaries in your Obsidian vault from RSS and multiple AI providers (OpenAI, Anthropic, Perplexity, Grok). Schedule delivery, track custom topics in six languages, use templates and a sidebar button, and archive notes into monthly subfolders."
 
     stats: {
-        downloads:  3014
-        updated_at: 1782874269000
+        downloads:  3167
+        updated_at: 1785963757000
     }
 }
 ```

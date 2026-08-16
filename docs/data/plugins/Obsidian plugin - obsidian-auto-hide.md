@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-auto-hide
 alt:
   - https://github.com/skjar/obsidian-auto-hide
-downloads: 17220
+downloads: 17622
 updated at: "2024-03-25T13:03:30Z"
 related to:
   - "[[GitHub - 523930773]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Collapse the sidebar by clicking the note content and expand it by clicking the blank area of the left or right ribbon or the note title. Toggle sidebars quickly to free up screen space while working."
 
     stats: {
-        downloads:  17220
+        downloads:  17622
         updated_at: 1711371810000
     }
 }

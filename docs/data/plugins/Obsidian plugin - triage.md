@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/triage
 alt:
   - https://github.com/totocaster/triage-obsidian
-downloads: 92
+downloads: 105
 updated at: "2026-06-12T14:17:38Z"
 related to:
   - "[[GitHub - 1267371203]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Resurface unprocessed notes into a scrolling queue of content-rich cards for quick, low-stakes review. Decide per note to keep, snooze, or delete; snoozed notes return when their date arrives."
 
     stats: {
-        downloads:  92
+        downloads:  105
         updated_at: 1781273858000
     }
 }

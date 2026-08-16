@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/minimap
 alt:
   - https://github.com/yairsegel/ObsidianMinimap
-downloads: 3023
+downloads: 3119
 updated at: "2025-10-12T14:31:21Z"
 related to:
   - "[[GitHub - 1012556074]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a live minimap of the current note to gain a scaled-down visual overview and navigate long Markdown files quickly. Drag the viewport slider to jump to sections, watch the map update on edits and scroll, and toggle per-note visibility while the minimap resizes with the editor and supports all themes and view modes."
 
     stats: {
-        downloads:  3023
+        downloads:  3119
         updated_at: 1760279481000
     }
 }

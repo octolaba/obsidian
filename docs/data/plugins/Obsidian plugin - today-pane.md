@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/today-pane
 alt:
   - https://github.com/imaikosuke/obsidian-today-pane
-downloads: 480
+downloads: 506
 updated at: "2026-06-17T15:02:27Z"
 related to:
   - "[[GitHub - 1096944865]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display today's daily note in the right sidebar at startup to keep daily records and tasks immediately accessible. Create today's note from your template if missing, replace the template's frontmatter date with today's date, prevent duplicate opens, and keep the pane desktop-only."
 
     stats: {
-        downloads:  480
+        downloads:  506
         updated_at: 1781708547000
     }
 }

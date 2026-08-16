@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-interpreter
 alt:
   - https://github.com/mikebirdtech/obsidian-open-interpreter
-downloads: 964
+downloads: 983
 updated at: "2024-10-30T16:11:37Z"
 related to:
   - "[[GitHub - 843462956]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Execute AI automations inside your vault using natural-language commands. Interact through an integrated chat to read, write, and edit Markdown files, with explicit user approval before any changes. Verify Open Interpreter installation and provide guidance to run within your vault."
 
     stats: {
-        downloads:  964
+        downloads:  983
         updated_at: 1730304697000
     }
 }

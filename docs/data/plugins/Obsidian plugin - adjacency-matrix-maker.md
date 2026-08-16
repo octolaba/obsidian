@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/adjacency-matrix-maker
 alt:
   - https://github.com/skepticmystic/adjacency-matrix-maker
-downloads: 6510
+downloads: 6535
 updated at: "2021-06-16T15:26:29Z"
 related to:
   - "[[GitHub - 374074093]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate an adjacency matrix image of your vault that maps note-to-note links as colored grid cells. Pan and zoom the matrix, hover or hold Ctrl for interactive tooltips, click cells to open linked notes, show folder-level color squares, and save the image to your vault."
 
     stats: {
-        downloads:  6510
+        downloads:  6535
         updated_at: 1623857189000
     }
 }

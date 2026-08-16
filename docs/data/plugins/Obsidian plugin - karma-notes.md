@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/karma-notes
 alt:
   - https://github.com/teoechavarria/karma-notes
-downloads: 103
+downloads: 111
 updated at: "2026-04-19T23:42:43Z"
 related to:
   - "[[GitHub - 1215312510]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a Reddit-style voting system to notes, allowing up/down votes that move a note ±1 per day and auto-decay notes by 1 point after two weeks of inactivity. Start new notes at 2 karma, view and filter scores in a sidebar, and show the active note's karma with emoji in the status bar."
 
     stats: {
-        downloads:  103
+        downloads:  111
         updated_at: 1776642163000
     }
 }

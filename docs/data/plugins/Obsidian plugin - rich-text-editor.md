@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/rich-text-editor
 alt:
   - https://github.com/querke/obsidian-rich-text-editor
-downloads: 1094
-updated at: "2026-07-01T21:25:57Z"
+downloads: 1434
+updated at: "2026-07-27T20:47:00Z"
 related to:
   - "[[GitHub - 1070736680]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "A seamless, rich-text writing experience for Obsidian. Built for users who want the power of Markdown without the visual clutter of raw syntax. I made this because editing text quickly on a phone became very cumbersome."
 
     stats: {
-        downloads:  1094
-        updated_at: 1782941157000
+        downloads:  1434
+        updated_at: 1785185220000
     }
 }
 ```

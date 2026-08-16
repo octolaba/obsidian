@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/callout-menu
 alt:
   - https://github.com/anareaty/callout-menu
-downloads: 24282
+downloads: 24910
 updated at: "2025-10-29T14:31:30Z"
 related to:
   - "[[GitHub - 851747088]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Change callout types from the context menu and choose which custom callouts appear. Add or remove callout metadata and toggle +/− collapse markers for concise, collapsible callouts."
 
     stats: {
-        downloads:  24282
+        downloads:  24910
         updated_at: 1761748290000
     }
 }

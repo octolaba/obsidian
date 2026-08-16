@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/eleven-days
 alt:
   - https://github.com/dyllonwright/Eleven-Days
-downloads: 42
+downloads: 70
 updated at: "2026-07-23T23:11:33Z"
 related to:
   - "[[GitHub - 1295835145]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display any date across eleven calendar systems at once — Gregorian plus ten alternatives such as Hebrew, Islamic, Chinese, Mayan, Discordian and Thelemic. Click a calendar card to read its story, add personal annual holidays, and walk day-to-day through daily notes even after archiving."
 
     stats: {
-        downloads:  42
+        downloads:  70
         updated_at: 1784848293000
     }
 }

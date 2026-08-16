@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-type
 alt:
   - https://github.com/koishiiko/obsidian-note-type
-downloads: 515
+downloads: 935
 updated at: "2026-07-22T01:54:51Z"
 related to:
   - "[[GitHub - 1233457682]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a Note Type dropdown to the Properties editor to switch a note's type and populate frontmatter and body from a template."
 
     stats: {
-        downloads:  515
+        downloads:  935
         updated_at: 1784685291000
     }
 }

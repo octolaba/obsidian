@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/links
 alt:
   - https://github.com/mii-key/obsidian-links
-downloads: 71796
+downloads: 73592
 updated at: "2026-03-12T11:43:59Z"
 related to:
   - "[[GitHub - 625192422]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create links from selected text or from the clipboard. Convert between wiki, Markdown, HTML and autolink formats; edit or remove link text and destinations; copy or cut link targets; embed or unembed files."
 
     stats: {
-        downloads:  71796
+        downloads:  73592
         updated_at: 1773315839000
     }
 }

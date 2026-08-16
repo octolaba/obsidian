@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/project-notes
 alt:
   - https://github.com/dartungar/obsidian-project-notes
-downloads: 114
-updated at: "2026-07-22T10:34:22Z"
+downloads: 188
+updated at: "2026-08-05T09:48:02Z"
 related to:
   - "[[GitHub - 1244530117]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Opinionated plugin for simple, lightweight note-based project management (1 note = 1 project). Your Markdown files stay the source of truth. The plugin only provides convenience and visuals, and aims to leave as little footprint as possible."
 
     stats: {
-        downloads:  114
-        updated_at: 1784716462000
+        downloads:  188
+        updated_at: 1785923282000
     }
 }
 ```

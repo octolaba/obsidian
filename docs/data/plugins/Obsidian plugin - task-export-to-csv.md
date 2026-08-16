@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/task-export-to-csv
 alt:
   - https://github.com/tailormade-eu/obsidian-task-export-plugin
-downloads: 102
+downloads: 110
 updated at: "2025-11-21T18:56:29Z"
 related to:
   - "[[GitHub - 1096377323]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export outstanding tasks from your Obsidian vault to CSV for ManicTime integration. Watch project folders and export on file changes, with command-palette export, selective folder monitoring, debounced updates and async processing for fast, reliable output."
 
     stats: {
-        downloads:  102
+        downloads:  110
         updated_at: 1763751389000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/minimal-hidden-files
 alt:
   - https://github.com/viggomeesters/obsidian-minimal-hidden-files
-downloads: 184
+downloads: 222
 updated at: "2026-06-13T04:29:04Z"
 related to:
   - "[[GitHub - 1262624634]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reveal safe dotfiles and dotfolders (e.g., .gitignore, .env, .claude/) in Obsidian's native File Explorer without adding extra sidebars or a custom file manager. Enable Obsidian's unsupported-file visibility while active and open revealed files in the normal workspace; keep .obsidian, .trash, .git and the vault config directory hidden by default."
 
     stats: {
-        downloads:  184
+        downloads:  222
         updated_at: 1781324944000
     }
 }

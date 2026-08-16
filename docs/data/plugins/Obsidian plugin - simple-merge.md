@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-merge
 alt:
   - https://github.com/mss051/obsidian-simple-merge
-downloads: 221
+downloads: 247
 updated at: "2026-06-17T14:00:15Z"
 related to:
   - "[[GitHub - 1232391196]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Merge an Index note and its linked files into a single, clean Markdown document, converting [[Note]] links to internal anchors and stripping child YAML while preserving the Index frontmatter. Compile selected link blocks, inject missing H1 headings, add custom separators, or enable Live Sync to keep the merged file tied to its sources."
 
     stats: {
-        downloads:  221
+        downloads:  247
         updated_at: 1781704815000
     }
 }

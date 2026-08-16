@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-in-cursor
 alt:
   - https://github.com/awaken233/open-in-cursor
-downloads: 819
+downloads: 902
 updated at: "2026-03-24T05:07:21Z"
 related to:
   - "[[GitHub - 1014268756]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open the current note in Cursor, VSCode, or Kiro and jump directly to the active cursor position in the external editor. Assign independent commands and hotkeys per IDE and run cross-platform on Windows, macOS, and Linux."
 
     stats: {
-        downloads:  819
+        downloads:  902
         updated_at: 1774328841000
     }
 }

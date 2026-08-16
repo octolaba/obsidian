@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/multidim-virtual-folders
 alt:
   - https://github.com/arislan-x/multidim-virtual-folders
-downloads: 253
+downloads: 454
 updated at: "2026-06-29T08:22:43Z"
 related to:
   - "[[GitHub - 1283414062]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Build multiple virtual folder trees from note frontmatter to place a single Markdown file in many hierarchies without moving the real file. Display dimensions as sidebar trees, drag notes into virtual folders to update frontmatter, and rename or delete virtual folders without affecting real files."
 
     stats: {
-        downloads:  253
+        downloads:  454
         updated_at: 1782721363000
     }
 }

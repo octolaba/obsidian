@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ffmpeg-converter
 alt:
   - https://github.com/mranyx/obsidian-ffmpeg-converter
-downloads: 599
+downloads: 634
 updated at: "2024-10-18T21:55:03Z"
 related to:
   - "[[GitHub - 853557720]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert images, video, and audio to smaller formats or reduced quality with FFmpeg to shrink vault storage. Support common image, video and audio formats and cut vault size by up to 70%. Require FFmpeg/FFprobe and provide rollback of temporary files on error to restore originals."
 
     stats: {
-        downloads:  599
+        downloads:  634
         updated_at: 1729288503000
     }
 }

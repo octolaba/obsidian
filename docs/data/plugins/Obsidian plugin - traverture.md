@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/traverture
 alt:
   - https://github.com/erykjj/traverture
-downloads: 261
-updated at: "2026-07-19T12:52:33Z"
+downloads: 369
+updated at: "2026-08-01T21:59:06Z"
 related to:
   - "[[GitHub - 1275617753]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Auto-detect and convert scripture references into interactive links with verse previews, study notes, and copy/export actions. Searchable sidebar table with multiple name formats, BCV codes, and TSV export. Insert citations, reformat between Full/Standard/Official styles, with multi-language support."
 
     stats: {
-        downloads:  261
-        updated_at: 1784465553000
+        downloads:  369
+        updated_at: 1785621546000
     }
 }
 ```

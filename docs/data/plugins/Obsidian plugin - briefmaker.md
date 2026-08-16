@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/briefmaker
 alt:
   - https://github.com/eugeny-dementev/briefmaker
-downloads: 156
+downloads: 160
 updated at: "2026-01-10T14:12:42Z"
 related to:
   - "[[GitHub - 1128261841]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Prepare AI agent briefs from the current note and copy the rendered prompt to the clipboard without running AI or modifying your files. Match notes to path-based templates using ordered regex rules, extract unchecked tasks, include file metadata, frontmatter, selection and content, and preview before copying."
 
     stats: {
-        downloads:  156
+        downloads:  160
         updated_at: 1768054362000
     }
 }

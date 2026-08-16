@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/consensus-research
 alt:
   - https://github.com/maxonamission/obsidian-parallax
-downloads: 236
-updated at: "2026-07-14T11:50:40Z"
+downloads: 323
+updated at: "2026-08-06T06:31:26Z"
 related to:
   - "[[GitHub - 1288762450]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Answers get better with better questions. Parallax is for the thinking that comes first, and for keeping it yours. Build assumptions, theoretical lenses, challenges to your framing, new questions, each tagged qualitative, quantitative or mixed. Revise a section and it branches a new note instead of overwriting, so an earlier line of reasoning is never lost. Work one question through several lenses at once, search free via OpenAlex (Semantic Scholar and Consensus optional), and land graded syntheses whose citations stay traceable, from your own .bib library as readily as from your searches, and linked to your literature notes. Then carry it further: map the argument on a Canvas, design an interview guide, export a coding starter kit for Quadro, and keep a deterministic account of the whole journey. Research you can defend, in plain Markdown you own. Artefacts in 13+ languages. AI suggestions optional as a proposal you adopt item by item, never an edit made for you."
 
     stats: {
-        downloads:  236
-        updated_at: 1784029840000
+        downloads:  323
+        updated_at: 1785997886000
     }
 }
 ```

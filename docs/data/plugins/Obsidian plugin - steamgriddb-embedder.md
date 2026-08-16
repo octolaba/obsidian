@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/steamgriddb-embedder
 alt:
   - https://github.com/abduznik/obsidian-steamgriddb
-downloads: 266
+downloads: 315
 updated at: "2026-05-16T13:54:53Z"
 related to:
   - "[[GitHub - 1022473671]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search SteamGridDB for game images, interactively choose the correct game and specific grid art, and embed the selected image into your note. Trigger embedding automatically from Templater templates (SteamGridDB API key required)."
 
     stats: {
-        downloads:  266
+        downloads:  315
         updated_at: 1778939693000
     }
 }

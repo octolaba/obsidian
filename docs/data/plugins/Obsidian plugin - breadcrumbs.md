@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/breadcrumbs
 alt:
   - https://github.com/michaelpporter/breadcrumbs
-downloads: 232729
-updated at: "2026-07-07T00:16:01Z"
+downloads: 278752
+updated at: "2026-08-03T13:37:35Z"
 related to:
   - "[[GitHub - 374074023]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add typed links to notes to build a graph of hierarchies, threads, and custom relations. Visualize and traverse the typed graph with multiple views to explore and navigate your note structure."
 
     stats: {
-        downloads:  232729
-        updated_at: 1783383361000
+        downloads:  278752
+        updated_at: 1785764255000
     }
 }
 ```

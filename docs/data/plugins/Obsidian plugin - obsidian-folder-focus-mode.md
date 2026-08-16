@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-folder-focus-mode
 alt:
   - https://github.com/grochowski/obsidian-folder-focus-mode
-downloads: 17986
+downloads: 18134
 updated at: "2024-07-04T22:31:31Z"
 related to:
   - "[[GitHub - 488026191]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Focus the file explorer on a selected folder and its files and subdirectories, hiding all other files and directories. Toggle focus via the folder context menu, an optional explorer icon, or a global command, and enable focusing on linked folders from folder notes."
 
     stats: {
-        downloads:  17986
+        downloads:  18134
         updated_at: 1720132291000
     }
 }

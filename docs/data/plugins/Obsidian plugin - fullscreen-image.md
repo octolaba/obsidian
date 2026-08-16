@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/fullscreen-image
 alt:
   - https://github.com/haivri/obsidian-fullscreen-image
-downloads: 34
-updated at: "2026-07-22T01:27:40Z"
+downloads: 135
+updated at: "2026-08-05T21:55:37Z"
 related to:
   - "[[GitHub - 1308240069]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Open images in a distraction-free lightbox that fits them to the available viewport and can cover the full window or stay inside the active pane. Zoom with buttons, mouse wheel, pinch or double-click, pan when zoomed, and keep everything local — no note edits, telemetry, or network requests."
 
     stats: {
-        downloads:  34
-        updated_at: 1784683660000
+        downloads:  135
+        updated_at: 1785966937000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cbz-reader
 alt:
   - https://github.com/usero2/obsidian-plugins-cbz-reader
-downloads: 131
+downloads: 218
 updated at: "2026-06-16T04:39:45Z"
 related to:
   - "[[GitHub - 1266964112]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Read .cbz comics directly inside your Obsidian vault with a native viewer that opens archives without extraction. Navigate large comics with lazy image loading and automatic memory unloading, enjoy smooth scrolling, and use a VS Code-style minimap with thumbnail previews, click-to-jump, and 1:1 drag navigation."
 
     stats: {
-        downloads:  131
+        downloads:  218
         updated_at: 1781584785000
     }
 }

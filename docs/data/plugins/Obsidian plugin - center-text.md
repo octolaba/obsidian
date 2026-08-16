@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/center-text
 alt:
   - https://github.com/camblackwell/Obsidian_Center_Text_Plugin
-downloads: 379
+downloads: 460
 updated at: "2026-03-29T07:29:09Z"
 related to:
   - "[[GitHub - 1194992591]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Center text in notes and set a maximum column width with a 20–100% slider. Toggle centering on or off and apply it in both reading view and live preview, with settings that persist across restarts."
 
     stats: {
-        downloads:  379
+        downloads:  460
         updated_at: 1774769349000
     }
 }

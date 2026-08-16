@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/talon-cql
 alt:
   - https://github.com/clivoa/talon-cql
-downloads: 77
-updated at: "2026-06-06T07:55:00Z"
+downloads: 101
+updated at: "2026-08-02T20:20:59Z"
 related to:
   - "[[GitHub - 1260827594]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add syntax highlighting for CrowdStrike CQL (LogScale Query Language) in Obsidian, working in both edit and preview modes and accepting the alias \"logscale\". Highlight event fields, built-in and namespaced functions, keywords, operators, strings, regex, numbers and comments, and include ready-to-use hunting query templates."
 
     stats: {
-        downloads:  77
-        updated_at: 1780732500000
+        downloads:  101
+        updated_at: 1785702059000
     }
 }
 ```

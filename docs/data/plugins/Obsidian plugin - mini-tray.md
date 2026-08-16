@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mini-tray
 alt:
   - https://github.com/wangdamon6-hub/obsidian-mini-tray
-downloads: 41
+downloads: 110
 updated at: "2026-07-14T13:05:36Z"
 related to:
   - "[[GitHub - 1300044966]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Close Obsidian to hide it in the system tray instead of quitting. Click the tray icon to toggle show/hide and right-click to quit; desktop single-window only."
 
     stats: {
-        downloads:  41
+        downloads:  110
         updated_at: 1784034336000
     }
 }

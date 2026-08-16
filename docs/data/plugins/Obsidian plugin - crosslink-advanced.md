@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/crosslink-advanced
 alt:
   - https://github.com/d7sd6u/obsidian-crosslink-advanced
-downloads: 791
+downloads: 897
 updated at: "2025-03-12T15:50:27Z"
 related to:
   - "[[GitHub - 937955079]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage ftags (clones/symlinks) with commands to add or remove them, create child notes (convert current file to a folder note), open random inbox item, and rename a file while making its old name an alias. Use file operations to move files and update symlinks; back up your vault before use."
 
     stats: {
-        downloads:  791
+        downloads:  897
         updated_at: 1741794627000
     }
 }

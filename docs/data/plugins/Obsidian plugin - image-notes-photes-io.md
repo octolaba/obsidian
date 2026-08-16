@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-notes-photes-io
 alt:
   - https://github.com/kanaries/photes-io-obsidian-plugin
-downloads: 827
+downloads: 855
 updated at: "2024-08-27T06:09:46Z"
 related to:
   - "[[GitHub - 814961924]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert photos into text notes using Photes.IO AI, extracting captions and context in real time. Generate notes from new or existing images directly in your vault — sign in to Photes.IO and run the AI on any photo."
 
     stats: {
-        downloads:  827
+        downloads:  855
         updated_at: 1724738986000
     }
 }

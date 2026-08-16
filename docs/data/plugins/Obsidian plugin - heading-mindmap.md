@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/heading-mindmap
 alt:
   - https://github.com/jhihjian/obsidian-heading-mindmap
-downloads: 180
+downloads: 244
 updated at: "2026-06-17T07:14:26Z"
 related to:
   - "[[GitHub - 1267484380]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "打开可编辑思维导图以结构化浏览 Markdown 笔记，按标题层级生成上方节点树。查看或编辑下方单栏面板中的当前节点正文（渲染或源码模式），并将更改写回原 Markdown 文件；支持双击展开文件节点、将列表项展示为只读虚拟子节点和基本键盘交互。"
 
     stats: {
-        downloads:  180
+        downloads:  244
         updated_at: 1781680466000
     }
 }

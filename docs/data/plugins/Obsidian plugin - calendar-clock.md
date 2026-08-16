@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/calendar-clock
 alt:
   - https://github.com/izz4n/obsidian-calendar-clock-plugin
-downloads: 36
+downloads: 84
 updated at: "2026-07-14T19:01:03Z"
 related to:
   - "[[GitHub - 1300811601]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed a live clock at the top of Liam Cain's Calendar sidebar for at-a-glance current time (requires Liam Cain's Calendar plugin). Keep layouts stable with monospace digits and theme-aware colors, and enable 12-hour or seconds display in the plugin Settings."
 
     stats: {
-        downloads:  36
+        downloads:  84
         updated_at: 1784055663000
     }
 }

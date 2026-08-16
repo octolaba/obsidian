@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ioc-lens
 alt:
   - https://github.com/acgabbert/IOC-Lens
-downloads: 972
+downloads: 990
 updated at: "2024-12-11T11:47:21Z"
 related to:
   - "[[GitHub - 879667350]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extract and organize indicators of compromise (IP addresses, domains, SHA256, MD5) from your Obsidian notes into a clean, read-only sidebar view. Defang or refang IOCs, recognize defanged formats like evil[.]com, and pivot to security engines (VirusTotal, Shodan, GreyNoise, AbuseIPDB, Google) for one-click searches while keeping IOCs non-clickable."
 
     stats: {
-        downloads:  972
+        downloads:  990
         updated_at: 1733917641000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/terminal
 alt:
   - https://github.com/polyipseity/obsidian-terminal
-downloads: 365353
+downloads: 387955
 updated at: "2026-07-20T02:10:55Z"
 related to:
   - "[[GitHub - 578660268]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed consoles and shells directly inside Obsidian and start external terminals from your notes. Manage multiple terminal profiles, use an emulated developer console on all platforms, search and save terminal history, restore sessions automatically, and customize terminal appearance."
 
     stats: {
-        downloads:  365353
+        downloads:  387955
         updated_at: 1784513455000
     }
 }

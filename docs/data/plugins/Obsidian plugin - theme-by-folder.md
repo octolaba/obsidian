@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/theme-by-folder
 alt:
   - https://github.com/jinmugo/obsidian-theme-by-folder
-downloads: 2808
+downloads: 2930
 updated at: "2026-06-14T07:45:22Z"
 related to:
   - "[[GitHub - 969008047]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Switch Obsidian theme and light/dark mode automatically when opening notes in specified folders. Assign themes and modes per folder (Light, Dark, or System Default), set a default fallback for unmatched notes, and keep behavior fast with simple path-based matching."
 
     stats: {
-        downloads:  2808
+        downloads:  2930
         updated_at: 1781423122000
     }
 }

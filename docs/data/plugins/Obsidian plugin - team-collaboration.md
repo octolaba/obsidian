@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/team-collaboration
 alt:
   - https://github.com/a27856704/obsidian-team-plugin
-downloads: 51
+downloads: 62
 updated at: "2026-06-16T05:41:58Z"
 related to:
   - "[[GitHub - 1187830936]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Enable real-time team collaboration in Obsidian by connecting to a REST + WebSocket backend. Sync notes, edits, and presence across teammates and optionally enable AI assistance via OpenAI or Claude API keys."
 
     stats: {
-        downloads:  51
+        downloads:  62
         updated_at: 1781588518000
     }
 }

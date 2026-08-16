@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/journal-bases
 alt:
   - https://github.com/dsebastien/obsidian-journal-base
-downloads: 3588
-updated at: "2026-07-22T10:57:16Z"
+downloads: 4285
+updated at: "2026-08-07T08:08:40Z"
 related to:
   - "[[GitHub - 1117561062]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Navigate and manage daily, weekly, monthly, quarterly, and yearly notes with two purpose-built Base views for journaling and periodic review. Use a Periodic Notes view to list, fold and edit notes by period, and a Periodic Review view to compare periods side-by-side and extract insights for weekly, monthly, quarterly, and yearly summaries."
 
     stats: {
-        downloads:  3588
-        updated_at: 1784717836000
+        downloads:  4285
+        updated_at: 1786090120000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-zhipu
 alt:
   - https://github.com/tarslab/obsidian-ai-zhipu
-downloads: 2699
+downloads: 2725
 updated at: "2024-06-07T01:31:17Z"
 related to:
   - "[[GitHub - 769779738]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate content, images, and knowledge-base Q&A using Zhipu AI directly from Obsidian with customizable prompt templates. Manage multi-turn conversations, view prompt and token usage, and keep templates and history in an Aizhipu folder for quick access."
 
     stats: {
-        downloads:  2699
+        downloads:  2725
         updated_at: 1717723877000
     }
 }

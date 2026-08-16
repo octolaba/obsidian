@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/scroll-to-nav-top
 alt:
   - https://github.com/mariomui/scroll-to-nav-top
-downloads: 1085
+downloads: 1119
 updated at: "2025-08-07T14:25:00Z"
 related to:
   - "[[GitHub - 989603011]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scroll the file explorer to the top instantly. Open the Command Palette and run \"Scroll To Nav Top\" to jump back to the top of the navigation pane."
 
     stats: {
-        downloads:  1085
+        downloads:  1119
         updated_at: 1754576700000
     }
 }

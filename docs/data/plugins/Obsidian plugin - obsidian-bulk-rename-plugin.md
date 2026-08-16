@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-bulk-rename-plugin
 alt:
   - https://github.com/oleglustenko/obsidian-bulk-rename
-downloads: 19006
+downloads: 19256
 updated at: "2023-02-18T18:48:08Z"
 related to:
   - "[[GitHub - 529182808]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Rename and move multiple files while updating all links and references across your vault. Search and select files by folder, tags, or RegExp, preview changes, and apply bulk renames or moves in one go."
 
     stats: {
-        downloads:  19006
+        downloads:  19256
         updated_at: 1676746088000
     }
 }

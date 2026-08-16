@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/json-editor
 alt:
   - https://github.com/johannes-kaindl/json-editor
-downloads: 341
-updated at: "2026-07-11T14:36:56Z"
+downloads: 541
+updated at: "2026-08-11T16:15:53Z"
 related to:
   - "[[GitHub - 1244988555]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Edit .json files with a Tree Source toggle offering a structural tree editor and a syntax-highlighted source view. Render JSON code blocks in notes as collapsible, theme-aware trees; perform add/rename/delete/reorder/type-switch edits, use unified undo/redo, opt into JSON Schema validation, and edit with touch-friendly controls on mobile."
 
     stats: {
-        downloads:  341
-        updated_at: 1783780616000
+        downloads:  541
+        updated_at: 1786464953000
     }
 }
 ```

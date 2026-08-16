@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-prozen
 alt:
   - https://github.com/cmoskvitin/obsidian-prozen
-downloads: 35728
+downloads: 36326
 updated at: "2022-11-26T22:28:18Z"
 related to:
   - "[[GitHub - 565196688]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Enter distraction-free Zen mode and remove panels, headers, icons, graph controls and scrollbars for a true fullscreen writing or reading view. Dim the sides with a smooth vignette, add a gentle fade-in and force content centering to keep attention on the text."
 
     stats: {
-        downloads:  35728
+        downloads:  36326
         updated_at: 1669501698000
     }
 }

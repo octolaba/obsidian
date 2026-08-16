@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/project-verse
 alt:
   - https://github.com/318182456/ProjectVerse
-downloads: 165
+downloads: 224
 updated at: "2026-06-10T06:03:54Z"
 related to:
   - "[[GitHub - 1262417651]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and manage virtual project spaces that link files and folders across your vault and auto-generate customizable dashboards showing project statistics. Browse projects in a dedicated sidebar explorer, scan and toggle Markdown tasks from dashboards, store memos, and restore open tabs when switching spaces."
 
     stats: {
-        downloads:  165
+        downloads:  224
         updated_at: 1781071434000
     }
 }

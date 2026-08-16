@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/focus-mode-pro
 alt:
   - https://github.com/mvru/focus-mode-pro
-downloads: 264
+downloads: 291
 updated at: "2026-03-08T02:46:08Z"
 related to:
   - "[[GitHub - 1171887529]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Enter a distraction-free writing environment that hides sidebars, ribbons, tabs, and status bars, centers content with adjustable width, and adjusts font size for optimal readability. Navigate with a fast file finder and Windows-style tab switcher, keep your cursor centered with typewriter mode, and add subtle acoustic typing ticks for sensory feedback."
 
     stats: {
-        downloads:  264
+        downloads:  291
         updated_at: 1772937968000
     }
 }

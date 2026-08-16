@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/expandomatic
 alt:
   - https://github.com/onsi/expandomatic
-downloads: 310
+downloads: 441
 updated at: "2026-05-12T13:20:55Z"
 related to:
   - "[[GitHub - 1235985359]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Expand selection outward through syntactic units (word → URL/sentence → paragraph → section → document) with repeated commands. Shrink back stepwise through the expansion history and handle table cells, fenced code blocks, and inline/block math intelligently."
 
     stats: {
-        downloads:  310
+        downloads:  441
         updated_at: 1778592055000
     }
 }

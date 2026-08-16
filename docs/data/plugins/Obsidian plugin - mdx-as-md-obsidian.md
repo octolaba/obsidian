@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mdx-as-md-obsidian
 alt:
   - https://github.com/mkozhukharenko/mdx-as-md-obsidian
-downloads: 7516
+downloads: 7616
 updated at: "2021-04-18T19:48:28Z"
 related to:
   - "[[GitHub - 359235789]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit MDX files as plain Markdown inside Obsidian, exposing markdown content while preserving MDX syntax for code and components. Use with Obsidian 0.10.12 or later."
 
     stats: {
-        downloads:  7516
+        downloads:  7616
         updated_at: 1618775308000
     }
 }

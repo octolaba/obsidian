@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/paste-image-into-property
 alt:
   - https://github.com/nitero/obsidian-paste-image-into-property
-downloads: 1568
+downloads: 1646
 updated at: "2026-05-22T15:15:23Z"
 related to:
   - "[[GitHub - 927396861]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Paste images from the clipboard into YAML frontmatter text properties while in Live Preview. Save the image to your vault using Obsidian's attachment path and insert a link into the property; replaces the property's content, supports only text properties and Live Preview, and has no mobile support."
 
     stats: {
-        downloads:  1568
+        downloads:  1646
         updated_at: 1779462923000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/math-plotter
 alt:
   - https://github.com/sharbelmarshi/obsidian-math-plotter
-downloads: 181
-updated at: "2026-06-30T06:52:36Z"
+downloads: 314
+updated at: "2026-08-05T23:14:37Z"
 related to:
   - "[[GitHub - 1283981054]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create interactive 2D and 3D function, parametric, PDE/ODE solution, and data plots via a visual GUI or quick inline graph block without hand-writing TikZ or LaTeX. Render instant transparent SVG previews with a built-in JS sampler and export higher-quality TikZJax or LuaLaTeX outputs on demand, with labeled points, meshes, and annotation support."
 
     stats: {
-        downloads:  181
-        updated_at: 1782802356000
+        downloads:  314
+        updated_at: 1785971677000
     }
 }
 ```

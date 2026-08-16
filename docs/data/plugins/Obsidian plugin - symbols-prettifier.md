@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/symbols-prettifier
 alt:
   - https://github.com/florianwoelki/obsidian-symbols-prettifier
-downloads: 44033
+downloads: 45540
 updated at: "2026-07-13T06:48:34Z"
 related to:
   - "[[GitHub - 518381245]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Prettify common ASCII symbol sequences into readable Unicode glyphs like -> →, <- ←, <-> ↔, <=> ⇔, => ⇒, <= ⇐, >= ≥, +- ±, -+ ∓. Apply substitutions live in the editor so arrows and operators are easier to read across your notes."
 
     stats: {
-        downloads:  44033
+        downloads:  45540
         updated_at: 1783925314000
     }
 }

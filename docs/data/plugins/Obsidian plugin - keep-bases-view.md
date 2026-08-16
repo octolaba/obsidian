@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/keep-bases-view
 alt:
   - https://github.com/k4fn/keep-bases-view
-downloads: 579
+downloads: 680
 updated at: "2026-06-19T07:51:10Z"
 related to:
   - "[[GitHub - 1254979097]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display notes in a Google Keep-style masonry grid with responsive cards and auto-adjusting columns. Pin notes to a separate top section, color-code cards, show cover images and body previews, and use a context menu for quick actions like open, pin/unpin, change color, or delete."
 
     stats: {
-        downloads:  579
+        downloads:  680
         updated_at: 1781855470000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/llm-translate
 alt:
   - https://github.com/chenyuxiaojin/obsidian-llm-translate
-downloads: 201
+downloads: 283
 updated at: "2026-07-06T07:36:59Z"
 related to:
   - "[[GitHub - 1207647248]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Translate selected text or entire notes while preserving YAML frontmatter and choose from OpenAI-compatible providers or custom endpoints. Stream translations live into the editor, cancel in-progress requests, and customize the system prompt with {{targetLanguage}}."
 
     stats: {
-        downloads:  201
+        downloads:  283
         updated_at: 1783323419000
     }
 }

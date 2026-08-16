@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/property-streak
 alt:
   - https://github.com/git-hub-dangel/obsidian-property-streaks
-downloads: 135
+downloads: 162
 updated at: "2026-06-30T22:36:07Z"
 related to:
   - "[[GitHub - 1285427388]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track daily-note frontmatter habits with Duolingo-like streaks that show icons and motivational comments next to your properties. Configure mono or multi streaks, custom colors, a widget for selected streaks, and optional streak‑freezes to pause and recover streaks."
 
     stats: {
-        downloads:  135
+        downloads:  162
         updated_at: 1782858967000
     }
 }

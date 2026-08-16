@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gemini-assistant
 alt:
   - https://github.com/eatgrass/obsidian-gemini-assistant
-downloads: 19332
+downloads: 19837
 updated at: "2024-03-05T05:51:08Z"
 related to:
   - "[[GitHub - 731471382]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate content and run interactive chats with Google Gemini directly inside Obsidian. Start new Gemini chats or open the assistant via commands, and connect using your Gemini API key."
 
     stats: {
-        downloads:  19332
+        downloads:  19837
         updated_at: 1709617868000
     }
 }

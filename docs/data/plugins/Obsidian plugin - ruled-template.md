@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ruled-template
 alt:
   - https://github.com/ypetremann/obsidian-ruled-template
-downloads: 4008
+downloads: 4020
 updated at: "2023-07-25T19:43:10Z"
 related to:
   - "[[GitHub - 665704583]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Select templates automatically for new files based on ordered rules that match file paths. Create rules with regex or glob patterns, reorder or delete them, and test paths to see which template matches and validate patterns and templates."
 
     stats: {
-        downloads:  4008
+        downloads:  4020
         updated_at: 1690314190000
     }
 }

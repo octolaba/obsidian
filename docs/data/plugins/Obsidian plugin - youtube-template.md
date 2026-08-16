@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/youtube-template
 alt:
   - https://github.com/sundevista/youtube-template
-downloads: 8502
+downloads: 8558
 updated at: "2025-05-17T11:40:11Z"
 related to:
   - "[[GitHub - 734241756]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a note from a YouTube URL using a configurable template and format chapters and hashtags to your preference. Provide a Google Cloud API key to let the plugin query the YouTube Data API for video details and chapters."
 
     stats: {
-        downloads:  8502
+        downloads:  8558
         updated_at: 1747482011000
     }
 }

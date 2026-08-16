@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/scholar-sidekick
 alt:
   - https://github.com/mlava/scholar-sidekick-obsidian
-downloads: 240
-updated at: "2026-05-19T05:10:29Z"
+downloads: 302
+updated at: "2026-08-04T23:57:37Z"
 related to:
   - "[[GitHub - 1229292486]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Insert formatted citations from DOIs, PMIDs, ISBNs, arXiv IDs, ADS bibcodes, PMCIDs, or ISSNs directly into notes. Replace identifiers under the cursor or wrap selections, choose built‑in or 10,000+ CSL styles, and export a note's citations to BibTeX or RIS without a reference manager."
 
     stats: {
-        downloads:  240
-        updated_at: 1779167429000
+        downloads:  302
+        updated_at: 1785887857000
     }
 }
 ```

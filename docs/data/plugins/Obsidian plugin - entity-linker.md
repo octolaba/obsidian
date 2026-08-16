@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/entity-linker
 alt:
   - https://github.com/ankush-chander/obsidian-entity-linker
-downloads: 670
+downloads: 687
 updated at: "2024-07-17T06:19:25Z"
 related to:
   - "[[GitHub - 817619182]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Link selected text or the active note title to standard entities from OpenAlex, Wikidata, and Wikipedia. Suggest matching entities and create corresponding entity notes using OpenAlex search results."
 
     stats: {
-        downloads:  670
+        downloads:  687
         updated_at: 1721197165000
     }
 }

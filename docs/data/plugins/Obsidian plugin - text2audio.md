@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/text2audio
 alt:
   - https://github.com/luhaifeng666/obsidian-text2audio
-downloads: 2712
+downloads: 2770
 updated at: "2024-06-12T06:45:21Z"
 related to:
   - "[[GitHub - 791662719]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert selected text or entire notes to speech via Microsoft Azure Text-to-Speech and play audio directly in Obsidian. Use keyboard shortcuts or the plugin window to start, pause/resume, and stop playback, with support for Simplified Chinese, Traditional Chinese, and English."
 
     stats: {
-        downloads:  2712
+        downloads:  2770
         updated_at: 1718174721000
     }
 }

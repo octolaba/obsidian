@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/habit-calendar
 alt:
   - https://github.com/hedonihilist/obsidian-habit-calendar
-downloads: 11416
+downloads: 11464
 updated at: "2023-03-19T06:34:51Z"
 related to:
   - "[[GitHub - 584760194]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render a monthly habit calendar inside a DataviewJS code block to visualize daily habit status for any month. Use Dataview tables or manual data entries as sources, map notes with custom date patterns, and set habit labels via header pipe notation."
 
     stats: {
-        downloads:  11416
+        downloads:  11464
         updated_at: 1679207691000
     }
 }

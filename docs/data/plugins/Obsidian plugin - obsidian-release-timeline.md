@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-release-timeline
 alt:
   - https://github.com/cakechaser/obsidian-release-timeline
-downloads: 10308
+downloads: 10331
 updated at: "2024-01-18T19:16:32Z"
 related to:
   - "[[GitHub - 485695213]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create release timelines from note metadata using Dataview-compatible queries. Generate year, month, or week timelines that auto-extract dates (YYYY, YYYY-MM, YYYY-MM-DD), honor alias fields and sort order, and render results as a clear chronological timeline."
 
     stats: {
-        downloads:  10308
+        downloads:  10331
         updated_at: 1705605392000
     }
 }

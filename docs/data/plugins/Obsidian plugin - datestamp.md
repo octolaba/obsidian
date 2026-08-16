@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/datestamp
 alt:
   - https://github.com/huynhtranhoanglong/obsidian-datestamp
-downloads: 112
+downloads: 122
 updated at: "2026-02-02T22:44:22Z"
 related to:
   - "[[GitHub - 1147974444]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Prefix new note filenames with today's date using a configurable date format, separator, and default title (default YYYY-MM-DD). Preserve untitled notes and work immediately after install, with a built-in delay for Templater and seamless QuickAdd compatibility."
 
     stats: {
-        downloads:  112
+        downloads:  122
         updated_at: 1770072262000
     }
 }

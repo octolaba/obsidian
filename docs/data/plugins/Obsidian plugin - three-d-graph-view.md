@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/three-d-graph-view
 alt:
   - https://github.com/roasted-nz/obsidian-three-d-graph-view
-downloads: 872
+downloads: 1066
 updated at: "2026-07-14T08:12:16Z"
 related to:
   - "[[GitHub - 1241076892]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Explore your vault as a rotatable 3D graph that reveals notes, links, backlinks, tags, and vault growth over time. Rotate, pan, and zoom a core-to-surface spherical layout with per-tag colors, hover-highlighted connections, and a timelapse replay of note creation."
 
     stats: {
-        downloads:  872
+        downloads:  1066
         updated_at: 1784016736000
     }
 }

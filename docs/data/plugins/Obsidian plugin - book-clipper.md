@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/book-clipper
 alt:
   - https://github.com/fardm/obsidian-book-clipper
-downloads: 1204
+downloads: 1284
 updated at: "2026-07-04T08:43:50Z"
 related to:
   - "[[GitHub - 1062581151]]"
@@ -28,7 +28,7 @@ Book Clipper imports book metadata from Goodreads, Amazon, Taaghche and Fidibo i
 plugin: {
     id:     "book-clipper"
     name:   "Book Clipper"
-    author: "fardm"
+    author: "Hossein Fard"
     repo:   "fardm/obsidian-book-clipper"
 
     html_url:    "https://community.obsidian.md/plugins/book-clipper"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import book metadata from Goodreads, Amazon, Taaghche and Fidibo directly into Obsidian notes. Populate templates with variables (title, author, translator, pages, cover, publisher, date, ISBN, URL, language) to auto-create book entries. Beware Goodreads may combine author and translator, so translator may not be returned."
 
     stats: {
-        downloads:  1204
+        downloads:  1284
         updated_at: 1783154630000
     }
 }

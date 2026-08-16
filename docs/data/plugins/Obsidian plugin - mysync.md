@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/mysync
 alt:
   - https://github.com/henriquemanduca/mysync-plugin
-downloads: 172
-updated at: "2026-07-15T18:15:07Z"
+downloads: 230
+updated at: "2026-07-27T13:47:51Z"
 related to:
   - "[[GitHub - 1231380455]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync your Obsidian vault with your own CouchDB server, pushing local changes or pulling remote state back into the vault. Keep a local PouchDB index, track Markdown files, PDFs and common images, test the CouchDB connection, and view sync progress and last push time in the status bar."
 
     stats: {
-        downloads:  172
-        updated_at: 1784139307000
+        downloads:  230
+        updated_at: 1785160071000
     }
 }
 ```

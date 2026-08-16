@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sync-meter
 alt:
   - https://github.com/wolfuardian/obsidian-sync-meter
-downloads: 130
+downloads: 150
 updated at: "2026-04-07T14:58:15Z"
 related to:
   - "[[GitHub - 1203904737]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display real-time Obsidian Sync progress as a percentage with a mini progress bar in the status bar. Provide three visual states—Syncing (accent-colored icon with animated bar and percentage), Synced (dimmed 100% icon), and Sync unavailable (greyed out)—and poll status every 2 seconds on desktop and mobile."
 
     stats: {
-        downloads:  130
+        downloads:  150
         updated_at: 1775573895000
     }
 }

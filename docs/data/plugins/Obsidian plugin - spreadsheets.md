@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/spreadsheets
 alt:
   - https://github.com/divamgupta/obsidian-spreadsheets
-downloads: 40286
+downloads: 40790
 updated at: "2023-09-06T03:03:51Z"
 related to:
   - "[[GitHub - 675881725]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and edit spreadsheets inside Obsidian with cell-based sheets that support formulas, filtering, and sorting. Format text, change fonts, colors, borders, wrap, merge and resize cells, and drag cells to reorganize data."
 
     stats: {
-        downloads:  40286
+        downloads:  40790
         updated_at: 1693969431000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chroma-key
 alt:
   - https://github.com/aziz-zahran/obsidian-chroma-key
-downloads: 201
+downloads: 230
 updated at: "2026-07-09T06:07:59Z"
 related to:
   - "[[GitHub - 1270577194]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Remove backgrounds from pasted images with a single click via the right-click menu or the command palette. Fine-tune cutouts with adjustable tolerance and edge softening, auto-detect or enter a hex background color, and save transparent PNGs to a chroma/ folder while updating image links."
 
     stats: {
-        downloads:  201
+        downloads:  230
         updated_at: 1783577279000
     }
 }

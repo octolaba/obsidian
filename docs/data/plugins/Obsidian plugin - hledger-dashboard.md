@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hledger-dashboard
 alt:
   - https://github.com/cousine/hledger-dashboard
-downloads: 118
+downloads: 233
 updated at: "2026-07-07T11:52:31Z"
 related to:
   - "[[GitHub - 1288135522]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a full financial dashboard for hledger journals inside Obsidian. View balance sheet and net worth, income vs expenses, budget vs actual with forecasts, searchable paginated transactions, transfers history, and KPIs with charts and detailed tables including multi-month trends and price conversion."
 
     stats: {
-        downloads:  118
+        downloads:  233
         updated_at: 1783425151000
     }
 }

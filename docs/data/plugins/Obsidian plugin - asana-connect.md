@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/asana-connect
 alt:
   - https://github.com/notenerdofficial/asana-connect
-downloads: 31
+downloads: 73
 updated at: "2026-07-11T15:11:27Z"
 related to:
   - "[[GitHub - 1297204000]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed, create, search and sync Asana tasks in Obsidian, displaying task name, assignee, due date, project, custom fields and a clickable checkbox to complete or reopen tasks. Insert single-task embeds or live task lists, open a My Tasks sidebar grouped by due status, and create tasks from selected text; store your Asana token encrypted locally."
 
     stats: {
-        downloads:  31
+        downloads:  73
         updated_at: 1783782687000
     }
 }

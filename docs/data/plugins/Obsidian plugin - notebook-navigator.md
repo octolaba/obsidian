@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/notebook-navigator
 alt:
   - https://github.com/johansan/notebook-navigator
-downloads: 777288
-updated at: "2026-07-20T17:45:50Z"
+downloads: 844787
+updated at: "2026-08-09T19:37:18Z"
 related to:
   - "[[GitHub - 997189255]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Notebook Navigator replaces the default file explorer with a two-pane browser. The navigation pane has folders, tags, properties, shortcuts, and recent files. The listpane shows your notes with previews, thumbnails, and date grouping. [[SEARCH]] Search notes by name, tags, properties, dates, folders, extensions, and tasks. Optional Omnisearch integration. [[CALENDAR]] A calendar sidebar opens daily, weekly, monthly, quarterly, and yearly notes with support for periodic notes and image previews. [[TAGS]] Rename and delete tags from the tag tree. Drag files onto a tag to assign it. Show tags in listpane. [[DRAG AND DROP]] Move files between folders, reparent tags, and assign shortcuts by dragging. [[ORGANIZATION]] Folder notes, pinned notes, custom sort per folder or tag, and colors and icons on folders, tags, properties, and files. [[LAYOUT]] Single-pane and dual-pane layouts, custom hotkeys, vault profiles, mobile support, and 21 languages with RTL."
 
     stats: {
-        downloads:  777288
-        updated_at: 1784569550000
+        downloads:  844787
+        updated_at: 1786304238000
     }
 }
 ```

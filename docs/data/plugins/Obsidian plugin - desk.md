@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/desk
 alt:
   - https://github.com/davidlandry93/obsidian-desk
-downloads: 3973
+downloads: 3986
 updated at: "2023-12-07T16:44:18Z"
 related to:
   - "[[GitHub - 636240328]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Lay out selected notes as 4x6 Zettelkasten-style cards on a virtual desk to view related material at a glance. Filter by outgoing/incoming links, text, tags or folders, and click a card to expand the full note."
 
     stats: {
-        downloads:  3973
+        downloads:  3986
         updated_at: 1701967458000
     }
 }

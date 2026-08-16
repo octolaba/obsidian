@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/syncread
 alt:
   - https://github.com/flyer1b/LightRead-master
-downloads: 2098
+downloads: 2104
 updated at: "2024-08-01T08:52:03Z"
 related to:
   - "[[GitHub - 727534380]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync articles and annotations from Syncread into Obsidian. Authenticate with your Syncread API key and trigger sync from the Obsidian action bar to import articles and highlights as Markdown files."
 
     stats: {
-        downloads:  2098
+        downloads:  2104
         updated_at: 1722502323000
     }
 }

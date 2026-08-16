@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-carry-forward
 alt:
   - https://github.com/jglev/obsidian-carry-forward
-downloads: 8202
+downloads: 8231
 updated at: "2023-01-12T12:20:19Z"
 related to:
   - "[[GitHub - 400859961]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy text or a link to a specific line and automatically add backlinks to the original note or block. Carry forward selections as individually linked lines or create plain or embed links to reference exact blocks."
 
     stats: {
-        downloads:  8202
+        downloads:  8231
         updated_at: 1673526019000
     }
 }

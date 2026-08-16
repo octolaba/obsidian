@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/style-obmd
 alt:
   - https://github.com/penyt/style-obmd
-downloads: 159
+downloads: 221
 updated at: "2026-07-11T06:21:00Z"
 related to:
   - "[[GitHub - 1278021848]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add customizable colors to highlights and bold text by inserting a {key} into standard Markdown markers. See colors live in edit and reading views and keep standard Markdown so styles remain if the plugin is removed. Convert styled Markdown to portable inline HTML for publishing or vault-wide export."
 
     stats: {
-        downloads:  159
+        downloads:  221
         updated_at: 1783750860000
     }
 }

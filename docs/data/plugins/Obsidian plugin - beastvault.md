@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/beastvault
 alt:
   - https://github.com/ly0va/beastvault
-downloads: 1244
+downloads: 1354
 updated at: "2025-11-30T21:29:14Z"
 related to:
   - "[[GitHub - 1087821857]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search, create, and edit Daggerheart adversary and environment stat blocks from the SRD or your homebrew library. Render editable, beautifully formatted stat blocks with one-click attack/damage rolls, HP/stress/countdown and feature-use tracking, summon buttons, condition markers, battle points in the status bar, and Canvas support for encounter building."
 
     stats: {
-        downloads:  1244
+        downloads:  1354
         updated_at: 1764538154000
     }
 }

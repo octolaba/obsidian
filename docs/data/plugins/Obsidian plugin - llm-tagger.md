@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/llm-tagger
 alt:
   - https://github.com/djayatillake/obsidian-llm-tagger
-downloads: 2151
+downloads: 2188
 updated at: "2025-04-02T20:02:03Z"
 related to:
   - "[[GitHub - 921415934]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Tag your Obsidian notes using local Ollama LLMs to generate relevant tags and brief summaries while preserving original content. Customize tag lists, exclude files or folders with patterns, and enable auto-tagging for new, modified, or closed notes while avoiding re-tagging unchanged files."
 
     stats: {
-        downloads:  2151
+        downloads:  2188
         updated_at: 1743624123000
     }
 }

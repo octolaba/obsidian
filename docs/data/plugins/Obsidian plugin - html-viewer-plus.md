@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/html-viewer-plus
 alt:
   - https://github.com/kuaile1407/html-viewer-plus
-downloads: 367
+downloads: 532
 updated at: "2026-06-07T17:10:46Z"
 related to:
   - "[[GitHub - 1262108570]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview and embed HTML and MHTML files inside your vault using wiki links like ![[file.html]] or ![[file.html#elementId]]. Set custom sizes or ratios, zoom and search in-page, open full‑screen or externally, auto‑reload on edits and sync dark mode. Right‑click to copy embed or link syntax."
 
     stats: {
-        downloads:  367
+        downloads:  532
         updated_at: 1780852246000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/llm-summary
 alt:
   - https://github.com/larksq/obsidian-llm-summary
-downloads: 8364
+downloads: 8606
 updated at: "2024-09-13T13:41:42Z"
 related to:
   - "[[GitHub - 839736248]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Summarize PDF collections with GPT-based LLMs into structured Markdown summaries and import them into your vault for batch academic reading. Create concept notes from selected text as new Markdown files and auto-link them to build a paper-focused note network."
 
     stats: {
-        downloads:  8364
+        downloads:  8606
         updated_at: 1726234902000
     }
 }

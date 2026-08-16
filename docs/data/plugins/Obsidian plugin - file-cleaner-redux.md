@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/file-cleaner-redux
 alt:
   - https://github.com/husjon/obsidian-file-cleaner-redux
-downloads: 65217
-updated at: "2026-03-08T12:20:44Z"
+downloads: 72564
+updated at: "2026-08-05T19:42:11Z"
 related to:
   - "[[GitHub - 713551961]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Remove unused or empty Markdown files, attachments, and empty folders based on configurable rules, including files that only contain specific frontmatter. Preview found items and choose to delete, move to system or Obsidian trash, or permanently remove. Include or exclude folders and handle Admonition and Excalidraw files."
 
     stats: {
-        downloads:  65217
-        updated_at: 1772972444000
+        downloads:  72564
+        updated_at: 1785958931000
     }
 }
 ```

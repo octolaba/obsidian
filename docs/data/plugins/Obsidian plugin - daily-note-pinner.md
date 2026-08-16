@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-note-pinner
 alt:
   - https://github.com/lukemt/obsidian-daily-note-pinner
-downloads: 9790
+downloads: 9990
 updated at: "2023-10-27T18:36:33Z"
 related to:
   - "[[GitHub - 704882732]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep today's Daily Note pinned and unpin all past and future Daily Notes automatically to keep focus on the current day. Require the default YYYY-MM-DD Daily Note format."
 
     stats: {
-        downloads:  9790
+        downloads:  9990
         updated_at: 1698431793000
     }
 }

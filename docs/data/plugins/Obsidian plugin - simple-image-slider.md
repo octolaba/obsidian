@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-image-slider
 alt:
   - https://github.com/xinworks/obsidian-simple-image-slider
-downloads: 207
+downloads: 262
 updated at: "2026-06-04T01:02:53Z"
 related to:
   - "[[GitHub - 1254814918]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render groups of Obsidian image embeds as a clean, swipeable slider with captions. Support Obsidian wikilinks and ordinary image embeds, enable click/keyboard/swipe navigation with wraparound, and keep captions below images on a stable 4:3 canvas."
 
     stats: {
-        downloads:  207
+        downloads:  262
         updated_at: 1780534973000
     }
 }

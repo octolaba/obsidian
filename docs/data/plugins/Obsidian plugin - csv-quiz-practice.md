@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/csv-quiz-practice
 alt:
   - https://github.com/ozephyr-ctrl/csv-quiz-practice
-downloads: 84
-updated at: "2026-07-11T04:30:39Z"
+downloads: 138
+updated at: "2026-08-11T14:13:21Z"
 related to:
   - "[[GitHub - 1283854084]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "刷题并在选择后实时反馈对错并显示正确答案，支持随机题目与选项顺序。按标签、三级分类与收藏/掌握/错题标记筛选题库，编辑题目与标记自动保存回 CSV 并持久化答题进度与正确率。"
 
     stats: {
-        downloads:  84
-        updated_at: 1783744239000
+        downloads:  138
+        updated_at: 1786457601000
     }
 }
 ```

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/md-razor
 alt:
   - https://github.com/dyse-sofqi/MDRazor
-downloads: 643
-updated at: "2026-07-23T09:54:25Z"
+downloads: 1887
+updated at: "2026-08-09T17:02:22Z"
 related to:
   - "[[GitHub - 1278228623]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Format Marker Hiding Hide markers for bold, italic, ==highlight==, strikethrough, inline code (**, *, ==, ~~, `). Markers reappear when the cursor enters the range. List Integration Treats list markers (-, 1., *) as atomic units: cursor navigation skips the marker, backspace removes the entire marker at once. Editing experience closer to WYSIWYG. Enter Soft Break Pressing Enter inside a list item inserts a line break, indentation, and two trailing spaces (equivalent to native Shift+Enter behavior), without creating a new list item. Press Enter again to create a new list item — consecutive Enter presses create new items. List Focus Option When the cursor enters a list item, automatically expand all its descendants and collapse all non-directly-related content (siblings, parent siblings, etc.). Only the focus chain (itself + ancestors + descendants) stays visible. Deeply nested list navigation no longer overwhelming. Vertical tabs"
 
     stats: {
-        downloads:  643
-        updated_at: 1784800465000
+        downloads:  1887
+        updated_at: 1786294942000
     }
 }
 ```

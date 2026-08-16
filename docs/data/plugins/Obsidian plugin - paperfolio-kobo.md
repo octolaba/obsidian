@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/paperfolio-kobo
 alt:
   - https://github.com/fire-university/paperfolio-obsidian
-downloads: 15
-updated at: "2026-07-20T12:34:42Z"
+downloads: 56
+updated at: "2026-08-02T10:10:23Z"
 related to:
   - "[[GitHub - 1298255867]]"
 remind me:
@@ -28,7 +28,7 @@ Imports Kobo highlights into Obsidian as one note per book, sorted by true readi
 plugin: {
     id:     "paperfolio-kobo"
     name:   "PaperFolio for Kobo"
-    author: "Chung Kun Tao"
+    author: "Doug (FIRE University)"
     repo:   "fire-university/paperfolio-obsidian"
 
     html_url:    "https://community.obsidian.md/plugins/paperfolio-kobo"
@@ -37,8 +37,8 @@ plugin: {
     about:       "Import Kobo highlights into Obsidian as one clean note per book, sorted by true reading order and grouped by real chapter names. Protect your writing by syncing generated highlights into a sentinel block, merge sources (USB, Kobo desktop, or local network), and keep local, incremental, de-duplicated sync with an auto-generated index."
 
     stats: {
-        downloads:  15
-        updated_at: 1784550882000
+        downloads:  56
+        updated_at: 1785665423000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/todoist-review
 alt:
   - https://github.com/imcauley/todoist-review
-downloads: 1446
+downloads: 1461
 updated at: "2024-02-28T02:30:46Z"
 related to:
   - "[[GitHub - 752070813]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Review and triage overdue Todoist tasks from within Obsidian. Display overdue tasks in a code block for quick processing and decision-making."
 
     stats: {
-        downloads:  1446
+        downloads:  1461
         updated_at: 1709087446000
     }
 }

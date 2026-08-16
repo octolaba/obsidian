@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/neurovox
 alt:
   - https://github.com/synaptic-labs-ai/NeuroVox
-downloads: 3727
-updated at: "2026-07-21T11:00:56Z"
+downloads: 3856
+updated at: "2026-07-30T18:35:05Z"
 related to:
   - "[[GitHub - 817972796]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Record voice directly in a note and embed the audio for easy playback. Transcribe recordings to text with AI and apply custom prompts to summarize, extract to-dos, or generate other outputs embedded as callouts at your cursor."
 
     stats: {
-        downloads:  3727
-        updated_at: 1784631656000
+        downloads:  3856
+        updated_at: 1785436505000
     }
 }
 ```

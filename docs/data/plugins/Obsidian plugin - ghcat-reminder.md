@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ghcat-reminder
 alt:
   - https://github.com/anil-e/obsidian_gchat_plugin
-downloads: 3176
+downloads: 3210
 updated at: "2025-01-26T16:30:18Z"
 related to:
   - "[[GitHub - 705906811]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mark tasks using (gChat@YYYY-MM-DD HH:MM) to trigger automatic Google Chat reminders via webhook when they become due. Scan notes every 3 minutes and transmit only the marked reminder content and its due date."
 
     stats: {
-        downloads:  3176
+        downloads:  3210
         updated_at: 1737909018000
     }
 }

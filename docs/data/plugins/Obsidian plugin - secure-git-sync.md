@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/secure-git-sync
 alt:
   - https://github.com/vinci0007/obsidian-EncryptSecure-GitSync
-downloads: 86
+downloads: 104
 updated at: "2026-07-07T06:45:48Z"
 related to:
   - "[[GitHub - 1288185582]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Encrypt remote Git snapshots with AES-256-GCM while keeping local vault files and local Git history plaintext. Require the administrator password before push, pull, or sync and manage multiple Git remotes (GitHub, GitLab, Gitee, or self‑hosted) from an Obsidian ribbon."
 
     stats: {
-        downloads:  86
+        downloads:  104
         updated_at: 1783406748000
     }
 }

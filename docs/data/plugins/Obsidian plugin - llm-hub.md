@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/llm-hub
 alt:
   - https://github.com/takeshy/obsidian-llm-hub
-downloads:
-updated at:
+downloads: 3858
+updated at: "2026-08-10T08:26:49Z"
 related to:
   - "[[GitHub - 1185795516]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/takeshy/obsidian-llm-hub"
     description: "AI assistant with chat, workflow automation, and semantic search (RAG). Supports Gemini, OpenAI, Anthropic, OpenRouter, Grok, local LLMs, and CLI backends. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Run an AI assistant in Obsidian with multi-provider LLM chat, workflow automation, and local semantic search (RAG). Read, write, and edit notes with function calling, build visual multi-step workflows, run local vector search with PDF previews, generate images, and connect models to Discord."
+
+    stats: {
+        downloads:  3858
+        updated_at: 1786350409000
+    }
 }
 ```
 

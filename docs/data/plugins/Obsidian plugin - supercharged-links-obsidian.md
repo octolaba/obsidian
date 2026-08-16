@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/supercharged-links-obsidian
 alt:
   - https://github.com/mdelobelle/obsidian_supercharged_links
-downloads: 204321
+downloads: 206618
 updated at: "2025-12-15T09:16:53Z"
 related to:
   - "[[GitHub - 359069311]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Style links across your vault based on note metadata like tags, YAML frontmatter, or file path. Apply colors, emojis, backgrounds and other visual styles in editor, preview and file browser to make notes (people, papers, todos) stand out for faster navigation."
 
     stats: {
-        downloads:  204321
+        downloads:  206618
         updated_at: 1765790213000
     }
 }

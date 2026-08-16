@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/line-count-display
 alt:
   - https://github.com/leolaurindo/line-count-obsidian-plugin
-downloads: 163
+downloads: 193
 updated at: "2026-05-16T12:12:05Z"
 related to:
   - "[[GitHub - 1111125318]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display the active document's line count in the status bar. Customize the label text (e.g., lines, líneas, 行) to match your language."
 
     stats: {
-        downloads:  163
+        downloads:  193
         updated_at: 1778933525000
     }
 }

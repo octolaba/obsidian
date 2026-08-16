@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vim-yank-highlight
 alt:
   - https://github.com/aleksey-rowan/obsidian-vim-yank-highlight
-downloads: 7849
+downloads: 7905
 updated at: "2023-12-22T21:09:46Z"
 related to:
   - "[[GitHub - 716271844]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight yanked text in Obsidian's Vim mode with a subtle animation to make the yanked region immediately apparent. Provide unobtrusive visual feedback after yank operations without altering core Vim behavior."
 
     stats: {
-        downloads:  7849
+        downloads:  7905
         updated_at: 1703279386000
     }
 }

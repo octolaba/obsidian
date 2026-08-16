@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/git-file-explorer-colors
 alt:
   - https://github.com/peteszym/obsidian-git-file-colors
-downloads: 215
+downloads: 249
 updated at: "2026-05-16T22:49:49Z"
 related to:
   - "[[GitHub - 1217474257]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Color the File Explorer by Git status on desktop to spot changed files at a glance without modifying your repository. Highlight untracked/new files in green, mark modified files in muted orange, and roll deleted changes up to parent folders in muted red with a deleted>modified>new priority; refresh on file events with a fallback poll and a manual refresh."
 
     stats: {
-        downloads:  215
+        downloads:  249
         updated_at: 1778971789000
     }
 }

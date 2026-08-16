@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/hybrid-search
 alt:
   - https://github.com/flowing-abyss/obsidian-hybrid-search-plugin
-downloads: 1853
-updated at: "2026-07-15T10:53:57Z"
+downloads: 2113
+updated at: "2026-08-09T03:53:46Z"
 related to:
   - "[[GitHub - 1187433248]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Search your vault using a hybrid of BM25 full-text and semantic vector search for fast, relevant results. Connect to a background CLI for indexing and live results with relevance scores and optional re-ranking, surfacing semantically similar notes or recent files on empty queries."
 
     stats: {
-        downloads:  1853
-        updated_at: 1784112837000
+        downloads:  2113
+        updated_at: 1786247626000
     }
 }
 ```

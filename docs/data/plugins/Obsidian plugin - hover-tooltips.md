@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hover-tooltips
 alt:
   - https://github.com/chetscmd/Hover-Tooltips-Obsidian
-downloads: 271
+downloads: 318
 updated at: "2026-06-28T21:25:41Z"
 related to:
   - "[[GitHub - 1081422808]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add interactive hover tooltips with full Markdown support for bold, italic, inline code, highlights and links. Hover to view descriptions, left-click to pin tooltips, and create tips using the {/{word/description}/} syntax with clickable internal [[wiki]] and external links."
 
     stats: {
-        downloads:  271
+        downloads:  318
         updated_at: 1782681941000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/slides-extended-mobile-preview
 alt:
   - https://github.com/kotborealis/slides-extended-mobile-preview
-downloads: 143
+downloads: 155
 updated at: "2026-05-17T16:43:43Z"
 related to:
   - "[[GitHub - 1241445191]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render the active Markdown note as a Reveal.js slide deck inside an Obsidian Mobile view. Use horizontal (---) and vertical (--) slides, speaker notes, slide backgrounds (including wikilink images), frontmatter theme support, bundled Reveal themes, touch navigation and bottom Prev/Next controls."
 
     stats: {
-        downloads:  143
+        downloads:  155
         updated_at: 1779036223000
     }
 }

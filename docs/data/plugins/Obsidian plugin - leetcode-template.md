@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/leetcode-template
 alt:
   - https://github.com/fennr/obsidian_leetcode_template
-downloads: 107
+downloads: 128
 updated at: "2026-07-21T03:43:26Z"
 related to:
   - "[[GitHub - 1126656772]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create LeetCode notes from a problem link or number by pulling frontmatter, description, similar questions and inserting the latest or all Accepted solutions. Import Accepted solutions into an existing note via its frontmatter link and apply a customizable filename template and predefined sections like My idea and Optimal solution."
 
     stats: {
-        downloads:  107
+        downloads:  128
         updated_at: 1784605406000
     }
 }

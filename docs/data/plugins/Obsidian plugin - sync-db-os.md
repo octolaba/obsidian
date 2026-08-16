@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/sync-db-os
 alt:
   - https://github.com/ketd/obsidian-sync-DB-OS
-downloads: 310
+downloads: 317
 updated at: "2024-07-05T01:36:20Z"
 related to:
   - "[[GitHub - 822007833]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Upload local images to your configured object storage when pasting into notes and update links to point to the remote URL. Compare and resolve cross-device conflicts by manually choosing versions, and store large files (PDFs) in object storage while keeping only their hash in the database to track changes."
 
     stats: {
-        downloads:  310
+        downloads:  317
         updated_at: 1720143380000
     }
 }

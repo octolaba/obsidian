@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-index
 alt:
   - https://github.com/steffo99/obsidian-file-index
-downloads: 3338
+downloads: 3361
 updated at: "2023-11-17T14:19:49Z"
 related to:
   - "[[GitHub - 711234800]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and maintain a file-index.json at your vault root that lists all file paths and maps basenames to their file paths for external processing. Exclude files with a file-index-ignore.json of regex patterns and use the index to render wikilinks or feed external tools."
 
     stats: {
-        downloads:  3338
+        downloads:  3361
         updated_at: 1700230789000
     }
 }

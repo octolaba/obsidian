@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/media-sync
 alt:
   - https://github.com/fnya/media-sync
-downloads: 6739
+downloads: 6763
 updated at: "2024-07-14T08:02:33Z"
 related to:
   - "[[GitHub - 683923227]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Download media files (images, PDFs, etc.) referenced by HTTPS URLs in your notes and save them locally. Update Markdown links to local copies, store files in a _media-sync_resouces folder, and run globally from the sidebar or per-note via right-click; already-downloaded notes are skipped on subsequent runs."
 
     stats: {
-        downloads:  6739
+        downloads:  6763
         updated_at: 1720944153000
     }
 }

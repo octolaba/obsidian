@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/squiggle
 alt:
   - https://github.com/jqhoogland/obsidian-squiggle
-downloads: 3708
+downloads: 3716
 updated at: "2022-09-25T20:30:52Z"
 related to:
   - "[[GitHub - 526562976]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Execute Squiggle code blocks directly in your notes and display results inline after execution with a Run button added to supported code fences. Enable Prism syntax highlighting and run code in Preview by prefixing the block language with run-."
 
     stats: {
-        downloads:  3708
+        downloads:  3716
         updated_at: 1664137852000
     }
 }

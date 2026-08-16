@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/istart-note-ai
 alt:
   - https://github.com/yan-istart/IStart-Note-AI-Plugin
-downloads: 209
+downloads: 250
 updated at: "2026-05-20T15:37:02Z"
 related to:
   - "[[GitHub - 1220711684]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate structured knowledge notes from questions or selected text using DeepSeek AI, creating concept pages with source references, backlinks, and bidirectional links. Classify questions as new/refinement/expansion, maintain a question graph index, append sections or batch-complete concepts, and sync incremental backups to Baidu Netdisk."
 
     stats: {
-        downloads:  209
+        downloads:  250
         updated_at: 1779291422000
     }
 }

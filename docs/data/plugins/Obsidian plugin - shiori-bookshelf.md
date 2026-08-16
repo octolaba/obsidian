@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/shiori-bookshelf
 alt:
   - https://github.com/usero2/obsidian-plugins-shiori-bookshelf
-downloads: 349
+downloads: 720
 updated at: "2026-06-14T16:10:59Z"
 related to:
   - "[[GitHub - 1266119291]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn your vault into a browsable digital library and organize PDF, EPUB, and CBZ files into series or single libraries. Display a grid-based bookshelf with automatic cover extraction and companion markdown metadata, search and reading-status filters, lazy loading, and context-menu actions for scanning, opening metadata, renaming, and hiding cover/metadata files."
 
     stats: {
-        downloads:  349
+        downloads:  720
         updated_at: 1781453459000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-moc
 alt:
   - https://github.com/dalcantara7/obsidian-auto-moc
-downloads: 17229
+downloads: 17326
 updated at: "2025-06-09T02:10:10Z"
 related to:
   - "[[GitHub - 477121478]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import missing backlinks and references into the current note at the cursor to keep MOCs and tag lists up to date by collecting linked mentions, tag matches, or defined aliases. Run commands to pull linked mentions, pick a tag (frontmatter tags supported) or choose an alias via a modal, and insert matching note links where you edit."
 
     stats: {
-        downloads:  17229
+        downloads:  17326
         updated_at: 1749435010000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/code-playground
 alt:
   - https://github.com/touss59/obsidian-code-playground
-downloads: 41
+downloads: 80
 updated at: "2026-07-15T21:42:01Z"
 related to:
   - "[[GitHub - 1301925778]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed live, editable Sandpack code playgrounds directly in Obsidian notes. Run React, Vue, Svelte, Angular or vanilla sandboxes in-place with per-block JSON overrides and persistent sidecar edits; previews compile via CodeSandbox's hosted bundler so code and dependencies are sent externally unless you use a self-hosted bundler."
 
     stats: {
-        downloads:  41
+        downloads:  80
         updated_at: 1784151721000
     }
 }

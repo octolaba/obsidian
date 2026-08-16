@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/beautitab
 alt:
   - https://github.com/andrewmcgivery/obsidian-beautitab
-downloads: 60012
+downloads: 62049
 updated at: "2024-03-26T21:28:38Z"
 related to:
   - "[[GitHub - 733659473]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a customizable Obsidian new-tab view with rotating backgrounds, greetings, current time, random quotes, and inline or top-left search. Display recent files and bookmarks on the welcome screen and toggle every element on or off to tailor the layout."
 
     stats: {
-        downloads:  60012
+        downloads:  62049
         updated_at: 1711488518000
     }
 }

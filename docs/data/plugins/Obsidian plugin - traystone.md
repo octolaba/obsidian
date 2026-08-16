@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/traystone
 alt:
   - https://github.com/tinswangtao-web/traystone
-downloads: 352
+downloads: 467
 updated at: "2026-05-29T12:10:09Z"
 related to:
   - "[[GitHub - 1249313645]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run Obsidian from the system tray to hide windows on close, keep the app running in the background, and enable auto-start at login. Use global hotkeys and the tray/menu to create quick notes and toggle window focus, and hide or show Dock/taskbar icons. Quit cleanly during system shutdown and customize the tray icon and tooltip."
 
     stats: {
-        downloads:  352
+        downloads:  467
         updated_at: 1780056609000
     }
 }

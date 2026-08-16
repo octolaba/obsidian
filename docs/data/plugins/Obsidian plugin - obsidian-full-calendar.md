@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-full-calendar
 alt:
   - https://github.com/obsidian-community/obsidian-full-calendar
-downloads: 445509
+downloads: 451078
 updated at: "2023-04-06T15:22:12Z"
 related to:
   - "[[GitHub - 451667393]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed a calendar in your vault to manage schedules and events alongside notes. Save each event as its own note with frontmatter to add context and link to other notes. Pull events from note frontmatter or daily notes and display read-only ICS and CalDAV calendars."
 
     stats: {
-        downloads:  445509
+        downloads:  451078
         updated_at: 1680794532000
     }
 }

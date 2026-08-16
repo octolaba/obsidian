@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/unabyss
 alt:
   - https://github.com/unabyss/obsidian-plugin
-downloads: 123
-updated at: "2026-06-17T12:34:17Z"
+downloads: 238
+updated at: "2026-08-02T10:35:42Z"
 related to:
   - "[[GitHub - 1268591002]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync your Obsidian vault with Unabyss two-way via OAuth2+PKCE, using file-change outbound sync (5s debounce) plus an hourly bidirectional safety net. Push manifest-first, change-aware deltas that upload only unknown hashes and skip notes >1 MiB; pull exports into a chosen folder as slugified-title.md with configurable deletion handling."
 
     stats: {
-        downloads:  123
-        updated_at: 1781699657000
+        downloads:  238
+        updated_at: 1785666942000
     }
 }
 ```

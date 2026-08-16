@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-limit
 alt:
   - https://github.com/naggischnulu/obsidian-folder-limit
-downloads: 97
+downloads: 143
 updated at: "2026-07-05T07:59:40Z"
 related to:
   - "[[GitHub - 1289040608]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Limit how many files appear in large folders to declutter the file explorer by setting a global maximum. Toggle showing all or fewer files from a folder's context menu. Keep accurate scrollbars and fast performance via native virtual-list integration without DOM mutation observers."
 
     stats: {
-        downloads:  97
+        downloads:  143
         updated_at: 1783238380000
     }
 }

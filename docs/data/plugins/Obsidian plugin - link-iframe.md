@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/link-iframe
 alt:
   - https://github.com/gilgamesh-tamarian/obsidian-link-iframe
-downloads: 820
+downloads: 1034
 updated at: "2026-03-24T10:52:00Z"
 related to:
   - "[[GitHub - 1181625349]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert selected URLs into rich inline iframe embeds with a live preview to confirm before inserting. Support 30+ providers, save images and Google Docs into your vault, and export Quizlet flashcard sets to local Markdown notes."
 
     stats: {
-        downloads:  820
+        downloads:  1034
         updated_at: 1774349520000
     }
 }

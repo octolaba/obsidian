@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-focus-mode
 alt:
   - https://github.com/ryanpcmcquen/obsidian-focus-mode
-downloads: 69280
+downloads: 70335
 updated at: "2024-11-07T04:03:30Z"
 related to:
   - "[[GitHub - 364424946]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add Focus Mode to dim non-active panes and lines and keep attention on the active editor. Toggle Super Focus Mode to isolate only the active pane and hide other content for distraction-free editing."
 
     stats: {
-        downloads:  69280
+        downloads:  70335
         updated_at: 1730952210000
     }
 }

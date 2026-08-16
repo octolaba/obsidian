@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/cockpit-dashboard
 alt:
   - https://github.com/sadom125/Cockpit-Dashboard
-downloads: 292
-updated at: "2026-07-19T02:55:53Z"
+downloads: 384
+updated at: "2026-07-27T15:34:17Z"
 related to:
   - "[[GitHub - 1256780862]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Turn your vault into a practical, customizable home dashboard. Cockpit Dashboard brings together your calendar, todos, priority tasks, global search, bookmarks, recent notes, category navigation, statistics, edit activity, quick capture, and Pomodoro focus tracking in one place. Reorder or hide dashboard sections, customize Toolbar buttons, and add your own URLs or local commands to match your workflow. All plugin data stays local, remains transparent and editable, and can be backed up or migrated by the user."
 
     stats: {
-        downloads:  292
-        updated_at: 1784429753000
+        downloads:  384
+        updated_at: 1785166457000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/search-and-replace-regex
 alt:
   - https://github.com/thejusticeman/obsidian-find-replace-regex
-downloads: 1085
+downloads: 1450
 updated at: "2026-05-16T12:11:19Z"
 related to:
   - "[[GitHub - 1145512842]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search notes using plain text or full regular expressions and toggle case-sensitive or whole-word matching. Replace single matches or all occurrences with regex capture groups, navigate between matches, view match counts, access recent search/replace history, and save default preferences."
 
     stats: {
-        downloads:  1085
+        downloads:  1450
         updated_at: 1778933479000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/workout-block
 alt:
   - https://github.com/wanguliux/workout-block
-downloads: 54
-updated at: "2026-07-19T06:10:46Z"
+downloads: 119
+updated at: "2026-08-08T06:21:34Z"
 related to:
   - "[[GitHub - 1304176914]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Define fully custom workout types and record per-set data as code blocks stored in plain-text CSV/JSON. Compute any derived metrics with guided builders or expressions, create flexible per-set plans, and map muscles to generate anatomical heatmaps."
 
     stats: {
-        downloads:  54
-        updated_at: 1784441446000
+        downloads:  119
+        updated_at: 1786170094000
     }
 }
 ```

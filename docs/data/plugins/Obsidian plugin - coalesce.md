@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/coalesce
 alt:
   - https://github.com/bfloydd/coalesce
-downloads: 877
+downloads: 914
 updated at: "2026-06-04T14:31:20Z"
 related to:
   - "[[GitHub - 884361860]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Merge notes into a single, configurable view. Filter by aliases and other criteria and replace Obsidian's \"Show backlinks at the bottom of notes\" with a more comprehensive, focused display."
 
     stats: {
-        downloads:  877
+        downloads:  914
         updated_at: 1780583480000
     }
 }

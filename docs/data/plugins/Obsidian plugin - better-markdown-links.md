@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/better-markdown-links
 alt:
   - https://github.com/mnaoumov/obsidian-better-markdown-links
-downloads: 16934
-updated at: "2026-07-22T04:00:52Z"
+downloads: 18401
+updated at: "2026-08-08T06:31:00Z"
 related to:
   - "[[GitHub - 826897599]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Generate Markdown angle-bracket links for readable paths with spaces and ensure compatibility with other Markdown editors. Prepend ./ to relative links, convert links in a note or the entire vault, auto-convert new links, and update links automatically on file rename or move."
 
     stats: {
-        downloads:  16934
-        updated_at: 1784692852000
+        downloads:  18401
+        updated_at: 1786170660000
     }
 }
 ```

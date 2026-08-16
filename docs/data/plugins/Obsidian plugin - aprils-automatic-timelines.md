@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/aprils-automatic-timelines
 alt:
   - https://github.com/april-gras/obsidian-auto-timelines
-downloads: 60997
+downloads: 61778
 updated at: "2026-06-18T08:26:05Z"
 related to:
   - "[[GitHub - 620953557]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate theme-agnostic timelines from notes tagged with date metadata for storytelling and historical overviews. Tag notes with start/end dates and render-enabled to create event cards, override title/body/image per card, and assemble timelines by inserting a timeline code block."
 
     stats: {
-        downloads:  60997
+        downloads:  61778
         updated_at: 1781771165000
     }
 }

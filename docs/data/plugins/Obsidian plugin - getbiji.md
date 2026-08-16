@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/getbiji
 alt:
   - https://github.com/jiashu329/obsidian-getbiji
-downloads: 471
+downloads: 561
 updated at: "2026-05-15T03:35:17Z"
 related to:
   - "[[GitHub - 1208341413]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Get 笔记 cloud notes to your Obsidian vault via the open platform API, generating standard Markdown files with YAML metadata (get_note_id, title, tags), full body content and a summarized links section. Create folders automatically, choose full overwrite or skip by get_note_id, rewrite internal Get links to Obsidian [[wikilinks]] when possible, and cancel sync anytime."
 
     stats: {
-        downloads:  471
+        downloads:  561
         updated_at: 1778816117000
     }
 }

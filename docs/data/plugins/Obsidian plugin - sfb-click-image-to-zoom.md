@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sfb-click-image-to-zoom
 alt:
   - https://github.com/saltyfireball/obsidian-click-image-to-zoom
-downloads: 1551
+downloads: 1838
 updated at: "2026-05-18T18:10:56Z"
 related to:
   - "[[GitHub - 1183682540]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Click any image to open it in a full-screen, zoomable modal. Scroll to zoom, drag to pan, and pinch on mobile, with keyboard controls for zoom and close; works in both edit (live preview) and reading views. Disable zoom per note or toggle it globally."
 
     stats: {
-        downloads:  1551
+        downloads:  1838
         updated_at: 1779127856000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/plan-panel
 alt:
   - https://github.com/xuhuaya0/obsidian-plan-panel
-downloads: 98
+downloads: 106
 updated at: "2026-05-27T15:20:57Z"
 related to:
   - "[[GitHub - 1251394434]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn Markdown task lists into a lightweight planning board that follows the active note and shows today's tasks plus Eisenhower-style quadrants. Drag and drop tasks between Today and quadrants, record start and completion with #started/YYYY-MM-DD-HHmm and #done/YYYY-MM-DD, and support - [ ], * [ ] and numbered task formats."
 
     stats: {
-        downloads:  98
+        downloads:  106
         updated_at: 1779895257000
     }
 }

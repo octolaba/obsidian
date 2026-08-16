@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/text-extractor
 alt:
   - https://github.com/scambier/obsidian-text-extractor
-downloads: 311694
+downloads: 317350
 updated at: "2025-12-26T10:08:38Z"
 related to:
   - "[[GitHub - 580440966]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extract text from images, PDFs, and Office files (png, jpg, webp, gif, bmp, pdf, docx, xlsx) using local OCR and PDF parsing. Cache extracted text as local JSON for syncing and mobile fallback, with language packs downloaded on demand."
 
     stats: {
-        downloads:  311694
+        downloads:  317350
         updated_at: 1766743718000
     }
 }

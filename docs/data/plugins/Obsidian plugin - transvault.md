@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/transvault
 alt:
   - https://github.com/fnsign/transvault
-downloads: 331
-updated at: "2026-05-25T21:35:09Z"
+downloads: 477
+updated at: "2026-07-31T12:10:36Z"
 related to:
   - "[[GitHub - 1245773761]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Copy and move files and folders between local Obsidian vaults with multi-selection and preserved folder structure. Rewrite wiki/Markdown links on transfer, handle conflicts (skip/auto-rename/overwrite), tag transfers in YAML frontmatter, and display Obsidian-style direct-link trees. NOTE: To retrieve automatically the attachment settings of the destination vault, the plugin needs to use the file system, as currently no Obsidian provided API is available for that. Thus, you see a warning in the scorecard. Alternatively, you can enter the attachment path manually, too."
 
     stats: {
-        downloads:  331
-        updated_at: 1779744909000
+        downloads:  477
+        updated_at: 1785499836000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/docx-importer
 alt:
   - https://github.com/mayac5/obsidian-docx-importer
-downloads: 1196
+downloads: 1692
 updated at: "2026-05-31T11:55:29Z"
 related to:
   - "[[GitHub - 1253457414]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import .docx files into your vault as Markdown, creating a subfolder with the converted .md, a copy of the original .docx, and an attachments folder for extracted images. Export active Markdown notes back to .docx while preserving headings, emphasis, highlights, links, lists, tables, blockquotes, code blocks, and images."
 
     stats: {
-        downloads:  1196
+        downloads:  1692
         updated_at: 1780228529000
     }
 }

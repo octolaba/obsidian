@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tabletop-music-player
 alt:
   - https://github.com/mllhouze/tabletop-music-player
-downloads: 164
+downloads: 203
 updated at: "2026-05-29T22:55:39Z"
 related to:
   - "[[GitHub - 1248344071]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep audio playing in the background with cinematic crossfades and scene-retention loops as you jump between notes and panes. Mix music and looping weather layers with a dual-channel mixer, trigger tracks from inline click-to-play links, and control playback with global hotkeys and searchable folder selection."
 
     stats: {
-        downloads:  164
+        downloads:  203
         updated_at: 1780095339000
     }
 }

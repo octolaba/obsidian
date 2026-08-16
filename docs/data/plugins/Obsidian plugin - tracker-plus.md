@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tracker-plus
 alt:
   - https://github.com/greater-than/Obsidian-Tracker-Plus
-downloads: 6029
+downloads: 6057
 updated at: "2023-10-08T17:18:19Z"
 related to:
   - "[[GitHub - 695908159]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track and visualize data in your Obsidian notes using simple tracker code blocks that render in Preview. Create dashboards and summaries from daily notes to spot trends and consult included examples and documentation in the sample vault."
 
     stats: {
-        downloads:  6029
+        downloads:  6057
         updated_at: 1696785499000
     }
 }

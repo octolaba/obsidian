@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/embedded-omnisearch
 alt:
   - https://github.com/fnsign/embedded-omnisearch
-downloads: 1411
-updated at: "2026-06-29T13:54:58Z"
+downloads: 2130
+updated at: "2026-07-31T12:14:43Z"
 related to:
   - "[[GitHub - 1233857466]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Embed a compact Omnisearch-powered search UI inside any note via a fenced code block and switch the note to preview mode when a search block is present. Search accent-insensitively with inline highlights, browse paginated results in a compact table showing file name, relevance and excerpt, and open matches in preview. Key Features: - Inline vault search inside any note via a fenced code block. - Automatically switches notes containing an embedded search block into read mode when needed. - Accent-insensitive term matching with configurable highlight color and opacity. - Paginated results with configurable page size. - Results rendered as a compact table with file name, relevance score, and excerpt preview. - Hold Alt over a result row to show the full file path as a popover."
 
     stats: {
-        downloads:  1411
-        updated_at: 1782741298000
+        downloads:  2130
+        updated_at: 1785500083000
     }
 }
 ```

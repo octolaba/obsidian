@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-drag-fix
 alt:
   - https://github.com/an2io/obsidian-canvas-drag-fix
-downloads: 171
+downloads: 204
 updated at: "2026-05-16T07:23:30Z"
 related to:
   - "[[GitHub - 1226815750]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fix Canvas drag-and-drop on Linux when Chromium/Electron mislabels a regular mouse as \"pen\", restoring card dragging, side-resize, region selection, and arrow connections. Normalize pointer events so click-drag works again without breaking clicks or keyboard moves."
 
     stats: {
-        downloads:  171
+        downloads:  204
         updated_at: 1778916210000
     }
 }

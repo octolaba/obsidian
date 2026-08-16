@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/authorship
 alt:
   - https://github.com/rflpazini/obsidian-authorship
-downloads: 161
+downloads: 190
 updated at: "2026-04-04T20:02:30Z"
 related to:
   - "[[GitHub - 1201522659]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track and visualize text authorship by detecting typed vs pasted input and highlighting AI-generated, pasted, and reference text in the editor. Mark selections manually as AI, Self, or Reference and toggle highlighting on demand. Store authorship annotations at the end of Markdown files using the Markdown Annotations spec with SHA-256 validation and operate fully locally."
 
     stats: {
-        downloads:  161
+        downloads:  190
         updated_at: 1775332950000
     }
 }

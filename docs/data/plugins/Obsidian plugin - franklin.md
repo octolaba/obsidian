@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/franklin
 alt:
   - https://github.com/franklin-md/franklin-mono
-downloads: 147
+downloads: 158
 updated at: "2026-05-30T08:43:02Z"
 related to:
   - "[[GitHub - 1185260409]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bring an AI agent into Obsidian to read your vault and propose reviewable changes to Markdown files. Review proposed adds, edits, and deletions before applying them, swap model providers mid-conversation, and run with sandboxed filesystem access."
 
     stats: {
-        downloads:  147
+        downloads:  158
         updated_at: 1780130582000
     }
 }

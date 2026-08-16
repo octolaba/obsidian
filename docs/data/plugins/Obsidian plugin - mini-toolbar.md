@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mini-toolbar
 alt:
   - https://github.com/quorafind/Obsidian-Mini-Toolbar
-downloads: 7677
+downloads: 7733
 updated at: "2023-08-04T13:16:50Z"
 related to:
   - "[[GitHub - 565484729]]"
@@ -28,7 +28,7 @@ Mini Toolbar shows a compact inline toolbar in the editor whenever text is selec
 plugin: {
     id:     "mini-toolbar"
     name:   "Mini Toolbar"
-    author: "quorafind"
+    author: "Boninall"
     repo:   "quorafind/Obsidian-Mini-Toolbar"
 
     html_url:    "https://community.obsidian.md/plugins/mini-toolbar"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a compact inline toolbar when selecting text in Live Preview. Click buttons to apply common formatting, links, and actions directly to the selection for faster editing."
 
     stats: {
-        downloads:  7677
+        downloads:  7733
         updated_at: 1691155010000
     }
 }

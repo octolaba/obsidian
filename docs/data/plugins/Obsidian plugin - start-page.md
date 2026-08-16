@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/start-page
 alt:
   - https://github.com/kuzzh/obsidian-startpage
-downloads: 9731
+downloads: 10219
 updated at: "2026-07-04T06:36:25Z"
 related to:
   - "[[GitHub - 993046343]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a modern startup dashboard that replaces new tabs with a personalized homepage showing vault statistics, pinned notes, and recently modified files. Pin and reorder important notes, search instantly with the built-in box, and access the page from the toolbar or command palette with real-time refresh and relative timestamps."
 
     stats: {
-        downloads:  9731
+        downloads:  10219
         updated_at: 1783146985000
     }
 }

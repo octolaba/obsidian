@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/japanese-manuscript-counter
 alt:
   - https://github.com/yofujii0705/japanese-manuscript-counter
-downloads: 1174
+downloads: 1286
 updated at: "2026-01-17T02:09:36Z"
 related to:
   - "[[GitHub - 1079874816]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display real-time Japanese character counts and convert them to 400-character manuscript-sheet equivalents in the status bar. Show selection counts and open a detailed modal that accounts for full/half-width characters, line breaks, paragraphs and kinsoku rules."
 
     stats: {
-        downloads:  1174
+        downloads:  1286
         updated_at: 1768615776000
     }
 }

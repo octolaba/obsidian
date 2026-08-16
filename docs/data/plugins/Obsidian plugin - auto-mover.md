@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-mover
 alt:
   - https://github.com/al0cam/AutoMover
-downloads: 7497
+downloads: 7863
 updated at: "2026-05-18T12:37:35Z"
 related to:
   - "[[GitHub - 858618088]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move files automatically into designated folders based on filename patterns, tags, or frontmatter project metadata. Use full regex with capture groups to create dynamic destination paths, and protect files with exclusion rules; trigger moves on file open, manually, or on a schedule. Import/export rules and manage complex rule sets with a collapsible UI."
 
     stats: {
-        downloads:  7497
+        downloads:  7863
         updated_at: 1779107855000
     }
 }

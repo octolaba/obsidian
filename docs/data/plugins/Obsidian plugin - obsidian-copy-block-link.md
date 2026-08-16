@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-copy-block-link
 alt:
   - https://github.com/mgmeyers/obsidian-copy-block-link
-downloads: 69008
+downloads: 69892
 updated at: "2022-03-30T20:49:44Z"
 related to:
   - "[[GitHub - 395832692]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy links to individual blocks and headings directly from Obsidian's right-click menu. Paste the links to reference, share, or navigate to exact locations within your vault."
 
     stats: {
-        downloads:  69008
+        downloads:  69892
         updated_at: 1648673384000
     }
 }

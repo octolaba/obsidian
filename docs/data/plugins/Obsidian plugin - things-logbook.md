@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/things-logbook
 alt:
   - https://github.com/liamcain/obsidian-things-logbook
-downloads: 10895
+downloads: 11139
 updated at: "2023-10-25T14:20:21Z"
 related to:
   - "[[GitHub - 331520500]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync completed Things tasks into Obsidian Daily Notes by inserting each task into the note for its completion date. Backfill your entire Things Logbook on first run, include subtasks, tags and areas, and refetch tasks at a configurable interval."
 
     stats: {
-        downloads:  10895
+        downloads:  11139
         updated_at: 1698243621000
     }
 }

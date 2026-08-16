@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/css-editor
 alt:
   - https://github.com/zachatoo/obsidian-css-editor
-downloads: 78526
+downloads: 81431
 updated at: "2026-05-13T05:10:12Z"
 related to:
   - "[[GitHub - 617755945]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit CSS snippets in your .obsidian/snippets folder with a built-in editor featuring syntax highlighting, code completion, and basic VIM support. Create, rename, delete, open, and toggle enable/disable snippets from a quick switcher on desktop and mobile."
 
     stats: {
-        downloads:  78526
+        downloads:  81431
         updated_at: 1778649012000
     }
 }

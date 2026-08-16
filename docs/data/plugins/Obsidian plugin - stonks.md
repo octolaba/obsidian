@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/stonks
 alt:
   - https://github.com/dmgx0/obsidian-stonks
-downloads: 126
+downloads: 183
 updated at: "2026-07-01T23:11:39Z"
 related to:
   - "[[GitHub - 1286539621]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display live stock, ETF, and crypto prices inline in your notes, auto-refreshing in both edit and reading views and working on mobile. Insert $: expressions to embed raw prices, access fields like .pct/.change, and perform simple math across tickers or note variables for portfolio calculations or Dataview/JS."
 
     stats: {
-        downloads:  126
+        downloads:  183
         updated_at: 1782947499000
     }
 }

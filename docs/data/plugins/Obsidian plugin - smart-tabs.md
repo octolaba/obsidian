@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-tabs
 alt:
   - https://github.com/ksawl/obsidian-smart-tabs
-downloads: 452
+downloads: 581
 updated at: "2026-07-08T17:14:08Z"
 related to:
   - "[[GitHub - 1242733215]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open files in new tabs by default and keep your workspace tidy. Focus existing tabs instead of creating duplicates (optional), apply across Explorer, Quick Switcher, internal links, bookmarks and API calls, handle markdown, canvas, images, audio, video and PDFs, and adjust processing delay to match your system."
 
     stats: {
-        downloads:  452
+        downloads:  581
         updated_at: 1783530848000
     }
 }

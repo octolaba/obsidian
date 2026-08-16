@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bento-grid
 alt:
   - https://github.com/ruveydayilmaz/obsidian-bento-plugin
-downloads: 289
+downloads: 464
 updated at: "2026-07-02T10:48:12Z"
 related to:
   - "[[GitHub - 1273430863]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a customizable bento-style grid inside a pane to build personalized dashboards. Add draggable, resizable widgets that render Markdown, images, pages and countdowns, and arrange flexible layouts with transparent or standard widget modes."
 
     stats: {
-        downloads:  289
+        downloads:  464
         updated_at: 1782989292000
     }
 }

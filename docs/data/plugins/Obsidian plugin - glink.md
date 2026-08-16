@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/glink
 alt:
   - https://github.com/nedkelly/obsidian-glink
-downloads: 1
+downloads: 31
 updated at: "2026-07-24T00:12:09Z"
 related to:
   - "[[GitHub - 1310432020]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open Google Drive placeholder files (.gdoc, .gsheet, .gslides, etc.) in embedded Obsidian views. Maintain local mappings between vault-relative paths and Google URLs, auto-link from Google Drive for desktop on Windows or accept manual URLs, support embeds and renames, and offer an adjustable dark filter."
 
     stats: {
-        downloads:  1
+        downloads:  31
         updated_at: 1784851929000
     }
 }

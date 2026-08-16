@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vox-reader
 alt:
   - https://github.com/danialkalbasi/obsidian-vox
-downloads: 207
+downloads: 229
 updated at: "2026-05-03T12:24:02Z"
 related to:
   - "[[GitHub - 1218456662]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Listen to notes aloud with natural voices from ElevenLabs, OpenAI, or your browser and control playback with pause, resume, and stop. Assign voices globally, per folder, or per note to proofread, review meeting notes hands-free, or rehearse presentations."
 
     stats: {
-        downloads:  207
+        downloads:  229
         updated_at: 1777811042000
     }
 }

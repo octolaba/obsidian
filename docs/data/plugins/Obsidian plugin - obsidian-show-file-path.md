@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-show-file-path
 alt:
   - https://github.com/ravimashru/obsidian-show-file-path
-downloads: 37134
+downloads: 37598
 updated at: "2021-10-13T08:28:40Z"
 related to:
   - "[[GitHub - 336743477]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show the full file path of the active file in the status bar, updating to the pane that has focus. Display icons for each folder and file, toggle the file name, and click or use the copy command to copy absolute or relative paths to the clipboard. Note the status bar isn't visible on mobile; the copy command works on Android."
 
     stats: {
-        downloads:  37134
+        downloads:  37598
         updated_at: 1634113720000
     }
 }

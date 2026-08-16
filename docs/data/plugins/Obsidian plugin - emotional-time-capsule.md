@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/emotional-time-capsule
 alt:
   - https://github.com/ibrh96-prog/obsidian-emotional-time-capsule
-downloads: 32
+downloads: 44
 updated at: "2026-07-11T07:59:57Z"
 related to:
   - "[[GitHub - 1296517672]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create sealed emotional time capsules using prompts and emotion tags to record letters, reflections, milestones, or messages to your future self. Hide notes until a chosen revisit date and manage them in a dashboard (Ready to revisit, Sealed, Unsealed, No revisit date, Archived) with options to open early, postpone, archive, or delete."
 
     stats: {
-        downloads:  32
+        downloads:  44
         updated_at: 1783756797000
     }
 }

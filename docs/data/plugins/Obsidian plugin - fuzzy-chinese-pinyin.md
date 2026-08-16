@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/fuzzy-chinese-pinyin
 alt:
   - https://github.com/lazyloong/obsidian-fuzzy-chinese
-downloads: 28831
+downloads: 29381
 updated at: "2026-06-07T05:13:55Z"
 related to:
   - "[[GitHub - 584110365]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search notes, tags, paths, and headings using Chinese pinyin (full or initials), with support for Traditional, double-pinyin, and fuzzy-sound modes. Move files and folders with a pinyin file picker, autocomplete folder paths, run and pin commands from a pinyin command palette, insert templates, and get Chinese tag/backlink suggestions when typing # or in YAML."
 
     stats: {
-        downloads:  28831
+        downloads:  29381
         updated_at: 1780809235000
     }
 }

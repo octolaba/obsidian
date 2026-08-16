@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/fast-forward-link
 alt:
   - https://github.com/idanlib/ObsidianFastForwardLinkPlugin
-downloads: 422
+downloads: 444
 updated at: "2026-04-28T22:11:07Z"
 related to:
   - "[[GitHub - 858347999]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Forward multiple links to a single target note to create synonymous links and use abbreviations for faster typing and cleaner navigation. Create redirects on the fly with a Quick-Paste command, auto-move forwarding notes to a management folder, and temporarily bypass forwarding when needed."
 
     stats: {
-        downloads:  422
+        downloads:  444
         updated_at: 1777414267000
     }
 }

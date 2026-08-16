@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/scoped-snippets
 alt:
   - https://github.com/san-schx/scoped-snippets
-downloads: 318
+downloads: 375
 updated at: "2026-07-10T11:15:21Z"
 related to:
   - "[[GitHub - 1275417393]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Apply CSS snippets to individual Markdown (.md) and Base (.base) files instead of enabling them vault-wide. Assign or remove snippets per file from the file-view dropdown and keep those snippets disabled in Obsidian’s global CSS snippets list so scoping takes effect."
 
     stats: {
-        downloads:  318
+        downloads:  375
         updated_at: 1783682121000
     }
 }

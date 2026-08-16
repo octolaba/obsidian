@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/line-notes-sync
 alt:
   - https://github.com/onikun94/line_to_obsidian
-downloads: 5527
+downloads: 5723
 updated at: "2026-07-01T11:40:10Z"
 related to:
   - "[[GitHub - 933477209]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save LINE messages to Obsidian as notes automatically or on demand. Encrypt messages before transmission and keep server-stored copies temporary and unreadable. Organize notes by date, apply customizable filename templates, prevent duplicates, and connect multiple vaults; handle text messages only."
 
     stats: {
-        downloads:  5527
+        downloads:  5723
         updated_at: 1782906010000
     }
 }

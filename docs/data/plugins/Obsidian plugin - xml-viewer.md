@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/xml-viewer
 alt:
   - https://github.com/viggomeesters/obsidian-xml-viewer
-downloads: 194
+downloads: 267
 updated at: "2026-06-07T18:59:50Z"
 related to:
   - "[[GitHub - 1262249094]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse .xml files in a read-only view as a structured tree or syntax-highlighted source with line numbers. Filter nodes by element or attribute names/values, text, comments and CDATA; view attributes, namespace prefixes, child counts, text previews and node paths. Report malformed XML, cap rendering at 10,000 nodes for performance, and parse files locally with no network or clipboard use."
 
     stats: {
-        downloads:  194
+        downloads:  267
         updated_at: 1780858790000
     }
 }

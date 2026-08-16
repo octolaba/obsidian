@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lovely-mindmap
 alt:
   - https://github.com/shaunhurryup/lovely-mindmap
-downloads: 27363
+downloads: 27645
 updated at: "2024-09-21T07:12:16Z"
 related to:
   - "[[GitHub - 658169624]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Build interactive mindmaps and knowledge graphs on the Obsidian canvas with node-based creation, connection, and zoom-to-fit navigation. Navigate and edit with keyboard-first controls across touch, navigation, and creation views, and move nodes with smart-intent placement for fast layout."
 
     stats: {
-        downloads:  27363
+        downloads:  27645
         updated_at: 1726902736000
     }
 }

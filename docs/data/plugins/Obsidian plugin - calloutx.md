@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/calloutx
 alt:
   - https://github.com/br4in/calloutX
-downloads: 780
+downloads: 794
 updated at: "2024-11-23T16:08:57Z"
 related to:
   - "[[GitHub - 893040151]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Explore and preview all custom callout icons defined in your custom-callouts.css via a searchable modal and settings tab. Add, edit, rename, or delete callouts with custom names, colors, and Lucide icons, and auto-import the CSS snippet into your snippets folder if missing."
 
     stats: {
-        downloads:  780
+        downloads:  794
         updated_at: 1732378137000
     }
 }

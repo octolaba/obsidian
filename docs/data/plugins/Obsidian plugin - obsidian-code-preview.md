@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-code-preview
 alt:
   - https://github.com/hankjs/obsidian-code-preview
-downloads: 5559
+downloads: 5583
 updated at: "2023-01-10T02:24:08Z"
 related to:
   - "[[GitHub - 561371228]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview code files from your vault directly inside notes using simple preview codeblocks with relative or absolute paths. Specify language, extract line ranges by number, text or RegExp, and highlight lines or patterns with multiple rules or YAML lists."
 
     stats: {
-        downloads:  5559
+        downloads:  5583
         updated_at: 1673317448000
     }
 }

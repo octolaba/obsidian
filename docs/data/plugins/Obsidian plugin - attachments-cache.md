@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/attachments-cache
 alt:
   - https://github.com/luisbs/obsidian-attachments-cache
-downloads: 809
+downloads: 843
 updated at: "2025-11-10T02:55:05Z"
 related to:
   - "[[GitHub - 929617956]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Store remote attachments (images, audio, video, PDFs) locally in your vault and serve cached files during note rendering to replace remote URLs. Cache selectively with path and URL whitelist/blacklist, expose an API for integrations, and archive files to rewrite links to local copies."
 
     stats: {
-        downloads:  809
+        downloads:  843
         updated_at: 1762743305000
     }
 }

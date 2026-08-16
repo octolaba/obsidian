@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/memochron
 alt:
   - https://github.com/formax68/memoChron
-downloads: 4140
+downloads: 4189
 updated at: "2026-05-17T15:38:32Z"
 related to:
   - "[[GitHub - 964169697]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import and display iCalendar (.ics) events from URLs or local files in a native calendar sidebar and daily agenda view. Create notes from events by clicking or drag-and-drop, auto-organize them into date-based folders with templates, color-code calendars, link attendees, and auto-refresh."
 
     stats: {
-        downloads:  4140
+        downloads:  4189
         updated_at: 1779032312000
     }
 }

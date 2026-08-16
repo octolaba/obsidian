@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-emotion-picker
 alt:
   - https://github.com/dartungar/obsidian-emotion-picker
-downloads: 9667
+downloads: 9686
 updated at: "2024-11-28T11:13:28Z"
 related to:
   - "[[GitHub - 437078002]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert emotions into notes from a customizable list or a sensible default. Click an emotion to paste it at the cursor and apply formatting like adding a comma, wrapping as [[link]], inserting as #tag, or capitalizing for journal and mood tracking."
 
     stats: {
-        downloads:  9667
+        downloads:  9686
         updated_at: 1732792408000
     }
 }

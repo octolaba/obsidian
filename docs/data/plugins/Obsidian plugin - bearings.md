@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bearings
 alt:
   - https://github.com/jeetsukumaran/obsidian-bearings
-downloads: 2371
+downloads: 2394
 updated at: "2024-10-02T22:20:45Z"
 related to:
   - "[[GitHub - 783118789]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Navigate your note graph with dynamically scoped, expanding tree views driven by YAML frontmatter property keys. Map hierarchical (parents/children) and coordinate (references/associations) relationships by following links listed under those property names."
 
     stats: {
-        downloads:  2371
+        downloads:  2394
         updated_at: 1727907645000
     }
 }

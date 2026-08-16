@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/excel
 alt:
   - https://github.com/ljcoder2015/obsidian-excel
-downloads: 81936
+downloads: 83458
 updated at: "2024-03-20T02:47:34Z"
 related to:
   - "[[GitHub - 681435476]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Integrate x-spreadsheet into Obsidian to store and edit XLSX files in your vault, create sheets, and import or export spreadsheets. Embed sheet ranges in Markdown and copy selected cells as HTML. Note: no longer maintained—consider Obsidian-Sheet-Plus for updates."
 
     stats: {
-        downloads:  81936
+        downloads:  83458
         updated_at: 1710902854000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/advanced-ruby
 alt:
   - https://github.com/peter-yanase/obsidian-advanced-ruby
-downloads: 831
-updated at: "2026-05-13T16:36:55Z"
+downloads: 992
+updated at: "2026-08-03T08:00:22Z"
 related to:
   - "[[GitHub - 1070146946]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Enable multi-layered ruby annotation rendering usable for everything from Japanese furigana to layered commentaries."
 
     stats: {
-        downloads:  831
-        updated_at: 1778690215000
+        downloads:  992
+        updated_at: 1785744022000
     }
 }
 ```

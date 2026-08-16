@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/confluence-to-obsidian
 alt:
   - https://github.com/kkei34/confluence-to-obsidian-plugin
-downloads: 6868
+downloads: 6942
 updated at: "2024-01-26T16:17:11Z"
 related to:
   - "[[GitHub - 644324883]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Confluence HTML exports into your Obsidian vault and convert pages to Markdown using Pandoc. Preserve space hierarchy and attachments while importing exported HTML folders into Obsidian (desktop only; Pandoc required)."
 
     stats: {
-        downloads:  6868
+        downloads:  6942
         updated_at: 1706285831000
     }
 }

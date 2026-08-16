@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/buttons
 alt:
   - https://github.com/shabegom/buttons
-downloads: 416996
+downloads: 431459
 updated at: "2025-08-26T19:27:10Z"
 related to:
   - "[[GitHub - 352074759]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create clickable buttons to run commands, open URLs/URIs, perform calculations, or insert and modify templates and text in notes. Customize multi-line markdown labels, set width/height and alignment, chain or swap actions, and control button layout for interactive note controls."
 
     stats: {
-        downloads:  416996
+        downloads:  431459
         updated_at: 1756236430000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vconsole
 alt:
   - https://github.com/zhouhua/obsidian-vconsole
-downloads: 4600
+downloads: 4882
 updated at: "2025-04-28T11:56:56Z"
 related to:
   - "[[GitHub - 780308380]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open an in-app vConsole to debug Obsidian by viewing console logs, network requests, DOM element trees, and storage (cookies, localStorage, sessionStorage). Execute JavaScript commands manually to troubleshoot plugin issues; intended for developers or advanced debugging."
 
     stats: {
-        downloads:  4600
+        downloads:  4882
         updated_at: 1745841416000
     }
 }

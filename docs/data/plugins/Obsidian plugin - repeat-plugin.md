@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/repeat-plugin
 alt:
   - https://github.com/prncc/obsidian-repeat-plugin
-downloads: 14583
+downloads: 14671
 updated at: "2026-01-06T05:27:50Z"
 related to:
   - "[[GitHub - 529739951]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Review notes with spaced and periodic repetition directly inside Obsidian. Mark notes by adding a repeat frontmatter property, see due items in the Repeat view, and schedule next reviews with interval or spaced algorithms; support hidden content, evening reviews, and tag/Dataview filtering, with all repetition state stored in each note's frontmatter."
 
     stats: {
-        downloads:  14583
+        downloads:  14671
         updated_at: 1767677270000
     }
 }

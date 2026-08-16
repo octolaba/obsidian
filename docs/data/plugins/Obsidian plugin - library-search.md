@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/library-search
 alt:
   - https://github.com/vetrenar/v-library-search
-downloads: 165
+downloads: 217
 updated at: "2026-06-27T10:02:02Z"
 related to:
   - "[[GitHub - 1267372321]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search your vault contextually using note aliases and linked context to surface the most relevant notes. Extract PDF outlines automatically and convert sections into Zettelkasten-style card index entries linked to their source notes."
 
     stats: {
-        downloads:  165
+        downloads:  217
         updated_at: 1782554522000
     }
 }

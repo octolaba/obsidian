@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-trash-explorer
 alt:
   - https://github.com/proog/obsidian-trash-explorer
-downloads: 62502
+downloads: 63475
 updated at: "2026-01-10T20:16:58Z"
 related to:
   - "[[GitHub - 552270897]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "List, restore, and permanently delete files and folders in your vault's .trash folder. Restore items back to their matching vault paths or empty the trash to delete all trashed items. Work only with Obsidian's .trash (not the system trash); Obsidian may place trashed files at the trash root, so original parent folders may not be preserved."
 
     stats: {
-        downloads:  62502
+        downloads:  63475
         updated_at: 1768076218000
     }
 }

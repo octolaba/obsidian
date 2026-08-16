@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/flomo-importer
 alt:
   - https://github.com/jia6y/flomo-to-obsidian
-downloads: 15019
+downloads: 15190
 updated at: "2024-08-18T01:48:03Z"
 related to:
   - "[[GitHub - 593495169]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Flomo memos into Obsidian as Markdown notes, preserving highlights and file links. Auto-sync or run ad-hoc imports, choose target folders, create Flomo Canvas or Moments, and optionally merge memos by date with experimental bi-directional link support."
 
     stats: {
-        downloads:  15019
+        downloads:  15190
         updated_at: 1723945683000
     }
 }

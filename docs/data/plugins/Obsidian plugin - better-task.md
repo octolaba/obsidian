@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-task
 alt:
   - https://github.com/st-vin/better-task
-downloads: 198
+downloads: 298
 updated at: "2026-02-19T19:21:29Z"
 related to:
   - "[[GitHub - 1159004546]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize work into goals and tasks, including daily routines and one-off quick tasks. View today’s tasks, goals, units, and upcoming exams in a single dashboard with optional reminders. Track progress with analytics, streaks, a 30-day heatmap, and Student Mode to add courses, exams, and auto-generate study tasks."
 
     stats: {
-        downloads:  198
+        downloads:  298
         updated_at: 1771528889000
     }
 }

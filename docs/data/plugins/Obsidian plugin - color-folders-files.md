@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/color-folders-files
 alt:
   - https://github.com/mithadon/obsidian-color-folders-files
-downloads: 33568
+downloads: 35496
 updated at: "2024-12-12T01:20:40Z"
 related to:
   - "[[GitHub - 898241698]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Customize folder and file appearance in the file explorer using a context-menu color picker and style controls. Save and apply presets, set background and text colors, font weight/style and opacity, optionally propagate styles to subfolders and files, and apply extension-based filename styling."
 
     stats: {
-        downloads:  33568
+        downloads:  35496
         updated_at: 1733966440000
     }
 }

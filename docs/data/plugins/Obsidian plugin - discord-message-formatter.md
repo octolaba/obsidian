@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/discord-message-formatter
 alt:
   - https://github.com/emile-durkheim/obsidian_discord_formatter
-downloads: 5828
+downloads: 5871
 updated at: "2024-05-17T12:09:20Z"
 related to:
   - "[[GitHub - 669522431]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Paste messages from Discord via drag-and-drop or copy-paste to convert them into Obsidian-ready markdown with usernames, timestamps, message text and Discord markdown converted to Obsidian syntax. Embed attachments, custom emojis and links, and import whole conversations with replies and edit flags."
 
     stats: {
-        downloads:  5828
+        downloads:  5871
         updated_at: 1715947760000
     }
 }

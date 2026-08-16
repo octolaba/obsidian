@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/spatial-task-graph
 alt:
   - https://github.com/cccjhuan/spatial-task-graph
-downloads: 535
+downloads: 662
 updated at: "2026-05-27T11:42:21Z"
 related to:
   - "[[GitHub - 1158505615]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize tasks and their dependencies on an interactive infinite canvas. Organize and manage workflows with intelligent layout, drag-to-create and drag-to-connect gestures, a Kanban-style sidebar for status changes, sticky notes for context, and real-time sync to your Markdown files."
 
     stats: {
-        downloads:  535
+        downloads:  662
         updated_at: 1779882141000
     }
 }

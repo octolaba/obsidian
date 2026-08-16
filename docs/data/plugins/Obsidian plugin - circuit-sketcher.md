@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/circuit-sketcher
 alt:
   - https://github.com/code-forge-temple/circuit-sketcher-obsidian-plugin
-downloads: 3343
+downloads: 3463
 updated at: "2025-08-12T14:13:08Z"
 related to:
   - "[[GitHub - 905894829]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Draw and edit circuit diagrams on a canvas inside Obsidian and save or load designs as .circuit-sketcher files. Customize a component library, add images and ports to nodes, and embed sketches that automatically render as responsive images in notes."
 
     stats: {
-        downloads:  3343
+        downloads:  3463
         updated_at: 1755007988000
     }
 }

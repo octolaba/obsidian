@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ignore-filters-boost
 alt:
   - https://github.com/lavton/obsidian-ignore-filter-shortcut
-downloads: 463
+downloads: 489
 updated at: "2026-06-18T01:33:25Z"
 related to:
   - "[[GitHub - 687037682]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Click folders to add or remove them from the excluded files list and manage ignore filters without opening settings. Use focus commands to add everything except a folder, auto-remove parents and add siblings when unignoring subfolders, and restore or set default ignore filters with one command."
 
     stats: {
-        downloads:  463
+        downloads:  489
         updated_at: 1781746405000
     }
 }

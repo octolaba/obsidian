@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/fold-properties
 alt:
   - https://github.com/itsonlyjames/obsidian-fold-properties
-downloads: 4714
+downloads: 4797
 updated at: "2026-05-12T23:10:04Z"
 related to:
   - "[[GitHub - 864330424]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a Fold/Unfold Properties button to the file context menu to quickly collapse or expand a file's properties. Apply the action to the current file or to all files in a selected folder for fast, batch folding."
 
     stats: {
-        downloads:  4714
+        downloads:  4797
         updated_at: 1778627404000
     }
 }

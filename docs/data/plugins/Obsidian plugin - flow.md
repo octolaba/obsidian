@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/flow
 alt:
   - https://github.com/tavva/flow
-downloads: 4689
+downloads: 5456
 updated at: "2026-06-29T14:15:40Z"
 related to:
   - "[[GitHub - 835708681]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture tasks, ideas, and commitments instantly into an inbox and process them with GTD-inspired flows to convert items into projects, actions, reference, or someday/maybe. Organize life into spheres with hierarchical projects, build a curated Focus view of next actions, and track Waiting For items to surface follow-ups."
 
     stats: {
-        downloads:  4689
+        downloads:  5456
         updated_at: 1782742540000
     }
 }

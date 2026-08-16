@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/conflict-manager
 alt:
   - https://github.com/demigoddd/obsidian-conflict-manager
-downloads: 216
+downloads: 234
 updated at: "2026-06-27T15:30:27Z"
 related to:
   - "[[GitHub - 1238772810]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "A simple plugin for conflict resolution. No more hunting through your file system. Just open your note, hit Review, and Resolve."
 
     stats: {
-        downloads:  216
+        downloads:  234
         updated_at: 1782574227000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-quickshare
 alt:
   - https://github.com/mcndt/obsidian-quickshare
-downloads: 30590
+downloads: 30895
 updated at: "2023-01-07T08:36:55Z"
 related to:
   - "[[GitHub - 504871447]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Share Obsidian notes securely with one click using end-to-end AES-256-CBC encryption and single-use keys. Send encrypted notes to Noteshare.space or host your own storage to share without accounts while keeping decryption keys local."
 
     stats: {
-        downloads:  30590
+        downloads:  30895
         updated_at: 1673080615000
     }
 }

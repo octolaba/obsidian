@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/jotbird
 alt:
   - https://github.com/jotbirdhq/obsidian-jotbird
-downloads: 7283
-updated at: "2026-07-13T03:46:51Z"
+downloads: 7991
+updated at: "2026-08-01T02:38:40Z"
 related to:
   - "[[GitHub - 1162953797]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Publish notes from your Obsidian vault to clean, shareable web pages on JotBird. Upload local images automatically, render callouts and Mermaid diagrams, and save published URLs and expiration dates to note frontmatter."
 
     stats: {
-        downloads:  7283
-        updated_at: 1783914411000
+        downloads:  7991
+        updated_at: 1785551920000
     }
 }
 ```

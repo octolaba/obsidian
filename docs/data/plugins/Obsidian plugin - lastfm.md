@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lastfm
 alt:
   - https://github.com/txoldi/obsidian-lastfm-plugin
-downloads: 315
+downloads: 471
 updated at: "2025-11-29T19:35:35Z"
 related to:
   - "[[GitHub - 1095703652]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fetch recent scrobbles, top tracks, artists, albums (by period and limit), and weekly charts from Last.fm, including album artwork where available. Generate Markdown notes into a chosen vault folder with previews and quick ribbon access."
 
     stats: {
-        downloads:  315
+        downloads:  471
         updated_at: 1764444935000
     }
 }

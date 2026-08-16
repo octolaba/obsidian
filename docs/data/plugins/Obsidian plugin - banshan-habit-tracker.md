@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/banshan-habit-tracker
 alt:
   - https://github.com/drbanshan/banshan-habits-tracker
-downloads: 216
+downloads: 275
 updated at: "2026-07-10T06:05:43Z"
 related to:
   - "[[GitHub - 1273140406]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track habits with interactive daily toggles and Today, Month, and Year views, including GitHub-style heatmaps for monthly and yearly overviews. Manage multiple tracker notes as readable Markdown, schedule habits by frequency or weekday, monitor strict or forgiven streaks, view per-habit history, and drag-to-reorder cards."
 
     stats: {
-        downloads:  216
+        downloads:  275
         updated_at: 1783663543000
     }
 }

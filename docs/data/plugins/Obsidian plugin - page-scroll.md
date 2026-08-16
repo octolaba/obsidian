@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/page-scroll
 alt:
   - https://github.com/chenshutian9610/obsidian-pagescroll-plugin
-downloads: 2577
+downloads: 2631
 updated at: "2024-06-23T14:44:07Z"
 related to:
   - "[[GitHub - 818660370]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add four navigation buttons for quick jumps to the top, previous page, next page, and bottom. Optimize page navigation for e-ink displays to reduce residual ghosting during normal page turns."
 
     stats: {
-        downloads:  2577
+        downloads:  2631
         updated_at: 1719153847000
     }
 }

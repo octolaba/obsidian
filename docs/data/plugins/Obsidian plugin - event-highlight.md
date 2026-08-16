@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/event-highlight
 alt:
   - https://github.com/playmean/obsidian-event-highlight-plugin
-downloads: 605
+downloads: 615
 updated at: "2026-01-22T12:08:39Z"
 related to:
   - "[[GitHub - 867867306]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight event tokens written as ISO dates with optional times (e.g., event-highlight 2025-03-25 or event-highlight 2025-03-25 21:00) directly in your notes. Render date and time entries distinctly so scheduled items stand out while you edit."
 
     stats: {
-        downloads:  605
+        downloads:  615
         updated_at: 1769083719000
     }
 }

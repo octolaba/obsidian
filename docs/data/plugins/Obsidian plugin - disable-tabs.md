@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/disable-tabs
 alt:
   - https://github.com/davidvkimball/obsidian-disable-tabs
-downloads: 4846
+downloads: 4996
 updated at: "2026-05-30T19:49:06Z"
 related to:
   - "[[GitHub - 1041687448]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Enforce a single-tab interface by disabling multiple tabs in Obsidian. Replace the current view whenever you open or close a note — including pinned tabs — so new notes always reuse the same tab. Hide the tabs button on mobile for a cleaner UI."
 
     stats: {
-        downloads:  4846
+        downloads:  4996
         updated_at: 1780170546000
     }
 }

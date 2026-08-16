@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/md-to-html-effect
 alt:
   - https://github.com/yanqingwang/obsidian-md-to-html-effect
-downloads: 34
-updated at: "2026-07-13T15:09:08Z"
+downloads: 114
+updated at: "2026-08-08T00:54:47Z"
 related to:
   - "[[GitHub - 1281848458]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Convert Obsidian Markdown notes to standalone single-file HTML that follows the html-effectiveness standard and opens via file:// in any browser. Save the .html beside the .md with the same name, offer responsive dark or light output with inline CSS and proper headings, tables, code blocks, lists, links and images, and support batch folder conversion."
 
     stats: {
-        downloads:  34
-        updated_at: 1783955348000
+        downloads:  114
+        updated_at: 1786150487000
     }
 }
 ```

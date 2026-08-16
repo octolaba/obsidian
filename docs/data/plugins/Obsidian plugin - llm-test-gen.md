@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/llm-test-gen
 alt:
   - https://github.com/aldo-g/obsidian-llm-test
-downloads: 4309
+downloads: 4404
 updated at: "2026-01-14T11:40:37Z"
 related to:
   - "[[GitHub - 931058920]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate AI-driven quizzes from your Obsidian notes in any language and get instant feedback tailored to your source content. Select from multiple LLM providers and dynamically updated models to create questions at varied difficulty levels and track scores. Manage tests in a unified dashboard."
 
     stats: {
-        downloads:  4309
+        downloads:  4404
         updated_at: 1768390837000
     }
 }

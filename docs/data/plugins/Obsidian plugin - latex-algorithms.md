@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/latex-algorithms
 alt:
   - https://github.com/samzhang02/obsidian-latex-algorithms
-downloads: 6007
+downloads: 6036
 updated at: "2023-03-05T00:51:14Z"
 related to:
   - "[[GitHub - 604194944]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert algorithm and pseudocode keywords into LaTeX algorithm environments inside Obsidian, turning inputs like \\If, \\For, \\Switch into standard algorithm structures. Support titles and subtitles, conditionals, loops, switch/case handling, proof/theorem environments, and smart indentation."
 
     stats: {
-        downloads:  6007
+        downloads:  6036
         updated_at: 1677977474000
     }
 }

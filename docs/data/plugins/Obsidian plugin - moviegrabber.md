@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/moviegrabber
 alt:
   - https://github.com/superschnizel/Obsidian-Moviegrabber
-downloads: 7298
+downloads: 7399
 updated at: "2026-02-10T11:29:55Z"
 related to:
   - "[[GitHub - 694179752]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate movie and series notes populated with OMDb metadata and optional YouTube trailer embeds for dataview use. Create templates with {{tags}} for fields like Title, Year, Genre, Director, Actors, Poster, Ratings and apply prefixes, suffixes, or regex transforms."
 
     stats: {
-        downloads:  7298
+        downloads:  7399
         updated_at: 1770722995000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/metadata-auto-classifier
 alt:
   - https://github.com/goberomsu/Metadata-Auto-Classifier
-downloads: 6910
+downloads: 7215
 updated at: "2026-05-22T06:24:19Z"
 related to:
   - "[[GitHub - 852199750]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate context-aware tags and populate customizable frontmatter using AI. Provide per-field prompts and classification rules, preview suggestions, and work with multiple AI providers for accurate, automated metadata."
 
     stats: {
-        downloads:  6910
+        downloads:  7215
         updated_at: 1779431059000
     }
 }

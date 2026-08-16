@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-sort-rules
 alt:
   - https://github.com/wepee/obsidian-folder-sort-rules
-downloads: 1040
+downloads: 1228
 updated at: "2026-03-15T13:58:10Z"
 related to:
   - "[[GitHub - 1182396783]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Define custom sort orders per folder in your vault and override the global file explorer sorting. Set independent sort orders for files and subfolders, apply rules recursively, choose from seven orders (name, modified, created, or manual), and reorder items via drag-and-drop."
 
     stats: {
-        downloads:  1040
+        downloads:  1228
         updated_at: 1773583090000
     }
 }

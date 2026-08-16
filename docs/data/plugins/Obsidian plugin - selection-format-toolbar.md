@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/selection-format-toolbar
 alt:
   - https://github.com/avinashingit/selection-format-toolbar
-downloads: 300
+downloads: 438
 updated at: "2026-06-09T18:48:41Z"
 related to:
   - "[[GitHub - 1264295110]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show a floating toolbar when selecting text to apply bold, italic, heading levels (H1–H6) and six highlight colors with a clear button. Keep the selection after each action to chain formats, and use inline <mark> highlights that render in Live Preview and Reading mode."
 
     stats: {
-        downloads:  300
+        downloads:  438
         updated_at: 1781030921000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-relations
 alt:
   - https://github.com/dmderelyn/Obsidian-smart-relations
-downloads: 270
+downloads: 306
 updated at: "2026-05-18T15:02:44Z"
 related to:
   - "[[GitHub - 1204921904]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Build deterministic, local vector-like indexes over your vault to enable semantic-style retrieval and relation discovery entirely offline with no external API calls. Score and rank related notes using BM25, tag and term overlap, and graph proximity, backed by six interconnected indexes: UUID, term, tag co‑occurrence, n‑gram, relation graph, and document stats."
 
     stats: {
-        downloads:  270
+        downloads:  306
         updated_at: 1779116564000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ii-quicker
 alt:
   - https://github.com/wish5115/obsidian-ii-quicker
-downloads: 1263
+downloads: 1278
 updated at: "2024-05-11T05:02:41Z"
 related to:
   - "[[GitHub - 774553665]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert common Markdown and HTML snippets quickly, including sup/sub, audio, video, iframe, left/center/right alignment, variables, footnotes, callouts, anchors and HTML comments. Use a color panel and media dialogs to pick colors, add images, links or embeds. Create custom commands and toggle which commands appear in the context menu for quick access."
 
     stats: {
-        downloads:  1263
+        downloads:  1278
         updated_at: 1715403761000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lonelog
 alt:
   - https://github.com/snifer/lonelog
-downloads: 2258
+downloads: 2761
 updated at: "2026-07-08T06:33:48Z"
 related to:
   - "[[GitHub - 1202791221]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Streamline solo and group TTRPG journaling by integrating Lonelog notation (full support and Partylog) directly into your vault. Insert Lonelog symbols, generate campaign/session headers and scene markers, wrap records in lonelog blocks, and get live syntax highlighting plus side panels for clocks, NPC threads, scene navigation, combat and dungeon tracking."
 
     stats: {
-        downloads:  2258
+        downloads:  2761
         updated_at: 1783492428000
     }
 }

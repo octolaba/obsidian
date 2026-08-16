@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/title-renamer
 alt:
   - https://github.com/stroiman/obsidian-title-sync
-downloads: 2089
+downloads: 2106
 updated at: "2024-03-06T09:02:52Z"
 related to:
   - "[[GitHub - 766062651]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync the first H1 inside a note with its file name when you rename the file. Replace only the first H1 if it matches the old filename to prevent template-generated \"Untitled\" or out-of-sync inline titles. Restrict to desktop environments."
 
     stats: {
-        downloads:  2089
+        downloads:  2106
         updated_at: 1709715772000
     }
 }

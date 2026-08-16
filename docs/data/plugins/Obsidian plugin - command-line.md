@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/command-line
 alt:
   - https://github.com/sstallion/obsidian-command-line
-downloads: 598
+downloads: 626
 updated at: "2025-03-28T13:05:06Z"
 related to:
   - "[[GitHub - 946798402]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy command-line code blocks to the clipboard without selecting text, stripping prompts and command output so pasted text is terminal-ready. Preserve line continuations and whitespace, provide Prism-based syntax highlighting and prompt defaults, and support both mobile and desktop."
 
     stats: {
-        downloads:  598
+        downloads:  626
         updated_at: 1743167106000
     }
 }

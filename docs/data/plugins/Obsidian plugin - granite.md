@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/granite
 alt:
   - https://github.com/obsidian-ttrpg-community/Granite
-downloads: 10037
+downloads: 10564
 updated at: "2025-05-04T21:53:58Z"
 related to:
   - "[[GitHub - 631745329]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display animated shard characters like Gemmy and Granite that deliver periodic sarcastic, scathing, or encouraging quotes while you write. Select characters and set per-character lines; use Writing Mode to have Granite interrupt extended pauses with prods, praise, or playful mockery."
 
     stats: {
-        downloads:  10037
+        downloads:  10564
         updated_at: 1746395638000
     }
 }

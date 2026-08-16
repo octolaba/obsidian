@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/age-crypto
 alt:
   - https://github.com/toru4ka/obsidian-age-crypto
-downloads: 122
+downloads: 143
 updated at: "2026-06-27T15:58:45Z"
 related to:
   - "[[GitHub - 1164027991]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Encrypt and decrypt entire notes or selected text using the age file encryption format with a bundled TypeScript implementation that runs on Desktop and Mobile without external binaries. Generate identity keys and derive recipient public keys, and store encrypted output as ASCII-armored age blocks."
 
     stats: {
-        downloads:  122
+        downloads:  143
         updated_at: 1782575925000
     }
 }

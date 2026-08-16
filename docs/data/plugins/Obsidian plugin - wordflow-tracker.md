@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wordflow-tracker
 alt:
   - https://github.com/lecheenax/WordFlow-Tracker
-downloads: 5620
+downloads: 6761
 updated at: "2026-07-10T11:20:59Z"
 related to:
   - "[[GitHub - 936653134]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track focused time, edit counts, and word changes, AI‑powered change/diff summaries per note in vault automatically. Visualize your writing activity with heatmap and list view. Customizable status bar and sidebar widget shows real‑time statistics. Record everything to your daily note (or periodic notes) using flexible templates (tables, lists, YAML). Lightweight – uses Obsidian’s built‑in history, no extra database."
 
     stats: {
-        downloads:  5620
+        downloads:  6761
         updated_at: 1783682459000
     }
 }

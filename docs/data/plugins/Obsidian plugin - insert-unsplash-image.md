@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/insert-unsplash-image
 alt:
   - https://github.com/cloudy9101/obsidian-image-inserter
-downloads: 18537
+downloads: 18655
 updated at: "2025-09-16T10:51:56Z"
 related to:
   - "[[GitHub - 531018190]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search and insert images from Unsplash, Pixabay, and Pexels directly into notes. Download images into your resource folder or insert remote URLs, choose image quality, size and orientation, and add images into frontmatter with a custom key/value."
 
     stats: {
-        downloads:  18537
+        downloads:  18655
         updated_at: 1758019916000
     }
 }

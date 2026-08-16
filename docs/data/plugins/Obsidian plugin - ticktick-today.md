@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ticktick-today
 alt:
   - https://github.com/wudanyang27/ticktick-today
-downloads: 746
+downloads: 785
 updated at: "2025-12-05T09:30:42Z"
 related to:
   - "[[GitHub - 1024955079]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display today's TickTick tasks in Obsidian's sidebar with project names, pinned tasks on top, and human-readable time labels. Mark tasks complete with real-time macOS sync and jump to TickTick for full edits — requires macOS and the TickTick app."
 
     stats: {
-        downloads:  746
+        downloads:  785
         updated_at: 1764927042000
     }
 }

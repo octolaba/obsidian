@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/postcraft
 alt:
   - https://github.com/turuhiro26-hub/postcraft
-downloads: 66
+downloads: 77
 updated at: "2026-07-01T06:37:51Z"
 related to:
   - "[[GitHub - 1285104176]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn selected text into ready-to-post X (Twitter) and LinkedIn drafts in your voice with one command, no prompt writing. Edit drafts in place with tone presets and a live character counter, reopen recent runs anytime, and keep your API key stored locally for privacy."
 
     stats: {
-        downloads:  66
+        downloads:  77
         updated_at: 1782887871000
     }
 }

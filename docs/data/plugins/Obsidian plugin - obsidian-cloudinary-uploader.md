@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-cloudinary-uploader
 alt:
   - https://github.com/jordanhandy/obsidian-cloudinary-uploader
-downloads: 5125
+downloads: 5142
 updated at: "2024-06-12T22:42:43Z"
 related to:
   - "[[GitHub - 427823418]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload images, video, audio, and raw files pasted into Obsidian directly to your Cloudinary account instead of storing them locally. Apply Cloudinary transformations via custom parameters or a default transformation, handle single or multi-file uploads, and use unsigned uploads to avoid storing API secrets."
 
     stats: {
-        downloads:  5125
+        downloads:  5142
         updated_at: 1718232163000
     }
 }

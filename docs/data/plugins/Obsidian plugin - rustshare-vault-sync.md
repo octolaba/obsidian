@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rustshare-vault-sync
 alt:
   - https://github.com/zoorpha/rustshare-obsidian-plugin
-downloads: 81
+downloads: 88
 updated at: "2026-06-22T23:40:43Z"
 related to:
   - "[[GitHub - 1270037242]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault with a RustShare server using SHA-256 change detection for full and incremental transfers. Create conflict copies for edits, queue offline changes for later upload, track deletions with tombstones, deduplicate via content-addressed storage, and display real-time sync status in the status bar."
 
     stats: {
-        downloads:  81
+        downloads:  88
         updated_at: 1782171643000
     }
 }

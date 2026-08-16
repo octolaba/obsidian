@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/advanced-exclude
 alt:
   - https://github.com/mnaoumov/obsidian-advanced-exclude
-downloads: 13537
-updated at: "2026-07-22T18:06:23Z"
+downloads: 14543
+updated at: "2026-08-08T05:44:21Z"
 related to:
   - "[[GitHub - 956794013]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Configure ignore patterns using gitignore syntax and .obsidianignore files, with optional import from .gitignore and reuse of existing Excluded files patterns. Hide ignored files from the Files view, Backlinks and other places so Obsidian treats them as if they do not exist."
 
     stats: {
-        downloads:  13537
-        updated_at: 1784743583000
+        downloads:  14543
+        updated_at: 1786167861000
     }
 }
 ```

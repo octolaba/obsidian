@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/real-chat
 alt:
   - https://github.com/saorgage/real-chat
-downloads: 354
+downloads: 597
 updated at: "2026-07-19T19:43:08Z"
 related to:
   - "[[GitHub - 1275319796]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a chat sidebar linked to any OpenAI-compatible API to read/edit notes, search your vault, browse the web, and process images. Run five persistent chats with per-chat model choice, perform vault file actions, use ranked search and vision input, keep memory notes, stream responses and export chats."
 
     stats: {
-        downloads:  354
+        downloads:  597
         updated_at: 1784490188000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-tools
 alt:
   - https://github.com/hosstell/image-tools-obsidian-plugin
-downloads: 8600
+downloads: 8801
 updated at: "2026-02-14T07:30:08Z"
 related to:
   - "[[GitHub - 863954859]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Resize images by dragging to change dimensions. Align images left, center, or right, and open images in fullscreen for a closer view."
 
     stats: {
-        downloads:  8600
+        downloads:  8801
         updated_at: 1771054208000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-crypto
 alt:
   - https://github.com/jasonsting622-netizen/folder-crypto
-downloads: 221
+downloads: 308
 updated at: "2026-05-13T07:47:08Z"
 related to:
   - "[[GitHub - 1230829147]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Protect folders with two modes: folder lock locks access inside Obsidian, marks folders in the file explorer, prompts for a password, and can optionally hide the underlying folder in Finder. Encrypt folder contents with AES-256-GCM using a PBKDF2-derived key, never save passwords, and optionally write plaintext .ofc-backup files."
 
     stats: {
-        downloads:  221
+        downloads:  308
         updated_at: 1778658428000
     }
 }

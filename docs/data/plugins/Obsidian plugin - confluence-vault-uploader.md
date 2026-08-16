@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/confluence-vault-uploader
 alt:
   - https://github.com/stephenkall/obsidian-confluence-vault-uploader
-downloads: 84
+downloads: 99
 updated at: "2026-06-12T18:13:57Z"
 related to:
   - "[[GitHub - 1266663231]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault to Confluence and preserve folder structure as nested pages. Convert wiki links to working Confluence links, turn callouts into panels, convert code blocks to syntax-highlighted macros, and run incremental two-phase sync to create pages then wire links."
 
     stats: {
-        downloads:  84
+        downloads:  99
         updated_at: 1781288037000
     }
 }

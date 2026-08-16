@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-ivre-plugin
 alt:
   - https://github.com/ivre/obsidian-ivre-plugin
-downloads: 3555
+downloads: 3563
 updated at: "2024-09-19T20:07:01Z"
 related to:
   - "[[GitHub - 572673706]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Analyze selected IPs, networks, or hostnames and import IVRE ipdata and view results directly into notes. Combine IVRE scan and passive data with your Obsidian vault to streamline pentest, red-team, incident response, and cyber threat intelligence note-taking."
 
     stats: {
-        downloads:  3555
+        downloads:  3563
         updated_at: 1726776421000
     }
 }

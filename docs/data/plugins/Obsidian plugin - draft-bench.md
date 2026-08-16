@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/draft-bench
 alt:
   - https://github.com/banisterious/obsidian-draft-bench
-downloads: 666
+downloads: 727
 updated at: "2026-05-16T18:03:12Z"
 related to:
   - "[[GitHub - 1212746420]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage writing projects, scenes, and versioned drafts as plain Markdown files with frontmatter-native metadata. Keep per-scene draft history as real files for side-by-side comparison and iterative snapshots. Organize scenes anywhere in your vault and compile manuscripts with a form-based Builder requiring no JavaScript."
 
     stats: {
-        downloads:  666
+        downloads:  727
         updated_at: 1778954592000
     }
 }

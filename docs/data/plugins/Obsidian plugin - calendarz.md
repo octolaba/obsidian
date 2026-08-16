@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/calendarz
 alt:
   - https://github.com/kechengzhang28/Obsidian-CalendarZ-Plugin
-downloads: 320
+downloads: 346
 updated at: "2026-05-21T18:21:41Z"
 related to:
   - "[[GitHub - 1217876670]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a visual calendar with heatmap and dots that track daily note or word counts, or switch to a clean None view for pure date navigation. Recognize dates from YAML frontmatter or filenames, open or create daily/weekly/monthly/yearly notes with templates, and show todo completion and per-day statistics."
 
     stats: {
-        downloads:  320
+        downloads:  346
         updated_at: 1779387701000
     }
 }

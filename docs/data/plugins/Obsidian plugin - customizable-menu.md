@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/customizable-menu
 alt:
   - https://github.com/kzhovn/obsidian-customizable-menu
-downloads: 29849
+downloads: 30098
 updated at: "2022-06-06T03:02:45Z"
 related to:
   - "[[GitHub - 406205658]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Customize the right-click context menu by adding or hiding any command, including community-plugin commands, directly in notes. Assign custom icons from Obsidian's internal set or Lucide, and hide commands globally across context menus by exact name."
 
     stats: {
-        downloads:  29849
+        downloads:  30098
         updated_at: 1654484565000
     }
 }

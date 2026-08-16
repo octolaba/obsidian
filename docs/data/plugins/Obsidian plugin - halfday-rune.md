@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/halfday-rune
 alt:
   - https://github.com/halfday-dev/halfday-rune
-downloads: 97
+downloads: 105
 updated at: "2026-06-21T20:48:06Z"
 related to:
   - "[[GitHub - 1214722321]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Encrypt vault files at rest with age (X25519) keys and keep plaintext only in editor memory so notes never remain unencrypted on disk. Open .age files inline: decrypt in memory, show a CodeMirror editor with live Markdown preview, then re-encrypt on save while supporting multi-recipient encryption and key rotation."
 
     stats: {
-        downloads:  97
+        downloads:  105
         updated_at: 1782074886000
     }
 }

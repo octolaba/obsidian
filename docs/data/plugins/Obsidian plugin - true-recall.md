@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/true-recall
 alt:
   - https://github.com/pieralukasz/true-recall
-downloads: 9356
-updated at: "2026-07-10T10:08:39Z"
+downloads: 10215
+updated at: "2026-08-01T09:00:33Z"
 related to:
   - "[[GitHub - 1126132370]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create and review flashcards inline using FSRS scheduling to adapt to your memory. Generate cards from selected text with AI, keep data in a portable SQLite DB like anki, organize via projects, query and browse cards, import/export Anki, and track progress with dashboards and widgets."
 
     stats: {
-        downloads:  9356
-        updated_at: 1783678119000
+        downloads:  10215
+        updated_at: 1785574833000
     }
 }
 ```

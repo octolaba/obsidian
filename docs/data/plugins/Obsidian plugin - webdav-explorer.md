@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/webdav-explorer
 alt:
   - https://github.com/sunmagicshow/obsidian-webdav
-downloads: 323
+downloads: 439
 updated at: "2026-03-30T03:44:00Z"
 related to:
   - "[[GitHub - 1086284160]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse and manage files on WebDAV servers from Obsidian. Drag files into notes to auto-generate Markdown links, double-click to open in-app, preview media, upload/download items, and handle duplicates with overwrite or rename options."
 
     stats: {
-        downloads:  323
+        downloads:  439
         updated_at: 1774842240000
     }
 }

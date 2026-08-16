@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/key-promoter
 alt:
   - https://github.com/joethei/obsidian-key-promoter
-downloads: 16639
+downloads: 16951
 updated at: "2025-12-18T13:11:35Z"
 related to:
   - "[[GitHub - 415372040]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show shortcut hints when clicking UI buttons or pressing hotkeys, displaying the assigned hotkey or the command name to assign. Track and display statistics of your most-used commands to surface candidates for shortcut assignment and aid presentations. Note button labels may not match commands, so a single button press can trigger multiple notifications."
 
     stats: {
-        downloads:  16639
+        downloads:  16951
         updated_at: 1766063495000
     }
 }

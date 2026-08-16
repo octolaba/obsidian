@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/air-sync
 alt:
   - https://github.com/takezoh/obsidian-air-sync
-downloads: 2003
-updated at: "2026-07-22T17:36:06Z"
+downloads: 3120
+updated at: "2026-08-08T17:47:20Z"
 related to:
   - "[[GitHub - 1171788902]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Your notes, always up to date on every device — without ever thinking about sync. Edit on your laptop, pick up your phone, and it's caught up before you start typing."
 
     stats: {
-        downloads:  2003
-        updated_at: 1784741766000
+        downloads:  3120
+        updated_at: 1786211240000
     }
 }
 ```

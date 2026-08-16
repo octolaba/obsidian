@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jira-tiles
 alt:
   - https://github.com/sshah7433/obsidian-jira-tiles
-downloads: 73
+downloads: 84
 updated at: "2026-06-26T18:56:33Z"
 related to:
   - "[[GitHub - 1280304634]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed live Jira issue tiles in notes via fenced code blocks to show issue icon, bold summary, status, priority, due date & fix versions, assignee, custom fields, fetch timestamp, refresh control and an Open in Jira button. Store Atlassian Cloud API tokens in SecretStorage, discover Jira fields, and use TTL caching with offline fallback; tiles reflow for mobile."
 
     stats: {
-        downloads:  73
+        downloads:  84
         updated_at: 1782500193000
     }
 }

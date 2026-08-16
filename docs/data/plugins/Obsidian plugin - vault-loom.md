@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-loom
 alt:
   - https://github.com/yangzuo0621/vault-loom
-downloads: 18
+downloads: 29
 updated at: "2026-07-13T05:59:33Z"
 related to:
   - "[[GitHub - 1290672598]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Weave your vault into AI context with streaming chat, note-aware retrieval, and editing commands. Use the current selection or active note as context, search or index Markdown chunks for semantic retrieval, preview attached context, manage chat sessions, and run a confirmation-gated agent that shows tool activity and asks before writing."
 
     stats: {
-        downloads:  18
+        downloads:  29
         updated_at: 1783922373000
     }
 }

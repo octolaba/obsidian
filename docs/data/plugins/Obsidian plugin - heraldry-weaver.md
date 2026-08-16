@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/heraldry-weaver
 alt:
   - https://github.com/obsidian-ttrpg-community/heraldry-weaver
-downloads: 805
-updated at: "2026-06-07T05:16:02Z"
+downloads: 1178
+updated at: "2026-08-01T11:29:57Z"
 related to:
   - "[[GitHub - 1254057932]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Generate procedural or hand-built coats of arms for worldbuilding and TTRPG campaigns. Customize shield shapes, fields, tinctures and layered charges with live preview and rule-of-tincture hints, save to a searchable library, embed inline or as blocks, or export as SVG/PNG."
 
     stats: {
-        downloads:  805
-        updated_at: 1780809362000
+        downloads:  1178
+        updated_at: 1785583797000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/double-click-image-opener
 alt:
   - https://github.com/atman-33/double-click-image-opener
-downloads: 476
+downloads: 502
 updated at: "2026-02-17T13:14:17Z"
 related to:
   - "[[GitHub - 1047393600]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open images in your default system viewer by double-clicking them inside Obsidian. Support common image formats (PNG, JPG, GIF, WebP, SVG) across Reading, Live Preview and Source modes on Windows, macOS and Linux."
 
     stats: {
-        downloads:  476
+        downloads:  502
         updated_at: 1771334057000
     }
 }

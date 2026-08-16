@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/global-search-and-replace
 alt:
   - https://github.com/mahmoudfawzykhalil/obsidian-global-search-and-replace
-downloads: 62639
+downloads: 64039
 updated at: "2024-06-03T18:23:16Z"
 related to:
   - "[[GitHub - 600580006]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search and replace across your entire vault using plain text or regular expressions with optional case sensitivity. Preview and cycle through matches, open matching notes, and apply replacements using standard patterns like $&, $n and named groups ($<Name>)."
 
     stats: {
-        downloads:  62639
+        downloads:  64039
         updated_at: 1717438996000
     }
 }

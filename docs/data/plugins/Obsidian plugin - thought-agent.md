@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/thought-agent
 alt:
   - https://github.com/tuguberk/thought-agent-obsidian
-downloads: 331
+downloads: 437
 updated at: "2026-07-11T15:13:51Z"
 related to:
   - "[[GitHub - 1216893090]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn your vault into an AI research assistant that semantically searches notes, navigates your knowledge graph, and generates visual diagrams. Let an autonomous agent propose safe edits and insights while keeping files unchanged until you approve changes."
 
     stats: {
-        downloads:  331
+        downloads:  437
         updated_at: 1783782831000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/codeblock-tabs
 alt:
   - https://github.com/jeminmau/Obsidian-CodeBlock-Tabs
-downloads: 7836
+downloads: 7896
 updated at: "2023-08-03T06:49:46Z"
 related to:
   - "[[GitHub - 671331773]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create tab groups from contiguous code blocks and display each block as a labeled tab using language or title metadata. Switch between snippets to compare languages or keep multiple versions of the same example organized inline."
 
     stats: {
-        downloads:  7836
+        downloads:  7896
         updated_at: 1691045386000
     }
 }

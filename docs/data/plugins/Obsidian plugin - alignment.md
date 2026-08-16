@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/alignment
 alt:
   - https://github.com/kool-ankit-raj/Alignment
-downloads: 386
+downloads: 613
 updated at: "2026-06-17T06:02:01Z"
 related to:
   - "[[GitHub - 1223777603]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Align selected text to Center, Right, or Justify using the context menu or command palette, wrapping selections in lightweight HTML divs for styling. Reset alignment instantly and target styles with the provided CSS classes (.align-center, .align-right, .align-justify)."
 
     stats: {
-        downloads:  386
+        downloads:  613
         updated_at: 1781676121000
     }
 }

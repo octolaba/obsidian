@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/skim-highlights
 alt:
   - https://github.com/xuxiaominger/obsidian-skim-highlights
-downloads:
-updated at:
+downloads: 34
+updated at: "2026-07-25T11:35:29Z"
 related to:
   - "[[GitHub - 1311564484]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/xuxiaominger/obsidian-skim-highlights"
     description: "Skim高亮自动复制到剪贴板，粘贴到Obsidian任意笔记，点击链接跳回PDF原文 - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Poll Skim for new highlights and automatically copy them to the clipboard for instant pasting into any Obsidian note. Create formatted quote cards with page references and clickable links that jump back to the original spot in Skim."
+
+    stats: {
+        downloads:  34
+        updated_at: 1784979329000
+    }
 }
 ```
 

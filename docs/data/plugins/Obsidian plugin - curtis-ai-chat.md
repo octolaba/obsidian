@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/curtis-ai-chat
 alt:
   - https://github.com/jordannewell/curtis-ai-chat
-downloads: 5
+downloads: 80
 updated at: "2026-07-24T02:57:10Z"
 related to:
   - "[[GitHub - 1310107846]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Desktop preferred Curtis Ai Chat is a polyglot AI sidebar for Obsidian — chat with 30+ providers (Anthropic, OpenAI, Gemini, Ollama, OpenRouter, Groq, and more) through one interface, with your API keys in the OS keychain and your data staying local. Give the AI agent mode to read, edit, and create your notes, run one prompt across 2–5 models side-by-side to compare quality and latency live, rewrite selected text with an Accept/Reject diff, talk to it via Whisper voice I/O, @-mention vault notes as silent context, and search across every message in every conversation. Markdown-backed memory you can edit. MIT, zero telemetry, cryptographically attested per release."
 
     stats: {
-        downloads:  5
+        downloads:  80
         updated_at: 1784861830000
     }
 }

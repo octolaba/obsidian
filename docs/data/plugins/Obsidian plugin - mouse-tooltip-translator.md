@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mouse-tooltip-translator
 alt:
   - https://github.com/toki1703/mouse-tooltip-translator
-downloads: 1469
+downloads: 1820
 updated at: "2026-06-24T23:42:50Z"
 related to:
   - "[[GitHub - 1239076309]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Translate hovered or selected text with instant tooltips showing dictionary entries, parts of speech, and romanization. Assign Google, DeepL, Bing or local/remote LLM engines per trigger, translate full pages with reverse tooltips that reveal the original text, and save lookups to a sortable sidebar wordbook for review."
 
     stats: {
-        downloads:  1469
+        downloads:  1820
         updated_at: 1782344570000
     }
 }

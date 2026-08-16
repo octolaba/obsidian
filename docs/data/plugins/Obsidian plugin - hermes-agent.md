@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/hermes-agent
 alt:
   - https://github.com/jsun2020/hermes-agent-obsidian-plugin
-downloads: 3422
-updated at: "2026-07-09T08:27:05Z"
+downloads: 5630
+updated at: "2026-08-03T13:04:46Z"
 related to:
   - "[[GitHub - 1273319739]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Chat with your locally running Hermes Agent directly inside Obsidian and stream model replies into a multi-tab sidebar panel. Send the current note or selected text as context and connect to the local Hermes gateway using your API server key, with Runs transport when available or Chat Completions as fallback."
 
     stats: {
-        downloads:  3422
-        updated_at: 1783585625000
+        downloads:  5630
+        updated_at: 1785762286000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pokemon-pet
 alt:
   - https://github.com/aisatsanz/obsidian-pokemon-pet
-downloads: 200
+downloads: 256
 updated at: "2026-06-12T10:09:56Z"
 related to:
   - "[[GitHub - 1267153287]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a collectible pixel Pokemon companion that wanders the bottom of the Obsidian window, hops onto text or images, and reacts when you type. Encounter wild Pokemon by rarity and throw a Pokeball to catch them, manage size and collection, open wiki links, or hide the pet. Work offline with a bundled fallback roster or fetch remote sprites/data and receive Pomodoro completion notifications."
 
     stats: {
-        downloads:  200
+        downloads:  256
         updated_at: 1781258996000
     }
 }

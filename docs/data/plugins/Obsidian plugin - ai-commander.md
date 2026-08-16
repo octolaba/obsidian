@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-commander
 alt:
   - https://github.com/yzh503/obsidian-aicommander-plugin
-downloads: 19146
+downloads: 19211
 updated at: "2024-10-15T11:32:53Z"
 related to:
   - "[[GitHub - 610622662]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate text or images from a prompt, the current line, or selected text using OpenAI models (GPT, DALL·E; requires OpenAI API key); add a Bing Web Search API key to include web results. Transcribe the last audio above the cursor with Whisper, query embedded PDFs for context-aware responses, and create custom prompt commands with prompts auto‑improved via Prompt Perfect."
 
     stats: {
-        downloads:  19146
+        downloads:  19211
         updated_at: 1728991973000
     }
 }

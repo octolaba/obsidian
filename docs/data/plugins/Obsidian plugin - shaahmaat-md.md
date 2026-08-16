@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/shaahmaat-md
 alt:
   - https://github.com/mihailkovachev/shaahmaat-md
-downloads: 421
+downloads: 430
 updated at: "2024-12-28T23:43:33Z"
 related to:
   - "[[GitHub - 905652914]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render chess positions inside notes from FEN or PGN. Flip board orientation, highlight squares in sequence, draw arrows to illustrate ideas, and set custom colors, piece sets and individual board sizes."
 
     stats: {
-        downloads:  421
+        downloads:  430
         updated_at: 1735429413000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sspai-toc
 alt:
   - https://github.com/likemuuxi/obsidian-sspai-toc
-downloads: 824
+downloads: 887
 updated at: "2026-06-05T02:03:40Z"
 related to:
   - "[[GitHub - 1125120252]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a floating Sspai-style table of contents on the right side of your notes with a minimalist design that stays out of the way. Auto-hide non-active headings into simple lines while keeping the active heading fully visible to reduce distraction. Keep the TOC live-synced across edit and reading modes, updating instantly as you type or scroll."
 
     stats: {
-        downloads:  824
+        downloads:  887
         updated_at: 1780625020000
     }
 }

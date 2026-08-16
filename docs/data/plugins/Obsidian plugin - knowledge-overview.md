@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/knowledge-overview
 alt:
   - https://github.com/lingji-yidong/obsidian-knowledge-overview
-downloads: 209
-updated at: "2026-07-17T19:27:16Z"
+downloads: 264
+updated at: "2026-07-24T16:04:18Z"
 related to:
   - "[[GitHub - 1238645954]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Generate structured subject overviews, study outlines, and chapter notes from a subject name using OpenAI-compatible LLMs. Create one Markdown note per chapter, render formulas with KaTeX, resume failed chapters, show progress, support multiple output languages with English key-term glossaries, and retry transient API failures."
 
     stats: {
-        downloads:  209
-        updated_at: 1784316436000
+        downloads:  264
+        updated_at: 1784909058000
     }
 }
 ```

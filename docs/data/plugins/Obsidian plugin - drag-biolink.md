@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/drag-biolink
 alt:
   - https://github.com/lingxifox/drag-biolink
-downloads: 42
+downloads: 79
 updated at: "2026-07-13T12:34:40Z"
 related to:
   - "[[GitHub - 1298008608]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create native Obsidian block links between selected text across split Markdown editors by dragging, replacing each selection in place with a wikilink whose alias matches the original text. Preserve block IDs, backlinks, graph view and native navigation; support bidirectional or forward links."
 
     stats: {
-        downloads:  42
+        downloads:  79
         updated_at: 1783946080000
     }
 }

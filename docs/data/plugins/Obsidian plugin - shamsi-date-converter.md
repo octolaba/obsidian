@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/shamsi-date-converter
 alt:
   - https://github.com/milad-s5/obsidian-shamsi-date-converter
-downloads: 259
+downloads: 312
 updated at: "2026-02-20T12:58:18Z"
 related to:
   - "[[GitHub - 1162570861]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Gregorian date properties in notes to Shamsi (Jalali/Persian) dates, supporting multiple start/end or custom date-property pairs. Update conversions automatically when source dates change and trigger manual conversion via the command palette; choose flexible Shamsi output formats."
 
     stats: {
-        downloads:  259
+        downloads:  312
         updated_at: 1771592298000
     }
 }

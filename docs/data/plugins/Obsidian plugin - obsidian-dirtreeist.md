@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-dirtreeist
 alt:
   - https://github.com/k4a-l/obsidian-dirtreeist
-downloads: 7668
-updated at: "2026-04-22T01:58:00Z"
+downloads: 7864
+updated at: "2026-07-25T16:00:51Z"
 related to:
   - "[[GitHub - 559594043]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render directory-structure diagrams from markdown lists placed in a dirtree code block. Convert nested, sequential, and mixed listings into readable ASCII tree diagrams showing folders and files."
 
     stats: {
-        downloads:  7668
-        updated_at: 1776823080000
+        downloads:  7864
+        updated_at: 1784995251000
     }
 }
 ```

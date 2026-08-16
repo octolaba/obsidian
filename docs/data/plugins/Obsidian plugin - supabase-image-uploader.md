@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/supabase-image-uploader
 alt:
   - https://github.com/waymakerlabs/obsidian-supabase-uploader
-downloads: 84
+downloads: 89
 updated at: "2026-05-28T23:21:55Z"
 related to:
   - "[[GitHub - 1137118493]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload pasted or dragged images to your Supabase Storage automatically and insert Markdown image links with their hosted URLs. Delete uploaded images from Supabase via the editor context menu and keep files organized by YYYY/MM/DD folders; works with Supabase Cloud or self-hosted instances."
 
     stats: {
-        downloads:  84
+        downloads:  89
         updated_at: 1780010515000
     }
 }

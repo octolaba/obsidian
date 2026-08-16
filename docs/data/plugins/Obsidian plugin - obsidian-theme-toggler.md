@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-theme-toggler
 alt:
   - https://github.com/larsmagnus/obsidian-theme-toggler
-downloads: 7217
+downloads: 7277
 updated at: "2022-10-15T04:02:16Z"
 related to:
   - "[[GitHub - 540891184]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a theme toggle button to every pane and set themes on a per-panel basis. Use three commands to toggle the active pane's theme or force dark or light mode."
 
     stats: {
-        downloads:  7217
+        downloads:  7277
         updated_at: 1665806536000
     }
 }

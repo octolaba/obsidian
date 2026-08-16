@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/yearly-glance
 alt:
   - https://github.com/moyf/yearly-glance
-downloads: 11453
+downloads: 11756
 updated at: "2026-06-08T12:03:06Z"
 related to:
   - "[[GitHub - 958412695]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View a full-year calendar at a glance and manage holidays, birthdays (with age and zodiac) and custom events in one interactive overview. Customize layouts, colors and emojis, filter by event type, hide empty dates, and click any event to view or edit details; includes Chinese lunar calendar and multi-language support."
 
     stats: {
-        downloads:  11453
+        downloads:  11756
         updated_at: 1780920186000
     }
 }

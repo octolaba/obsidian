@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/linked-data-helper
 alt:
   - https://github.com/kometenstaub/linked-data-helper
-downloads: 4316
+downloads: 4336
 updated at: "2023-04-23T11:17:22Z"
 related to:
   - "[[GitHub - 415625806]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate linked-data files from Library of Congress bulk exports for use with the Linked Data Vocabularies plugin, with current support for LCSH. Save outputs to attachments/linked-data-vocabularies or choose an alternate path, then disable it until you need to update or add datasets."
 
     stats: {
-        downloads:  4316
+        downloads:  4336
         updated_at: 1682248642000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/good-bases
 alt:
   - https://github.com/francescoumberto/GoodBases
-downloads: 1862
+downloads: 2427
 updated at: "2026-07-12T21:48:31Z"
 related to:
   - "[[GitHub - 1265871893]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Bases as a Notion-style table with clean chrome, hairline borders, horizontal scrolling, and hover-reveal OPEN buttons that open notes. Display colored value pills with deterministic hashing and pinned overrides, enable inline editing for text and numbers, toggle checkboxes in place, and respect Bases grouping and view controls."
 
     stats: {
-        downloads:  1862
+        downloads:  2427
         updated_at: 1783892911000
     }
 }

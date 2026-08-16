@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/actions-uri
 alt:
   - https://github.com/czottmann/obsidian-actions-uri
-downloads: 96967
+downloads: 98694
 updated at: "2026-05-29T17:55:29Z"
 related to:
   - "[[GitHub - 539089254]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add extra x-callback-url endpoints to Obsidian for common actions like daily notes, note creation, searches and note manipulation. Invoke extended Obsidian URI routes from external apps and scripts to automate workflows and connect notes across devices."
 
     stats: {
-        downloads:  96967
+        downloads:  98694
         updated_at: 1780077329000
     }
 }

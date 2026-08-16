@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-note-content-pusher
 alt:
   - https://github.com/lizard-heart/obsidian-note-content-pusher
-downloads: 4147
+downloads: 4159
 updated at: "2022-06-14T03:59:05Z"
 related to:
   - "[[GitHub - 495271369]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Push specified content into new or existing notes without leaving the current pane using inline syntax like [[Title]]>>{content}. Create files on demand, append or prepend text, and add aliases into a note's YAML frontmatter with simple inline settings."
 
     stats: {
-        downloads:  4147
+        downloads:  4159
         updated_at: 1655179145000
     }
 }

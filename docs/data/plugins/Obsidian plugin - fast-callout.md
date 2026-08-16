@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/fast-callout
 alt:
   - https://github.com/vkalahas/fast-callout
-downloads: 1576
+downloads: 1982
 updated at: "2026-01-14T18:06:26Z"
 related to:
   - "[[GitHub - 1119932008]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create callouts faster by typing short triggers like ;ex or @example to expand into Obsidian callout syntax and place the cursor at the title. Define nicknames and custom trigger prefixes, add custom callouts, and bind slash commands to hotkeys for quick insertion."
 
     stats: {
-        downloads:  1576
+        downloads:  1982
         updated_at: 1768413986000
     }
 }

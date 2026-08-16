@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-explorer
 alt:
   - https://github.com/iscii/obsidian-better-explorer
-downloads: 360
+downloads: 424
 updated at: "2026-05-03T21:23:20Z"
 related to:
   - "[[GitHub - 1228124530]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add VS Code–style sticky folder headers to the file explorer. Pin expanded parent folders at the top as you scroll, with nested child folders stacking beneath for clear context. Preserve Obsidian's native explorer with a lightweight DOM-only enhancement."
 
     stats: {
-        downloads:  360
+        downloads:  424
         updated_at: 1777843400000
     }
 }

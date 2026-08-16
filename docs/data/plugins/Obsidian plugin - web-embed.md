@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/web-embed
 alt:
   - https://github.com/notenerdofficial/web-embed
-downloads: 70
+downloads: 116
 updated at: "2026-07-11T05:57:26Z"
 related to:
   - "[[GitHub - 1297140789]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed any website as a live, interactive browser view inside a note by placing its URL on its own line in a fenced code block tagged browser. Scroll, click, and interact at a configurable height (desktop only); note that some sites may block embedding via X-Frame-Options or Content-Security-Policy."
 
     stats: {
-        downloads:  70
+        downloads:  116
         updated_at: 1783749446000
     }
 }

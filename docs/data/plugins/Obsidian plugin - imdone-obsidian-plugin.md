@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/imdone-obsidian-plugin
 alt:
   - https://github.com/imdone/imdone-obsidian-plugin
-downloads: 6182
+downloads: 6223
 updated at: "2025-01-21T04:17:40Z"
 related to:
   - "[[GitHub - 344939835]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open Imdone cards from TODO comments or notes and jump directly to the exact file and line in Imdone. Get autocomplete suggestions for #imdone tags as you type to speed up task tagging."
 
     stats: {
-        downloads:  6182
+        downloads:  6223
         updated_at: 1737433060000
     }
 }

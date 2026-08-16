@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lan-vault-sync
 alt:
   - https://github.com/senjanson/lan-vault-sync
-downloads: 443
+downloads: 629
 updated at: "2026-04-02T11:43:35Z"
 related to:
   - "[[GitHub - 1195345437]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault in real time across your local network with no cloud, server, or subscription. Merge concurrent text edits at the character level with Yjs CRDT to avoid conflicts, sync attachments via hash comparison, and auto-discover peers over LAN."
 
     stats: {
-        downloads:  443
+        downloads:  629
         updated_at: 1775130215000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wikidata-importer
 alt:
   - https://github.com/samwho/obsidian-wikidata-importer
-downloads: 6923
+downloads: 6975
 updated at: "2026-05-02T14:22:53Z"
 related to:
   - "[[GitHub - 680931644]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Wikidata properties into a note by adding a Wikidata entity ID and running the importer. Add Wikidata statements as note properties and import new Wikidata entities into your vault."
 
     stats: {
-        downloads:  6923
+        downloads:  6975
         updated_at: 1777731773000
     }
 }

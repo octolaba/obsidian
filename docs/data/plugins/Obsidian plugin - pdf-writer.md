@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pdf-writer
 alt:
   - https://github.com/jkom4/obsidian-pdf-writer
-downloads: 4310
+downloads: 4478
 updated at: "2026-03-11T21:47:11Z"
 related to:
   - "[[GitHub - 912913774]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Write and fill PDF forms directly from your vault. Add text annotations by clicking anywhere, choose font, size and color, move and edit text zones, auto-save and reload annotations, and export a new PDF with embedded text layers."
 
     stats: {
-        downloads:  4310
+        downloads:  4478
         updated_at: 1773265631000
     }
 }

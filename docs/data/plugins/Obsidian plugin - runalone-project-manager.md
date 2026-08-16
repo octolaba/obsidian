@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/runalone-project-manager
 alt:
   - https://github.com/nestedshell/runalone-project-manager
-downloads: 291
+downloads: 335
 updated at: "2026-05-22T09:01:57Z"
 related to:
   - "[[GitHub - 1148156059]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage projects and tasks locally in Obsidian with a minimalist manager combining Kanban boards and an interactive Gantt timeline for solo creators. Drag and drop to reschedule or resize tasks, visualize dependencies, and keep everything in plain-text files—no cloud or accounts."
 
     stats: {
-        downloads:  291
+        downloads:  335
         updated_at: 1779440517000
     }
 }

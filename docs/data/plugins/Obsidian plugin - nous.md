@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/nous
 alt:
   - https://github.com/andymdh/obsidian-nous
-downloads: 27
-updated at: "2026-07-13T09:29:44Z"
+downloads: 110
+updated at: "2026-07-27T14:05:57Z"
 related to:
   - "[[GitHub - 1288250125]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Capture typed thoughts, voice memos, pasted meeting notes, photos, or PDFs and turn them into a tagged, linked knowledge graph inside Obsidian. Summarize each capture, automatically connect it to related notes, and generate wiki-style topic pages when enough notes accumulate."
 
     stats: {
-        downloads:  27
-        updated_at: 1783934984000
+        downloads:  110
+        updated_at: 1785161157000
     }
 }
 ```

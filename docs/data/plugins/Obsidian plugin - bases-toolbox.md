@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/bases-toolbox
 alt:
   - https://github.com/grub-basket/Bases-Toolbox
-downloads: 1144
-updated at: "2026-07-23T16:00:23Z"
+downloads: 2957
+updated at: "2026-08-01T20:52:32Z"
 related to:
   - "[[GitHub - 1287717753]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Find and replace property values across your vault with per-file previews, a persistent history log, and revert/undo. Bulk-edit base results (set, backfill, append/remove, delete), compute rollups into real properties, and guard number inputs from arrow/wheel changes."
 
     stats: {
-        downloads:  1144
-        updated_at: 1784822423000
+        downloads:  2957
+        updated_at: 1785617552000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/agentmd
 alt:
   - https://github.com/z-fab/agentmd-obsidian
-downloads: 97
+downloads: 110
 updated at: "2026-06-06T01:51:01Z"
 related to:
   - "[[GitHub - 1209001483]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run, monitor, and manage AI agents from Obsidian using markdown-based agent files and a local agentmd backend. Browse agents in a single sidebar with Agents, Live, and History tabs; start runs with one click, stream live executions and tool calls, and review full execution history (desktop only)."
 
     stats: {
-        downloads:  97
+        downloads:  110
         updated_at: 1780710661000
     }
 }

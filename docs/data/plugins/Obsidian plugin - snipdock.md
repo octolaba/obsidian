@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/snipdock
 alt:
   - https://github.com/joeraad/obsidian-snipdock
-downloads: 534
+downloads: 651
 updated at: "2026-05-27T05:49:54Z"
 related to:
   - "[[GitHub - 1238109965]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage CSS snippets from a status-bar dock: toggle, rename, open in your editor, reload the snippets folder, and create new snippets without leaving your note. Use a master switch to flip sets on/off, open the snippets folder, and create files from a template that can be auto-enabled."
 
     stats: {
-        downloads:  534
+        downloads:  651
         updated_at: 1779860994000
     }
 }

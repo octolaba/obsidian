@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/knox-sync
 alt:
   - https://github.com/trinitytime/knox-sync-plugin
-downloads: 125
+downloads: 138
 updated at: "2026-05-18T12:23:51Z"
 related to:
   - "[[GitHub - 1125090714]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Obsidian vaults with the Knox portal to back up files, share notes via Knox projects, and keep devices synchronized. Schedule regular or idle-period syncs, refresh Knox documents monthly to prevent deletion, and use last-write-wins conflict resolution."
 
     stats: {
-        downloads:  125
+        downloads:  138
         updated_at: 1779107031000
     }
 }

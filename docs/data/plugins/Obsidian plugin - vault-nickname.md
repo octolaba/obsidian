@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-nickname
 alt:
   - https://github.com/rscopic/obsidian-vault-nickname
-downloads: 2544
+downloads: 2787
 updated at: "2026-05-21T05:13:34Z"
 related to:
   - "[[GitHub - 896309836]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set a custom display name for a vault without renaming its folder. Choose whether the app title shows the vault name before the document or the document before the vault. Add a quick change-nickname option to the vault switcher to disambiguate vaults with identical folder names."
 
     stats: {
-        downloads:  2544
+        downloads:  2787
         updated_at: 1779340414000
     }
 }

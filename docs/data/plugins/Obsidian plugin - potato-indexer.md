@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/potato-indexer
 alt:
   - https://github.com/loyalpotato/potato-indexer
-downloads: 3926
+downloads: 3965
 updated at: "2025-09-26T18:47:33Z"
 related to:
   - "[[GitHub - 680431460]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate a table of contents for the whole note or for a selected section. Rebuild an existing TOC by selecting it first and running the command."
 
     stats: {
-        downloads:  3926
+        downloads:  3965
         updated_at: 1758912453000
     }
 }

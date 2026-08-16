@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/magic-move
 alt:
   - https://github.com/imfenghuang/obsidian-magic-move
-downloads: 1697
+downloads: 1717
 updated at: "2024-07-16T15:19:16Z"
 related to:
   - "[[GitHub - 827959338]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Animate transitions between multiple code blocks to illustrate changes, refactors, or alternate implementations. Use syntax-highlighted magic-move fenced code blocks in reading and edit modes and customize duration, stagger, line-number animations, and theme for timed, staged effects."
 
     stats: {
-        downloads:  1697
+        downloads:  1717
         updated_at: 1721143156000
     }
 }

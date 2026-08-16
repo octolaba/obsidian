@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zone-scroll-zoom
 alt:
   - https://github.com/kqint/obsidian-zone-scroll-zoom
-downloads: 401
+downloads: 528
 updated at: "2026-06-10T17:59:09Z"
 related to:
   - "[[GitHub - 1149863376]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scale Obsidian by mouse zone using keyboard shortcuts: zoom editor font when the cursor is in the editor area and zoom the entire interface when the cursor is outside. Display a live on-screen indicator of the current scale and reset font/interface zoom back to defaults from settings."
 
     stats: {
-        downloads:  401
+        downloads:  528
         updated_at: 1781114349000
     }
 }

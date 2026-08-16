@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/book-search-covers
 alt:
   - https://github.com/lksrpp/obsidian-book-search-covers
-downloads: 548
-updated at: "2026-07-17T21:38:33Z"
+downloads: 1033
+updated at: "2026-08-10T15:24:58Z"
 related to:
   - "[[GitHub - 1264996198]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Search your books as you type, pick the exact edition, and create a note from your template populated with title, author, year, description and more, with a high-resolution cover. Download covers into your vault or link them, backfill existing notes, and use on desktop or mobile."
 
     stats: {
-        downloads:  548
-        updated_at: 1784324313000
+        downloads:  1033
+        updated_at: 1786375498000
     }
 }
 ```

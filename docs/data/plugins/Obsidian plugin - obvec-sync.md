@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obvec-sync
 alt:
   - https://github.com/snoopyrain/obvec-sync
-downloads: 246
+downloads: 284
 updated at: "2026-05-18T03:05:57Z"
 related to:
   - "[[GitHub - 1194542100]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search your Obsidian vault with Claude, ChatGPT, or Cursor using natural-language queries to find notes, meeting notes, and related ideas by meaning instead of keywords. Leverage semantic search in 100+ languages with incremental background sync and per-user data isolation for privacy."
 
     stats: {
-        downloads:  246
+        downloads:  284
         updated_at: 1779073557000
     }
 }

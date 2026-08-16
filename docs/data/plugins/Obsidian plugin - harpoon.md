@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/harpoon
 alt:
   - https://github.com/rodrez/obsidian-harpoon
-downloads: 4028
+downloads: 4036
 updated at: "2025-02-21T01:47:34Z"
 related to:
   - "[[GitHub - 668466061]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage and quickly jump to up to four favorite files using a simple hooked list. Open a modal to view, add, remove, reorder, or restore entries and jump directly with numbered Go To commands."
 
     stats: {
-        downloads:  4028
+        downloads:  4036
         updated_at: 1740102454000
     }
 }

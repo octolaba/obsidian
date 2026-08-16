@@ -4,7 +4,7 @@ xid:
   - supernote
 aliases:
   - supernote
-  - Unofficial Supernote by Ratta Integration
+  - "Supernote (Unofficial)"
   - philips/supernote-obsidian-plugin
 tags:
   - type/bookmark
@@ -13,21 +13,21 @@ tags:
 url: https://community.obsidian.md/plugins/supernote
 alt:
   - https://github.com/philips/supernote-obsidian-plugin
-downloads: 16716
+downloads: 16899
 updated at: "2025-11-21T19:04:57Z"
 related to:
   - "[[GitHub - 764285778]]"
 remind me:
 ---
 
-# Unofficial Supernote by Ratta Integration
+# Supernote (Unofficial)
 
 Supernote note files are viewed directly in the vault and linked to from Markdown notes. A note file is exported as PNG images or as Markdown attached to the vault, screen-mirrored images from the device are inserted into notes, and files are downloaded or uploaded through Supernote Browse and Access. The recorded name marks this as an unofficial integration with the Ratta device.
 
 ```cue
 plugin: {
     id:     "supernote"
-    name:   "Unofficial Supernote by Ratta Integration"
+    name:   "Supernote (Unofficial)"
     author: "philips"
     repo:   "philips/supernote-obsidian-plugin"
 
@@ -37,7 +37,7 @@ plugin: {
     about:       "View Supernote .note files directly in your vault and link to them from Markdown notes. Export .note files as PNGs or Markdown and attach them to your vault, insert screen-mirrored Supernote images into notes, and download or upload files via Supernote Browse & Access."
 
     stats: {
-        downloads:  16716
+        downloads:  16899
         updated_at: 1763751897000
     }
 }

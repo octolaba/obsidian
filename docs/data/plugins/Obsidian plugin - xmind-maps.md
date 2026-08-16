@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/xmind-maps
 alt:
   - https://github.com/yuanzhixiang/obsidian-xmind
-downloads: 398
+downloads: 538
 updated at: "2026-06-12T07:59:14Z"
 related to:
   - "[[GitHub - 1264757620]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open .xmind files locally in your vault and render maps in a read-only embedded XMind viewer. Zoom, fit-to-canvas, and navigate maps with built-in viewer controls without leaving Obsidian."
 
     stats: {
-        downloads:  398
+        downloads:  538
         updated_at: 1781251154000
     }
 }

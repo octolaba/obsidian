@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markdown-blogger
 alt:
   - https://github.com/afazio1/obsidian-markdown-blogger
-downloads: 4621
+downloads: 4629
 updated at: "2023-11-05T00:31:03Z"
 related to:
   - "[[GitHub - 646938193]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Push markdown notes from Obsidian to a local project folder or custom path, creating or overwriting files for Astro, Next.js, or any static site. Pull project markdown into notes to sync changes back and forth with simple push/pull commands."
 
     stats: {
-        downloads:  4621
+        downloads:  4629
         updated_at: 1699144263000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/journal-review
 alt:
   - https://github.com/kageetai/obsidian-plugin-journal-review
-downloads: 20374
-updated at: "2026-07-08T13:22:15Z"
+downloads: 21297
+updated at: "2026-08-06T08:01:45Z"
 related to:
   - "[[GitHub - 598553259]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Review past daily notes on their anniversaries by pulling excerpts from the same date across previous months and years into an \"On this day\" view. Open the view from the ribbon or command palette to browse time spans, preview note excerpts with titles or callout styling, and auto-refresh as notes change."
 
     stats: {
-        downloads:  20374
-        updated_at: 1783516935000
+        downloads:  21297
+        updated_at: 1786003305000
     }
 }
 ```

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/tick-track
 alt:
   - https://github.com/fengshuzi/tick-track
-downloads: 104
-updated at: "2026-07-06T04:41:56Z"
+downloads: 145
+updated at: "2026-08-04T03:47:17Z"
 related to:
   - "[[GitHub - 1137183843]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Track time for list items and native Markdown checkboxes with automatic start, stop and duration recording. Display inline start times, append smart durations (sec/min/hr), enable state cycling (TODO→DOING→DONE), and click DOING checkboxes in live preview to finish tasks and record elapsed time."
 
     stats: {
-        downloads:  104
-        updated_at: 1783312916000
+        downloads:  145
+        updated_at: 1785815237000
     }
 }
 ```

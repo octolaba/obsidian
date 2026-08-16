@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-outliner
 alt:
   - https://github.com/vslinko/obsidian-outliner
-downloads: 1295607
+downloads: 1345771
 updated at: "2026-06-27T18:50:19Z"
 related to:
   - "[[GitHub - 350369033]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Work with bullet lists like Workflowy or RoamResearch to build and edit deeply nested outlines. Move items and entire subtrees, indent or outdent blocks, toggle vertical indentation guides, and keep the cursor on content for natural list editing."
 
     stats: {
-        downloads:  1295607
+        downloads:  1345771
         updated_at: 1782586219000
     }
 }

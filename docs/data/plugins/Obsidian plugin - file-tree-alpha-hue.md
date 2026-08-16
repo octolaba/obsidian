@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-tree-alpha-hue
 alt:
   - https://github.com/markcrobbins2112/op-file-tree-alpha-hue
-downloads: 30
+downloads: 46
 updated at: "2026-07-03T04:02:23Z"
 related to:
   - "[[GitHub - 1280870067]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Color file explorer items by their first alphabetical character using data-alpha-char attributes. Assign hues across a 360° HSL spectrum and update styles efficiently so folders and Markdown files display muted resting colors without forcing DOM layout reflows."
 
     stats: {
-        downloads:  30
+        downloads:  46
         updated_at: 1783051343000
     }
 }

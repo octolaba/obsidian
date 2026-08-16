@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/smart-table
 alt:
   - https://github.com/maniarasan-zuper/smart-table
-downloads: 1066
-updated at: "2026-07-22T13:26:37Z"
+downloads: 1644
+updated at: "2026-08-03T13:38:58Z"
 related to:
   - "[[GitHub - 1260697291]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create interactive tables with typed columns, per-column sorting and filtering, inline header renaming, and colored status pills. Store tables as fenced smart-table JSON blocks that render as editable grids in Reading and Live Preview so edits remain in the note and sync."
 
     stats: {
-        downloads:  1066
-        updated_at: 1784726797000
+        downloads:  1644
+        updated_at: 1785764338000
     }
 }
 ```

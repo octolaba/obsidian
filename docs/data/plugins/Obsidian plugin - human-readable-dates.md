@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/human-readable-dates
 alt:
   - https://github.com/tbergeron/obsidian-human-readable-dates
-downloads: 206
+downloads: 221
 updated at: "2026-06-15T17:26:52Z"
 related to:
   - "[[GitHub - 1046877323]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform dates in Live Preview into human-readable relative phrases like \"Yesterday\", \"2 hours ago\", or \"In 3 days\" while preserving the original date strings in your notes. Reveal and edit the original date by moving the cursor over any transformed date; the human-readable display returns when you move the cursor away."
 
     stats: {
-        downloads:  206
+        downloads:  221
         updated_at: 1781544412000
     }
 }

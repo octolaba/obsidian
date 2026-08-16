@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/federated-emoji
 alt:
   - https://github.com/ringeringeraja33/FederatedEmoji
-downloads: 28
+downloads: 39
 updated at: "2026-07-18T11:33:52Z"
 related to:
   - "[[GitHub - 1304645370]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render and insert Mastodon-style custom emoji while keeping Markdown source unchanged as :shortcode:. Search emoji by typing : and insert results via keyboard or mouse, or open a searchable picker from the ribbon or command palette. Browse and import emoji from multiple instances and set priority for duplicates."
 
     stats: {
-        downloads:  28
+        downloads:  39
         updated_at: 1784374432000
     }
 }

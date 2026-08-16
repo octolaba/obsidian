@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notes-merger
 alt:
   - https://github.com/niffka/notes-merger
-downloads: 5185
+downloads: 5266
 updated at: "2023-12-31T14:23:53Z"
 related to:
   - "[[GitHub - 715790233]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate a content tree by traversing links and preview the nested hierarchy interactively. Merge multiple Markdown files into a single unified Markdown file following the generated structure. Create slideshow templates compatible with Advanced Slides and translate Markdown into XeLaTeX (.tex), copying images into a chosen folder."
 
     stats: {
-        downloads:  5185
+        downloads:  5266
         updated_at: 1704032633000
     }
 }

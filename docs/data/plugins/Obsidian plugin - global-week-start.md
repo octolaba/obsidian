@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/global-week-start
 alt:
   - https://github.com/wuhup/global-week-start
-downloads: 93
+downloads: 109
 updated at: "2025-11-16T13:56:59Z"
 related to:
   - "[[GitHub - 1097568654]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set a global first day of the week for Moment.js across your vault to keep weekly behavior consistent for Periodic Notes, Calendar, and other Moment-based plugins. Enforce the week start in-memory without modifying any notes so plugins always compute weeks the same way."
 
     stats: {
-        downloads:  93
+        downloads:  109
         updated_at: 1763301419000
     }
 }

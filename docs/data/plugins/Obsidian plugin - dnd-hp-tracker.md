@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dnd-hp-tracker
 alt:
   - https://github.com/butterski/obsidian-dnd-hp-tracker
-downloads: 605
+downloads: 737
 updated at: "2026-07-10T21:23:44Z"
 related to:
   - "[[GitHub - 1097563842]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track D&D character hit points in Obsidian with a color-coded HP bar showing healthy, wounded, and critical states. Apply temporary HP, use resistance or vulnerability in damage math, take damage, heal, add temp HP, and restore full HP with a long rest on desktop and mobile."
 
     stats: {
-        downloads:  605
+        downloads:  737
         updated_at: 1783718624000
     }
 }

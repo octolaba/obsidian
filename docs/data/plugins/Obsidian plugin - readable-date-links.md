@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/readable-date-links
 alt:
   - https://github.com/laughedelic/obsidian-readable-date-links
-downloads: 39
+downloads: 54
 updated at: "2026-07-18T17:32:20Z"
 related to:
   - "[[GitHub - 1297891709]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render bare [[2026-06-07]] links as human-readable dates (e.g., Sunday, Jun 7, 2026) in live preview and reading view while keeping filenames unchanged. Purely cosmetic: preserve file contents, frontmatter, and aliases. Configurable and non-intrusive."
 
     stats: {
-        downloads:  39
+        downloads:  54
         updated_at: 1784395940000
     }
 }

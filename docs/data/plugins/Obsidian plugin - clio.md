@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/clio
 alt:
   - https://github.com/ekrizdis367/obsidian-clio
-downloads: 154
+downloads: 239
 updated at: "2026-05-20T01:10:51Z"
 related to:
   - "[[GitHub - 1227575779]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform your daily note into a compact ritual. Display a vault-sourced quote, word‑of‑the‑day with definitions and examples, on‑this‑day/Wikipedia featured article, reflection prompt, one‑line journal, intentions with streak tracking, and a sky card showing moon phase and sunrise/sunset."
 
     stats: {
-        downloads:  154
+        downloads:  239
         updated_at: 1779239451000
     }
 }

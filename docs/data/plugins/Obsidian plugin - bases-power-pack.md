@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/bases-power-pack
 alt:
   - https://github.com/israerusan/bases-power-pack
-downloads: 212
-updated at: "2026-07-22T13:27:39Z"
+downloads: 347
+updated at: "2026-07-25T17:29:49Z"
 related to:
   - "[[GitHub - 1282243474]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add advanced database views and automation to Obsidian Bases, including Kanban boards, calendar and Gantt timelines, roll-ups, formulas, and saved filters. Use the free Kanban view or unlock calendar, Gantt, roll-ups, and saved filters with a one-time premium license."
 
     stats: {
-        downloads:  212
-        updated_at: 1784726859000
+        downloads:  347
+        updated_at: 1785000589000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/entity-notes
 alt:
   - https://github.com/bartvw/entity-notes
-downloads: 1120
+downloads: 1195
 updated at: "2026-04-13T19:26:51Z"
 related to:
   - "[[GitHub - 1188596497]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Watch your editor for trigger tags like #person or #project and display inline buttons next to matches. Create a dedicated Markdown note with pre-filled YAML frontmatter, replace the line with a wikilink or convert an unresolved wikilink, and render a colored pill badge beside the link. Support multiple entity buttons on a line so each wikilink+tag pair converts independently."
 
     stats: {
-        downloads:  1120
+        downloads:  1195
         updated_at: 1776108411000
     }
 }

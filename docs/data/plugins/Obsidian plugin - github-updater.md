@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/github-updater
 alt:
   - https://github.com/real-fruit-snacks/obsidian-github-updater
-downloads: 119
+downloads: 165
 updated at: "2026-07-19T14:07:14Z"
 related to:
   - "[[GitHub - 1273923020]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Install, track, and update Obsidian plugins directly from GitHub repositories. Scan the vault for unofficial plugins, fetch release assets or raw tagged files when needed, display release notes, and apply updates individually or in bulk."
 
     stats: {
-        downloads:  119
+        downloads:  165
         updated_at: 1784470034000
     }
 }

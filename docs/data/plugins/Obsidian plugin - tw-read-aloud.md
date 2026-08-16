@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/tw-read-aloud
 alt:
   - https://github.com/hansai-art/obsidian-tw-tts
-downloads: 38
-updated at: "2026-07-19T13:21:24Z"
+downloads: 96
+updated at: "2026-07-25T16:08:08Z"
 related to:
   - "[[GitHub - 1304700199]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Read Obsidian notes aloud in Traditional Chinese using built-in system/browser voices, offline and without external servers. Highlight each sentence in a dedicated reading pane with auto-scroll, control playback (play/pause/skip), queue whole folders for continuous reading, and apply a custom pronunciation dictionary for names and ambiguous characters."
 
     stats: {
-        downloads:  38
-        updated_at: 1784467284000
+        downloads:  96
+        updated_at: 1784995688000
     }
 }
 ```

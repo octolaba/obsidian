@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mistudio-sync
 alt:
   - https://github.com/mistudiostudy-sys/mistudio-obsidian-sync
-downloads: 57
+downloads: 63
 updated at: "2026-06-18T21:55:54Z"
 related to:
   - "[[GitHub - 1273743061]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sincroniza carpetas y apuntes de MiStudio con tu vault de Obsidian: descarga notas como .md y, opcionalmente, sube las ediciones para sincronización bidireccional. Genera Tareas.md, Calendario.md y una nota diaria desde tu Workspace y añade frontmatter (mistudio_id, mistudio_folder_id, created, synced) para reconocer y evitar duplicados."
 
     stats: {
-        downloads:  57
+        downloads:  63
         updated_at: 1781819754000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cjk-bold-fix
 alt:
   - https://github.com/ebibibi/obsidian-cjk-bold-fix
-downloads: 1121
+downloads: 1256
 updated at: "2026-02-22T08:35:24Z"
 related to:
   - "[[GitHub - 1163785710]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fix bold and italic rendering for Chinese, Japanese and Korean text in Obsidian's Live Preview, restoring emphasis where CJK punctuation breaks CommonMark parsing. Apply correct bold/italic styling and hide emphasis markers in the editor without changing files, processing only visible ranges for performance."
 
     stats: {
-        downloads:  1121
+        downloads:  1256
         updated_at: 1771749324000
     }
 }

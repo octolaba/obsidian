@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mrj-jump-to-link
 alt:
   - https://github.com/mrjackphil/obsidian-jump-to-link
-downloads: 34757
+downloads: 35148
 updated at: "2026-05-12T13:56:51Z"
 related to:
   - "[[GitHub - 308061303]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Jump instantly to links or any word on the page using hotkeys and on-screen hint labels. Use regex-based Jump to Anywhere for fast editor navigation (works in Vim mode) and Lightspeed mode for character-based jumps and quick selection."
 
     stats: {
-        downloads:  34757
+        downloads:  35148
         updated_at: 1778594211000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/map-note
 alt:
   - https://github.com/isaiahsarju/map-note
-downloads: 274
+downloads: 296
 updated at: "2026-06-04T19:36:08Z"
 related to:
   - "[[GitHub - 1153858567]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create map-ready notes populated from OpenStreetMap for Obsidian's Bases Map view. Fill templates with coordinates, address, lucide icons, color and OSM metadata (lat/lon, name, osm_id) so notes render as map points."
 
     stats: {
-        downloads:  274
+        downloads:  296
         updated_at: 1780601768000
     }
 }

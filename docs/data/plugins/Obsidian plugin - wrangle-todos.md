@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wrangle-todos
 alt:
   - https://github.com/jeel-shah/todo-wrangler
-downloads: 3797
+downloads: 3812
 updated at: "2024-02-13T01:29:43Z"
 related to:
   - "[[GitHub - 704959624]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Consolidate all lines beginning with \"TODO\" (including \"- TODO\" and \"- [] TODO\") from the current note into a unified \"TODOs\" section appended to the end of the file. Run the extraction with a single click from the ribbon or via the command palette."
 
     stats: {
-        downloads:  3797
+        downloads:  3812
         updated_at: 1707787783000
     }
 }

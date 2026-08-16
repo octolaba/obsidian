@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/local-office-preview
 alt:
   - https://github.com/tndgyq/local-office-preview
-downloads: 266
+downloads: 668
 updated at: "2026-07-13T05:35:25Z"
 related to:
   - "[[GitHub - 1272144301]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview PPT/PPTX, XLS/XLSX, DOC/DOCX, TXT and LOG files locally and read-only in Obsidian without creating duplicate preview files in your vault. Open modern Office files in fast HTML/table previews, generate temporary PDF previews for legacy formats, copy extractable text, and keep conversions cached in the system temp directory with no network uploads."
 
     stats: {
-        downloads:  266
+        downloads:  668
         updated_at: 1783920925000
     }
 }

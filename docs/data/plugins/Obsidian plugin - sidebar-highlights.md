@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sidebar-highlights
 alt:
   - https://github.com/trevware/obsidian-sidebar-highlights
-downloads: 29221
+downloads: 30046
 updated at: "2026-04-07T15:25:50Z"
 related to:
   - "[[GitHub - 996351095]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage highlights, comments and tasks in a clean sidebar across your vault with color-coded highlights, mixed comment types, and collections. Search and filter with logical operators and tag autocomplete, view detected tasks with natural-language dates and contextual grouping, see real-time edits and jump to source in one click."
 
     stats: {
-        downloads:  29221
+        downloads:  30046
         updated_at: 1775575550000
     }
 }

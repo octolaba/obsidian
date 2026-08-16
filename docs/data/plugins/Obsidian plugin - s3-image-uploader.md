@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/s3-image-uploader
 alt:
   - https://github.com/jvsteiner/s3-image-uploader
-downloads: 8188
+downloads: 8277
 updated at: "2026-02-04T11:05:01Z"
 related to:
   - "[[GitHub - 584113736]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload images from the clipboard or local files to your own S3 bucket and automatically insert Markdown links into your notes. Host images on personal S3 storage instead of third-party services and serve them directly from your bucket."
 
     stats: {
-        downloads:  8188
+        downloads:  8277
         updated_at: 1770203101000
     }
 }

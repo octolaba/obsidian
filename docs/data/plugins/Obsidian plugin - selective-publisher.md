@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/selective-publisher
 alt:
   - https://github.com/ivan1248/obsidian-selective-publisher
-downloads: 89
+downloads: 95
 updated at: "2026-05-12T17:59:39Z"
 related to:
   - "[[GitHub - 1130726492]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publishes notes and attachments to a Git repository using filters by tag, frontmatter, folder, title, path, or content combined with logical operators. Optionally, review changed files before pushing to the target repository."
 
     stats: {
-        downloads:  89
+        downloads:  95
         updated_at: 1778608779000
     }
 }

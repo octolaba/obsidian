@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/dot-navigator
 alt:
   - https://github.com/jeansordes/dot-navigator
-downloads: 624
-updated at: "2026-07-22T22:04:24Z"
+downloads: 664
+updated at: "2026-08-10T13:30:38Z"
 related to:
   - "[[GitHub - 946910103]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Organize notes in a Dendron-like hierarchical tree for easier navigation and management. Load large vaults instantly with IndexedDB caching and mobile-first performance; scaffold hierarchies with rule-based dotted-child suggestions and create notes from suggestions with a double-click."
 
     stats: {
-        downloads:  624
-        updated_at: 1784757864000
+        downloads:  664
+        updated_at: 1786368638000
     }
 }
 ```

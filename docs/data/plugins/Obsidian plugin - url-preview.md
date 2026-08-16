@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/url-preview
 alt:
   - https://github.com/ovitrif/obsidian-url-preview
-downloads: 680
-updated at: "2026-05-05T11:20:53Z"
+downloads: 801
+updated at: "2026-08-08T17:08:52Z"
 related to:
   - "[[GitHub - 1132424344]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Preview external URLs on hover inside Obsidian without leaving your notes. Hold a modifier key and hover a link to open a resizable preview window in Editor, Live Preview, and Reader; drag edges to resize and press ESC or click outside to close."
 
     stats: {
-        downloads:  680
-        updated_at: 1777980053000
+        downloads:  801
+        updated_at: 1786208932000
     }
 }
 ```

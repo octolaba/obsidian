@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/heatmap-calendar
 alt:
   - https://github.com/richardsl/heatmap-calendar-obsidian
-downloads: 168946
+downloads: 171771
 updated at: "2024-06-28T07:41:47Z"
 related to:
   - "[[GitHub - 461638752]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize your note-based data as a GitHub-style heatmap calendar to track habits, projects, finances, social time, and more. Render customizable heatmaps from DataviewJS or plain JavaScript, displaying intensity-scaled daily entries with color themes and current-day highlighting."
 
     stats: {
-        downloads:  168946
+        downloads:  171771
         updated_at: 1719560507000
     }
 }

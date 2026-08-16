@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chat-cbt
 alt:
   - https://github.com/clairefro/obsidian-chat-cbt-plugin
-downloads: 6140
+downloads: 6166
 updated at: "2025-06-15T17:08:25Z"
 related to:
   - "[[GitHub - 705410159]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Journal with an AI CBT assistant that prompts you to reframe negative thoughts, uncover thinking patterns, and view situations from other angles. Keep conversations in local Markdown files, choose cloud or local AI models, and summarize reframed thoughts into tables for affirmations and review."
 
     stats: {
-        downloads:  6140
+        downloads:  6166
         updated_at: 1750007305000
     }
 }

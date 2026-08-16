@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/homework-manager
 alt:
   - https://github.com/kadisonm/obsidian-homework-plugin
-downloads: 7516
+downloads: 7670
 updated at: "2025-02-13T16:19:28Z"
 related to:
   - "[[GitHub - 687894695]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage homework and subjects with dedicated views for work and school. Create tasks linked to notes, set due dates that turn red when overdue, and organize items into subjects via a clean, easy-to-navigate interface."
 
     stats: {
-        downloads:  7516
+        downloads:  7670
         updated_at: 1739463568000
     }
 }

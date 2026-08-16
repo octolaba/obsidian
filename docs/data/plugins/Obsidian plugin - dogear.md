@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/dogear
 alt:
   - https://github.com/masoudmim/obsidian-dogear
-downloads: 86
-updated at: "2026-07-19T13:49:00Z"
+downloads: 173
+updated at: "2026-07-26T22:02:17Z"
 related to:
   - "[[GitHub - 1305686972]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "A reading tracker that keeps your library in plain Markdown. Import from Goodreads, log progress by page, percent, or listening time, and browse your books as a cover grid."
 
     stats: {
-        downloads:  86
-        updated_at: 1784468940000
+        downloads:  173
+        updated_at: 1785103337000
     }
 }
 ```

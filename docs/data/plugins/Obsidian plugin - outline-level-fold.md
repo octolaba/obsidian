@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/outline-level-fold
 alt:
   - https://github.com/josipmarkus/obsidian-outline-level-fold
-downloads: 138
+downloads: 199
 updated at: "2026-06-22T22:33:00Z"
 related to:
   - "[[GitHub - 1276403848]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fold the active note's outline to a chosen depth (levels 1–6) or unfold all, using absolute commands to jump directly between depths. Apply commands to a selection to fold relative to the shallowest selected line or operate on the whole note; supports space- or tab-indented outlines and shows the current level in the status bar."
 
     stats: {
-        downloads:  138
+        downloads:  199
         updated_at: 1782167580000
     }
 }

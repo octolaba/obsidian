@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lemon-vault-dashboard
 alt:
   - https://github.com/lemon695/obsidian-lemon-vault-dashboard
-downloads: 186
+downloads: 265
 updated at: "2026-06-08T14:21:14Z"
 related to:
   - "[[GitHub - 1190412961]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View a panoramic vault dashboard showing storage composition, file distribution, and health with headline KPIs, category breakdown, and treemap/sunburst/donut/bar visualizations. Drill into folders, spot large or orphan attachments, track growth and activity trends, and open or reveal files instantly."
 
     stats: {
-        downloads:  186
+        downloads:  265
         updated_at: 1780928474000
     }
 }

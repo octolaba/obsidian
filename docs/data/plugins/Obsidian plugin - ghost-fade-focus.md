@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ghost-fade-focus
 alt:
   - https://github.com/skipadu/obsidian-ghost-fade-focus
-downloads: 10864
+downloads: 10965
 updated at: "2022-09-24T18:54:30Z"
 related to:
   - "[[GitHub - 380022265]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fade surrounding text to reduce distractions by progressively dimming the 5 lines above and below the cursor. Activate fading on cursor movement and toggle the effect on or off with a command."
 
     stats: {
-        downloads:  10864
+        downloads:  10965
         updated_at: 1664045670000
     }
 }

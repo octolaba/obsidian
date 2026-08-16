@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/password-protection
 alt:
   - https://github.com/qing3962/password-protection
-downloads: 59824
+downloads: 60932
 updated at: "2025-12-29T14:59:53Z"
 related to:
   - "[[GitHub - 653606620]]"
@@ -36,7 +36,7 @@ plugin: {
     description: "Lock and protect your private notes and diary with a password, no encrypt, no decrypt."
 
     stats: {
-        downloads:  59824
+        downloads:  60932
         updated_at: 1767020393000
     }
 }

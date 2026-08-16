@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/x-bookmarks-sync
 alt:
   - https://github.com/hfknight/x-bookmarks-sync
-downloads: 1029
+downloads: 1266
 updated at: "2026-07-22T16:01:19Z"
 related to:
   - "[[GitHub - 1181989433]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync X (Twitter) bookmarks into your Obsidian vault as structured Markdown notes with YAML frontmatter (id, author, url, tags, date) and an obsidian:// deep-link back to the tweet. Use your existing browser session (no API key or OAuth), import selectively or incrementally, skip duplicates, and copy viewed tweets/articles as Markdown from the embedded webview (desktop only)."
 
     stats: {
-        downloads:  1029
+        downloads:  1266
         updated_at: 1784736079000
     }
 }

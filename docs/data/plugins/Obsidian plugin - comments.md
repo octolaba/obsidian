@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/comments
 alt:
   - https://github.com/jaspersurmont/obsidian-comments
-downloads: 2625
+downloads: 2706
 updated at: "2025-06-30T13:36:27Z"
 related to:
   - "[[GitHub - 897201937]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add inline comment callouts using a simple > [!comment] NAME | DATE > CONTENT format and view all comments in a right-hand pane showing author, date, and content. Navigate to comment locations, add subcomments, and remove entries from the pane; keep comments hidden in reading mode and excluded from exports."
 
     stats: {
-        downloads:  2625
+        downloads:  2706
         updated_at: 1751290587000
     }
 }

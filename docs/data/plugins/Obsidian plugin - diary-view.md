@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/diary-view
 alt:
   - https://github.com/likemuuxi/obsidian-diary-view
-downloads: 952
+downloads: 1039
 updated at: "2026-06-29T07:51:38Z"
 related to:
   - "[[GitHub - 1218561755]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn daily notes into a notebook-style diary with a seven-page, page-flip layout for calm reading and writing. Preview or edit the current note in place and save per-note frontmatter like daily-quote, daily-weather, and daily-image for prompts, icons, and illustrations."
 
     stats: {
-        downloads:  952
+        downloads:  1039
         updated_at: 1782719498000
     }
 }

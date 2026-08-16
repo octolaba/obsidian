@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hotlines
 alt:
   - https://github.com/crufi/obsidian-hotlines
-downloads: 128
+downloads: 160
 updated at: "2026-07-03T19:25:10Z"
 related to:
   - "[[GitHub - 1282457754]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight whole lines in your notes that match keywords or regex patterns — with custom background, text color, weight, and CSS. Great for making `TODO`, `PROBLEM`, `IMPORTANT`, or any marker you use jump off the page. Highlighting is automatic based on plain text in your note, no callout or other added markdown syntax required. Works in both Reading Mode and Live Preview, on desktop and mobile."
 
     stats: {
-        downloads:  128
+        downloads:  160
         updated_at: 1783106710000
     }
 }

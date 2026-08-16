@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/template-folder
 alt:
   - https://github.com/lucasoe/obsidian-template-folder
-downloads: 963
+downloads: 1006
 updated at: "2026-07-12T12:09:58Z"
 related to:
   - "[[GitHub - 995728458]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Replace the core Templates Insert Template command and move notes into the folder specified by a template's frontmatter property."
 
     stats: {
-        downloads:  963
+        downloads:  1006
         updated_at: 1783858198000
     }
 }

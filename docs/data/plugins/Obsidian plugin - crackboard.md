@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/crackboard
 alt:
   - https://github.com/bruce-pain/crackboard-obsidian
-downloads: 240
+downloads: 256
 updated at: "2024-09-26T16:40:20Z"
 related to:
   - "[[GitHub - 856312978]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Obsidian session activity with Crackboard.dev to record productivity and join leaderboard-based tracking. View session summaries and comparative stats to monitor progress and compare performance over time."
 
     stats: {
-        downloads:  240
+        downloads:  256
         updated_at: 1727368820000
     }
 }

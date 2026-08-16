@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/markdown-minimap
 alt:
   - https://github.com/nymbo/Markdown-Minimap
-downloads: 365
-updated at: "2026-07-22T17:37:41Z"
+downloads: 650
+updated at: "2026-08-10T20:28:20Z"
 related to:
   - "[[GitHub - 1238023259]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add a live minimap panel to the editor that provides a scaled-down visual overview of the entire note and updates instantly as you edit. Drag the viewport slider to jump or scroll quickly, toggle the minimap per note from the header, and navigate very long Markdown files reliably with smooth, pane-aware behavior and theme support."
 
     stats: {
-        downloads:  365
-        updated_at: 1784741861000
+        downloads:  650
+        updated_at: 1786393700000
     }
 }
 ```

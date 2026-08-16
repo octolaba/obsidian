@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/any-block-min
 alt:
   - https://github.com/any-block/obsidian-any-block-min
-downloads: 4619
+downloads: 4724
 updated at: "2026-07-06T18:39:42Z"
 related to:
   - "[[GitHub - 961839199]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run a lightweight AnyBlock build that removes mermaid, plantuml and markmap dependencies to dramatically shrink package size and speed startup. Preserve core AnyBlock features while cutting memory use and load times. Re-enable removed renderers via compatible third‑party plugins."
 
     stats: {
-        downloads:  4619
+        downloads:  4724
         updated_at: 1783363182000
     }
 }

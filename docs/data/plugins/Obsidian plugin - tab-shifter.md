@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tab-shifter
 alt:
   - https://github.com/jsrozner/obsidian-tab-shifter
-downloads: 3542
+downloads: 3577
 updated at: "2025-03-26T14:56:19Z"
 related to:
   - "[[GitHub - 759166237]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move tabs left or right between tab groups like in code editors, shifting the active file to the previous or next group. Navigate across tab-group boundaries using keyboard shortcuts (e.g., cmd+alt+arrow) to cycle through open tabs across splits."
 
     stats: {
-        downloads:  3542
+        downloads:  3577
         updated_at: 1743000979000
     }
 }

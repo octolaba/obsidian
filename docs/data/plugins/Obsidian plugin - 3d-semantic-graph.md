@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/3d-semantic-graph
 alt:
   - https://github.com/khr0907/obsidian-3d-semantic-graph
-downloads: 409
-updated at: "2026-07-08T06:59:05Z"
+downloads: 554
+updated at: "2026-08-10T08:07:45Z"
 related to:
   - "[[GitHub - 1171423376]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Visualize notes in an interactive 3D space using OpenAI embeddings projected to 3D via UMAP or PCA so semantically related notes cluster together. Fall back to a folder-based clustered sphere layout with translucent ConvexHull cluster regions when no API key is available, show real Obsidian note links, color nodes by folder or first tag, and import/export vector JSON."
 
     stats: {
-        downloads:  409
-        updated_at: 1783493945000
+        downloads:  554
+        updated_at: 1786349265000
     }
 }
 ```

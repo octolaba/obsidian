@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/inkedmark
 alt:
   - https://github.com/pcrausaz/obsidian-inkedmark
-downloads: 240
-updated at: "2026-07-20T13:54:32Z"
+downloads: 513
+updated at: "2026-08-04T21:12:20Z"
 related to:
   - "[[GitHub - 1285503278]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Write by hand inside your markdown notes with pressure-aware ink and save as plain *.ink.md files that sync, diff, and link like any other note. Recognize handwriting into a searchable text layer so Obsidian's search, graph, backlinks, and Quick Switcher index ink content; embed sketches inline or link them as separate notes. Update: 1.1.0 Handwriting recognition on your terms — one-click cloud setup, or a model you host yourself."
 
     stats: {
-        downloads:  240
-        updated_at: 1784555672000
+        downloads:  513
+        updated_at: 1785877940000
     }
 }
 ```

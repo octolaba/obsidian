@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/semantic-auto-linker
 alt:
   - https://github.com/ysf-ad/semantic-auto-linker
-downloads: 886
+downloads: 1154
 updated at: "2026-05-26T20:09:17Z"
 related to:
   - "[[GitHub - 1194232892]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Semantic Auto-Linker helps you find missing wiki-links and understand the hidden structure of your Obsidian vault. Review suggestions before anything is written, run current-note or whole-vault analysis, and preview how accepted links would change your graph. It supports deterministic matching for titles, aliases, and acronyms, plus local semantic retrieval for conceptual links that exact matching can miss. The embedding explorer projects notes and concepts into a semantic space, so related ideas appear closer together even when they are not linked yet. You can exclude noisy targets, ignore generic terms, manually retarget suggestions, and choose inline or footer insertion. Semantic mode is local-first with a built-in model and optional Ollama support."
 
     stats: {
-        downloads:  886
+        downloads:  1154
         updated_at: 1779826157000
     }
 }

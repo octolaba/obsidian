@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/calm-focus-log
 alt:
   - https://github.com/kunal1522/obsidian-focus-tracker
-downloads: 113
+downloads: 125
 updated at: "2026-06-22T20:35:04Z"
 related to:
   - "[[GitHub - 1267729329]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track focus sessions inside Obsidian with a 90-day heatmap and a simple completion slider, no timers or streak pressure. Log and view sessions by date with label, duration and completion percentage; store data as focus-tracker-data.json at your vault root."
 
     stats: {
-        downloads:  113
+        downloads:  125
         updated_at: 1782160504000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-view-mode
 alt:
   - https://github.com/saltyfireball/obsidian-auto-view-mode
-downloads: 295
+downloads: 353
 updated at: "2026-05-18T18:10:40Z"
 related to:
   - "[[GitHub - 1166137961]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open notes automatically in Reading View, Source Mode, or Live Preview by setting a per-note frontmatter key. Configure the frontmatter key name to match your workflow and keep the plugin lightweight with no external dependencies."
 
     stats: {
-        downloads:  295
+        downloads:  353
         updated_at: 1779127840000
     }
 }

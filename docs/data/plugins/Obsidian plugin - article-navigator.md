@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/article-navigator
 alt:
   - https://github.com/ivanhanloth/Obsidian-Article-Navigator
-downloads: 179
+downloads: 211
 updated at: "2026-05-30T15:07:52Z"
 related to:
   - "[[GitHub - 1249508238]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add Previous / Next / See Also navigation to notes using standard frontmatter properties. Render VitePress-style inline nav cards, floating side buttons and a related-note list; keep reciprocal backlinks synchronized, auto-seed new notes with navigation keys, and enable edge/tap navigation."
 
     stats: {
-        downloads:  179
+        downloads:  211
         updated_at: 1780153672000
     }
 }

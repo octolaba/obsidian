@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tag-my-notes-ai
 alt:
   - https://github.com/woukie/tag-my-notes-ai
-downloads: 111
+downloads: 118
 updated at: "2026-03-26T18:54:28Z"
 related to:
   - "[[GitHub - 1169498568]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Tag notes with your AI model of choice and apply selected tags to a folder, the active note, or all notes. See live tagging progress, customize the AI's chain-of-thought and tag list, and view, cancel or delete persisted tagging operations; supports OpenAI, Vercel Gateway, Ollama, OpenRouter and Mistral with custom endpoints."
 
     stats: {
-        downloads:  111
+        downloads:  118
         updated_at: 1774551268000
     }
 }

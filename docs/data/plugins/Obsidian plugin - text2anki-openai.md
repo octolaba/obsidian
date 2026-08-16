@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/text2anki-openai
 alt:
   - https://github.com/manibatra/obsidian-text2anki-openai
-downloads: 4375
+downloads: 4383
 updated at: "2023-03-24T11:57:31Z"
 related to:
   - "[[GitHub - 616892150]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Generate flashcards from bullet points in your Obsidian notes using OpenAI and push them directly to a local Anki deck. Specify custom deck names and prompts and choose the GPT model to control card output."
 
     stats: {
-        downloads:  4375
+        downloads:  4383
         updated_at: 1679659051000
     }
 }

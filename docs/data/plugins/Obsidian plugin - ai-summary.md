@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-summary
 alt:
   - https://github.com/irbull/obsidian-ai-summary
-downloads: 5455
+downloads: 5497
 updated at: "2026-01-10T06:21:58Z"
 related to:
   - "[[GitHub - 627473969]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Summarize all notes linked from the current note using OpenAI GPT-3. Present each linked note’s summary in a dialog for quick review and copying without modifying your files. Use a prompt from the note’s front matter or the default prompt to control the output."
 
     stats: {
-        downloads:  5455
+        downloads:  5497
         updated_at: 1768026118000
     }
 }

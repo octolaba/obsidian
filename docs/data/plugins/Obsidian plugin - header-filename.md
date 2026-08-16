@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/header-filename
 alt:
   - https://github.com/rbrauner/obsidian-header-filename
-downloads: 30
-updated at: "2026-07-18T14:51:28Z"
+downloads: 89
+updated at: "2026-07-26T09:06:19Z"
 related to:
   - "[[GitHub - 1304928813]]"
 remind me:
@@ -36,8 +36,8 @@ plugin: {
     description: "Automatically renames files based on the first H1 heading, with kebab-case and Polish diacritics support. - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  30
-        updated_at: 1784386288000
+        downloads:  89
+        updated_at: 1785056779000
     }
 }
 ```

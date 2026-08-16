@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/add-to-vault
 alt:
   - https://github.com/epicylon/add-to-vault-plugin
-downloads: 115
+downloads: 124
 updated at: "2026-06-23T21:10:48Z"
 related to:
   - "[[GitHub - 1275507296]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Push your vault's filenames to a paired backend LLM to generate intelligent internal links and concise summaries securely. Pull generated markdown notes—articles, comments, and finds—into your vault automatically and remove them from the server to minimize retained data."
 
     stats: {
-        downloads:  115
+        downloads:  124
         updated_at: 1782249048000
     }
 }

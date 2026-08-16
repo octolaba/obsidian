@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/deep-notes
 alt:
   - https://github.com/aadityaincode/Deep-Notes
-downloads: 127
+downloads: 146
 updated at: "2026-06-10T17:47:25Z"
 related to:
   - "[[GitHub - 1158287827]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform notes into an active learning tutor that prompts probing Socratic questions and links concepts across your vault. Generate recursive follow-ups, score answers against ideal responses, build a local semantic index for cross-note context, OCR images/Excalidraw text, and schedule spaced-repetition reviews."
 
     stats: {
-        downloads:  127
+        downloads:  146
         updated_at: 1781113645000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/math-convert
 alt:
   - https://github.com/giacolees/obsidian-math-convert
-downloads: 209
-updated at: "2026-05-28T09:55:21Z"
+downloads: 250
+updated at: "2026-08-03T14:33:36Z"
 related to:
   - "[[GitHub - 1213720444]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Convert photos, screenshots, or clipboard images of equations into clean, publication-ready LaTeX directly inside Obsidian. Run the compact FormulaNet model locally via WebAssembly for instant, offline conversions with no cloud, no subscription, and no data leaving your device."
 
     stats: {
-        downloads:  209
-        updated_at: 1779962121000
+        downloads:  250
+        updated_at: 1785767616000
     }
 }
 ```

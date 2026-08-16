@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mirror-archive
 alt:
   - https://github.com/maplecheng/obsidian-mirror-archive
-downloads: 46
+downloads: 69
 updated at: "2026-07-13T12:23:41Z"
 related to:
   - "[[GitHub - 1295304389]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move files and folders into a configurable archive root while preserving their original vault paths and auto-creating intermediate folders. Archive the active file or selected items (Markdown, PDFs, images, Office docs, and other files) from commands or the file-explorer context menu with configurable conflict handling."
 
     stats: {
-        downloads:  46
+        downloads:  69
         updated_at: 1783945421000
     }
 }

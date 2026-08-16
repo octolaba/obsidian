@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-advanced-uri
 alt:
   - https://github.com/vinzent03/obsidian-advanced-uri
-downloads: 611178
-updated at: "2026-07-16T20:18:45Z"
+downloads: 631251
+updated at: "2026-07-25T22:40:44Z"
 related to:
   - "[[GitHub - 353440451]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Control Obsidian through custom URIs to automate actions and workflows. Open, create, edit, export and navigate files and headings; run commands; read and write frontmatter; perform search-and-replace; and manipulate canvases and bookmarks via simple links."
 
     stats: {
-        downloads:  611178
-        updated_at: 1784233125000
+        downloads:  631251
+        updated_at: 1785019244000
     }
 }
 ```

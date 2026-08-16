@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dataview-autocompletion
 alt:
   - https://github.com/dnlbauer/obsidian-dataview-autocompletion
-downloads: 2657
+downloads: 2702
 updated at: "2025-02-15T10:30:19Z"
 related to:
   - "[[GitHub - 900449918]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add autocomplete suggestions for inline Dataview metadata fields while editing Markdown notes. Reuse existing field values to reduce typing errors and exclude specific fields or files from suggestions."
 
     stats: {
-        downloads:  2657
+        downloads:  2702
         updated_at: 1739615419000
     }
 }

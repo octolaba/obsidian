@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/vaultend
 alt:
   - https://github.com/dhwang0803-glitch/Vaultend
-downloads: 196
-updated at: "2026-07-24T04:48:53Z"
+downloads: 363
+updated at: "2026-08-02T13:58:48Z"
 related to:
   - "[[GitHub - 1290535061]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Organize your vault with AI-driven classification, tagging, link suggestions, and folder placement that respect your existing notes and folders. Show token usage and estimated cost after each AI call, maintain full privacy control, and revert changes safely via an activity log and undo."
 
     stats: {
-        downloads:  196
-        updated_at: 1784868533000
+        downloads:  363
+        updated_at: 1785679128000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graph-mind
 alt:
   - https://github.com/axxshen/obsidian-graph-mind
-downloads: 118
+downloads: 131
 updated at: "2026-01-29T14:25:29Z"
 related to:
   - "[[GitHub - 1108227354]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Index your vault into a local semantic search engine and rank relevant passages with embeddings. Chat with your notes in a sidebar, jump to cited sources, and refine results with filters (tags, path, extensions, exact phrases). Run entirely locally and use a local Ollama server for chat and embeddings."
 
     stats: {
-        downloads:  118
+        downloads:  131
         updated_at: 1769696729000
     }
 }

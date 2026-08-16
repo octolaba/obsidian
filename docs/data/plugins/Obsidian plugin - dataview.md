@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dataview
 alt:
   - https://github.com/blacksmithgu/obsidian-dataview
-downloads: 4625655
+downloads: 4752355
 updated at: "2025-04-07T19:17:30Z"
 related to:
   - "[[GitHub - 329202727]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Query your Obsidian vault as a database using a pipeline-style query language or the JavaScript API. Pull frontmatter and inline fields to generate tables, lists, task views, grouped results, and sorted or filtered data for custom reports."
 
     stats: {
-        downloads:  4625655
+        downloads:  4752355
         updated_at: 1744053450000
     }
 }

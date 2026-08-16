@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/display-relative-path-img
 alt:
   - https://github.com/dyc2424748461/obsidian-display-relative-path-img
-downloads: 2008
+downloads: 2019
 updated at: "2024-02-08T07:18:36Z"
 related to:
   - "[[GitHub - 747143512]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display local images referenced by <img> tags directly in notes without modifying the original files. Render images while scrolling and after edits in ReadView and LiveView to keep files portable."
 
     stats: {
-        downloads:  2008
+        downloads:  2019
         updated_at: 1707376716000
     }
 }

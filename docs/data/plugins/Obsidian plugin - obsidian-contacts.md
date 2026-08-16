@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-contacts
 alt:
   - https://github.com/vbeskrovnov/obsidian-contacts
-downloads: 8472
+downloads: 8526
 updated at: "2023-08-27T20:50:47Z"
 related to:
   - "[[GitHub - 576443381]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize contacts in Obsidian as Markdown notes. Search and sort contacts quickly, browse them in a sidebar view, and track birthdays and last meetings."
 
     stats: {
-        downloads:  8472
+        downloads:  8526
         updated_at: 1693169447000
     }
 }

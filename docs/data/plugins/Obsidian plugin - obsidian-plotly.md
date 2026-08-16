@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-plotly
 alt:
   - https://github.com/dmytro-shulha/obsidian-plotly
-downloads: 10442
+downloads: 10547
 updated at: "2021-11-13T16:44:10Z"
 related to:
   - "[[GitHub - 396015160]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed Plotly charts in Markdown using plotly code blocks with JSON or YAML payloads for data, layout, and config. Render full Plotly JavaScript examples and create dynamic plots from note data via DataviewJS (requires Dataview), using a provided wrapper to draw plots inside blocks."
 
     stats: {
-        downloads:  10442
+        downloads:  10547
         updated_at: 1636821850000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/spotify-api
 alt:
   - https://github.com/darren-project/obsidian-spotify
-downloads: 3322
+downloads: 3354
 updated at: "2024-08-10T02:21:43Z"
 related to:
   - "[[GitHub - 747630005]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Inject the Spotify SDK into Obsidian and write custom code to call the Spotify Web API using the official TypeScript Spotify API. Search songs, albums, and artists; fetch playlists and track details; control playback and access user-specific data like top tracks and recommendations."
 
     stats: {
-        downloads:  3322
+        downloads:  3354
         updated_at: 1723256503000
     }
 }

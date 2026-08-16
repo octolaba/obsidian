@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/table-editor-obsidian
 alt:
   - https://github.com/tgrosinger/advanced-tables-obsidian
-downloads: 3047731
+downloads: 3100419
 updated at: "2026-05-13T18:10:52Z"
 related to:
   - "[[GitHub - 308127502]]"
@@ -28,7 +28,7 @@ Improves navigation, formatting and manipulation of Markdown tables, moving betw
 plugin: {
     id:     "table-editor-obsidian"
     name:   "Advanced Tables"
-    author: "tgrosinger"
+    author: "Tony Grosinger"
     repo:   "tgrosinger/advanced-tables-obsidian"
 
     html_url:    "https://community.obsidian.md/plugins/table-editor-obsidian"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit and navigate Markdown tables like a spreadsheet using Tab/Enter cell and row movement; add, remove, and move columns and rows, and set column alignment. Use spreadsheet formulas, sort rows by any column, and export tables to CSV with mobile support."
 
     stats: {
-        downloads:  3047731
+        downloads:  3100419
         updated_at: 1778695852000
     }
 }

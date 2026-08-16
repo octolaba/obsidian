@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-card-link-enhanced
 alt:
   - https://github.com/krental/obsidian-auto-card-link
-downloads: 855
+downloads: 1259
 updated at: "2026-07-21T08:10:00Z"
 related to:
   - "[[GitHub - 1228943293]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Automatically generate beautiful card-styled links from URLs by fetching their metadata, thumbnails and favicons and converting them into a YAML `cardlink` code block that keeps your Markdown clean. It includes tailored handling for YouTube, Twitch, Reddit, GitHub, Wikipedia, Spotify and more, plus options for thumbnail quality, local image saving and multiple card styles."
 
     stats: {
-        downloads:  855
+        downloads:  1259
         updated_at: 1784621400000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mermaid-next
 alt:
   - https://github.com/dacrystal/obsidian-mermaid-next-plugin
-downloads: 650
+downloads: 803
 updated at: "2026-05-22T21:58:56Z"
 related to:
   - "[[GitHub - 1245617980]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Mermaid diagrams using the latest Mermaid release independent of Obsidian's bundled copy. Use mermaid-next code blocks; load from jsDelivr CDN with a bundled offline fallback, auto-theme diagrams to Obsidian's light/dark color scheme, and support all valid Mermaid syntax."
 
     stats: {
-        downloads:  650
+        downloads:  803
         updated_at: 1779487136000
     }
 }

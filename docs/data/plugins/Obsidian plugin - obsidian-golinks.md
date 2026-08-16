@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-golinks
 alt:
   - https://github.com/xavdid/obsidian-golinks
-downloads: 4530
+downloads: 4558
 updated at: "2025-04-28T04:12:25Z"
 related to:
   - "[[GitHub - 508538472]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render plaintext GoLinks (e.g., go/link or https://go/link) as clickable links across Obsidian in Reading, Source, and Live Preview modes. Ignore links inside code blocks or backticks and skip URLs that are already linkified."
 
     stats: {
-        downloads:  4530
+        downloads:  4558
         updated_at: 1745813545000
     }
 }

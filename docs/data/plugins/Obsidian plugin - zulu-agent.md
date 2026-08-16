@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zulu-agent
 alt:
   - https://github.com/foundlegacy/zulu-agent
-downloads: 199
+downloads: 250
 updated at: "2026-05-13T14:32:09Z"
 related to:
   - "[[GitHub - 1231036993]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with your notes using native agentic AI that can search, read, and modify files and folders from a conversational interface. Create, edit, rename and delete .md, .base and .canvas files and folders; edit CSS snippets through natural language; save prompts and use vault and open-file context. Supports local models (LM Studio & Ollama)."
 
     stats: {
-        downloads:  199
+        downloads:  250
         updated_at: 1778682729000
     }
 }

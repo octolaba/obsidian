@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/github-embeds
 alt:
   - https://github.com/mrgvsv/obsidian-github-embeds
-downloads: 7542
+downloads: 7592
 updated at: "2024-01-20T20:58:37Z"
 related to:
   - "[[GitHub - 675192776]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed GitHub issues, pull requests, and file snippets directly in Obsidian when links appear in reader mode. Display issue/PR previews and inline file snippets with line-range support (e.g. #L12-L19). Require a GitHub personal access token for API and private repo access."
 
     stats: {
-        downloads:  7542
+        downloads:  7592
         updated_at: 1705784317000
     }
 }

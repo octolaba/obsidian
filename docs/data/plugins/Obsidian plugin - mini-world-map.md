@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/mini-world-map
 alt:
   - https://github.com/miro0o/miniWorldMap
-downloads: 307
-updated at: "2026-06-25T08:26:58Z"
+downloads: 445
+updated at: "2026-07-24T12:06:20Z"
 related to:
   - "[[GitHub - 1268640479]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Visualize your vault as a hierarchy-first world map with internal links overlaid to reveal structure and relationships. Browse an Atlas view for folders and notes or open Focus view to spotlight a note with its ancestors, siblings, outgoing links, and backlinks. Adjust depth, node/link limits, spacing, zoom, and switch day, night, or automatic appearance."
 
     stats: {
-        downloads:  307
-        updated_at: 1782376018000
+        downloads:  445
+        updated_at: 1784894780000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mobile-tab-bar
 alt:
   - https://github.com/nnyj/obsidian-mobile-tab-bar
-downloads: 120
+downloads: 176
 updated at: "2026-06-27T09:51:35Z"
 related to:
   - "[[GitHub - 1282072507]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Replace the title bar with a scrollable, browser-style tab row for switching between open notes on mobile. Tap tabs to switch, long-press to close, and auto-scroll the active tab into view. Show an optional save-status dot (green saved, red pending) when autosave-control is installed."
 
     stats: {
-        downloads:  120
+        downloads:  176
         updated_at: 1782553895000
     }
 }

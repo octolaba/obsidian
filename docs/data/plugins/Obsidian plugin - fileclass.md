@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/fileclass
 alt:
   - https://github.com/mdelobelle/fileclass
-downloads: 106
-updated at: "2026-07-23T15:28:48Z"
+downloads: 1356
+updated at: "2026-08-11T09:43:29Z"
 related to:
   - "[[GitHub - 1301395570]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add typed, validated per-note-type property schemas (fileClasses) to notes, stored entirely in frontmatter with no Dataview dependency. Provide guided input for all field types, nested objects, data-quality validation, and generate synchronized Bases (.base) views with in-cell editing plus CLI and plugin API access."
 
     stats: {
-        downloads:  106
-        updated_at: 1784820528000
+        downloads:  1356
+        updated_at: 1786441409000
     }
 }
 ```

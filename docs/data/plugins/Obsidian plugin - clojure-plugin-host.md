@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/clojure-plugin-host
 alt:
   - https://github.com/farcaller/obsidian-clojure-plugin-host
-downloads: 177
+downloads: 186
 updated at: "2024-10-06T20:18:59Z"
 related to:
   - "[[GitHub - 867988662]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Author simple Clojure (SCI) plugins directly inside Obsidian as notes. Tag a note clojure-plugin and include a single Clojure code block with an on-load form to initialize behavior and interact with the Obsidian UI. Require Dataview to run."
 
     stats: {
-        downloads:  177
+        downloads:  186
         updated_at: 1728245939000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-magick
 alt:
   - https://github.com/abdulkader-safi/obsidian-image-magick-plugins
-downloads: 129
+downloads: 203
 updated at: "2026-07-17T06:59:35Z"
 related to:
   - "[[GitHub - 1300533324]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Optimize images inside your vault without leaving Obsidian or uploading files. Resize, crop, rotate, flip, compress and convert between JPEG, PNG, WebP, GIF, TIFF, BMP and AVIF with live preview, output size estimate, smart output naming, presets and bulk processing."
 
     stats: {
-        downloads:  129
+        downloads:  203
         updated_at: 1784271575000
     }
 }

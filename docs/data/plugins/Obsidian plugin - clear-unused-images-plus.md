@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/clear-unused-images-plus
 alt:
   - https://github.com/puhhh/clear-unused-images-obsidian
-downloads: 1160
-updated at: "2026-06-17T07:19:23Z"
+downloads: 1635
+updated at: "2026-07-24T08:50:58Z"
 related to:
   - "[[GitHub - 1223222286]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Remove image files no longer referenced in your Markdown notes by scanning document links and comparing them to vault files. Run cleanups automatically on vault load or at set intervals, and choose where removed images go (Obsidian trash, system trash, or permanent delete)."
 
     stats: {
-        downloads:  1160
-        updated_at: 1781680763000
+        downloads:  1635
+        updated_at: 1784883058000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/focus-zen-mode
 alt:
   - https://github.com/foxmaysay/obsidian-zen-mode
-downloads: 213
+downloads: 266
 updated at: "2026-06-04T07:42:20Z"
 related to:
   - "[[GitHub - 1255601281]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Enter Zen Mode to hide distracting workspace UI and center the active editor line for focused Markdown writing. Dim non-active lines for easier tracking and switch between Light, Dark, and Green themes from a floating bottom menu."
 
     stats: {
-        downloads:  213
+        downloads:  266
         updated_at: 1780558940000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/datacharts
 alt:
   - https://github.com/jcf-402/datacharts
-downloads: 218
+downloads: 261
 updated at: "2026-04-27T22:27:06Z"
 related to:
   - "[[GitHub - 1208958557]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create interactive charts and plot mathematical functions directly in Markdown. Use Chart.js-powered line, bar, scatter, pie and radar charts, parse equations with Mathjs, feed data from Markdown tables or manual datasets, customize styling, zoom, pan, inspect and export as PNG/SVG."
 
     stats: {
-        downloads:  218
+        downloads:  261
         updated_at: 1777328826000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-images-as-links
 alt:
   - https://github.com/jffaust/obsidian-canvas-images-as-links
-downloads: 572
+downloads: 687
 updated at: "2026-03-06T18:41:02Z"
 related to:
   - "[[GitHub - 1167019435]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set links on Canvas images and open them by double-clicking. Use the right-click menu or a command to assign web, file, or Obsidian links and display the configured link beneath the image."
 
     stats: {
-        downloads:  572
+        downloads:  687
         updated_at: 1772822462000
     }
 }

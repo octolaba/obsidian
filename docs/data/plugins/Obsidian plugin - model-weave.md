@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/model-weave
 alt:
   - https://github.com/nejimakibird/model-weave
-downloads: 306
-updated at: "2026-07-13T21:53:24Z"
+downloads: 334
+updated at: "2026-08-03T21:29:35Z"
 related to:
   - "[[GitHub - 1224697940]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Model text-first diagrams using Markdown as the single source of truth. Generate Mermaid overview graphs or custom detailed renderers, view previews and diagnostics, and export PNGs, all derived from and never changing your Markdown."
 
     stats: {
-        downloads:  306
-        updated_at: 1783979604000
+        downloads:  334
+        updated_at: 1785792575000
     }
 }
 ```

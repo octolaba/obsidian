@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/bulk-properties
 alt:
   - https://github.com/gtritchie/bulk-properties
-downloads: 1648
-updated at: "2026-05-30T01:32:16Z"
+downloads: 3004
+updated at: "2026-08-01T16:09:33Z"
 related to:
   - "[[GitHub - 1191165932]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Edit properties or delete multiple notes at once by marking them with a checkbox property to select files. Use a configurable selection checkbox (works with Bases) to track chosen notes across the vault and show selection counts for quick batch management."
 
     stats: {
-        downloads:  1648
-        updated_at: 1780104736000
+        downloads:  3004
+        updated_at: 1785600573000
     }
 }
 ```

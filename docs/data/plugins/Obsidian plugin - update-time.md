@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/update-time
 alt:
   - https://github.com/dsebastien/obsidian-update-time
-downloads: 4715
-updated at: "2026-07-18T06:53:42Z"
+downloads: 5580
+updated at: "2026-07-29T07:48:45Z"
 related to:
   - "[[GitHub - 791644272]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Update note front-matter to reflect the file's creation (ctime) and last modification (mtime) timestamps. Run automatically in the background, preserve existing created values, debounce updated timestamps to avoid edit conflicts, and skip excluded folders, Excalidraw, Canvas, and non‑Markdown files locally."
 
     stats: {
-        downloads:  4715
-        updated_at: 1784357622000
+        downloads:  5580
+        updated_at: 1785311325000
     }
 }
 ```

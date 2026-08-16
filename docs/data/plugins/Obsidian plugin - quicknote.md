@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quicknote
 alt:
   - https://github.com/jamesgreenblue/obsidian-quicknote
-downloads: 4833
+downloads: 4867
 updated at: "2023-08-18T11:03:19Z"
 related to:
   - "[[GitHub - 676160364]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a new quick note in a floating Obsidian window via command or by right-clicking the app icon. Capture notes without opening the main vault; macOS only for now, with Windows and Linux support planned."
 
     stats: {
-        downloads:  4833
+        downloads:  4867
         updated_at: 1692356599000
     }
 }

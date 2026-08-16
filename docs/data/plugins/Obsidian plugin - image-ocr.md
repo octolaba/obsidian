@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-ocr
 alt:
   - https://github.com/kaffarell/obsidian-tesseract-ocr
-downloads: 6659
+downloads: 6695
 updated at: "2023-08-14T16:09:22Z"
 related to:
   - "[[GitHub - 622188691]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run OCR on pasted images and add the extracted text to each image's details box. Make image contents searchable and include recognized text alongside your notes for quick reference."
 
     stats: {
-        downloads:  6659
+        downloads:  6695
         updated_at: 1692029362000
     }
 }

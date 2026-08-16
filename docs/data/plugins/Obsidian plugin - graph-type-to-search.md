@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graph-type-to-search
 alt:
   - https://github.com/junghyunbak/graph-type-to-search
-downloads: 142
+downloads: 194
 updated at: "2026-07-01T23:51:52Z"
 related to:
   - "[[GitHub - 1283818170]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Start typing in the graph to search instantly and ring matching nodes with a visible glow that tracks pan and zoom. Keep the whole graph visible for context or switch to filtering to hide non-matches. Enlarge titles and dim others to spotlight matches; supports IME composition for CJK."
 
     stats: {
-        downloads:  142
+        downloads:  194
         updated_at: 1782949912000
     }
 }

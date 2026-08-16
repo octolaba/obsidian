@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bmo-chatbot
 alt:
   - https://github.com/longy2k/obsidian-bmo-chatbot
-downloads: 49509
+downloads: 50446
 updated at: "2024-07-25T00:07:32Z"
 related to:
   - "[[GitHub - 615910198]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with OpenAI, Anthropic, Google Gemini, Mistral, Ollama, LM Studio and self‑hosted LLMs to brainstorm and draft directly in Obsidian. Create customizable bot profiles and system prompts, generate from the editor, render Obsidian Markdown in chats, and save or load conversations as markdown."
 
     stats: {
-        downloads:  49509
+        downloads:  50446
         updated_at: 1721866052000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notepix
 alt:
   - https://github.com/ayushparkara/NotePix
-downloads: 707
+downloads: 773
 updated at: "2026-07-16T07:04:46Z"
 related to:
   - "[[GitHub - 1013572970]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload images, screenshots, and attachments from your vault to a chosen GitHub repository automatically when pasted or dragged into notes. Replace local links with GitHub-hosted or secure private links via Auto/Public/Private mode, keep your GitHub token encrypted, and optionally remove local files after upload; mobile-compatible."
 
     stats: {
-        downloads:  707
+        downloads:  773
         updated_at: 1784185486000
     }
 }

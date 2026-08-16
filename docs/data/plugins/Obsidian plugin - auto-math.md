@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-math
 alt:
   - https://github.com/loglux/auto-math-for-obsidian
-downloads: 432
+downloads: 486
 updated at: "2026-02-15T22:21:14Z"
 related to:
   - "[[GitHub - 1077557106]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Expand LaTeX snippets as you type to insert ready-to-edit templates for commands like \\frac, \\sqrt, \\sum and multiline environments. Customize expansion rules and apply changes live; enable context-aware integral limits for inline or display math."
 
     stats: {
-        downloads:  432
+        downloads:  486
         updated_at: 1771194074000
     }
 }

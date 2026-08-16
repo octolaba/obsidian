@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bible-verse-tips
 alt:
   - https://github.com/joelwongjy/obsidian-bible-verse-tips
-downloads: 114
+downloads: 148
 updated at: "2026-07-12T08:02:21Z"
 related to:
   - "[[GitHub - 1276191262]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview Bible verses inline and read full chapters without leaving your notes. Hover or tap any reference to view a clean popover, then click to open a distraction-free chapter reader with translation switching and chapter navigation."
 
     stats: {
-        downloads:  114
+        downloads:  148
         updated_at: 1783843341000
     }
 }

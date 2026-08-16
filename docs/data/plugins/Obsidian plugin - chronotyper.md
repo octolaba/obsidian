@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chronotyper
 alt:
   - https://github.com/bambuscontrol/obsidian-chronotyper
-downloads: 801
+downloads: 886
 updated at: "2025-08-20T19:53:18Z"
 related to:
   - "[[GitHub - 909152813]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track total time spent editing notes and write the edit timestamp and total seconds into each note's frontmatter. Run continuously in the background and support excluding folders and customizing frontmatter property names."
 
     stats: {
-        downloads:  801
+        downloads:  886
         updated_at: 1755719598000
     }
 }

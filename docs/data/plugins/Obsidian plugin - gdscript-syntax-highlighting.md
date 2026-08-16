@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gdscript-syntax-highlighting
 alt:
   - https://github.com/robthefivenine/obsidian-gdscript
-downloads: 5570
+downloads: 5725
 updated at: "2026-01-14T22:43:05Z"
 related to:
   - "[[GitHub - 796830132]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight GDScript code blocks using fenced code blocks labeled gdscript. Apply live, accurate syntax coloring for Godot's GDScript to improve readability and editing inside notes."
 
     stats: {
-        downloads:  5570
+        downloads:  5725
         updated_at: 1768430585000
     }
 }

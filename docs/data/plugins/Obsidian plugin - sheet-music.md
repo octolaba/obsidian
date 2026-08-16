@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sheet-music
 alt:
   - https://github.com/corecube/obsidian-sheet-music
-downloads: 365
+downloads: 444
 updated at: "2026-05-29T23:21:46Z"
 related to:
   - "[[GitHub - 1184529442]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render playable music notation directly in notes using ABC, strumming patterns, and chord sheets. Play and transpose ABC with tempo control and custom render options, animate strumming and chord playback, highlight chord/section markers, and toggle note autoscroll."
 
     stats: {
-        downloads:  365
+        downloads:  444
         updated_at: 1780096906000
     }
 }

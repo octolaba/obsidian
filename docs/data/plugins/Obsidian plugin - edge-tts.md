@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/edge-tts
 alt:
   - https://github.com/travisvn/obsidian-edge-tts
-downloads: 30409
+downloads: 31263
 updated at: "2025-09-24T19:15:36Z"
 related to:
   - "[[GitHub - 879101773]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Read selected text or entire notes aloud using Microsoft's Edge TTS with a variety of voices, locales, and adjustable playback speed. Generate and embed MP3s, preview voices, and queue multiple notes for continuous playback with loop and auto-scroll; supports desktop and mobile."
 
     stats: {
-        downloads:  30409
+        downloads:  31263
         updated_at: 1758741336000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/encoding-autofix
 alt:
   - https://github.com/kathar0s/obsidian-encoding-autofix
-downloads: 203
+downloads: 299
 updated at: "2026-06-16T08:32:37Z"
 related to:
   - "[[GitHub - 1270972187]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert non-UTF-8 text files to clean UTF-8 as they are added to the vault, handling UTF-16 and legacy encodings like EUC-KR/CP949. Prevent mojibake, replacement � characters, and sync errors by catching and re-encoding files before Obsidian or sync plugins touch them."
 
     stats: {
-        downloads:  203
+        downloads:  299
         updated_at: 1781598757000
     }
 }

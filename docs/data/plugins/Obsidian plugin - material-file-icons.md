@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/material-file-icons
 alt:
   - https://github.com/liicos/obsidian-material-icon
-downloads: 293
+downloads: 395
 updated at: "2026-06-04T10:22:36Z"
 related to:
   - "[[GitHub - 1259197528]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Replace Obsidian's default explorer icons with Material Icon Theme icons matched by filename and extension, covering canvas notes, templates, dotfiles and more. Add folder icons, create custom rules from a 500+ icon picker, and toggle file or folder icons independently."
 
     stats: {
-        downloads:  293
+        downloads:  395
         updated_at: 1780568556000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/redact
 alt:
   - https://github.com/intelskya/obsidian-redact
-downloads: 80
+downloads: 97
 updated at: "2026-06-23T15:11:52Z"
 related to:
   - "[[GitHub - 1170650259]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Redact selected text with a configurable command that replaces characters while preserving control characters like tabs and newlines. Set a custom redaction character (default █) and choose how to handle spaces and symbols: keep, redact, or delete."
 
     stats: {
-        downloads:  80
+        downloads:  97
         updated_at: 1782227512000
     }
 }

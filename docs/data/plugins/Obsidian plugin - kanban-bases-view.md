@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kanban-bases-view
 alt:
   - https://github.com/xiwcx/obsidian-bases-kanban
-downloads: 25351
+downloads: 27719
 updated at: "2026-06-26T23:19:44Z"
 related to:
   - "[[GitHub - 1093855123]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize notes into a kanban-style board generated from any Base property, with dynamic columns, drag-and-drop cards, and persistent column order. Assign colors, display selected properties or custom card titles, auto-group uncategorized entries, and click cards to open notes."
 
     stats: {
-        downloads:  25351
+        downloads:  27719
         updated_at: 1782515984000
     }
 }

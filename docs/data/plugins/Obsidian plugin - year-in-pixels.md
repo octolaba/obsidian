@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/year-in-pixels
 alt:
   - https://github.com/juanchiparra/obsidian-year-in-pixels
-downloads: 118
+downloads: 138
 updated at: "2026-05-27T18:40:13Z"
 related to:
   - "[[GitHub - 1173903145]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize frontmatter variables from your daily notes as a yearly grid or circular chart. Map values to hex colors, use flexible date formats, and open a main tab or compact sidebar to hover for exact dates and click to open the source note."
 
     stats: {
-        downloads:  118
+        downloads:  138
         updated_at: 1779907213000
     }
 }

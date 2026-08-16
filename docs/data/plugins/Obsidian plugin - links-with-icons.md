@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/links-with-icons
 alt:
   - https://github.com/radegast546/links-with-icons
-downloads: 108
+downloads: 150
 updated at: "2026-06-12T20:19:08Z"
 related to:
   - "[[GitHub - 1261447057]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display native OS app icons next to wiki-links and local file paths, and show website favicons for external links in Live Preview and Reading View. Make icons clickable to open targets, scale with font size and headings, and fall back to Lucide icons when extraction fails."
 
     stats: {
-        downloads:  108
+        downloads:  150
         updated_at: 1781295548000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notes-calendar
 alt:
   - https://github.com/tcatlas/obsidian-notes-calendar
-downloads: 219
+downloads: 261
 updated at: "2026-05-22T23:43:45Z"
 related to:
   - "[[GitHub - 1213868352]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a calendar in the side pane and list notes grouped by file creation time for the selected day or week. Navigate months and years, click days or week numbers to filter notes, and show optional excerpts, creation times, week numbers, day indicators, and configurable sorting. Support iPad trackpad input."
 
     stats: {
-        downloads:  219
+        downloads:  261
         updated_at: 1779493425000
     }
 }

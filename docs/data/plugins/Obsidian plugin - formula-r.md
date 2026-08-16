@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/formula-r
 alt:
   - https://github.com/danieldaidai/FormulaR
-downloads: 92
+downloads: 102
 updated at: "2026-05-08T06:50:44Z"
 related to:
   - "[[GitHub - 1231822085]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Validate and complete LaTeX mathematical derivations inside \\begin{align}...\\end{align} blocks in real time. Highlight incorrect steps with a red wavy underline, mark unverifiable lines with an orange dashed underline and optional AI review, show hover explanations, and offer AI-powered next-step suggestions when you type \\\\."
 
     stats: {
-        downloads:  92
+        downloads:  102
         updated_at: 1778223044000
     }
 }

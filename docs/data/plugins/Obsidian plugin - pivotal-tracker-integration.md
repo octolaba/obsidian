@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pivotal-tracker-integration
 alt:
   - https://github.com/jonnydeates/obsidian-pivotal-tracker-integration-plugin
-downloads: 3407
+downloads: 3415
 updated at: "2023-06-06T21:21:23Z"
 related to:
   - "[[GitHub - 587144078]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Pivotal Tracker stories into your Obsidian vault as Markdown files in a chosen folder. Pull stories on demand from a specified project using your Tracker API key to store titles, descriptions, labels and other story details for offline access."
 
     stats: {
-        downloads:  3407
+        downloads:  3415
         updated_at: 1686086483000
     }
 }

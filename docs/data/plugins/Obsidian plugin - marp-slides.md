@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/marp-slides
 alt:
   - https://github.com/samuele-cozzi/obsidian-marp-slides
-downloads: 52146
+downloads: 53164
 updated at: "2026-04-11T12:11:04Z"
 related to:
   - "[[GitHub - 603767083]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and preview slide decks from Markdown using Marp inside Obsidian. Export decks to HTML, PDF, PPTX, or images via the Marp CLI API, apply custom theme CSS, and present slides directly."
 
     stats: {
-        downloads:  52146
+        downloads:  53164
         updated_at: 1775909464000
     }
 }

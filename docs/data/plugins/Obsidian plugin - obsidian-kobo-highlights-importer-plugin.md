@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-kobo-highlights-importer-plugin
 alt:
   - https://github.com/ogkevin/obsidian-kobo-highlights-import
-downloads: 12421
+downloads: 12570
 updated at: "2026-02-20T09:45:08Z"
 related to:
   - "[[GitHub - 524359553]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import highlights and notes from a Kobo device's KoboReader.sqlite directly into your vault. Customize output with Eta.js templates to include book metadata, chapters, creation dates and personal notes, and generate Markdown-ready files for each book."
 
     stats: {
-        downloads:  12421
+        downloads:  12570
         updated_at: 1771580708000
     }
 }

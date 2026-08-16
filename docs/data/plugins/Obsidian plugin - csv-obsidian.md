@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/csv-obsidian
 alt:
   - https://github.com/deathau/csv-obsidian
-downloads: 27736
+downloads: 28155
 updated at: "2021-02-20T04:11:34Z"
 related to:
   - "[[GitHub - 333669526]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View and edit CSV files in a spreadsheet-like table directly in Obsidian. Auto-save edits, set per-file headers, edit cells with Markdown preview, sort and filter columns, freeze columns, and insert rows or columns."
 
     stats: {
-        downloads:  27736
+        downloads:  28155
         updated_at: 1613794294000
     }
 }

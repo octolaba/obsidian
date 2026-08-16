@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/url-file-preview
 alt:
   - https://github.com/turingexmachina/obsidian-url-file-preview
-downloads: 21
-updated at: "2026-07-14T00:41:38Z"
+downloads: 54
+updated at: "2026-07-26T13:43:11Z"
 related to:
   - "[[GitHub - 1299849451]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Preview Windows .url shortcut files as a compact card inside Obsidian. Edit the URL inline, preserve unknown INI keys and sections, and open or convert links with one click — all changes and actions stay local with no network requests."
 
     stats: {
-        downloads:  21
-        updated_at: 1783989698000
+        downloads:  54
+        updated_at: 1785073391000
     }
 }
 ```

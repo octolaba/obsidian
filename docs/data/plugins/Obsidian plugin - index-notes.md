@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/index-notes
 alt:
   - https://github.com/adanielnoel/obsidian-index-notes
-downloads: 3181
+downloads: 3219
 updated at: "2026-01-21T12:21:15Z"
 related to:
   - "[[GitHub - 799141758]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate index blocks inside notes from tag hierarchies and auto-update them when tags change, producing nested lists of links that are written into files so the graph reflects your structure. Create new notes with the same metadata and location to quickly populate and maintain your indexes."
 
     stats: {
-        downloads:  3181
+        downloads:  3219
         updated_at: 1768998075000
     }
 }

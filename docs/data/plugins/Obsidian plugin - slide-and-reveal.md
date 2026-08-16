@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/slide-and-reveal
 alt:
   - https://github.com/grub-basket/SnR
-downloads: 126
+downloads: 148
 updated at: "2026-07-13T04:04:58Z"
 related to:
   - "[[GitHub - 1235312260]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Study labeled images by drawing covers over diagram labels and scrolling inside the image to progressively reveal grouped labels. Quiz across diagrams by cropping fragments from folders, shuffling them, and prompting identification out of context. Per-folder, no slide/image duplication needed, unlike in PowerPoint."
 
     stats: {
-        downloads:  126
+        downloads:  148
         updated_at: 1783915498000
     }
 }

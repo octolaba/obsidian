@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hatena
 alt:
   - https://github.com/takmatsukawa/obsidian-hatena
-downloads: 1493
+downloads: 1505
 updated at: "2025-06-05T22:35:52Z"
 related to:
   - "[[GitHub - 755903475]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish notes from Obsidian directly to Hatena Blog; provide your blog's API key, root endpoint, and set Hatena to Markdown editing mode. Post notes as live entries or drafts, delete published articles, and insert a Hatena-only table of contents. Add Obsidian-only comments by wrapping text with %% so they won't be published."
 
     stats: {
-        downloads:  1493
+        downloads:  1505
         updated_at: 1749162952000
     }
 }

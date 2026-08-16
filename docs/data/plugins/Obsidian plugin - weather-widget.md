@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/weather-widget
 alt:
   - https://github.com/mr-asa/obsidian_weather
-downloads: 2502
+downloads: 2657
 updated at: "2026-01-22T09:52:45Z"
 related to:
   - "[[GitHub - 1077841590]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display live multi-city weather forecasts inline, in a dedicated sidebar panel, or as Canvas nodes that mirror your vault's visual style. Show automatic time-zone offsets, sunrise/sunset easing and temperature-driven gradients, merge inline city lists with global settings, and use Open-Meteo or OpenWeather with caching to stay within rate limits."
 
     stats: {
-        downloads:  2502
+        downloads:  2657
         updated_at: 1769075565000
     }
 }

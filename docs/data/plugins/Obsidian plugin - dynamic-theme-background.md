@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/dynamic-theme-background
 alt:
   - https://github.com/sean2077/obsidian-dynamic-theme-background
-downloads: 3771
-updated at: "2026-07-21T12:58:18Z"
+downloads: 4300
+updated at: "2026-08-08T03:40:43Z"
 related to:
   - "[[GitHub - 1028892975]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create a dynamic wallpaper library for Obsidian from Unsplash, Pixabay, Pexels, Wallhaven, custom APIs, or local folders. Adjust blur, brightness, saturation and hue; set time-window or interval rotations and switch, save, or fetch backgrounds from the status bar or command palette while async loading and caching preserves editor responsiveness."
 
     stats: {
-        downloads:  3771
-        updated_at: 1784638698000
+        downloads:  4300
+        updated_at: 1786160443000
     }
 }
 ```

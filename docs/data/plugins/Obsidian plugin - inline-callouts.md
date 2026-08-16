@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/inline-callouts
 alt:
   - https://github.com/gapmiss/inline-callouts
-downloads: 6509
-updated at: "2026-06-25T21:38:57Z"
+downloads: 8147
+updated at: "2026-07-26T22:09:49Z"
 related to:
   - "[[GitHub - 960696340]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Display inline callouts with a compact [!!ICON|LABEL|COLOR] syntax to embed icon, label and color directly in Markdown. Access all Lucide icons and use modal tools plus an editor autocomplete to insert, modify, and search callouts. Apply theme-aware styles for consistent rendering in preview."
 
     stats: {
-        downloads:  6509
-        updated_at: 1782423537000
+        downloads:  8147
+        updated_at: 1785103789000
     }
 }
 ```

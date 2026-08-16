@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graph-pro
 alt:
   - https://github.com/air-mark/graph-pro
-downloads: 4352
+downloads: 4727
 updated at: "2025-07-16T19:33:59Z"
 related to:
   - "[[GitHub - 998501765]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extend Obsidian's graph view with advanced layout and position controls like save/restore positions, undo/redo, align, arrange in circle, snap-to-grid and grid display. Use selection tools — area, regex, select related/backlinks — and view selection stats and neighbor labels for clearer graph organization."
 
     stats: {
-        downloads:  4352
+        downloads:  4727
         updated_at: 1752694439000
     }
 }

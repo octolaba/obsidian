@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/spartito
 alt:
   - https://github.com/riccardosilvestri/obsidian-spartito
-downloads: 73
+downloads: 91
 updated at: "2026-06-30T09:49:36Z"
 related to:
   - "[[GitHub - 1284868944]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Write and render music notation on a grand staff (treble & bass) inside Obsidian from fenced code blocks or a dedicated visual editor. Get live preview, chords, rests, automatic bar splitting, beaming, ties and key-signature accidentals; save scores as Markdown and render fully offline with built-in VexFlow."
 
     stats: {
-        downloads:  73
+        downloads:  91
         updated_at: 1782812976000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/ocr-extractor
 alt:
   - https://github.com/jritzi/ocr-extractor
-downloads: 6198
-updated at: "2026-07-05T22:25:15Z"
+downloads: 7140
+updated at: "2026-08-01T15:23:40Z"
 related to:
   - "[[GitHub - 1051393737]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Extract text from PDFs, documents, images, and other embedded attachments. Extracted text is added as an expandable callout after each attachment, so it's fully searchable. Various OCR options are available (local and cloud-based, free and paid)."
 
     stats: {
-        downloads:  6198
-        updated_at: 1783290315000
+        downloads:  7140
+        updated_at: 1785597820000
     }
 }
 ```

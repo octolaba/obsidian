@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/todoapp
 alt:
   - https://github.com/kaiso12/todoapp
-downloads: 138
+downloads: 154
 updated at: "2026-06-02T21:48:34Z"
 related to:
   - "[[GitHub - 1254561367]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed a Todoist-style task app in any note with a single code block and manage projects, due dates, priorities (P1–P4), and views for Today, Tomorrow, Week, and All. Create multiple independent task spaces by id, edit tasks inline, open task notes in a popup, and store all data locally as JSON and Markdown inside your vault."
 
     stats: {
-        downloads:  138
+        downloads:  154
         updated_at: 1780436914000
     }
 }

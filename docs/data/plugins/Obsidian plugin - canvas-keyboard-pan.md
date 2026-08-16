@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-keyboard-pan
 alt:
   - https://github.com/nathonius/obsidian-canvas-pan
-downloads: 2338
+downloads: 2369
 updated at: "2024-05-18T18:54:44Z"
 related to:
   - "[[GitHub - 791997796]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Pan the Obsidian canvas using keyboard keys for quick, hands-on navigation. Configure keybindings (default WASD) and tweak the maximum pan speed to match your workflow."
 
     stats: {
-        downloads:  2338
+        downloads:  2369
         updated_at: 1716058484000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/task-matrix
 alt:
   - https://github.com/jmerryman-eng/Eisenhower-Obsidian-PlugIn
-downloads: 219
+downloads: 243
 updated at: "2026-06-05T22:22:02Z"
 related to:
   - "[[GitHub - 1258541936]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize tasks into an Eisenhower 2×2 Do/Schedule/Delegate grid plus a backlog by scanning your vault for #task markdown checkbox lines. Write quadrant state back to files using #tm/qN tags, drag tasks between quadrants, click checkboxes to cycle status, jump to source lines, and rely on atomic, conflict-checked writes."
 
     stats: {
-        downloads:  219
+        downloads:  243
         updated_at: 1780698122000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/book-index
 alt:
   - https://github.com/usero2/obsidian-plugins-book-index
-downloads: 123
+downloads: 157
 updated at: "2026-06-07T23:55:57Z"
 related to:
   - "[[GitHub - 1261498876]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create an alphabetized, book-style index of terms across your vault. Auto-scan headings, bold/italic text and code or track specific terms manually; link index entries to the exact line, rank matches by relevance, and filter results live. Display links in a compact multi-column grid with smart wrapping."
 
     stats: {
-        downloads:  123
+        downloads:  157
         updated_at: 1780876557000
     }
 }

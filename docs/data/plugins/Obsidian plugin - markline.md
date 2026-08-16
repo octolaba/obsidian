@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markline
 alt:
   - https://github.com/hotoo/obsidian-markline
-downloads: 2828
+downloads: 2846
 updated at: "2024-04-05T15:41:45Z"
 related to:
   - "[[GitHub - 728241626]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display timeline views from Markdown directly in the Obsidian editor using markline code blocks. Parse years, months, days and date ranges, treat headings as groups, and include optional metadata like age and mention links to enrich entries."
 
     stats: {
-        downloads:  2828
+        downloads:  2846
         updated_at: 1712331705000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/food-tracker
 alt:
   - https://github.com/forketyfork/obsidian-food-tracker
-downloads: 2185
+downloads: 2244
 updated at: "2026-05-22T14:24:18Z"
 related to:
   - "[[GitHub - 998339700]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track food intake, calories, and macronutrients with real-time totals and editor highlighting for calorie and nutrient values. Manage a searchable nutrient database or enter inline nutrition, import OpenFoodFacts data by name or barcode, and log workouts or negative calories to adjust totals."
 
     stats: {
-        downloads:  2185
+        downloads:  2244
         updated_at: 1779459858000
     }
 }

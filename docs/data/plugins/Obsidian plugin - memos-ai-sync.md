@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/memos-ai-sync
 alt:
   - https://github.com/leoleelxh/obsidian-memos-ai-sync
-downloads: 800
+downloads: 818
 updated at: "2025-03-31T09:14:38Z"
 related to:
   - "[[GitHub - 898337177]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Memos to Obsidian in manual or automatic modes, organizing notes into year/month folders, saving attachments with correct relative paths, and naming files with content previews and timestamps. Generate AI summaries, smart tags and weekly rollups via OpenAI, Gemini or local Ollama, skip duplicates by memo ID and preserve originals."
 
     stats: {
-        downloads:  800
+        downloads:  818
         updated_at: 1743412478000
     }
 }

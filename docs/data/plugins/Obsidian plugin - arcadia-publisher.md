@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/arcadia-publisher
 alt:
   - https://github.com/arcadia-studio/obsidian-arcadia-publisher
-downloads: 135
+downloads: 151
 updated at: "2026-06-10T19:47:57Z"
 related to:
   - "[[GitHub - 1193974079]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export Obsidian notes to print-ready PDF or self-contained HTML with configurable templates and embedded styles. Customize templates, batch-export notes or folders, and unlock Word, EPUB, LaTeX exports and citation formatting (Chicago, APA, MLA) via Premium."
 
     stats: {
-        downloads:  135
+        downloads:  151
         updated_at: 1781120877000
     }
 }

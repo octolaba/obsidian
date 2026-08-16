@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/banshan-skillhub
 alt:
   - https://github.com/drbanshan/banshan-skillhub
-downloads: 22
+downloads: 74
 updated at: "2026-07-23T04:24:15Z"
 related to:
   - "[[GitHub - 1300696094]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Discover, import, organize, and install AI agent skills from GitHub directories, local folders, or permitted npx packages. Copy imported skills into your vault's Skill/ folder with collision-safe names and install selected skills into agent workspaces under .agents/skills/ using symlinks or copies."
 
     stats: {
-        downloads:  22
+        downloads:  74
         updated_at: 1784780655000
     }
 }

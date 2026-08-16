@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pinned-files
 alt:
   - https://github.com/mattmaiorana/pinned-files
-downloads: 296
+downloads: 345
 updated at: "2026-07-10T15:09:44Z"
 related to:
   - "[[GitHub - 1242104131]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Pin files to a compact Pinned Files sidebar for one-click access and drag-and-drop reordering. See subtle pin indicators in the File Explorer, open pins in new tabs with Cmd/Ctrl-click, and let the plugin handle renamed/deleted files and Sync updates."
 
     stats: {
-        downloads:  296
+        downloads:  345
         updated_at: 1783696184000
     }
 }

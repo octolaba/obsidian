@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/zettelkasten-navigation
 alt:
   - https://github.com/pkm-er/obsidian-zettelkasten-navigation
-downloads: 9184
-updated at: "2026-05-13T11:23:24Z"
+downloads: 9370
+updated at: "2026-08-03T12:25:33Z"
 related to:
   - "[[GitHub - 544375619]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Navigate a Zettelkasten with Luhmann-style note IDs (folgezettel) and a keyword index using two custom graph views. Visualize index-based chains of thought and local ID sequences to trace starting points, paths, and ordered relationships beyond link-only graphs."
 
     stats: {
-        downloads:  9184
-        updated_at: 1778671404000
+        downloads:  9370
+        updated_at: 1785759933000
     }
 }
 ```

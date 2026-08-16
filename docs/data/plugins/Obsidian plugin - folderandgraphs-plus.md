@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folderandgraphs-plus
 alt:
   - https://github.com/pilafdob/folderandgraphs-plus
-downloads: 381
+downloads: 542
 updated at: "2026-07-12T21:04:39Z"
 related to:
   - "[[GitHub - 1275933270]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Colour Folder2Graph folder nodes to match native Graph View group colours by reading open graph groups (fallback to .obsidian/graph.json). Combine folders with the same basename into one graph node while preserving per-path colour matching, and keep all changes visual-only so vault files and folders remain unchanged."
 
     stats: {
-        downloads:  381
+        downloads:  542
         updated_at: 1783890279000
     }
 }

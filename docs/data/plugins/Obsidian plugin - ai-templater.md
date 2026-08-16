@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-templater
 alt:
   - https://github.com/tfthacker/obsidian-ai-templater
-downloads: 12881
+downloads: 13134
 updated at: "2026-03-28T15:07:32Z"
 related to:
   - "[[GitHub - 778843093]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extend Templater to call OpenAI-compatible LLMs directly from your templates. Generate text, ask questions, and insert model responses into notes with simple Templater commands. Support local models or the OpenAI API (requires API key and internet for OpenAI)."
 
     stats: {
-        downloads:  12881
+        downloads:  13134
         updated_at: 1774710452000
     }
 }

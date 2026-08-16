@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/fluorite
 alt:
   - https://github.com/telehakke/fluorite
-downloads: 104
+downloads: 121
 updated at: "2026-05-24T15:10:55Z"
 related to:
   - "[[GitHub - 1248372284]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display local image files in a floating panel with multi-image selection. Show a read-only snapshot of the current Obsidian note in the floating panel; snapshots are static and won’t reflect later edits."
 
     stats: {
-        downloads:  104
+        downloads:  121
         updated_at: 1779635455000
     }
 }

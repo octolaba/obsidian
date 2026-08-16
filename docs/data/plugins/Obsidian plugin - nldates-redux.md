@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nldates-redux
 alt:
   - https://github.com/tbergeron/obsidian-nldates-redux
-downloads: 7504
+downloads: 8096
 updated at: "2026-06-14T00:06:04Z"
 related to:
   - "[[GitHub - 919816924]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert timestamps and create cross-links from natural language dates directly in the editor. Use inline autosuggestions, a date picker, and an Obsidian URI action to open or create daily notes; preserve the original text as an alias with Shift and skip linking when a date isn't recognized."
 
     stats: {
-        downloads:  7504
+        downloads:  8096
         updated_at: 1781395564000
     }
 }

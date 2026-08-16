@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-toggl-integration
 alt:
   - https://github.com/mcndt/obsidian-toggl-integration
-downloads: 32336
+downloads: 32556
 updated at: "2023-07-23T12:50:21Z"
 related to:
   - "[[GitHub - 366665650]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage Toggl Track timers directly inside Obsidian, creating, starting, stopping, and restarting recent timers from the command palette. Generate time-tracking reports inside notes with simple code blocks and view your current timer in the status bar plus a daily summary in the side panel."
 
     stats: {
-        downloads:  32336
+        downloads:  32556
         updated_at: 1690116621000
     }
 }

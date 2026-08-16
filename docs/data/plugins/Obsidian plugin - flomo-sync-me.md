@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/flomo-sync-me
 alt:
   - https://github.com/fanthus/flomo2obsidian
-downloads: 11
+downloads: 54
 updated at: "2026-07-22T08:18:42Z"
 related to:
   - "[[GitHub - 1308533765]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Flomo memos into Obsidian and merge each month's notes into a single Markdown file. Map years to separate folders and run incremental syncs that detect new, updated, or deleted memos, rebuilding only affected months when needed. Authenticate with an access token or desktop auto-login."
 
     stats: {
-        downloads:  11
+        downloads:  54
         updated_at: 1784708322000
     }
 }

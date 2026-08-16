@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/babashka
 alt:
   - https://github.com/filipesilva/obsidian-babashka
-downloads: 3544
+downloads: 3566
 updated at: "2023-02-05T09:54:16Z"
 related to:
   - "[[GitHub - 585615994]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run Clojure and ClojureScript code blocks using Babashka and Node Babashka directly inside your vault. Evaluate blocks inline or print results outside notes, start or connect to a Babashka nREPL, use vault-aware bindings, include deps via bb.edn/nbb.edn, and kill all eval/nREPL processes."
 
     stats: {
-        downloads:  3544
+        downloads:  3566
         updated_at: 1675590856000
     }
 }

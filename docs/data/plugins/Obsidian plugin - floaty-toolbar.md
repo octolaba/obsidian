@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/floaty-toolbar
 alt:
   - https://github.com/0png/Floaty-Toolbar
-downloads: 320
+downloads: 389
 updated at: "2026-05-23T01:48:22Z"
 related to:
   - "[[GitHub - 1201182746]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format selected text instantly with a floating toolbar that appears above your selection. Pin it to a bottom dock, toggle formatting with a second click, and navigate with keyboard shortcuts."
 
     stats: {
-        downloads:  320
+        downloads:  389
         updated_at: 1779500902000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graph-unread-highlight
 alt:
   - https://github.com/junghyunbak/graph-unread-highlight
-downloads: 82
+downloads: 101
 updated at: "2026-06-29T11:31:29Z"
 related to:
   - "[[GitHub - 1282013172]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight new or recently edited notes in the global and local graph views with a colored ring that tracks nodes as you pan, zoom, or as the layout moves. Mark all as read with one command and clear individual rings by opening notes; detection compares each file's last-modified time to when you last viewed it."
 
     stats: {
-        downloads:  82
+        downloads:  101
         updated_at: 1782732689000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/publish-to-discourse
 alt:
   - https://github.com/woodchen-ink/obsidian-publish-to-discourse
-downloads: 860
+downloads: 896
 updated at: "2026-02-11T10:31:45Z"
 related to:
   - "[[GitHub - 917278730]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish notes to Discourse directly from Obsidian and automatically open the created thread in your browser. Update posts previously published from Obsidian with changes tracked via a discourse_post_id frontmatter property. Manage multiple forum presets, control title/content handling (skip first H1, convert highlight syntax), and pick Discourse tags when posting."
 
     stats: {
-        downloads:  860
+        downloads:  896
         updated_at: 1770805905000
     }
 }

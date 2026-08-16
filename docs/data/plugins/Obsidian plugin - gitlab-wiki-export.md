@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gitlab-wiki-export
 alt:
   - https://github.com/jrabmer/obsidian-to-gitlab-wiki
-downloads: 2359
+downloads: 2390
 updated at: "2025-11-09T08:59:09Z"
 related to:
   - "[[GitHub - 757924815]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export your Obsidian vault as a GitLab Wiki, converting filenames and links to GitLab Wiki format. Replace spaces with dashes, strip .md extensions from links, rename a chosen start page to home, and export the converted files to a folder without altering your vault (uses relative-path links)."
 
     stats: {
-        downloads:  2359
+        downloads:  2390
         updated_at: 1762678749000
     }
 }

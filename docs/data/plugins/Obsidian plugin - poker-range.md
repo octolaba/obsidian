@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/poker-range
 alt:
   - https://github.com/marplek/obsidian-poker-range
-downloads: 480
+downloads: 496
 updated at: "2024-09-05T02:59:06Z"
 related to:
   - "[[GitHub - 852551181]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create interactive poker hand range grids directly inside your notes. Select or deselect hands with clicks or click-and-drag and update the range list automatically in your note."
 
     stats: {
-        downloads:  480
+        downloads:  496
         updated_at: 1725505146000
     }
 }

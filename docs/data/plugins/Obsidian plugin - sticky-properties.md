@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sticky-properties
 alt:
   - https://github.com/yaye-work/obsidian-sticky-properties
-downloads: 140
+downloads: 195
 updated at: "2026-06-29T00:42:46Z"
 related to:
   - "[[GitHub - 1279843973]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add configurable properties to every new note and auto-stamp them on creation. Mark any property as sticky from the Properties panel to auto-add it to future notes, with automatic type detection and smart date/time stamping."
 
     stats: {
-        downloads:  140
+        downloads:  195
         updated_at: 1782693766000
     }
 }

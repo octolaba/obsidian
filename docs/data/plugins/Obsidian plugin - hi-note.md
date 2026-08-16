@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/hi-note
 alt:
   - https://github.com/catmuse/HiNote
-downloads: 44079
-updated at: "2026-05-13T16:11:36Z"
+downloads: 45591
+updated at: "2026-08-07T02:30:35Z"
 related to:
   - "[[GitHub - 899782303]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Extract highlighted text automatically into sidebar cards. Add or generate AI comments, converse with highlights, export knowledge-card images or create linked notes. Support ==, <mark>, <span> and custom regex tags; enable FSRS spaced repetition in Pro."
 
     stats: {
-        downloads:  44079
-        updated_at: 1778688696000
+        downloads:  45591
+        updated_at: 1786069835000
     }
 }
 ```

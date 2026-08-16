@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lean-terminal
 alt:
   - https://github.com/sdkasper/lean-obsidian-terminal
-downloads: 41815
+downloads: 49635
 updated at: "2026-07-19T08:42:17Z"
 related to:
   - "[[GitHub - 1190945150]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open an embedded PTY terminal panel inside your vault and run interactive shell sessions without external windows. Manage multiple tabs with drag-to-reorder, rename, color-coding, auto-detect shells, clickable URLs, file-drag path insertion, clipboard support, and customizable color schemes. Desktop-only; requires Obsidian 1.5+."
 
     stats: {
-        downloads:  41815
+        downloads:  49635
         updated_at: 1784450537000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/habit-dashboard
 alt:
   - https://github.com/ghh-l-djl/obsidian-habit-dashboard
-downloads: 230
+downloads: 266
 updated at: "2026-06-25T14:24:50Z"
 related to:
   - "[[GitHub - 1264764282]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Gather events, tasks, check-ins, data logs, moments, monthly plans and quick links into one editable dashboard with a mini-calendar, weekly archive and per-item note links. Track habit streaks, run a persistent countdown timer, record daily metrics and timestamped moments, and organize tasks into linked category boxes."
 
     stats: {
-        downloads:  230
+        downloads:  266
         updated_at: 1782397490000
     }
 }

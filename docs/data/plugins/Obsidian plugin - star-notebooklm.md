@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/star-notebooklm
 alt:
   - https://github.com/starhunt/star-notebooklm
-downloads: 3869
+downloads: 4738
 updated at: "2026-06-03T02:18:10Z"
 related to:
   - "[[GitHub - 1124060247]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add Obsidian notes as sources to Google NotebookLM using an embedded webview inside Obsidian. Send notes via ribbon icon, context menus, or the command palette, choose or create notebooks, and use direct API calls for faster, more reliable source additions."
 
     stats: {
-        downloads:  3869
+        downloads:  4738
         updated_at: 1780453090000
     }
 }

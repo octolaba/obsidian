@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/little-milestones
 alt:
   - https://github.com/tinswangtao-web/little-milestones
-downloads: 136
+downloads: 143
 updated at: "2026-05-28T05:19:45Z"
 related to:
   - "[[GitHub - 1198297080]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track daily behavior, diet, and activities with customizable scoring categories, rich diary fields, templates, and file attachments. Generate automated reports, visualize progress over time, and export structured YAML ready for AI/LLM analysis across desktop and mobile."
 
     stats: {
-        downloads:  136
+        downloads:  143
         updated_at: 1779945585000
     }
 }

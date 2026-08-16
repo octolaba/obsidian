@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-table-to-csv-exporter
 alt:
   - https://github.com/metawops/obsidian-table-to-csv-export
-downloads: 17433
+downloads: 17558
 updated at: "2022-06-11T15:12:02Z"
 related to:
   - "[[GitHub - 497033339]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export table data from any reading-mode pane to a CSV file for use in external apps like Power BI. Handle tables created by Dataview or standard Markdown, auto-increment filenames to avoid overwrites, and warn on conflicts."
 
     stats: {
-        downloads:  17433
+        downloads:  17558
         updated_at: 1654960322000
     }
 }

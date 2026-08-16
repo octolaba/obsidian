@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vim-im-select
 alt:
   - https://github.com/alonelur/vim-im-select-obsidian
-downloads: 11539
+downloads: 11603
 updated at: "2024-11-27T19:30:32Z"
 related to:
   - "[[GitHub - 437699883]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Switch the system input method automatically when using Vim keybindings in Obsidian to prevent non-English input methods from breaking normal-mode commands. Use platform-specific commands to detect and switch the current input method so Vim normal-mode keys behave reliably."
 
     stats: {
-        downloads:  11539
+        downloads:  11603
         updated_at: 1732735832000
     }
 }

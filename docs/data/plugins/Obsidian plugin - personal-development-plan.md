@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/personal-development-plan
 alt:
   - https://github.com/artemkorsakov/personal-development-plan
-downloads: 1453
+downloads: 1473
 updated at: "2026-02-09T06:52:38Z"
 related to:
   - "[[GitHub - 1018350516]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize and track personal and professional development tasks with a seven-tab interface (Knowledge Base, Planned, In Progress, Sources, Statistics, History, Examples). Manage task lifecycle from Knowledge Base to History, get deadline and task limit alerts, and create periodic tasks with automatic templates."
 
     stats: {
-        downloads:  1453
+        downloads:  1473
         updated_at: 1770619958000
     }
 }

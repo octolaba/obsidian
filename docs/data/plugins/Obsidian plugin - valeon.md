@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/valeon
 alt:
   - https://github.com/valeon-org/obsidian-plugin
-downloads: 148
+downloads: 155
 updated at: "2026-06-15T12:09:42Z"
 related to:
   - "[[GitHub - 1241277934]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish and sync posts to the Valeon author dashboard from your Obsidian vault. Create new posts from templates, lint notes against the server schema, kebab-case tags, upload assets, pull published or draft content (including media), and bulk-sync the vault with automatic conflict backups."
 
     stats: {
-        downloads:  148
+        downloads:  155
         updated_at: 1781525382000
     }
 }

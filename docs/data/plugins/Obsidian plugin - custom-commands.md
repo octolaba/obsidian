@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/custom-commands
 alt:
   - https://github.com/staaaaaaaaaan/obsidian-custom-commands
-downloads: 1831
+downloads: 1940
 updated at: "2026-03-24T17:29:29Z"
 related to:
   - "[[GitHub - 964212276]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create personalized commands to open specific notes, create new notes with optional templates, insert text snippets, or chain multiple commands into sequences. Include dynamic date/time placeholders and choose whether notes open in the current tab, a new tab, or a new window."
 
     stats: {
-        downloads:  1831
+        downloads:  1940
         updated_at: 1774373369000
     }
 }

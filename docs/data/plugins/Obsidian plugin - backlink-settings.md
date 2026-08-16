@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/backlink-settings
 alt:
   - https://github.com/calvinwyoung/obsidian-backlink-settings
-downloads: 2355
+downloads: 2467
 updated at: "2026-03-22T17:23:09Z"
 related to:
   - "[[GitHub - 964165386]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save default settings for the backlinks (Linked mentions) pane — set preferred sort order, collapse state, and whether to show more context. Apply those defaults automatically each time a note opens for consistent backlink displays."
 
     stats: {
-        downloads:  2355
+        downloads:  2467
         updated_at: 1774200189000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-preview-calendar
 alt:
   - https://github.com/zoupuyo-obsidian/obsidian-daily-preview-calendar
-downloads: 140
+downloads: 175
 updated at: "2026-07-05T06:06:33Z"
 related to:
   - "[[GitHub - 1282965129]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse daily notes in week or month calendar views with Markdown previews inside each day cell. Display inline and block Markdown, filter by heading sections, highlight keywords, and open full-note previews on hover or long-press. Use a responsive grid with mobile support and choose sidebar or main-area opening."
 
     stats: {
-        downloads:  140
+        downloads:  175
         updated_at: 1783231593000
     }
 }

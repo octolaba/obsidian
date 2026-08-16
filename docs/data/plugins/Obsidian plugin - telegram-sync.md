@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/telegram-sync
 alt:
   - https://github.com/soberhacker/obsidian-telegram-sync
-downloads: 48144
+downloads: 48687
 updated at: "2024-10-30T19:25:38Z"
 related to:
   - "[[GitHub - 623557936]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Telegram messages and files to your Obsidian vault on desktop. Save chats as individual notes or append to existing ones, import images and files, transcribe voice/video notes (Telegram Premium), apply templates and folders, auto-format Markdown, and optionally delete processed messages."
 
     stats: {
-        downloads:  48144
+        downloads:  48687
         updated_at: 1730316338000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-plaintext
 alt:
   - https://github.com/finickyspider/Obsidian-Copy-as-Plaintext
-downloads: 2183
+downloads: 2280
 updated at: "2026-01-20T01:28:33Z"
 related to:
   - "[[GitHub - 1020716484]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy selected Markdown as clean plain text via a context-menu entry or the Command Palette. Strip Markdown with a Super Simple regex mode or a Unified/Remark AST mode offering full GFM support (tables, task lists, footnotes, math, frontmatter) and fine-tune which elements to remove."
 
     stats: {
-        downloads:  2183
+        downloads:  2280
         updated_at: 1768872513000
     }
 }

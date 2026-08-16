@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rodin-export
 alt:
   - https://github.com/peacewalkert/obsidian-rodin-export
-downloads: 86
+downloads: 93
 updated at: "2026-05-17T12:06:22Z"
 related to:
   - "[[GitHub - 1210055812]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export your vault to Rodin to create an intellectual fingerprint revealing themes, open questions, mental models, influences, blind spots, and the core question driving your thinking. Connect a Rodin profile to evolve it—future exports merge new insights into that fingerprint; vault text is sent to rodin.fyi for processing and only the derived fingerprint is retained."
 
     stats: {
-        downloads:  86
+        downloads:  93
         updated_at: 1779019582000
     }
 }

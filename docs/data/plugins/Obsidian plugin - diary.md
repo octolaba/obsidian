@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/diary
 alt:
   - https://github.com/pobsiz/obsidian-diary
-downloads: 859
-updated at: "2026-07-24T05:44:30Z"
+downloads: 1350
+updated at: "2026-07-29T14:58:47Z"
 related to:
   - "[[GitHub - 1155606937]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Diary transforms ordinary Markdown notes into a flexible, visual planner inside Obsidian. View your schedule in yearly, monthly grid, monthly list, daily timeline, or 3-day timeline layouts, with a compact planner available in the sidebar. Create single-date and date-range notes using simple filename conventions, and enrich them with colors, tasks, start and end times, reminders, and recurring schedules. Diary also supports holidays, alternate and custom calendars, and optional read-only overlays from external ICS calendars. Everything remains grounded in portable Markdown files stored in your vault, with responsive desktop and mobile workflows and a localized interface."
 
     stats: {
-        downloads:  859
-        updated_at: 1784871870000
+        downloads:  1350
+        updated_at: 1785337127000
     }
 }
 ```

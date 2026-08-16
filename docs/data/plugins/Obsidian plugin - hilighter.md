@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/hilighter
 alt:
   - https://github.com/pandorareads/HiLighter
-downloads: 1311
-updated at: "2026-06-04T06:04:58Z"
+downloads: 1692
+updated at: "2026-08-01T14:48:16Z"
 related to:
   - "[[GitHub - 1205804396]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Transform highlights into color-coded note cards with AI translation and built-in research templates for quick analysis. Search and filter cards in real time, jump to source notes, tag and batch-manage or archive cards, and open Card Studio for focused review."
 
     stats: {
-        downloads:  1311
-        updated_at: 1780553098000
+        downloads:  1692
+        updated_at: 1785595696000
     }
 }
 ```

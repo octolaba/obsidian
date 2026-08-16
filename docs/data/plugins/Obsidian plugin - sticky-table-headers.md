@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sticky-table-headers
 alt:
   - https://github.com/jwczju/sticky-table-headers
-downloads: 60
+downloads: 139
 updated at: "2026-07-14T04:03:00Z"
 related to:
   - "[[GitHub - 1299988483]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep table headers visible while you scroll long tables by pinning a lightweight cloned header to the top of the viewport. Handle multiple tables independently, follow horizontal scrolling for wide tables, and preserve your table styling — display-only with no changes to notes."
 
     stats: {
-        downloads:  60
+        downloads:  139
         updated_at: 1784001780000
     }
 }

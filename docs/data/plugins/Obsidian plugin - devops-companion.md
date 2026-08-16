@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/devops-companion
 alt:
   - https://github.com/jkom4/obsidian-devops-compagnon
-downloads: 1692
+downloads: 1710
 updated at: "2025-10-15T20:55:08Z"
 related to:
   - "[[GitHub - 999788882]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bring DevOps context into your vault by parsing Dockerfiles, YAML, Terraform, and CI/CD pipeline files and watching selected folders for changes. Generate organized Markdown docs and AI-powered explanations or rewrites with OpenAI, Google Gemini, Anthropic, or Mistral, plus manual scan and live monitoring."
 
     stats: {
-        downloads:  1692
+        downloads:  1710
         updated_at: 1760561708000
     }
 }

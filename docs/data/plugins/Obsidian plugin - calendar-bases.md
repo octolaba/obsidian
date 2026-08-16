@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/calendar-bases
 alt:
   - https://github.com/edrickleong/obsidian-calendar-bases
-downloads: 95432
+downloads: 102102
 updated at: "2026-04-06T12:40:50Z"
 related to:
   - "[[GitHub - 1069140836]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a calendar layout to Obsidian Bases to display notes with date properties in an interactive calendar view. Drag and drop events to reschedule and automatically update note frontmatter, show single- and multi-day events, click entries to open notes, and use context menus for more options."
 
     stats: {
-        downloads:  95432
+        downloads:  102102
         updated_at: 1775479250000
     }
 }

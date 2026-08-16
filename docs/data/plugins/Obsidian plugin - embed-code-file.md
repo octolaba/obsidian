@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/embed-code-file
 alt:
   - https://github.com/almariah/embed-code-file
-downloads: 8802
+downloads: 8878
 updated at: "2022-09-09T18:50:53Z"
 related to:
   - "[[GitHub - 528214791]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed code files from your vault or from remote URLs (for example GitHub raw) directly into Markdown code blocks. Include specific line ranges, add custom titles, and render cleanly in Obsidian's live preview for readable inline code snippets."
 
     stats: {
-        downloads:  8802
+        downloads:  8878
         updated_at: 1662749453000
     }
 }

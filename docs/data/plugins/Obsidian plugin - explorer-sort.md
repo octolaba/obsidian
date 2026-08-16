@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/explorer-sort
 alt:
   - https://github.com/vladb-evs/obsidian-explorer-sort
-downloads: 307
+downloads: 777
 updated at: "2026-07-08T14:03:45Z"
 related to:
   - "[[GitHub - 1293645312]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Arrange files and folders manually in the file explorer with per-folder custom ordering that replaces alphabetical/date sorting. Use right-click commands or a drag-and-drop reorder modal (with commands and hotkeys) to move items and preserve orders across renames or moves. Append new items to the bottom and toggle custom sorting on or off."
 
     stats: {
-        downloads:  307
+        downloads:  777
         updated_at: 1783519425000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/scroll-speed
 alt:
   - https://github.com/flolu/obsidian-scroll-speed
-downloads: 6106
+downloads: 6140
 updated at: "2023-07-18T06:36:00Z"
 related to:
   - "[[GitHub - 419290497]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Change mouse scroll speed inside files to match your preference, from super slow to very fast. Apply an Alt-key multiplier to temporarily boost scroll speed for faster navigation."
 
     stats: {
-        downloads:  6106
+        downloads:  6140
         updated_at: 1689662160000
     }
 }

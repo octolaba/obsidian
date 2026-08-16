@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/paper-link
 alt:
   - https://github.com/jiangnan0522/paper-link
-downloads: 14
+downloads: 34
 updated at: "2026-07-22T14:56:13Z"
 related to:
   - "[[GitHub - 1301004110]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Replace pasted academic paper URLs with readable titled Markdown links using metadata from arXiv, ACL Anthology, OpenReview, and Google Scholar–exposed pages. Keep the paste instant and swap in the titled link as metadata arrives; leave non-paper URLs untouched and run a command to convert bare paper URLs in the current note."
 
     stats: {
-        downloads:  14
+        downloads:  34
         updated_at: 1784732173000
     }
 }

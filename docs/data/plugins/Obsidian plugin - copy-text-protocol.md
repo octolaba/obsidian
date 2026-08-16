@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-text-protocol
 alt:
   - https://github.com/jldiaz/copy-protocol-plugin
-downloads: 243
+downloads: 309
 updated at: "2026-05-21T19:02:16Z"
 related to:
   - "[[GitHub - 1237032431]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Easily create clickable links in your notes to instantly and silently copy commands, boilerplate text, templates, or search strings to your clipboard. Automate link creation using the built-in keyboard command to convert any selection or clipboard text without manual URL encoding, and preview contents anytime with a convenient Ctrl/Cmd + Hover tooltip."
 
     stats: {
-        downloads:  243
+        downloads:  309
         updated_at: 1779390136000
     }
 }

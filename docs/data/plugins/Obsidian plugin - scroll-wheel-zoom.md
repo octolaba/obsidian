@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/scroll-wheel-zoom
 alt:
   - https://github.com/jwczju/scroll-wheel-zoom
-downloads: 26
+downloads: 55
 updated at: "2026-07-14T04:03:04Z"
 related to:
   - "[[GitHub - 1299988562]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Zoom the entire Obsidian window with Ctrl/Cmd+Shift and the mouse wheel; scroll up to zoom in and down to zoom out. Extend zoom-out below Obsidian's default limit (down to about 40%), set preferred and minimum zoom levels, and jump to them with commands. Use on desktop only."
 
     stats: {
-        downloads:  26
+        downloads:  55
         updated_at: 1784001784000
     }
 }

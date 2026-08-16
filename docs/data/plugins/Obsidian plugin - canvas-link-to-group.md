@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-link-to-group
 alt:
   - https://github.com/tgrrrr/Canvas-link-to-group
-downloads: 1715
+downloads: 1832
 updated at: "2026-05-13T15:14:08Z"
 related to:
   - "[[GitHub - 1021113167]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create direct links to specific Canvas groups and jump to them in one click. Copy links from a group's context menu or via the command palette. Left-click to open in the current tab or Ctrl/Cmd-click to open in a new tab, with notifications for missing or duplicate group names."
 
     stats: {
-        downloads:  1715
+        downloads:  1832
         updated_at: 1778685248000
     }
 }

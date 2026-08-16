@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quick-notes
 alt:
   - https://github.com/seanmcowen/Quick-Note-Obsidian-Plugin
-downloads: 473
+downloads: 483
 updated at: "2024-09-26T18:37:52Z"
 related to:
   - "[[GitHub - 821854656]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Find and add display-name aliases used for the current file into its aliases metadata. Convert links like [[Page]] into [[Page|Page]] to preserve displayed names when filenames change. Create notes silently from selected text (with optional custom names) and link selections as aliases."
 
     stats: {
-        downloads:  473
+        downloads:  483
         updated_at: 1727375872000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/floating-heading
 alt:
   - https://github.com/hornatx/floating-heading
-downloads: 126
+downloads: 148
 updated at: "2026-06-06T11:16:43Z"
 related to:
   - "[[GitHub - 1257926068]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "追踪并显示当前视口的标题层级（H1–H6），在滚动长笔记时实时更新。提供可拖拽、可缩放、可锁定的悬浮窗口，点击可回跳到该标题，未命中时收起为极简图标并在 Canvas、看板、数据库或非 Markdown 文件中自动隐藏。"
 
     stats: {
-        downloads:  126
+        downloads:  148
         updated_at: 1780744603000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/dim-lights
 alt:
   - https://github.com/strombraaten/dim-lights
-downloads:
-updated at:
+downloads: 30
+updated at: "2026-07-24T18:20:01Z"
 related to:
   - "[[GitHub - 1308933020]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/strombraaten/dim-lights"
     description: "Dims all inactive panes, so you can keep focus on the one you're actively working on - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Focus on one note at the time, and dim the lights on the other notes you have open. You can easily jump between open notes, and the dimming follows your focus instantly. Keeping the text readable, and the sidebars and non-editor areas remaining fully visible."
+
+    stats: {
+        downloads:  30
+        updated_at: 1784917201000
+    }
 }
 ```
 

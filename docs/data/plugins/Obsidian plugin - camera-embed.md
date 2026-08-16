@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/camera-embed
 alt:
   - https://github.com/slavkomelnyk/camera-embed
-downloads: 995
+downloads: 1237
 updated at: "2026-05-31T07:43:07Z"
 related to:
   - "[[GitHub - 1165643512]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture photos on Android and embed them as Markdown image links at the cursor position. Save images next to the note or in a vault folder with optional automatic compression to reduce file size."
 
     stats: {
-        downloads:  995
+        downloads:  1237
         updated_at: 1780213387000
     }
 }

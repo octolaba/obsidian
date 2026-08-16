@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/external-file-card
 alt:
   - https://github.com/james-yu/external-file-card
-downloads: 938
+downloads: 965
 updated at: "2026-05-29T15:56:43Z"
 related to:
   - "[[GitHub - 837946706]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display file info cards for files in pre-defined folders using ef/extfile code blocks, or use efc/extfilec for a compact view. Show filename, created and modified times, and containing folder as clickable links; support inline Obsidian URIs like obsidian://ef?file.pdf (encode spaces with :) for inline links."
 
     stats: {
-        downloads:  938
+        downloads:  965
         updated_at: 1780070203000
     }
 }

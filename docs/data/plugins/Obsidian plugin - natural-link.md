@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/natural-link
 alt:
   - https://github.com/rekby/obsidian-natural-link
-downloads: 8203
+downloads: 9505
 updated at: "2026-03-15T18:53:51Z"
 related to:
   - "[[GitHub - 1152618427]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create links by typing natural word forms and match notes regardless of inflection, word order, or incomplete words. Search titles, aliases, headings and blocks using Russian and English morphology, get live prefix results, and accept display-preserving completions for clean wikilinks."
 
     stats: {
-        downloads:  8203
+        downloads:  9505
         updated_at: 1773600831000
     }
 }

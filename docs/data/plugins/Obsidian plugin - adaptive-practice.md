@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/adaptive-practice
 alt:
   - https://github.com/anupchavan/adaptive-practice
-downloads: 219
-updated at: "2026-07-21T14:40:04Z"
+downloads: 327
+updated at: "2026-07-23T11:01:56Z"
 related to:
   - "[[GitHub - 1181030712]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Turn the notes you already write into an adaptive question bank. Point it at a folder or a filter, and practice sessions are generated from your own material — multiple choice, select-all, and numeric questions grounded in what each note actually says. Questions aim past recall. A catalog of 24 analytical reasoning moves — limiting cases, false symmetries, counterexamples, faithful translations, tight bounds, and more — pushes the model to test application and transfer, the way good problem books do. Scheduling uses an FSRS-style spaced repetition model, so notes come due right before you would forget them, and each session adapts its difficulty to your answers in real time. A blind verification pass re-solves every batch and drops questions with wrong answer keys, and deep authoring adversarially sharpens the hard ones. Bring your own API key: Anthropic, Gemini, OpenAI, DeepSeek, Qwen, OpenRouter, or any compatible endpoint. Your notes are sent only to the provider you choose."
 
     stats: {
-        downloads:  219
-        updated_at: 1784644804000
+        downloads:  327
+        updated_at: 1784804516000
     }
 }
 ```

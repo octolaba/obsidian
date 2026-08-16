@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/digital-archive
 alt:
   - https://github.com/hyoyoonnam/digital-archive
-downloads: 21
+downloads: 41
 updated at: "2026-07-14T10:19:32Z"
 related to:
   - "[[GitHub - 1300328098]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search the Aladin open API to fetch book metadata and cover images, then create richly populated Markdown notes with frontmatter (title, author, publisher, pages, ISBN, category, status). Browse your collection in a built-in cover-first gallery view rendered natively in Obsidian, turning your vault into a personal bookshelf."
 
     stats: {
-        downloads:  21
+        downloads:  41
         updated_at: 1784024372000
     }
 }

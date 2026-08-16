@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/screenshot-selection
 alt:
   - https://github.com/hwy1dot0/obsidian-screenshot-selection
-downloads: 398
+downloads: 458
 updated at: "2026-07-09T14:00:05Z"
 related to:
   - "[[GitHub - 1238313369]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture selected content in Reading View or Live Preview as a PNG and copy it to the system clipboard. Preserve your current Obsidian theme (fonts, colors, callouts, code highlighting) and capture selections that extend beyond the viewport. Use on desktop only."
 
     stats: {
-        downloads:  398
+        downloads:  458
         updated_at: 1783605605000
     }
 }

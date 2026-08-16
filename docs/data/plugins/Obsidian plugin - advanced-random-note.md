@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/advanced-random-note
 alt:
   - https://github.com/karstenpedersen/obsidian-advanced-random-note
-downloads: 7702
+downloads: 7760
 updated at: "2023-10-16T13:03:48Z"
 related to:
   - "[[GitHub - 667881189]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Find random notes and files using custom queries written in a built-in query language, Dataview, or regular expressions. Open results from a selection modal or run queries as commands, exclude folders from searches, and choose to open matches in new tabs."
 
     stats: {
-        downloads:  7702
+        downloads:  7760
         updated_at: 1697461428000
     }
 }

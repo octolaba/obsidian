@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mesh-ai
 alt:
   - https://github.com/chasebank87/mesh-ai
-downloads: 15119
+downloads: 15369
 updated at: "2025-09-12T23:23:33Z"
 related to:
   - "[[GitHub - 847430503]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Apply multiple text-processing patterns to the active note, clipboard, or Tavily search results using sequential or stitch modes. Detect YouTube links and fetch transcripts, create reusable workflows and command-palette actions, manage/download pattern libraries, and connect to AI services like OpenAI, Grocq, Ollama, Google, Microsoft, and Anthropic."
 
     stats: {
-        downloads:  15119
+        downloads:  15369
         updated_at: 1757719413000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mermaid-canvas
 alt:
   - https://github.com/cheney12138/mermaid-canvas-plugin
-downloads: 163
+downloads: 260
 updated at: "2026-07-02T09:32:08Z"
 related to:
   - "[[GitHub - 1282773947]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn every mermaid code block into an interactive, resizable SVG canvas with smooth zoom, pan, fullscreen, copy-source, and delete controls. Open a built-in split editor for live code/preview editing and skip invalid or empty blocks without noisy errors."
 
     stats: {
-        downloads:  163
+        downloads:  260
         updated_at: 1782984728000
     }
 }

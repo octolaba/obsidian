@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pickle
 alt:
   - https://github.com/callumalpass/pickle-obsidian
-downloads: 97
+downloads: 110
 updated at: "2026-06-01T11:09:17Z"
 related to:
   - "[[GitHub - 1249515424]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn a Markdown folder into a local, file-based inbox for typed agent requests and structured human responses. Review requests in Obsidian Bases and submit schema-driven responses that save structured response files as an on-vault audit and mark request state via response links."
 
     stats: {
-        downloads:  97
+        downloads:  110
         updated_at: 1780312157000
     }
 }

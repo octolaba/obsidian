@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wheel-picker
 alt:
   - https://github.com/ezra-dvlpr/WheelPicker
-downloads: 247
+downloads: 277
 updated at: "2026-05-25T17:09:17Z"
 related to:
   - "[[GitHub - 1242962447]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create interactive roulette-style wheels from codeblocks to spin and randomly pick an item. Works in View or Edit mode. Simply add a title and one line of data per slice, then press the central \"Spin\" button to animate a spin and randomly select a choice."
 
     stats: {
-        downloads:  247
+        downloads:  277
         updated_at: 1779728957000
     }
 }

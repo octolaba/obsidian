@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sparklines
 alt:
   - https://github.com/deeplook/obsidian-sparklines
-downloads: 136
+downloads: 158
 updated at: "2026-05-16T11:06:06Z"
 related to:
   - "[[GitHub - 1138561342]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render inline SVG sparklines in Markdown notes, including paragraphs, tables, and other contexts. Pull numeric data from literal arrays or frontmatter keys and control color, width and stroke via simple inline options."
 
     stats: {
-        downloads:  136
+        downloads:  158
         updated_at: 1778929566000
     }
 }

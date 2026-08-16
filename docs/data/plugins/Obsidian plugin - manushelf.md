@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/manushelf
 alt:
   - https://github.com/ivan-94/obsidian-plugin-manushelf
-downloads: 26
+downloads: 60
 updated at: "2026-07-18T06:27:12Z"
 related to:
   - "[[GitHub - 1304503325]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn a folder of Markdown manuscripts into a responsive 3D bookshelf in Obsidian, showing each direct child folder as a book with discovered cover and entry. Discover and edit title, description, cover, or entry via a prefilled form—no hand-written JSON required. Render an asset-backed Three.js shelf with PBR/HDR lighting and reversible book-opening animation, provide responsive column layouts and a non-WebGL cover-list fallback, and run fully offline."
 
     stats: {
-        downloads:  26
+        downloads:  60
         updated_at: 1784356032000
     }
 }

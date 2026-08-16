@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/global-markdown-encrypt
 alt:
   - https://github.com/shlemiel/globaloe
-downloads: 4187
+downloads: 4216
 updated at: "2023-12-09T04:23:30Z"
 related to:
   - "[[GitHub - 702261184]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Encrypt Obsidian Markdown files in-memory with a single password using AES-256-GCM and PBKDF2-SHA512 (1,000,000 iterations). Set Editing view as default and mark files with the .aes256 extension to have their Markdown encrypted; keep backups to avoid data loss."
 
     stats: {
-        downloads:  4187
+        downloads:  4216
         updated_at: 1702095810000
     }
 }

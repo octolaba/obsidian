@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/pensio-sync
 alt:
   - https://github.com/gabrielrubens/pensio-obsidian-sync
-downloads: 144
-updated at: "2026-07-10T22:47:35Z"
+downloads: 197
+updated at: "2026-07-29T20:25:18Z"
 related to:
   - "[[GitHub - 1160124760]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync your Obsidian journal to Pensio for AI-powered emotion and mood tracking, relationship mapping, and weekly or monthly insights. Selectively sync configured folders with frontmatter-aware entries, mirror deletions, and secure per-device authentication (Pensio account required)."
 
     stats: {
-        downloads:  144
-        updated_at: 1783723655000
+        downloads:  197
+        updated_at: 1785356718000
     }
 }
 ```

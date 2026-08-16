@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hoarder-sync
 alt:
   - https://github.com/jhofker/obsidian-hoarder
-downloads: 4426
+downloads: 5049
 updated at: "2026-06-13T15:58:53Z"
 related to:
   - "[[GitHub - 906433497]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Karakeep bookmarks into Obsidian as Markdown notes, including metadata and bookmark images saved to an attachments folder. Keep notes updated automatically by creating or updating files for changed bookmarks, mirror deletions and optionally sync notes back to Karakeep."
 
     stats: {
-        downloads:  4426
+        downloads:  5049
         updated_at: 1781366333000
     }
 }

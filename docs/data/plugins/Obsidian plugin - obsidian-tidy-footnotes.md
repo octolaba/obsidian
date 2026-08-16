@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-tidy-footnotes
 alt:
   - https://github.com/charliecm/obsidian-tidy-footnotes
-downloads: 23156
+downloads: 23412
 updated at: "2024-10-15T06:47:48Z"
 related to:
   - "[[GitHub - 357025782]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Tidy footnotes by consolidating all definitions into a single block sorted by appearance. Re-index numbered footnotes so inline order becomes sequential (e.g., [^1][^4][^2] → [^1][^2][^3])."
 
     stats: {
-        downloads:  23156
+        downloads:  23412
         updated_at: 1728974868000
     }
 }

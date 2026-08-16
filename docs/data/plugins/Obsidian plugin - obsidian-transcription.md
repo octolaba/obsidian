@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-transcription
 alt:
   - https://github.com/djmango/obsidian-transcription
-downloads: 32095
+downloads: 32331
 updated at: "2024-04-12T16:55:54Z"
 related to:
   - "[[GitHub - 557780811]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transcribe audio and video files into accurate text using a local, open-source Whisper ASR engine. Include start/end timestamps per line, process multiple files simultaneously, run transcriptions in the background, and handle many formats via ffmpeg."
 
     stats: {
-        downloads:  32095
+        downloads:  32331
         updated_at: 1712940954000
     }
 }

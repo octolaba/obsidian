@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/clipper-catalog
 alt:
   - https://github.com/soundslikeinfo/obsidian-clipper-catalog
-downloads: 2494
+downloads: 2517
 updated at: "2025-04-19T22:11:04Z"
 related to:
   - "[[GitHub - 900883770]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Catalog clipped web articles in a single, searchable view with tag-based filtering, directory exclusion, and real-time sorting. Browse and open items from desktop or mobile, access the view via the command palette, and use a clean, theme-aware interface."
 
     stats: {
-        downloads:  2494
+        downloads:  2517
         updated_at: 1745100664000
     }
 }

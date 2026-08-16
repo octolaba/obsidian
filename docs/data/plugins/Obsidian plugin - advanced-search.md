@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/advanced-search
 alt:
   - https://github.com/clingfei/advanced-search
-downloads: 162
+downloads: 181
 updated at: "2026-05-17T14:11:33Z"
 related to:
   - "[[GitHub - 1169662564]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add VS Code-style search controls to Obsidian's Search view. Toggle whole-word or regex matching and specify path-based include/exclude filters to target files or folders."
 
     stats: {
-        downloads:  162
+        downloads:  181
         updated_at: 1779027093000
     }
 }

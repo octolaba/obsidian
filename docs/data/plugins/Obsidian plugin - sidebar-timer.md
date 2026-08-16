@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sidebar-timer
 alt:
   - https://github.com/hornatx/sidebar-timer
-downloads: 223
+downloads: 273
 updated at: "2026-06-02T22:51:23Z"
 related to:
   - "[[GitHub - 1250789866]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a minimalist floating capsule countdown that mounts in main and popout Obsidian windows. Keep time accurate via target-timestamp calibration across sleep/wake, remember and clamp capsule position, support touch/pen pointer events, and fully unload timers to prevent background drift."
 
     stats: {
-        downloads:  223
+        downloads:  273
         updated_at: 1780440683000
     }
 }

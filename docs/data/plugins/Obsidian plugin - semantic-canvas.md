@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/semantic-canvas
 alt:
   - https://github.com/aarongilly/obsidian-semantic-canvas-plugin
-downloads: 8444
+downloads: 8587
 updated at: "2024-10-11T21:11:37Z"
 related to:
   - "[[GitHub - 769707883]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit file properties visually on canvases and apply changes to multiple Markdown notes at once based on group membership, links to files or embeds. Create and manage semantic (typed) links and convert notes into canvases (and back) to build and update knowledge graphs from a graph view."
 
     stats: {
-        downloads:  8444
+        downloads:  8587
         updated_at: 1728681097000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chord-sheets
 alt:
   - https://github.com/olvidalo/obsidian-chord-sheets
-downloads: 21209
+downloads: 21724
 updated at: "2026-07-05T16:34:41Z"
 related to:
   - "[[GitHub - 740592870]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render and edit chord sheets with chords-over-lyrics or inline bracketed chords, keeping symbol highlighting and diagram rendering active in edit, live preview, and reading modes. Display local chord diagrams for guitar, ukulele, and mandolin, define custom chord shapes, transpose songs, and autoscroll while playing."
 
     stats: {
-        downloads:  21209
+        downloads:  21724
         updated_at: 1783269281000
     }
 }

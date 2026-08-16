@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vocabulary-highlighter
 alt:
   - https://github.com/eatgrass/obsidian-vocab-highlighter
-downloads: 5512
+downloads: 5562
 updated at: "2023-11-16T09:29:22Z"
 related to:
   - "[[GitHub - 715991364]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight English words by frequency to focus reading and language study. Adjust frequency thresholds and colors to emphasize high- or low-frequency vocabulary, and toggle vocabulary highlighting on or off as needed."
 
     stats: {
-        downloads:  5512
+        downloads:  5562
         updated_at: 1700126962000
     }
 }

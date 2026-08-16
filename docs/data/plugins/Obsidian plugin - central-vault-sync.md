@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/central-vault-sync
 alt:
   - https://github.com/picassio/central-vault-sync
-downloads: 46
+downloads: 59
 updated at: "2026-07-17T06:58:29Z"
 related to:
   - "[[GitHub - 1298807909]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your vault with a self-hosted WebObsidian server using revision-safe two-way synchronization that preserves stable entry IDs, revisions, hashes, and an ordered journal. Publish durable local operations before pulling, apply deterministic three-way merges for independent text edits, and create conflict copies for overlapping or binary changes. Verify every transfer by SHA-256 and defer remote renames or deletions while affected files have unsaved edits or pending local work."
 
     stats: {
-        downloads:  46
+        downloads:  59
         updated_at: 1784271509000
     }
 }

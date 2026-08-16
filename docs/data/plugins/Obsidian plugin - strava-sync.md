@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/strava-sync
 alt:
   - https://github.com/watsonbox/obsidian-strava-sync
-downloads: 4729
+downloads: 4820
 updated at: "2024-10-22T18:41:40Z"
 related to:
   - "[[GitHub - 855612938]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync activities from Strava into Obsidian for easy referencing, tracking, and visualization. Import Strava CSV exports and sync recent activities via the Strava API. Apply Handlebars templates, add customizable front matter for Dataview integration, and attach per-sport icons for Iconize."
 
     stats: {
-        downloads:  4729
+        downloads:  4820
         updated_at: 1729622500000
     }
 }

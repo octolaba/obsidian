@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/arena-channels
 alt:
   - https://github.com/francescobernini0016/arena-channels
-downloads: 84
+downloads: 95
 updated at: "2026-06-11T07:48:46Z"
 related to:
   - "[[GitHub - 1265508933]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Are.na channels as live, responsive masonry grids inside Obsidian notes using a single code block, working in Reading view and Live Preview. Adapt column count to pane width, accept slugs or full URLs, support private channels via personal access token, and allow per-block overrides for layout, captions, links, and caching."
 
     stats: {
-        downloads:  84
+        downloads:  95
         updated_at: 1781164126000
     }
 }

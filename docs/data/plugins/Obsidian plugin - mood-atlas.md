@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mood-atlas
 alt:
   - https://github.com/alpinemily/obsidian-mood-atlas
-downloads: 1437
+downloads: 1623
 updated at: "2026-06-04T21:56:59Z"
 related to:
   - "[[GitHub - 1170436031]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Inline emotion word suggestions. Type any emotion word followed by a trigger key to pull up all the feeling words in the same emotional region, helping you find the most precise word for what you're experiencing."
 
     stats: {
-        downloads:  1437
+        downloads:  1623
         updated_at: 1780610219000
     }
 }

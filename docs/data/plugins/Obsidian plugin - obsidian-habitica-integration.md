@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-habitica-integration
 alt:
   - https://github.com/superchamp234/habitica-sync
-downloads: 9205
+downloads: 9238
 updated at: "2022-01-15T06:59:42Z"
 related to:
   - "[[GitHub - 414849593]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync and view your Habitica account inside Obsidian, showing stats (HP, XP, coins) and task lists with Markdown and emoji support. Display tabs for To-Dos, Dailies, Habits and Rewards; check off or uncheck tasks, adjust habit counters, and view task descriptions and subtasks."
 
     stats: {
-        downloads:  9205
+        downloads:  9238
         updated_at: 1642229982000
     }
 }

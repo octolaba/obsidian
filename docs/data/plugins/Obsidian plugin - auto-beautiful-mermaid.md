@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/auto-beautiful-mermaid
 alt:
   - https://github.com/rxdxxxx/obsidian-auto-beautiful-mermaid
-downloads: 108
-updated at: "2026-07-07T09:15:07Z"
+downloads: 218
+updated at: "2026-08-05T06:14:42Z"
 related to:
   - "[[GitHub - 1273135946]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render Mermaid diagrams as polished, theme-aware SVG for flowchart, sequence, state, class, ER and XY charts, and fall back to Obsidian's native Mermaid engine for all other diagram types to preserve interactivity. Switch per-block between Beautiful, System, Both or Source modes, adapt automatically to light/dark themes, and support both Reading View and Live Preview."
 
     stats: {
-        downloads:  108
-        updated_at: 1783415707000
+        downloads:  218
+        updated_at: 1785910482000
     }
 }
 ```

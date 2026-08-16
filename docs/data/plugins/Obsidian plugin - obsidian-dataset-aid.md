@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-dataset-aid
 alt:
   - https://github.com/connerohnesorge/Text-Dataset-Aid-Plugin
-downloads: 3877
+downloads: 3903
 updated at: "2024-01-29T16:44:56Z"
 related to:
   - "[[GitHub - 568286367]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and maintain plain-text datasets inside your vault to handcraft training examples for fine-tuning text-generation models like GPT-3. Edit examples inline and keep dataset context alongside your notes to build personalized, fine-tuning-ready data."
 
     stats: {
-        downloads:  3877
+        downloads:  3903
         updated_at: 1706546696000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/coder
 alt:
   - https://github.com/rudimuc/obsidian-coder
-downloads: 3525
+downloads: 3584
 updated at: "2026-06-03T22:32:54Z"
 related to:
   - "[[GitHub - 723518789]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Encode and decode text inline using Atbash, Base16, Base64, Base85 and ROT13 algorithms. Use Markdown keywords to trigger conversions and replace code blocks with the encoded or decoded result directly in your notes."
 
     stats: {
-        downloads:  3525
+        downloads:  3584
         updated_at: 1780525974000
     }
 }

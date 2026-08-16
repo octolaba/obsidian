@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-heading-hierarchy
 alt:
   - https://github.com/rogerfan48/better-heading-hierarchy
-downloads: 1705
+downloads: 1910
 updated at: "2025-09-06T14:24:37Z"
 related to:
   - "[[GitHub - 989431920]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display subtle vertical guide lines that visualize Markdown heading levels and nesting. Highlight heading hierarchy to make document structure easier to scan and navigate."
 
     stats: {
-        downloads:  1705
+        downloads:  1910
         updated_at: 1757168677000
     }
 }

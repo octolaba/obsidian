@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ledger-governance
 alt:
   - https://github.com/jsdosanj/ledger
-downloads: 76
+downloads: 87
 updated at: "2026-07-03T08:35:17Z"
 related to:
   - "[[GitHub - 1268908165]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn Obsidian into a governed corporate documentation hub. Sync a shared org vault, add review/approval workflows, enforce ownership and \"last reviewed\" metadata, enable org-wide search, publish read-only portals, and collect compliance evidence while preserving native Markdown, YAML frontmatter and [[wikilinks]]."
 
     stats: {
-        downloads:  76
+        downloads:  87
         updated_at: 1783067717000
     }
 }

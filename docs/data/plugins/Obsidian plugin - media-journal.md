@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/media-journal
 alt:
   - https://github.com/fengshuzi/media-journal
-downloads: 103
-updated at: "2026-06-29T02:58:38Z"
+downloads: 260
+updated at: "2026-08-04T03:47:16Z"
 related to:
   - "[[GitHub - 1132049184]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Track books, movies, TV shows, and variety programs from daily notes using flexible tags and one-line title plus short-review entries. View browsable records and monthly stats with year/month filters and customize the app title and media type labels."
 
     stats: {
-        downloads:  103
-        updated_at: 1782701918000
+        downloads:  260
+        updated_at: 1785815236000
     }
 }
 ```

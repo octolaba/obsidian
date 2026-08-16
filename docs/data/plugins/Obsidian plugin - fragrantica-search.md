@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/fragrantica-search
 alt:
   - https://github.com/pug0r/obsidian-fragrantica-plugin
-downloads: 21
-updated at: "2026-07-12T16:13:54Z"
+downloads: 43
+updated at: "2026-08-02T14:25:42Z"
 related to:
   - "[[GitHub - 1275917319]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Search Fragrantica from your notes with the !! trigger to get live autocomplete for perfumes. Insert a markdown link, the perfume's cover image (-i) or a stylized social card (-c) directly into your note."
 
     stats: {
-        downloads:  21
-        updated_at: 1783872834000
+        downloads:  43
+        updated_at: 1785680742000
     }
 }
 ```

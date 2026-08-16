@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/inline-code-highlight
 alt:
   - https://github.com/dimava/inline-code-highlight
-downloads: 5241
+downloads: 5268
 updated at: "2023-08-06T22:54:09Z"
 related to:
   - "[[GitHub - 675428807]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight inline code using language tags to apply syntax coloring directly inside text. Render inline snippets (e.g., TypeScript, JSON, Markdown) with proper formatting so code appears readable within sentences."
 
     stats: {
-        downloads:  5241
+        downloads:  5268
         updated_at: 1691362449000
     }
 }

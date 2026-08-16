@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tengwar
 alt:
   - https://github.com/mikevetkin/obsidian-tengwar
-downloads: 354
+downloads: 383
 updated at: "2025-01-19T22:43:29Z"
 related to:
   - "[[GitHub - 905974822]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Tengwar text by creating fenced code blocks tagged teng (or teng-fontname) to display Elvish script in your notes, with support for ISO-8859-1 and ConScript Unicode Registry encodings. Apply specific Tengwar fonts per note and use with spaced-repetition plugins to study Elvish; editing-mode rendering and some Apple font rendering remain a work in progress."
 
     stats: {
-        downloads:  354
+        downloads:  383
         updated_at: 1737326609000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rollover-daily-todos-with-context
 alt:
   - https://github.com/mjparker/obsidian-rollover-todos-with-context
-downloads: 192
+downloads: 245
 updated at: "2026-05-12T19:44:50Z"
 related to:
   - "[[GitHub - 1232212682]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Rollover Daily Todos carries unfinished checkbox tasks from your last daily note into today’s note so open work doesn’t get lost when the day changes. It works with Obsidian’s built-in Daily notes plugin or Periodic Notes (with daily notes enabled). Rollover can run automatically when you open today’s note, or on demand from the command palette—including a pass that gathers open todos from every past daily note at once. Choose whether yesterday’s tasks stay put, are removed after copy, or are marked forwarded with backlinks. Place rolled items under a template heading, skip empty checkboxes, bring nested lines with parent tasks, and customize which checkbox marks count as done. Commands can move completed tasks to the bottom of each section and undo the last rollover within two minutes."
 
     stats: {
-        downloads:  192
+        downloads:  245
         updated_at: 1778615090000
     }
 }

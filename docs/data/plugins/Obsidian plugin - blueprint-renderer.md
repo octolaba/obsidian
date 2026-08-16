@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/blueprint-renderer
 alt:
   - https://github.com/goderyu/obsidian-blueprint-renderer
-downloads: 828
+downloads: 862
 updated at: "2025-08-02T08:56:52Z"
 related to:
   - "[[GitHub - 997743898]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Unreal Engine Blueprint text pasted into a blueprint code block as interactive node diagrams inside Obsidian notes. Use original BlueprintUE render.js and render.css for full compatibility with all node types, connections, and interactions while scoping styles to avoid conflicts."
 
     stats: {
-        downloads:  828
+        downloads:  862
         updated_at: 1754125012000
     }
 }

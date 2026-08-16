@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/background-image
 alt:
   - https://github.com/shmolf/obsidian-editor-background
-downloads: 30068
+downloads: 30803
 updated at: "2026-07-21T00:18:08Z"
 related to:
   - "[[GitHub - 613023944]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Apply remote-hosted images or animated GIFs as the Editor background to personalize your workspace. Adjust background blur and the editor input area's contrast to balance aesthetics and readability."
 
     stats: {
-        downloads:  30068
+        downloads:  30803
         updated_at: 1784593088000
     }
 }

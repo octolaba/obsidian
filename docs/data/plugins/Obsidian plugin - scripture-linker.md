@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/scripture-linker
 alt:
   - https://github.com/marvive/scripture-linker
-downloads: 143
+downloads: 169
 updated at: "2026-02-08T01:19:15Z"
 related to:
   - "[[GitHub - 1152417378]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scan notes for Bible references and convert them into clickable links to Logos and Bolls Bible. Detect contextual and shorthand references, recognize 500+ book name variants, support multiple translations, and avoid re-linking existing markdown links."
 
     stats: {
-        downloads:  143
+        downloads:  169
         updated_at: 1770513555000
     }
 }

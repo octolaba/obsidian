@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/select-folder
 alt:
   - https://github.com/frogtempest/select-folder
-downloads: 147
+downloads: 201
 updated at: "2026-06-29T09:16:36Z"
 related to:
   - "[[GitHub - 1280125967]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Select folders in the file explorer by clicking their names to highlight them, while the triangle still expands/collapses and multi-select plus other explorer behaviors remain unchanged. Create new notes inside the selected folder using your regular New Note shortcut."
 
     stats: {
-        downloads:  147
+        downloads:  201
         updated_at: 1782724596000
     }
 }

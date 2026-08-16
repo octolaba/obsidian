@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/recent-files-obsidian
 alt:
   - https://github.com/tgrosinger/recent-files-obsidian
-downloads: 1118508
+downloads: 1151373
 updated at: "2026-07-21T21:04:06Z"
 related to:
   - "[[GitHub - 328456386]]"
@@ -28,7 +28,7 @@ Displays a sidebar list of the most recently opened files. Items can be excluded
 plugin: {
     id:     "recent-files-obsidian"
     name:   "Recent Files"
-    author: "tgrosinger"
+    author: "Tony Grosinger"
     repo:   "tgrosinger/recent-files-obsidian"
 
     html_url:    "https://community.obsidian.md/plugins/recent-files-obsidian"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a sidebar list of most recently opened files and exclude items by path, frontmatter tags, or bookmarks. Open files by clicking, drag to editors or folders to create links or move files, and hover to view content previews."
 
     stats: {
-        downloads:  1118508
+        downloads:  1151373
         updated_at: 1784667846000
     }
 }

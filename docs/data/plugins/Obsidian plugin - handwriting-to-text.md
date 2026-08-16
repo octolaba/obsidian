@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/handwriting-to-text
 alt:
   - https://github.com/jirayu3141/handwriting-to-text
-downloads: 291
+downloads: 326
 updated at: "2026-02-21T03:51:23Z"
 related to:
   - "[[GitHub - 1151964590]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transcribe handwritten pages into editable text with Google Gemini AI and insert the result at the cursor in your note. Scan from camera, file, clipboard, or vault; drag and drop images; preview and edit OCR output; and handle HEIC and multilingual handwriting (including Thai) on desktop and mobile."
 
     stats: {
-        downloads:  291
+        downloads:  326
         updated_at: 1771645883000
     }
 }

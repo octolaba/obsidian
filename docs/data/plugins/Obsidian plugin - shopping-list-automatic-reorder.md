@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/shopping-list-automatic-reorder
 alt:
   - https://github.com/joysimple/shopping-list-automatic-reorder
-downloads: 652
+downloads: 1252
 updated at: "2026-05-25T05:37:29Z"
 related to:
   - "[[GitHub - 1222096409]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reorder shopping lists as you check items, keeping active items at the top and moving completed items to the bottom of their Markdown section. Respect section headers, debounce reordering after a short pause, and defer moves while editing to avoid disrupting your typing."
 
     stats: {
-        downloads:  652
+        downloads:  1252
         updated_at: 1779687449000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chronicle-lanes
 alt:
   - https://github.com/roasted-nz/chronicle-lanes
-downloads: 22
+downloads: 39
 updated at: "2026-07-16T09:58:15Z"
 related to:
   - "[[GitHub - 1302584280]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Explore notes as an interactive visual timeline with colour-coded lanes, overlapping ranges, and a compact overview or full explorer with a collapsible note inspector. Add dates and categories from the note context menu to set doc_start/doc_end/timeline-group, play a timelapse, merge or filter lanes, and jump to the active note chronologically."
 
     stats: {
-        downloads:  22
+        downloads:  39
         updated_at: 1784195895000
     }
 }

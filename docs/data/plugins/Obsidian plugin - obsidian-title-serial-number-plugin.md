@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-title-serial-number-plugin
 alt:
   - https://github.com/yalvhe2009/obsidian-title-serial-number-plugin
-downloads: 7935
+downloads: 8016
 updated at: "2026-02-02T02:41:03Z"
 related to:
   - "[[GitHub - 434543692]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add serial numbers to Markdown headings with seven styles including Arabic, Roman, Chinese, and alphabetic. Choose which heading levels to number, set per-level styles and a custom separator, preview changes live, and apply or clear numbers across a document."
 
     stats: {
-        downloads:  7935
+        downloads:  8016
         updated_at: 1770000063000
     }
 }

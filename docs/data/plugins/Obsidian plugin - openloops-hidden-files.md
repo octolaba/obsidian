@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/openloops-hidden-files
 alt:
   - https://github.com/tonymio/openloops-hidden-files
-downloads: 30
+downloads: 59
 updated at: "2026-07-17T17:17:49Z"
 related to:
   - "[[GitHub - 1304165672]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reveal chosen dot-folders (e.g. .github, .obsidian) in Obsidian's file explorer, search, graph, and metadata cache by injecting them into the vault index — no disk writes. Show only folders you name to avoid scanning heavy directories; desktop only and auto-deactivates if Obsidian internals change. Be aware revealed folders become visible to Obsidian features and plugins."
 
     stats: {
-        downloads:  30
+        downloads:  59
         updated_at: 1784308669000
     }
 }

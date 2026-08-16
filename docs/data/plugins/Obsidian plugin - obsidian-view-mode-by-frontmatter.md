@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-view-mode-by-frontmatter
 alt:
   - https://github.com/bwydoogh/obsidian-force-view-mode-of-note
-downloads: 72252
+downloads: 73608
 updated at: "2023-12-07T19:40:27Z"
 related to:
   - "[[GitHub - 393988364]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Force notes to open in a specific view or editing mode by adding obsidianUIMode and obsidianEditingMode to the note's front matter. Ensure notes open in the configured default mode even when a pane is currently in a different mode."
 
     stats: {
-        downloads:  72252
+        downloads:  73608
         updated_at: 1701978027000
     }
 }

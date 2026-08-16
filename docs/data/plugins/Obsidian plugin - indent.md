@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/indent
 alt:
   - https://github.com/pixerojan/obsidian-indent
-downloads: 1437
+downloads: 1692
 updated at: "2026-05-14T12:24:53Z"
 related to:
   - "[[GitHub - 1136792220]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Disable indented code blocks so lines starting with tabs or four+ spaces appear as normal, editable indentation in Live Preview. Rewrite affected line starts with an invisible zero-width non-joiner (U+200C) to break the indented-code rule while leaving YAML, fenced code blocks, lists, and blockquotes untouched."
 
     stats: {
-        downloads:  1437
+        downloads:  1692
         updated_at: 1778761493000
     }
 }

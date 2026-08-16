@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/guozha-ai-pro
 alt:
   - https://github.com/jiahuacaogoodman-art/guozha
-downloads: 129
+downloads: 148
 updated at: "2026-06-17T16:22:59Z"
 related to:
   - "[[GitHub - 1269131274]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with AI in a sidebar using OpenAI-compatible models, get streaming replies and include images for multimodal understanding. Generate images saved to your Vault, let AI read and edit notes with permission, and sync changes across devices via WebDAV with two-way sync and conflict handling."
 
     stats: {
-        downloads:  129
+        downloads:  148
         updated_at: 1781713379000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/octosync
 alt:
   - https://github.com/grumpydev/octosync
-downloads: 306
-updated at: "2026-07-12T10:22:53Z"
+downloads: 386
+updated at: "2026-08-08T07:38:40Z"
 related to:
   - "[[GitHub - 1240492198]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync your vault with a GitHub repository directly using the GitHub API — no local Git required. Preview planned changes before applying, run manual or automatic syncs, detect conflicts to require your decision, with a safety net of a comprehensive test suite. Work from phones, tablets, and locked-down machines."
 
     stats: {
-        downloads:  306
-        updated_at: 1783851773000
+        downloads:  386
+        updated_at: 1786174720000
     }
 }
 ```

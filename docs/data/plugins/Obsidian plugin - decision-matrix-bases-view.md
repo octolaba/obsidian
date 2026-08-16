@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/decision-matrix-bases-view
 alt:
   - https://github.com/jortscity/dmatrix-bases-view
-downloads: 554
+downloads: 573
 updated at: "2026-05-22T08:37:04Z"
 related to:
   - "[[GitHub - 1198560148]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create weighted decision matrices from Bases and edit scores inline, saving changes to frontmatter. Set per-criterion weights, including negatives; convert columns to ranks or normalize scales; view results as a scoring table or ranked podium with tie and blank-vs-zero handling."
 
     stats: {
-        downloads:  554
+        downloads:  573
         updated_at: 1779439024000
     }
 }

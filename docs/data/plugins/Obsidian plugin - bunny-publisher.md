@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bunny-publisher
 alt:
   - https://github.com/ericmwalk/obsidian-bunny-publisher
-downloads: 80
+downloads: 86
 updated at: "2026-05-19T19:21:31Z"
 related to:
   - "[[GitHub - 1105073498]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload images and media from Obsidian to Bunny.net Storage Zones or a custom CDN hostname, automatically converting local embeds into Markdown image links with generated CDN URLs. Use dynamic date-based upload paths, sanitized filenames, real-time progress, optional local-file deletion, and optional AI-generated alt text."
 
     stats: {
-        downloads:  80
+        downloads:  86
         updated_at: 1779218491000
     }
 }

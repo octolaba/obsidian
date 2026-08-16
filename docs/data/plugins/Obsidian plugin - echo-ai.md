@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/echo-ai
 alt:
   - https://github.com/9b9387/obsidian-echo
-downloads: 103
+downloads: 112
 updated at: "2026-05-26T15:28:36Z"
 related to:
   - "[[GitHub - 1218831488]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "It's designed entirely for custom actions and prompts—use it to have AI assist with translation, polishing, continuation, or any content you'd like generated. Combine your own prompts with variables like {{selection}} to create personalized commands that perfectly match your note-taking habits. No predefined functions; everything is fully customizable by you."
 
     stats: {
-        downloads:  103
+        downloads:  112
         updated_at: 1779809316000
     }
 }

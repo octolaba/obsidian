@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/ai-vault
 alt:
   - https://github.com/jamjan05/AI-Vault-for-Obsidian
-downloads: 413
-updated at: "2026-07-13T20:20:56Z"
+downloads: 528
+updated at: "2026-08-09T10:22:38Z"
 related to:
   - "[[GitHub - 1245148846]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Chat with GPT and Claude inside your notes and provide context from your notes and canvases via local RAG indexing. Switch models, organize conversations into projects with separate prompts, save history outside the vault, stream responses, track token costs, and fetch live web results."
 
     stats: {
-        downloads:  413
-        updated_at: 1783974056000
+        downloads:  528
+        updated_at: 1786270958000
     }
 }
 ```

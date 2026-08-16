@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/codefile
 alt:
   - https://github.com/williansaez/code-ref-vault
-downloads: 88
+downloads: 122
 updated at: "2026-07-01T17:25:33Z"
 related to:
   - "[[GitHub - 1286265535]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed a vault file's contents as a syntax-highlighted code block, inferring language from the file extension and supporting line ranges or single-line targets. Render with Obsidian's code renderer (theme and copy button preserved) and auto-update blocks when the source file is saved or renamed, with an optional clickable file-path header."
 
     stats: {
-        downloads:  88
+        downloads:  122
         updated_at: 1782926733000
     }
 }

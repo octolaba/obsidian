@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/samepage
 alt:
   - https://github.com/samepage-network/obsidian-samepage
-downloads: 5393
+downloads: 5402
 updated at: "2023-07-04T03:42:22Z"
 related to:
   - "[[GitHub - 523816845]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect your Obsidian vault to other notebooks via the SamePage protocol to sync changes and run cross-notebook queries. Treat shared data as public and expect beta instability and a high risk of data loss."
 
     stats: {
-        downloads:  5393
+        downloads:  5402
         updated_at: 1688442142000
     }
 }

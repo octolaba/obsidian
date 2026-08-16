@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/pf2e-statblocks
 alt:
   - https://github.com/pixley/pf2e-statblock-for-obsidian
-downloads: 13155
-updated at: "2026-01-23T20:21:26Z"
+downloads: 13320
+updated at: "2026-08-09T17:07:09Z"
 related to:
   - "[[GitHub - 729888479]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create Pathfinder Second Edition (or Starfinder 2e) statblocks in Obsidian using pf2e-stats or sf2e-stats Markdown codeblocks. Render styled statblocks with heading-based name/level, trait highlighting (==Trait==), automatic size/rarity coloring, action icons, dividers, and compact brief formats."
 
     stats: {
-        downloads:  13155
-        updated_at: 1769199686000
+        downloads:  13320
+        updated_at: 1786295229000
     }
 }
 ```

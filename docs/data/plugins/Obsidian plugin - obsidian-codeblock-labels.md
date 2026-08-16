@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-codeblock-labels
 alt:
   - https://github.com/stbowers/obsidian-codeblock-labels
-downloads: 5088
+downloads: 5106
 updated at: "2022-01-28T01:25:38Z"
 related to:
   - "[[GitHub - 452872701]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render labels for fenced code blocks by placing a label in curly braces after the language specifier on the first line. Style labels and adjacent code blocks with the generated codeblock-label CSS class, fall back to using the language as a label if none is provided, and note that live preview isn't supported."
 
     stats: {
-        downloads:  5088
+        downloads:  5106
         updated_at: 1643333138000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/flow-tick
 alt:
   - https://github.com/dbachelor110/flow-tick
-downloads: 135
+downloads: 153
 updated at: "2026-06-13T16:04:22Z"
 related to:
   - "[[GitHub - 1106072227]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate and auto-update visual progress bars from checklists in your notes, tracking completion across items and nested subtasks. Display multiple bars per file, average parent-task progress from direct subtasks, and change bar color to reflect completion (red, green, blue)."
 
     stats: {
-        downloads:  135
+        downloads:  153
         updated_at: 1781366662000
     }
 }

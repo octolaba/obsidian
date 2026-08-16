@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/property-kanban
 alt:
   - https://github.com/maitake4211/property-kanban
-downloads: 41
-updated at: "2026-07-17T11:45:23Z"
+downloads: 127
+updated at: "2026-08-10T09:03:43Z"
 related to:
   - "[[GitHub - 1303868256]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create a Kanban board driven by note frontmatter that keeps notes as the single source of truth and updates note properties as you move or edit cards. Group cards by any frontmatter field with swimlanes, drag and drop between columns or lanes to update frontmatter instantly, and sync file changes in real time."
 
     stats: {
-        downloads:  41
-        updated_at: 1784288723000
+        downloads:  127
+        updated_at: 1786352623000
     }
 }
 ```

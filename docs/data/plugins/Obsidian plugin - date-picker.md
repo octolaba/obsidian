@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/date-picker
 alt:
   - https://github.com/rzbin/date-picker
-downloads: 238
+downloads: 283
 updated at: "2026-06-16T05:39:03Z"
 related to:
   - "[[GitHub - 1092302289]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Pick dates with an inline calendar view and open a visual date picker from the calendar icon next to date links. Easy to use, with proper customization."
 
     stats: {
-        downloads:  238
+        downloads:  283
         updated_at: 1781588343000
     }
 }

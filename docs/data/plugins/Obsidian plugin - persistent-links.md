@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/persistent-links
 alt:
   - https://github.com/ivan-lednev/obsidian-persistent-links
-downloads: 7310
+downloads: 7361
 updated at: "2023-04-17T15:35:33Z"
 related to:
   - "[[GitHub - 627387363]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep wiki links to headings and blocks intact when you move or cut-and-paste content by automatically updating their targets. Repair broken wiki links in a file by scanning the metadata cache to find relocated headings or blocks; updates run automatically on cut/paste and can be triggered manually."
 
     stats: {
-        downloads:  7310
+        downloads:  7361
         updated_at: 1681745733000
     }
 }

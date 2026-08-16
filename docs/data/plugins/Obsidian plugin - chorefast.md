@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chorefast
 alt:
   - https://github.com/webinspectinc/obsidian-chorefast
-downloads: 26
+downloads: 44
 updated at: "2026-07-14T22:03:38Z"
 related to:
   - "[[GitHub - 1299436419]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "A simple task list that allows you to randomly select your next chore. Removes the barrier to entry and helps you finish your chores in no time!"
 
     stats: {
-        downloads:  26
+        downloads:  44
         updated_at: 1784066618000
     }
 }

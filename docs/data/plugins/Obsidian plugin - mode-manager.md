@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mode-manager
 alt:
   - https://github.com/dk949/obsidian-mode-manager
-downloads: 1139
+downloads: 1219
 updated at: "2026-02-26T18:04:37Z"
 related to:
   - "[[GitHub - 939938052]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Switch to specific editor modes—reading, source, or live preview—using dedicated commands instead of the default toggle. Set a file-level special property (default-mode) to open files in a chosen mode or cycle through modes sequentially."
 
     stats: {
-        downloads:  1139
+        downloads:  1219
         updated_at: 1772129077000
     }
 }

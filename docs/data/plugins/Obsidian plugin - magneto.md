@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/magneto
 alt:
   - https://github.com/vishal-go/magneto
-downloads: 102
+downloads: 117
 updated at: "2026-05-16T15:05:26Z"
 related to:
   - "[[GitHub - 1148502974]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Sync your Obsidian vault to a GitHub repository from mobile or desktop without installing Git locally. Push and pull all files (including images and PDFs), use private repos, exclude folders or files, and schedule automatic syncs at regular intervals."
 
     stats: {
-        downloads:  102
+        downloads:  117
         updated_at: 1778943926000
     }
 }

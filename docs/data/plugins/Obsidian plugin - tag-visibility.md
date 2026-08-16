@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tag-visibility
 alt:
   - https://github.com/prisant-labs/obsidian-tag-visibility
-downloads: 18
+downloads: 45
 updated at: "2026-07-19T06:03:01Z"
 related to:
   - "[[GitHub - 1225826522]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Control tag visibility across Obsidian's UI without modifying your notes; hide or flag tags display-only and reversible. Use a dockable Tag Visibility panel to view every tag, apply rules and per-tag overrides, and see live diagnostics alongside the native tag pane."
 
     stats: {
-        downloads:  18
+        downloads:  45
         updated_at: 1784440981000
     }
 }

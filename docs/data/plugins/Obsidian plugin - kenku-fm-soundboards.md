@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kenku-fm-soundboards
 alt:
   - https://github.com/ratokuzmanic/obsidian-kenku-fm-soundboards
-downloads: 121
+downloads: 131
 updated at: "2026-05-20T13:42:23Z"
 related to:
   - "[[GitHub - 1112170272]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Control playback of Kenku FM soundboards from Obsidian. Play and stop tracks via commands, set the Kenku FM remote play URL, and reload soundboard data when the plugin goes out of sync."
 
     stats: {
-        downloads:  121
+        downloads:  131
         updated_at: 1779284543000
     }
 }

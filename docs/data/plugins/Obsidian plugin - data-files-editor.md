@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/data-files-editor
 alt:
   - https://github.com/zuktol/obsidian-data-files-editor
-downloads: 25538
+downloads: 26818
 updated at: "2026-02-12T05:51:15Z"
 related to:
   - "[[GitHub - 695616475]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit and create .txt, .json, and .xml files directly in Obsidian. Add new files from the file-tree context menu—create inside a folder or alongside a selected file to keep files organized."
 
     stats: {
-        downloads:  25538
+        downloads:  26818
         updated_at: 1770875475000
     }
 }

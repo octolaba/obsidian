@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/advanced-audio-recorder
 alt:
   - https://github.com/akhmialeuski/advanced-audio-recorder
-downloads: 718
-updated at: "2026-07-16T18:00:55Z"
+downloads: 1163
+updated at: "2026-08-03T16:41:10Z"
 related to:
   - "[[GitHub - 1148273327]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Record audio with pause/resume, multi-track capture from up to eight input devices, and live status-bar and ribbon feedback. Save recordings to any vault folder or next to the active note in WAV, MP3, FLAC, OGG, WebM, MP4, M4A or AAC, convert formats, insert links into notes, and run diagnostics or test recordings."
 
     stats: {
-        downloads:  718
-        updated_at: 1784224855000
+        downloads:  1163
+        updated_at: 1785775270000
     }
 }
 ```

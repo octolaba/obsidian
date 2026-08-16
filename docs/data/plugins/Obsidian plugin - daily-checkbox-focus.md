@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-checkbox-focus
 alt:
   - https://github.com/geokhv/obsidian-daily-checkbox-focus
-downloads: 103
+downloads: 112
 updated at: "2026-06-19T11:53:47Z"
 related to:
   - "[[GitHub - 1244412678]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move the editor cursor to the first truly empty checkbox in daily notes named YYYY-MM-DD.md, placing the cursor at the end of that checkbox line. Provide manual commands to jump to or debug the first empty checkbox, and ignore checkboxes inside fenced code blocks, callouts, and blockquotes."
 
     stats: {
-        downloads:  103
+        downloads:  112
         updated_at: 1781870027000
     }
 }

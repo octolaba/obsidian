@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/lucrjournal
 alt:
   - https://github.com/lucrtrade/lucrjournal-obsidian-plugin
-downloads: 224
-updated at: "2026-06-02T17:44:19Z"
+downloads: 290
+updated at: "2026-07-29T08:41:29Z"
 related to:
   - "[[GitHub - 1253574981]]"
 remind me:
@@ -28,7 +28,7 @@ Records trades as local Markdown files and links each entry to its key levels, c
 plugin: {
     id:     "lucrjournal"
     name:   "LucrJournal"
-    author: "toadfans"
+    author: "lucrtrade2"
     repo:   "lucrtrade/lucrjournal-obsidian-plugin"
 
     html_url:    "https://community.obsidian.md/plugins/lucrjournal"
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage and review positions, playbooks, criteria, symbols, accounts and market analysis in a focused local Obsidian workspace. Record trades with execution, risk and account context, attach screenshots and chart evidence, extract fields with OCR, and review performance from dashboard views while keeping everything as local Markdown and attachments."
 
     stats: {
-        downloads:  224
-        updated_at: 1780422259000
+        downloads:  290
+        updated_at: 1785314489000
     }
 }
 ```

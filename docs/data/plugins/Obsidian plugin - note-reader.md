@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-reader
 alt:
   - https://github.com/mudnug/note-reader
-downloads: 1424
+downloads: 1833
 updated at: "2026-06-18T03:02:06Z"
 related to:
   - "[[GitHub - 1088604768]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform notes and clipped articles into immersive audio with high-quality online or on-device TTS and customizable voices. Read aloud with real-time word highlighting, guided scrolling, resume position, content and phrase filtering, and media-key playback controls."
 
     stats: {
-        downloads:  1424
+        downloads:  1833
         updated_at: 1781751726000
     }
 }

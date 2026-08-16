@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-columns
 alt:
   - https://github.com/tnichols217/obsidian-columns
-downloads: 87454
+downloads: 89193
 updated at: "2024-11-30T21:23:20Z"
 related to:
   - "[[GitHub - 457317293]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create responsive multi-column layouts in Obsidian notes using callout, codeblock, or list syntaxes. Enable mobile column wrapping, choose live-preview-compatible callout or codeblock modes, and nest columns with adjustable widths for flexible layouts."
 
     stats: {
-        downloads:  87454
+        downloads:  89193
         updated_at: 1733001800000
     }
 }

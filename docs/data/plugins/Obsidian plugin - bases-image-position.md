@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bases-image-position
 alt:
   - https://github.com/luceast/obsidian-bases-image-position
-downloads: 357
+downloads: 390
 updated at: "2026-02-04T13:44:58Z"
 related to:
   - "[[GitHub - 1149201227]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Control image positioning in Bases card views via note frontmatter to keep subjects from being cropped out. Set quick presets (center, edges, corners) or enter precise offsets with common CSS units, and rename the frontmatter keys in settings to match your workflow."
 
     stats: {
-        downloads:  357
+        downloads:  390
         updated_at: 1770212698000
     }
 }

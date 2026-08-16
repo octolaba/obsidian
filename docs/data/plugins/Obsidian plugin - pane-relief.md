@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pane-relief
 alt:
   - https://github.com/pjeby/pane-relief
-downloads: 160086
+downloads: 161300
 updated at: "2025-02-22T08:49:04Z"
 related to:
   - "[[GitHub - 347854655]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage tabs and groups with browser-style navigation and persistent per-tab history that survives restarts, plus commands to move, switch, and rearrange tabs and windows. Maximize tabs intelligently, lock sidebar focus, close tabs activating adjacent ones, and toggle a sliding-panes mode for stacked tabs."
 
     stats: {
-        downloads:  160086
+        downloads:  161300
         updated_at: 1740214144000
     }
 }

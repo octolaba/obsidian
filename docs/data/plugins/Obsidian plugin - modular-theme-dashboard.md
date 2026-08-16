@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/modular-theme-dashboard
 alt:
   - https://github.com/liamzy2021/Obsidian--Modular-Theme-Dashboard-Free-Drag-and-Drop
-downloads: 1218
+downloads: 1626
 updated at: "2026-07-14T07:03:37Z"
 related to:
   - "[[GitHub - 1256664781]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "AI Custom Language：Supports global languages and Chinese dialects. Works with all OpenAI-compatible APIs. Translates 500+ UI entries in one minute. Custom languages save permanently with a badge for quick switch. Drag-and-Drop Layout：Free canvas positioning. Move and resize all modules freely. Layouts auto-save and stay stable after restart. 25 Built-in Modules：No extra downloads. Covers weather, calendar, note stats, to-do, recent files, news, directory, AI insight, web/media viewer, code/table editors, doc preview, XHS import and Excel-Markdown conversion. Utility Tools：Folder count display, image editing, table resizing, media auto-loop. Unlimited Instancing：Clone any module infinitely. Each instance has independent settings and unique IDs. Multi-format Viewer：Supports Excel, Word, PPT, code, images and videos. Toggleable format support. 8 Themes：Dawn, Sabi, Dusk, Coastal, Harvest, Ink, Linen, Carbon. Customizable background color and transparency."
 
     stats: {
-        downloads:  1218
+        downloads:  1626
         updated_at: 1784012617000
     }
 }

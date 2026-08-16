@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/spark-memo
 alt:
   - https://github.com/houjoe0829/sparkmemo
-downloads: 48
-updated at: "2026-07-11T16:00:30Z"
+downloads: 146
+updated at: "2026-08-06T04:02:14Z"
 related to:
   - "[[GitHub - 1288859686]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Capture thoughts, voice, photos, or audio in a quick-capture sidebar and append them to today's daily note. Convert pasted photos' EXIF time/GPS into memos timestamped and geo-linked; highlight HH:MM timestamps, roll up tags and locations, and view a yearly heatmap or a random past memo."
 
     stats: {
-        downloads:  48
-        updated_at: 1783785630000
+        downloads:  146
+        updated_at: 1785988934000
     }
 }
 ```

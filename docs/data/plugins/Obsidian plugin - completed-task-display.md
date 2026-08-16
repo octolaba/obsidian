@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/completed-task-display
 alt:
   - https://github.com/heliostatic/completed-task-display
-downloads: 56727
+downloads: 57196
 updated at: "2025-12-16T18:32:48Z"
 related to:
   - "[[GitHub - 326733741]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle visibility of completed tasks across your vault with a single click or command. Use a ribbon button, command palette, and status-bar indicator; optionally hide indented sub-bullets, preserve custom task statuses like [?] or [!], and keep your preference persistent across sessions."
 
     stats: {
-        downloads:  56727
+        downloads:  57196
         updated_at: 1765909968000
     }
 }

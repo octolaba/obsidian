@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/hotkeys-cheatsheet
 alt:
   - https://github.com/awaragi/obsidian-hotkeys-cheatsheet
-downloads: 797
-updated at: "2026-07-10T12:59:35Z"
+downloads: 1653
+updated at: "2026-08-04T23:35:43Z"
 related to:
   - "[[GitHub - 1272678156]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Open a live, searchable reference card for all Obsidian keyboard shortcuts in a newspaper-style multi-column layout with OS-aware key badges and special key icons. Filter and search in real time, browse categorized collapsible sections, and show only shortcuts with selected modifier combos."
 
     stats: {
-        downloads:  797
-        updated_at: 1783688375000
+        downloads:  1653
+        updated_at: 1785886543000
     }
 }
 ```

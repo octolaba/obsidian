@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/garble-text
 alt:
   - https://github.com/kurakart/garble-text
-downloads: 7148
+downloads: 7171
 updated at: "2021-08-25T14:46:17Z"
 related to:
   - "[[GitHub - 387729116]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle a garbled view across the entire app to hide sensitive text and blur images for safe screenshots. Reveal original content on hover to verify details without disabling the garble, covering notes, sidebars and other UI elements."
 
     stats: {
-        downloads:  7148
+        downloads:  7171
         updated_at: 1629902777000
     }
 }

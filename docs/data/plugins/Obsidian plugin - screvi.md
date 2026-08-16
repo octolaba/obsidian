@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/screvi
 alt:
   - https://github.com/pedroaraujo74/screvi-obsidian-plugin
-downloads: 752
-updated at: "2026-05-12T21:33:29Z"
+downloads: 832
+updated at: "2026-08-05T10:34:20Z"
 related to:
   - "[[GitHub - 1029787329]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Export and sync Screvi highlights to Obsidian automatically or on demand. Organize highlights into source-specific notes (books, articles, tweets, etc.) and keep them updated at regular intervals. Ensure you have a Screvi account with an active trial or subscription. https://screvi.com"
 
     stats: {
-        downloads:  752
-        updated_at: 1778621609000
+        downloads:  832
+        updated_at: 1785926060000
     }
 }
 ```

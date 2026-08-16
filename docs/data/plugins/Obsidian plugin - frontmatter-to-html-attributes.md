@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/frontmatter-to-html-attributes
 alt:
   - https://github.com/illdepence/obsidian-frontmatter-to-html-attributes
-downloads: 306
+downloads: 324
 updated at: "2026-03-06T22:43:25Z"
 related to:
   - "[[GitHub - 1056405023]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Expose YAML frontmatter as data-* attributes on a note's HTML container for CSS-based metadata styling. Target those data attributes in CSS selectors to style notes by frontmatter values — lists and objects serialize to JSON while primitives become strings."
 
     stats: {
-        downloads:  306
+        downloads:  324
         updated_at: 1772837005000
     }
 }

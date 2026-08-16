@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/just-calendar
 alt:
   - https://github.com/aidistan/obsidian-just-calendar
-downloads: 146
+downloads: 162
 updated at: "2026-06-23T07:02:10Z"
 related to:
   - "[[GitHub - 1179470016]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a compact calendar synced bidirectionally with Obsidian's Daily Notes. Jump quickly between months and years and navigate entirely via keyboard or mouse-wheel scrolling."
 
     stats: {
-        downloads:  146
+        downloads:  162
         updated_at: 1782198130000
     }
 }

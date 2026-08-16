@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/calctex
 alt:
   - https://github.com/developer-mike/obsidian-calctex
-downloads: 9441
+downloads: 9548
 updated at: "2026-05-21T15:13:07Z"
 related to:
   - "[[GitHub - 694240421]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Calculate LaTeX formulas inline using the CortexJS Compute Engine. Add an \"=\" after a formula to display its solution and click the result to insert it into your note."
 
     stats: {
-        downloads:  9441
+        downloads:  9548
         updated_at: 1779376387000
     }
 }

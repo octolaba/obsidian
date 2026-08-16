@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ya-gpt
 alt:
   - https://github.com/logotipza/obsidian-ya-gpt
-downloads: 390
+downloads: 524
 updated at: "2026-05-18T09:40:54Z"
 related to:
   - "[[GitHub - 1191863768]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with multi-provider AI in a persistent sidebar panel and pull context from your vault for RAG-based answers and date-aware search. Search notes by content or date, add the current note to context with one click, edit selected text inline with AI actions and replace it; view sources and open referenced notes directly."
 
     stats: {
-        downloads:  390
+        downloads:  524
         updated_at: 1779097254000
     }
 }

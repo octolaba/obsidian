@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/whatsapp-backup
 alt:
   - https://github.com/luigicerone/obsidian-whatsapp-backup-importer
-downloads: 1024
+downloads: 1064
 updated at: "2025-02-04T18:57:38Z"
 related to:
   - "[[GitHub - 863918578]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import exported WhatsApp chat archives (.zip) into your vault and convert messages into organized Markdown files. Store photos, videos, and other attachments in subfolders and insert links to them inside the imported chat notes in a folder you choose."
 
     stats: {
-        downloads:  1024
+        downloads:  1064
         updated_at: 1738695458000
     }
 }

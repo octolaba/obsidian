@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/awesome-task-manager
 alt:
   - https://github.com/chefrocker/awesome-task-manager
-downloads: 422
+downloads: 484
 updated at: "2026-05-19T21:47:15Z"
 related to:
   - "[[GitHub - 1189419250]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage tasks visually with a custom dashboard that organizes work across Today, Week, Open, and All tabs. Edit tasks inline, apply smart automations for status transitions and completion dates, attach and manage images, and export task lists to Excel with formatting and formulas."
 
     stats: {
-        downloads:  422
+        downloads:  484
         updated_at: 1779227235000
     }
 }

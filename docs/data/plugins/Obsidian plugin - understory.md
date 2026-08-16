@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/understory
 alt:
   - https://github.com/fyaic/Understory-Obsidian-Plugin
-downloads: 274
-updated at: "2026-07-23T07:22:31Z"
+downloads: 434
+updated at: "2026-08-07T03:02:01Z"
 related to:
   - "[[GitHub - 1272843107]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Understory is a sustained memory maintenance and constant analysis layer for agents that need to acquire, preserve, and update state across long horizons. The Obsidian-plugin version helps you and your agents see related notes, catch stale knowledge, and give agents a safe map of your vault when you choose to use one."
 
     stats: {
-        downloads:  274
-        updated_at: 1784791351000
+        downloads:  434
+        updated_at: 1786071721000
     }
 }
 ```

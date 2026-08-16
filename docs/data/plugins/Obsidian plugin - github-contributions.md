@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/github-contributions
 alt:
   - https://github.com/gearheaded/obsidian-github-contributions
-downloads: 118
+downloads: 149
 updated at: "2026-06-22T00:00:14Z"
 related to:
   - "[[GitHub - 1266606617]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View GitHub and local Git contributions in the Obsidian sidebar with a year or month heatmap, streak tracking, per-repo tooltips, and multiple color palettes. Click any day to open or create the matching daily note, browse years/months, and see stats like total contributions and streaks."
 
     stats: {
-        downloads:  118
+        downloads:  149
         updated_at: 1782086414000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/audio-sidebar
 alt:
   - https://github.com/pjeurien/obsidian-audio-sidebar
-downloads: 478
-updated at: "2026-05-20T03:53:27Z"
+downloads: 721
+updated at: "2026-08-04T16:34:33Z"
 related to:
   - "[[GitHub - 1217207270]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add a persistent audio player to the right sidebar that keeps playing across note navigation and scrolling. Load entire folders of audio (mp3, wav, ogg, flac, m4a, webm, aac), search and play tracks, choose single-track or overlapping playback, set master/music/SFX volumes, enable fades/crossfades and looping, and open a searchable SFX picker. Embed clickable buttons in notes to load folders or trigger one-shot SFX."
 
     stats: {
-        downloads:  478
-        updated_at: 1779249207000
+        downloads:  721
+        updated_at: 1785861273000
     }
 }
 ```

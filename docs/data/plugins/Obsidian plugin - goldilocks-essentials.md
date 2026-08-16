@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/goldilocks-essentials
 alt:
   - https://github.com/sachio222/obsidian-goldilocks-essentials
-downloads: 183
+downloads: 213
 updated at: "2026-06-02T16:43:02Z"
 related to:
   - "[[GitHub - 1214526995]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Enable a curated kit of small, opt-in UX tweaks: renameable colored tabs, smart new-note placement into the last-clicked folder, a Print… command for markdown files, quick E-to-edit toggle, and a Community Plugins sidebar button. Toggle each feature individually; conflicting standalone plugins are auto-detected and skipped."
 
     stats: {
-        downloads:  183
+        downloads:  213
         updated_at: 1780418582000
     }
 }

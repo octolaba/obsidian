@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/o-tie
 alt:
   - https://github.com/andre482/O-tie
-downloads: 120
+downloads: 129
 updated at: "2026-06-27T21:10:52Z"
 related to:
   - "[[GitHub - 1267287109]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and edit risk bowtie diagrams inside your vault with an interactive visual editor that models hazards, threats, prevention and mitigation barriers, top events, and consequences. Use pan/zoom, barrier stacks, escalation factors, per-barrier analysis, undo/redo and PNG export with changes auto-saving to .bowtie files."
 
     stats: {
-        downloads:  120
+        downloads:  129
         updated_at: 1782594652000
     }
 }

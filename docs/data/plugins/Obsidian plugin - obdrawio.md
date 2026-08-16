@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obdrawio
 alt:
   - https://github.com/hanzhichao/obdrawio
-downloads: 2235
+downloads: 2491
 updated at: "2026-05-15T05:10:42Z"
 related to:
   - "[[GitHub - 1239411306]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit and manage draw.io (.drawio/.dio) diagrams directly inside Obsidian with a fully embedded draw.io editor supporting flowcharts, UML, wireframes, ERDs and more. Auto-save changes to your vault, match Obsidian's light/dark theme, and insert diagram links into notes via a searchable picker."
 
     stats: {
-        downloads:  2235
+        downloads:  2491
         updated_at: 1778821842000
     }
 }

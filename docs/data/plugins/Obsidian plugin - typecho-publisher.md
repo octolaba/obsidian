@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/typecho-publisher
 alt:
   - https://github.com/skyue/obsidian-typecho-publisher
-downloads: 91
+downloads: 109
 updated at: "2026-06-22T12:21:43Z"
 related to:
   - "[[GitHub - 1270204559]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish Obsidian notes to a Typecho blog via XML-RPC with one-click create or update of posts. Upload images to Cloudflare R2 or Typecho media library with upload caching, map frontmatter fields with strict type validation, convert wiki-links to post URLs, and strip sections by heading before publishing."
 
     stats: {
-        downloads:  91
+        downloads:  109
         updated_at: 1782130903000
     }
 }

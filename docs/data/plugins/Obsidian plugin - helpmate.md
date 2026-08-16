@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/helpmate
 alt:
   - https://github.com/tfthacker/obsidian42-HelpMate
-downloads: 18094
+downloads: 18607
 updated at: "2026-04-18T17:40:48Z"
 related to:
   - "[[GitHub - 722992217]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View help pages for installed plugins and themes in a dedicated side pane within Obsidian. Load help sites with an embedded web browser and keep a live internet connection to retrieve content."
 
     stats: {
-        downloads:  18094
+        downloads:  18607
         updated_at: 1776534048000
     }
 }

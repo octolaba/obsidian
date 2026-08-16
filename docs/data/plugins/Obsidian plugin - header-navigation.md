@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/header-navigation
 alt:
   - https://github.com/talwrii/obsidian-header-navigation
-downloads: 1439
+downloads: 1486
 updated at: "2024-12-08T18:40:25Z"
 related to:
   - "[[GitHub - 895744828]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Navigate quickly between Markdown headers and jump to specific sections. Toggle folding for any header to collapse or expand sections and manage document structure."
 
     stats: {
-        downloads:  1439
+        downloads:  1486
         updated_at: 1733683225000
     }
 }

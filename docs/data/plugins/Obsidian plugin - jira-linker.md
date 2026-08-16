@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jira-linker
 alt:
   - https://github.com/srz2/obsidian-jira-linker
-downloads: 4356
+downloads: 4390
 updated at: "2024-06-23T01:37:18Z"
 related to:
   - "[[GitHub - 709124728]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Link Jira issues to their web URLs or to local issue folders and files directly from the editor. Insert links to a default or specified Jira instance, support multiple instances, and create missing local issue paths and a main info file automatically."
 
     stats: {
-        downloads:  4356
+        downloads:  4390
         updated_at: 1719106638000
     }
 }

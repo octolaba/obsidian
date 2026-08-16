@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chinese-comprehensible-input
 alt:
   - https://github.com/davadev/obsidian_chinese_comprehensible_input
-downloads: 348
+downloads: 388
 updated at: "2026-06-24T05:38:22Z"
 related to:
   - "[[GitHub - 1264942522]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn any Chinese note into a learner-friendly comprehensible-input reading environment. Use dictionary-aware tokenization, exposure tracking, built-in SRS, and optional OpenAI-compatible AI story generation to promote reading-based retention on desktop and mobile."
 
     stats: {
-        downloads:  348
+        downloads:  388
         updated_at: 1782279502000
     }
 }

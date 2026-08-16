@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/best-downloader
 alt:
   - https://github.com/trikorka/BestDownloader
-downloads: 203
+downloads: 260
 updated at: "2026-07-05T20:13:04Z"
 related to:
   - "[[GitHub - 1283809168]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Download videos and audio directly into your vault using yt-dlp. Save audio-only (MP3/M4A/OPUS) or video+audio (MP4/WebM), choose vault folders for downloads, and run on Obsidian desktop (requires yt-dlp and FFmpeg for muxing). Supports English and Russian languages."
 
     stats: {
-        downloads:  203
+        downloads:  260
         updated_at: 1783282384000
     }
 }

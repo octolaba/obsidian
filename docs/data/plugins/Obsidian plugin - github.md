@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/github
 alt:
   - https://github.com/kazhuravlev/obsidian-github
-downloads: 2279
+downloads: 2348
 updated at: "2025-08-30T14:52:03Z"
 related to:
   - "[[GitHub - 969325199]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import starred GitHub repositories into your Obsidian vault as individual notes with rich metadata and direct links. Create automatic tags for language and topics, store repo fields (owner, URL, stars, created/modified), and sync incrementally to update only new stars."
 
     stats: {
-        downloads:  2279
+        downloads:  2348
         updated_at: 1756565523000
     }
 }

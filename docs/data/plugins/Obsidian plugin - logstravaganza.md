@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/logstravaganza
 alt:
   - https://github.com/czottmann/obsidian-logstravaganza
-downloads: 11598
+downloads: 11879
 updated at: "2025-11-18T12:40:07Z"
 related to:
   - "[[GitHub - 638505184]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Log all console output and uncaught exceptions (including async/promise errors on the main thread) to a file in your vault. Write logs as NDJSON, Markdown table, or code-block entries with device-stamped filenames to simplify collecting and sharing debug output."
 
     stats: {
-        downloads:  11598
+        downloads:  11879
         updated_at: 1763469607000
     }
 }

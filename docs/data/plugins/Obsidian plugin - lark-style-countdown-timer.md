@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lark-style-countdown-timer
 alt:
   - https://github.com/moshiqaq/obsidian-lark-countdown-plugin
-downloads: 520
+downloads: 546
 updated at: "2025-11-18T09:22:10Z"
 related to:
   - "[[GitHub - 1065795538]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert Lark-style countdown blocks that render a live, localized (English/中文) timer with ribbon digits and smooth hover actions. Edit target date/time, label and color inline without leaving the note and add timers anywhere via the command palette, with per-note ISO timestamp and color stored in the code block."
 
     stats: {
-        downloads:  520
+        downloads:  546
         updated_at: 1763457730000
     }
 }

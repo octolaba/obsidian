@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/url-namer
 alt:
   - https://github.com/zfei/obsidian-url-namer
-downloads: 8395
+downloads: 8485
 updated at: "2026-04-17T11:40:23Z"
 related to:
   - "[[GitHub - 522842031]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert plain URLs in selected text into Markdown links labeled with each page's title. Auto-name pasted URLs, skip already-linked URLs, extract titles from HTML, og:title and twitter:title, and fall back gracefully when offline."
 
     stats: {
-        downloads:  8395
+        downloads:  8485
         updated_at: 1776426023000
     }
 }

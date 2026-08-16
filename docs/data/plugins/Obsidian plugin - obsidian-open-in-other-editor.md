@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-open-in-other-editor
 alt:
   - https://github.com/yekingyan/obsidian-open-in-other-editor
-downloads: 6845
+downloads: 6870
 updated at: "2023-06-13T14:20:01Z"
 related to:
   - "[[GitHub - 532317453]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open the active note in gVim, VS Code, or nvim-qt directly from Obsidian. Invoke the Open in other command from the palette and ensure the editor's CLI command (code, gvim, nvim-qt) is available on your system."
 
     stats: {
-        downloads:  6845
+        downloads:  6870
         updated_at: 1686666001000
     }
 }

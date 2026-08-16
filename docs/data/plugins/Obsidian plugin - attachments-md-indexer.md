@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/attachments-md-indexer
 alt:
   - https://github.com/iinkov/obsidian-attachments-md-indexer
-downloads: 3361
+downloads: 3471
 updated at: "2026-03-28T16:06:10Z"
 related to:
   - "[[GitHub - 924230284]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create searchable Markdown index files for attachments (Canvas, PDFs, images) to expose their content and outgoing links in Obsidian's graph and search. Extract text from PDFs and images, automatically sync updates and deletions, and make attachments accessible to Markdown-focused plugins and AI chat tools."
 
     stats: {
-        downloads:  3361
+        downloads:  3471
         updated_at: 1774713970000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/codeblock-language-detector
 alt:
   - https://github.com/bueckerlars/obsidian-codeblock-language-detector
-downloads: 781
-updated at: "2026-05-29T15:31:20Z"
+downloads: 937
+updated at: "2026-07-26T10:54:58Z"
 related to:
   - "[[GitHub - 1042825606]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Detect and tag fenced code blocks with language identifiers to enable correct syntax highlighting. Use Highlight.js and pattern matching to recognize 70+ languages, run automatically or on demand, and keep an undoable history of detections."
 
     stats: {
-        downloads:  781
-        updated_at: 1780068680000
+        downloads:  937
+        updated_at: 1785063298000
     }
 }
 ```

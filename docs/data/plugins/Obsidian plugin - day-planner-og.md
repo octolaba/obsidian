@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/day-planner-og
 alt:
   - https://github.com/ebullient/obsidian-day-planner-og
-downloads: 35174
+downloads: 35843
 updated at: "2026-06-18T21:58:57Z"
 related to:
   - "[[GitHub - 685307840]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Plan your day with pomodoro-style timed blocks, drag-and-drop tasks and a weekly view. Track progress with a visual gauge, status-bar updates and block-end notifications, view tasks on a vertical timeline, and auto-mark and highlight current and past blocks in the linked note."
 
     stats: {
-        downloads:  35174
+        downloads:  35843
         updated_at: 1781819937000
     }
 }

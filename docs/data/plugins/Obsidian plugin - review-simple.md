@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/review-simple
 alt:
   - https://github.com/citrusrenegade/review-simple-obsidian
-downloads: 372
+downloads: 391
 updated at: "2026-06-12T14:41:42Z"
 related to:
   - "[[GitHub - 1211780241]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Schedule recurring rereads and record last-review dates directly in each note's frontmatter. Display per-note review status and a vault-wide due counter, apply global/folder/per-note intervals with folder include/exclude filtering, and open or mark due notes via commands or status-bar clicks."
 
     stats: {
-        downloads:  372
+        downloads:  391
         updated_at: 1781275302000
     }
 }

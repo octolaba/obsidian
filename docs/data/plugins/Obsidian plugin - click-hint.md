@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/click-hint
 alt:
   - https://github.com/kbwo/obsidian-click-hint
-downloads: 503
+downloads: 514
 updated at: "2024-11-04T08:47:41Z"
 related to:
   - "[[GitHub - 881949422]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Navigate to any clickable element using keyboard-driven hints that label links, buttons and other targets. Customize hint characters, jump to internal or external links, and see visual feedback for partial matches."
 
     stats: {
-        downloads:  503
+        downloads:  514
         updated_at: 1730710061000
     }
 }

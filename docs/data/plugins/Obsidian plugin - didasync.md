@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/didasync
 alt:
   - https://github.com/cyzice/Obsidian-DidaSync
-downloads: 1717
-updated at: "2026-07-23T08:53:26Z"
+downloads: 2105
+updated at: "2026-08-08T05:25:11Z"
 related to:
   - "[[GitHub - 1177435813]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync TickTick tasks bidirectionally with Obsidian, keeping status, details and recurrences aligned. Visualize and manage tasks with calendar time‑blocks, timelines, sidebar lists and a Pomodoro view; drag‑and‑drop schedule, insert Markdown‑linked tasks, and optionally enable a token‑protected local MCP HTTP API."
 
     stats: {
-        downloads:  1717
-        updated_at: 1784796806000
+        downloads:  2105
+        updated_at: 1786166711000
     }
 }
 ```

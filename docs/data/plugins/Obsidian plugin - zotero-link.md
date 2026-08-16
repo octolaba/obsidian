@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zotero-link
 alt:
   - https://github.com/vanakat/zotero-link
-downloads: 14665
+downloads: 14846
 updated at: "2024-10-26T14:59:38Z"
 related to:
   - "[[GitHub - 500236909]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert Zotero item links into notes using the local Zotero API or ZotServer. Customize link text with Nunjucks templates and include metadata like item key, title, authors, and publication date."
 
     stats: {
-        downloads:  14665
+        downloads:  14846
         updated_at: 1729954778000
     }
 }

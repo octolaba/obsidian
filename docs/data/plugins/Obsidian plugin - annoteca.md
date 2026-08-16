@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/annoteca
 alt:
   - https://github.com/ckelsoe/obsidian-annoteca
-downloads: 283
-updated at: "2026-06-23T00:38:21Z"
+downloads: 481
+updated at: "2026-08-09T18:23:47Z"
 related to:
   - "[[GitHub - 1249356058]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add categorized inline feedback to long Markdown files using plain-HTML markers that stay with the file and remain readable without the plugin. Anchor threaded comments to selections or the cursor, manage conversations in a right‑sidebar hub (Thread, Outline, Starred), and strip markers cleanly at export."
 
     stats: {
-        downloads:  283
-        updated_at: 1782175101000
+        downloads:  481
+        updated_at: 1786299827000
     }
 }
 ```

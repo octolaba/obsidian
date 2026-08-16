@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-highlight
 alt:
   - https://github.com/wsqstar/obsidian-note-highlight
-downloads: 106
+downloads: 113
 updated at: "2026-05-25T10:30:57Z"
 related to:
   - "[[GitHub - 1249080641]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render square-bracket planning tags (e.g., [now], [plan], [suggestion]) as readable badges in Reading View and Live Preview while keeping the original Markdown unchanged. Add a subtle left accent to tagged headings, list items, paragraphs, and editor lines, and ignore Obsidian callouts like [!note]."
 
     stats: {
-        downloads:  106
+        downloads:  113
         updated_at: 1779705057000
     }
 }

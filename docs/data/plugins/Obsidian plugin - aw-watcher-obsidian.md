@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/aw-watcher-obsidian
 alt:
   - https://github.com/lordgrimmauld/aw-watcher-obsidian
-downloads: 9434
+downloads: 9558
 updated at: "2023-02-23T12:05:39Z"
 related to:
   - "[[GitHub - 589182846]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Record time spent in Obsidian by sending active vault and open Markdown file names to your local ActivityWatch server. Inspect per-file and per-vault timelines in ActivityWatch to see how long you spent on each note."
 
     stats: {
-        downloads:  9434
+        downloads:  9558
         updated_at: 1677153939000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tag-classes
 alt:
   - https://github.com/agrison/obsidian-tag-classes
-downloads: 388
+downloads: 507
 updated at: "2026-04-06T16:10:15Z"
 related to:
   - "[[GitHub - 1200623155]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Inject note tags as CSS classes on each view container to enable tag-based styling. Style notes directly with tag selectors in your CSS snippets (e.g., .tag-recipe .markdown-preview-view) without adding cssclasses to frontmatter."
 
     stats: {
-        downloads:  388
+        downloads:  507
         updated_at: 1775491815000
     }
 }

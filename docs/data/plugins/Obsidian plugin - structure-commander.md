@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/structure-commander
 alt:
   - https://github.com/akudlay-ru/structure-commander
-downloads: 221
+downloads: 247
 updated at: "2026-05-17T14:59:12Z"
 related to:
   - "[[GitHub - 1225886452]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Преобразуй заголовки в управляемое дерево для работы с длинными заметками и документацией. Перемещай ветки, меняй глубину (заголовки/списки/текст), сворачивай/разворачивай, перенумеровывай и экспортируй ветки в отдельные .md. Отслеживай структуру через боковую панель и компактный тулбар."
 
     stats: {
-        downloads:  221
+        downloads:  247
         updated_at: 1779029952000
     }
 }

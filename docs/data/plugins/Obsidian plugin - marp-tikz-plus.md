@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/marp-tikz-plus
 alt:
   - https://github.com/kevinyuan/marp-tikz-plus
-downloads: 468
+downloads: 507
 updated at: "2026-05-15T17:50:55Z"
 related to:
   - "[[GitHub - 1239915662]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render TikZ/LaTeX diagrams inline using a local WASM TeX engine so diagrams build offline and display as live SVGs. Author full Marp slide decks with live preview, Slide Navigator, Speaker Notes, and one-click PPTX export that preserves math as native PowerPoint objects."
 
     stats: {
-        downloads:  468
+        downloads:  507
         updated_at: 1778867455000
     }
 }

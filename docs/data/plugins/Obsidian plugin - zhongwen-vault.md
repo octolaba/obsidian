@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zhongwen-vault
 alt:
   - https://github.com/woop18/Zhongwen-Vault
-downloads: 138
+downloads: 191
 updated at: "2026-06-16T07:04:01Z"
 related to:
   - "[[GitHub - 1270295864]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hover over any Chinese character in editor or reading view — a floating card appears with: • Tone-colored pinyin (tones 1–4 in distinct colors) • CC-CEDICT definitions (up to 5 senses) • Measure words and register tags • Traditional form toggle Press S to save the current word to your vault (creates the note if missing) Features: • Works in Live Preview, Source mode, and Reading view • Greedy word segmentation — same algorithm as Zhongwen browser extension • Configurable hover delay, word list path, and display options • No internet required — CC-CEDICT bundled"
 
     stats: {
-        downloads:  138
+        downloads:  191
         updated_at: 1781593441000
     }
 }

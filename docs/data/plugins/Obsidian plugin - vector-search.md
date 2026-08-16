@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vector-search
 alt:
   - https://github.com/ashwin271/obsidian-vector-search
-downloads: 3294
+downloads: 3369
 updated at: "2026-01-14T03:46:27Z"
 related to:
   - "[[GitHub - 914950898]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search your vault semantically using Ollama embeddings to find notes by meaning rather than keywords. Set similarity thresholds, get fast local results once embeddings are generated, and keep indexes updated automatically as files change."
 
     stats: {
-        downloads:  3294
+        downloads:  3369
         updated_at: 1768362387000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vaultpack
 alt:
   - https://github.com/akisantin/VaultPack
-downloads: 66
+downloads: 106
 updated at: "2026-07-04T18:33:32Z"
 related to:
   - "[[GitHub - 1289227450]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Initial public release of VaultPack. VaultPack exports selected Obsidian notes and Bases views into a self-contained offline website that can be shared as a folder, encrypted ZIP, or password-protected web package. ## Highlights - Export selected notes into a portable offline website - Include Obsidian Bases views in exported packages - Generate shareable folder, ZIP, or password-protected web output - Add localized documentation in English, Traditional Chinese, and Japanese - Include sample screenshots for setup and README usage ## Files Please download the plugin assets below: - `main.js` - `manifest.json` - `styles.css`"
 
     stats: {
-        downloads:  66
+        downloads:  106
         updated_at: 1783190012000
     }
 }

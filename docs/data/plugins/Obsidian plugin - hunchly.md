@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hunchly
 alt:
   - https://github.com/shadowoption/Hunchly-obsidian-plugin
-downloads: 2283
+downloads: 2290
 updated at: "2025-09-09T15:47:59Z"
 related to:
   - "[[GitHub - 715826675]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Hunchly export ZIP into Obsidian notes, importing captioned images and converting captured selectors into tags. Consolidate multiple captures from the same URL into a single note for unified case records."
 
     stats: {
-        downloads:  2283
+        downloads:  2290
         updated_at: 1757432879000
     }
 }

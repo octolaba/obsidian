@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-replacer
 alt:
   - https://github.com/alecell/auto-replacer
-downloads: 1970
+downloads: 2038
 updated at: "2025-09-17T04:56:55Z"
 related to:
   - "[[GitHub - 989851867]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Replace text automatically in notes using custom regex patterns and JavaScript transform functions to format units, highlight keywords, or inject dynamic content like the note title. Create and manage rules in a visual UI; run rules on editor change with debounce and access editor/file context and {{file.basename}}."
 
     stats: {
-        downloads:  1970
+        downloads:  2038
         updated_at: 1758085015000
     }
 }

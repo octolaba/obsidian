@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/minimal-quiz
 alt:
   - https://github.com/lutu-gl/Obsidian-Minimal-Quiz
-downloads: 1107
+downloads: 1124
 updated at: "2025-04-03T20:46:40Z"
 related to:
   - "[[GitHub - 934535238]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create simple quizzes directly in Markdown by ending questions with ? and putting the answer on the next line. Run quizzes inline in Obsidian with a minimal interface that automatically detects questions and presents them for quick review."
 
     stats: {
-        downloads:  1107
+        downloads:  1124
         updated_at: 1743713200000
     }
 }

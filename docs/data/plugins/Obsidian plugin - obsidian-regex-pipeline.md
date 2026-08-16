@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-regex-pipeline
 alt:
   - https://github.com/no3371/obsidian-regex-pipeline
-downloads: 23284
+downloads: 23579
 updated at: "2023-02-13T10:16:50Z"
 related to:
   - "[[GitHub - 354902615]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create custom regex rulesets to automatically reformat and clean notes with simple \"SEARCH\"->\"REPLACE\" syntax, supporting multiline replacements and regex flags. Apply rulesets from the right-click menu or Obsidian commands and manage reusable, shareable ruleset files."
 
     stats: {
-        downloads:  23284
+        downloads:  23579
         updated_at: 1676283410000
     }
 }

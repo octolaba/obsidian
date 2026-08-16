@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/calendar-for-daily-notes
 alt:
   - https://github.com/xryul/calendar-for-daily-notes
-downloads: 3575
+downloads: 4808
 updated at: "2026-06-08T12:42:15Z"
 related to:
   - "[[GitHub - 1116717897]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View daily notes in a calendar and collapsible grouped list with six grouping presets (year/month/quarter/week), sorting, created-on-day items, count badges, and a min-word filter. Assign color tags, add per-day custom titles, keep zoom and view state, and optionally generate cached AI titles locally via your Ollama server."
 
     stats: {
-        downloads:  3575
+        downloads:  4808
         updated_at: 1780922535000
     }
 }

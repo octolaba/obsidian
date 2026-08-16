@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ascii-art-heading
 alt:
   - https://github.com/nbdev99/ascii-art-heading
-downloads: 187
+downloads: 208
 updated at: "2026-04-07T09:41:53Z"
 related to:
   - "[[GitHub - 1144089935]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform headings into ASCII art using FIGlet fonts. Create an ascii-art code block to render text with selectable fonts, alignment, color and size, and optionally expand or horizontally scroll wide art while showing the font name."
 
     stats: {
-        downloads:  187
+        downloads:  208
         updated_at: 1775554913000
     }
 }

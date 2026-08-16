@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-diagrams-net
 alt:
   - https://github.com/jensmtg/obsidian-diagrams-net
-downloads: 44702
+downloads: 44970
 updated at: "2022-06-23T05:13:19Z"
 related to:
   - "[[GitHub - 501170838]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed the diagrams.net online editor (requires internet) to insert and edit diagrams with the full shape libraries. Save diagrams as paired .svg.xml (editable source) and .svg image files; edits may not refresh the open preview until reload and copied diagrams need manual duplication of both files."
 
     stats: {
-        downloads:  44702
+        downloads:  44970
         updated_at: 1655961199000
     }
 }

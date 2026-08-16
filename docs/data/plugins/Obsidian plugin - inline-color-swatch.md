@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/inline-color-swatch
 alt:
   - https://github.com/suika225/inline-color-swatch
-downloads: 131
+downloads: 152
 updated at: "2026-03-14T06:32:16Z"
 related to:
   - "[[GitHub - 1128917266]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show a small color preview next to supported CSS color values written in inline code spans, matching GitHub-Flavored Markdown behavior. Support hex (#RGB, #RRGGBB, #RGBA, #RRGGBBAA), rgb/rgba and hsl/hsla formats (case-insensitive) and ignore code blocks."
 
     stats: {
-        downloads:  131
+        downloads:  152
         updated_at: 1773469936000
     }
 }

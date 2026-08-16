@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zotero-cite-pdf
 alt:
   - https://github.com/fengchendian/obsidian-zotero-cite-pdf
-downloads: 177
+downloads: 197
 updated at: "2026-05-16T05:51:36Z"
 related to:
   - "[[GitHub - 1143319646]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search Zotero literature and insert selected items, citations, or links (PDF/HTML/other) directly into Obsidian notes. Open Zotero-attached assets in a custom app from within Obsidian after setting your Zotero data directory."
 
     stats: {
-        downloads:  177
+        downloads:  197
         updated_at: 1778910696000
     }
 }

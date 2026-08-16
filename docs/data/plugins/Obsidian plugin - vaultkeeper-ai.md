@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vaultkeeper-ai
 alt:
   - https://github.com/andy-stack/vaultkeeper-ai
-downloads: 3755
+downloads: 6482
 updated at: "2026-07-12T15:09:34Z"
 related to:
   - "[[GitHub - 1044238067]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bring Claude, Gemini, OpenAI, and Mistral into your Obsidian vault for AI-driven note management, search, and reading of PDFs, Office docs, and images. Switch between read-only and agent modes, plan multi-step workflows, preview diffs before applying changes, manage conversations and privacy, and enable web search with streaming responses and local API key storage."
 
     stats: {
-        downloads:  3755
+        downloads:  6482
         updated_at: 1783868974000
     }
 }

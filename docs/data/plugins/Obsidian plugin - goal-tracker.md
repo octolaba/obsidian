@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/goal-tracker
 alt:
   - https://github.com/gizmoray/obsidian-goal-tracker
-downloads: 2047
+downloads: 2074
 updated at: "2025-06-08T02:07:34Z"
 related to:
   - "[[GitHub - 911346960]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track goals using daily, weekly, or monthly views directly in your notes. Enable streak mode to record longest recent streaks and keep goal data stored as plain Markdown with a clean, minimal interface."
 
     stats: {
-        downloads:  2047
+        downloads:  2074
         updated_at: 1749348454000
     }
 }

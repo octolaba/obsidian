@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tag-breakdown-generator
 alt:
   - https://github.com/hananoshikayomaru/obsidian-tag-generator
-downloads: 2848
+downloads: 2856
 updated at: "2023-11-21T03:57:41Z"
 related to:
   - "[[GitHub - 696275091]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Break down nested tags in your note and insert all parent tags into a top-of-file tag block on save. Process only tags in the file body and create or replace a top comment block with the expanded tag list."
 
     stats: {
-        downloads:  2848
+        downloads:  2856
         updated_at: 1700539061000
     }
 }

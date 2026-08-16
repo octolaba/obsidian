@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/list-outline-helper
 alt:
   - https://github.com/triangular-sneaky/obsidian-list-outline-helper
-downloads: 7479
+downloads: 7507
 updated at: "2024-05-14T06:59:56Z"
 related to:
   - "[[GitHub - 799115513]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Select a list line and all subsequent lines with deeper indentation to capture the complete outline block. Move the selected outline with line-move commands or adjust its nesting using Tab and Shift-Tab for quick reorganization."
 
     stats: {
-        downloads:  7479
+        downloads:  7507
         updated_at: 1715669996000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hide-sidebars
 alt:
   - https://github.com/hasanyilmaz/hide-sidebars
-downloads: 334
+downloads: 407
 updated at: "2026-05-13T16:40:31Z"
 related to:
   - "[[GitHub - 1237838342]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Auto-hide left and right sidebars independently to reclaim writing space while keeping quick access to explorer, search, backlinks, outline and other panes. Reveal sidebars by moving the mouse to the screen edge, use overlay mode to float them over the editor, and adjust widths and collapse delay."
 
     stats: {
-        downloads:  334
+        downloads:  407
         updated_at: 1778690431000
     }
 }

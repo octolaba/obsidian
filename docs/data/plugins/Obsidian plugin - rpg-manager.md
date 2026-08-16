@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rpg-manager
 alt:
   - https://github.com/carlonicora/obsidian-rpg-manager
-downloads: 46299
+downloads: 46762
 updated at: "2025-12-16T10:01:15Z"
 related to:
   - "[[GitHub - 522847290]]"
@@ -36,7 +36,7 @@ plugin: {
     description: "Tabletop role playing game campaign manager."
 
     stats: {
-        downloads:  46299
+        downloads:  46762
         updated_at: 1765879275000
     }
 }

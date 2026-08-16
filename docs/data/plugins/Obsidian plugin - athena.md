@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/athena
 alt:
   - https://github.com/polleoai/athena
-downloads: 359
-updated at: "2026-07-07T05:35:57Z"
+downloads: 412
+updated at: "2026-08-02T18:11:22Z"
 related to:
   - "[[GitHub - 1231564888]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Turn your vault into a personal knowledge base by ingesting URLs, papers, repos, screenshots and videos, with an LLM synthesizing each into a structured wiki page. Create concise digests (Key Findings, Methods, Notable Quotes, Relevance), maintain bidirectional links, and query the graph via bundled Gryphon chat or the verb-driven kb CLI."
 
     stats: {
-        downloads:  359
-        updated_at: 1783402557000
+        downloads:  412
+        updated_at: 1785694282000
     }
 }
 ```

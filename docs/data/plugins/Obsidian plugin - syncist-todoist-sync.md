@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/syncist-todoist-sync
 alt:
   - https://github.com/bastiaanschonhage/syncist
-downloads: 416
+downloads: 442
 updated at: "2026-05-22T13:58:44Z"
 related to:
   - "[[GitHub - 1145534327]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Obsidian tasks with Todoist bidirectionally by tagging items (e.g., #todoist) or creating tasks in your notes. Import tasks and subtasks, map projects and labels, embed live Todoist lists with syncist code blocks, and resolve conflicts with configurable rules while keeping Tasks plugin compatibility."
 
     stats: {
-        downloads:  416
+        downloads:  442
         updated_at: 1779458324000
     }
 }

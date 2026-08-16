@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/brain-growth
 alt:
   - https://github.com/raymondseek/BrainGrowth
-downloads: 169
+downloads: 188
 updated at: "2026-06-20T09:54:39Z"
 related to:
   - "[[GitHub - 1265967754]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track vault growth over time by scanning Markdown notes, creating daily local snapshots, and recording note/body counts, tags, and internal links. View trends and comparisons in a dashboard and compact right-side panel with trend cards and charts while keeping all data local."
 
     stats: {
-        downloads:  169
+        downloads:  188
         updated_at: 1781949279000
     }
 }

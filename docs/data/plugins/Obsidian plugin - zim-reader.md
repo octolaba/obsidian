@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zim-reader
 alt:
   - https://github.com/mrrepac/obsidian-zim-reader
-downloads: 43
+downloads: 70
 updated at: "2026-07-07T19:43:25Z"
 related to:
   - "[[GitHub - 1292704761]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Read ZIM archives (Kiwix offline Wikipedia) directly inside Obsidian. Search titles and open articles with working internal links and images, all served locally with no external server; content streams from disk so huge archives open instantly and use minimal memory. Desktop only."
 
     stats: {
-        downloads:  43
+        downloads:  70
         updated_at: 1783453405000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nested-vaults
 alt:
   - https://github.com/real-fruit-snacks/obsidian-nested-vaults
-downloads: 196
+downloads: 328
 updated at: "2026-07-10T02:21:19Z"
 related to:
   - "[[GitHub - 1274856920]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scope your vault to any folder and work inside it as a temporary vault while keeping your themes, plugins, and settings. Restrict file explorer, search, graph, tag pane, and backlinks to that folder, block opening outside files, and whitelist folders like attachments and templates."
 
     stats: {
-        downloads:  196
+        downloads:  328
         updated_at: 1783650079000
     }
 }

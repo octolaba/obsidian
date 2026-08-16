@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tokenbar
 alt:
   - https://github.com/sn1p4am/TokenBar
-downloads: 46
+downloads: 67
 updated at: "2026-07-09T03:10:03Z"
 related to:
   - "[[GitHub - 1294509884]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display the active note's local token count in Obsidian's status bar and set a primary tokenizer (default: GPT). Hover the status item to compare GPT, Qwen, DeepSeek and estimated Claude/Gemini counts; count text only—excluding embedded images and attachments—and run fully locally (desktop-only)."
 
     stats: {
-        downloads:  46
+        downloads:  67
         updated_at: 1783566603000
     }
 }

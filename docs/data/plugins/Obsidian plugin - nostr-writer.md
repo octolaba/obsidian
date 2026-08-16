@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nostr-writer
 alt:
   - https://github.com/jamesmagoo/nostr-writer
-downloads: 4665
+downloads: 4715
 updated at: "2024-04-18T06:56:53Z"
 related to:
   - "[[GitHub - 672389435]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish notes and short-form posts from Obsidian directly to Nostr. Upload images automatically, add tags, manage multiple Nostr profiles and relays, import Nostr bookmarks as Markdown, and extract frontmatter into article metadata before publishing."
 
     stats: {
-        downloads:  4665
+        downloads:  4715
         updated_at: 1713423413000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bookmark-api
 alt:
   - https://github.com/niko-drossos/bookmarks-API
-downloads: 93
+downloads: 99
 updated at: "2026-04-14T07:00:11Z"
 related to:
   - "[[GitHub - 1166193307]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage bookmarks programmatically via global functions registered on window. Add, remove, move bookmark groups and entries, set custom display titles, and operate on the active file or any path from scripts like Templater or Dataview."
 
     stats: {
-        downloads:  93
+        downloads:  99
         updated_at: 1776150011000
     }
 }

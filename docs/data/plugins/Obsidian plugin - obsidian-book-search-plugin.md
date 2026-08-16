@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-book-search-plugin
 alt:
   - https://github.com/anpigon/obsidian-book-search-plugin
-downloads: 222959
+downloads: 226080
 updated at: "2024-10-16T14:47:11Z"
 related to:
   - "[[GitHub - 478449552]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search books by title, author, publisher, or ISBN using the Google Books API and create prefilled book notes in your vault. Show cover images in search results for quick visual identification of suggestions."
 
     stats: {
-        downloads:  222959
+        downloads:  226080
         updated_at: 1729090031000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sync-folds
 alt:
   - https://github.com/itsonlyjames/obsidian-sync-folds
-downloads: 2117
+downloads: 2212
 updated at: "2026-05-12T23:32:18Z"
 related to:
   - "[[GitHub - 1069422414]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync fold states across devices by saving them to your vault-backed plugin data.json. Automatically save changes as you fold/unfold and restore those states when opening files on other devices."
 
     stats: {
-        downloads:  2117
+        downloads:  2212
         updated_at: 1778628738000
     }
 }

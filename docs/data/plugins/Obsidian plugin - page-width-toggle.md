@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/page-width-toggle
 alt:
   - https://github.com/heono3h/page-width-toggle
-downloads: 653
+downloads: 858
 updated at: "2026-04-20T14:37:30Z"
 related to:
   - "[[GitHub - 1216058243]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle per-note page width between the default readable length and a full-window wide mode with one click. Use the ribbon icon, command palette, editor right-click or note menu; keep changes per-note (doesn't change vault-wide readable line length), and apply an optional narrow CSS class manually via frontmatter."
 
     stats: {
-        downloads:  653
+        downloads:  858
         updated_at: 1776695850000
     }
 }

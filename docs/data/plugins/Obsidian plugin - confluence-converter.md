@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/confluence-converter
 alt:
   - https://github.com/addozhang/obsidian-confluence-converter
-downloads: 4650
+downloads: 4826
 updated at: "2026-06-04T01:06:42Z"
 related to:
   - "[[GitHub - 909347439]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Obsidian Markdown to Confluence Storage Format (XHTML) or legacy Wiki Markup and copy the converted content to your clipboard for direct pasting into Confluence. Preserve headings, lists, code blocks, tables, syntax highlighting and Obsidian image links during conversion. Choose Storage Format for one-step pasting or Wiki Markup for traditional Confluence pages."
 
     stats: {
-        downloads:  4650
+        downloads:  4826
         updated_at: 1780535202000
     }
 }

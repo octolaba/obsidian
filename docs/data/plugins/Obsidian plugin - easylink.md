@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/easylink
 alt:
   - https://github.com/isitwho/EasyLink
-downloads: 2007
+downloads: 2404
 updated at: "2026-03-20T02:06:31Z"
 related to:
   - "[[GitHub - 1004538813]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Find and link related notes by selecting text and running a quick command. Display ranked relevance scores with theme-aware previews and keyword highlights, then insert precise wiki-links to headings or blocks or open the source note in a new tab."
 
     stats: {
-        downloads:  2007
+        downloads:  2404
         updated_at: 1773972391000
     }
 }

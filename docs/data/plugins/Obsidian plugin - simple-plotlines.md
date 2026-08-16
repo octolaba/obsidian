@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-plotlines
 alt:
   - https://github.com/null-machine/simple-plotlines
-downloads: 100
+downloads: 162
 updated at: "2026-07-07T14:31:44Z"
 related to:
   - "[[GitHub - 1287639462]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize plotlines across acts by tagging scene notes with the plotlines they progress. Parses all files named `01-01 SCENE NAME.md` (capitalization and file locations up to user). Tag sorting can be specified in `00-00 TAG ORDER.md`."
 
     stats: {
-        downloads:  100
+        downloads:  162
         updated_at: 1783434704000
     }
 }

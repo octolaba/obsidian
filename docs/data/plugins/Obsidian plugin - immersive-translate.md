@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/immersive-translate
 alt:
   - https://github.com/imfenghuang/obsidian-immersive-translate
-downloads: 8000
+downloads: 8332
 updated at: "2025-09-18T14:43:40Z"
 related to:
   - "[[GitHub - 842825376]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Translate foreign-language Markdown directly in Obsidian's reading view using Immersive Translate to display inline translations. Use Immersive Translate Lite for compatibility and apply settings changes by relaunching Obsidian."
 
     stats: {
-        downloads:  8000
+        downloads:  8332
         updated_at: 1758206620000
     }
 }

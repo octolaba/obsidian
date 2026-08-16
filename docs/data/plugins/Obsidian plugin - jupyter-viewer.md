@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jupyter-viewer
 alt:
   - https://github.com/cteplovs/obsidian-jupyter-viewer
-downloads: 856
+downloads: 1047
 updated at: "2026-04-22T21:41:19Z"
 related to:
   - "[[GitHub - 1218417746]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render .ipynb files natively inside Obsidian, presenting markdown cells with Obsidian's renderer and code cells with Python syntax highlighting and execution-count badges. Display outputs inline — stdout/stderr as monospace streams, cleaned error tracebacks, inline images, and scrollable, theme-aware HTML tables."
 
     stats: {
-        downloads:  856
+        downloads:  1047
         updated_at: 1776894079000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tree-graph-view
 alt:
   - https://github.com/studiogamma/tree-graph-view
-downloads: 68
+downloads: 142
 updated at: "2026-07-15T11:02:15Z"
 related to:
   - "[[GitHub - 1299930457]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize your vault as a forest-like dendrogram, arranging notes hierarchically and replicating multi-parent notes to keep branches untangled. Use frontmatter, tags, outlinks or backlinks as parent-child sources, preserve original links while handling cycles, and tweak layout and themes via a floating settings panel."
 
     stats: {
-        downloads:  68
+        downloads:  142
         updated_at: 1784113335000
     }
 }

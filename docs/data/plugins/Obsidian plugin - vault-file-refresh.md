@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-file-refresh
 alt:
   - https://github.com/tikitock/obsidian-vault-file-refresh
-downloads: 521
+downloads: 829
 updated at: "2026-07-10T22:27:53Z"
 related to:
   - "[[GitHub - 1258945266]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Detect and reconcile files and folders added to your vault from outside Obsidian, making them immediately available in the file explorer, search, graph view and Dataview. Run a lightweight, fully recursive background poller that auto-tracks new folders, removes stale paths, and works out of the box with minimal performance impact."
 
     stats: {
-        downloads:  521
+        downloads:  829
         updated_at: 1783722473000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/table-dashboard
 alt:
   - https://github.com/dskarbrevik/table-dashboard
-downloads: 313
+downloads: 427
 updated at: "2026-01-11T22:33:30Z"
 related to:
   - "[[GitHub - 1131970410]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create dynamic dashboard visualizations from Markdown tables, including progress bars, counters, percentages, streaks, and line plots. Aggregate and filter table data across the current file, specific files, or entire folders using time-periods and table-tag markers, extract goals from columns, and display widgets in grid or compact-list layouts."
 
     stats: {
-        downloads:  313
+        downloads:  427
         updated_at: 1768170810000
     }
 }

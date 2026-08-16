@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rainbow-colored-sidebar
 alt:
   - https://github.com/kovah/obsidian-rainbow-colored-sidebar
-downloads: 15945
+downloads: 16617
 updated at: "2026-06-03T19:17:11Z"
 related to:
   - "[[GitHub - 923992437]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Colorize your Obsidian sidebar with repeating theme palettes that adapt to light and dark modes. Choose from nine built-in themes — multiple rainbow starts, Blue Wave, Summer Vibes, mixed, and an accessibility palette — with automatic coloring for subfolders and an active-file indicator; colors are assigned by folder name order (A–Z)."
 
     stats: {
-        downloads:  15945
+        downloads:  16617
         updated_at: 1780514231000
     }
 }

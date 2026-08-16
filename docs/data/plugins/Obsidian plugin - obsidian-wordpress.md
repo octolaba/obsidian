@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-wordpress
 alt:
   - https://github.com/devbean/obsidian-wordpress
-downloads: 20493
+downloads: 20567
 updated at: "2023-12-20T03:24:27Z"
 related to:
   - "[[GitHub - 432098311]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish Obsidian notes directly to a WordPress site from the editor, reading YAML front matter for title and tags. Write WordPress post IDs and categories back into the note to enable updating published posts."
 
     stats: {
-        downloads:  20493
+        downloads:  20567
         updated_at: 1703042667000
     }
 }

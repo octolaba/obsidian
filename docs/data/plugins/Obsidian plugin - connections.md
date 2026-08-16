@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/connections
 alt:
   - https://github.com/evancleve/obsidian-connections
-downloads: 1244
+downloads: 1307
 updated at: "2026-02-13T20:00:32Z"
 related to:
   - "[[GitHub - 1080117904]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Define and view named connections between notes. Display all connections in the Connections pane and delete ones you no longer need. Map frontmatter properties to connection types to auto-generate readable statements and choose which side serves as the subject."
 
     stats: {
-        downloads:  1244
+        downloads:  1307
         updated_at: 1771012832000
     }
 }

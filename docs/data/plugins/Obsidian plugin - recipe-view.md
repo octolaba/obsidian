@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/recipe-view
 alt:
   - https://github.com/lachsh/obsidian-recipe-view
-downloads: 55312
+downloads: 56905
 updated at: "2024-05-05T03:55:32Z"
 related to:
   - "[[GitHub - 689164934]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display recipes written as regular Markdown notes in a clean, interactive recipe card for cooking. Scale ingredient quantities, split into two columns or group ingredients by step, cross out items, highlight steps, and use on phones and tablets."
 
     stats: {
-        downloads:  55312
+        downloads:  56905
         updated_at: 1714881332000
     }
 }

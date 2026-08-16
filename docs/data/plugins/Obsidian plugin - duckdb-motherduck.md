@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/duckdb-motherduck
 alt:
   - https://github.com/motherduckdb/obsidian-duckdb-motherduck
-downloads: 634
+downloads: 682
 updated at: "2026-06-06T19:08:20Z"
 related to:
   - "[[GitHub - 1219929732]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bring external data into your Obsidian notes via DuckDB SQL, then freeze the results inline as plain markdown tables. * Query anything DuckDB reads — local or remote Parquet, CSV, JSON, Excel, Iceberg, Delta, and geospatial files. * Frozen results stay portable — regular markdown wrapped in sentinel comments. Diffs in git, renders in any editor, readable by any agent. * Optional MotherDuck connection — add a token to query cloud databases or push heavy SQL onto cloud compute. Both engines live side-by-side, picked per code block. * Scheduled refreshes — daily or weekly, per note. * Plugin API — trigger refreshes from a shell or coding agent (e.g Claude Code) via obsidian eval."
 
     stats: {
-        downloads:  634
+        downloads:  682
         updated_at: 1780772900000
     }
 }

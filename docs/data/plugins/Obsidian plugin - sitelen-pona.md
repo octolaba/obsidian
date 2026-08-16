@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sitelen-pona
 alt:
   - https://github.com/luanalatte/obsidian-sitelen-pona
-downloads: 137
+downloads: 153
 updated at: "2026-03-12T17:44:48Z"
 related to:
   - "[[GitHub - 1175542908]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle note display between regular and Sitelen Pona script for Toki Pona notes to view content in the sitelen-pona font. Show the current editing line in regular font for easier editing, and prefix a line with !! to force regular font."
 
     stats: {
-        downloads:  137
+        downloads:  153
         updated_at: 1773337488000
     }
 }

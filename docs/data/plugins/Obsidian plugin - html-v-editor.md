@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/html-v-editor
 alt:
   - https://github.com/mandolin/obsidian-html-v-editor
-downloads: 185
+downloads: 285
 updated at: "2026-07-13T19:05:52Z"
 related to:
   - "[[GitHub - 1279211920]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit and preview HTML/HTM files directly inside your vault. HTML V Editor provides Preview, visual Edit with HugeRTE, Source editing, and Save modes, plus support for Markdown html-v code blocks and embedded HTML files. It also includes Safe, Sandbox, and Trusted preview modes, checklist editing, character insertion, and an HTML V Tasks panel for collecting and updating HTML checklist items."
 
     stats: {
-        downloads:  185
+        downloads:  285
         updated_at: 1783969552000
     }
 }

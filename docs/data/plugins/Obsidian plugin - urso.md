@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/urso
 alt:
   - https://github.com/ariedotme/urso
-downloads: 437
+downloads: 516
 updated at: "2026-03-30T23:24:12Z"
 related to:
   - "[[GitHub - 1196616810]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Explore tags and frontmatter properties as navigable trees, turning slash tags like #world/region/place into a collapsible hierarchy. Display matching notes beside selections, sort and date notes, and assign icons or pins to tags, properties, and notes. Create a new note from the selected tag or property via a hotkey and switch between a resizable split view on desktop/tablet or single-pane navigation on phones."
 
     stats: {
-        downloads:  437
+        downloads:  516
         updated_at: 1774913052000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/excalibrain
 alt:
   - https://github.com/zsviczian/excalibrain
-downloads: 325782
+downloads: 330372
 updated at: "2026-05-31T14:30:22Z"
 related to:
   - "[[GitHub - 482747285]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create an interactive, structured mind-map of your Obsidian vault by interpreting links, tags, YAML and Dataview fields. Display five relationship types — Children, Parents, Friends, Other Friends and Siblings — inferred from forward links, backlinks, mutual links and explicit Dataview fields. Work with Dataview and Excalidraw to render editable, navigable maps."
 
     stats: {
-        downloads:  325782
+        downloads:  330372
         updated_at: 1780237822000
     }
 }

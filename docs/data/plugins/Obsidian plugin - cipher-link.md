@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cipher-link
 alt:
   - https://github.com/gooderno1/CipherLink
-downloads: 18
+downloads: 35
 updated at: "2026-07-15T02:43:40Z"
 related to:
   - "[[GitHub - 1300785839]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create encrypted Markdown notes while exposing only selected metadata, tags, and relationship links to Obsidian's native search, backlinks, and Graph view. Keep decrypted content in an in-memory secure editor so public envelopes never contain plain text, and lock sessions or choose standalone or gateway storage for conflict control and audit."
 
     stats: {
-        downloads:  18
+        downloads:  35
         updated_at: 1784083420000
     }
 }

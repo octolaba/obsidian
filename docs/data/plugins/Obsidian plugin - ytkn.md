@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ytkn
 alt:
   - https://github.com/aawhb/ytkn
-downloads: 480
+downloads: 633
 updated at: "2026-07-20T20:35:41Z"
 related to:
   - "[[GitHub - 1231179520]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert YouTube videos and playlists into structured, vault-native Obsidian notes with transcript-first Markdown and YAML frontmatter. Generate transcript-only notes or add optional AI summaries using OpenAI, Anthropic, Gemini, or local OpenAI-compatible models; pick templates, embed or omit media, and output per-video or combined playlist notes."
 
     stats: {
-        downloads:  480
+        downloads:  633
         updated_at: 1784579741000
     }
 }

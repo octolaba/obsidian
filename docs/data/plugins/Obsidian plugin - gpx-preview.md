@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gpx-preview
 alt:
   - https://github.com/tschoffelen/obsidian-gpx
-downloads: 2
+downloads: 54
 updated at: "2026-07-23T10:28:45Z"
 related to:
   - "[[GitHub - 1309759507]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Apple-style map previews of GPX files in notes as rounded map cards with the route drawn, start/finish markers, and an optional title. Show workout stats (distance, duration, avg speed; optional pace, moving time, max speed, elevation), support metric or imperial units, cache PNGs for offline previews, and offer CARTO, OpenStreetMap or Apple Maps basemaps (Apple Maps requires a developer key)."
 
     stats: {
-        downloads:  2
+        downloads:  54
         updated_at: 1784802525000
     }
 }

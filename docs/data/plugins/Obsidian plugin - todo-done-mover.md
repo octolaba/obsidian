@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/todo-done-mover
 alt:
   - https://github.com/donnervs/obsidian-todo-done-mover
-downloads: 458
+downloads: 562
 updated at: "2026-07-10T18:31:33Z"
 related to:
   - "[[GitHub - 1240063510]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move completed checkbox tasks and their indented sub-tasks into a Done section in the same note, preserving indentation and task hierarchy. Run via right-click or command palette, enable auto mode to move tasks when fully checked, and optionally append a completion date to moved lines."
 
     stats: {
-        downloads:  458
+        downloads:  562
         updated_at: 1783708293000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-crm
 alt:
   - https://github.com/abdulkader-safi/obsidian-crm-plugins
-downloads: 275
+downloads: 373
 updated at: "2026-07-06T13:05:46Z"
 related to:
   - "[[GitHub - 1277911599]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage clients, deals, and projects inside your vault using plain Markdown notes; log interactions and to-dos without leaving Obsidian or using cloud accounts. Track deals in a drag-and-drop pipeline with dashboard metrics, per-deal timelines, and one-click conversion of won deals into projects while keeping all data local and theme-aware."
 
     stats: {
-        downloads:  275
+        downloads:  373
         updated_at: 1783343146000
     }
 }

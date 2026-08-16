@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/simple-wordbook
 alt:
   - https://github.com/bin-t/obsidian-simple-wordbook
-downloads: 164
-updated at: "2026-07-17T03:50:46Z"
+downloads: 275
+updated at: "2026-08-09T13:24:16Z"
 related to:
   - "[[GitHub - 1281499871]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # Simple Wordbook
 
-Simple Wordbook highlights words drawn from custom JSON wordbooks across notes and PDFs, with a sidebar listing matched words, their definitions and color tags. A Study Center offers flashcard review with spaced repetition and statistics, while a Library provides batch management, search and filtering. A lookup panel combines local search with AI queries, and the plugin also records text-to-speech pronunciation, import and export, and customizable highlight styles.
+Highlights words and phrases drawn from JSON wordbooks across notes and PDFs, with a sidebar listing matched words, their definitions and color tags. A Study Center runs flashcard review with spaced repetition and statistics, while a Library provides batch management, search and filtering. A lookup panel searches locally or queries an AI, and text-to-speech pronunciation, import and export, and customizable highlight styles are also included.
 
 ```cue
 plugin: {
@@ -33,12 +33,12 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/simple-wordbook"
     github_url:  "https://github.com/bin-t/obsidian-simple-wordbook"
-    description: "Highlight words from custom JSON wordbooks across notes and PDFs. Sidebar tracks learning progress with mastery/ignore toggles. Supports local fuzzy search and AI-powered definitions. - This plugin has not been manually reviewed by Obsidian staff."
+    description: "Highlight words/phrases in notes & PDFs, with learning tracker. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Highlight words from JSON wordbooks across notes and PDFs. Sidebar shows matched words with definitions and color tags. Study Center offers flashcard reviews with spaced repetition and statistics. Library provides batch management, search, and filtering. Lookup panel supports local search and AI queries. Also includes TTS pronunciation, import/export, and customizable highlight styles."
 
     stats: {
-        downloads:  164
-        updated_at: 1784260246000
+        downloads:  275
+        updated_at: 1786281856000
     }
 }
 ```

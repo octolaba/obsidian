@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/last-chess-game
 alt:
   - https://github.com/eddie-d0/last-chess-game
-downloads: 85
+downloads: 90
 updated at: "2025-11-16T19:29:42Z"
 related to:
   - "[[GitHub - 1096739922]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Pull and insert your latest Chess.com game into any note, choosing by time control (bullet, blitz, rapid, daily) or any type. Customize the output with flexible templates and handlebars to display game metadata, times, moves and other players' info."
 
     stats: {
-        downloads:  85
+        downloads:  90
         updated_at: 1763321382000
     }
 }

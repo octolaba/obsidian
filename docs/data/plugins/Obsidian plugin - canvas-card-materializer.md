@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-card-materializer
 alt:
   - https://github.com/redsheep913/Canvas-Card-Materializer
-downloads: 180
+downloads: 200
 updated at: "2026-03-19T11:42:39Z"
 related to:
   - "[[GitHub - 1185680527]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Materialize Canvas text cards into Markdown files with a single action, replacing nodes on the Canvas while keeping layout intact. Preserve arrows as clickable backlinks, auto-categorize notes into color-based folders, and record canvas_id and canvas_color in each file's frontmatter."
 
     stats: {
-        downloads:  180
+        downloads:  200
         updated_at: 1773920559000
     }
 }

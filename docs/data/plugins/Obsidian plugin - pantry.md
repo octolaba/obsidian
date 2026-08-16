@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/pantry
 alt:
   - https://github.com/ekrizdis367/obsidian-pantry
-downloads: 319
-updated at: "2026-07-20T23:01:31Z"
+downloads: 644
+updated at: "2026-08-05T18:19:48Z"
 related to:
   - "[[GitHub - 1227577604]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Turn recipe notes into a consolidated, category-grouped grocery list with merged ingredient quantities, checkboxes, collapsible sections, and persistent progress while shopping. Render recipes as interactive cooking cards with scaled ingredients, portion multipliers, instructions, diet/allergen badges, one-off items, and favorites."
 
     stats: {
-        downloads:  319
-        updated_at: 1784588491000
+        downloads:  644
+        updated_at: 1785953988000
     }
 }
 ```

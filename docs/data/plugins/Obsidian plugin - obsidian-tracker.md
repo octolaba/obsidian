@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-tracker
 alt:
   - https://github.com/pyrochlore/obsidian-tracker
-downloads: 352989
+downloads: 357280
 updated at: "2026-02-21T00:07:44Z"
 related to:
   - "[[GitHub - 340807490]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track and aggregate data from notes, frontmatter, inline dataview fields, and checkboxes to build datasets for analysis. Visualize results as calendars, bar/stacked bar and pie charts, and tables, with streak coloring, thresholds, and date-range or field-existence queries."
 
     stats: {
-        downloads:  352989
+        downloads:  357280
         updated_at: 1771632464000
     }
 }

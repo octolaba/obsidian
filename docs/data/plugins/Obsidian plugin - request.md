@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/request
 alt:
   - https://github.com/joepetrakovich/obsidian-request
-downloads: 438
+downloads: 457
 updated at: "2026-05-16T05:44:41Z"
 related to:
   - "[[GitHub - 1134638803]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add web requests to notes using a forgiving Markdown code block. Extract response values with JSONPath, render results with Handlebars templates, and chain requests to pass data between calls."
 
     stats: {
-        downloads:  438
+        downloads:  457
         updated_at: 1778910281000
     }
 }

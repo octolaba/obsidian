@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/workspaces-plus
 alt:
   - https://github.com/jsmorabito/obsidian-workspaces-plus
-downloads: 76218
+downloads: 77124
 updated at: "2022-12-03T18:09:02Z"
 related to:
   - "[[GitHub - 404197204]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show the active workspace in the status bar and open a workspace picker with a click; shift-click to save the current layout. Switch, create, rename, or delete workspaces from the picker or an assignable hotkey-driven switcher modal. Apply workspace-specific styling via body[data-workspace-name=\"Your Workspace\"] and override pages using template variables."
 
     stats: {
-        downloads:  76218
+        downloads:  77124
         updated_at: 1670090942000
     }
 }

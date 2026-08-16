@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/the-queue
 alt:
   - https://github.com/koljapluemer/obsidian-the-queue
-downloads: 2497
+downloads: 2524
 updated at: "2025-03-17T06:55:27Z"
 related to:
   - "[[GitHub - 648343815]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show random notes from your vault one at a time via a floating button bar that lets you react and fetch the next note. Turn notes into habits, flashcards, iterative-reading prompts or to-dos, and run spaced-repetition, habit-tracking and serendipitous-discovery workflows to steadily review and grow your PKM."
 
     stats: {
-        downloads:  2497
+        downloads:  2524
         updated_at: 1742194527000
     }
 }

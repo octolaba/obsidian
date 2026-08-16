@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ons
 alt:
   - https://github.com/skye-z/ons
-downloads: 417
+downloads: 442
 updated at: "2025-01-07T02:17:42Z"
 related to:
   - "[[GitHub - 851604733]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian Vault with your home intranet NAS to keep notes stored and updated on your private network. Register your NAS with the central server to pair devices, enable a connection password for security, and run manual updates from Obsidian to push or pull Vault contents."
 
     stats: {
-        downloads:  417
+        downloads:  442
         updated_at: 1736216262000
     }
 }

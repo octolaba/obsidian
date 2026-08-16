@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/ai-journal-coach
 alt:
   - https://github.com/ibrh96-prog/obsidian-ai-journal-coach
-downloads: 192
-updated at: "2026-07-13T00:25:33Z"
+downloads: 244
+updated at: "2026-07-26T16:01:53Z"
 related to:
   - "[[GitHub - 1260763740]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Analyze journal notes with AI to surface recurring themes, emotional patterns, wins, challenges, and reflective questions. Generate weekly reflections, mood tracking, pattern detection, and growth insights, then save structured, empathetic analyses directly to your vault."
 
     stats: {
-        downloads:  192
-        updated_at: 1783902333000
+        downloads:  244
+        updated_at: 1785081713000
     }
 }
 ```

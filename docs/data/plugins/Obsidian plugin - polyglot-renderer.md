@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/polyglot-renderer
 alt:
   - https://github.com/nimaapr/polyglot-renderer
-downloads: 647
+downloads: 727
 updated at: "2026-07-02T07:22:45Z"
 related to:
   - "[[GitHub - 1176484393]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render HTML code blocks and .html/.htm files as live, sandboxed previews directly in your vault. Open HTML files in a custom view, embed files inline with a toggle, and paste HTML content or files to save them to the vault and insert renderable embeds. Keep previews sandboxed to prevent access to Obsidian internals and block unsafe operations."
 
     stats: {
-        downloads:  647
+        downloads:  727
         updated_at: 1782976965000
     }
 }

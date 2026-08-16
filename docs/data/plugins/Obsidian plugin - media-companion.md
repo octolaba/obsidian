@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/media-companion
 alt:
   - https://github.com/nick-de-bruin/obsidian-media-companion
-downloads: 7617
+downloads: 7829
 updated at: "2026-02-24T19:49:00Z"
 related to:
   - "[[GitHub - 793082223]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a browsable gallery of all media files and add editable sidecar files for each item to store notes, tags, and metadata. Search media by folder, tag, file type, or visual color (no AI) to quickly locate and organize assets."
 
     stats: {
-        downloads:  7617
+        downloads:  7829
         updated_at: 1771962540000
     }
 }

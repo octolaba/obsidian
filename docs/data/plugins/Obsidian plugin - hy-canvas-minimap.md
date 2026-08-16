@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hy-canvas-minimap
 alt:
   - https://github.com/lugglory/hy-canvas-minimap
-downloads: 82
+downloads: 103
 updated at: "2026-06-29T06:34:30Z"
 related to:
   - "[[GitHub - 1283685735]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Adds a minimap to Canvas for quick navigation of large canvases."
 
     stats: {
-        downloads:  82
+        downloads:  103
         updated_at: 1782714870000
     }
 }

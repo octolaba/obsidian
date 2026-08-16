@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/squire
 alt:
   - https://github.com/choonkending/obsidian-squire
-downloads: 244
-updated at: "2026-07-10T10:04:42Z"
+downloads: 274
+updated at: "2026-08-05T12:45:24Z"
 related to:
   - "[[GitHub - 1106974912]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Your faithful note-taking companion. Squire automates index numbering and surfaces related notes so you can stay in your flow state. No manual calculation, no hunting for connections."
 
     stats: {
-        downloads:  244
-        updated_at: 1783677882000
+        downloads:  274
+        updated_at: 1785933924000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cypher
 alt:
   - https://github.com/aths7/cypher
-downloads: 519
+downloads: 533
 updated at: "2024-11-04T07:48:46Z"
 related to:
   - "[[GitHub - 882995827]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform notes into icon-based ciphers to hide or stylize content with a single toggle. Convert text in real time or selected passages, use distinct icons for upper- and lowercase letters, and keep edits clean with intelligent backspace handling. Revert instantly to plain text."
 
     stats: {
-        downloads:  519
+        downloads:  533
         updated_at: 1730706526000
     }
 }

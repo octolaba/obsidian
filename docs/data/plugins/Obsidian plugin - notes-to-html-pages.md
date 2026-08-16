@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notes-to-html-pages
 alt:
   - https://github.com/afanos/notes-to-html-pages
-downloads: 315
+downloads: 396
 updated at: "2026-06-28T05:32:29Z"
 related to:
   - "[[GitHub - 1129702729]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export Markdown notes or folders to self-contained HTML pages optimized for long-form reading with a narrow, readable layout and inline CSS for offline use. Generate a clickable table of contents, preserve headings, tables, quotes, code and ASCII diagrams, embed local images, and open exported .html directly inside Obsidian."
 
     stats: {
-        downloads:  315
+        downloads:  396
         updated_at: 1782624749000
     }
 }

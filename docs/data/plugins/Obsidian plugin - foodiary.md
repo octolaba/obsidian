@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/foodiary
 alt:
   - https://github.com/vkostyanetsky/ObsidianFoodiary
-downloads: 2634
+downloads: 2655
 updated at: "2025-05-04T12:04:16Z"
 related to:
   - "[[GitHub - 774051418]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track nutritional intake by logging foods in a foodiary code block in daily notes; parse quantities, accept comments, and aggregate per-item and total calories, protein, fat, and carbs. Create a products catalog with per-100g nutrition entries and reference items by name or aliases to compare totals to a daily calorie goal."
 
     stats: {
-        downloads:  2634
+        downloads:  2655
         updated_at: 1746360256000
     }
 }

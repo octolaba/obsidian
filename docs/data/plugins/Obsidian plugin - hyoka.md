@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hyoka
 alt:
   - https://github.com/abhijeeth-v-n/HYOKA
-downloads: 29
+downloads: 44
 updated at: "2026-07-15T18:08:10Z"
 related to:
   - "[[GitHub - 1298523324]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect local or remote machine learning models to Obsidian and route prompts from your notes. Insert model responses directly into files, preview outputs inline, and manage model endpoints for in-note generation and analysis."
 
     stats: {
-        downloads:  29
+        downloads:  44
         updated_at: 1784138890000
     }
 }

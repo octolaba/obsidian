@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/crypt-it
 alt:
   - https://github.com/remotely-save/crypt-it
-downloads: 1637
+downloads: 1660
 updated at: "2024-03-23T06:51:49Z"
 related to:
   - "[[GitHub - 737334543]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Encrypt any file by right-clicking it and generating an rclone-crypt–formatted encrypted copy protected with a password. Remember that passwords are not stored; lost passwords cannot be recovered and encrypted files will be inaccessible."
 
     stats: {
-        downloads:  1637
+        downloads:  1660
         updated_at: 1711176709000
     }
 }

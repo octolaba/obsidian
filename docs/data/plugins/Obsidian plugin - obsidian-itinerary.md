@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-itinerary
 alt:
   - https://github.com/coddingtonbear/obsidian-itinerary
-downloads: 10462
+downloads: 10499
 updated at: "2021-12-19T02:46:17Z"
 related to:
   - "[[GitHub - 410711790]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Plan trips and schedules in Markdown using simple itinerary code blocks. Display events on monthly, weekly, or daily calendars inside Obsidian, color-code and tag items, and spot conflicts or overlaps at a glance."
 
     stats: {
-        downloads:  10462
+        downloads:  10499
         updated_at: 1639881977000
     }
 }

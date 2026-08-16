@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dangerous-mode
 alt:
   - https://github.com/vanshkumar/dangerous-obsidian
-downloads: 331
+downloads: 360
 updated at: "2025-11-26T00:42:10Z"
 related to:
   - "[[GitHub - 1063637391]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Start a timed writing session that wipes the active note's body if you stop inserting text for 5 seconds, preserving YAML frontmatter. Show a red-edge warning that intensifies during idleness, block selection, copy/cut/paste, undo/redo and drag-drop while active, and end automatically after the chosen duration if typing continues."
 
     stats: {
-        downloads:  331
+        downloads:  360
         updated_at: 1764117730000
     }
 }

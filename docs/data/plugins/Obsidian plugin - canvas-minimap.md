@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-minimap
 alt:
   - https://github.com/ifree/Obsidian-canvas-minimap
-downloads: 12996
+downloads: 13647
 updated at: "2024-03-18T04:37:15Z"
 related to:
   - "[[GitHub - 753968801]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a minimap to Canvas notes for an overview and quick navigation. Click the minimap to jump to positions on the canvas; uses a workaround to access Canvas objects and may break if Obsidian's internals change."
 
     stats: {
-        downloads:  12996
+        downloads:  13647
         updated_at: 1710736635000
     }
 }

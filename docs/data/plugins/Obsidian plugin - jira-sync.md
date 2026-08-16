@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jira-sync
 alt:
   - https://github.com/alamion/obsidian-jira-sync
-downloads: 2802
+downloads: 2915
 updated at: "2026-07-22T14:24:54Z"
 related to:
   - "[[GitHub - 947163563]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bring your full Jira workflow into Obsidian with customizable templates and deep field mapping that covers standard, custom, and plugin fields. Sync changes two-way, work offline and push updates back to Jira, track time with integrated work logs, and run batch operations for bulk updates."
 
     stats: {
-        downloads:  2802
+        downloads:  2915
         updated_at: 1784730294000
     }
 }

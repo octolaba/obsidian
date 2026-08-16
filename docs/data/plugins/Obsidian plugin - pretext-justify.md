@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pretext-justify
 alt:
   - https://github.com/tyblhqy/obsidian-pretext
-downloads: 220
+downloads: 410
 updated at: "2026-06-26T15:20:19Z"
 related to:
   - "[[GitHub - 1279579430]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Justify reading-view text using Knuth–Plass line-breaking for typographically balanced paragraphs. Preserve inline formatting, support optional soft-hyphenation, reflow on resize, and run fully offline. Prevent rivers and avoid overly tight or overly stretched lines for consistent spacing."
 
     stats: {
-        downloads:  220
+        downloads:  410
         updated_at: 1782487219000
     }
 }

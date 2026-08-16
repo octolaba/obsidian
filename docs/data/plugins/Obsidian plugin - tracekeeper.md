@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/tracekeeper
 alt:
   - https://github.com/sparkwild/obsidian-tracekeeper
-downloads: 148
-updated at: "2026-06-03T08:45:03Z"
+downloads: 184
+updated at: "2026-08-11T05:51:24Z"
 related to:
   - "[[GitHub - 1211207695]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # Tracekeeper
 
-Tracekeeper keeps AI-proposed wiki and memory updates as reviewable traces in the vault, storing the source note, the proposed update and the human decision beside the original file. Each proposal is reviewed, adjusted, approved or rejected before it reaches the vault, so automation does not rewrite notes without oversight.
+Runs a local, credential-protected MCP runtime through which AI agents reach the active vault: they can recall scoped context, track multi-step work, capture sources and propose durable global or project memories. Memory policies are kept separate, so eligible memories may be saved automatically while conflicts, uncertain identity and explicit Wiki changes are routed to Knowledge Change Review. Records remain readable Markdown with audit history and lifecycle metadata, and there is no hosted service, external database, background sync or unrestricted filesystem access.
 
 ```cue
 plugin: {
@@ -33,12 +33,12 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/tracekeeper"
     github_url:  "https://github.com/sparkwild/obsidian-tracekeeper"
-    description: "Review AI-proposed wiki and memory updates before they reach your vault. - This plugin has not been manually reviewed by Obsidian staff."
-    about:       "Keep AI-assisted suggestions as reviewable traces in your vault, storing source notes, proposed updates, and human decisions alongside original files. Review, adjust, approve, or reject proposed wiki updates to prevent automation from rewriting your notes without human oversight."
+    description: "Connect AI agents to your vault through a local MCP runtime for scoped recall, task tracking, source capture, and governed memory updates. - This plugin has not been manually reviewed by Obsidian staff."
+    about:       "Tracekeeper connects AI agents to your active vault through a local, credential-protected MCP runtime. Agents can recall scoped context, track multi-step work, capture sources, and propose durable global or project memories. You control separate memory policies: eligible memories can be saved automatically or sent to Knowledge Change Review, while conflicts, uncertain identity, and explicit Wiki changes remain review-gated. Records stay as readable Markdown with audit history and lifecycle metadata. There is no hosted service, external database, background sync, or unrestricted filesystem access."
 
     stats: {
-        downloads:  148
-        updated_at: 1780476303000
+        downloads:  184
+        updated_at: 1786427484000
     }
 }
 ```

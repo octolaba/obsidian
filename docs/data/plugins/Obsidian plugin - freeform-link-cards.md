@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/freeform-link-cards
 alt:
   - https://github.com/netsvetaev/obsidian-freeform-link-cards
-downloads: 33
+downloads: 90
 updated at: "2026-07-21T05:07:15Z"
 related to:
   - "[[GitHub - 1307218208]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create Apple Freeform-style cards on Canvas by pasting a URL; store the original link and download the best large image into your vault. Display page title and domain, derive caption color from the image, keep a portable JSON preview inside a text node, and open the source page by clicking the card."
 
     stats: {
-        downloads:  33
+        downloads:  90
         updated_at: 1784610435000
     }
 }

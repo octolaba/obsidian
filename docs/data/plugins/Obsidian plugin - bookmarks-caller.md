@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/bookmarks-caller
 alt:
   - https://github.com/namikaze-40p/obsidian-bookmarks-caller
-downloads: 5291
-updated at: "2026-06-15T12:47:56Z"
+downloads: 5458
+updated at: "2026-07-26T01:57:40Z"
 related to:
   - "[[GitHub - 774790215]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Open and search bookmarks from a fast, keyboard-first modal to launch files, folders, searches, graphs, headings, blocks or URLs. Open items with one-letter keys, arrow selection, or clicks, and open entire bookmark groups in a single action."
 
     stats: {
-        downloads:  5291
-        updated_at: 1781527676000
+        downloads:  5458
+        updated_at: 1785031060000
     }
 }
 ```

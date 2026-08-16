@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/infographic
 alt:
   - https://github.com/shuuul/obsidian-infographic
-downloads: 709
+downloads: 757
 updated at: "2026-06-27T11:37:34Z"
 related to:
   - "[[GitHub - 1134057328]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render AntV Infographic visualizations directly in your notes using fenced code blocks. Choose from 200+ templates, author charts with JSON or AntV DSL, export to PDF, auto-detect light/dark theme, and enjoy responsive resizing with live-reload."
 
     stats: {
-        downloads:  709
+        downloads:  757
         updated_at: 1782560254000
     }
 }

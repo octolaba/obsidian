@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-sidebar-expand-on-hover
 alt:
   - https://github.com/toiq/obsidian-sidebar-expand-on-hover
-downloads: 13486
+downloads: 13623
 updated at: "2021-06-18T14:55:46Z"
 related to:
   - "[[GitHub - 371260957]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Expand sidebars on hover over their ribbons and collapse them when the mouse leaves. Pin or unpin sidebar state by double-clicking ribbons, adjust sidebar width by dragging, and preserve sidebar states across relaunch."
 
     stats: {
-        downloads:  13486
+        downloads:  13623
         updated_at: 1624028146000
     }
 }

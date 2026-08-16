@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/task-limiter
 alt:
   - https://github.com/jmondo/obsidian-task-limiter
-downloads: 99
+downloads: 104
 updated at: "2026-02-15T19:33:08Z"
 related to:
   - "[[GitHub - 1158693861]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Enforce a work-in-progress limit per section by adding [limit=N] to headers. Highlight tasks that exceed the limit with a subtle background and optionally count completed items toward the cap."
 
     stats: {
-        downloads:  99
+        downloads:  104
         updated_at: 1771183988000
     }
 }

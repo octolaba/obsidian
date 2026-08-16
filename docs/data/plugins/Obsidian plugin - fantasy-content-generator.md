@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/fantasy-content-generator
 alt:
   - https://github.com/gregory-jagermeister/Fantasy-Content-Generator
-downloads: 49977
+downloads: 50518
 updated at: "2025-01-12T05:31:43Z"
 related to:
   - "[[GitHub - 594414400]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate fantasy content such as character names by race, inns, settlements, loot, drinks, groups, currency and dungeon descriptions directly in Obsidian. Create custom word lists and use an inline callout generator to quickly insert names or short descriptions into notes."
 
     stats: {
-        downloads:  49977
+        downloads:  50518
         updated_at: 1736659903000
     }
 }

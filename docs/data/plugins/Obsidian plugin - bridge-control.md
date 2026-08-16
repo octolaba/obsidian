@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bridge-control
 alt:
   - https://github.com/studentepercaso/bridge-control
-downloads: 67
+downloads: 95
 updated at: "2026-07-17T13:49:14Z"
 related to:
   - "[[GitHub - 1297813687]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Control Bridge access to your vault by selecting which folders the external Obsidian Bridge runtime may read or propose writes to. Use a searchable visual picker with separate Read/Write toggles, recursive parent coverage, save-and-verify checks and CLI diagnostics while keeping note bodies local."
 
     stats: {
-        downloads:  67
+        downloads:  95
         updated_at: 1784296154000
     }
 }

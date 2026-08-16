@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/focus-lens
 alt:
   - https://github.com/juanchiparra/obsidian-focus-lens
-downloads: 872
+downloads: 923
 updated at: "2026-05-27T20:33:02Z"
 related to:
   - "[[GitHub - 1166132250]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight the active paragraph or block and gently dim or blur the surrounding content for distraction-free reading and writing. Lock focus to the viewport center or follow clicked/active blocks, support Live Preview and Reading Mode, and toggle Zen Mode to hide sidebars for a clean interface."
 
     stats: {
-        downloads:  872
+        downloads:  923
         updated_at: 1779913982000
     }
 }

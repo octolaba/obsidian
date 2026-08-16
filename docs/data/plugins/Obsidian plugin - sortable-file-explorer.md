@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sortable-file-explorer
 alt:
   - https://github.com/ninjalope/obsidian-sortable-file-explorer
-downloads: 1119
+downloads: 1415
 updated at: "2026-04-04T02:49:06Z"
 related to:
   - "[[GitHub - 1090582416]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a separate sortable file explorer view with drag-and-drop reordering, persistent custom order, and clearer visual hierarchy. Select multiple items for batch move/duplicate/delete, rename inline, import files via drag-and-drop, and keep desktop ordering on mobile."
 
     stats: {
-        downloads:  1119
+        downloads:  1415
         updated_at: 1775270946000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rovenotes-notes
 alt:
   - https://github.com/radiant-maple-studios/rovenotes-obsidian
-downloads: 168
+downloads: 188
 updated at: "2026-06-02T02:03:21Z"
 related to:
   - "[[GitHub - 1218586194]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync RoveNotes voice recordings and handwritten notes into your vault as Markdown pages — create one file per recording with embedded audio, summary and full transcript, and one file per handwritten note with recognized Markdown and summaries. Save .ogg audio next to each note for inline playback, include YAML metadata and links back to RoveNotes, and keep files reconciled as transcripts, renames, or late updates arrive."
 
     stats: {
-        downloads:  168
+        downloads:  188
         updated_at: 1780365801000
     }
 }

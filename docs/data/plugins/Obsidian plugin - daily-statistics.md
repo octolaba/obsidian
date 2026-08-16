@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-statistics
 alt:
   - https://github.com/yefengr/obsidian-daily-statistics
-downloads: 5296
+downloads: 5588
 updated at: "2025-05-31T01:27:01Z"
 related to:
   - "[[GitHub - 821623525]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Count daily characters or words and display totals on a calendar with folder-specific tracking. Set weekly goals, edit a day's count by double-clicking a date, toggle char/word mode, set week start manually, and use on mobile with multi-language support."
 
     stats: {
-        downloads:  5296
+        downloads:  5588
         updated_at: 1748654821000
     }
 }

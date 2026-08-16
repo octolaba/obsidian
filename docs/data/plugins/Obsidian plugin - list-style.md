@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/list-style
 alt:
   - https://github.com/erykwalder/obsidian-list-style
-downloads: 10537
+downloads: 10653
 updated at: "2022-10-21T20:31:08Z"
 related to:
   - "[[GitHub - 555547809]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set ordered list numbering style inline by placing a style token in the first list item (e.g., {A}, {i}, {01}). Use full style names or shorthands for common types; note the style applies to the entire list and cannot be changed mid-list."
 
     stats: {
-        downloads:  10537
+        downloads:  10653
         updated_at: 1666384268000
     }
 }

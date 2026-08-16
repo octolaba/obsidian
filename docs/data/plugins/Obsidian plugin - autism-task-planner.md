@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/autism-task-planner
 alt:
   - https://github.com/mm0x1/obsidian-autism-task-planner
-downloads: 362
+downloads: 430
 updated at: "2026-04-18T05:33:55Z"
 related to:
   - "[[GitHub - 1201496159]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn markdown task lists into a sequenced, timed schedule in a sidebar panel. View calculated start times and total duration, drag-and-drop reorder tasks, edit durations and categories inline, mark tasks done as you go, and optionally sync changes back to the file."
 
     stats: {
-        downloads:  362
+        downloads:  430
         updated_at: 1776490435000
     }
 }

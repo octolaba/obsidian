@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/redsmite-sync
 alt:
   - https://github.com/redsmite-com/redsmite-sync
-downloads: 81
+downloads: 87
 updated at: "2026-04-13T14:22:23Z"
 related to:
   - "[[GitHub - 1204994932]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Automatically synchronize Redsmite reports into your Obsidian vault at regular intervals. Receive client folder suggestions that learn your preferences after just two confirmations, and file your reports without creating duplicates. Works on Windows, macOS, and Linux (desktop only)."
 
     stats: {
-        downloads:  81
+        downloads:  87
         updated_at: 1776090143000
     }
 }

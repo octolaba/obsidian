@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/image-manager
 alt:
   - https://github.com/davidvkimball/obsidian-image-manager
-downloads: 6490
-updated at: "2026-05-30T19:45:56Z"
+downloads: 7521
+updated at: "2026-08-11T19:20:13Z"
 related to:
   - "[[GitHub - 1125533849]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Insert, rename, and organize images in notes and properties via local files, clipboard, drag-and-drop, or remote search (Unsplash, Pexels, Pixabay). Automate naming with templates and smart deduplication, prompt for descriptions, convert remote images to local on open/save, and support MDX plus multiple link formats."
 
     stats: {
-        downloads:  6490
-        updated_at: 1780170356000
+        downloads:  7521
+        updated_at: 1786476013000
     }
 }
 ```

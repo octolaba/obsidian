@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/unit-converter
 alt:
   - https://github.com/ruszabarov/obsidian-unit-converter
-downloads: 1860
+downloads: 1897
 updated at: "2026-05-21T00:59:04Z"
 related to:
   - "[[GitHub - 894810205]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert units inline using [<value><source unit>|<target unit>] syntax and get instant results inside your notes. Use autosuggest for unit names and open a conversion modal for mobile; support dozens of units across length, area, mass, volume, temperature, time, pressure, energy, digital, and more."
 
     stats: {
-        downloads:  1860
+        downloads:  1897
         updated_at: 1779325144000
     }
 }

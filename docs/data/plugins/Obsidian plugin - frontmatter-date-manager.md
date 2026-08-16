@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/frontmatter-date-manager
 alt:
   - https://github.com/smetdenis/obsidian-frontmatter-date-manager
-downloads: 1226
-updated at: "2026-07-05T23:41:57Z"
+downloads: 1908
+updated at: "2026-08-09T09:57:47Z"
 related to:
   - "[[GitHub - 1208052720]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Automatically maintain created, updated, and viewed date properties in your notes' YAML frontmatter. Frontmatter Date Manager stamps created on file creation, refreshes updated on every real edit, and can optionally record viewed each time you open a note - a unique feature for spaced-repetition and review workflows with Dataview. SHA-256 content hashing detects genuine changes, so sync tools (Obsidian Sync, iCloud, Syncthing, Dropbox, Git) never trigger false updates. A configurable delay keeps it compatible with Templater, Daily Notes, and QuickAdd. Pick any date format (date-fns syntax), set an IANA timezone, and use gitignore-style filter rules to control which files are tracked. Powerful bulk tools populate timestamps from filesystem dates, rename frontmatter keys, reformat existing dates, and fix updated-before-created inversions - all with dry-run previews."
 
     stats: {
-        downloads:  1226
-        updated_at: 1783294917000
+        downloads:  1908
+        updated_at: 1786269467000
     }
 }
 ```

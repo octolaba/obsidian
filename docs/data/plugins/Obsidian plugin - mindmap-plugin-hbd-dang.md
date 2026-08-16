@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mindmap-plugin-hbd-dang
 alt:
   - https://github.com/duybaodg/mindmap-plugin-hbd-dang
-downloads: 76
+downloads: 140
 updated at: "2026-07-14T05:34:44Z"
 related to:
   - "[[GitHub - 1299128724]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and edit visual mind maps that stay readable as Markdown notes with automatic layout and keyboard-first editing. Add, move, merge, group, connect, collapse, and link nodes; pan, zoom, fit maps, undo/redo, export PNG/JPEG/PDF, and save maps locally as Markdown with YAML frontmatter."
 
     stats: {
-        downloads:  76
+        downloads:  140
         updated_at: 1784007284000
     }
 }

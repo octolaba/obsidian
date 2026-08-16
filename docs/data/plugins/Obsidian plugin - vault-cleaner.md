@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-cleaner
 alt:
   - https://github.com/rapphcd/obsidian-vault-cleaner
-downloads: 284
+downloads: 321
 updated at: "2026-06-23T16:00:22Z"
 related to:
   - "[[GitHub - 1152691119]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Clean your vault with a single click and remove unused media (images, PDFs), untitled notes, and duplicate files. Keep the most recent duplicate and exclude non-empty files from deletion for safe cleanup."
 
     stats: {
-        downloads:  284
+        downloads:  321
         updated_at: 1782230422000
     }
 }

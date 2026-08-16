@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/github-pr-linker
 alt:
   - https://github.com/thequietmind/obsidian-github-linker
-downloads: 13
+downloads: 33
 updated at: "2026-07-23T16:10:11Z"
 related to:
   - "[[GitHub - 1309298885]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn GitHub pull request references like repo#123 or owner/repo#123 into Markdown links. Select a reference and run the command to replace it with a link to the PR URL. Preserve the original text as the link label and use your configured default GitHub owner for ownerless references."
 
     stats: {
-        downloads:  13
+        downloads:  33
         updated_at: 1784823011000
     }
 }

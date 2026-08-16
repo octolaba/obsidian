@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/theme-quick-switch
 alt:
   - https://github.com/lyxtsinghua/obsidian-theme-quick-switch
-downloads: 361
+downloads: 438
 updated at: "2026-04-13T02:32:33Z"
 related to:
   - "[[GitHub - 1209001787]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Switch themes with one click and toggle light, dark, or follow-system modes from Obsidian's ribbon and status bar. Enable an eye-care mode that softens the UI palette and applies gentle background tones to PDF pages for easier, less harsh reading."
 
     stats: {
-        downloads:  361
+        downloads:  438
         updated_at: 1776047553000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/horme
 alt:
   - https://github.com/ducktapekiller/horme
-downloads: 1107
+downloads: 1273
 updated at: "2026-07-19T10:50:11Z"
 related to:
   - "[[GitHub - 1228372477]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Index your vault with a local embedding model and chat with a local interaction model to find, summarize, and explore notes entirely offline. Keep all data on your machine—no API keys, no cloud."
 
     stats: {
-        downloads:  1107
+        downloads:  1273
         updated_at: 1784458211000
     }
 }

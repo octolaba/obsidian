@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/preach-md
 alt:
   - https://github.com/overmoro/preach-md
-downloads: 300
+downloads: 361
 updated at: "2026-05-16T09:27:53Z"
 related to:
   - "[[GitHub - 1213962010]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Present sermon notes in a distraction-free full-screen preach view with large serif text, hidden UI, free vertical scroll and remembered position. Use a live timer with amber/red thresholds, section outline and two-step exit; expand Bible references inline from your vault and keep the screen awake. Get in touch for any feature requests!"
 
     stats: {
-        downloads:  300
+        downloads:  361
         updated_at: 1778923673000
     }
 }

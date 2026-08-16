@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/neodb-sync
 alt:
   - https://github.com/sisyphe42/obsidian-neodb-plugin
-downloads: 81
+downloads: 89
 updated at: "2026-06-10T09:42:49Z"
 related to:
   - "[[GitHub - 1161755427]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync NeoDB data to Obsidian notes, including shelf items (wishlist, progress, complete, dropped), collections, notes, and reviews. Use customizable templates, custom NeoDB domains, and import NeoDB-exported JSON to control note format and storage."
 
     stats: {
-        downloads:  81
+        downloads:  89
         updated_at: 1781084569000
     }
 }

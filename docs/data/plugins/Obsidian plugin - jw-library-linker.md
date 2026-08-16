@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jw-library-linker
 alt:
   - https://github.com/msakowski/obsidian-library-linker
-downloads: 2304
+downloads: 2374
 updated at: "2026-06-05T08:27:16Z"
 related to:
   - "[[GitHub - 928003014]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create clickable JW Library links from typed Bible references in Obsidian using command or silent mode. Insert actual Bible quotes fetched from jw.org into notes with customizable quote templates. Use a UI that adapts to Obsidian's language and provides translated Bible book names."
 
     stats: {
-        downloads:  2304
+        downloads:  2374
         updated_at: 1780648036000
     }
 }

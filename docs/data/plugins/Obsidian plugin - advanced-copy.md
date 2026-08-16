@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/advanced-copy
 alt:
   - https://github.com/leschuster/obsidian-advanced-copy
-downloads: 5550
+downloads: 5849
 updated at: "2026-05-27T18:54:25Z"
 related to:
   - "[[GitHub - 853683296]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform Markdown into HTML, Anki-compatible HTML, or any custom format and copy the result to the clipboard. Create reusable profiles with templates for Markdown elements (supporting variables like heading level, content, filename, date) and run copy commands for page or selection."
 
     stats: {
-        downloads:  5550
+        downloads:  5849
         updated_at: 1779908065000
     }
 }

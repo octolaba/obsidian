@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rewrite-voice-notes
 alt:
   - https://github.com/wiseguru/ReWrite-Voice-Notes
-downloads: 169
+downloads: 252
 updated at: "2026-07-09T05:36:54Z"
 related to:
   - "[[GitHub - 1248446224]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Record audio (or text) and transcribe it with cloud or local engines, clean and structure the text with an LLM, and insert ready-to-use Markdown into your vault. Run fully local with whisper.cpp + a local OpenAI-compatible LLM, keep API keys encrypted, and use editable templates, speaker diarization, and saved audio embeds."
 
     stats: {
-        downloads:  169
+        downloads:  252
         updated_at: 1783575414000
     }
 }

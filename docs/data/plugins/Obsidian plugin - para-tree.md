@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/para-tree
 alt:
   - https://github.com/sparky-code/para-tree
-downloads: 91
+downloads: 119
 updated at: "2026-06-30T22:43:06Z"
 related to:
   - "[[GitHub - 1284552939]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View your PARA vault as a git-graph-style map with Areas as trunks, Projects as branches, Resources as commits, and contributes-to as merges. Inspect frontmatter live—see status, colors, last-edited and review cadence—and navigate with sidebar, search, focus/collapse controls and attention dots for overdue projects (desktop only)."
 
     stats: {
-        downloads:  91
+        downloads:  119
         updated_at: 1782859386000
     }
 }

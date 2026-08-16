@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-tagger
 alt:
   - https://github.com/canepa/plugin-obsidian-classifier
-downloads: 1643
+downloads: 2344
 updated at: "2026-05-17T15:22:16Z"
 related to:
   - "[[GitHub - 1125305011]]"
@@ -36,7 +36,7 @@ plugin: {
     description: "Multi-collection semantic tag suggestions. Create specialized classifiers for different note types with independent training and filtering. - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  1643
+        downloads:  2344
         updated_at: 1779031336000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/steward
 alt:
   - https://github.com/googlicius/obsidian-steward
-downloads: 5156
+downloads: 6304
 updated at: "2026-06-13T10:32:54Z"
 related to:
   - "[[GitHub - 964023870]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run an autonomous AI agent inside Obsidian to search and manage your vault, generate Bases or Canvas files, and automate repetitive workflows. Combine a fast BM25 search, user-defined commands and skills, model fallback and guardrails, and mostly local execution to keep responses fast, transparent, and privacy-conscious."
 
     stats: {
-        downloads:  5156
+        downloads:  6304
         updated_at: 1781346774000
     }
 }

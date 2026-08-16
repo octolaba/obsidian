@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chronology
 alt:
   - https://github.com/canna71/obsidian-chronology
-downloads: 67173
+downloads: 67850
 updated at: "2026-05-03T20:58:32Z"
 related to:
   - "[[GitHub - 525093276]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a calendar sidebar to navigate notes by day, week, month, or custom date range. View notes as a timeline (with grouping for notes created or modified in the same time slot) or as a simple list, and click a month to list its notes. Read file metadata to infer true creation dates for synced files."
 
     stats: {
-        downloads:  67173
+        downloads:  67850
         updated_at: 1777841912000
     }
 }

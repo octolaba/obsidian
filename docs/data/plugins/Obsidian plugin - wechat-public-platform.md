@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wechat-public-platform
 alt:
   - https://github.com/ai-chen2050/obsidian-wechat-public-platform
-downloads: 3369
+downloads: 3488
 updated at: "2026-04-28T04:24:48Z"
 related to:
   - "[[GitHub - 733405671]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish articles, images, and videos from Obsidian directly to your WeChat Public Account and Baidu Baijiahao. Upload and download media, add drafts, send mass messages, import YouTube videos, and open a stats dashboard to review publishing and audience data."
 
     stats: {
-        downloads:  3369
+        downloads:  3488
         updated_at: 1777350288000
     }
 }

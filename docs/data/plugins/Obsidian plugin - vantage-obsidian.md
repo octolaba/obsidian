@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vantage-obsidian
 alt:
   - https://github.com/ryanjamurphy/vantage-obsidian
-downloads: 30280
+downloads: 30665
 updated at: "2022-10-12T15:55:02Z"
 related to:
   - "[[GitHub - 328435430]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Build complex queries using Obsidian's native search tools with the Vantage advanced search builder. Add boolean operators including NOT to refine results. Open the Vantage modal from the app ribbon to access the builder quickly."
 
     stats: {
-        downloads:  30280
+        downloads:  30665
         updated_at: 1665590102000
     }
 }

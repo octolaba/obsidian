@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/simplicial-complex
 alt:
   - https://github.com/zorvan/simplicial-complex
-downloads: 108
-updated at: "2026-06-06T02:25:50Z"
+downloads: 150
+updated at: "2026-08-04T23:50:30Z"
 related to:
   - "[[GitHub - 1260900424]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Visualize higher-order relationships by representing note clusters as simplices—triangles, tetrahedra and beyond—so sets of notes form coherent units instead of mere pairwise links. Toggle between organic blob and formal geometric views, watch live layout and inference suggestions, and inspect topological metrics like Betti numbers."
 
     stats: {
-        downloads:  108
-        updated_at: 1780712750000
+        downloads:  150
+        updated_at: 1785887430000
     }
 }
 ```

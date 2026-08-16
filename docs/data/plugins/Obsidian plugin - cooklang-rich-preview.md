@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/cooklang-rich-preview
 alt:
   - https://github.com/shepherdjerred/cooklang-for-obsidian
-downloads: 284
-updated at: "2026-07-17T02:45:25Z"
+downloads: 454
+updated at: "2026-08-01T00:09:38Z"
 related to:
   - "[[GitHub - 1172200218]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Preview Cooklang .cook recipes with rich rendering that highlights ingredients, cookware, timers, and shows inline quantities and checkboxes. Render section-aware output with YAML frontmatter metadata, numbered directions, and syntax highlighting for Cooklang and plain-text recipes."
 
     stats: {
-        downloads:  284
-        updated_at: 1784256325000
+        downloads:  454
+        updated_at: 1785542978000
     }
 }
 ```

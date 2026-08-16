@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ridian
 alt:
   - https://github.com/michelnivard/Ridian
-downloads: 3768
+downloads: 3906
 updated at: "2024-12-04T08:27:52Z"
 related to:
   - "[[GitHub - 879678422]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run R code and render Quarto-compliant notebooks directly inside Obsidian. Parse notes into Quarto code chunks, render with Quarto, and embed plots and htmlwidgets into your vault so code examples render inline and connect with Obsidian search and links."
 
     stats: {
-        downloads:  3768
+        downloads:  3906
         updated_at: 1733300872000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/custom-emojis
 alt:
   - https://github.com/akskokki/obsidian-custom-emojis
-downloads: 71
+downloads: 168
 updated at: "2026-07-14T16:28:28Z"
 related to:
   - "[[GitHub - 1300131268]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Type :shortcode: and it turns into your own custom emoji image as you type. The note itself still just contains the plain text underneath; the image is a simple client-side swap that behaves like a Discord/Slack emoji."
 
     stats: {
-        downloads:  71
+        downloads:  168
         updated_at: 1784046508000
     }
 }

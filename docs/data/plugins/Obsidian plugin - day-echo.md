@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/day-echo
 alt:
   - https://github.com/tcyeee/obsidian-day-echo
-downloads: 119
+downloads: 150
 updated at: "2026-06-11T10:56:48Z"
 related to:
   - "[[GitHub - 1263896725]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Gather daily notes into a single, scrollable vertical timeline with balanced two-column cards, sticky section labels, and a running entry count. Scan months or years with month/year zoom and representative-year summaries, preview rich cards with lazy-loaded thumbnails and tags, and open any day in a modal or editor with a click."
 
     stats: {
-        downloads:  119
+        downloads:  150
         updated_at: 1781175408000
     }
 }

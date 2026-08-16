@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/link-unlinked-mentions
 alt:
   - https://github.com/jordanvasu/link-unlinked-mentions
-downloads: 201
+downloads: 257
 updated at: "2026-05-17T04:11:25Z"
 related to:
   - "[[GitHub - 1241062747]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert plain-text mentions of other notes' titles and aliases into wikilinks in the active note with one click. Show a dry-run preview of all the notes that will be turned into wikilinks, skip ambiguous matches instead of guessing, and avoid converting inside code, inline code, math, existing links, tags, HTML comments and YAML frontmatter."
 
     stats: {
-        downloads:  201
+        downloads:  257
         updated_at: 1778991085000
     }
 }

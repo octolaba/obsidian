@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/floating-highlights
 alt:
   - https://github.com/karthikraju391/obsidian-float
-downloads: 5285
+downloads: 5309
 updated at: "2026-02-18T09:33:14Z"
 related to:
   - "[[GitHub - 592640908]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Animate highlighted text as it enters the viewport in Reading mode to keep attention on important content while scrolling. Control animations per tag (highlight, bold, italic) with independent scale and duration, dim non-highlight background, choose word-only or whole-block float, and enjoy ultra-smooth transform-only transitions for better scroll performance."
 
     stats: {
-        downloads:  5285
+        downloads:  5309
         updated_at: 1771407194000
     }
 }

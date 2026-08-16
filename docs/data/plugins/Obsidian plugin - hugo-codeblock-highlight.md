@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hugo-codeblock-highlight
 alt:
   - https://github.com/aarol/obsidian-hugo-codeblock-highlight
-downloads: 2827
+downloads: 2840
 updated at: "2024-06-14T10:56:36Z"
 related to:
   - "[[GitHub - 765614742]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight specific lines in code blocks using Hugo's hl_lines syntax. Support single numbers, arrays and ranges (e.g., hl_lines=[1,\"2\",\"3-5\"]). Select lines and use the right-click option to add highlights; works in Live Preview and Source mode."
 
     stats: {
-        downloads:  2827
+        downloads:  2840
         updated_at: 1718362596000
     }
 }

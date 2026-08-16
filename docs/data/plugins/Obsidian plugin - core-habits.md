@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/core-habits
 alt:
   - https://github.com/ahmed-farhat99/core-habits
-downloads: 622
+downloads: 717
 updated at: "2026-07-15T19:25:06Z"
 related to:
   - "[[GitHub - 1196524645]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Core Habits is a visually elegant, local-first habit tracker built directly into Obsidian daily notes. Key Features: • Adaptive Layout: Automatically adapts from a weekly desktop grid to a mobile-friendly compact list in your sidebar. • Identity-Based Habit Engineering: Define cue, friction, reward, and 5-level gradations to build lasting habits. • Advanced Analytics: Live streak tracking, four-week consistency trends, and recovery resilience scores. • Atomic Markdown Storage: No central database. Your habits are stored as properties inside daily notes, keeping your data future-proof. • Seamless Integration: Fully compatible with Templater and native Daily Notes. Write daily reflections and record audio comments."
 
     stats: {
-        downloads:  622
+        downloads:  717
         updated_at: 1784143506000
     }
 }

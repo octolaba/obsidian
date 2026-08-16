@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/template-by-note-name
 alt:
   - https://github.com/jacoblearned/obsidian-template-by-note-name
-downloads: 1061
+downloads: 1072
 updated at: "2024-12-21T06:00:59Z"
 related to:
   - "[[GitHub - 784481057]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Apply templates automatically to new or renamed notes based on filename patterns (prefix, suffix, or contains). Select templates from your templates folder (including subfolders), prepend template content on rename, and choose case-sensitive or case-insensitive matching."
 
     stats: {
-        downloads:  1061
+        downloads:  1072
         updated_at: 1734760859000
     }
 }

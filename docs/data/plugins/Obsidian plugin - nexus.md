@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/nexus
 alt:
   - https://github.com/profsynapse/nexus
-downloads: 7068
-updated at: "2026-07-21T16:04:03Z"
+downloads: 8069
+updated at: "2026-08-10T13:03:32Z"
 related to:
   - "[[GitHub - 906746375]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Give AI agents and built-in chat direct, local access to your Obsidian vault to read, write, search, organize, and automate notes in natural language while keeping all data stored locally. Connect external MCP clients or use native chat on desktop and mobile, and unlock desktop-only features like local semantic search, ingestion, workspace memory, and task management."
 
     stats: {
-        downloads:  7068
-        updated_at: 1784649843000
+        downloads:  8069
+        updated_at: 1786367012000
     }
 }
 ```

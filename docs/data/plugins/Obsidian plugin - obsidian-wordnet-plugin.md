@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-wordnet-plugin
 alt:
   - https://github.com/tfthacker/Obsidian-WordNet
-downloads: 28432
+downloads: 28910
 updated at: "2025-10-04T07:15:28Z"
 related to:
   - "[[GitHub - 389662535]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Look up English words from Princeton's WordNet and browse matching senses as you type. Insert chosen words or their definitions into the current note, or display definitions in a brief notification when the note is in preview mode."
 
     stats: {
-        downloads:  28432
+        downloads:  28910
         updated_at: 1759562128000
     }
 }

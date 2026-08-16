@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/my-spaces
 alt:
   - https://github.com/hyeucong/obsidian-my-spaces
-downloads: 93
+downloads: 133
 updated at: "2026-07-20T22:55:55Z"
 related to:
   - "[[GitHub - 1305279385]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and manage multiple named spaces with custom icons to group specific files and folders. Filter the file explorer to show only the selected space’s content and focus on a single part of your vault."
 
     stats: {
-        downloads:  93
+        downloads:  133
         updated_at: 1784588155000
     }
 }

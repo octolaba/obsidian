@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-llm-assistant
 alt:
   - https://github.com/brianstm/obsidian-vault-llm-assistant
-downloads: 2354
+downloads: 2444
 updated at: "2026-03-26T12:31:54Z"
 related to:
   - "[[GitHub - 971765228]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Query your Obsidian vault with AI to get contextual answers that include citations and links back to source notes. Create new notes from AI responses with generated titles, copy results as text or Markdown, toggle vault context on or off, and use OpenAI, Google Gemini, Anthropic Claude or local LLMs (LM Studio, Ollama)."
 
     stats: {
-        downloads:  2354
+        downloads:  2444
         updated_at: 1774528314000
     }
 }

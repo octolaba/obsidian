@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-promixity
 alt:
   - https://github.com/jlweston/obsidian-note-proximity-plugin
-downloads: 974
+downloads: 996
 updated at: "2024-06-23T15:17:11Z"
 related to:
   - "[[GitHub - 813137383]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Find notes similar to the current note by analyzing word frequencies across the vault and rank matches with similarity scores indicating shared terms. Display similar notes in a sidebar and open any result in the current editor with a click."
 
     stats: {
-        downloads:  974
+        downloads:  996
         updated_at: 1719155831000
     }
 }

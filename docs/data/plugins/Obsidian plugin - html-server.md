@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/html-server
 alt:
   - https://github.com/pr0dt0s/obsidian-html-server
-downloads: 11562
+downloads: 11699
 updated at: "2023-11-22T23:41:11Z"
 related to:
   - "[[GitHub - 614124872]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Serve your Obsidian vault over HTTP and view notes in a browser while preserving your theme, images, and file links. Share read-only access across a local network via localhost or device IP, set a markdown file as the index page, and customize served HTML with per-file frontmatter variables."
 
     stats: {
-        downloads:  11562
+        downloads:  11699
         updated_at: 1700696471000
     }
 }

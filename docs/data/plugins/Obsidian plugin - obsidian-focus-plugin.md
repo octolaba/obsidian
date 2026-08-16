@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-focus-plugin
 alt:
   - https://github.com/nagi1999a/obsidian-focus-plugin
-downloads: 8725
+downloads: 9472
 updated at: "2022-11-01T08:34:27Z"
 related to:
   - "[[GitHub - 510964735]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Focus on a specific heading, its child sections, or an individual paragraph in Reading view by clicking it. Highlight the selected block and dim surrounding content to isolate the chosen text and its related context for distraction-free reading."
 
     stats: {
-        downloads:  8725
+        downloads:  9472
         updated_at: 1667291667000
     }
 }

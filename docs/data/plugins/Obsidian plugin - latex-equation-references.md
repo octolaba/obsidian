@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/latex-equation-references
 alt:
   - https://github.com/georgrasumov/Obsidian-Latex-Equation-References
-downloads: 296
+downloads: 334
 updated at: "2026-02-15T14:19:15Z"
 related to:
   - "[[GitHub - 1045838911]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Auto-number LaTeX equations based on %\\label{...} comments, inserting or updating \\tag{N} for each labeled equation. Display \\ref{...} as a human-readable \"Equation N\" (or custom prefix) in Live Preview and reveal the raw \\ref{...} when editing."
 
     stats: {
-        downloads:  296
+        downloads:  334
         updated_at: 1771165155000
     }
 }

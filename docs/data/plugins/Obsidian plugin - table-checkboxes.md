@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/table-checkboxes
 alt:
   - https://github.com/0x-dln/obsidian-table-checkboxes
-downloads: 18844
+downloads: 19357
 updated at: "2024-12-19T22:37:35Z"
 related to:
   - "[[GitHub - 555553008]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Replace markdown checkboxes inside tables with live HTML checkboxes that can be toggled in view mode and persist to the underlying file. Convert all checkboxes in the current file or include checkboxes outside tables, and regenerate checkbox IDs in bulk."
 
     stats: {
-        downloads:  18844
+        downloads:  19357
         updated_at: 1734647855000
     }
 }

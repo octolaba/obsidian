@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/index-checker
 alt:
   - https://github.com/pavlodeshko/obsidian-index-checker
-downloads: 5711
+downloads: 5818
 updated at: "2025-02-28T10:36:52Z"
 related to:
   - "[[GitHub - 637389781]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Check index (MOC) notes and Canvas files for missing links to files they should reference, including nested folders and multiple index types. Add missing links directly to the index or to a dedicated file while keeping Markdown link formatting and Canvas card placement. Run checks manually or automatically on vault open."
 
     stats: {
-        downloads:  5711
+        downloads:  5818
         updated_at: 1740739012000
     }
 }

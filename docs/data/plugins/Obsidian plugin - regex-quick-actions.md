@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/regex-quick-actions
 alt:
   - https://github.com/pan4ratte/obsidian-regex-quick-actions
-downloads: 472
-updated at: "2026-06-07T14:55:23Z"
+downloads: 522
+updated at: "2026-08-11T18:48:12Z"
 related to:
   - "[[GitHub - 1160195887]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # Regex Quick Actions
 
-Creates reusable regex actions and applies them across the vault, aimed at automation. Actions run from the command palette, from file, folder, and note context menus, or through hotkeys, and one action can be set as the default for quick use.
+Stores reusable regex actions and runs them across the vault. Actions are invoked from the command palette, from file, folder and note context menus, or by hotkey, and one action can be set as the default for quick use.
 
 ```cue
 plugin: {
@@ -33,12 +33,12 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/regex-quick-actions"
     github_url:  "https://github.com/pan4ratte/obsidian-regex-quick-actions"
-    description: "Allows you to create and quickly apply regex actions via command palette, context menus and hotkeys. Made for automation purposes. - This plugin has not been manually reviewed by Obsidian staff."
+    description: "Create and quickly apply regex commands via command palette, context menus and hotkeys. Made for automation purposes. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Create reusable regex actions and run them across your vault. Apply actions from the command palette, file/folder/note context menus or via hotkeys, and set a default action for quick use."
 
     stats: {
-        downloads:  472
-        updated_at: 1780844123000
+        downloads:  522
+        updated_at: 1786474092000
     }
 }
 ```

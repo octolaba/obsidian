@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/alias-linker
 alt:
   - https://github.com/johannrichard/alias-linker
-downloads: 54
+downloads: 118
 updated at: "2026-07-12T17:30:01Z"
 related to:
   - "[[GitHub - 778476402]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Link to notes by alias using bare [[alias]] wikilinks and resolve them to the note that defines that alias whenever a matching filename doesn’t exist. Keep standard filename links when a file matches, pick the nearest note if multiple share an alias, and apply alias resolution across graph view, backlinks, embeds, and previews."
 
     stats: {
-        downloads:  54
+        downloads:  118
         updated_at: 1783877401000
     }
 }

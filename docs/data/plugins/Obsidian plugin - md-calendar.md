@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/md-calendar
 alt:
   - https://github.com/mrrepac/obsidian-md-calendar
-downloads: 236
-updated at: "2026-07-10T21:44:19Z"
+downloads: 431
+updated at: "2026-08-05T23:28:02Z"
 related to:
   - "[[GitHub - 1287102803]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Embed a self-contained calendar in a single Markdown file by inserting an md-calendar code block and render switchable Month/Week/Day/Agenda views. Create and manage events and tasks with recurrence, colors, notes, and drag-to-reschedule, storing all data inside the block's JSON."
 
     stats: {
-        downloads:  236
-        updated_at: 1783719859000
+        downloads:  431
+        updated_at: 1785972482000
     }
 }
 ```

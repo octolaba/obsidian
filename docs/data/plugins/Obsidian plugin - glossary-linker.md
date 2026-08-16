@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/glossary-linker
 alt:
   - https://github.com/max-fluff/obsidian-glossary-linker
-downloads: 376
-updated at: "2026-07-23T15:58:39Z"
+downloads: 624
+updated at: "2026-08-03T21:45:04Z"
 related to:
   - "[[GitHub - 1284252817]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Glossary Linker automatically finds your glossary terms in your notes and turns them into links, matching each term in any grammatical form: plurals, declensions, and verb endings. A term still links when the note says \"boxes\". This morphological stemming works in six languages: English, Russian, Ukrainian, Spanish, German, and French. A glossary term is just a note in a folder you choose, with optional aliases. Matches are highlighted like links: hover to preview, click to open, right-click for actions. Turn them into real, permanent wiki links across one note, a selection, or the whole vault, and they will show up in the graph and backlinks like any other link. The plugin can also learn new aliases from links you made by hand. A glossary overview panel tracks how often each term is used, which ones are unused (orphans), and which frequent words you haven't defined yet. Handy for a wiki, worldbuilding, documentation, or any growing knowledge base."
 
     stats: {
-        downloads:  376
-        updated_at: 1784822319000
+        downloads:  624
+        updated_at: 1785793504000
     }
 }
 ```

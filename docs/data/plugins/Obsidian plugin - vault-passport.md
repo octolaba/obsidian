@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-passport
 alt:
   - https://github.com/one-wheeled-driver/obsidian-passport
-downloads: 155
+downloads: 193
 updated at: "2026-05-12T20:39:14Z"
 related to:
   - "[[GitHub - 1213596366]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export Obsidian notes to self-contained PDFs by resolving [[wiki-links]] into proper Pandoc citations and generating a BibTeX bibliography. Convert linked notes and transclusions into citation entries, render with Pandoc/citeproc, include embedded files, and replace missing links with readable text so the PDF can be shared without the vault."
 
     stats: {
-        downloads:  155
+        downloads:  193
         updated_at: 1778618354000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/callout-metadata
 alt:
   - https://github.com/dudethatserin/callout-metadata
-downloads: 26
+downloads: 63
 updated at: "2026-07-13T19:34:20Z"
 related to:
   - "[[GitHub - 1296936793]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extend callouts with pipe-separated metadata tokens to set width, color, alignment, visual effects, and custom CSS classes directly in Markdown. Use numeric tokens for percentage widths, alignment keywords for placement, any CSS color value for color, and style tokens like shadow, rounded, outline, glass, gradient, hover, and sticky."
 
     stats: {
-        downloads:  26
+        downloads:  63
         updated_at: 1783971260000
     }
 }

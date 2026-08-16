@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/katazuke
 alt:
   - https://github.com/daisukemiyazaki/katazuke
-downloads: 43
+downloads: 55
 updated at: "2026-07-16T10:04:53Z"
 related to:
   - "[[GitHub - 1298799182]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Confront over-connected notes by scoring each file using link count and untouched age to surface dense, neglected catch-alls. Exclude intentional hubs by tag and choose single-note or multi-note triage to open and tidy notes quickly."
 
     stats: {
-        downloads:  43
+        downloads:  55
         updated_at: 1784196293000
     }
 }

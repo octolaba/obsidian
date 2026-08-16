@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/gtd-flow
 alt:
   - https://github.com/gaedol/gtd-flow
-downloads: 291
-updated at: "2026-07-22T13:54:20Z"
+downloads: 424
+updated at: "2026-07-24T22:53:26Z"
 related to:
   - "[[GitHub - 1269620293]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Organize tasks and projects in Obsidian using GTD-style structure stored as plain Markdown. Keep every task as a normal checklist line while applying sequential/parallel project flow, defer dates and next-action logic, forecast and review views, quick capture, and a Mermaid-powered timeline."
 
     stats: {
-        downloads:  291
-        updated_at: 1784728460000
+        downloads:  424
+        updated_at: 1784933606000
     }
 }
 ```

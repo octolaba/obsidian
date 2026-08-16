@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/setlist-fm-sync
 alt:
   - https://github.com/fleker/setlist-for-obsidian
-downloads: 231
+downloads: 244
 updated at: "2024-12-05T17:53:27Z"
 related to:
   - "[[GitHub - 891798611]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync attended concerts from setlist.fm into a single Obsidian note, creating date-specific backlinks for each show. Add city backlinks to track places you've visited and keep a bulleted, readable list in Setlist Concerts Attended.md (requires setlist.fm API key)."
 
     stats: {
-        downloads:  231
+        downloads:  244
         updated_at: 1733421207000
     }
 }

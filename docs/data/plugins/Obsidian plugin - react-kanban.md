@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/react-kanban
 alt:
   - https://github.com/marcelrsoub/react-kanban
-downloads: 208
-updated at: "2026-07-20T01:16:45Z"
+downloads: 339
+updated at: "2026-08-04T22:48:50Z"
 related to:
   - "[[GitHub - 1263464603]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Turn your existing Markdown kanban notes into a fast, focused board UI. Keep the \"kanban-plugin: board\" format while dragging cards, reordering columns, editing notes, rendering Markdown, and tracking completed work."
 
     stats: {
-        downloads:  208
-        updated_at: 1784510205000
+        downloads:  339
+        updated_at: 1785883730000
     }
 }
 ```

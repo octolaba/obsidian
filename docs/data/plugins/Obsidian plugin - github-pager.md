@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/github-pager
 alt:
   - https://github.com/cloudac7/obsidian-github-pager
-downloads: 130
+downloads: 139
 updated at: "2026-05-11T08:47:10Z"
 related to:
   - "[[GitHub - 1154374532]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Treat Obsidian as a headless CMS and publish selected notes and images to a GitHub repo for Hugo, Jekyll, Hexo, or other static site generators. Map local files to remote paths, auto-sync on save or batch commit, convert [[WikiLinks]] to Markdown, and upload embedded images."
 
     stats: {
-        downloads:  130
+        downloads:  139
         updated_at: 1778489230000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/anycontent-vault-importer
 alt:
   - https://github.com/vancoder4-cyber/anycontent-obsidian-importer
-downloads: 662
+downloads: 810
 updated at: "2026-05-24T04:50:41Z"
 related to:
   - "[[GitHub - 1247948366]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Paste a Douyin, TikTok, WeChat Official Account, or YouTube link to send content to a local backend and create a clean Markdown note in your vault. Generate ASR transcripts, per-image OCR, scraped article bodies, or timestamped transcripts with title/channel metadata and YAML frontmatter for Dataview-ready notes."
 
     stats: {
-        downloads:  662
+        downloads:  810
         updated_at: 1779598241000
     }
 }

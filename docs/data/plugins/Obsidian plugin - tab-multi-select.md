@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tab-multi-select
 alt:
   - https://github.com/nitero/obsidian-tab-multi-select
-downloads: 212
+downloads: 256
 updated at: "2026-05-22T15:24:59Z"
 related to:
   - "[[GitHub - 1140033580]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Select and control multiple tabs with familiar inputs like Shift-click and Ctrl-click. Close selected tabs with middle-click or open a context menu for batch actions. Drag selections between tab groups or windows and undo closed-tab selections with a hotkey."
 
     stats: {
-        downloads:  212
+        downloads:  256
         updated_at: 1779463499000
     }
 }

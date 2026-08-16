@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/ai_llm
 alt:
   - https://github.com/sparky4567/obsidian_ai_plugin
-downloads: 8325
-updated at: "2024-06-30T08:09:13Z"
+downloads: 8434
+updated at: "2026-08-06T17:45:16Z"
 related to:
   - "[[GitHub - 773826950]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Use local LLM models via Ollama to process, rewrite, or augment selected text directly in the editor. Pick a running model and send selected text from the command palette to replace it with the model's output."
 
     stats: {
-        downloads:  8325
-        updated_at: 1719734953000
+        downloads:  8434
+        updated_at: 1786038316000
     }
 }
 ```

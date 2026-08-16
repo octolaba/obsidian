@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pathlinker
 alt:
   - https://github.com/kay607/obsidian-pathlinker
-downloads: 4201
+downloads: 4342
 updated at: "2025-12-17T14:42:00Z"
 related to:
   - "[[GitHub - 915369825]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Link and embed external files with ![[external:...]] using absolute or relative paths, handling common formats like md, pdf, png, jpg, mp3, and mp4. Define groups that map a group name to device-specific base paths so the same links resolve correctly across multiple devices and operating systems."
 
     stats: {
-        downloads:  4201
+        downloads:  4342
         updated_at: 1765982520000
     }
 }

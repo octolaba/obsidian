@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/context-command-hider
 alt:
   - https://github.com/mara-li/obsidian-context-menu-hider
-downloads: 3035
+downloads: 3166
 updated at: "2025-01-18T17:45:43Z"
 related to:
   - "[[GitHub - 809924537]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide any context-menu command across Obsidian, including community-plugin commands, by exact name or by regex. Apply hides globally across all context menus (note, file explorer, etc.), cannot target identical command names per-menu, and see changes take effect instantly without reloading. Disable Obsidian's native menu to enable the plugin."
 
     stats: {
-        downloads:  3035
+        downloads:  3166
         updated_at: 1737222343000
     }
 }

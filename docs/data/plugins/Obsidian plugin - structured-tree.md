@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/structured-tree
 alt:
   - https://github.com/rudtrack/structured-tree
-downloads: 3630
+downloads: 3688
 updated at: "2025-11-25T11:09:59Z"
 related to:
   - "[[GitHub - 830655881]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Explore and manage hierarchical notes with a structured file tree that maps path names to nested nodes and uses a customizable separator. Use fuzzy Lookup to open or create notes, auto-generate frontmatter for new files, rename and create files from the tree, exclude paths, and support multi-vault and all Obsidian file types (Canvas experimental)."
 
     stats: {
-        downloads:  3630
+        downloads:  3688
         updated_at: 1764068999000
     }
 }

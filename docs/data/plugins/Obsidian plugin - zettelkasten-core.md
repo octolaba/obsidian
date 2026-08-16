@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zettelkasten-core
 alt:
   - https://github.com/wesswart77/obsidian-zettelkasten
-downloads: 322
+downloads: 443
 updated at: "2026-05-24T20:07:16Z"
 related to:
   - "[[GitHub - 1248040220]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture fleeting thoughts with a quick-capture modal and inbox sidebar, auto-tagged for processing. Promote notes to permanent Zettels with timestamp Zettel IDs or to structured literature summaries, organize by configurable folders, and link permanents to build your knowledge graph."
 
     stats: {
-        downloads:  322
+        downloads:  443
         updated_at: 1779653236000
     }
 }

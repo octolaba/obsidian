@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/custom-state-for-task-list
 alt:
   - https://github.com/okamiwong/obsidian-custom-state-for-task-list
-downloads: 5811
+downloads: 5830
 updated at: "2024-11-25T06:40:03Z"
 related to:
   - "[[GitHub - 634088801]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Define custom task states by placing a state name inside a task's square brackets (e.g., [doing] Task) to mark progress beyond checked/unchecked. Render states as readable icons or labels in reading view and edit default states or add new ones like committed, doing, deferred, and removed."
 
     stats: {
-        downloads:  5811
+        downloads:  5830
         updated_at: 1732516803000
     }
 }

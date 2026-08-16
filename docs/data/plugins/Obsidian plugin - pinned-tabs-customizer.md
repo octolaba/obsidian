@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pinned-tabs-customizer
 alt:
   - https://github.com/diegomarzaa/obsidian-pinned-tabs-customizer
-downloads: 291
+downloads: 328
 updated at: "2026-05-19T13:37:02Z"
 related to:
   - "[[GitHub - 1138678213]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Resize pinned tabs and assign custom icons (emoji, symbols, or Obsidian Lucide icons) based on filenames, folders, patterns, tags, or frontmatter. Create folder- and pattern-based rules with live testing, detect conflicting rules, and adjust pinned-tab width for compact or standard layouts."
 
     stats: {
-        downloads:  291
+        downloads:  328
         updated_at: 1779197822000
     }
 }

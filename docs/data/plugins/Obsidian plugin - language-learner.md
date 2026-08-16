@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/language-learner
 alt:
   - https://github.com/wesswart77/obsidian-language-learner
-downloads: 861
+downloads: 1293
 updated at: "2026-05-24T20:05:56Z"
 related to:
   - "[[GitHub - 1248532779]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create vocabulary entries and grammar-rule notes with CEFR tags (A1–C2), translations, part of speech, example sentences, and notes. Run a 10-word vocabulary quiz and view per-language progress with CEFR-level breakdowns and totals in a sidebar."
 
     stats: {
-        downloads:  861
+        downloads:  1293
         updated_at: 1779653156000
     }
 }

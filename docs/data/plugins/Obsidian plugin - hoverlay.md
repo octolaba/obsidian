@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/hoverlay
 alt:
   - https://github.com/zspatter/obsidian-hoverlay
-downloads: 134
-updated at: "2026-07-09T21:53:49Z"
+downloads: 271
+updated at: "2026-08-01T19:52:26Z"
 related to:
   - "[[GitHub - 1293104452]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Preview external links on hover as a live page, a clean reader view (sanitized with no scripts or trackers), or a metadata card with embedded media players. Load real sites that block framing, browse inside the popover, pin and resize it, or open the page in your browser."
 
     stats: {
-        downloads:  134
-        updated_at: 1783634029000
+        downloads:  271
+        updated_at: 1785613946000
     }
 }
 ```

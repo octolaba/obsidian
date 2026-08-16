@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/fontsource
 alt:
   - https://github.com/fontsource/obsidian-fontsource
-downloads: 10155
-updated at: "2026-07-19T17:29:59Z"
+downloads: 11068
+updated at: "2026-07-26T11:46:35Z"
 related to:
   - "[[GitHub - 783354387]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Import Fontsource custom fonts into Obsidian and make any Fontsource family available for editor and preview. Apply and manage installed Fontsource fonts across your vault for consistent typography."
 
     stats: {
-        downloads:  10155
-        updated_at: 1784482199000
+        downloads:  11068
+        updated_at: 1785066395000
     }
 }
 ```

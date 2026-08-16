@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/comic-scripter
 alt:
   - https://github.com/victoriadouglas/Comic-Scripter-Obsidian
-downloads: 252
+downloads: 301
 updated at: "2026-06-29T02:01:38Z"
 related to:
   - "[[GitHub - 1283452121]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Script comics with Markdown-like syntax that marks Pages, Panels, and Dialogue for easy reading. Auto-number pages and panels, format character names and dialogue, and toggle page separators and left/right page handedness for print or manga layouts."
 
     stats: {
-        downloads:  252
+        downloads:  301
         updated_at: 1782698498000
     }
 }

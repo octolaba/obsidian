@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dualyze-notes
 alt:
   - https://github.com/dualyze-ai/dualyze-notes
-downloads: 215
+downloads: 359
 updated at: "2026-06-13T09:47:13Z"
 related to:
   - "[[GitHub - 1263063395]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Find overlapping notes by scanning titles, headings, tags, links, and content to surface duplicates and near-duplicates. Compare notes side-by-side with a score breakdown across five similarity dimensions and visible shared or unique keywords, headings, tags, and links. Create safe merge drafts and export structured Markdown comparison reports; all similarity scoring runs locally and never sends your notes to external services."
 
     stats: {
-        downloads:  215
+        downloads:  359
         updated_at: 1781344033000
     }
 }

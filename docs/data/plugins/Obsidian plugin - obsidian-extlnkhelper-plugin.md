@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-extlnkhelper-plugin
 alt:
   - https://github.com/nakalsio/obsidian-danpung
-downloads: 4428
+downloads: 4439
 updated at: "2022-11-23T19:17:32Z"
 related to:
   - "[[GitHub - 561441403]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search external links across your vault and insert previously used URLs into the current note via a suggestion modal. Open a fuzzy-searchable link viewer to find and open links, jump to their source notes, or filter results by associated tags."
 
     stats: {
-        downloads:  4428
+        downloads:  4439
         updated_at: 1669231052000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/logbook
 alt:
   - https://github.com/p1tt1/obsidian-logbook
-downloads: 31
-updated at: "2026-07-10T07:55:43Z"
+downloads: 61
+updated at: "2026-08-03T08:34:26Z"
 related to:
   - "[[GitHub - 1273759594]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Track time on tasks using org-mode LOGBOOK-style clock entries stored as plain Markdown inline fields, readable by Dataview. Clock in and out on task lines, view file reports, and find open clocks vault-wide while keeping all data local with no external services."
 
     stats: {
-        downloads:  31
-        updated_at: 1783670143000
+        downloads:  61
+        updated_at: 1785746066000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/apple-reminders-sync
 alt:
   - https://github.com/sankalpsharmaa/obsidian-apple-reminders-sync
-downloads: 282
+downloads: 333
 updated at: "2026-03-12T11:17:00Z"
 related to:
   - "[[GitHub - 1179772847]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Pull incomplete Apple Reminders due today into your daily note's ## TODO section as Markdown checklists. Append reminders as - [ ] items, preserve reminder notes as indented text, mark priorities with !!!/!!/!, deduplicate entries, and respect excluded lists while syncing on open or on a set interval."
 
     stats: {
-        downloads:  282
+        downloads:  333
         updated_at: 1773314220000
     }
 }

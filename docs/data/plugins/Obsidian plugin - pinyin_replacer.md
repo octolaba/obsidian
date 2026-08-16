@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pinyin_replacer
 alt:
   - https://github.com/larrysal/pinyin-replacer
-downloads: 1850
+downloads: 1868
 updated at: "2024-04-02T18:22:52Z"
 related to:
   - "[[GitHub - 728868805]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Replace the vowel under the cursor with its pinyin tone mark or strip tones via quick commands. Use v for ǖ/ǘ/ǚ/ǜ variants and read the status-bar reminder for tone order."
 
     stats: {
-        downloads:  1850
+        downloads:  1868
         updated_at: 1712082172000
     }
 }

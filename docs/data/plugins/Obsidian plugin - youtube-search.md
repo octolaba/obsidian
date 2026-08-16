@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/youtube-search
 alt:
   - https://github.com/plasch/obsidian-youtube-search-plugin
-downloads: 205
+downloads: 315
 updated at: "2026-05-31T12:56:14Z"
 related to:
   - "[[GitHub - 1254280585]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create Obsidian notes from any YouTube URL with rich frontmatter (title, url, videoId, channelName, channelUrl, thumbnailUrl, publishedAt, viewCount, tags). Auto-fill the URL from your clipboard, preview video metadata and thumbnail, optionally download thumbnails locally, and use a fully customizable note template with {{placeholders}}."
 
     stats: {
-        downloads:  205
+        downloads:  315
         updated_at: 1780232174000
     }
 }

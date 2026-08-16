@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/task-accountability
 alt:
   - https://github.com/sattarip/obsidian-task-accountability
-downloads: 139
+downloads: 173
 updated at: "2026-07-23T01:43:13Z"
 related to:
   - "[[GitHub - 1179073853]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track engagement by scanning your daily notes folder and flagging days you didn't create a note or checked too few tasks. View weekly, monthly, and yearly summaries with current and longest streaks, a detailed breakdown of missed days, and a customizable engagement threshold."
 
     stats: {
-        downloads:  139
+        downloads:  173
         updated_at: 1784770993000
     }
 }

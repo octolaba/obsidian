@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/carbon-voice-sync
 alt:
   - https://github.com/phononx/cv-obsidian-sync
-downloads: 48
+downloads: 60
 updated at: "2026-07-13T18:05:54Z"
 related to:
   - "[[GitHub - 1292842717]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Carbon Voice conversations and voice memos into your Obsidian vault as Markdown notes on desktop and mobile. Include transcripts, AI summaries, and embedded audio playback; generate People and Workspace [[wiki links]] to connect conversations in your graph with local token storage and background sync."
 
     stats: {
-        downloads:  48
+        downloads:  60
         updated_at: 1783965954000
     }
 }

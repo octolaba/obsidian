@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sfb-open-in-new-tab
 alt:
   - https://github.com/saltyfireball/obsidian-sfb-open-in-new-tab
-downloads: 574
+downloads: 834
 updated at: "2026-07-10T13:42:04Z"
 related to:
   - "[[GitHub - 1172071272]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open files in new tabs by default across Quick Switcher, command palette, bookmarks, search results, backlinks, graph, sidebar clicks and markdown links to avoid replacing the current tab. Focus an already-open tab instead of duplicating, keep same-file heading/block links in the current tab, and enable an optional synced split preview with an edit pane and a reading pane."
 
     stats: {
-        downloads:  574
+        downloads:  834
         updated_at: 1783690924000
     }
 }

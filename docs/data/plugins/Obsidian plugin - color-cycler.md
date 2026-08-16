@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/color-cycler
 alt:
   - https://github.com/tjbrennan/obsidian-color-cycler
-downloads: 3545
+downloads: 3569
 updated at: "2024-05-19T18:34:47Z"
 related to:
   - "[[GitHub - 602463418]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Cycle the accent color dynamically from the ribbon icon or command palette using HSL values. Choose increment, random, or preset modes, enable automatic cycling at a set interval, display the current HSL in the status bar, and apply separate light/dark behaviors or cycle on load."
 
     stats: {
-        downloads:  3545
+        downloads:  3569
         updated_at: 1716143687000
     }
 }

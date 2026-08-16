@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-reading-time
 alt:
   - https://github.com/avr/obsidian-reading-time
-downloads: 107833
+downloads: 108859
 updated at: "2024-08-31T01:34:31Z"
 related to:
   - "[[GitHub - 307578779]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display an estimated reading time for the active note in the status bar. Update the estimate automatically when switching notes so you always see how long a note will take to read."
 
     stats: {
-        downloads:  107833
+        downloads:  108859
         updated_at: 1725068071000
     }
 }

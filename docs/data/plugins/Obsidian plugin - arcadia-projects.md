@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/arcadia-projects
 alt:
   - https://github.com/arcadia-studio/obsidian-arcadia-projects
-downloads: 197
+downloads: 270
 updated at: "2026-06-10T19:47:49Z"
 related to:
   - "[[GitHub - 1193974062]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize vault notes as a sortable Table or a drag-and-drop Kanban board with real-time sync to YAML frontmatter. Group Kanban columns by a status field, filter by folder/tag/frontmatter, and export any view to CSV. Access premium Calendar, Gallery, Timeline and Portfolio views for date and visual layouts."
 
     stats: {
-        downloads:  197
+        downloads:  270
         updated_at: 1781120869000
     }
 }

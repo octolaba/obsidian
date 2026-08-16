@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/drawio-view
 alt:
   - https://github.com/sdkay/obsidian-drawio-view
-downloads: 411
-updated at: "2026-07-20T12:11:27Z"
+downloads: 537
+updated at: "2026-08-11T09:49:15Z"
 related to:
   - "[[GitHub - 1269885401]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render .drawio diagrams inline in notes by embedding them with a fenced code block. Switch pages and set height, initial zoom and pan via parameters, interactively pan/zoom/resize, and write the current page/zoom/offset back into the code block to restore the view."
 
     stats: {
-        downloads:  411
-        updated_at: 1784549487000
+        downloads:  537
+        updated_at: 1786441755000
     }
 }
 ```

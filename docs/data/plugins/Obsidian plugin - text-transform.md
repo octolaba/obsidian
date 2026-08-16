@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/text-transform
 alt:
   - https://github.com/ipshing/obsidian-text-transform
-downloads: 4061
+downloads: 4085
 updated at: "2025-08-29T22:39:51Z"
 related to:
   - "[[GitHub - 681818332]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert selected text between cases (lowercase, UPPERCASE, Title Case, camelCase, PascalCase, snake_case, kebab-case) and apply simple edits like adding lines above or below. Customize Title Case with ignored words and alternate word boundaries."
 
     stats: {
-        downloads:  4061
+        downloads:  4085
         updated_at: 1756507191000
     }
 }

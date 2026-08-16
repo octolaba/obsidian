@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ytranscript
 alt:
   - https://github.com/lstrzepek/obsidian-yt-transcript
-downloads: 50527
+downloads: 51558
 updated at: "2026-05-13T06:48:46Z"
 related to:
   - "[[GitHub - 584493563]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert YouTube transcripts directly into notes with clickable timestamps using a mobile-friendly command that detects URLs from selected text, the clipboard, or manual input. View transcripts in a desktop side panel, drag lines or timestamp links, and copy entire transcripts for quick use."
 
     stats: {
-        downloads:  50527
+        downloads:  51558
         updated_at: 1778654926000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-files-with-commands
 alt:
   - https://github.com/lostpaul/ob-open-files-with-commands
-downloads: 6098
+downloads: 6144
 updated at: "2023-07-28T08:03:21Z"
 related to:
   - "[[GitHub - 601330310]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create single-file commands by right-clicking notes to open specific files from the command palette or via Commander. Manage, rename, or delete those commands from the Community Plugins settings. Invoke a named command to jump directly to its mapped file."
 
     stats: {
-        downloads:  6098
+        downloads:  6144
         updated_at: 1690531401000
     }
 }

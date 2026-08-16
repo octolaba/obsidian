@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-notes-editor
 alt:
   - https://github.com/quorafind/Obsidian-Daily-Notes-Editor
-downloads: 40328
+downloads: 41189
 updated at: "2025-04-05T13:50:09Z"
 related to:
   - "[[GitHub - 563706375]]"
@@ -28,7 +28,7 @@ Edits multiple daily notes inline on a single page, in the manner of the default
 plugin: {
     id:     "daily-notes-editor"
     name:   "Daily Notes Editor"
-    author: "quorafind"
+    author: "Boninall"
     repo:   "quorafind/Obsidian-Daily-Notes-Editor"
 
     html_url:    "https://community.obsidian.md/plugins/daily-notes-editor"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit multiple daily notes inline on a single page, mirroring Roam-style daily note views. View and filter notes by time range (week/month/quarter/year/custom), switch between Daily/Folder/Tag modes, sort by creation or modification, and save presets for quick access."
 
     stats: {
-        downloads:  40328
+        downloads:  41189
         updated_at: 1743861009000
     }
 }

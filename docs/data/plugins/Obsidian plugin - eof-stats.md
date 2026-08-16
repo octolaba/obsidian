@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/eof-stats
 alt:
   - https://github.com/h21465/eof-stats
-downloads: 81
+downloads: 86
 updated at: "2025-12-22T03:52:50Z"
 related to:
   - "[[GitHub - 1118309676]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display unique URL and internal link counts at the end of each Markdown file. Mark the end of file with a customizable EOF indicator and colored separators, visible in both Live Preview and Reading View."
 
     stats: {
-        downloads:  81
+        downloads:  86
         updated_at: 1766375570000
     }
 }

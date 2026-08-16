@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/valnote-calculator
 alt:
   - https://github.com/orenaksakal/valnotecom-obsidian-plugin
-downloads: 167
+downloads: 182
 updated at: "2026-01-13T03:09:12Z"
 related to:
   - "[[GitHub - 1133203874]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Calculate expressions and display results inline in notes using natural-language input. Convert units and currencies, perform date/time and timezone math, define variables and aggregations, and format numbers for quick totals and summaries."
 
     stats: {
-        downloads:  167
+        downloads:  182
         updated_at: 1768273752000
     }
 }

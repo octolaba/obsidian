@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/x-bookmarks-to-vault
 alt:
   - https://github.com/18621063286/xBookmarksObsidian
-downloads: 234
+downloads: 312
 updated at: "2026-06-17T00:40:35Z"
 related to:
   - "[[GitHub - 1271265110]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your X bookmarks into Obsidian as one Markdown note per bookmark, capturing full text, media, author info, timestamps and permalinks for searchable, permanent archival. Preserve manual edits by deduping on tweet_id, support manual or scheduled sync, safe pagination and optional local media download."
 
     stats: {
-        downloads:  234
+        downloads:  312
         updated_at: 1781656835000
     }
 }

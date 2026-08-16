@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/date-list
 alt:
   - https://github.com/lumargh/obsidian-date-list
-downloads: 306
-updated at: "2026-07-08T14:10:41Z"
+downloads: 385
+updated at: "2026-07-29T14:16:53Z"
 related to:
   - "[[GitHub - 1254490131]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "This plugin allows you to search for a date or a list of dates using a number of search methods. Search using natural language, date math, or exact date and watch as the preview updates to show your options. This plugin replaces 'Natural Language Dates' and part of the functionality of Templater."
 
     stats: {
-        downloads:  306
-        updated_at: 1783519841000
+        downloads:  385
+        updated_at: 1785334613000
     }
 }
 ```

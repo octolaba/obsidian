@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/float-mark
 alt:
   - https://github.com/wanghuan9/obsidian-float-mark
-downloads: 259
+downloads: 441
 updated at: "2026-07-17T10:41:25Z"
 related to:
   - "[[GitHub - 1291635164]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Annotate and comment directly in notes using a floating selection toolbar and a block-level quick menu for formatting, commenting, copying, and deleting. Highlight text with customizable foreground and background colors saved to a sidecar JSON and view/manage comment threads in a sidebar. Sync local comments to Feishu/Lark when a document link and sync state are available."
 
     stats: {
-        downloads:  259
+        downloads:  441
         updated_at: 1784284885000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/context-prism
 alt:
   - https://github.com/stefanimp/context-prism
-downloads: 189
+downloads: 249
 updated at: "2026-06-22T17:29:34Z"
 related to:
   - "[[GitHub - 1251430303]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate token-aware, multilingual context packs from your vault to give AI assistants focused, compact evidence they can consume. Rank and explain notes related to the active file, estimate avoided context, and copy a compact Markdown pack for pasting into any assistant—indexing and processing remain local with no external calls."
 
     stats: {
-        downloads:  189
+        downloads:  249
         updated_at: 1782149374000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-latex-suite
 alt:
   - https://github.com/artisticat1/obsidian-latex-suite
-downloads: 503673
+downloads: 529572
 updated at: "2026-04-16T16:09:19Z"
 related to:
   - "[[GitHub - 476487190]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Type LaTeX math faster using snippet-driven expansions and custom snippets that expand short shortcuts into full commands (e.g., sqx → \\sqrt{x}, a/b → \\frac{a}{b}). Use auto-fraction, matrix-aware Tab/Enter behavior, and optional conceal to speed input and tidy equations."
 
     stats: {
-        downloads:  503673
+        downloads:  529572
         updated_at: 1776355759000
     }
 }

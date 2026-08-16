@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/agentic-chat
 alt:
   - https://github.com/tardigrde/obsidian-agentic-chat
-downloads: 404
-updated at: "2026-07-23T04:19:53Z"
+downloads: 695
+updated at: "2026-08-10T06:28:53Z"
 related to:
   - "[[GitHub - 1267100910]]"
 remind me:
@@ -28,7 +28,7 @@ Agentic Chat runs an agent-led AI chat in the right sidebar that acts on the vau
 plugin: {
     id:     "agentic-chat"
     name:   "Agentic Chat"
-    author: "tardigrde"
+    author: "Levente Csőke"
     repo:   "tardigrde/obsidian-agentic-chat"
 
     html_url:    "https://community.obsidian.md/plugins/agentic-chat"
@@ -37,8 +37,8 @@ plugin: {
     about:       "Run an agent-led AI chat in Obsidian's right sidebar that acts directly on your vault. Have it read, search, write, edit, rename, traverse links, and manage frontmatter with every tool call rendered inline, gate mutating actions by approval and send deletes to trash; keep data local with Ollama or zero-data-retention OpenRouter."
 
     stats: {
-        downloads:  404
-        updated_at: 1784780393000
+        downloads:  695
+        updated_at: 1786343333000
     }
 }
 ```

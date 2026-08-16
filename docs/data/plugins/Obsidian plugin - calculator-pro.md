@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/calculator-pro
 alt:
   - https://github.com/hoangminhcv2000/obsidian-calculator-pro
-downloads: 253
+downloads: 309
 updated at: "2026-06-21T03:55:17Z"
 related to:
   - "[[GitHub - 1254819910]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Calculator Pro lets you do quick calculations directly inside Obsidian. It supports scientific calculations, saves your recent calculations, and lets you copy or insert equations into notes as LaTeX."
 
     stats: {
-        downloads:  253
+        downloads:  309
         updated_at: 1782014117000
     }
 }

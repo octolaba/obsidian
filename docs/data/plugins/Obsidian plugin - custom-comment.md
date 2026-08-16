@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/custom-comment
 alt:
   - https://github.com/jack-chronicle/custom-comment
-downloads: 703
+downloads: 733
 updated at: "2025-09-08T22:46:16Z"
 related to:
   - "[[GitHub - 994025673]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert customizable comment templates anywhere in notes using {cursor} to set the cursor position. Add multiple marker sets with toggleable commands and a word-only mode to comment or uncomment the word at the cursor."
 
     stats: {
-        downloads:  703
+        downloads:  733
         updated_at: 1757371576000
     }
 }

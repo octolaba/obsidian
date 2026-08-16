@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/property-annotations
 alt:
   - https://github.com/ppeirce/property-annotations
-downloads: 91
+downloads: 96
 updated at: "2026-01-09T21:34:44Z"
 related to:
   - "[[GitHub - 1131336867]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display inline, read-only annotations for boolean properties in daily notes (e.g., went_outside: true → <3 days since last>). Detect daily notes settings automatically and show labels like <today>, <yesterday>, <never>, or <N days since last> without modifying your files."
 
     stats: {
-        downloads:  91
+        downloads:  96
         updated_at: 1767994484000
     }
 }

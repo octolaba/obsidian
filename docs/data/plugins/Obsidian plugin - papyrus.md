@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/papyrus
 alt:
   - https://github.com/papyrus-doc-ai/papyrus-obsidian
-downloads: 474
+downloads: 484
 updated at: "2025-09-13T17:46:32Z"
 related to:
   - "[[GitHub - 808173709]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Improve document grammar and structure using generative AI. Open proposed edits in a split-screen editor to accept or reject changes, analyse project structure for flaws, or chat with custom personas that can reference the active note."
 
     stats: {
-        downloads:  474
+        downloads:  484
         updated_at: 1757785592000
     }
 }

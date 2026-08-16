@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-related-notes-finder
 alt:
   - https://github.com/lifegems/obsidian-related-notes-finder
-downloads: 7780
+downloads: 7897
 updated at: "2021-05-24T17:16:02Z"
 related to:
   - "[[GitHub - 357862079]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Find notes whose titles contain words from the active note, filtering short terms and user-defined stopwords and optionally ignoring a dailies folder. Append links to matched notes into the active note and toggle whether links are added."
 
     stats: {
-        downloads:  7780
+        downloads:  7897
         updated_at: 1621876562000
     }
 }

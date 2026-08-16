@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/letterhead
 alt:
   - https://github.com/johannes-kaindl/obsidian-letterhead
-downloads: 191
-updated at: "2026-07-23T09:26:36Z"
+downloads: 275
+updated at: "2026-08-05T07:19:10Z"
 related to:
   - "[[GitHub - 1267455972]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create a professionally formatted business letter from any note using German DIN 5008 or a clean modern layout, with frontmatter-driven metadata and the note body as letter text. Export or print to PDF across platforms, preview paginated A4 output, and switch letter language (English/German) and visual style per letter."
 
     stats: {
-        downloads:  191
-        updated_at: 1784798796000
+        downloads:  275
+        updated_at: 1785914350000
     }
 }
 ```

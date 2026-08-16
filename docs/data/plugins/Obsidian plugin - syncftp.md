@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/syncftp
 alt:
   - https://github.com/alex-donnan/SyncFTP
-downloads: 6175
+downloads: 6201
 updated at: "2023-06-13T16:46:36Z"
 related to:
   - "[[GitHub - 651161246]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync files to a personal SFTP server from Obsidian using secure SFTP transfers with optional proxy support. Push or pull vault content via toolbar icons or commands, enable download-on-open and notification toggles; note that syncing can overwrite remote data and moves local files to .trash."
 
     stats: {
-        downloads:  6175
+        downloads:  6201
         updated_at: 1686674796000
     }
 }

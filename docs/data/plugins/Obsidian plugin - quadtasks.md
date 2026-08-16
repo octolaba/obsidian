@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quadtasks
 alt:
   - https://github.com/siranhq/obsidian-QuadTasks
-downloads: 181
+downloads: 204
 updated at: "2026-05-25T08:04:42Z"
 related to:
   - "[[GitHub - 1112325026]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage tasks with an interactive Eisenhower Matrix that categorizes items into Do First, Schedule, Delegate, and Eliminate. Drag and drop tasks between quadrants, capture items in a toggleable Inbox, zoom into a quadrant with Focus Mode, and keep tasks as native Markdown with wikilinks and tags."
 
     stats: {
-        downloads:  181
+        downloads:  204
         updated_at: 1779696282000
     }
 }

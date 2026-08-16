@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/random-names
 alt:
   - https://github.com/palfrey/obsidian-random-names
-downloads: 1142
+downloads: 1160
 updated at: "2024-04-21T21:54:10Z"
 related to:
   - "[[GitHub - 782572056]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert random names into notes. Choose names from many categories covering people and items, sourced from the random-names dataset."
 
     stats: {
-        downloads:  1142
+        downloads:  1160
         updated_at: 1713736450000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/running-head
 alt:
   - https://github.com/leike-dev/Obsidian-Running-Head
-downloads: 475
+downloads: 577
 updated at: "2026-07-21T17:33:19Z"
 related to:
   - "[[GitHub - 1234799401]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a customizable blog-style header under note titles showing publication date, estimated reading time, last-updated badge, breadcrumb, tabs and selected frontmatter fields. Pick Blog or Wiki layouts, enable a scroll progress bar, use locale-aware dates and colors, scope fields by folder, and export or import your settings."
 
     stats: {
-        downloads:  475
+        downloads:  577
         updated_at: 1784655199000
     }
 }

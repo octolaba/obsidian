@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/interstitial-journal
 alt:
   - https://github.com/andrewbowley/interstitial-journal
-downloads: 265
+downloads: 324
 updated at: "2026-03-11T15:23:42Z"
 related to:
   - "[[GitHub - 1167686119]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert timestamped interstitial entries into daily notes with quick commands or a keyboard shortcut. Create inline timestamped list items or timestamped wiki-link new-page stubs with the cursor ready to type, while smart line detection preserves indentation and avoids duplicate list markers."
 
     stats: {
-        downloads:  265
+        downloads:  324
         updated_at: 1773242622000
     }
 }

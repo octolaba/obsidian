@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/relation-sync
 alt:
   - https://github.com/casungo/relation-sync-plugin
-downloads: 338
+downloads: 406
 updated at: "2026-05-20T19:21:49Z"
 related to:
   - "[[GitHub - 1205368851]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync bidirectional YAML frontmatter relations automatically across your vault, updating inverse links when you add, change, or remove links. Define custom relation pairs or choose from 50+ defaults, handle single or multi-value fields, and run a bulk sync to update the whole vault."
 
     stats: {
-        downloads:  338
+        downloads:  406
         updated_at: 1779304909000
     }
 }

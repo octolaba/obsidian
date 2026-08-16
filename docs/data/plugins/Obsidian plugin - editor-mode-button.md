@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/editor-mode-button
 alt:
   - https://github.com/kubaxius/obsidian-editor-mode-button
-downloads: 28
-updated at: "2026-07-17T01:27:20Z"
+downloads: 202
+updated at: "2026-07-29T00:30:54Z"
 related to:
   - "[[GitHub - 1301935494]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Switch between distinct reading and editing modes for all open notes, and apply the chosen default to new tabs. Style each mode with custom CSS and use the ribbon indicator or built-in command to toggle modes and reload open files."
 
     stats: {
-        downloads:  28
-        updated_at: 1784251640000
+        downloads:  202
+        updated_at: 1785285054000
     }
 }
 ```

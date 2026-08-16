@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/enhanced-publisher
 alt:
   - https://github.com/chararch/obsidian-enhanced-publisher
-downloads: 2478
+downloads: 2543
 updated at: "2026-05-23T09:34:49Z"
 related to:
   - "[[GitHub - 958025105]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Store pasted images automatically in a [document_name]__assets folder and hide that folder in the sidebar. Preview Markdown as HTML with multiple themes, copy the rendered page for online platforms, or publish directly via platform APIs (WeChat Official Account supported). Render Mermaid diagrams, LaTeX math, and Chinese ruby annotations in the HTML preview."
 
     stats: {
-        downloads:  2478
+        downloads:  2543
         updated_at: 1779528889000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/git-revision-tracker
 alt:
   - https://github.com/tmk314/GitProgressTracker
-downloads: 76
+downloads: 87
 updated at: "2026-06-24T10:31:57Z"
 related to:
   - "[[GitHub - 1278191052]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track writing progress by analyzing Git commits to classify additions, deletions, and true revisions using word-frequency comparison and Levenshtein word-level diffs. View net word change, gross work volume and revision effort with overview, per-commit and daily heatmap views plus configurable weighting and file/author filters."
 
     stats: {
-        downloads:  76
+        downloads:  87
         updated_at: 1782297117000
     }
 }

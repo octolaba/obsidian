@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/radar
 alt:
   - https://github.com/lfcipriani/obsidian-radar
-downloads: 349
+downloads: 405
 updated at: "2026-05-13T19:27:40Z"
 related to:
   - "[[GitHub - 1135229865]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize notes and ideas on an interactive radar to see priorities at a glance. Group blips into category segments and prioritize by concentric rings; link blips to vault notes or create standalone text blips, drag/pan/zoom freely and promote text blips to notes."
 
     stats: {
-        downloads:  349
+        downloads:  405
         updated_at: 1778700460000
     }
 }

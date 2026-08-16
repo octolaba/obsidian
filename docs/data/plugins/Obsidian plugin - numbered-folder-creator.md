@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/numbered-folder-creator
 alt:
   - https://github.com/rajdeep31/Numbered-Folder-Creator
-downloads: 281
+downloads: 340
 updated at: "2026-03-05T08:47:55Z"
 related to:
   - "[[GitHub - 1173319489]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Maintain sequential numeric prefixes for new folders and markdown files to keep your vault organized. Run a retroactive numbering command to number existing items while preserving file extensions and ignoring already-numbered or placeholder names and the vault root."
 
     stats: {
-        downloads:  281
+        downloads:  340
         updated_at: 1772700475000
     }
 }

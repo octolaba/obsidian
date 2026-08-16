@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quick-preview
 alt:
   - https://github.com/ryotaushio/obsidian-quick-preview
-downloads: 11107
+downloads: 11331
 updated at: "2024-06-06T07:01:37Z"
 related to:
   - "[[GitHub - 721622949]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview link suggestions, Quick Switcher results, and Canvas note/media suggestions by holding Alt/Option to view content before opening it. Enable other plugins to add quick-preview support via a simple API."
 
     stats: {
-        downloads:  11107
+        downloads:  11331
         updated_at: 1717657297000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/recursive-copy
 alt:
   - https://github.com/structbylightning/obsidian-recursive-copy
-downloads: 880
+downloads: 906
 updated at: "2024-07-17T03:55:19Z"
 related to:
   - "[[GitHub - 829815142]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy all Markdown files from a folder, concatenate them, and place the combined text on the clipboard. Activate from a folder's context menu or via hotkey to copy the active file's parent folder. Load the combined content into LLMs like Claude Artifacts or ChatGPT for quick context."
 
     stats: {
-        downloads:  880
+        downloads:  906
         updated_at: 1721188519000
     }
 }

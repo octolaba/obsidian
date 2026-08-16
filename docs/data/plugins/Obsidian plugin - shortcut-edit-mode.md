@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/shortcut-edit-mode
 alt:
   - https://github.com/mara-li/obsidian-edit-shortcut
-downloads: 4395
+downloads: 5118
 updated at: "2026-06-11T19:58:02Z"
 related to:
   - "[[GitHub - 845670171]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a file-header button to switch between Source, Live Preview, and Reading modes. Use a single cycling button or display separate icons for each mode with active highlighting, and optionally show the next-mode icon instead of the current one. Requires file header and Live Preview enabled."
 
     stats: {
-        downloads:  4395
+        downloads:  5118
         updated_at: 1781207882000
     }
 }

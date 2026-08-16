@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/birthday-tracker
 alt:
   - https://github.com/raboro/Obsidian-Birthday-Tracker-Plugin
-downloads: 8310
+downloads: 8702
 updated at: "2026-06-28T17:15:38Z"
 related to:
   - "[[GitHub - 680260182]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track birthdays of friends and family from a Markdown file of name=...; birthday=... entries. Receive notifications for today's birthdays, view a list sorted by next occurrence, open a Year View calendar, and click names for more details."
 
     stats: {
-        downloads:  8310
+        downloads:  8702
         updated_at: 1782666938000
     }
 }

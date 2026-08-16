@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-embed-url
 alt:
   - https://github.com/dustinho/obsidian-copy-embed-code
-downloads: 151
+downloads: 170
 updated at: "2026-01-30T20:55:52Z"
 related to:
   - "[[GitHub - 1146256378]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy embed code for any image via a right-click menu in Live Preview, Reading view, and nested transclusions. Get local images as wiki-style embeds (![[file.png]]) and external images as markdown image links, copied to clipboard regardless of nesting depth."
 
     stats: {
-        downloads:  151
+        downloads:  170
         updated_at: 1769806552000
     }
 }

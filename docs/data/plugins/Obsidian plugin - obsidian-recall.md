@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-recall
 alt:
   - https://github.com/martin-jw/obsidian-recall
-downloads: 11351
+downloads: 11431
 updated at: "2021-04-29T15:33:42Z"
 related to:
   - "[[GitHub - 362197786]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add spaced repetition review to your vault using any SRS algorithm. Track and untrack notes or whole folders without altering files, keep review data separately, and view per-note review status in the status bar."
 
     stats: {
-        downloads:  11351
+        downloads:  11431
         updated_at: 1619710422000
     }
 }

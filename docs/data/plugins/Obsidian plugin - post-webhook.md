@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/post-webhook
 alt:
   - https://github.com/masterb1234/obsidian-post-webhook
-downloads: 7219
+downloads: 7430
 updated at: "2025-11-15T20:37:39Z"
 related to:
   - "[[GitHub - 889001536]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Post notes or selected text to one or more webhook endpoints, including YAML frontmatter, inline fields, attachments, and rendered HTML. Insert webhook responses into notes, include additional context notes, and handle complex JSON responses with attachments."
 
     stats: {
-        downloads:  7219
+        downloads:  7430
         updated_at: 1763239059000
     }
 }

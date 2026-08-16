@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/voxnote
 alt:
   - https://github.com/moonjuun/obsidian-voxnote
-downloads: 261
+downloads: 286
 updated at: "2026-05-21T04:14:53Z"
 related to:
   - "[[GitHub - 1236097416]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transcribe meeting recordings into Markdown with per-speaker [HH:MM:SS] timestamps using Deepgram. Generate optional Google Gemini summaries as structured digests (action items, decisions, key quotes) backlinked to transcripts and driven by editable Markdown templates in VoxNote/Templates. Auto-create a VoxNote/ vault folder, default to zero-retention for STT, and run on mobile with English/Korean UI."
 
     stats: {
-        downloads:  261
+        downloads:  286
         updated_at: 1779336893000
     }
 }

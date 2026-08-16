@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-share-as-gist
 alt:
   - https://github.com/timrogers/obsidian-share-as-gist
-downloads: 10089
+downloads: 10135
 updated at: "2026-05-13T21:11:04Z"
 related to:
   - "[[GitHub - 500729399]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Share notes as public or private GitHub Gists and copy the share URL to your clipboard. Update or delete gists directly from Obsidian, work with GitHub.com and Gitahub Enterprise Cloud with data residency, and optionally include a table of contents for easier navigation."
 
     stats: {
-        downloads:  10089
+        downloads:  10135
         updated_at: 1778706664000
     }
 }

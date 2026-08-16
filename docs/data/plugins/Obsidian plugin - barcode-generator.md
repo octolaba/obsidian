@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/barcode-generator
 alt:
   - https://github.com/noxonad/obsidian-barcode-generator
-downloads: 3130
+downloads: 3153
 updated at: "2024-01-07T16:53:29Z"
 related to:
   - "[[GitHub - 714673713]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate and display barcodes directly in notes using codeblocks powered by JsBarcode. Support multiple formats—Code 128 (A/B/C), EAN‑13, Pharmacode and more—and configure appearance via codeblock parameters; render on desktop and mobile."
 
     stats: {
-        downloads:  3130
+        downloads:  3153
         updated_at: 1704646409000
     }
 }

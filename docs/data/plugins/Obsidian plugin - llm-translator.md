@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/llm-translator
 alt:
   - https://github.com/kimfischer99/Obsidian-LLM-Translator
-downloads: 861
-updated at: "2026-06-05T20:34:16Z"
+downloads: 1403
+updated at: "2026-08-04T06:05:24Z"
 related to:
   - "[[GitHub - 1255303188]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Translate selected text in PDFs and Markdown in real time using local LLMs, cloud APIs, or Google/Bing. Open a sidebar for manual input, switch services or languages, copy or retry translations, and set custom prompts while keeping data local with offline models."
 
     stats: {
-        downloads:  861
-        updated_at: 1780691656000
+        downloads:  1403
+        updated_at: 1785823524000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-backup
 alt:
   - https://github.com/mshr-h/obsidian-vault-backup
-downloads: 890
+downloads: 1159
 updated at: "2026-05-13T02:38:48Z"
 related to:
   - "[[GitHub - 1126206381]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create ZIP archives of your entire vault on demand or automatically at startup/shutdown, using atomic writes to guarantee backup integrity. Manage retention with configurable policies, include hidden dotfiles, and name files with customizable date/time templates; desktop-only (macOS, Windows, Linux)."
 
     stats: {
-        downloads:  890
+        downloads:  1159
         updated_at: 1778639928000
     }
 }

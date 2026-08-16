@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/calendar-heatmap-tracker
 alt:
   - https://github.com/mxncrou/Calendar-heatmap-simple
-downloads: 37
+downloads: 59
 updated at: "2026-07-08T13:11:25Z"
 related to:
   - "[[GitHub - 1293524375]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a calendar heatmap to visualize activity over time, modeled after GitHub's contributions graph. Show daily activity as a color-coded grid to reveal patterns, streaks, and gaps at a glance."
 
     stats: {
-        downloads:  37
+        downloads:  59
         updated_at: 1783516285000
     }
 }

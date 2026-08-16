@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tag-summary-plugin
 alt:
   - https://github.com/macrojd/tag-summary
-downloads: 15407
+downloads: 15521
 updated at: "2023-03-04T20:17:41Z"
 related to:
   - "[[GitHub - 494924176]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create summaries by aggregating paragraphs or text blocks that share specified tag(s) across your vault. Scan notes for blank-line-separated blocks and insert the combined blocks via an add-summary code block, using tags: for OR matching or include: for AND matching."
 
     stats: {
-        downloads:  15407
+        downloads:  15521
         updated_at: 1677961061000
     }
 }

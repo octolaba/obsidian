@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/table-master
 alt:
   - https://github.com/moranrs/table-master
-downloads: 1458
+downloads: 2000
 updated at: "2026-05-18T03:37:49Z"
 related to:
   - "[[GitHub - 1220761554]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit Markdown tables with a single modern UI that combines GUI shortcuts, a visual grid editor, and merged-cell support. Render merged cells in Reading view and Live Preview, paste tables from Excel/HTML/TSV, and use a floating toolbar and right-click menu for quick row/column operations."
 
     stats: {
-        downloads:  1458
+        downloads:  2000
         updated_at: 1779075469000
     }
 }

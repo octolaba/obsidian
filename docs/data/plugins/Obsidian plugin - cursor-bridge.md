@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cursor-bridge
 alt:
   - https://github.com/lengff123/cursor-bridge
-downloads: 4067
+downloads: 4187
 updated at: "2025-02-20T16:25:48Z"
 related to:
   - "[[GitHub - 875450958]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open Obsidian notes and project folders directly in Cursor to access Cursor's AI-assisted coding tools. Launch files or folders with a single command, switch seamlessly between notes and the editor, and test code snippets without leaving your vault."
 
     stats: {
-        downloads:  4067
+        downloads:  4187
         updated_at: 1740068748000
     }
 }

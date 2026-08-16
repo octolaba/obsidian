@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/image-peek
 alt:
   - https://github.com/groundfic/image-peek
-downloads: 362
-updated at: "2026-06-12T20:17:36Z"
+downloads: 468
+updated at: "2026-08-10T19:19:01Z"
 related to:
   - "[[GitHub - 1267382260]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Open images in a Quick Look–style preview that zooms out from the thumbnail (FLIP animation), supports pan, pinch/scroll zoom, and arrow-based browsing across images on the page. Share or copy images (including external ones), open the source file, and close to zoom the image back into place."
 
     stats: {
-        downloads:  362
-        updated_at: 1781295456000
+        downloads:  468
+        updated_at: 1786389541000
     }
 }
 ```

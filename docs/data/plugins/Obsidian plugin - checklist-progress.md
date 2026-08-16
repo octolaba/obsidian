@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/checklist-progress
 alt:
   - https://github.com/acidghost/obsidian-checklist-progress
-downloads: 3477
+downloads: 3533
 updated at: "2024-06-14T05:51:08Z"
 related to:
   - "[[GitHub - 368555805]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Update checklist headings with completion fractions and percentages for nested task lists. Run a command or enable auto-update in Live Preview to refresh counts (e.g., 2/3 or 50%), and prefix with a minus sign to report unchecked items instead of checked ones."
 
     stats: {
-        downloads:  3477
+        downloads:  3533
         updated_at: 1718344268000
     }
 }

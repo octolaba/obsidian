@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/tasklist
 alt:
   - https://github.com/lenonss/obsidian-tasklist
-downloads: 244
-updated at: "2026-07-14T04:17:47Z"
+downloads: 319
+updated at: "2026-08-03T03:16:26Z"
 related to:
   - "[[GitHub - 1266815660]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage tasks in a centralized SQLite database with CRUD, status cycling, priority filters, a sidebar task panel, and inline tasklist codeblocks referencing tasks by ID. Track OKRs via okr codeblocks, use calendar workboards with dashboards and multi-project databases, and generate reports with integrated AI tools."
 
     stats: {
-        downloads:  244
-        updated_at: 1784002667000
+        downloads:  319
+        updated_at: 1785726986000
     }
 }
 ```

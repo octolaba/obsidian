@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/loom
 alt:
   - https://github.com/cosmicoptima/loom
-downloads: 6564
+downloads: 6611
 updated at: "2025-03-20T05:53:47Z"
 related to:
   - "[[GitHub - 603286119]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate branching continuations from any cursor using GPT-style models, creating multiple child nodes as alternative completions. Explore and manage branches in a right-sidebar tree and node pane, and request completions from OpenAI, Azure OpenAI, Cohere, TextSynth or compatible proxies."
 
     stats: {
-        downloads:  6564
+        downloads:  6611
         updated_at: 1742450027000
     }
 }

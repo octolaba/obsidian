@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dev-loader-updater
 alt:
   - https://github.com/anonymisedfellow/dev-loader-updater
-downloads: 94
+downloads: 100
 updated at: "2026-05-31T14:55:54Z"
 related to:
   - "[[GitHub - 1251615719]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Install and update private Obsidian plugins from user-defined remote sources. Use endpoint fallback when a primary source is unavailable and check/apply updates through the same source chain."
 
     stats: {
-        downloads:  94
+        downloads:  100
         updated_at: 1780239354000
     }
 }

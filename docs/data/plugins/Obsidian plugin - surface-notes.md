@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/surface-notes
 alt:
   - https://github.com/mistergf/obsidian-surface
-downloads: 15
+downloads: 47
 updated at: "2026-07-24T02:32:59Z"
 related to:
   - "[[GitHub - 1222058095]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Surface notes by date headings or custom terms in a dedicated sidebar panel. Browse entries by day, week, or month and view the content under each matching heading. Pin keyword-matched headings into a Pinned tab, grouped by term for quick access."
 
     stats: {
-        downloads:  15
+        downloads:  47
         updated_at: 1784860379000
     }
 }

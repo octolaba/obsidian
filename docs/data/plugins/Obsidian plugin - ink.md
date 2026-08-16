@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ink
 alt:
   - https://github.com/daledesilva/obsidian_ink
-downloads: 143691
+downloads: 180965
 updated at: "2026-07-20T15:41:50Z"
 related to:
   - "[[GitHub - 715051816]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Handwrite or draw directly between paragraphs using a digital pen, stylus, or Apple Pencil. Embed infinite-canvas tldraw drawings inline for sketches, scribbles, equations, and handwritten notes inside your Markdown files."
 
     stats: {
-        downloads:  143691
+        downloads:  180965
         updated_at: 1784562110000
     }
 }

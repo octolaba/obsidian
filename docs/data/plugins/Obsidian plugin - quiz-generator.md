@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quiz-generator
 alt:
   - https://github.com/ecuidev/obsidian-quiz-generator
-downloads: 18889
+downloads: 19147
 updated at: "2024-10-25T04:33:31Z"
 related to:
   - "[[GitHub - 734205839]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate exam-style questions from selected notes and folders using multiple AI models. Customize question types (T/F, multiple choice, select-all, fill-in, matching, short/long), answer in a quiz UI with real-time feedback, save as flashcards or markdown, and generate in 22 languages with LaTeX support."
 
     stats: {
-        downloads:  18889
+        downloads:  19147
         updated_at: 1729830811000
     }
 }

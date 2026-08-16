@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/granola-api-sync
 alt:
   - https://github.com/arshiaecho/obsidian-granola-api-sync
-downloads: 76
+downloads: 239
 updated at: "2026-07-17T06:59:14Z"
 related to:
   - "[[GitHub - 1303260907]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Granola meeting notes and full timestamped transcripts into your Obsidian vault via Granola's official API. Keep just your API key locally while generating per-meeting notes with metadata and linked transcript files; works on desktop and mobile."
 
     stats: {
-        downloads:  76
+        downloads:  239
         updated_at: 1784271554000
     }
 }

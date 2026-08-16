@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-auto-upload-pro
 alt:
   - https://github.com/stackbreakerx/obsidian-image-auto-upload-plugin
-downloads: 451
+downloads: 628
 updated at: "2026-06-03T16:52:10Z"
 related to:
   - "[[GitHub - 1257045162]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload pasted, dropped, or selected local images via PicGo, PicList, or PicGo-Core and replace Markdown image links with the hosted URLs. Download network images from notes or watched folders, relay them to the configured host, replace links, and skip already-relayed URLs to avoid upload loops."
 
     stats: {
-        downloads:  451
+        downloads:  628
         updated_at: 1780505530000
     }
 }

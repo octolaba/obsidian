@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/rootr-sync
 alt:
   - https://github.com/gwmage/obsidian-rootr-sync
-downloads:
-updated at:
+downloads: 29
+updated at: "2026-07-24T03:57:38Z"
 related to:
   - "[[GitHub - 1307455345]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/gwmage/obsidian-rootr-sync"
     description: "Team collaboration for your vault: share a chosen folder (or tagged notes) into a Rootr cloud workspace, so teammates and Claude or ChatGPT can read and write it. One-way sync — your vault stays local. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Push a single folder or tagged notes from your vault into your team's Rootr workspace while keeping the rest of your vault local and private. Match and filter notes entirely on your machine and send data only when you push (or enable optional auto-sync on save); store your API key locally, collect no telemetry, and keep pushed content out of AI training."
+
+    stats: {
+        downloads:  29
+        updated_at: 1784865458000
+    }
 }
 ```
 

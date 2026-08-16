@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-tweet-to-markdown
 alt:
   - https://github.com/kbravh/obsidian-tweet-to-markdown
-downloads: 13668
+downloads: 13711
 updated at: "2022-12-05T20:31:41Z"
 related to:
   - "[[GitHub - 387660603]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save tweets as clean Markdown files with tweet text, author, timestamp, and media links. Connect using a Twitter v2 API bearer token or API key to fetch tweets directly into your vault."
 
     stats: {
-        downloads:  13668
+        downloads:  13711
         updated_at: 1670272301000
     }
 }

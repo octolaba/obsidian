@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/knowledge-atlas
 alt:
   - https://github.com/eason38467/Obsidian-Knowledge-Atlas
-downloads: 67
-updated at: "2026-07-14T04:41:46Z"
+downloads: 116
+updated at: "2026-07-30T12:48:25Z"
 related to:
   - "[[GitHub - 1299861367]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Explore your vault as an animated galaxy — folders become planets and moons, node size reflects knowledge depth, and switch to a readable tree to drill down and follow Obsidian links. Search notes, view activity heatmaps and knowledge-health panels to spot orphans, unresolved links, and run stable daily reviews."
 
     stats: {
-        downloads:  67
-        updated_at: 1784004106000
+        downloads:  116
+        updated_at: 1785415705000
     }
 }
 ```

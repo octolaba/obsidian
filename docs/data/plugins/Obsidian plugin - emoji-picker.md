@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/emoji-picker
 alt:
   - https://github.com/alifa98/obsidian-emoji-picker
-downloads: 2338
+downloads: 2385
 updated at: "2024-11-26T21:51:42Z"
 related to:
   - "[[GitHub - 885724158]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a searchable emoji picker from the editor toolbar or with a hotkey. Insert selected emojis at the cursor with skin-tone and category filters, backed by the up-to-date emoji v15 set."
 
     stats: {
-        downloads:  2338
+        downloads:  2385
         updated_at: 1732657902000
     }
 }

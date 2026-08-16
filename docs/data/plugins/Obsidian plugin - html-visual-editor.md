@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/html-visual-editor
 alt:
   - https://github.com/sunxiaoqiqi/html-visual-editor-obsidian
-downloads: 264
+downloads: 365
 updated at: "2026-06-09T02:50:40Z"
 related to:
   - "[[GitHub - 1263489561]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open and edit .html and .htm files inside your Obsidian vault with a visual WYSIWYG editor. Drag, resize, select, duplicate, delete and style elements; insert text, images, tables, layouts, canvas elements, and charts. Save changes directly back to the same vault file while preserving relative links and optionally exporting pasted images to a local assets folder."
 
     stats: {
-        downloads:  264
+        downloads:  365
         updated_at: 1780973440000
     }
 }

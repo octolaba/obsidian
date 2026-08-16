@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/real-tasks
 alt:
   - https://github.com/cryptic0011/real-tasks
-downloads: 150
+downloads: 215
 updated at: "2026-04-23T18:15:42Z"
 related to:
   - "[[GitHub - 1219285502]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Remove completed task lines automatically shortly after checking them, preserving undo so Cmd/Ctrl-Z restores accidentally deleted lines. Catch completions from the editor and external writes (Dataview, sync), and add a ribbon/command to insert new tasks or sweep completed tasks on demand, with desktop and mobile support."
 
     stats: {
-        downloads:  150
+        downloads:  215
         updated_at: 1776968142000
     }
 }

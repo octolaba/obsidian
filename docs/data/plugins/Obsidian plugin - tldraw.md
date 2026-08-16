@@ -12,8 +12,8 @@ tags:
 url: https://community.obsidian.md/plugins/tldraw
 alt:
   - https://github.com/tldraw/obsidian-plugin
-downloads: 85697
-updated at: "2026-03-23T15:07:40Z"
+downloads: 88364
+updated at: "2026-07-29T11:30:40Z"
 related to:
   - "[[GitHub - 668056931]]"
 remind me:
@@ -36,8 +36,8 @@ plugin: {
     about:       "Draw diagrams and sketches inside Obsidian using Tldraw's vector tools. Store each drawing as a Markdown file and switch between visual canvas and raw Markdown to add backlinks, tags, and embed drawings into your vault."
 
     stats: {
-        downloads:  85697
-        updated_at: 1774278460000
+        downloads:  88364
+        updated_at: 1785324640000
     }
 }
 ```

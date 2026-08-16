@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/html-live-editor
 alt:
   - https://github.com/elijahchan2019/plugin-html_live_editor
-downloads:
-updated at:
+downloads: 70
+updated at: "2026-07-25T12:56:58Z"
 related to:
   - "[[GitHub - 1311957170]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/elijahchan2019/plugin-html_live_editor"
     description: "Click to edit text in HTML blocks directly within Live Preview mode. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Edit HTML blocks directly in Live Preview by clicking any text to open a popover or inline editor. Save edits with Enter or cancel with Esc while changes map back to the Markdown source via DOM-to-source mapping and auto-revert rendering when focus leaves. Support nested and repeated text and match Obsidian's dark mode."
+
+    stats: {
+        downloads:  70
+        updated_at: 1784984218000
+    }
 }
 ```
 

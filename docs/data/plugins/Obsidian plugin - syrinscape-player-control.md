@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/syrinscape-player-control
 alt:
   - https://github.com/scooper4711/obsidian-syrinscape
-downloads: 697
+downloads: 742
 updated at: "2026-07-13T16:33:54Z"
 related to:
   - "[[GitHub - 815296718]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Integrate Syrinscape Web Player into Obsidian to control immersive TTRPG soundscapes directly from your notes. Attach and layer atmospheres and effects to scenes, build custom soundboards, and play/stop, mute, or adjust volume without leaving Obsidian."
 
     stats: {
-        downloads:  697
+        downloads:  742
         updated_at: 1783960434000
     }
 }

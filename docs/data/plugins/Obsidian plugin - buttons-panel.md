@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/buttons-panel
 alt:
   - https://github.com/tracingorigins/obsidian-buttons-panel-plugin
-downloads: 1258
-updated at: "2026-07-23T23:12:24Z"
+downloads: 2290
+updated at: "2026-08-05T01:45:28Z"
 related to:
   - "[[GitHub - 1015773355]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create a customizable button panel for quick access to files, commands, links, and scripts with single-click execution. Organize buttons into categories or tabs, choose icons, reorder via drag-and-drop, search in real time, and chain multiple actions per button."
 
     stats: {
-        downloads:  1258
-        updated_at: 1784848344000
+        downloads:  2290
+        updated_at: 1785894328000
     }
 }
 ```

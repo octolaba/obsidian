@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/time-recorder
 alt:
   - https://github.com/louie-vibecoding/time-recorder
-downloads: 60
+downloads: 133
 updated at: "2026-07-24T04:16:50Z"
 related to:
   - "[[GitHub - 1301193456]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Record time with two clicks using a modal punch-in that auto-closes the previous segment and lets you add custom activities grouped by category. Back-fill and edit segments on a 24-hour timeline, view live daily/weekly/monthly summaries (copy as Markdown), and keep all data in plain Markdown files across Desktop and Android."
 
     stats: {
-        downloads:  60
+        downloads:  133
         updated_at: 1784866610000
     }
 }

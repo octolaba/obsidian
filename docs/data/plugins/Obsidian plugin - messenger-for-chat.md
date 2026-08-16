@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/messenger-for-chat
 alt:
   - https://github.com/crashdhabal/obsidian-messenger-for-chat-view
-downloads: 0
+downloads: 48
 updated at: "2026-07-23T18:12:31Z"
 related to:
   - "[[GitHub - 1310049515]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Inject conversational notes, role-play dialogues, or internal monologues directly into the active Markdown file via a persistent, draggable chatbox that hovers over the editor. Choose custom roles, auto-append formatted timestamps, and send messages in Chat View syntax from a responsive, mobile-friendly chat UI."
 
     stats: {
-        downloads:  0
+        downloads:  48
         updated_at: 1784830351000
     }
 }

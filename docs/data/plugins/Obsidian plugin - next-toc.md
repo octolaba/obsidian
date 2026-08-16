@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/next-toc
 alt:
   - https://github.com/raven-pensieve/obsidian-next-toc
-downloads: 10466
-updated at: "2026-07-03T14:13:19Z"
+downloads: 11268
+updated at: "2026-07-25T14:53:20Z"
 related to:
   - "[[GitHub - 1039527435]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Display a floating panel with the current document's reading progress, table of contents, and navigation aids. Jump to headings, track your reading position, and navigate long notes quickly from a persistent, movable panel."
 
     stats: {
-        downloads:  10466
-        updated_at: 1783087999000
+        downloads:  11268
+        updated_at: 1784991200000
     }
 }
 ```

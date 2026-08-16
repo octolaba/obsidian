@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/freeform
 alt:
   - https://github.com/tmcw/obsidian-freeform
-downloads: 1071
+downloads: 1093
 updated at: "2024-06-22T17:16:57Z"
 related to:
   - "[[GitHub - 753864195]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run arbitrary JavaScript inside sandboxed iframes in your notes. Import ESM modules from URLs (esm.sh/jsdelivr), inject styles, and use display() to render values and DOM elements for Observable-style interactive outputs."
 
     stats: {
-        downloads:  1071
+        downloads:  1093
         updated_at: 1719076617000
     }
 }

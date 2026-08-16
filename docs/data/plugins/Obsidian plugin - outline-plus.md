@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/outline-plus
 alt:
   - https://github.com/ryotaushio/obsidian-outline-plus
-downloads: 2516
+downloads: 2572
 updated at: "2024-01-07T14:43:11Z"
 related to:
   - "[[GitHub - 732868954]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Markdown in the Outline pane to show formatted headings, links, and inline content. Toggle rendering to switch between raw Markdown source and a rendered, easy-to-scan outline."
 
     stats: {
-        downloads:  2516
+        downloads:  2572
         updated_at: 1704638591000
     }
 }

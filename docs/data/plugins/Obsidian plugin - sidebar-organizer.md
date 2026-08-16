@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/sidebar-organizer
 alt:
   - https://github.com/zhywjml/obsidian-sidebar-organizer
-downloads: 1156
-updated at: "2026-06-13T03:39:30Z"
+downloads: 1810
+updated at: "2026-08-06T15:47:59Z"
 related to:
   - "[[GitHub - 1179997050]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Organize sidebar icons into grouped hover menus to declutter your workspace. Create custom groups with optional SVG icons, reorder groups via drag-and-drop, and hover to reveal blurred popup menus. Use in eight languages."
 
     stats: {
-        downloads:  1156
-        updated_at: 1781321970000
+        downloads:  1810
+        updated_at: 1786031279000
     }
 }
 ```

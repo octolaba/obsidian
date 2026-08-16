@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-dangling-links
 alt:
   - https://github.com/graydon/obsidian-dangling-links
-downloads: 18749
+downloads: 18966
 updated at: "2021-05-18T19:06:16Z"
 related to:
   - "[[GitHub - 315509528]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display all dangling links in your vault in a side panel, showing where each missing target is referenced. Group by file or folder, view occurrences and jump to each reference, collapse items, and ignore folders to narrow the list."
 
     stats: {
-        downloads:  18749
+        downloads:  18966
         updated_at: 1621364776000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/adjacency-matrix-exporter
 alt:
   - https://github.com/danielegrazzini/adjacency-matrix-exporter
-downloads: 2372
+downloads: 2390
 updated at: "2023-10-29T22:29:17Z"
 related to:
   - "[[GitHub - 711601552]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export adjacency matrices of your vault as CSV in Absolute mode (raw link counts) or Normalized mode (counts divided by source note word count). Save timestamped CSV files to your vault and set the CSV separator and destination for easy external analysis."
 
     stats: {
-        downloads:  2372
+        downloads:  2390
         updated_at: 1698618557000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kanban-complete-mover
 alt:
   - https://github.com/chrisairbrown-del/Kanban-Complete-Mover
-downloads: 35
+downloads: 82
 updated at: "2026-07-21T19:07:23Z"
 related to:
   - "[[GitHub - 1306066136]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move checked Kanban cards to a Complete lane automatically, creating that lane if none exists. Restore cards to their origin when unchecked, uncheck cards dragged out of Complete instead of forcing them back, and stamp completion date/time when enabled."
 
     stats: {
-        downloads:  35
+        downloads:  82
         updated_at: 1784660843000
     }
 }

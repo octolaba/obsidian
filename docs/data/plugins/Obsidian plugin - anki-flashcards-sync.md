@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/anki-flashcards-sync
 alt:
   - https://github.com/olofhaglund/Obsidian-Anki-Flashcards-Sync
-downloads: 148
-updated at: "2026-03-19T21:00:50Z"
+downloads: 182
+updated at: "2026-08-01T22:24:20Z"
 related to:
   - "[[GitHub - 1186604610]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render flashcard code blocks as preview cards in Reading view and Live Preview, showing one preview per template with a front/back toggle and a playable {{Audio}} button. Sync flashcards to Anki via AnkiConnect, create/update notes from frontmatter using Anki/ note-type templates, and auto-create missing decks and note types."
 
     stats: {
-        downloads:  148
-        updated_at: 1773954050000
+        downloads:  182
+        updated_at: 1785623060000
     }
 }
 ```

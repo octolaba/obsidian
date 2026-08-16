@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/igdb-game-search
 alt:
   - https://github.com/tetsuya-dev-jp/igdb-game-search
-downloads: 181
-updated at: "2026-05-17T02:05:04Z"
+downloads: 230
+updated at: "2026-08-11T05:44:43Z"
 related to:
   - "[[GitHub - 1178710309]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Search IGDB by game title and create new game notes populated with IGDB metadata. Use a Twitch Client ID and Secret to fetch IGDB data and save notes to a chosen folder with customizable filenames and optional template files."
 
     stats: {
-        downloads:  181
-        updated_at: 1778983504000
+        downloads:  230
+        updated_at: 1786427083000
     }
 }
 ```

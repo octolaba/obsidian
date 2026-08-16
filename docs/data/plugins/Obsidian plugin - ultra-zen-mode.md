@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ultra-zen-mode
 alt:
   - https://github.com/marckfp/ultra-zen-mode
-downloads: 533
+downloads: 661
 updated at: "2026-07-14T07:46:57Z"
 related to:
   - "[[GitHub - 1243527375]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Clear the screen for distraction-free reading and writing by hiding sidebars, tab bar, status bar, note properties, and an optional inline title. Reveal the interface instantly with a subtle floating exit button in the bottom-right or toggle Zen Mode anytime; works on desktop, tablet, and mobile."
 
     stats: {
-        downloads:  533
+        downloads:  661
         updated_at: 1784015217000
     }
 }

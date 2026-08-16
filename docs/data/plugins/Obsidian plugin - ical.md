@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ical
 alt:
   - https://github.com/andrewbrereton/obsidian-to-ical-plugin
-downloads: 16733
+downloads: 17456
 updated at: "2026-07-14T02:08:24Z"
 related to:
   - "[[GitHub - 709620520]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate an iCal calendar from tasks in your vault by scanning Markdown checkboxes that contain dates (YYYY-MM-DD) and convert each task into calendar events. Export the calendar to a local file or GitHub Gist, append task status markers (completed, to-do, in-progress, canceled), and handle Day Planner and Obsidian Tasks formats."
 
     stats: {
-        downloads:  16733
+        downloads:  17456
         updated_at: 1783994904000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-text-scaler
 alt:
   - https://github.com/valleytheknight/Canvas-Text-Scaler
-downloads: 45
+downloads: 199
 updated at: "2026-07-22T03:48:26Z"
 related to:
   - "[[GitHub - 1307862396]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scale text inside Canvas cards to match each card's size as you resize them rather than only with canvas zoom. Enable an optional safety net to avoid conflicts with theme font-size rules."
 
     stats: {
-        downloads:  45
+        downloads:  199
         updated_at: 1784692106000
     }
 }

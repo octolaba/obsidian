@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/memos-sync
 alt:
   - https://github.com/ryojerryyu/obsidian-memos-sync
-downloads: 3666
+downloads: 3707
 updated at: "2025-03-23T17:15:48Z"
 related to:
   - "[[GitHub - 804956365]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync memos from a Memos server into Obsidian daily notes, creating the daily note if missing and inserting memos under a specified header. Remember the last sync and perform incremental updates, or force-resync all memos or only the current day. Save memo attachments to a chosen folder."
 
     stats: {
-        downloads:  3666
+        downloads:  3707
         updated_at: 1742750148000
     }
 }

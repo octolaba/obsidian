@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/checkbox-state-dropdown
 alt:
   - https://github.com/saaralaluf-tech/ObsidianCheckboxState
-downloads: 232
+downloads: 237
 updated at: "2026-02-07T16:08:56Z"
 related to:
   - "[[GitHub - 1152236089]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Change the checkbox state of the task on the current line via a dropdown command. Use compatible themes that provide multi-state checkboxes, such as Cupertino."
 
     stats: {
-        downloads:  232
+        downloads:  237
         updated_at: 1770480536000
     }
 }

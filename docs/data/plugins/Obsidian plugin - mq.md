@@ -12,8 +12,8 @@ tags:
 url: https://community.obsidian.md/plugins/mq
 alt:
   - https://github.com/harehare/obsidian-mq
-downloads: 11
-updated at: "2026-07-22T13:42:56Z"
+downloads: 58
+updated at: "2026-08-10T13:17:57Z"
 related to:
   - "[[GitHub - 1304736585]]"
 remind me:
@@ -36,8 +36,8 @@ plugin: {
     about:       "Run jq-like mq queries directly inside Obsidian, fully client-side via WebAssembly with no network access. Insert live mq code blocks to render query results inline, target files, folders, tags or Dataview outputs, and run queries from the command palette to replace, insert, copy, report, or update notes across the vault."
 
     stats: {
-        downloads:  11
-        updated_at: 1784727776000
+        downloads:  58
+        updated_at: 1786367877000
     }
 }
 ```

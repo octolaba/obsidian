@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/html-page-preview
 alt:
   - https://github.com/satosprod/html-page-preview
-downloads: 49
+downloads: 94
 updated at: "2026-07-08T05:07:24Z"
 related to:
   - "[[GitHub - 1284216987]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview embedded .html and .htm files inline in notes with an expandable, collapsible iframe render. Choose a fixed 16:9 frame or an infinite-height mode that grows to the full page, and open the HTML in its own tab via a minimal SVG-only UI."
 
     stats: {
-        downloads:  49
+        downloads:  94
         updated_at: 1783487244000
     }
 }

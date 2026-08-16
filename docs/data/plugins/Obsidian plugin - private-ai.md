@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/private-ai
 alt:
   - https://github.com/gabosgab/ObsidianPrivateAI
-downloads: 4962
+downloads: 5051
 updated at: "2026-03-10T02:54:41Z"
 related to:
   - "[[GitHub - 1006342597]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep your notes private by running local LLMs on your device with no data sent to external services. Search your Obsidian vault for context and cite specific notes, and focus conversations on open notes for targeted insights. Switch models easily via LM Studio compatibility."
 
     stats: {
-        downloads:  4962
+        downloads:  5051
         updated_at: 1773111281000
     }
 }

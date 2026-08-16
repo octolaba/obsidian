@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-okr-manager
 alt:
   - https://github.com/jingmengzhiyue/obsidian-okr-manager
-downloads: 182
+downloads: 245
 updated at: "2026-07-07T15:55:54Z"
 related to:
   - "[[GitHub - 1234539307]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage Objectives and Key Results inside your Obsidian vault using a streamlined dashboard and built-in check-ins. Store each objective in a single Markdown file with embedded key results, automatic progress calculation across weekly/monthly/quarterly/yearly periods, support for score/percentage/number/boolean units, and local Markdown/YAML storage."
 
     stats: {
-        downloads:  182
+        downloads:  245
         updated_at: 1783439754000
     }
 }

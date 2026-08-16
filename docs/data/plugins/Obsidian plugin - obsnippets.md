@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsnippets
 alt:
   - https://github.com/chrstn67/Snippetsaurus
-downloads: 930
+downloads: 953
 updated at: "2024-11-29T10:28:15Z"
 related to:
   - "[[GitHub - 869485391]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and manage text and code snippets with a user-friendly modal, specifying languages for code snippets. Insert snippets directly into notes or automatically expand a snippet when its name is typed and followed by a space."
 
     stats: {
-        downloads:  930
+        downloads:  953
         updated_at: 1732876095000
     }
 }

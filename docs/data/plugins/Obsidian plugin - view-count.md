@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/view-count
 alt:
   - https://github.com/decaf-dev/obsidian-view-count
-downloads: 6201
+downloads: 6914
 updated at: "2024-09-17T06:36:36Z"
 related to:
   - "[[GitHub - 759252541]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track view counts for every file in your vault on desktop and mobile. Display counts in the status bar and open a sidebar view that lists most-viewed and trending notes. Sync counts to note frontmatter for mobile visibility and Dataview queries."
 
     stats: {
-        downloads:  6201
+        downloads:  6914
         updated_at: 1726554996000
     }
 }

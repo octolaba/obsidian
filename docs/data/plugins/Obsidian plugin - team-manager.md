@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/team-manager
 alt:
   - https://github.com/andyguy-dot/obsidian-team-manager
-downloads:
-updated at:
+downloads: 202
+updated at: "2026-07-30T14:46:51Z"
 related to:
   - "[[GitHub - 1309966948]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/andyguy-dot/obsidian-team-manager"
     description: "Manage your team: people cards with cadence health, 1:1s with agenda buffers, projects with logs, performance observations, and a universal quick capture. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Run your team. Manage people, 1:1s, projects and action items with a dashboard showing cadence health, an agenda buffer that preserves captured notes, a Kanban board, performance observations, and a universal quick-capture — all stored as plain Markdown with YAML frontmatter."
+
+    stats: {
+        downloads:  202
+        updated_at: 1785422811000
+    }
 }
 ```
 

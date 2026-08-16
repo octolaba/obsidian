@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/ink-floating-toc
 alt:
   - https://github.com/dsvictor/ink-floating-toc
-downloads: 145
-updated at: "2026-07-22T18:07:26Z"
+downloads: 535
+updated at: "2026-08-08T11:27:10Z"
 related to:
   - "[[GitHub - 1274704285]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Display a minimalist floating Table of Contents as proportional bars for H1–H6 to give a compact, visual overview of document structure. Adapt controls for mouse and touch to scroll, fold headings, and collapse sub-sections. Customize colors, bar styles, and sizing to match your theme."
 
     stats: {
-        downloads:  145
-        updated_at: 1784743646000
+        downloads:  535
+        updated_at: 1786188430000
     }
 }
 ```

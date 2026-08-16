@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ink-player
 alt:
   - https://github.com/uglyboy-tl/obsidian-ink-player
-downloads: 706
+downloads: 743
 updated at: "2026-05-24T23:46:42Z"
 related to:
   - "[[GitHub - 942372172]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Play Inkle Ink scripts in Obsidian to run interactive fiction with advanced parsing and custom tag support. Save and restore game state and enjoy full mobile compatibility and web-game style interactions."
 
     stats: {
-        downloads:  706
+        downloads:  743
         updated_at: 1779666402000
     }
 }

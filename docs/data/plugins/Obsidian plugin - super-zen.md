@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/super-zen
 alt:
   - https://github.com/hornatx/super-zen
-downloads: 245
+downloads: 283
 updated at: "2026-06-05T22:16:31Z"
 related to:
   - "[[GitHub - 1246357659]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "进入极简禅模式，隐藏侧栏、状态栏、标签头和文档元数据并自动启用全屏，突出当前编辑器只剩文字。保留左侧参考窗格并将右侧设为专注全屏，提供悬浮垂直选项卡与居中留白的打字机式排版。"
 
     stats: {
-        downloads:  245
+        downloads:  283
         updated_at: 1780697791000
     }
 }

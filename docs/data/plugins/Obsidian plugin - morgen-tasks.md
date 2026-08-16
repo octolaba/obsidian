@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/morgen-tasks
 alt:
   - https://github.com/morgen-so/morgen-obsidian
-downloads: 13088
+downloads: 13245
 updated at: "2024-12-06T15:32:06Z"
 related to:
   - "[[GitHub - 820344477]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect your Obsidian vault to Morgen and view tasks side-by-side with any calendar to plan and time-block using drag-and-drop scheduling. Sync completions and done dates back to Obsidian, auto-schedule recurring tasks, filter by due date or priority, and hide or replace task IDs for cleaner lists."
 
     stats: {
-        downloads:  13088
+        downloads:  13245
         updated_at: 1733499126000
     }
 }

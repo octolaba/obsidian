@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/oz-image-plugin
 alt:
   - https://github.com/ozntel/oz-image-in-editor-obsidian
-downloads: 349036
+downloads: 352564
 updated at: "2024-02-10T19:35:14Z"
 related to:
   - "[[GitHub - 361289205]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display images, PDFs, iframes, Excalidraw drawings and transclusions directly in the editor without switching to Preview. Support local and remote files via Markdown or wikilinks, control size with alt-text presets or WxH values, and run in the new editor's Source Mode (Live Preview not supported)."
 
     stats: {
-        downloads:  349036
+        downloads:  352564
         updated_at: 1707593714000
     }
 }

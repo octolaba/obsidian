@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/fantasy-name
 alt:
   - https://github.com/lukewh/fantasy-name
-downloads: 33359
+downloads: 33606
 updated at: "2023-08-15T13:58:13Z"
 related to:
   - "[[GitHub - 671087029]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate fantasy names inside Obsidian using an online name generator. Produce character, place, or species names on demand and insert them directly into your notes."
 
     stats: {
-        downloads:  33359
+        downloads:  33606
         updated_at: 1692107893000
     }
 }

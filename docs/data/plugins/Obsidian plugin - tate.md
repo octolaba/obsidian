@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/tate
 alt:
   - https://github.com/nekoe/obsidian-tate
-downloads: 267
-updated at: "2026-06-21T15:59:27Z"
+downloads: 331
+updated at: "2026-07-27T05:10:06Z"
 related to:
   - "[[GitHub - 1208577106]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render and edit Japanese notes in authentic vertical writing (top-to-bottom, right-to-left) — with smooth editing even on files with over a million characters. Annotate text with ruby (furigana), tate-chu-yoko, emphasis marks, and headings via Aozora Bunko notation. Inline editing expands and collapses raw Aozora text so you write in the final rendered form without switching modes. Navigate large documents with the outline panel, which lists headings extracted from Aozora notation and lets you jump to any section instantly. Find and replace text across the entire file with the built-in search panel. Typography helpers write actual U+3000 full-width-space characters for indentation — not just visual padding — and auto-indent matches the leading spaces of the preceding paragraph."
 
     stats: {
-        downloads:  267
-        updated_at: 1782057567000
+        downloads:  331
+        updated_at: 1785129006000
     }
 }
 ```

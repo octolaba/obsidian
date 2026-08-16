@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mantle-kanban
 alt:
   - https://github.com/carnalmatrix/obsidian-mantle-kanban
-downloads: 179
+downloads: 207
 updated at: "2026-05-31T20:54:55Z"
 related to:
   - "[[GitHub - 1255443501]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mantle Kanban brings a professional-grade project tracking board directly to your vault. Designed for seamless task coordination, it allows you to drag and drop cards across customisable columns to update status instantly. Cards render full Markdown preview content, links, images, and frontmatter metadata, allowing you to manage note resources in a clean card view. The board features sub-task checklist progress bars and a unique, responsive dot-pattern background that reacts to mouse movements. Optimised for the Zenith theme to inherit visual accents and glows, it is the perfect tool for visual thinkers and project managers looking to organise notes."
 
     stats: {
-        downloads:  179
+        downloads:  207
         updated_at: 1780260895000
     }
 }

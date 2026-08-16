@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-filter
 alt:
   - https://github.com/ikoshelev/Obsidian-Canvas-Filter
-downloads: 15531
+downloads: 15711
 updated at: "2023-12-24T17:22:27Z"
 related to:
   - "[[GitHub - 591781139]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Filter canvas nodes by color, tag, or connections to and from selected nodes to display only related items. Hide selected nodes temporarily while preserving their positions; closing and reopening the canvas restores visibility."
 
     stats: {
-        downloads:  15531
+        downloads:  15711
         updated_at: 1703438547000
     }
 }

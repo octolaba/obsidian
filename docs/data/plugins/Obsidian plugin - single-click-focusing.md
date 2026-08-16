@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/single-click-focusing
 alt:
   - https://github.com/thisiselijah/obsidian-single-click-focusing-plugin
-downloads: 14
+downloads: 28
 updated at: "2026-07-11T03:00:49Z"
 related to:
   - "[[GitHub - 1285768009]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Focus files and folders in the file explorer with a single click, returning keyboard focus so you can immediately press Enter to rename or navigate with arrow keys. Select a folder name without expanding it; use the folder arrow to expand or collapse."
 
     stats: {
-        downloads:  14
+        downloads:  28
         updated_at: 1783738849000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/account-viewer
 alt:
   - https://github.com/muaz742/obsidian-accointing-viewer
-downloads: 4433
+downloads: 4529
 updated at: "2024-07-26T14:07:00Z"
 related to:
   - "[[GitHub - 825595299]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate accounting tables from Markdown code blocks tagged with the accounting alias. Render transactions and journal entries into clear tables by parsing dates, account names, amounts, pages and descriptions for quick review."
 
     stats: {
-        downloads:  4433
+        downloads:  4529
         updated_at: 1722002820000
     }
 }

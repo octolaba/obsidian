@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ego-rock
 alt:
   - https://github.com/echo-bravo-yahoo/ego-rock
-downloads: 10276
+downloads: 10506
 updated at: "2024-03-22T17:01:06Z"
 related to:
   - "[[GitHub - 761882590]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View Taskwarrior tasks directly in Obsidian's reading view using task-table and task-count code blocks. Render results as HTML tables or monospace ASCII and define custom reports, filter expressions, or command-line overrides via YAML-formatted code blocks."
 
     stats: {
-        downloads:  10276
+        downloads:  10506
         updated_at: 1711126866000
     }
 }

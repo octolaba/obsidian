@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-enhancing-mindmap
 alt:
   - https://github.com/markmindckm/obsidian-enhancing-mindmap
-downloads: 232090
+downloads: 233915
 updated at: "2023-08-03T06:21:48Z"
 related to:
   - "[[GitHub - 380627904]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create interactive mind maps from Markdown with links, inline styles, multiline text, inline code and KaTeX. Edit nodes inline, drag-and-drop to reorganize, undo/redo, zoom and center, and toggle between mindmap and markdown views with synchronized boards."
 
     stats: {
-        downloads:  232090
+        downloads:  233915
         updated_at: 1691043708000
     }
 }

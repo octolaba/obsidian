@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/yeet
 alt:
   - https://github.com/davidvkimball/obsidian-yeet
-downloads: 90
-updated at: "2026-05-30T19:48:58Z"
+downloads: 100
+updated at: "2026-08-10T22:39:12Z"
 related to:
   - "[[GitHub - 1218299138]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Publish the current note to yeet.md with a single hotkey and create immutable snapshots at unique /s/<id> URLs. Store per-snapshot delete tokens to unpublish later, copy published links, list all vault snapshots, and show a status-bar indicator for published or drifted notes."
 
     stats: {
-        downloads:  90
-        updated_at: 1780170538000
+        downloads:  100
+        updated_at: 1786401552000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wordcraft
 alt:
   - https://github.com/danferns/obsidian-wordcraft
-downloads: 2638
+downloads: 2837
 updated at: "2025-03-12T06:00:56Z"
 related to:
   - "[[GitHub - 943108619]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Find rhymes, synonyms, and descriptive words within Obsidian for songwriting and poetry. Switch between thesaurus/reverse-dictionary, rhyme (including near rhymes), noun→adjective and adjective→noun modes, chain searches by clicking results, and filter by syllable stress; requires internet."
 
     stats: {
-        downloads:  2638
+        downloads:  2837
         updated_at: 1741759256000
     }
 }

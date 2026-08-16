@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/apex-dashboard
 alt:
   - https://github.com/pandorareads/apex-dashboard
-downloads: 16944
-updated at: "2026-07-03T16:12:14Z"
+downloads: 21992
+updated at: "2026-08-10T04:35:51Z"
 related to:
   - "[[GitHub - 1238525750]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Consolidate memos, todos, projects, and reference notes into a single, customizable dashboard. Capture ideas with memo cards, manage tasks with interactive checklists and progress bars, link project cards to notes, files, and media, and add sidebar widgets for calendar, weather, heatmap, and a Pomodoro timer."
 
     stats: {
-        downloads:  16944
-        updated_at: 1783095134000
+        downloads:  21992
+        updated_at: 1786336551000
     }
 }
 ```

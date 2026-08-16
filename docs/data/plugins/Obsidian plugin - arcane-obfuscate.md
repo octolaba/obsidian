@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/arcane-obfuscate
 alt:
   - https://github.com/travismlee/arcane-obfuscate
-downloads: 734
+downloads: 769
 updated at: "2024-07-25T22:09:14Z"
 related to:
   - "[[GitHub - 821186560]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Obfuscate text into animated runic characters in editor and exported HTML while preserving whitespace and escaped characters as plain text. Mark text with ~...~ and reveal letters with backslashes or reveal whole words by prefixing with !; do not rely on obfuscation for strong secrecy since text structure remains exposed."
 
     stats: {
-        downloads:  734
+        downloads:  769
         updated_at: 1721945354000
     }
 }

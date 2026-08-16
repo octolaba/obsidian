@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/md-cal-gen
 alt:
   - https://github.com/zachatrocity/md-cal-gen
-downloads: 1083
+downloads: 1125
 updated at: "2025-07-08T21:08:43Z"
 related to:
   - "[[GitHub - 997140505]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate markdown month or week table calendars and insert them into notes with a single command. Provide quick-insert for the current date, mobile/desktop compatibility, and clean, customizable table output for planning and tracking."
 
     stats: {
-        downloads:  1083
+        downloads:  1125
         updated_at: 1752008923000
     }
 }

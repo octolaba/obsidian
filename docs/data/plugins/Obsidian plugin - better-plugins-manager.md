@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-plugins-manager
 alt:
   - https://github.com/eondrcode/obsidian-manager
-downloads: 16684
+downloads: 17500
 updated at: "2026-07-13T07:51:18Z"
 related to:
   - "[[GitHub - 902227814]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage Obsidian plugins with delayed start, batch operations, groups/tags, custom names/notes and GitHub repo installs for fine-grained control. Troubleshoot conflicts via a binary-search wizard and export Markdown reports. Customize ribbon icons and use mobile-friendly layouts."
 
     stats: {
-        downloads:  16684
+        downloads:  17500
         updated_at: 1783929078000
     }
 }

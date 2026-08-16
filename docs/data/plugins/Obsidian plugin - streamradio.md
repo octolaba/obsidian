@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/streamradio
 alt:
   - https://github.com/fnsign/StreamRadio
-downloads: 275
-updated at: "2026-06-29T15:41:55Z"
+downloads: 327
+updated at: "2026-07-31T12:04:23Z"
 related to:
   - "[[GitHub - 1257694727]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Search web radio stations by name, country, language, or tag and preview streams before saving favorites. Manage your favorites, reorder them, and control playback from a right sidebar player showing station logos, volume, skip, and a sleep timer. Focus on your tasks by using the optional and feature-rich built-in Pomodoro timer, while listening to your favorite tunes."
 
     stats: {
-        downloads:  275
-        updated_at: 1782747715000
+        downloads:  327
+        updated_at: 1785499463000
     }
 }
 ```

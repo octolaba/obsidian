@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/alt-click-to-copy
 alt:
   - https://github.com/veersheth/obsidian-alt-click-to-copy
-downloads: 2594
+downloads: 2621
 updated at: "2024-02-10T05:16:07Z"
 related to:
   - "[[GitHub - 755400640]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy codeblocks by Alt-clicking them in reading view. Grab code or text instantly without selecting or highlighting."
 
     stats: {
-        downloads:  2594
+        downloads:  2621
         updated_at: 1707542167000
     }
 }

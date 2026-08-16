@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/harvest
 alt:
   - https://github.com/nwbort/obsidian-harvest
-downloads: 110
+downloads: 114
 updated at: "2026-05-18T05:49:30Z"
 related to:
   - "[[GitHub - 1068846397]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Integrate Harvest time tracking into Obsidian and control timers without leaving your notes. Start, stop, and view running timers, see project, task and duration in the status bar, and generate time reports inside notes using a simple query language."
 
     stats: {
-        downloads:  110
+        downloads:  114
         updated_at: 1779083370000
     }
 }

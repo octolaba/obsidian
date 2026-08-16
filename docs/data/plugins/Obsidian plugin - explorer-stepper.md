@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/explorer-stepper
 alt:
   - https://github.com/kefate/obsidian-explorer-stepper
-downloads: 90
+downloads: 120
 updated at: "2026-06-15T09:58:00Z"
 related to:
   - "[[GitHub - 1269918256]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Navigate to the previous or next file in the current folder using configurable hotkeys. Include direct child files (Markdown, images, PDFs, Canvas), sort names with locale-aware natural ordering so file2 comes before file10, exclude nested folders, and stop at the first/last file without wrapping while showing notices in English or Chinese."
 
     stats: {
-        downloads:  90
+        downloads:  120
         updated_at: 1781517480000
     }
 }

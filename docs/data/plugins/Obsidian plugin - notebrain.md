@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notebrain
 alt:
   - https://github.com/kiluahh/notebrain
-downloads: 232
+downloads: 271
 updated at: "2026-05-19T04:54:54Z"
 related to:
   - "[[GitHub - 1243112387]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with an AI inside any note, stream replies inline, and keep conversations as %% comment blocks so nothing leaves your vault. Call 21 built-in tools for vault search, web research and academic papers; show collapsible thinking blocks and insert content with +++ fill-in-the-middle markers."
 
     stats: {
-        downloads:  232
+        downloads:  271
         updated_at: 1779166494000
     }
 }

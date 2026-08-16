@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-order
 alt:
   - https://github.com/lukasbach/obsidian-file-order
-downloads: 48649
+downloads: 49513
 updated at: "2026-02-20T11:30:52Z"
 related to:
   - "[[GitHub - 620557172]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Order files and folders with number-prefixes and reorder them by dragging items in the file explorer. Update all file links automatically when names change and store ordering in filenames so order persists after uninstall. Clear custom prefixes to restore default sorting."
 
     stats: {
-        downloads:  48649
+        downloads:  49513
         updated_at: 1771587052000
     }
 }

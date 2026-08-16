@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-gitkeep
 alt:
   - https://github.com/satosprod/auto-gitkeep
-downloads: 55
+downloads: 72
 updated at: "2026-07-03T14:29:53Z"
 related to:
   - "[[GitHub - 1283163491]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add .gitkeep files to every folder to keep empty directories tracked by Git and preserved when cloning. Scan the vault on startup, watch new or renamed folders, respect excluded paths, and provide manual add/remove actions plus a status panel showing folders and .gitkeep counts."
 
     stats: {
-        downloads:  55
+        downloads:  72
         updated_at: 1783088993000
     }
 }

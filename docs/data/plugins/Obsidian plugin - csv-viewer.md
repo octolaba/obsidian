@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/csv-viewer
 alt:
   - https://github.com/jethrojones/obsidian-csv-viewer
-downloads: 400
-updated at: "2026-06-28T15:08:09Z"
+downloads: 592
+updated at: "2026-07-29T19:08:41Z"
 related to:
   - "[[GitHub - 1157391850]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "File Viewer makes structured data easier to work with directly inside Obsidian. Open CSV files as interactive tables with sortable columns, real-time search, match highlighting, inline cell editing, and automatic save-on-blur behavior. It also adds a focused .log file viewer with line numbers, timestamp highlighting, log-level coloring, search, level filters, and auto-scroll for growing logs. You can also view SRT and VTT files as well. The plugin runs entirely inside your vault. It does not make network requests, collect telemetry, require an account, or read files outside the CSV or log file you open."
 
     stats: {
-        downloads:  400
-        updated_at: 1782659289000
+        downloads:  592
+        updated_at: 1785352121000
     }
 }
 ```

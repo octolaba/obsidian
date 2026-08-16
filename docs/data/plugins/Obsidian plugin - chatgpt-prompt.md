@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chatgpt-prompt
 alt:
   - https://github.com/coduhuey/ChatGPT-Prompt-Plugin-For-Obsidian
-downloads: 21020
+downloads: 21347
 updated at: "2024-03-09T06:13:22Z"
 related to:
   - "[[GitHub - 750724921]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Send templated prompts to ChatGPT when opening or creating a note by mapping note tags to templates that use {{title}} and optional {{context}} placeholders. Ask follow-up questions directly via the built-in chatbox to refine responses."
 
     stats: {
-        downloads:  21020
+        downloads:  21347
         updated_at: 1709964802000
     }
 }

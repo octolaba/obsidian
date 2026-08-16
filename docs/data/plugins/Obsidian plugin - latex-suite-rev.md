@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/latex-suite-rev
 alt:
   - https://github.com/jqml/latex-suite-rev
-downloads:
-updated at:
+downloads: 124
+updated at: "2026-07-26T18:34:28Z"
 related to:
   - "[[GitHub - 1311499607]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # LaTeX Suite Rev
 
-LaTeX Suite Rev speeds up typesetting LaTeX math through snippets, text expansion and editor enhancements. It preserves inline-math context when Obsidian inserts lists or headings, by recognising composite CodeMirror math-delimiter nodes and keeping inline and display classification separate. Its recorded inputs warn against enabling it together with the official LaTeX Suite, because the two conflict.
+Adds snippets and text expansion so LaTeX math can be typed quickly. It also bundles editor enhancements for working with math.
 
 ```cue
 plugin: {
@@ -33,8 +33,12 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/latex-suite-rev"
     github_url:  "https://github.com/jqml/latex-suite-rev"
-    description: "Make typesetting LaTeX math as fast as handwriting through snippets, text expansion, and editor enhancements - This plugin has not been manually reviewed by Obsidian staff."
-    about:       "Type LaTeX math as quickly as handwriting with inline snippet expansion and editor extensions for fast math input. Preserve inline-math context when Obsidian inserts lists or headings by recognizing composite CodeMirror math-delimiter nodes and keeping inline vs display classification separate. Avoid enabling this and the official LaTeX Suite together to prevent conflicts."
+    description: "Type LaTeX math quickly with snippets, text expansion, and editor enhancements. - This plugin has not been manually reviewed by Obsidian staff."
+
+    stats: {
+        downloads:  124
+        updated_at: 1785090868000
+    }
 }
 ```
 

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-douban-plugin
 alt:
   - https://github.com/wanxp/obsidian-douban
-downloads: 42308
+downloads: 45991
 updated at: "2026-04-23T13:53:33Z"
 related to:
   - "[[GitHub - 494670955]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import movies, books, music, TV shows, diaries and games from Douban into Obsidian, including ratings, watch/read dates, comments, tags and cover images. Sync personal watch/read/listen/play histories, save covers locally or to image hosts, and build timelines or Douban-style pages."
 
     stats: {
-        downloads:  42308
+        downloads:  45991
         updated_at: 1776952413000
     }
 }

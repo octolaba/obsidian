@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/latex-math
 alt:
   - https://github.com/zarstensen/obsidian-latex-math
-downloads: 6689
+downloads: 6846
 updated at: "2026-04-22T15:59:24Z"
 related to:
   - "[[GitHub - 928001338]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Evaluate LaTeX math blocks with SymPy to compute and simplify expressions directly in your notes. Solve equations and systems, expand, factor, perform partial-fraction decomposition, handle units, constants and symbol assumptions, and convert expressions to SymPy code, inserting results into math blocks."
 
     stats: {
-        downloads:  6689
+        downloads:  6846
         updated_at: 1776873564000
     }
 }

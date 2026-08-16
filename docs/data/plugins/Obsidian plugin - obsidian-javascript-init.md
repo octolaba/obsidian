@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-javascript-init
 alt:
   - https://github.com/ryanpcmcquen/obsidian-javascript-init
-downloads: 6328
+downloads: 6351
 updated at: "2021-10-16T20:44:37Z"
 related to:
   - "[[GitHub - 413165149]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run custom JavaScript automatically on Obsidian startup or execute scripts on demand. Use scripts to automate workflows, modify the UI, or add bespoke behavior."
 
     stats: {
-        downloads:  6328
+        downloads:  6351
         updated_at: 1634417077000
     }
 }

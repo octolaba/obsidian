@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/weekly-todo-calendar
 alt:
   - https://github.com/jessiesun-vibe/weekly-todo-calendar
-downloads: 125
+downloads: 165
 updated at: "2026-06-29T15:32:04Z"
 related to:
   - "[[GitHub - 1279069527]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open weekly notes as an editable Monday–Sunday calendar and manage timed tasks inline by dragging, resizing and editing them. Keep notes as portable Markdown, show tasks from daily notes, the Tasks plugin and ICS calendars, and sync weeks to an iCloud Apple Calendar on macOS, updating events to avoid duplicates."
 
     stats: {
-        downloads:  125
+        downloads:  165
         updated_at: 1782747124000
     }
 }

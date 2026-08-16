@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-auto-pair-chinese-symbol
 alt:
   - https://github.com/renmu123/obsidian-auto-pair-chinese-symbol
-downloads: 12064
+downloads: 12095
 updated at: "2021-06-05T14:12:26Z"
 related to:
   - "[[GitHub - 365467266]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Pair Chinese punctuation such as 《》、【】、（）、‘’、“”、「」 automatically as you type. Delete matching pairs together, wrap selected text with pairs, support ignore lists, and auto-complete single and double quotes forward."
 
     stats: {
-        downloads:  12064
+        downloads:  12095
         updated_at: 1622902346000
     }
 }

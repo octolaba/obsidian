@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/suggest-notes
 alt:
   - https://github.com/doggy-footprint/Suggest-Notes
-downloads: 334
+downloads: 343
 updated at: "2024-09-10T07:36:45Z"
 related to:
   - "[[GitHub - 814458742]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Suggest relevant notes as you write by tracking note names, aliases, folders, or tags you define. Prioritize frequently chosen connections to surface common links and speed linking without typing [[."
 
     stats: {
-        downloads:  334
+        downloads:  343
         updated_at: 1725953805000
     }
 }

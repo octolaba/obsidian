@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/anki-sync-plus
 alt:
   - https://github.com/rochag07/anki-sync-plus
-downloads: 5004
+downloads: 5074
 updated at: "2023-10-05T18:18:18Z"
 related to:
   - "[[GitHub - 673544505]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Obsidian notes with Anki to add, update, or delete flashcards by scanning folders or from the current note. Map the first tag to a deck, exclude tags, auto-remove stale anki-id, support images and Excalidraw, and use regex to strip unwanted text."
 
     stats: {
-        downloads:  5004
+        downloads:  5074
         updated_at: 1696529898000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graph-node-preview
 alt:
   - https://github.com/yaye-work/obsidian-never-leave-graph-view
-downloads: 98
+downloads: 146
 updated at: "2026-07-16T01:24:39Z"
 related to:
   - "[[GitHub - 1297890806]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview, edit, and create notes directly from the graph view using a companion sidebar pane. Hover nodes to preview, click to edit in the sidebar pane, or click greyed nodes to create notes at that node's position, respecting active graph filters."
 
     stats: {
-        downloads:  98
+        downloads:  146
         updated_at: 1784165079000
     }
 }

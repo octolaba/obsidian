@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/short-tab-name
 alt:
   - https://github.com/shumpei-tanaka/obsidian-short-tab-name
-downloads: 2280
+downloads: 2288
 updated at: "2023-11-23T13:36:18Z"
 related to:
   - "[[GitHub - 722583053]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide filename prefixes like zettel UIDs from tab titles to show concise, readable names. Specify a regular expression to control which parts of the filename get stripped from the tab."
 
     stats: {
-        downloads:  2280
+        downloads:  2288
         updated_at: 1700746578000
     }
 }

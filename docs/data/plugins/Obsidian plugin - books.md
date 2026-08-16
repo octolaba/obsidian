@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/books
 alt:
   - https://github.com/jdsimcoe/obsidian-books
-downloads: 132
+downloads: 205
 updated at: "2026-06-02T06:02:53Z"
 related to:
   - "[[GitHub - 1242937178]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Author and organize long-form manuscripts inside your vault with a book workspace featuring a left-side navigator, a spine view for sections and chapters, drag-and-drop reordering, and readable manuscript tabs. Apply writerly styling, save snippets to a per-book scratchpad, pull research from notes, include canvases, and export the ordered spine to a single Markdown file stored locally under Books/."
 
     stats: {
-        downloads:  132
+        downloads:  205
         updated_at: 1780380173000
     }
 }

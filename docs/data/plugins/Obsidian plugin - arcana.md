@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/arcana
 alt:
   - https://github.com/a-f-v/obsidian-arcana
-downloads: 8430
+downloads: 8450
 updated at: "2025-04-14T15:28:52Z"
 related to:
   - "[[GitHub - 631325366]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Use AI agents inspired by historical figures to chat in-context, generate text, transcribe speech, and synthesize text-to-speech. Create custom agents, generate flashcards, move files, auto-tag and rename notes, and apply metadata using OpenAI, Anthropic, Google, or OpenRouter."
 
     stats: {
-        downloads:  8430
+        downloads:  8450
         updated_at: 1744644532000
     }
 }

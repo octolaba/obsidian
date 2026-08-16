@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sentence-rhythm
 alt:
   - https://github.com/adamfletcher/obsidian-sentence-rhythm
-downloads: 5697
+downloads: 6005
 updated at: "2026-06-03T20:18:21Z"
 related to:
   - "[[GitHub - 958611310]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight sentences with color-coding to reveal sentence-length variety and rhythm in your writing. Toggle highlighting and customize length thresholds, colors, or the CSS classes applied for advanced styling."
 
     stats: {
-        downloads:  5697
+        downloads:  6005
         updated_at: 1780517901000
     }
 }

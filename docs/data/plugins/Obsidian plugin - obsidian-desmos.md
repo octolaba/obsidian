@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-desmos
 alt:
   - https://github.com/nigecat/obsidian-desmos
-downloads: 26799
+downloads: 27751
 updated at: "2024-06-24T02:34:40Z"
 related to:
   - "[[GitHub - 376484482]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Desmos graphs directly inside notes using desmos-graph code blocks, with offline support. Write LaTeX equations (multiple per block), set bounds, dimensions, grid and trig mode, and apply per-equation style, color and restrictions for custom plots."
 
     stats: {
-        downloads:  26799
+        downloads:  27751
         updated_at: 1719196480000
     }
 }

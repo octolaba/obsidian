@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ballistics
 alt:
   - https://github.com/jheddings/obsidian-ballistics
-downloads: 117
+downloads: 123
 updated at: "2026-06-03T19:09:43Z"
 related to:
   - "[[GitHub - 1237059686]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed ballistics tables directly in notes using a ballistics-table code block. Generate range-by-range trajectories from inputs like ballistic coefficient, muzzle/muzzle velocity, sight height, zero range, wind and bullet weight, and switch between imperial or metric units."
 
     stats: {
-        downloads:  117
+        downloads:  123
         updated_at: 1780513783000
     }
 }

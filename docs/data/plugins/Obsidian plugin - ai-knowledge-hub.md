@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/ai-knowledge-hub
 alt:
   - https://github.com/zinverno/obsidian-ai-hub
-downloads: 342
-updated at: "2026-07-03T23:34:49Z"
+downloads: 463
+updated at: "2026-07-25T18:05:30Z"
 related to:
   - "[[GitHub - 1237567431]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Integrate large language models (OpenRouter, Ollama, OpenAI, Groq or custom) into your Obsidian vault. Generate and insert AI text, analyze and rewrite selections, batch-process notes, run a two-phase MapReduce audit to find orphan notes, recommend tags/links, cluster topics, and export Markdown reports with Dataview links."
 
     stats: {
-        downloads:  342
-        updated_at: 1783121689000
+        downloads:  463
+        updated_at: 1785002730000
     }
 }
 ```

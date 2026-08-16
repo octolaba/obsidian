@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/youtube-transcript-fetcher
 alt:
   - https://github.com/ljantzen/obsidian-youtube-transcript
-downloads: 5173
-updated at: "2026-05-28T18:46:27Z"
+downloads: 5577
+updated at: "2026-08-05T12:42:11Z"
 related to:
   - "[[GitHub - 1124757617]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Fetch and embed YouTube video transcripts into notes with clickable timestamps and extracted video metadata. Generate AI-cleaned transcripts and concise summaries via OpenAI, Gemini, Claude or custom LLMs, and save outputs as Markdown, PDF, or SRT files."
 
     stats: {
-        downloads:  5173
-        updated_at: 1779993987000
+        downloads:  5577
+        updated_at: 1785933731000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pdf2img
 alt:
   - https://github.com/rasmusachr/PDF2Images
-downloads: 2102
+downloads: 2157
 updated at: "2026-04-07T19:12:45Z"
 related to:
   - "[[GitHub - 871184565]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert PDF pages into images and insert them directly into notes for inline viewing and annotation. Extract page headers, prevent duplicate headers, and add customizable spacing or separators below each image while choosing image formats and quality for optimal size and clarity."
 
     stats: {
-        downloads:  2102
+        downloads:  2157
         updated_at: 1775589165000
     }
 }

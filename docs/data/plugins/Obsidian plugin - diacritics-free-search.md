@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/diacritics-free-search
 alt:
   - https://github.com/spenhos/obsidian-diacritics-free-search
-downloads: 161
+downloads: 195
 updated at: "2026-06-11T13:51:28Z"
 related to:
   - "[[GitHub - 1228519637]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search and replace text while ignoring diacritical marks (Hebrew nikud, Arabic tashkil, Latin accents, Greek polytonic and other Unicode combining marks). Use a Chrome-style in-note search with real-time highlights, navigation and scrollbar markers, or run a vault-wide modal showing matched lines, per-file counts and a global replace option."
 
     stats: {
-        downloads:  161
+        downloads:  195
         updated_at: 1781185888000
     }
 }

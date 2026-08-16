@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/subtle-toc
 alt:
   - https://github.com/xupisco/obisidian-suble-toc
-downloads: 265
-updated at: "2026-07-20T11:50:33Z"
+downloads: 537
+updated at: "2026-08-04T21:02:06Z"
 related to:
   - "[[GitHub - 1285575479]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add a floating Capacities-style table of contents with a discreet dashed minimap on the edge of your note. Hover or click to open a popover outline that highlights the active heading and jumps to sections; tracks headings in editing and reading modes and supports smooth scroll plus side and level options."
 
     stats: {
-        downloads:  265
-        updated_at: 1784548233000
+        downloads:  537
+        updated_at: 1785877326000
     }
 }
 ```

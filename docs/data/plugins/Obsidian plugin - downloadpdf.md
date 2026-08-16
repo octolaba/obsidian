@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/downloadpdf
 alt:
   - https://github.com/frieda21/downloadPDF
-downloads: 1188
+downloads: 1207
 updated at: "2024-11-04T16:06:29Z"
 related to:
   - "[[GitHub - 868261415]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Download all PDFs linked across your notes and save each into the parent folder of its linking file. Invoke the downloadPDF command from the command palette to fetch and store PDFs locally."
 
     stats: {
-        downloads:  1188
+        downloads:  1207
         updated_at: 1730736389000
     }
 }

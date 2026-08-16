@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/on-demand-plugins
 alt:
   - https://github.com/22-2/obsidian-on-demand-plugins
-downloads: 1080
+downloads: 1451
 updated at: "2026-07-10T05:13:33Z"
 related to:
   - "[[GitHub - 1147367511]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Delay plugin activation and load plugins only when needed to reduce Obsidian startup time. Register lightweight placeholders (dummy commands) and load the real plugin when its command, a configured view, or a specific file is used; choose per-plugin modes like on-demand, layout-ready, always enabled, or disabled."
 
     stats: {
-        downloads:  1080
+        downloads:  1451
         updated_at: 1783660413000
     }
 }

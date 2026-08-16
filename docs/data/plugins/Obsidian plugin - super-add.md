@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/super-add
 alt:
   - https://github.com/imed-ghomari/super-add-obsidian
-downloads: 114
+downloads: 130
 updated at: "2026-05-12T20:25:01Z"
 related to:
   - "[[GitHub - 1135697013]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create structured task files from a single natural-language line, parsing title, tags, estimates, due and scheduled dates, recurrence into clean frontmatter. Recognize custom properties (string, number, boolean, array, date, datetime), merge templates while preserving key order, preview parsed fields as pills, and insert quick [[links]] via a file picker."
 
     stats: {
-        downloads:  114
+        downloads:  130
         updated_at: 1778617501000
     }
 }

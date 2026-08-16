@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/waypoint
 alt:
   - https://github.com/idreesinc/Waypoint
-downloads: 124798
+downloads: 127547
 updated at: "2025-12-29T03:14:16Z"
 related to:
   - "[[GitHub - 467755310]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate automatic tables of contents inside folder notes by inserting a waypoint marker. Auto-update links when files are created, moved, renamed, or deleted; include files in subfolders, nest waypoints to prevent redundant links, and expose folders in the graph view."
 
     stats: {
-        downloads:  124798
+        downloads:  127547
         updated_at: 1766978056000
     }
 }

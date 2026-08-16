@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hash-pasted-image
 alt:
   - https://github.com/hardingadonis/hash-pasted-image
-downloads: 1415
+downloads: 1445
 updated at: "2025-08-25T17:32:30Z"
 related to:
   - "[[GitHub - 823545660]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Rename pasted images to a content-based SHA-512 hash. Rename image files copied into the vault, support selectable hash algorithms and encodings, and show optional notifications."
 
     stats: {
-        downloads:  1415
+        downloads:  1445
         updated_at: 1756143150000
     }
 }

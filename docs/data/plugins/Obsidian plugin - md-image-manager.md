@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/md-image-manager
 alt:
   - https://github.com/ytahml/obsidian-image-manager
-downloads: 408
-updated at: "2026-07-19T05:04:56Z"
+downloads: 765
+updated at: "2026-08-09T08:34:15Z"
 related to:
   - "[[GitHub - 1250192348]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage vault images with compression, a gallery browser, batch operations, and remote hosting uploads (Aliyun OSS, Qiniu, S3, custom). Convert wiki links to Markdown, auto-upload pasted images, detect and clean orphan files, rename images while updating references, and organize resources by template."
 
     stats: {
-        downloads:  408
-        updated_at: 1784437496000
+        downloads:  765
+        updated_at: 1786264455000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-achievements
 alt:
   - https://github.com/zachatoo/obsidian-achievements
-downloads: 7442
+downloads: 7592
 updated at: "2022-12-13T04:44:15Z"
 related to:
   - "[[GitHub - 551812932]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Gamify note-taking by earning achievements for common Obsidian actions and milestones. Track progress on goals like your first note, 100/1,000 notes, internal links, nested headings, tags, and command/quick-switch usage to celebrate progress."
 
     stats: {
-        downloads:  7442
+        downloads:  7592
         updated_at: 1670906655000
     }
 }

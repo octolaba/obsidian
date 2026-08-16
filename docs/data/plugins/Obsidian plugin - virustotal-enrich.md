@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/virustotal-enrich
 alt:
   - https://github.com/ytisf/virustotal-enrich
-downloads: 1428
+downloads: 1452
 updated at: "2024-08-29T03:56:14Z"
 related to:
   - "[[GitHub - 833910329]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Query VirusTotal directly in Obsidian to fetch intelligence on files, URLs, IPs, and domains. Enrich notes with detailed properties like hashes, filetype, and creation date, and add them as note content or metadata for Dataview queries. Provide a VirusTotal API key to enable queries."
 
     stats: {
-        downloads:  1428
+        downloads:  1452
         updated_at: 1724903774000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/wetongbu
 alt:
   - https://github.com/ygx2378/wetongbu-obsidian-plugin
-downloads: 36
-updated at: "2026-07-23T08:24:12Z"
+downloads: 169
+updated at: "2026-07-26T14:20:42Z"
 related to:
   - "[[GitHub - 1303917962]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync selected WeChat articles, Feishu docs and article-like webpages into your Obsidian Vault as Markdown with images and attachments. Auto-poll for tasks and save files directly to the current Vault. Connect the browser extension with a one‑time 6‑digit code and choose local or hosted image storage."
 
     stats: {
-        downloads:  36
-        updated_at: 1784795052000
+        downloads:  169
+        updated_at: 1785075642000
     }
 }
 ```

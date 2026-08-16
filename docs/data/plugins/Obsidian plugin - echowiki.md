@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/echowiki
 alt:
   - https://github.com/mohammadmaso/echowiki
-downloads: 44
+downloads: 60
 updated at: "2026-07-05T16:38:57Z"
 related to:
   - "[[GitHub - 1289952996]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Compile notes and voice recordings into a structured, interlinked wiki inside your vault. Create raw/ and wiki/ folders automatically and convert dropped notes or recordings into interconnected wiki pages using the bundled Mastra compiler."
 
     stats: {
-        downloads:  44
+        downloads:  60
         updated_at: 1783269537000
     }
 }

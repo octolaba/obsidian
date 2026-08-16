@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/para-shortcuts
 alt:
   - https://github.com/goatiful/para-shortcuts
-downloads: 6854
+downloads: 7062
 updated at: "2024-02-24T10:19:23Z"
 related to:
   - "[[GitHub - 444816013]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a PARA folder structure in your vault and add new entries with ready-made Markdown templates. Move files to archive, restore archived items, postpone entries into a 'postponed' folder and reschedule them, with automatic folder creation and cleanup."
 
     stats: {
-        downloads:  6854
+        downloads:  7062
         updated_at: 1708769963000
     }
 }

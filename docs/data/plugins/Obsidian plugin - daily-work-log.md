@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/daily-work-log
 alt:
   - https://github.com/seongchan/DailyWorkLog
-downloads: 32
-updated at: "2026-07-14T07:37:43Z"
+downloads: 72
+updated at: "2026-08-08T11:09:30Z"
 related to:
   - "[[GitHub - 1299793231]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Visualize daily time tracking and To-Dos from your YYYY-MM-DD markdown notes in a right‑sidebar monthly calendar, event timeline, and To-Do list — no YAML frontmatter needed. Edit Events and To-Dos inline, recognize English and Korean headings, toggle a separate sidebar Light/Dark theme, and view a dashboard with streaks, totals, and 30‑day To-Do completion and Event time."
 
     stats: {
-        downloads:  32
-        updated_at: 1784014663000
+        downloads:  72
+        updated_at: 1786187370000
     }
 }
 ```

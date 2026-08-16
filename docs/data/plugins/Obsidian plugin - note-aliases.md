@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-aliases
 alt:
   - https://github.com/pulsovi/obsidian-note-aliases
-downloads: 4957
+downloads: 4973
 updated at: "2023-05-22T08:18:47Z"
 related to:
   - "[[GitHub - 493542251]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save a wikilink's display alias into the target note's YAML frontmatter aliases list. Find or create the linked note when the cursor is on a wikilink and add the alias to that note."
 
     stats: {
-        downloads:  4957
+        downloads:  4973
         updated_at: 1684743527000
     }
 }

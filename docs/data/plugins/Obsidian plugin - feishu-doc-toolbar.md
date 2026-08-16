@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/feishu-doc-toolbar
 alt:
   - https://github.com/lishu2043687491-ux/Obsidian-ZengQiang
-downloads: 376
+downloads: 478
 updated at: "2026-07-11T09:39:13Z"
 related to:
   - "[[GitHub - 1256185683]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a floating T toolbar for formatting, inserts, tables and templates. Manage templates, apply native table colors and sizing, use short links with safer anchors, localize remote images, switch to wide-page layout, copy selections/pages as PNG, and archive Claudian chats."
 
     stats: {
-        downloads:  376
+        downloads:  478
         updated_at: 1783762753000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/root-folder-context-menu
 alt:
   - https://github.com/mnaoumov/obsidian-root-folder-context-menu
-downloads: 5108
-updated at: "2026-07-21T01:20:18Z"
+downloads: 5237
+updated at: "2026-08-08T19:26:14Z"
 related to:
   - "[[GitHub - 730412672]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add a full folder context menu to the vault root and to the empty area of the Files pane. Access the same folder actions available for other folders directly from the vault root or blank space in the sidebar."
 
     stats: {
-        downloads:  5108
-        updated_at: 1784596818000
+        downloads:  5237
+        updated_at: 1786217174000
     }
 }
 ```

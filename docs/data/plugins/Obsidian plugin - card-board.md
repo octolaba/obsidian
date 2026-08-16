@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/card-board
 alt:
   - https://github.com/roovo/obsidian-card-board
-downloads: 169834
+downloads: 172378
 updated at: "2024-02-25T11:26:33Z"
 related to:
   - "[[GitHub - 353290415]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize tasks from any Markdown file into kanban-style boards with date-based and tag-based columns. Display tasks as cards that show subtasks, indented notes, tags and due dates, and mix column types on a single board."
 
     stats: {
-        downloads:  169834
+        downloads:  172378
         updated_at: 1708860393000
     }
 }

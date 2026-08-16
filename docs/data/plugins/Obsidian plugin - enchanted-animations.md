@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/enchanted-animations
 alt:
   - https://github.com/oczko24/Enchanted-Animations
-downloads: 1504
-updated at: "2026-07-05T17:08:41Z"
+downloads: 2766
+updated at: "2026-08-07T01:22:18Z"
 related to:
   - "[[GitHub - 1173619471]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Animate Obsidian's interface with fluid, high-frame-rate visual effects across panels, buttons, and menus. Adjust animation speed and easing and choose which UI elements animate to tailor motion throughout the app."
 
     stats: {
-        downloads:  1504
-        updated_at: 1783271321000
+        downloads:  2766
+        updated_at: 1786065738000
     }
 }
 ```

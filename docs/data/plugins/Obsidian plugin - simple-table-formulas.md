@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-table-formulas
 alt:
   - https://github.com/maxcohn/obsidian-simple-table-formulas
-downloads: 22
+downloads: 52
 updated at: "2026-07-12T18:55:23Z"
 related to:
   - "[[GitHub - 1298529174]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add spreadsheet-style formulas to Markdown tables by writing expressions like =SUM(B2:B4) directly in cells. Evaluate formulas to bake computed values into cells while preserving the original formula in an inline %%...%% comment, keeping all data and formulas in plain Markdown for portability."
 
     stats: {
-        downloads:  22
+        downloads:  52
         updated_at: 1783882523000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cloze
 alt:
   - https://github.com/dearvikki/obsidian-cloze-plugin
-downloads: 17407
+downloads: 17570
 updated at: "2025-02-17T04:38:02Z"
 related to:
   - "[[GitHub - 680056093]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create cloze deletions from highlighted, underlined, bolded, or any selected text in editor or reading mode and toggle each cloze by clicking it. Display optional hints, reveal answers on hover or via the context menu, batch-create or remove clozes, and toggle all clozes with the ribbon."
 
     stats: {
-        downloads:  17407
+        downloads:  17570
         updated_at: 1739767082000
     }
 }

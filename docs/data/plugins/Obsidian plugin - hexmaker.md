@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/hexmaker
 alt:
   - https://github.com/sbuffkin/hexmaker
-downloads: 1199
-updated at: "2026-06-30T11:10:41Z"
+downloads: 1445
+updated at: "2026-08-09T15:00:46Z"
 related to:
   - "[[GitHub - 1189884242]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create an interactive hex-grid world in Obsidian and attach terrain, locations, paths, and notes to each hex. Paint terrain, draw styled paths, link town/dungeon/feature notes, roll weighted random tables, and browse or edit every hex as a Markdown file in a spreadsheet."
 
     stats: {
-        downloads:  1199
-        updated_at: 1782817841000
+        downloads:  1445
+        updated_at: 1786287646000
     }
 }
 ```

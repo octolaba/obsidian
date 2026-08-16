@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/snippets
 alt:
   - https://github.com/cristianvasquez/obsidian-snippets-plugin
-downloads: 6586
+downloads: 6662
 updated at: "2021-06-22T09:23:50Z"
 related to:
   - "[[GitHub - 322821110]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run code snippets (Python, JavaScript, shell, etc.) directly from notes and append their output after the code fence or display it in a modal. Recognize and run snippets in preview via a run button or invoke the Run command in edit mode; use placeholders like {{vault_path}}, {{folder}}, {{file_name}} and {{file_path}}."
 
     stats: {
-        downloads:  6586
+        downloads:  6662
         updated_at: 1624353830000
     }
 }

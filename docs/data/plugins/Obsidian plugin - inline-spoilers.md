@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/inline-spoilers
 alt:
   - https://github.com/logonoff/obsidian-inline-spoilers
-downloads: 12404
+downloads: 12818
 updated at: "2026-06-06T01:56:58Z"
 related to:
   - "[[GitHub - 825159922]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add inline spoilers using the ||...|| syntax to hide text within notes. Reveal or hide spoilers by clicking, optionally show all spoilers at once, and customize appearance with provided CSS variables and classes."
 
     stats: {
-        downloads:  12404
+        downloads:  12818
         updated_at: 1780711018000
     }
 }

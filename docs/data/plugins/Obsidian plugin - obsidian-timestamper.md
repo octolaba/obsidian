@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-timestamper
 alt:
   - https://github.com/gru80/obsidian-timestamper
-downloads: 45720
+downloads: 46143
 updated at: "2022-10-22T19:46:35Z"
 related to:
   - "[[GitHub - 442428126]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert time- or date-stamps into notes using two preconfigured templates or an ad-hoc format dialog. Save and reuse the last custom format and use moment.js tokens for flexible formatting. Work on both desktop and mobile Obsidian."
 
     stats: {
-        downloads:  45720
+        downloads:  46143
         updated_at: 1666467995000
     }
 }

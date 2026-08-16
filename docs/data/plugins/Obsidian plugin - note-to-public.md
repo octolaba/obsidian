@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-to-public
 alt:
   - https://github.com/greedyhao/obsidian-note-to-public
-downloads: 101
+downloads: 106
 updated at: "2026-06-01T13:56:36Z"
 related to:
   - "[[GitHub - 1246823228]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish Obsidian notes to WeChat Official Accounts via the official API. Render Obsidian syntax (WikiLinks, ==highlights==, ~~strikethrough~~, callouts), convert Mermaid diagrams to images, and auto-upload local images to WeChat media while generating WeChat-compatible HTML. Preview articles live in a right sidebar that updates when switching files."
 
     stats: {
-        downloads:  101
+        downloads:  106
         updated_at: 1780322196000
     }
 }

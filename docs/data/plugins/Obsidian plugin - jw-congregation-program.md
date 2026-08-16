@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jw-congregation-program
 alt:
   - https://github.com/realsteeldeal/obsidian-jw-congregation
-downloads: 121
+downloads: 150
 updated at: "2026-07-21T15:45:20Z"
 related to:
   - "[[GitHub - 1291037696]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Importiere offizielle Kongressdateien (.jwpub oder RTF‑ZIP) und erstelle daraus strukturierte, verlinkte Markdown‑Notizen im Vault. Lege pro Kongress einen benannten Ordner (bei Regionalkongressen Tages‑Unterordner), nummeriere Programmpunkte, erzeuge Übersichtsdateien, verlinke Vortragsabschnitte und füge klickbare Bibelstellen sowie JW‑Library‑Deeplinks ein."
 
     stats: {
-        downloads:  121
+        downloads:  150
         updated_at: 1784648720000
     }
 }

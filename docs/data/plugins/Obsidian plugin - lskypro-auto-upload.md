@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lskypro-auto-upload
 alt:
   - https://github.com/nekotarou/lskypro-auto-upload
-downloads: 4354
+downloads: 4381
 updated at: "2025-10-16T13:06:11Z"
 related to:
   - "[[GitHub - 641316904]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload images to an LskyPro image bed directly from the clipboard, individual notes, or across your entire vault. Scan Markdown files, upload local images and replace links with hosted URLs, resolving relative/absolute paths and respecting network-image settings."
 
     stats: {
-        downloads:  4354
+        downloads:  4381
         updated_at: 1760619971000
     }
 }

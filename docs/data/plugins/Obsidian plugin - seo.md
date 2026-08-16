@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/seo
 alt:
   - https://github.com/davidvkimball/obsidian-seo
-downloads: 5902
-updated at: "2026-07-22T20:51:11Z"
+downloads: 6072
+updated at: "2026-08-10T21:35:07Z"
 related to:
   - "[[GitHub - 1068255937]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Audit notes for SEO issues across a vault or the current note, checking content quality (length, readability, keyword density, duplicates), metadata and titles, heading hierarchy, media alt text and image names, plus internal and external link health. Sort and jump to flagged files, run vault-wide scans, and cache results for faster subsequent checks."
 
     stats: {
-        downloads:  5902
-        updated_at: 1784753471000
+        downloads:  6072
+        updated_at: 1786397707000
     }
 }
 ```

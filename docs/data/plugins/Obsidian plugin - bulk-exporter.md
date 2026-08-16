@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/bulk-exporter
 alt:
   - https://github.com/symunona/obsidian-bulk-exporter
-downloads: 6335
-updated at: "2025-10-14T18:23:07Z"
+downloads: 6445
+updated at: "2026-08-03T09:35:58Z"
 related to:
   - "[[GitHub - 652442887]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Export and restructure notes into an organized output folder using Dataview queries and metadata to select and categorize files. Prepare content for static site generators like 11ty, Hugo, or Jekyll and display the latest export status in the sidebar."
 
     stats: {
-        downloads:  6335
-        updated_at: 1760466187000
+        downloads:  6445
+        updated_at: 1785749758000
     }
 }
 ```

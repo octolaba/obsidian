@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/docflow
 alt:
   - https://github.com/gs-ax/docflow-obsidian
-downloads: 183
+downloads: 203
 updated at: "2026-05-21T14:32:45Z"
 related to:
   - "[[GitHub - 1227362470]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render IT artifacts with type-aware views by auto-detecting ERD, OpenAPI/Swagger specs, Mermaid architecture diagrams, WBS and notes. Display interactive ER diagrams and embedded Swagger UI, export diagrams to SVG/PNG, organize files in a left Explorer with type/status/project grouping, show frontmatter metadata, and insert English/Korean templates."
 
     stats: {
-        downloads:  183
+        downloads:  203
         updated_at: 1779373965000
     }
 }

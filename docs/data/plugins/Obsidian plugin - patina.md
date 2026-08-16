@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/patina
 alt:
   - https://github.com/israerusan/patina
-downloads: 18
-updated at: "2026-07-17T00:04:05Z"
+downloads: 39
+updated at: "2026-07-25T17:46:48Z"
 related to:
   - "[[GitHub - 1302216917]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Find notes that are quietly rotting by scoring each file's staleness from edits, opens, and inbound-link recency. Rank notes by decay half-life with per-note profiles, show a sortable review queue, dim stale notes in the file explorer, and only write a decay: frontmatter line when you explicitly set a profile."
 
     stats: {
-        downloads:  18
-        updated_at: 1784246645000
+        downloads:  39
+        updated_at: 1785001608000
     }
 }
 ```

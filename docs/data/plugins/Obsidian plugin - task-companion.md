@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/task-companion
 alt:
   - https://github.com/879076256/task-companion
-downloads: 28
-updated at: "2026-07-19T09:37:07Z"
+downloads: 53
+updated at: "2026-08-07T14:53:15Z"
 related to:
   - "[[GitHub - 1305021213]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage task execution with 25/50-minute and free-length timers, pause/resume, focus sessions, and single-level subtask breakdown while keeping Markdown Tasks as the source of truth. Run completion retrospectives, reuse experience templates, and embed dashboard components (current, today, important, daily, pending, review) — keep all data local and offline with no telemetry."
 
     stats: {
-        downloads:  28
-        updated_at: 1784453827000
+        downloads:  53
+        updated_at: 1786114395000
     }
 }
 ```

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/document-comments
 alt:
   - https://github.com/kylemcd/obsidian-document-comments
-downloads: 1017
-updated at: "2026-07-22T19:33:31Z"
+downloads: 2010
+updated at: "2026-07-31T16:54:39Z"
 related to:
   - "[[GitHub - 1272580889]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Embed Notion/Linear-style margin comments in Markdown as HTML comments and render floating cards aligned to highlighted text in Live Preview, Source, and Reading views. Keep threads, resolve/reopen, reactions and inline composing as plain edits so other tools, git diffs and agents read the original file unchanged; browse all comments in an All discussions sidebar."
 
     stats: {
-        downloads:  1017
-        updated_at: 1784748811000
+        downloads:  2010
+        updated_at: 1785516879000
     }
 }
 ```

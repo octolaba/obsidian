@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/sqlite-db-viewer
 alt:
   - https://github.com/bakanovskii/obsidian-sqlite-db-viewer
-downloads: 383
-updated at: "2026-06-10T12:38:45Z"
+downloads: 522
+updated at: "2026-08-05T22:16:29Z"
 related to:
   - "[[GitHub - 1260351199]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage SQLite .db/.sqlite files directly in your vault using a WASM SQLite engine that runs fully offline. Query, edit, and visualize tables with rendered Obsidian links and Markdown, create tables with a visual UI, and convert Markdown tables into relational SQLite tables."
 
     stats: {
-        downloads:  383
-        updated_at: 1781095125000
+        downloads:  522
+        updated_at: 1785968189000
     }
 }
 ```

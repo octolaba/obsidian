@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/tether
 alt:
   - https://github.com/llewellyn500/obsidian-tether
-downloads: 408
-updated at: "2026-07-21T13:21:44Z"
+downloads: 557
+updated at: "2026-07-27T15:13:27Z"
 related to:
   - "[[GitHub - 1209449776]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync your Obsidian vault with Google Drive using your own Google Cloud OAuth credentials. Keep folder structure, notes, attachments and .obsidian settings synchronized across devices while preserving conflicting edits as timestamped copies."
 
     stats: {
-        downloads:  408
-        updated_at: 1784640104000
+        downloads:  557
+        updated_at: 1785165207000
     }
 }
 ```

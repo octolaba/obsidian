@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/eml-reader
 alt:
   - https://github.com/pulsovi/obsidian_eml_reader
-downloads: 8532
+downloads: 8635
 updated at: "2025-04-22T11:55:52Z"
 related to:
   - "[[GitHub - 683965679]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview .eml files inline in notes, rendering email content inside an embedded frame in Preview mode instead of opening your default mail app. Set frame dimensions in the file link to control width and height; unspecified dimensions auto-detect."
 
     stats: {
-        downloads:  8532
+        downloads:  8635
         updated_at: 1745322952000
     }
 }

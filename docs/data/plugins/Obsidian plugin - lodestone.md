@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lodestone
 alt:
   - https://github.com/whiskeyjack96/obsidian-acp
-downloads: 702
+downloads: 790
 updated at: "2025-12-12T01:58:51Z"
 related to:
   - "[[GitHub - 1072656187]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect ACP agents to your Obsidian vault to read, write, and modify files with granular permission control. Chat with agents, stream responses, run terminal commands, preview diffs before approving edits, and keep session history."
 
     stats: {
-        downloads:  702
+        downloads:  790
         updated_at: 1765504731000
     }
 }

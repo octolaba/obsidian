@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/game-search
 alt:
   - https://github.com/cmorooney/obsidian-game-search-plugin
-downloads: 2098
+downloads: 2198
 updated at: "2025-08-16T19:52:18Z"
 related to:
   - "[[GitHub - 1021786295]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search games using the RAWG API and create game notes from a template, auto-filling metadata like title, platforms, genres and stores. Sync your Steam library and wishlist to import games and attach steamId and optional status metadata to notes."
 
     stats: {
-        downloads:  2098
+        downloads:  2198
         updated_at: 1755373938000
     }
 }

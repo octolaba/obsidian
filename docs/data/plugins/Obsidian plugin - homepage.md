@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/homepage
 alt:
   - https://github.com/mirnovov/obsidian-homepage
-downloads: 1240022
+downloads: 1269919
 updated at: "2026-06-03T05:45:44Z"
 related to:
   - "[[GitHub - 388733322]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set a specified note, canvas, base, or workspace that can be opened on startup, launched from the sidebar, or used as a command. Control how previous tabs are handled, open in reading or source view, or run any Obsidian command on open. Supports integration with plugins such as Daily or Periodic Notes."
 
     stats: {
-        downloads:  1240022
+        downloads:  1269919
         updated_at: 1780465544000
     }
 }

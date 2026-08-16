@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/highlightr-plugin
 alt:
   - https://github.com/chetachiezikeuzor/Highlightr-Plugin
-downloads: 686328
+downloads: 697936
 updated at: "2022-08-31T18:52:50Z"
 related to:
   - "[[GitHub - 380835113]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight selected text with a minimal, theme-friendly menu offering customizable colors. Apply or remove inline CSS highlights from the context menu so highlights remain self-contained and exportable across light and dark themes."
 
     stats: {
-        downloads:  686328
+        downloads:  697936
         updated_at: 1661971970000
     }
 }

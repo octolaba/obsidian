@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vikunja-sync
 alt:
   - https://github.com/heiss/obsidian-vikunja-plugin
-downloads: 1028
+downloads: 1066
 updated at: "2024-08-18T18:20:58Z"
 related to:
   - "[[GitHub - 816911231]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync tasks between Obsidian and a Vikunja server, keeping tasks, tags, due dates, priorities and completion status synchronized while treating Obsidian as the source of truth. Run manual sync or enable automatic syncing; designed for single-user use where Obsidian wins on conflicts."
 
     stats: {
-        downloads:  1028
+        downloads:  1066
         updated_at: 1724005258000
     }
 }

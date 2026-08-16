@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/youtube-downloader
 alt:
   - https://github.com/ai-chen2050/obsidian-youtube-downloader
-downloads: 2647
+downloads: 2680
 updated at: "2024-12-21T06:39:50Z"
 related to:
   - "[[GitHub - 789308143]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Download YouTube videos directly into your vault as local files for offline viewing. Use the download-youtube-video command to fetch videos and store them alongside related notes for easy linking and reference."
 
     stats: {
-        downloads:  2647
+        downloads:  2680
         updated_at: 1734763190000
     }
 }

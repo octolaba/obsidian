@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/belki
 alt:
   - https://github.com/aribuga/obsidian-belki-tasks
-downloads: 3094
+downloads: 3741
 updated at: "2026-07-19T09:12:19Z"
 related to:
   - "[[GitHub - 1277930157]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Manage Todoist-like tasks inside your Obsidian vault as readable Markdown, stored locally with no external connections. Create, edit, complete, reschedule and delete tasks with due dates, deadlines, priorities, labels and attachments across Inbox, Today, Upcoming, Projects and Filters views, with drag-to-update metadata and automatic disk refresh."
 
     stats: {
-        downloads:  3094
+        downloads:  3741
         updated_at: 1784452339000
     }
 }

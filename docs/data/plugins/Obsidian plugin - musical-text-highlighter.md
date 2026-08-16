@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/musical-text-highlighter
 alt:
   - https://github.com/tynanpurdy/musical-text
-downloads: 1031
+downloads: 1124
 updated at: "2025-06-21T19:42:43Z"
 related to:
   - "[[GitHub - 926214354]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize the rhythm of your prose by color-coding sentences by word count to reveal short/medium/long patterns across pages. Highlight sentences in real time with three marking styles — highlight, text color, or underline — and automatic contrasting colors for readability."
 
     stats: {
-        downloads:  1031
+        downloads:  1124
         updated_at: 1750534963000
     }
 }

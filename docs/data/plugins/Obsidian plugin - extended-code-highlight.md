@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/extended-code-highlight
 alt:
   - https://github.com/ydd0729/obsidian-extended-code-highlight
-downloads: 465
+downloads: 636
 updated at: "2026-06-01T06:51:24Z"
 related to:
   - "[[GitHub - 1240256331]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight code blocks across Reading view and Editor/Live Preview using Prism-compatible grammars and CodeMirror decorations. Add built-in support for WebAssembly, Zig, Nix, HCL, Svelte and more, and define custom languages with regex-based token rules in languages.json."
 
     stats: {
-        downloads:  465
+        downloads:  636
         updated_at: 1780296684000
     }
 }

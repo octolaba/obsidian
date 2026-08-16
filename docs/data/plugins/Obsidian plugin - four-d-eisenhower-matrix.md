@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/four-d-eisenhower-matrix
 alt:
   - https://github.com/krcaljaroslav/4D-eisenhower-matrix
-downloads: 897
+downloads: 1362
 updated at: "2026-07-14T23:57:05Z"
 related to:
   - "[[GitHub - 1239262630]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize tasks across your vault in a 5-quadrant Eisenhower matrix (DO / DECIDE / DELEGATE / DELETE / OPEN). Possible switch to Kanban view. Manage Obsidian Tasks-format checklists with full CRUD, vault-wide aggregation, priority handling, tag autocomplete, filters and date navigation, plus a 3-second undo after completion."
 
     stats: {
-        downloads:  897
+        downloads:  1362
         updated_at: 1784073425000
     }
 }

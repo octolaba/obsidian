@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pintora
 alt:
   - https://github.com/amiaslee/obsidian-pintora
-downloads: 466
+downloads: 476
 updated at: "2024-09-09T07:06:21Z"
 related to:
   - "[[GitHub - 854434516]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create diagrams from Pintora syntax directly in Obsidian, render responsive diagrams with lightbox viewing, custom themes, edge styles, titles and error reporting. Export or copy diagrams as PNG, SVG, WebP, MD or Base64 and convert Pintora code blocks to attachment links for embedding."
 
     stats: {
-        downloads:  466
+        downloads:  476
         updated_at: 1725865581000
     }
 }

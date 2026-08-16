@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-rtl
 alt:
   - https://github.com/esm7/obsidian-rtl
-downloads: 52457
+downloads: 53457
 updated at: "2025-03-30T12:32:01Z"
 related to:
   - "[[GitHub - 311646050]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set individual notes' text direction to LTR, RTL, or Auto and remember it per file. Get or set note direction via front matter and define a default direction for files without explicit settings. Apply note direction to Canvas cards for linked notes; unlinked cards follow the default."
 
     stats: {
-        downloads:  52457
+        downloads:  53457
         updated_at: 1743337921000
     }
 }

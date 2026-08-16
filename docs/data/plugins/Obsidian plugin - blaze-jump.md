@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/blaze-jump
 alt:
   - https://github.com/henryco/BlazeJump-Obsidian
-downloads: 834
+downloads: 848
 updated at: "2024-11-15T19:15:57Z"
 related to:
   - "[[GitHub - 872143971]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Jump through text blazingly fast using five navigation modes: jump to word start, word end, line start, line end, or any character. Use ergonomic indexing and tagging, multiple keyboard-layout support, and customizable bindings or cycle modes with toggle-and-jump to land exactly where you need."
 
     stats: {
-        downloads:  834
+        downloads:  848
         updated_at: 1731698157000
     }
 }

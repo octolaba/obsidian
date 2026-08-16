@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-limelight
 alt:
   - https://github.com/smikula/obsidian-limelight
-downloads: 6424
+downloads: 6447
 updated at: "2021-10-24T01:30:13Z"
 related to:
   - "[[GitHub - 416127470]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight the active pane and dim other panes to draw attention to your current note. Reduce visual clutter while keeping surrounding content readable."
 
     stats: {
-        downloads:  6424
+        downloads:  6447
         updated_at: 1635039013000
     }
 }

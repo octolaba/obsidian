@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/any-ai-cli
 alt:
   - https://github.com/blamouche/obsidian-any-ai-code
-downloads: 1061
+downloads: 1269
 updated at: "2026-05-21T15:10:24Z"
 related to:
   - "[[GitHub - 1172912253]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run any local AI coding CLI (Claude, Codex, Aider, or custom) inside a right‑sidebar PTY‑backed terminal in Obsidian. Declare unlimited CLI runtimes with launch commands, pick one from a dropdown, and start it in the active vault folder. Insert the active file or folder into the CLI stdin with one click, control processes from the toolbar, and view runtime status and errors."
 
     stats: {
-        downloads:  1061
+        downloads:  1269
         updated_at: 1779376224000
     }
 }

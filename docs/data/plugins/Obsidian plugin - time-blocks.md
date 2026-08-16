@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/time-blocks
 alt:
   - https://github.com/jonmccon/obsidian-time-blocks
-downloads: 12
+downloads: 83
 updated at: "2026-07-21T19:38:06Z"
 related to:
   - "[[GitHub - 1183000266]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Plan your week on a seven-day time grid by dragging tasks in Obsidian Tasks format (- [ ]) from your vault onto a visual calendar; blocks snap to 15-minute increments and resize by dragging. Overlay read-only ICS feeds or connect via OAuth to push and pull with Google Calendar, filter the backlog, and persist schedules across reloads."
 
     stats: {
-        downloads:  12
+        downloads:  83
         updated_at: 1784662686000
     }
 }

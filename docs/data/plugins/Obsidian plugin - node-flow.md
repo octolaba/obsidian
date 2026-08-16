@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/node-flow
 alt:
   - https://github.com/linczero/obsidian-node-flow
-downloads: 1550
+downloads: 1575
 updated at: "2024-12-17T23:59:23Z"
 related to:
   - "[[GitHub - 875169191]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render node-flow diagrams from lightweight grammar or exported JSON to document ComfyUI, Blender, UE, Houdini and other node-based tools. Run functional nodes for text processing, web requests and AI workflows, and embed diagrams inline via Obsidian code blocks or canvas JSON."
 
     stats: {
-        downloads:  1550
+        downloads:  1575
         updated_at: 1734479963000
     }
 }

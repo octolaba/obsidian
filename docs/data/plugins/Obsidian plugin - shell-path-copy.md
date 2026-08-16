@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/shell-path-copy
 alt:
   - https://github.com/ckelsoe/obsidian-shell-path-copy
-downloads: 4293
-updated at: "2026-06-11T13:12:26Z"
+downloads: 5059
+updated at: "2026-07-31T18:57:29Z"
 related to:
   - "[[GitHub - 1010351250]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Copy file and folder paths in shell-friendly formats for Windows, macOS, and Linux. Add right-click explorer and command-palette options to quickly grab relative or absolute paths formatted for your target terminal or remote environment."
 
     stats: {
-        downloads:  4293
-        updated_at: 1781183546000
+        downloads:  5059
+        updated_at: 1785524249000
     }
 }
 ```

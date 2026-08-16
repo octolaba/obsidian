@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/document-exporter
 alt:
   - https://github.com/rogerdigital/document-exporter
-downloads: 2029
-updated at: "2026-06-25T04:38:39Z"
+downloads: 2752
+updated at: "2026-07-31T02:11:22Z"
 related to:
   - "[[GitHub - 1234773720]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Export notes, folders, or query results as Markdown bundles, standalone HTML documents with a table of contents, or print-ready HTML optimized for browser-to-PDF. Combine selected notes into a single .md with copied attachments and rewritten links, generate self-contained .html with linked assets, or produce print-styled HTML ready for PDF export."
 
     stats: {
-        downloads:  2029
-        updated_at: 1782362319000
+        downloads:  2752
+        updated_at: 1785463882000
     }
 }
 ```

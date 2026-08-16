@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/style-manager
 alt:
   - https://github.com/emarpiee/obsidian-style-manager
-downloads: 1589
-updated at: "2026-07-24T02:11:40Z"
+downloads: 3447
+updated at: "2026-08-06T03:04:41Z"
 related to:
   - "[[GitHub - 1247852493]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage CSS variables for themes, snippets, and plugin styles from a single settings pane. Toggle HTML body classes, adjust values with sliders, text inputs and color pickers, save presets and choose shared or isolate modes to control scope."
 
     stats: {
-        downloads:  1589
-        updated_at: 1784859100000
+        downloads:  3447
+        updated_at: 1785985481000
     }
 }
 ```

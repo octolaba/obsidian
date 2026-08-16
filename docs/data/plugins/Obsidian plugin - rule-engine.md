@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/rule-engine
 alt:
   - https://github.com/jackcarey/obsidian-rule-engine
-downloads: 526
-updated at: "2026-05-17T19:20:34Z"
+downloads: 623
+updated at: "2026-08-11T06:52:46Z"
 related to:
   - "[[GitHub - 1211475427]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Define rules to automate commands and render custom HTML views for matching notes. Match files using filters (frontmatter, tags, file properties), run commands in order on open or on demand, and render markdown inside HTML templates for cards, dashboards, or other custom presentations."
 
     stats: {
-        downloads:  526
-        updated_at: 1779045634000
+        downloads:  623
+        updated_at: 1786431166000
     }
 }
 ```

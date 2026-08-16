@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mrj-crosslink-between-notes
 alt:
   - https://github.com/mrjackphil/obsidian-crosslink-between-notes
-downloads: 12776
+downloads: 12894
 updated at: "2021-05-01T09:55:51Z"
 related to:
   - "[[GitHub - 309347786]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a backlink to the currently open note at the end of multiple notes by running a command that scans the cursor or selection for [[WikiLinks]]. Target files from selections, cursor-positioned links, or the quick switcher and append a wikilink to the open note in each matched file."
 
     stats: {
-        downloads:  12776
+        downloads:  12894
         updated_at: 1619862951000
     }
 }

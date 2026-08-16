@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quicklink
 alt:
   - https://github.com/jamailar/QuickLink-Obsidian
-downloads: 7637
+downloads: 7834
 updated at: "2025-07-16T07:11:41Z"
 related to:
   - "[[GitHub - 944585673]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert intelligent file links using trigger characters and customizable suggestion rules, including folder, regex, and tag filters. Scan documents to auto-replace matching text with internal links or obsidian://advanced-uri links. Limit suggestions and scans to defined main folders and excluded paths."
 
     stats: {
-        downloads:  7637
+        downloads:  7834
         updated_at: 1752649901000
     }
 }

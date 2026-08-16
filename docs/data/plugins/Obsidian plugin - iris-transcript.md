@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/iris-transcript
 alt:
   - https://github.com/othman-benbrahim/iris-transcript-obsidian
-downloads: 77
+downloads: 98
 updated at: "2026-06-28T07:44:49Z"
 related to:
   - "[[GitHub - 1282737405]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform a YouTube URL into a Markdown note containing a transcript, an interactive mindmap (zoom, pan, collapsible nodes), and an optional LLM-generated summary. Use YouTube subtitles (free, no API) and store metadata in frontmatter for Dataview indexing."
 
     stats: {
-        downloads:  77
+        downloads:  98
         updated_at: 1782632689000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/antigravity-cli-sidebar
 alt:
   - https://github.com/desmondwen/obsidian-antigravity-cli-sidebar
-downloads: 1680
+downloads: 2295
 updated at: "2026-05-27T14:14:57Z"
 related to:
   - "[[GitHub - 1247518658]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed Antigravity CLI into Obsidian's sidebar and chat with Antigravity without leaving your notes. Run a fully interactive xterm.js terminal with typing, scrolling, resizing and customizable command arguments, desktop-only via Node.js/PTY."
 
     stats: {
-        downloads:  1680
+        downloads:  2295
         updated_at: 1779891297000
     }
 }

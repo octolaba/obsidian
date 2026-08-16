@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/set-to-root
 alt:
   - https://github.com/lixingyu41/obsidian-setToRoot
-downloads: 146
+downloads: 173
 updated at: "2026-05-22T00:52:09Z"
 related to:
   - "[[GitHub - 1188043719]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open additional File Explorer tabs rooted to specific folders without altering the built-in full-vault explorer. Create a single reusable rooted view or multiple rooted tabs, pick tab icons from a searchable picker, and restore rooted views after restart."
 
     stats: {
-        downloads:  146
+        downloads:  173
         updated_at: 1779411129000
     }
 }

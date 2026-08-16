@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/emoji-selector
 alt:
   - https://github.com/infinitesum/obsidian-emoji-selector
-downloads: 1360
+downloads: 1405
 updated at: "2025-12-11T12:46:00Z"
 related to:
   - "[[GitHub - 1025545088]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert custom emojis into notes by typing trigger characters (e.g., ::) or opening a searchable selector panel. Load OWO emoji packs or local images, apply custom insertion templates and CSS styles, and find emojis with regex or fuzzy search."
 
     stats: {
-        downloads:  1360
+        downloads:  1405
         updated_at: 1765457160000
     }
 }

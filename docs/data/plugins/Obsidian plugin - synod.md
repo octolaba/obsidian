@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/synod
 alt:
   - https://github.com/slaymish/Synod
-downloads: 156
+downloads: 164
 updated at: "2026-05-16T13:08:22Z"
 related to:
   - "[[GitHub - 1238407269]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Surface unresolved tensions in your journal with a council of LLM value agents that never propose compromises. Import notes, connect to OpenAI-compatible endpoints, and output a bulletin and side-panel report via a three-pass compiler and parallel agents."
 
     stats: {
-        downloads:  156
+        downloads:  164
         updated_at: 1778936902000
     }
 }

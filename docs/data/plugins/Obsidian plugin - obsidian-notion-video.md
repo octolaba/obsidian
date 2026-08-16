@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-notion-video
 alt:
   - https://github.com/lastknightcoder/obsidian-notion-video
-downloads: 4559
+downloads: 4588
 updated at: "2022-09-24T15:50:40Z"
 related to:
   - "[[GitHub - 482489835]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed Notion-hosted videos into Obsidian using the Notion API. Provide your Notion integration secret and the block ID, share the source page with the integration, then fetch and insert the block's video content into your note."
 
     stats: {
-        downloads:  4559
+        downloads:  4588
         updated_at: 1664034640000
     }
 }

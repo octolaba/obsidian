@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/omnisearch
 alt:
   - https://github.com/scambier/obsidian-omnisearch
-downloads: 1639150
-updated at: "2026-05-24T20:06:38Z"
+downloads: 1734179
+updated at: "2026-07-29T18:38:31Z"
 related to:
   - "[[GitHub - 479997162]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Search your vault instantly with a BM25-ranked engine that prioritizes matches in filenames, headings, and content to surface the most relevant results. Index PDFs, Office docs and images via text extraction, tolerate typos, filter by file type or quoted expressions, and insert [[links]] or navigate results with keyboard-first Quick Switcher-style controls."
 
     stats: {
-        downloads:  1639150
-        updated_at: 1779653198000
+        downloads:  1734179
+        updated_at: 1785350311000
     }
 }
 ```

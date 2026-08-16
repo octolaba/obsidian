@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notebook-mindmap-to-canvas
 alt:
   - https://github.com/ayv4zyan/NotebookLM-Mindmap-To-Obsidian-Canvas
-downloads: 900
+downloads: 1020
 updated at: "2026-03-03T17:27:13Z"
 related to:
   - "[[GitHub - 1171827145]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert NotebookLM mindmaps into native .canvas files with one paste, automatically parsing JSON or Markdown. Choose left-to-right, right-to-left, or symmetric layouts, preserve dynamic node sizing, and apply Advanced Canvas styling (arrowheads, path types, line patterns) for interactive diagrams."
 
     stats: {
-        downloads:  900
+        downloads:  1020
         updated_at: 1772558833000
     }
 }

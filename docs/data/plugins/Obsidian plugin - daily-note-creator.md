@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-note-creator
 alt:
   - https://github.com/mario-holubar/obsidian-daily-note-creator
-downloads: 2312
+downloads: 2344
 updated at: "2024-02-05T21:33:09Z"
 related to:
   - "[[GitHub - 752402495]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create daily notes automatically at vault startup without opening them, using your Daily Notes settings. Auto-fill missed days on startup or trigger a command to backfill any date range, with confirmation for gaps longer than a week."
 
     stats: {
-        downloads:  2312
+        downloads:  2344
         updated_at: 1707168789000
     }
 }

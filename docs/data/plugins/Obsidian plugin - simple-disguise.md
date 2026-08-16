@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-disguise
 alt:
   - https://github.com/ctxinf/simple-disguise
-downloads: 365
+downloads: 375
 updated at: "2024-12-12T08:36:02Z"
 related to:
   - "[[GitHub - 900768739]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle a disguise in the editor to obscure content by swapping background and text colors, preventing passersby from easily reading your notes. Apply only in edit mode; reading view remains unchanged."
 
     stats: {
-        downloads:  365
+        downloads:  375
         updated_at: 1733992562000
     }
 }

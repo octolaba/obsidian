@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/due-when
 alt:
   - https://github.com/andrewbaxter439/due-when
-downloads: 3839
+downloads: 3855
 updated at: "2023-06-22T21:32:23Z"
 related to:
   - "[[GitHub - 632861231]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert [due:: YY-MM-DD] markers at the cursor with four smart presets: end of this week (Friday), end of next week (next Friday), end of this month (last day or last weekday), and \"never\" set 100 years ahead. Attach optional hashtags to each preset."
 
     stats: {
-        downloads:  3839
+        downloads:  3855
         updated_at: 1687469543000
     }
 }

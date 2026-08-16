@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mxmind
 alt:
   - https://github.com/webceoboy/mxmind-obsidian
-downloads: 23563
+downloads: 23921
 updated at: "2025-05-08T01:41:32Z"
 related to:
   - "[[GitHub - 754543633]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Markdown files into interactive Mxmind mind maps and open the Mxmind editor in Obsidian's left sidebar for in-place editing. Copy mind map images into notes and be aware the plugin uses the mxmind.com remote service and may require an mxmind account for saving and syncing."
 
     stats: {
-        downloads:  23563
+        downloads:  23921
         updated_at: 1746668492000
     }
 }

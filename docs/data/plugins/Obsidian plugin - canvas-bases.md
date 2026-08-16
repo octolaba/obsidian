@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-bases
 alt:
   - https://github.com/callumalpass/canvas-bases
-downloads: 1038
-updated at: "2026-06-09T21:37:07Z"
+downloads: 1762
+updated at: "2026-08-07T13:21:16Z"
 related to:
   - "[[GitHub - 1264395428]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Turn a live Bases view into a spatial Canvas board with draggable, resizable file cards, group frames, relationship edges, assignment zones, and inline card editing. Persist board layout, colors, manual cards/groups and edges, export or update .canvas snapshots, and integrate with TaskNotes when available."
 
     stats: {
-        downloads:  1038
-        updated_at: 1781041027000
+        downloads:  1762
+        updated_at: 1786108876000
     }
 }
 ```

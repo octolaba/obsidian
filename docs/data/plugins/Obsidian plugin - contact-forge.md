@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/contact-forge
 alt:
   - https://github.com/raulanatol/obsidian-contact-forge
-downloads: 33
+downloads: 43
 updated at: "2026-07-03T16:36:03Z"
 related to:
   - "[[GitHub - 1287081766]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync selected Obsidian contact notes one-way to macOS Contacts, pushing only managed fields (name, org, emails, phones) while keeping the note body and full record in Obsidian. Stamp cards with a cf-uid and obsidian:// backlink to preserve matches, show per-run desync alerts in a Sync Report, and require confirmation before writing; photos and unmanaged fields stay untouched."
 
     stats: {
-        downloads:  33
+        downloads:  43
         updated_at: 1783096563000
     }
 }

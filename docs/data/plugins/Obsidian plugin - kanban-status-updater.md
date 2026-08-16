@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kanban-status-updater
 alt:
   - https://github.com/ankit-kapur/obsidian-kanban-status-updater-plugin
-downloads: 6087
+downloads: 6181
 updated at: "2025-03-28T07:36:14Z"
 related to:
   - "[[GitHub - 947674461]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Update linked note frontmatter to match the column name when moving cards on an Obsidian Kanban board. Customize the target property name, view visual feedback and debug info, and keep updates snappy by monitoring only the active board."
 
     stats: {
-        downloads:  6087
+        downloads:  6181
         updated_at: 1743147374000
     }
 }

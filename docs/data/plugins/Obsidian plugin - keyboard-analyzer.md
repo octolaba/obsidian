@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/keyboard-analyzer
 alt:
   - https://github.com/noname-oni/obsidian-keyboard-analyzer
-downloads: 26005
+downloads: 27188
 updated at: "2025-09-09T18:51:44Z"
 related to:
   - "[[GitHub - 426711447]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize and search Obsidian hotkeys on an interactive keyboard layout to spot duplicates, conflicts, and unassigned keys. Filter by scope and optionally overlay system/editor defaults to avoid common shortcuts. Open a quick commands popup to view and run bindings."
 
     stats: {
-        downloads:  26005
+        downloads:  27188
         updated_at: 1757443904000
     }
 }

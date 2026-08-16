@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/date-range-expander
 alt:
   - https://github.com/mildeveloper/obsidian-date-range-expander
-downloads: 269
+downloads: 288
 updated at: "2025-04-08T21:56:50Z"
 related to:
   - "[[GitHub - 950892492]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert a sequence of dates by providing a start date and either an end date or a duration. Format outputs to your preferred date style, create wiki-linked dates with optional callout wrapping, and generate files for each date."
 
     stats: {
-        downloads:  269
+        downloads:  288
         updated_at: 1744149410000
     }
 }

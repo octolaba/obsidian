@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/reading-highlighter
 alt:
   - https://github.com/keithwithai/reading-highlighter
-downloads: 360
+downloads: 440
 updated at: "2026-05-21T21:09:22Z"
 related to:
   - "[[GitHub - 1165486834]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight selected text in reading mode using ==markdown highlight== syntax. Use the floating highlight button, command palette action, or mobile ribbon icon to wrap selections—including multi-paragraph text, formatted spans, and links—with ==highlights== while preserving existing Markdown formatting. Undo last highlight with the undo button."
 
     stats: {
-        downloads:  360
+        downloads:  440
         updated_at: 1779397762000
     }
 }

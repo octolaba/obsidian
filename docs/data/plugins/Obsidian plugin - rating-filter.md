@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rating-filter
 alt:
   - https://github.com/niccoloniccoli/obsidian-document-rating-system
-downloads: 147
+downloads: 187
 updated at: "2026-06-03T10:06:07Z"
 related to:
   - "[[GitHub - 1258048032]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add star ratings to notes and save them as a numeric rating property in YAML frontmatter. Preview stars at the top of documents and set ratings from 0–5 (decimals allowed). Filter notes in the Rating Filter panel by Rating ≥, ≤, or = and open results; ratings are stored locally and show in Properties."
 
     stats: {
-        downloads:  147
+        downloads:  187
         updated_at: 1780481167000
     }
 }

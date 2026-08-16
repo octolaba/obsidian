@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markitdown-importer
 alt:
   - https://github.com/renoirtian/markitdown-obsidian-importer
-downloads: 574
+downloads: 1177
 updated at: "2026-06-24T13:34:41Z"
 related to:
   - "[[GitHub - 1271144481]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import files, folders, ZIP archives, images (with OCR), audio (with transcription), web pages, and YouTube links into your vault as Markdown notes. Convert PDFs, Word/Excel/PowerPoint, HTML/MD/CSV/RTF and common image/audio formats recursively and insert wiki links at the cursor or save notes to a chosen folder."
 
     stats: {
-        downloads:  574
+        downloads:  1177
         updated_at: 1782308081000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/form-builder
 alt:
   - https://github.com/p77-don/form-builder
-downloads: 87
-updated at: "2026-06-28T12:30:01Z"
+downloads: 162
+updated at: "2026-08-02T09:53:55Z"
 related to:
   - "[[GitHub - 1279856956]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Generate input forms from Markdown templates and create new notes prefilled with your responses. Expand variables in frontmatter and body using $...$ and %...% syntax, with support for multiselects and various field types."
 
     stats: {
-        downloads:  87
-        updated_at: 1782649801000
+        downloads:  162
+        updated_at: 1785664435000
     }
 }
 ```

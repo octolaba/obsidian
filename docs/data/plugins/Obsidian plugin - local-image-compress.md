@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/local-image-compress
 alt:
   - https://github.com/haperone/local-image-compress
-downloads: 128
+downloads: 157
 updated at: "2026-06-29T00:51:43Z"
 related to:
   - "[[GitHub - 1269589098]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Local PNG and JPEG compression for Obsidian vaults, without cloud services."
 
     stats: {
-        downloads:  128
+        downloads:  157
         updated_at: 1782694303000
     }
 }

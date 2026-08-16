@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/track-a-lot
 alt:
   - https://github.com/revolter/obsidian-track-a-lot-plugin
-downloads: 2908
+downloads: 2926
 updated at: "2025-06-21T18:44:45Z"
 related to:
   - "[[GitHub - 759371169]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scrape webpages to build lists of items as Markdown tables and track each item's status directly in your notes. Update tables from their sources while preserving any freeform status text you entered."
 
     stats: {
-        downloads:  2908
+        downloads:  2926
         updated_at: 1750531485000
     }
 }

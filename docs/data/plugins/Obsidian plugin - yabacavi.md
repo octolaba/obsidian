@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/yabacavi
 alt:
   - https://github.com/xupisco/obsidian-yabacavi
-downloads: 78
+downloads: 155
 updated at: "2026-07-20T21:34:05Z"
 related to:
   - "[[GitHub - 1304277412]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display notes as cards on a day, week, or month calendar grid using any date property. Drag cards to reschedule while preserving time and timezone, show base-visible properties on cards, map status values to accent colors, and open or create notes directly from the calendar."
 
     stats: {
-        downloads:  78
+        downloads:  155
         updated_at: 1784583245000
     }
 }

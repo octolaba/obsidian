@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/geo-capture
 alt:
   - https://github.com/fab34/GeoCapture
-downloads: 157
+downloads: 202
 updated at: "2026-06-18T06:58:02Z"
 related to:
   - "[[GitHub - 1270938120]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture places directly inside Obsidian notes for travel journals, check-ins, restaurant reviews, and photo-based memories. Insert device coordinates, search nearby places with Google Places or OpenStreetMap, parse map links, read image EXIF GPS, and create Markdown-ready snippets with Google/Apple/OSM links. Geo Capture is note-first, works on desktop and mobile, and does not include telemetry."
 
     stats: {
-        downloads:  157
+        downloads:  202
         updated_at: 1781765882000
     }
 }

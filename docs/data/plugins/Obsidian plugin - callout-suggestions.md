@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/callout-suggestions
 alt:
   - https://github.com/cwfryer/obsidian-callout-suggestions
-downloads: 12249
+downloads: 12354
 updated at: "2024-07-22T17:23:14Z"
 related to:
   - "[[GitHub - 774585301]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert callouts quickly with an autosuggest modal triggered by typing >!. Pull callout definitions from Callout Manager to list built-in and custom callouts. Select a suggestion to insert a formatted callout block into your note."
 
     stats: {
-        downloads:  12249
+        downloads:  12354
         updated_at: 1721668994000
     }
 }

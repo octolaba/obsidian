@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-publisher
 alt:
   - https://github.com/obsidian-note-publisher/obsidian-plugin-note-publisher
-downloads: 16
+downloads: 26
 updated at: "2026-07-13T21:04:39Z"
 related to:
   - "[[GitHub - 1298620300]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish a single note and its embedded images to a private GitHub repository, committing the note and assets under a stable UUID folder as index.md. Generate and persist a UUID in the note's frontmatter, rewrite embeds to relative filenames, and write a clean UUID-only public link (served by a worker you deploy) into the note and clipboard."
 
     stats: {
-        downloads:  16
+        downloads:  26
         updated_at: 1783976679000
     }
 }

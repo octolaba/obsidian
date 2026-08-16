@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/tidelog
 alt:
   - https://github.com/enhen3/Tidelog
-downloads: 559
-updated at: "2026-07-08T02:36:23Z"
+downloads: 824
+updated at: "2026-07-29T15:57:32Z"
 related to:
   - "[[GitHub - 1153215659]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "TideLog turns daily notes into a Plan -> Review -> Insights feedback loop. Use Plan to manage day, week, and month tasks plus an idea inbox. Use Review to complete today's loop or catch up on a past date. Use Insights to unlock weekly reports, monthly reports, and an AI view of you, with in-plugin previews and updates when new records arrive. AI features use your own provider and API key, and your notes stay Markdown-first in your vault."
 
     stats: {
-        downloads:  559
-        updated_at: 1783478183000
+        downloads:  824
+        updated_at: 1785340652000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-spacer
 alt:
   - https://github.com/fanthus/obsidian-auto-spacer
-downloads: 89
+downloads: 101
 updated at: "2026-05-22T08:56:46Z"
 related to:
   - "[[GitHub - 1246495044]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert spaces at CJK–Latin boundaries and wrap English segments in inline code to tidy mixed CJK–English typography. Detect Chinese (including Japanese kana/kanji) mixed with Latin, skip existing backticks, links, tags and other Markdown, and format the selection or current line."
 
     stats: {
-        downloads:  89
+        downloads:  101
         updated_at: 1779440206000
     }
 }

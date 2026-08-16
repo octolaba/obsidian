@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/eml-email-viewer
 alt:
   - https://github.com/viggomeesters/obsidian-eml-email-viewer
-downloads: 258
+downloads: 339
 updated at: "2026-06-08T12:27:00Z"
 related to:
   - "[[GitHub - 1262621268]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open local .eml files from Obsidian's file explorer in a read-only dedicated view. Show headers, text, sanitized-HTML and raw-MIME tabs, attachment metadata, parse warnings and search; block remote images, scripts, external styles, forms and active HTML attributes for privacy."
 
     stats: {
-        downloads:  258
+        downloads:  339
         updated_at: 1780921620000
     }
 }

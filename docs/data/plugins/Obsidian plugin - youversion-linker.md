@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/youversion-linker
 alt:
   - https://github.com/jaanonim/obsidian-youversion-linker
-downloads: 12329
-updated at: "2026-05-21T10:53:48Z"
+downloads: 12766
+updated at: "2026-08-08T17:09:43Z"
 related to:
   - "[[GitHub - 672354140]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Link Bible verses to YouVersion directly from your notes by typing verse references. Use @, >, or ^ (configurable) to insert links, inline quotes, or footnote quotes; handle ranges and comma-separated passages and recognize book names in multiple languages while letting you pick a Bible version."
 
     stats: {
-        downloads:  12329
-        updated_at: 1779360828000
+        downloads:  12766
+        updated_at: 1786208983000
     }
 }
 ```

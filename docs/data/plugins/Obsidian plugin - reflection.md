@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/reflection
 alt:
   - https://github.com/brandonkboswell/reflection
-downloads: 4634
+downloads: 4661
 updated at: "2026-02-27T04:59:54Z"
 related to:
   - "[[GitHub - 671645695]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display past daily and weekly notes linked to the current periodic note. Show same-date daily notes from previous years and weekly notes from previous years that share the same week number for quick retrospective review."
 
     stats: {
-        downloads:  4634
+        downloads:  4661
         updated_at: 1772168394000
     }
 }

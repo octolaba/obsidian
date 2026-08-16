@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-order-list
 alt:
   - https://github.com/howe-ren/smart-order-list
-downloads: 593
+downloads: 835
 updated at: "2026-05-17T17:12:49Z"
 related to:
   - "[[GitHub - 1178891975]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Auto-format and maintain ordered, nested, and parallel lists with smart prefix styles—numerals, letters (upper/lower), Chinese, bullets and checkboxes—ensuring consistent sequencing and nested rollback across layers. Apply smart continuation and indentation on Enter, Space, and Tab; use backslash to silence auto-prefix."
 
     stats: {
-        downloads:  593
+        downloads:  835
         updated_at: 1779037969000
     }
 }

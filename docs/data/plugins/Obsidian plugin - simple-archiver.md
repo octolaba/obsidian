@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-archiver
 alt:
   - https://github.com/mfarr/obsidian-archive
-downloads: 2674
+downloads: 2808
 updated at: "2026-05-17T11:11:14Z"
 related to:
   - "[[GitHub - 815105166]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move files and folders to a configurable archive folder while preserving their relative paths, and restore archived items back to their original locations. Define scheduled auto-archive rules targeting folders (with optional regex and recursion) using conditions like file age or filename regex to automatically move matching files into the archive."
 
     stats: {
-        downloads:  2674
+        downloads:  2808
         updated_at: 1779016274000
     }
 }

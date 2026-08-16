@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/browser-history
 alt:
   - https://github.com/noy4/browser-history
-downloads: 819
+downloads: 834
 updated at: "2025-06-17T12:43:18Z"
 related to:
   - "[[GitHub - 928869475]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Read your browser's history database and save entries as dated Markdown notes. Open today's history from the ribbon or create/update notes from a chosen start date. Enable manual or scheduled auto-sync to keep history notes current."
 
     stats: {
-        downloads:  819
+        downloads:  834
         updated_at: 1750164198000
     }
 }

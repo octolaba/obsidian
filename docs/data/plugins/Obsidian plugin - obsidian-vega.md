@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-vega
 alt:
   - https://github.com/justin-j-k/obsidian-vega
-downloads: 6018
+downloads: 6064
 updated at: "2023-07-22T03:32:58Z"
 related to:
   - "[[GitHub - 581379369]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create customizable charts and plots by writing Vega or Vega-Lite JSON specifications inside vega or vega-lite code blocks. Render bar, line, and advanced visualizations inline in notes for quick preview."
 
     stats: {
-        downloads:  6018
+        downloads:  6064
         updated_at: 1689996778000
     }
 }

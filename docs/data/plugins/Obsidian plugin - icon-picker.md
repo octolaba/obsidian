@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/icon-picker
 alt:
   - https://github.com/rocketbang/obsidian-icon-picker
-downloads: 50
+downloads: 117
 updated at: "2026-07-11T06:33:42Z"
 related to:
   - "[[GitHub - 1146517091]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview Lucide icons next to a note's icon frontmatter (Properties panel and inline in Source mode) and show a dimmed placeholder for invalid names. Open a fuzzy-search picker by clicking the preview or using commands to write or remove plain Lucide names in frontmatter, compatible with Bases map view and working fully offline."
 
     stats: {
-        downloads:  50
+        downloads:  117
         updated_at: 1783751622000
     }
 }

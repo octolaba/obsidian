@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/applenotes-sync
 alt:
   - https://github.com/fengshuzi/applenotes-sync
-downloads: 676
-updated at: "2026-07-06T08:04:48Z"
+downloads: 902
+updated at: "2026-08-04T03:45:53Z"
 related to:
   - "[[GitHub - 1138846624]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync macOS Notes to Obsidian, only when manually refreshed or triggered by a command. Preserve images, tables, and other content, and map specified folders within Notes to the Obsidian target folder (macOS only)."
 
     stats: {
-        downloads:  676
-        updated_at: 1783325088000
+        downloads:  902
+        updated_at: 1785815153000
     }
 }
 ```

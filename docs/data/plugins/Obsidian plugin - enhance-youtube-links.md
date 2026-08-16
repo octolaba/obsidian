@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/enhance-youtube-links
 alt:
   - https://github.com/git-sum/obsidian-enhance-youtube-links
-downloads: 7507
+downloads: 7573
 updated at: "2025-02-18T00:53:11Z"
 related to:
   - "[[GitHub - 704499030]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extract title and metadata from a YouTube link. Include video title and optionally channel name, channel URL, and thumbnail URL. Support youtube.com, youtu.be, and m.youtube.com URL formats."
 
     stats: {
-        downloads:  7507
+        downloads:  7573
         updated_at: 1739839991000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-folder-note
 alt:
   - https://github.com/heono3h/simple-folder-note
-downloads: 145
+downloads: 163
 updated at: "2026-04-20T14:37:15Z"
 related to:
   - "[[GitHub - 1216058100]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Treat a .md file that shares a folder's name as that folder's note, supporting notes stored inside the folder or beside it (inside takes priority). Hide the note from the file explorer to avoid duplicates and open the folder note in the current tab when clicking the folder name."
 
     stats: {
-        downloads:  145
+        downloads:  163
         updated_at: 1776695835000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/douyin-capture-pro
 alt:
   - https://github.com/zhaoyaoyuan/obsidian-douyin-capture
-downloads: 559
+downloads: 742
 updated at: "2026-06-08T03:47:01Z"
 related to:
   - "[[GitHub - 1262448671]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fork 声明：本项目基于 lyxdream/obsidian-douyin-capture 修改，原代码地址：https://github.com/lyxdream/obsidian-douyin-capture 将抖音分享链接一键导入 Obsidian：在本地提取视频 / 配图 / 文案，自动生成结构化笔记。 重要：本插件依赖本地 Python 后端 obsidian-content-capture-backend，不会在云端处理你的链接或媒体。请先安装并启动后端，再使用插件。"
 
     stats: {
-        downloads:  559
+        downloads:  742
         updated_at: 1780890421000
     }
 }

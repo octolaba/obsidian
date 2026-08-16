@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/word-goal-webhook
 alt:
   - https://github.com/viszkit/obsidian-writing-streak
-downloads: 424
+downloads: 525
 updated at: "2026-07-21T17:21:54Z"
 related to:
   - "[[GitHub - 1193516902]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track daily new words and monitor writing streaks in a compact heatmap sidebar with today's counts and streak indicators. Send a webhook when you hit your daily word goal, open a detailed stats modal with yearly and monthly history, and import past history from Daily Stats."
 
     stats: {
-        downloads:  424
+        downloads:  525
         updated_at: 1784654514000
     }
 }

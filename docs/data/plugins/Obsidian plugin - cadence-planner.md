@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cadence-planner
 alt:
   - https://github.com/wesswart77/obsidian-cadence
-downloads: 1198
+downloads: 1460
 updated at: "2026-06-06T07:14:31Z"
 related to:
   - "[[GitHub - 1231198861]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Unify CRM, PRM, project management, daily planning and reminders in a single Obsidian tab built on plain Markdown. Flip between Home, Today, Pipeline, Contacts, Projects, Inbox and Reports; manage tasks, deals and contacts as .md files with frontmatter, capture items and get real reminders—no server, no sync service, no lock-in."
 
     stats: {
-        downloads:  1198
+        downloads:  1460
         updated_at: 1780730071000
     }
 }

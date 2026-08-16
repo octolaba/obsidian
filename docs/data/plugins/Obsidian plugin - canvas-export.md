@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-export
 alt:
   - https://github.com/rmoff/obsidian-canvas-export
-downloads: 1514
+downloads: 2022
 updated at: "2026-05-14T10:40:04Z"
 related to:
   - "[[GitHub - 1211401269]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export .canvas files to HTML (light/dark), Excalidraw (.excalidraw), Mermaid (.mmd), D2 (.d2) or print-ready PDF. Generate fully self-contained, clickable HTML that preserves layout and colors, and convert text, groups, edges and embeds into editable or best-fit representations while stripping YAML frontmatter."
 
     stats: {
-        downloads:  1514
+        downloads:  2022
         updated_at: 1778755204000
     }
 }

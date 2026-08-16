@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/linear
 alt:
   - https://github.com/caseybecking/obsidian-linear-plugin
-downloads: 1053
+downloads: 1211
 updated at: "2025-11-01T15:11:34Z"
 related to:
   - "[[GitHub - 993224380]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed Linear issues in notes by fetching one or more issue IDs and rendering them inline. Filter and sort results by team, status, assignee, or due date, and limit how many issues display. Desktop-only."
 
     stats: {
-        downloads:  1053
+        downloads:  1211
         updated_at: 1762009894000
     }
 }

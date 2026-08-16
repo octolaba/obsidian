@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/solidtime-integration
 alt:
   - https://github.com/pronicx/obsidian-solidtime-integration
-downloads: 309
+downloads: 315
 updated at: "2025-08-06T19:45:00Z"
 related to:
   - "[[GitHub - 948031555]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect Obsidian to your SolidTime account and track work time directly in your vault. Start, stop, edit and switch the running timer from a sidebar tracker with project color, billable icons and tag management; view duration in the status bar and use quick modals and commands to manage projects, tags, and timers."
 
     stats: {
-        downloads:  309
+        downloads:  315
         updated_at: 1754509500000
     }
 }

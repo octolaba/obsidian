@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-transfer
 alt:
   - https://github.com/imaginaryprogramming/obsidian-vault-transfer
-downloads: 8081
+downloads: 8263
 updated at: "2025-01-18T22:43:39Z"
 related to:
   - "[[GitHub - 588373405]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transfer selected Markdown notes or entire folders to another vault and insert a link back in the original file. Move multiple files while preserving folder structure, send items to a specific or newly created folder, or insert a link to an existing note without copying. Run from desktop only."
 
     stats: {
-        downloads:  8081
+        downloads:  8263
         updated_at: 1737240219000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bytefield
 alt:
   - https://github.com/natri0/obsidian-bytefield
-downloads: 336
+downloads: 344
 updated at: "2025-05-01T14:07:36Z"
 related to:
   - "[[GitHub - 961483979]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render byte-field diagrams from Markdown code blocks by parsing lines like name: length to display byte offsets and field sizes. Support custom start offsets, unnamed padding fields, comment lines, and automatic wrapping for fields that exceed a row."
 
     stats: {
-        downloads:  336
+        downloads:  344
         updated_at: 1746108456000
     }
 }

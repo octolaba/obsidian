@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/remaining-reading-time
 alt:
   - https://github.com/ununnamed/remaining-reading-time
-downloads: 768
+downloads: 793
 updated at: "2025-11-26T08:31:48Z"
 related to:
   - "[[GitHub - 899900992]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display remaining reading time and reading progress (%) live in the status bar. Estimate time left to finish articles, notes, or books to help pace reading sessions."
 
     stats: {
-        downloads:  768
+        downloads:  793
         updated_at: 1764145908000
     }
 }

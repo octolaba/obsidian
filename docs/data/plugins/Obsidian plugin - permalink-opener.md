@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/permalink-opener
 alt:
   - https://github.com/kepano/obsidian-permalink-opener
-downloads: 4401
-updated at: "2026-05-12T01:37:21Z"
+downloads: 4518
+updated at: "2026-07-31T21:14:19Z"
 related to:
   - "[[GitHub - 666168384]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Open the published URL for the current note using a permalink or frontmatter slug. Switch between live and development base URLs and open via command palette or hotkey; slugify the title to kebab-case when no permalink exists."
 
     stats: {
-        downloads:  4401
-        updated_at: 1778549841000
+        downloads:  4518
+        updated_at: 1785532459000
     }
 }
 ```

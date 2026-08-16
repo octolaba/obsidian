@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-dynamic-background
 alt:
   - https://github.com/samuelsong70/obsidian-dynamic-background
-downloads: 19431
+downloads: 19710
 updated at: "2023-06-03T01:57:57Z"
 related to:
   - "[[GitHub - 518752382]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add animated effects and static wallpapers to Obsidian backgrounds. Choose from dark effects (Matrix/Digital Rain, Rain, Random Circle, Snow, Star Sky) or light effects (Random Circle, Wave) and layer wallpapers with animations. Match effects to your base theme for best results."
 
     stats: {
-        downloads:  19431
+        downloads:  19710
         updated_at: 1685757477000
     }
 }

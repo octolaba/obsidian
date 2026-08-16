@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-explorer-size
 alt:
   - https://github.com/fntsrlike/obsidian-file-explorer-size
-downloads: 97
+downloads: 130
 updated at: "2026-06-28T17:24:52Z"
 related to:
   - "[[GitHub - 1280477282]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show file sizes and recursive folder totals in Obsidian's File Explorer and MAKE.md Navigator. Highlight large items in red, provide a separate sidebar listing the top‑N largest files and folders, and update sizes incrementally when files are created, modified, moved, or deleted."
 
     stats: {
-        downloads:  97
+        downloads:  130
         updated_at: 1782667492000
     }
 }

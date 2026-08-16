@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/simple-graph-builder
 alt:
   - https://github.com/junhewk/simple-graph-builder
-downloads: 899
-updated at: "2026-07-24T03:04:36Z"
+downloads: 1177
+updated at: "2026-08-10T07:57:12Z"
 related to:
   - "[[GitHub - 1114875860]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Build a lightweight knowledge graph from notes with LLM entity extraction, 10 fixed entity types, free-form relationship verbs, and detail fields. Explore and query with AI natural-language search, hybrid entity resolution, wikilink processing, and an interactive graph view."
 
     stats: {
-        downloads:  899
-        updated_at: 1784862276000
+        downloads:  1177
+        updated_at: 1786348632000
     }
 }
 ```

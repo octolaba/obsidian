@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pin-enhancer
 alt:
   - https://github.com/sheeplet1/obsidian-pin-enhancer
-downloads: 1627
+downloads: 1645
 updated at: "2025-08-20T01:39:20Z"
 related to:
   - "[[GitHub - 802762748]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Prevent pinned tabs from being closed, including via middle-click. Provide alternative close commands so you can rebind close hotkeys without unbinding the originals. Keep context-menu close buttons functional for manual closing."
 
     stats: {
-        downloads:  1627
+        downloads:  1645
         updated_at: 1755653960000
     }
 }

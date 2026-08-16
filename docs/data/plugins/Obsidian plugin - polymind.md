@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/polymind
 alt:
   - https://github.com/semernyakov/polymind
-downloads: 132
+downloads: 144
 updated at: "2026-04-20T05:18:16Z"
 related to:
   - "[[GitHub - 1206042233]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Integrate Groq AI models into Obsidian for chat with text, vision, coder, and audio models. Manage dynamic model lists, view model info, store and load chat history (memory, localStorage, IndexedDB, or files), and create Markdown notes from AI messages with code highlighting. Use a localized EN/RU interface with mobile-ready panels."
 
     stats: {
-        downloads:  132
+        downloads:  144
         updated_at: 1776662296000
     }
 }

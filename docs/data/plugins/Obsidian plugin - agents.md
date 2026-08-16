@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/agents
 alt:
   - https://github.com/tsilva/obsidian-agents
-downloads: 249
+downloads: 282
 updated at: "2026-03-03T17:03:28Z"
 related to:
   - "[[GitHub - 1171612994]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Launch AI agents from your vault with a right-click on any file or folder to open a terminal preloaded with the file or folder path. Run agents in Terminal.app or iTerm2 on macOS and configure the agent command to execute instantly in the correct directory."
 
     stats: {
-        downloads:  249
+        downloads:  282
         updated_at: 1772557408000
     }
 }

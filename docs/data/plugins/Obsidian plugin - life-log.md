@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/life-log
 alt:
   - https://github.com/sahilium/obsidian-life-log
-downloads:
-updated at:
+downloads: 28
+updated at: "2026-07-24T08:47:08Z"
 related to:
   - "[[GitHub - 1308983966]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/sahilium/obsidian-life-log"
     description: "Record atomic life events as Markdown files. A personal timeline of your life. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Capture atomic life events as individual Markdown files with YAML frontmatter to create portable, Git-friendly records. Browse a sidebar timeline grouped by year→month→day, search instantly by title, and view what happened on this day across past years."
+
+    stats: {
+        downloads:  28
+        updated_at: 1784882828000
+    }
 }
 ```
 

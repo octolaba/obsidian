@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tg-emoji-search
 alt:
   - https://github.com/marsbatya/tg-emoji-search
-downloads: 1475
+downloads: 1510
 updated at: "2026-06-01T17:51:40Z"
 related to:
   - "[[GitHub - 945075781]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert emojis by typing a trigger character (default :) followed by a keyword to get instant Telegram-style suggestions with multilingual keyword support. Run a command to insert a random emoji, view or reset your most-used emojis, and enjoy snappy Rust+WebAssembly search performance."
 
     stats: {
-        downloads:  1475
+        downloads:  1510
         updated_at: 1780336300000
     }
 }

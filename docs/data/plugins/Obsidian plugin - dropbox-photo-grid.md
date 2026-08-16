@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dropbox-photo-grid
 alt:
   - https://github.com/alimoeeny/obsidian-dropbox-photo-grid
-downloads: 306
+downloads: 336
 updated at: "2025-03-18T03:16:53Z"
 related to:
   - "[[GitHub - 939131473]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed a responsive grid of photos from your Dropbox into notes by date. Filter by date or folder/file path, show \"On This Day\" memories, handle pagination and loading states, and match Obsidian theme colors."
 
     stats: {
-        downloads:  306
+        downloads:  336
         updated_at: 1742267813000
     }
 }

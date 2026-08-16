@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/publish-to-dev
 alt:
   - https://github.com/stroiman/obsidian-dev-publish
-downloads: 742
+downloads: 771
 updated at: "2024-07-08T09:03:29Z"
 related to:
   - "[[GitHub - 809666389]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish the active note as a draft article on DEV using the first H1 as the title and everything after it as the body. Update DEV articles from note changes, resolve frontmatter link metadata, add the DEV URL to frontmatter, and map embedded images to public URLs. Note that the DEV API key is stored unencrypted in your vault."
 
     stats: {
-        downloads:  742
+        downloads:  771
         updated_at: 1720429409000
     }
 }

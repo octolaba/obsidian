@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-in-new-tab-and-preserve-tabs
 alt:
   - https://github.com/zhihaonan/open-in-new-tab-and-preserve-tabs
-downloads: 113
+downloads: 148
 updated at: "2026-06-26T02:26:31Z"
 related to:
   - "[[GitHub - 1280862651]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open files in new tabs while preserving the current tab. Switch to an already-open tab instead of creating duplicates, reuse empty tabs, and keep the active tab when reopening the same file. Apply to file opens from the explorer, search, recent files, and daily notes."
 
     stats: {
-        downloads:  113
+        downloads:  148
         updated_at: 1782440791000
     }
 }

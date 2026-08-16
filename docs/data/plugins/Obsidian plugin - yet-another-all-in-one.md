@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/yet-another-all-in-one
 alt:
   - https://github.com/cmdaeo/obsidian-plugin
-downloads: 45
+downloads: 60
 updated at: "2026-06-22T14:27:18Z"
 related to:
   - "[[GitHub - 1276289503]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your vault with Git locally across platforms using a pure JavaScript Git engine safe for Android. Keep files current with startup pulls and automatic sync, and review a detailed audit log recorded in _System/SyncLog.md."
 
     stats: {
-        downloads:  45
+        downloads:  60
         updated_at: 1782138438000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/serendipity
 alt:
   - https://github.com/ggauravr/obsidian-serendipity-plugin
-downloads: 1035
+downloads: 1050
 updated at: "2024-08-02T06:28:10Z"
 related to:
   - "[[GitHub - 831876900]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a random note from your vault each time you open Obsidian. Choose folders to include or exclude, view the note in a themed modal, and jump straight to the source file."
 
     stats: {
-        downloads:  1035
+        downloads:  1050
         updated_at: 1722580090000
     }
 }

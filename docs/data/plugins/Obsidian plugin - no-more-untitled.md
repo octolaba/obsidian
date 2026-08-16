@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/no-more-untitled
 alt:
   - https://github.com/woodamsclark/no-more-untitled
-downloads: 35
+downloads: 59
 updated at: "2026-07-15T13:26:20Z"
 related to:
   - "[[GitHub - 1301605578]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Review untitled Markdown notes named Untitled or Untitled n one at a time with path, modified time, and a rendered preview. Delete, rename (preserving folder and extension), or keep notes, or switch to a compact checklist for bulk deletion with explicit confirmation."
 
     stats: {
-        downloads:  35
+        downloads:  59
         updated_at: 1784121980000
     }
 }

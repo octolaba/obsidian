@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/paste-plus
 alt:
   - https://github.com/jabaho9523/obsidian-paste-plus
-downloads: 321
+downloads: 396
 updated at: "2026-05-17T08:00:17Z"
 related to:
   - "[[GitHub - 1208121318]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Make every paste smarter by converting pasted URLs into titled Markdown links, saving images from the clipboard to your attachments with clean filenames, and converting rich HTML into tidy Markdown. Replace YouTube and Twitter links with their page/post titles and run automatically with no setup."
 
     stats: {
-        downloads:  321
+        downloads:  396
         updated_at: 1779004817000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/compress
 alt:
   - https://github.com/networkmastered/obsidian-compress
-downloads: 302
+downloads: 333
 updated at: "2025-03-27T05:22:56Z"
 related to:
   - "[[GitHub - 945215808]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create .ctxt compressed text files and edit them like normal notes while the plugin compresses content automatically on save. Store Markdown and plain text in compact .ctxt files and have them decompressed transparently when opened."
 
     stats: {
-        downloads:  302
+        downloads:  333
         updated_at: 1743052976000
     }
 }

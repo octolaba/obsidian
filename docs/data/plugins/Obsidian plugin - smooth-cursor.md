@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smooth-cursor
 alt:
   - https://github.com/busyogg/SmoothCursor
-downloads: 1873
+downloads: 1930
 updated at: "2026-06-13T15:17:46Z"
 related to:
   - "[[GitHub - 942874374]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Smooth cursor movement and add an optional motion trail to visualize cursor motion. Customize cursor and trail color and speed via settings or CSS. Expect altered behavior in Vim mode and when editing complex table cells."
 
     stats: {
-        downloads:  1873
+        downloads:  1930
         updated_at: 1781363866000
     }
 }

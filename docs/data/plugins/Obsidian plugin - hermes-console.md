@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hermes-console
 alt:
   - https://github.com/dannyshmueli/obsidian-hermes-console
-downloads: 4779
+downloads: 5940
 updated at: "2026-05-23T08:40:05Z"
 related to:
   - "[[GitHub - 1240518069]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hermes Console lets Hermes Agent understand the note text you select or the cursor context you are working from. Ask Hermes to rewrite, sharpen, research, critique, summarize, or continue from \"that\" text while you keep writing in another tab. Run multiple Hermes agents simultaneously and multitask with ease: - Tab Management (renaming, reordering by drag and drop, colorizing) - Spinner animation when Hermes is working."
 
     stats: {
-        downloads:  4779
+        downloads:  5940
         updated_at: 1779525605000
     }
 }

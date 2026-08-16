@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pageden-sync
 alt:
   - https://github.com/pageden/pageden-obsidian
-downloads: 73
+downloads: 82
 updated at: "2026-06-14T10:23:42Z"
 related to:
   - "[[GitHub - 1268891380]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect your Obsidian vault to a Pageden workspace to browse, search, open, download remote documents, or import an entire vault. Sync local edits back with manual or background sync, push new notes to the server, and handle conflicts while recording sync metadata for consistent updates."
 
     stats: {
-        downloads:  73
+        downloads:  82
         updated_at: 1781432622000
     }
 }

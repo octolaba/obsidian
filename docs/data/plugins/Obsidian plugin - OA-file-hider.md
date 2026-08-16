@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/OA-file-hider
 alt:
   - https://github.com/eldritch-oliver/file-hider
-downloads: 46988
+downloads: 47961
 updated at: "2023-02-08T22:08:21Z"
 related to:
   - "[[GitHub - 495267253]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide specific files and folders from the file explorer with a right-click. Toggle hidden items' visibility, unhide via the context menu, and manage the hidden list from the plugin settings."
 
     stats: {
-        downloads:  46988
+        downloads:  47961
         updated_at: 1675894101000
     }
 }

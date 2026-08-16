@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/remove-task-format
 alt:
   - https://github.com/eluisjonathann/obsidian-remove-task-format
-downloads: 64
+downloads: 78
 updated at: "2026-06-22T21:26:03Z"
 related to:
   - "[[GitHub - 1268387282]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Remove task formatting from the current line while preserving indentation and original bullets. Convert '- [ ]' or '- [x]' tasks back into normal list items with a single command."
 
     stats: {
-        downloads:  64
+        downloads:  78
         updated_at: 1782163563000
     }
 }

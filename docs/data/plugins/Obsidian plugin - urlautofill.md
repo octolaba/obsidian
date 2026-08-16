@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/urlautofill
 alt:
   - https://github.com/sharbelmarshi/obsidian-url-autofill-plugin
-downloads: 153
+downloads: 225
 updated at: "2026-07-04T14:58:47Z"
 related to:
   - "[[GitHub - 1281713467]]"
@@ -36,7 +36,7 @@ plugin: {
     description: "Embed websites and automatically fill URLs and login credentials when you open them. - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  153
+        downloads:  225
         updated_at: 1783177127000
     }
 }

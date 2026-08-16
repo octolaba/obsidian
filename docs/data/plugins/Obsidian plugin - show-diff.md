@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/show-diff
 alt:
   - https://github.com/ivan-lednev/obsidian-automatic-changelog
-downloads: 4293
+downloads: 4325
 updated at: "2023-04-24T08:39:13Z"
 related to:
   - "[[GitHub - 629178715]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Git diffs as readable Markdown code blocks inside notes. Point to your vault or any repo, specify date or commit ranges and path exclusions, or insert a ready-made code block showing today's changes."
 
     stats: {
-        downloads:  4293
+        downloads:  4325
         updated_at: 1682325553000
     }
 }

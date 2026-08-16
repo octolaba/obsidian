@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-readwise
 alt:
   - https://github.com/renehernandez/obsidian-readwise
-downloads: 9444
+downloads: 9474
 updated at: "2021-08-27T15:16:19Z"
 related to:
   - "[[GitHub - 337212365]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Readwise highlights into your Obsidian vault, pulling new highlights on startup and updating existing notes. Customize note headers and highlight content with Nunjucks templates and map authors for organized imports; requires a Readwise subscription."
 
     stats: {
-        downloads:  9444
+        downloads:  9474
         updated_at: 1630077379000
     }
 }

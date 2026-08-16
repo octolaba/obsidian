@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/note-toolbar
 alt:
   - https://github.com/chrisgurney/obsidian-note-toolbar
-downloads: 262681
-updated at: "2026-07-20T18:49:17Z"
+downloads: 303457
+updated at: "2026-08-04T12:25:06Z"
 related to:
   - "[[GitHub - 769938108]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create context-aware toolbars to run commands, open files or URLs, show menus, or execute Dataview/Templater/JavaScript snippets. Position toolbars at the top/bottom, tab bar, floating buttons or callouts; show on text selection; includes an API for showing UI components."
 
     stats: {
-        downloads:  262681
-        updated_at: 1784573357000
+        downloads:  303457
+        updated_at: 1785846306000
     }
 }
 ```

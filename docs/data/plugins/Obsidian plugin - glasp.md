@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/glasp
 alt:
   - https://github.com/glasp-co/obsidian-glasp-plugin
-downloads: 1812
+downloads: 1931
 updated at: "2026-07-23T08:30:52Z"
 related to:
   - "[[GitHub - 911519564]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Glasp highlights and notes into Obsidian, exporting them to a note in a selected folder. Mirror Glasp annotations in your vault using your Glasp access token to keep highlights and notes synchronized."
 
     stats: {
-        downloads:  1812
+        downloads:  1931
         updated_at: 1784795452000
     }
 }

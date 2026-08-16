@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markdown-attributes
 alt:
   - https://github.com/javalent/markdown-attributes
-downloads: 24298
+downloads: 24526
 updated at: "2022-10-21T20:16:26Z"
 related to:
   - "[[GitHub - 388903216]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add Pandoc-style Markdown attributes to inline text (italics, bold, highlights), paragraphs, headers, tables and cells, links (Wikilinks and Markdown links), lists and list items, code blocks, block quotes, and callouts. Attach classes, IDs, or key=value pairs by placing {...} after elements to apply styling or metadata."
 
     stats: {
-        downloads:  24298
+        downloads:  24526
         updated_at: 1666383386000
     }
 }

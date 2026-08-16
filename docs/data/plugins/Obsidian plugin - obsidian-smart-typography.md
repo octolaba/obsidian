@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-smart-typography
 alt:
   - https://github.com/mgmeyers/obsidian-smart-typography
-downloads: 161738
+downloads: 164487
 updated at: "2022-06-17T19:02:11Z"
 related to:
   - "[[GitHub - 374438669]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert straight quotes, ellipses, arrows, dashes, common fractions and comparison operators into typographic characters as you type. Allow undo with backspace and provide customizable replacements for quotes and arrow symbols."
 
     stats: {
-        downloads:  161738
+        downloads:  164487
         updated_at: 1655492531000
     }
 }

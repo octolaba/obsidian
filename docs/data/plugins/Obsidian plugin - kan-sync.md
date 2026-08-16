@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kan-sync
 alt:
   - https://github.com/x-o-r-r-o/Kan-Sync
-downloads: 55
+downloads: 101
 updated at: "2026-07-21T23:47:04Z"
 related to:
   - "[[GitHub - 1300978086]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Obsidian checklists with Kan.bn kanban boards and view live boards in a sidebar. Push headings and checkboxes as lists and cards, pull card status into notes with rename-safe IDs, and use due dates, tags→labels, sub-item checklists, attachments and @mentions as assignees."
 
     stats: {
-        downloads:  55
+        downloads:  101
         updated_at: 1784677624000
     }
 }

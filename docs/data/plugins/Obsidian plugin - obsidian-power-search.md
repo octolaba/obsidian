@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-power-search
 alt:
   - https://github.com/aviral-batra/obsidian-power-search
-downloads: 5741
+downloads: 5762
 updated at: "2022-03-15T07:52:10Z"
 related to:
   - "[[GitHub - 453503900]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search notes in real time as you type, including Obsidian files and Anki notes. Display matching lines and blocks in a side pane to spot duplicates, link related ideas, and update notes on the fly. Keep results updated automatically for immediate context."
 
     stats: {
-        downloads:  5741
+        downloads:  5762
         updated_at: 1647330730000
     }
 }

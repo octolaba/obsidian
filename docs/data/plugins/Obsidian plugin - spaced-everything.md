@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/spaced-everything
 alt:
   - https://github.com/zachmueller/spaced-everything
-downloads: 1326
+downloads: 1378
 updated at: "2025-12-18T20:00:27Z"
 related to:
   - "[[GitHub - 852681143]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Apply the SuperMemo 2.0 (SM-2) spaced-repetition algorithm to every note to run a Spaced Writing Practice across your vault. Tag notes with contexts to filter review queues, log outcomes (fruitful, unfruitful, ignore) to rate progress, and open the next scheduled item for focused review."
 
     stats: {
-        downloads:  1326
+        downloads:  1378
         updated_at: 1766088027000
     }
 }

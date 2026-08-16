@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/multilingual
 alt:
   - https://github.com/leolazou/obsidian-multilingual
-downloads: 2304
+downloads: 2336
 updated at: "2024-03-19T20:03:05Z"
 related to:
   - "[[GitHub - 763065362]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Translate note titles into multiple languages and add translations to aliases for seamless cross-language linking. Auto-translate names on note creation or rename and preserve links by relying on Obsidian aliases so links remain functional if the plugin is removed."
 
     stats: {
-        downloads:  2304
+        downloads:  2336
         updated_at: 1710878585000
     }
 }

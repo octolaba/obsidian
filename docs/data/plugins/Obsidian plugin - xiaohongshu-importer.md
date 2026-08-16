@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/xiaohongshu-importer
 alt:
   - https://github.com/bnchiang96/xiaohongshu-importer
-downloads: 8272
+downloads: 10172
 updated at: "2026-01-14T06:55:38Z"
 related to:
   - "[[GitHub - 945707130]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Xiaohongshu notes by pasting share links or text, normalize explore URLs, and extract titles, content, images, videos, and tags into Markdown. Organize notes into user-defined categories and folder hierarchies, and choose to download media locally or embed original URLs."
 
     stats: {
-        downloads:  8272
+        downloads:  10172
         updated_at: 1768373738000
     }
 }

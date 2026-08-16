@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-note
 alt:
   - https://github.com/kzhovn/copy-command-obsidian
-downloads: 7990
+downloads: 8029
 updated at: "2021-09-24T16:56:38Z"
 related to:
   - "[[GitHub - 405788888]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a \"Copy active note\" command to the command palette and file menu to duplicate the currently open note, matching the file-explorer \"Make a copy\" behavior. Add a \"Copy folder\" command to duplicate a selected folder and all its contents."
 
     stats: {
-        downloads:  7990
+        downloads:  8029
         updated_at: 1632502598000
     }
 }

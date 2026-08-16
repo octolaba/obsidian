@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/json-inspector
 alt:
   - https://github.com/jstoolsspace/json-inspector-obsidian
-downloads: 147
+downloads: 193
 updated at: "2026-06-26T06:41:19Z"
 related to:
   - "[[GitHub - 1280919870]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render JSON code blocks as an interactive inspector inside notes with Tree, Raw, and JSONPath Query views. Run locally with no network, telemetry, or eval; preserve big integers and high-precision decimals losslessly and use search, copy actions, lazy rendering, and keyboard navigation to explore data."
 
     stats: {
-        downloads:  147
+        downloads:  193
         updated_at: 1782456079000
     }
 }

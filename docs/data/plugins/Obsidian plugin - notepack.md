@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notepack
 alt:
   - https://github.com/kynatro/notepack-obsidian
-downloads: 225
+downloads: 239
 updated at: "2026-05-24T03:56:52Z"
 related to:
   - "[[GitHub - 1159591243]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scan your vault for unchecked todos, assign tasks via @mentions (or default to you), and display organized sidebar views with Overdue and Due Soon sections. Parse natural-language due dates (e.g., \"due by Friday\", EOD, EOM, ISO) and color-code badges, resolving relative dates from file date prefixes."
 
     stats: {
-        downloads:  225
+        downloads:  239
         updated_at: 1779595012000
     }
 }

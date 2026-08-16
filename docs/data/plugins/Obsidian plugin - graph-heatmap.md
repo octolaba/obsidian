@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graph-heatmap
 alt:
   - https://github.com/mafgin/obsidian-graph-heatmap
-downloads: 628
+downloads: 780
 updated at: "2026-05-28T15:01:28Z"
 related to:
   - "[[GitHub - 1247007808]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Color graph nodes by recency, links, size, or word count and choose from 12 palettes with relative or absolute scales. Isolate hubs, orphans, stubs, or stale notes, fade or hide others, show a recent-edit halo, and hover nodes for path, metric value, modified time, connections, and rank."
 
     stats: {
-        downloads:  628
+        downloads:  780
         updated_at: 1779980488000
     }
 }

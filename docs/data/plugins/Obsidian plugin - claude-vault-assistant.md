@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/claude-vault-assistant
 alt:
   - https://github.com/copperbox/obsidian-claude-vault-assistant
-downloads: 620
+downloads: 681
 updated at: "2026-07-01T05:28:02Z"
 related to:
   - "[[GitHub - 1174655639]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run predefined Claude prompts (PROMPT-*.md) against your vault or the active note using the Claude Code CLI in headless mode. Define reusable prompts and a CLAUDE.md with vault conventions to process, analyze, and update notes directly inside Obsidian."
 
     stats: {
-        downloads:  620
+        downloads:  681
         updated_at: 1782883682000
     }
 }

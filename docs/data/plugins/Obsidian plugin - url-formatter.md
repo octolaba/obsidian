@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/url-formatter
 alt:
   - https://github.com/thomassnoeck/url-formatter-obsidian
-downloads: 1264
+downloads: 1328
 updated at: "2026-07-05T14:00:15Z"
 related to:
   - "[[GitHub - 1011383117]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert messy URLs into concise Markdown links when pasted into notes. Define customizable regex patterns and output formats to extract identifiers (Jira tickets, blog posts, docs) and produce readable link text while preserving the original URL."
 
     stats: {
-        downloads:  1264
+        downloads:  1328
         updated_at: 1783260015000
     }
 }

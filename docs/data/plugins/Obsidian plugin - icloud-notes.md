@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/icloud-notes
 alt:
   - https://github.com/coddingtonbear/obsidian-icloud-notes
-downloads: 51
-updated at: "2026-07-19T15:42:49Z"
+downloads: 195
+updated at: "2026-08-01T00:18:22Z"
 related to:
   - "[[GitHub - 1305263212]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync a folder in your Obsidian vault with your Apple Notes, in both directions, from any operating system — Linux, Windows, or macOS."
 
     stats: {
-        downloads:  51
-        updated_at: 1784475769000
+        downloads:  195
+        updated_at: 1785543502000
     }
 }
 ```

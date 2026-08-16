@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/source-code-note
 alt:
   - https://github.com/waiting0324/obsidian-code-note
-downloads: 3949
+downloads: 3959
 updated at: "2023-03-14T15:59:35Z"
 related to:
   - "[[GitHub - 612144074]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Parse code blocks in notes to build visual graphs of method-call relationships and pin the source snippets on a canvas for quick inspection. Recognize @class, @function and @call tags in code comments to map links between methods and render them as connected nodes."
 
     stats: {
-        downloads:  3949
+        downloads:  3959
         updated_at: 1678809575000
     }
 }

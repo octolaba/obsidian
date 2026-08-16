@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/whatsapp-local-sync
 alt:
   - https://github.com/nabheetcloud/Obsidian-Whatsapp
-downloads: 75
+downloads: 117
 updated at: "2026-07-04T03:34:07Z"
 related to:
   - "[[GitHub - 1288840912]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mirror WhatsApp Desktop chats into your vault by reading the app's local SQLite database and creating one transcript note per conversation. Sync incrementally and append new messages under YYYY-MM-DD headers with YAML frontmatter while keeping the process fully local and read-only (desktop only)."
 
     stats: {
-        downloads:  75
+        downloads:  117
         updated_at: 1783136047000
     }
 }

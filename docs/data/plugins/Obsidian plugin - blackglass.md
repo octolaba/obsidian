@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/blackglass
 alt:
   - https://github.com/humantorch/blackglass
-downloads: 1126
-updated at: "2026-07-17T02:24:56Z"
+downloads: 1373
+updated at: "2026-08-09T11:51:54Z"
 related to:
   - "[[GitHub - 1241094896]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Run Claude Code's actual CLI in an embedded Obsidian terminal on macOS, Linux, and Windows, preserving every slash command, MCP tool, and session continuity. Host a vault-native authenticated MCP server so Claude can read, search, and optionally write notes, with a quick-ask modal, file-explorer queries, per-query model selection, and automatic session resume."
 
     stats: {
-        downloads:  1126
-        updated_at: 1784255096000
+        downloads:  1373
+        updated_at: 1786276314000
     }
 }
 ```

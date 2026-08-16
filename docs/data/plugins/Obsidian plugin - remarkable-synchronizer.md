@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/remarkable-synchronizer
 alt:
   - https://github.com/dsebastien/obsidian-remarkable-sync
-downloads: 1397
-updated at: "2026-07-17T17:02:32Z"
+downloads: 1802
+updated at: "2026-07-30T19:07:44Z"
 related to:
   - "[[GitHub - 1175082325]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Connect to reMarkable cloud or a self-hosted rmfakecloud and list, download, and sync notebook pages as PNG/JPEG images. Render .rm v6 stroke data, browse notebooks in a sidebar with preserved folder hierarchy, and import local .rmdoc files without a cloud connection."
 
     stats: {
-        downloads:  1397
-        updated_at: 1784307752000
+        downloads:  1802
+        updated_at: 1785438464000
     }
 }
 ```

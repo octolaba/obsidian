@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/morse-translator
 alt:
   - https://github.com/shangchengwen/obsidian-morse-translator
-downloads: 66
+downloads: 77
 updated at: "2026-06-08T11:53:10Z"
 related to:
   - "[[GitHub - 1257093279]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Translate Morse from a draggable floating window with live preview and insert decoded text into the active note. Use spaces for letters and / for words, enable auto-insert after typing stops, pick case, customize dot/dash characters, and open via command palette or hotkeys."
 
     stats: {
-        downloads:  66
+        downloads:  77
         updated_at: 1780919590000
     }
 }

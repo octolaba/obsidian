@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/snsvrno-tags
 alt:
   - https://github.com/snsvrno/snsvrno-short-tags
-downloads: 2408
+downloads: 2444
 updated at: "2024-02-14T14:11:03Z"
 related to:
   - "[[GitHub - 608352716]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format tags in preview mode by hiding the leading # and collapsing or removing parent segments from nested tags. Shorten tags by pattern and assign CSS classes to shortened tags, parent-based tags, or all tags for custom styling."
 
     stats: {
-        downloads:  2408
+        downloads:  2444
         updated_at: 1707919863000
     }
 }

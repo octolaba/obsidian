@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/prettier
 alt:
   - https://github.com/goodbyenjn/obsidian-plugin-prettier
-downloads: 4640
+downloads: 5061
 updated at: "2025-09-30T06:28:55Z"
 related to:
   - "[[GitHub - 811320118]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format notes with Prettier. Format entire files or selected text, including embedded code blocks (js/jsx, ts/tsx, css, scss, less, html, json, yaml). Remap code block languages, add trailing spaces to preserve live preview rendering, and toggle formatting per file via frontmatter."
 
     stats: {
-        downloads:  4640
+        downloads:  5061
         updated_at: 1759213735000
     }
 }

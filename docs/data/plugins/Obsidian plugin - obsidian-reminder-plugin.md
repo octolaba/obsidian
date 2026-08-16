@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-reminder-plugin
 alt:
   - https://github.com/uphy/obsidian-reminder
-downloads: 303792
-updated at: "2026-07-12T23:24:47Z"
+downloads: 315441
+updated at: "2026-08-10T15:07:59Z"
 related to:
   - "[[GitHub - 392577728]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Set reminders on Markdown TODO items using @YYYY-MM-DD or @YYYY-MM-DD HH:MM to schedule alerts. View a cross-file reminder list, open source notes from items, and receive Obsidian notifications with options to mark done or snooze. Support Obsidian Tasks and Kanban date formats."
 
     stats: {
-        downloads:  303792
-        updated_at: 1783898687000
+        downloads:  315441
+        updated_at: 1786374479000
     }
 }
 ```

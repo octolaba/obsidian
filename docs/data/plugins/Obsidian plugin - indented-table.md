@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/indented-table
 alt:
   - https://github.com/nnyj/obsidian-indented-table
-downloads: 96
+downloads: 160
 updated at: "2026-06-30T13:05:39Z"
 related to:
   - "[[GitHub - 1284671941]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Style indented pipe tables nested in list items in live preview so they render correctly without changing your Markdown. Hide separator rows, bold headers with background, fade pipe characters, prevent line breaks in rows, and scope row borders to the table width."
 
     stats: {
-        downloads:  96
+        downloads:  160
         updated_at: 1782824739000
     }
 }

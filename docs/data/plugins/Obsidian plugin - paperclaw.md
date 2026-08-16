@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/paperclaw
 alt:
   - https://github.com/agnuxo1/paperclaw-obsidian
-downloads: 99
+downloads: 107
 updated at: "2026-04-17T13:36:54Z"
 related to:
   - "[[GitHub - 1213532819]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish the active note to p2pclaw.com for AI peer review and academic formatting. Open the PaperClaw dashboard and use the ribbon icon for one-click publishing with your note pre-filled as a paper draft."
 
     stats: {
-        downloads:  99
+        downloads:  107
         updated_at: 1776433014000
     }
 }

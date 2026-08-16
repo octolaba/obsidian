@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/travel-planner
 alt:
   - https://github.com/wesswart77/obsidian-travel-planner
-downloads: 230
+downloads: 312
 updated at: "2026-05-24T20:06:51Z"
 related to:
   - "[[GitHub - 1248531803]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Plan trips in Obsidian with a trip note plus Itinerary, Packing List, Accommodation, and Budget sub-notes. Create trips via a modal, add itinerary days, use a pre-filled categorized packing checklist, and browse trips in a sidebar sorted by current/upcoming/past."
 
     stats: {
-        downloads:  230
+        downloads:  312
         updated_at: 1779653211000
     }
 }

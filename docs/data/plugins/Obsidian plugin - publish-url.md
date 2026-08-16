@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/publish-url
 alt:
   - https://github.com/hananoshikayomaru/obsidian-publish-url
-downloads: 2869
+downloads: 2908
 updated at: "2023-12-12T18:02:55Z"
 related to:
   - "[[GitHub - 714024793]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy and open your Publish URL quickly from the current view. Respect permalinks and copy theog.io links for fast sharing."
 
     stats: {
-        downloads:  2869
+        downloads:  2908
         updated_at: 1702404175000
     }
 }

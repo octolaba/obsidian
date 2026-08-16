@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/x-clipper
 alt:
   - https://github.com/ryotaunzai/x-clipper
-downloads: 432
+downloads: 531
 updated at: "2026-05-15T22:06:52Z"
 related to:
   - "[[GitHub - 1180368471]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save X (Twitter) posts to Obsidian as Markdown notes with images, videos, author info, and hashtags automatically included. Download media into your vault's attachments folder, extract hashtags as frontmatter and inline tags, suggest and remember tag selections, and fall back to vxtwitter when needed."
 
     stats: {
-        downloads:  432
+        downloads:  531
         updated_at: 1778882812000
     }
 }

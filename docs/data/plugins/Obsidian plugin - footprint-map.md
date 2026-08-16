@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/footprint-map
 alt:
   - https://github.com/evanwong89/footprint-map
-downloads: 28
-updated at: "2026-07-22T00:37:31Z"
+downloads: 59
+updated at: "2026-07-27T16:35:52Z"
 related to:
   - "[[GitHub - 1304575810]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render a time-ordered travel diary from photos embedded in notes, showing photo markers, places, and dashed straight arrows that indicate visit order rather than routes. Store footprints as portable GeoJSON next to the note and link each place to local photos; group consecutive photos within 200 metres into one place. Support JPEG, HEIC, and PNG metadata extraction, multiple basemap sources or no basemap, and export a static SVG fallback."
 
     stats: {
-        downloads:  28
-        updated_at: 1784680651000
+        downloads:  59
+        updated_at: 1785170152000
     }
 }
 ```

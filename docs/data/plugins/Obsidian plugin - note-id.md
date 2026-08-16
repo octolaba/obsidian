@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-id
 alt:
   - https://github.com/dominikmayer/obsidian-note-id
-downloads: 3079
+downloads: 3148
 updated at: "2026-06-20T07:27:54Z"
 related to:
   - "[[GitHub - 919104393]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display notes by ID and sort them alphanumerically to reveal clusters of related ideas and expose gaps. Create new sequenced or branched notes and set IDs relative to other notes to continue or expand threads. Build a table-of-contents view and search fuzzily by title, ID, or TOC entries."
 
     stats: {
-        downloads:  3079
+        downloads:  3148
         updated_at: 1781940474000
     }
 }

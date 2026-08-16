@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/calibre-bridge
 alt:
   - https://github.com/p24l/calibre-bridge
-downloads: 86
-updated at: "2026-07-06T17:32:56Z"
+downloads: 199
+updated at: "2026-08-08T13:31:49Z"
 related to:
   - "[[GitHub - 1291013205]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Connect your Calibre library to Obsidian and import selected books as individual notes with cover images, Markdown descriptions, and comprehensive frontmatter (title, authors, series, rating, tags, ISBN, date added). Refresh imports to update Calibre data without overwriting your custom note content or reading status, preserving an editable area below each description."
 
     stats: {
-        downloads:  86
-        updated_at: 1783359176000
+        downloads:  199
+        updated_at: 1786195909000
     }
 }
 ```

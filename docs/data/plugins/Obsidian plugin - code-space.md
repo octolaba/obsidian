@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/code-space
 alt:
   - https://github.com/unlinearity/Obsidian-CodeSpace
-downloads: 10842
+downloads: 12225
 updated at: "2026-05-13T13:33:44Z"
 related to:
   - "[[GitHub - 1137151774]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage code files in your vault with a visual dashboard, unified index, dynamic filtering and standard file operations. Edit and view code in an IDE-like space with CodeMirror 6 syntax highlighting, outline navigation, regex search/replace, embedded previews, PDF export and folder mounts via symlinks."
 
     stats: {
-        downloads:  10842
+        downloads:  12225
         updated_at: 1778679224000
     }
 }

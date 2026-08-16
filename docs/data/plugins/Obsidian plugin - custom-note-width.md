@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/custom-note-width
 alt:
   - https://github.com/0skater0/obsidian-custom-note-width
-downloads: 17833
-updated at: "2026-06-11T12:09:54Z"
+downloads: 18744
+updated at: "2026-08-06T19:23:58Z"
 related to:
   - "[[GitHub - 686371613]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Adjust editor line width per note or globally using a status-bar slider or text field for real-time changes. Set widths in %, px, or ch and apply values via YAML front matter or integrated commands for persistent control."
 
     stats: {
-        downloads:  17833
-        updated_at: 1781179794000
+        downloads:  18744
+        updated_at: 1786044238000
     }
 }
 ```

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/card-viewer
 alt:
   - https://github.com/vsme/obsidian-card-viewer
-downloads: 1363
-updated at: "2026-06-23T08:29:10Z"
+downloads: 1551
+updated at: "2026-07-29T09:27:08Z"
 related to:
   - "[[GitHub - 1034512965]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Display card views for movies, TV shows, books and music with covers and metadata. Preview image code blocks in a grid with lightbox in reading mode and render optional HTML code blocks."
 
     stats: {
-        downloads:  1363
-        updated_at: 1782203350000
+        downloads:  1551
+        updated_at: 1785317228000
     }
 }
 ```

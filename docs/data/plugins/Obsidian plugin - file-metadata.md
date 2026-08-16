@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-metadata
 alt:
   - https://github.com/aicayzer/obsidian-file-metadata
-downloads: 454
+downloads: 500
 updated at: "2026-05-15T12:57:11Z"
 related to:
   - "[[GitHub - 1173746882]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View file info, text statistics, link and code counts, image EXIF, and a clickable indented document outline in a right sidebar without altering frontmatter. Copy any value with a click or right‑click for options, collapse sections, and see reading time and readability at a glance."
 
     stats: {
-        downloads:  454
+        downloads:  500
         updated_at: 1778849831000
     }
 }

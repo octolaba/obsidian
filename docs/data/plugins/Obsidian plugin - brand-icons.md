@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/brand-icons
 alt:
   - https://github.com/richin13/obsidian-brand-icons
-downloads: 136
+downloads: 147
 updated at: "2026-04-24T02:54:00Z"
 related to:
   - "[[GitHub - 1219420044]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render brand logos and icons inline using :brand:domain: syntax, with optional |variant and |size overrides to control appearance. Show icons next to text in reading view and live preview, fetching images from configurable icon providers."
 
     stats: {
-        downloads:  136
+        downloads:  147
         updated_at: 1776999240000
     }
 }

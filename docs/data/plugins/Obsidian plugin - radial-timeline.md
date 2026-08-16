@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/radial-timeline
 alt:
   - https://github.com/ericrhystaylor/Radial-Timeline
-downloads: 6110
-updated at: "2026-07-20T20:04:48Z"
+downloads: 6983
+updated at: "2026-08-03T22:36:04Z"
 related to:
   - "[[GitHub - 949665574]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Develop your manuscript in a radial layout that arranges scenes by act, subplot, narrative or chronological order. Use concentric rings to represent subplots, hover to reveal scene details and AI story pulses, and switch between Progress, Narrative, Chronological, and Gossamer trace views. Color-coded timelines compare structure, progress, and revision states across the project. Switch to Inquiry View for deep manuscript and saga-wide investigation of your corpus, then generate briefings from the findings or explore them through the visual interface. Export your manuscript as Markdown or PDF, and share spoiler-free timeline snapshots on social media or for a Kickstarter campaign. Radial Timeline is built to help authors and creatives move faster from insight through drafting, revision, and final polish."
 
     stats: {
-        downloads:  6110
-        updated_at: 1784577888000
+        downloads:  6983
+        updated_at: 1785796564000
     }
 }
 ```

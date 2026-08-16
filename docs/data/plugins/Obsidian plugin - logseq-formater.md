@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/logseq-formater
 alt:
   - https://github.com/fengshuzi/logseq-formater
-downloads: 68
-updated at: "2026-07-06T04:42:40Z"
+downloads: 117
+updated at: "2026-08-04T03:47:14Z"
 related to:
   - "[[GitHub - 1043611958]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Convert Logseq syntax to Markdown automatically when opening Markdown files. Render ((block-id)) as inline block previews, translate id:: block-id to ^block-id, append :LOGBOOK: clock summaries to DONE tasks, and offer three TODO modes: keep original, display as visual tasks, or convert to Markdown checkboxes."
 
     stats: {
-        downloads:  68
-        updated_at: 1783312960000
+        downloads:  117
+        updated_at: 1785815234000
     }
 }
 ```

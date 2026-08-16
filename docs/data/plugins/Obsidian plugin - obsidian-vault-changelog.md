@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-vault-changelog
 alt:
   - https://github.com/philoserf/obsidian-vault-changelog
-downloads: 22004
+downloads: 22325
 updated at: "2026-07-01T18:11:31Z"
 related to:
   - "[[GitHub - 332690231]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Maintain a changelog of recently edited notes in your vault. Update it manually or enable auto-update to overwrite a dedicated note with the latest edits, using wiki-links, configurable date format, and a capped number of recent files."
 
     stats: {
-        downloads:  22004
+        downloads:  22325
         updated_at: 1782929491000
     }
 }

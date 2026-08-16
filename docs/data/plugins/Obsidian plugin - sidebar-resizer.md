@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sidebar-resizer
 alt:
   - https://github.com/jeetsukumaran/obsidian-sidebar-resizer
-downloads: 1952
+downloads: 2025
 updated at: "2024-07-05T02:27:47Z"
 related to:
   - "[[GitHub - 822895242]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Adjust left and right sidebar widths in Obsidian. Increase or decrease sizes in px or %, toggle or expand/collapse to standard or zero widths, and evenly distribute widths between sidebars."
 
     stats: {
-        downloads:  1952
+        downloads:  2025
         updated_at: 1720146467000
     }
 }

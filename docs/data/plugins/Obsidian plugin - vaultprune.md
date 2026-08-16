@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vaultprune
 alt:
   - https://github.com/barisdincer/VaultPrune
-downloads: 742
+downloads: 1181
 updated at: "2026-05-15T12:48:41Z"
 related to:
   - "[[GitHub - 755474542]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Find unused attachments across your vault, including references inside Markdown and Canvas files. Review candidates with search, filters, sorting and bulk selection, preview a report, then move chosen files to Obsidian's trash."
 
     stats: {
-        downloads:  742
+        downloads:  1181
         updated_at: 1778849321000
     }
 }

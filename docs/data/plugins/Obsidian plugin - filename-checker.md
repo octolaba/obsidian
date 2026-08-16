@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/filename-checker
 alt:
   - https://github.com/yueyinfeng/filename-checker
-downloads:
-updated at:
+downloads: 41
+updated at: "2026-07-25T11:50:23Z"
 related to:
   - "[[GitHub - 1311812479]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/yueyinfeng/filename-checker"
     description: "Finds duplicate Markdown filenames in configured folders after ignoring filename prefixes. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Find duplicate Markdown filenames in configured folders by ignoring filename prefixes (IDs, serial numbers) with simple wildcard patterns. Check the active note's folder or pick a target folder to compare only direct Markdown files and save results as an auto-opened Markdown report."
+
+    stats: {
+        downloads:  41
+        updated_at: 1784980223000
+    }
 }
 ```
 

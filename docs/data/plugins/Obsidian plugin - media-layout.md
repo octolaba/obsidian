@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/media-layout
 alt:
   - https://github.com/hanblade67-cloud/media-layout
-downloads: 42
+downloads: 244
 updated at: "2025-11-14T09:17:11Z"
 related to:
   - "[[GitHub - 1062120721]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Arrange and resize images, videos, audio and note boxes directly on the page to build visual compositions while keeping notes portable. Create independent clones you can move, rotate, size and link, save presets, and reuse saved layouts across pages."
 
     stats: {
-        downloads:  42
+        downloads:  244
         updated_at: 1763111831000
     }
 }

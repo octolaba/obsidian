@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/incomplete-files
 alt:
   - https://github.com/hananoshikayomaru/obsidian-incomplete-files
-downloads: 2750
+downloads: 2763
 updated at: "2023-12-21T06:01:05Z"
 related to:
   - "[[GitHub - 718751358]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Discover incomplete notes by scanning your vault with rule-based detectors for empty files, empty headings, or a custom INCOMPLETE syntax. View a real-time, highly optimized list of flagged files with issue details and last-modified times."
 
     stats: {
-        downloads:  2750
+        downloads:  2763
         updated_at: 1703138465000
     }
 }

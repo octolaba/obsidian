@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hypermnesic-companion
 alt:
   - https://github.com/leonardsellem/hypermnesic-companion
-downloads: 80
+downloads: 95
 updated at: "2026-06-18T17:34:57Z"
 related to:
   - "[[GitHub - 1269356498]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Surface pause-triggered, read-only related notes and an interrogable reinvention nudge from your tailnet hypermnesic index as you write. Show a calm status-bar popover, optional sidebar and dockable thinking panel with navigable related notes, Socratic prompts, selection-recall and forgetting-curve ranking, without ever writing to your vault."
 
     stats: {
-        downloads:  80
+        downloads:  95
         updated_at: 1781804097000
     }
 }

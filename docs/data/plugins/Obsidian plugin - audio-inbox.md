@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/audio-inbox
 alt:
   - https://github.com/andsea007/obsidian-audio-inbox
-downloads: 402
+downloads: 563
 updated at: "2026-07-11T12:09:28Z"
 related to:
   - "[[GitHub - 1270203383]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Record voice with one click, auto-transcribe via SiliconFlow and generate structured AI summaries with extracted to-dos using DeepSeek. Sync todos to Apple Reminders, process batch audio, and use on desktop or mobile (draggable floating button) without VPN via China-friendly services."
 
     stats: {
-        downloads:  402
+        downloads:  563
         updated_at: 1783771768000
     }
 }

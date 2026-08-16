@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/yesterday
 alt:
   - https://github.com/dominikmayer/obsidian-yesterday
-downloads: 6804
+downloads: 6914
 updated at: "2026-06-17T09:14:47Z"
 related to:
   - "[[GitHub - 425459599]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and edit a Yesterday-format journal inside Obsidian. Use extended Markdown to add dated entries, chat-style dialogs, dream passages, media content blocks and rich metadata like location and weather."
 
     stats: {
-        downloads:  6804
+        downloads:  6914
         updated_at: 1781687687000
     }
 }

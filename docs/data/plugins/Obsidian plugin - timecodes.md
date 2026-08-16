@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/timecodes
 alt:
   - https://github.com/gavvvr/obsidian-timecodes-plugin
-downloads: 635
+downloads: 652
 updated at: "2025-10-05T22:33:30Z"
 related to:
   - "[[GitHub - 920211587]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert raw timecodes (MM:SS / HH:MM:SS) into clickable links in Obsidian reading mode. Detect and link timecodes in raw YouTube URLs, markdown links, and embedded iframes, opening the video at the corresponding timestamp."
 
     stats: {
-        downloads:  635
+        downloads:  652
         updated_at: 1759703610000
     }
 }

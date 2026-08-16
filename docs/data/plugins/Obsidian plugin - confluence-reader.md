@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/confluence-reader
 alt:
   - https://github.com/keonyrus/obsidian-confluence-sync
-downloads: 278
+downloads: 314
 updated at: "2026-03-04T07:20:54Z"
 related to:
   - "[[GitHub - 1170756541]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Confluence Server pages into your vault as read-only Markdown, preserving page hierarchy, attachments, and optional downloads. Convert Confluence content to Obsidian-friendly formats—callouts, code blocks, wikilinks, TOC, expanded macros—and embed Confluence metadata and version tracking in frontmatter."
 
     stats: {
-        downloads:  278
+        downloads:  314
         updated_at: 1772608854000
     }
 }

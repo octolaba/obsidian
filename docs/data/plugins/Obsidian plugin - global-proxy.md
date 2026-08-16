@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/global-proxy
 alt:
   - https://github.com/windingblack/obsidian-global-proxy
-downloads: 16150
+downloads: 16444
 updated at: "2025-06-17T13:28:27Z"
 related to:
   - "[[GitHub - 724984936]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Configure global SOCKS, HTTP, and HTTPS proxies to route Obsidian network requests, automatically falling back from SOCKS to HTTP/HTTPS to direct when a proxy fails. Declare Plugin Tokens to proxy plugins with their own connections and set a comma-separated bypass list to exclude URLs."
 
     stats: {
-        downloads:  16150
+        downloads:  16444
         updated_at: 1750166907000
     }
 }

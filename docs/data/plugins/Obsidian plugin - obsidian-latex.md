@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-latex
 alt:
   - https://github.com/wei2912/obsidian-latex
-downloads: 57822
+downloads: 58563
 updated at: "2023-01-13T05:53:42Z"
 related to:
   - "[[GitHub - 323223125]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extend MathJax support by loading a preamble.sty from your vault root and enabling extra MathJax extensions like mhchem and bussproofs. Reload Obsidian after editing the preamble; preamble.sty must exist at startup and be named correctly to be loaded."
 
     stats: {
-        downloads:  57822
+        downloads:  58563
         updated_at: 1673589222000
     }
 }

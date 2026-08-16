@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cm-chs-patch
 alt:
   - https://github.com/aidenlx/cm-chs-patch
-downloads: 64488
+downloads: 66910
 updated at: "2026-05-16T15:48:01Z"
 related to:
   - "[[GitHub - 353938578]]"
@@ -28,7 +28,7 @@ Adds Simplified Chinese word splitting to Obsidian's CodeMirror editor, so doubl
 plugin: {
     id:     "cm-chs-patch"
     name:   "Simplified Chinese Word Splitting"
-    author: "aidenlx"
+    author: "Aiden Liu"
     repo:   "aidenlx/cm-chs-patch"
 
     html_url:    "https://community.obsidian.md/plugins/cm-chs-patch"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add Simplified Chinese word splitting to Obsidian's CodeMirror editor, enabling double-click selection of Chinese words in Edit Mode and word-wise cursor motions in Vim Mode. Default to the system segmentation engine, with optional jieba-wasm for finer segmentation, new-word discovery and custom dictionaries."
 
     stats: {
-        downloads:  64488
+        downloads:  66910
         updated_at: 1778946481000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-prompt
 alt:
   - https://github.com/erl-koenig/obsidian-dailyPrompt
-downloads: 1402
+downloads: 1427
 updated at: "2024-04-02T17:46:23Z"
 related to:
   - "[[GitHub - 781063955]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Define daily prompts with multiple field types (text, embedded note/file, checkbox, textarea, slider) and auto-fill answers into your daily notes. Create the daily note if missing and insert prompts under a unique heading with customizable line prefixes."
 
     stats: {
-        downloads:  1402
+        downloads:  1427
         updated_at: 1712079983000
     }
 }

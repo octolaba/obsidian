@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/mail-to-note
 alt:
   - https://github.com/moszinet/mail2note-obsidian-plugin
-downloads: 123
+downloads: 148
 updated at: "2026-05-18T13:15:05Z"
 related to:
   - "[[GitHub - 1208583588]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Forward emails to your personal mail2note address to import them as Markdown notes in your vault with attachments preserved. Sync automatically on a schedule or trigger immediate sync; save notes to a target folder and apply filename templates using date, subject, or message ID."
 
     stats: {
-        downloads:  123
+        downloads:  148
         updated_at: 1779110105000
     }
 }

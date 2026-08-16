@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/table-of-contents-automatic-but-compatible-with-publish
 alt:
   - https://github.com/brmaccath/Table-of-Contents
-downloads: 1789
+downloads: 1831
 updated at: "2026-06-04T14:06:05Z"
 related to:
   - "[[GitHub - 899766982]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a Publish-compatible table of contents at the top of a note or at the cursor. There are several features that the user can adjust in the settings tab to their desire. - Automatically or manual update. - Adjust arrow types - Adjust text display in the table of contents. - Remove characters in text display of table of contents."
 
     stats: {
-        downloads:  1789
+        downloads:  1831
         updated_at: 1780581965000
     }
 }

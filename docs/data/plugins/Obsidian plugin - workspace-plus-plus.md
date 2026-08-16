@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/workspace-plus-plus
 alt:
   - https://github.com/s1m4ne/obsidian-workspace-plus
-downloads: 7074
+downloads: 8397
 updated at: "2026-07-14T12:18:36Z"
 related to:
   - "[[GitHub - 1146096870]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage workspace sessions with a streamlined UI aligned with Obsidian's core layout tools. Save, switch, duplicate, rename, reorder, and delete layout sessions instantly with hotkey-driven workflows and a status-bar quick switcher."
 
     stats: {
-        downloads:  7074
+        downloads:  8397
         updated_at: 1784031516000
     }
 }

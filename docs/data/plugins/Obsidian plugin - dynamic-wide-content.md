@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dynamic-wide-content
 alt:
   - https://github.com/pcoletsos/obsidian-dynamic-wide-content
-downloads: 600
+downloads: 1010
 updated at: "2026-06-13T18:52:46Z"
 related to:
   - "[[GitHub - 1268442392]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep prose in Obsidian's readable column while allowing wide Markdown tables, code blocks, Mermaid/PlantUML diagrams, and images to break out into a wider, scrollable frame. Apply widening only when content exceeds the prose width and work in Reading view and Live Preview."
 
     stats: {
-        downloads:  600
+        downloads:  1010
         updated_at: 1781376766000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/regex-replace
 alt:
   - https://github.com/bongho/obsidian-regex-replace
-downloads: 2798
+downloads: 3797
 updated at: "2026-07-22T07:59:21Z"
 related to:
   - "[[GitHub - 1112133806]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Perform search-and-replace using full JavaScript regular expressions with capture groups and regex flags. Preview matches and replacements in real time with before/after highlighting, apply changes to entire notes or selections, and save reusable pattern history."
 
     stats: {
-        downloads:  2798
+        downloads:  3797
         updated_at: 1784707161000
     }
 }

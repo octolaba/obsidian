@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-blog-generator
 alt:
   - https://github.com/garethng/obsidian-blog-generator
-downloads: 429
+downloads: 439
 updated at: "2025-03-06T06:10:07Z"
 related to:
   - "[[GitHub - 919811591]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate polished blog posts from your Obsidian notes using OpenAI language models. Process and convert embedded images, support Chinese, English, Japanese and Korean, and save results as new Markdown files with customizable prompts and API endpoints."
 
     stats: {
-        downloads:  429
+        downloads:  439
         updated_at: 1741241407000
     }
 }

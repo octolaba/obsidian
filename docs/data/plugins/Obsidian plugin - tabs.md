@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tabs
 alt:
   - https://github.com/xhuajin/obsidian-tabs
-downloads: 34010
+downloads: 36673
 updated at: "2026-07-17T08:35:54Z"
 related to:
   - "[[GitHub - 783616522]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create tabbed content blocks inside notes with a simple tabs code block. Use nested tabs, include code blocks within tabs, and place the tab bar top/left/right/bottom with optional multi-tab selection for flexible layouts."
 
     stats: {
-        downloads:  34010
+        downloads:  36673
         updated_at: 1784277354000
     }
 }

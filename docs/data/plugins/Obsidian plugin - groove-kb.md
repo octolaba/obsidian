@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/groove-kb
 alt:
   - https://github.com/pathfind1103/groove-kb
-downloads: 97
+downloads: 112
 updated at: "2026-05-31T11:55:30Z"
 related to:
   - "[[GitHub - 1232791044]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a connected music knowledge base in Obsidian by turning artists, albums, editions, and collections into interlinked notes with frontmatter and a maintained registry. Search and preview artists, import and expand albums and editions with covers, tracklists and summaries, organize into bundles and collections, and keep links updated."
 
     stats: {
-        downloads:  97
+        downloads:  112
         updated_at: 1780228530000
     }
 }

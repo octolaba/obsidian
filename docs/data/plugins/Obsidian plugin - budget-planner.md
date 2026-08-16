@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/budget-planner
 alt:
   - https://github.com/kalinichenko88/obsidian-budget-planner-plugin
-downloads:
-updated at:
+downloads: 344
+updated at: "2026-07-27T19:55:07Z"
 related to:
   - "[[GitHub - 813754553]]"
 remind me:
@@ -28,13 +28,18 @@ The plugin manages budgets inside notes using native Markdown code blocks and in
 plugin: {
     id:     "budget-planner"
     name:   "Budget Planner"
-    author: "kalinichenko88"
+    author: "Ivan Kalinichenko"
     repo:   "kalinichenko88/obsidian-budget-planner-plugin"
 
     html_url:    "https://community.obsidian.md/plugins/budget-planner"
     github_url:  "https://github.com/kalinichenko88/obsidian-budget-planner-plugin"
     description: "A minimalist budget planning tool. Create, track, and manage budgets using markdown code blocks directly in your notes. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Manage budgets directly in notes using native Markdown code blocks and interactive checkboxes. Organize expenses by category, auto-format and align columns, sort entries, and compute category totals and overall sums."
+
+    stats: {
+        downloads:  344
+        updated_at: 1785182107000
+    }
 }
 ```
 

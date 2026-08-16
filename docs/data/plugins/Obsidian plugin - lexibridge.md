@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/lexibridge
 alt:
   - https://github.com/ongiei/obsidian-lexibridge
-downloads: 69
-updated at: "2026-07-15T02:47:44Z"
+downloads: 457
+updated at: "2026-07-27T15:04:00Z"
 related to:
   - "[[GitHub - 1141933272]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Generate structured English–Chinese vocabulary notes from a local ECDICT database and enrich entries on demand with Youdao pronunciations, definitions, and examples. Sync selected Eudic wordlists two-way and export notes one-way to Anki Desktop via AnkiConnect while keeping dictionary data local and presenting non-destructive virtual links with previews. Resolve inflected forms to lemma notes and preserve user-written sections when refreshing notes."
 
     stats: {
-        downloads:  69
-        updated_at: 1784083664000
+        downloads:  457
+        updated_at: 1785164640000
     }
 }
 ```

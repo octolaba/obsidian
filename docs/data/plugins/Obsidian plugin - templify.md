@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/templify
 alt:
   - https://github.com/quorafind/Obsidian-Templify
-downloads: 8488
+downloads: 8566
 updated at: "2026-03-10T02:18:58Z"
 related to:
   - "[[GitHub - 737697543]]"
@@ -28,7 +28,7 @@ Templify renders a note through a selectable template, either Cornell, Eisenhowe
 plugin: {
     id:     "templify"
     name:   "Templify"
-    author: "quorafind"
+    author: "Boninall"
     repo:   "quorafind/Obsidian-Templify"
 
     html_url:    "https://community.obsidian.md/plugins/templify"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render notes with selectable templates (Cornell, Eisenhower, or custom) to apply different layouts and structured content. Embed Obsidian views into notes via templify-embed codeblocks or the Embed view command, and unlock advanced features with a PKMer account."
 
     stats: {
-        downloads:  8488
+        downloads:  8566
         updated_at: 1773109138000
     }
 }

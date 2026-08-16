@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/rubik-cube-algorithms
 alt:
   - https://github.com/altarok/RubikCubeAlgoView
-downloads: 207
-updated at: "2026-07-02T10:45:03Z"
+downloads: 233
+updated at: "2026-08-02T21:19:55Z"
 related to:
   - "[[GitHub - 1150674484]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Bring your Rubik's Cube study to life. Add a Speedcubing timer to your vault. It generates a random scramble for each use. Visualize Rubik's Cube algorithms with an interactive 2D cube. Customize colors, define arrows, rotate cubes and watch algorithms update dynamically as the cube rotates. Or just copy complete lists of OLL and PLL algorithms from the repository's ready-to-use examples."
 
     stats: {
-        downloads:  207
-        updated_at: 1782989103000
+        downloads:  233
+        updated_at: 1785705595000
     }
 }
 ```

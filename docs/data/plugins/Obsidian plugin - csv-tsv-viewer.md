@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/csv-tsv-viewer
 alt:
   - https://github.com/viggomeesters/obsidian-csv-tsv-viewer
-downloads: 261
+downloads: 378
 updated at: "2026-06-07T18:22:07Z"
 related to:
   - "[[GitHub - 1262226153]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse .csv and .tsv files in a read-only table view with automatic delimiter detection, a source view with line numbers and delimiter highlighting, and robust parsing for quoted, escaped, and multiline fields. Filter rows by cell content, view sticky headers/row numbers and file stats, see parse warnings, and render the first 10,000 rows locally."
 
     stats: {
-        downloads:  261
+        downloads:  378
         updated_at: 1780856527000
     }
 }

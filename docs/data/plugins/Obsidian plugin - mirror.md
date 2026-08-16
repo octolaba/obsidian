@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mirror
 alt:
   - https://github.com/jdsimcoe/obsidian-mirror
-downloads: 627
+downloads: 783
 updated at: "2026-05-12T19:55:23Z"
 related to:
   - "[[GitHub - 1186707564]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed block references as live, editable mirrors that stay synced with their source, showing a compact view in reading mode and full editing controls in Live Preview. Create block references from backlinks with a one-click copy button and insert or generate references via an @mention search."
 
     stats: {
-        downloads:  627
+        downloads:  783
         updated_at: 1778615723000
     }
 }

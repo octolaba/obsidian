@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/retype
 alt:
   - https://github.com/retypeapp/retype-for-obsidian
-downloads: 159
+downloads: 172
 updated at: "2026-05-18T15:53:11Z"
 related to:
   - "[[GitHub - 1172188248]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage Retype projects from a sidebar panel with Start, Stop and Build controls and a color-coded, scrollable CLI console. View live server status with a clickable URL and an optional status bar item for instant access. Detect the nearest retype.yml and the Retype CLI automatically, and install the CLI with one click when missing."
 
     stats: {
-        downloads:  159
+        downloads:  172
         updated_at: 1779119591000
     }
 }

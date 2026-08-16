@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/one-step-wiki-link
 alt:
   - https://github.com/busyogg/OneStepWikiLink
-downloads: 334
+downloads: 351
 updated at: "2025-04-08T13:52:42Z"
 related to:
   - "[[GitHub - 945431565]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert matched text in the open note into wiki links in one step. Show all potential matches and provide a Convert button or command; support manual or automatic conversion and allow excluding files or directories to avoid unwanted changes."
 
     stats: {
-        downloads:  334
+        downloads:  351
         updated_at: 1744120362000
     }
 }

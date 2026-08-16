@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-draw
 alt:
   - https://github.com/whiteandgrey/obsidian-simpledraw-plugin
-downloads: 224
+downloads: 247
 updated at: "2026-06-16T09:45:11Z"
 related to:
   - "[[GitHub - 1242602915]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and edit .simpledraw flowcharts directly in Obsidian. Draw textboxes (rectangle/ellipse/diamond) with Markdown rendering and vertical text, add orthogonal arrows in four styles, drag-resize and snap-align elements, undo/redo changes, and export WYSIWYG PNG with grid or transparent background."
 
     stats: {
-        downloads:  224
+        downloads:  247
         updated_at: 1781603111000
     }
 }

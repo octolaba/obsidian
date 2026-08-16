@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/neurovim
 alt:
   - https://github.com/johannes-kaindl/neurovim-obsidian
-downloads: 40
-updated at: "2026-07-23T14:27:51Z"
+downloads: 135
+updated at: "2026-07-29T14:27:11Z"
 related to:
   - "[[GitHub - 1298149732]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Learn Vim by playing a cyberpunk spy-thriller inside Obsidian through story-driven missions that teach commands via timed exercises and corrupted-transmission repairs. Repair corrupted transmissions directly in real notes using Obsidian's Vim mode and track XP, progression, best scores and live mission stats in a NeuroVim pane (NEXUS, MISSIONS, GUIDE, UPLINK). Chat optionally with an in-character AI handler for contextual hints and post-run debriefs."
 
     stats: {
-        downloads:  40
-        updated_at: 1784816871000
+        downloads:  135
+        updated_at: 1785335231000
     }
 }
 ```

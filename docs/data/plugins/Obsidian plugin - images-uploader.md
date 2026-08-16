@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/images-uploader
 alt:
   - https://github.com/jongchoiyip/s3-image-sync
-downloads: 100
+downloads: 115
 updated at: "2026-06-17T08:32:46Z"
 related to:
   - "[[GitHub - 1271281501]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scan and upload local note images to S3-compatible storage (Cloudflare R2, AWS S3, MinIO), replacing local Markdown image links with public URLs. Use a mobile-friendly, image-first interface with responsive preview cards, polished progress/animations, and instant selection for fast, safe syncing."
 
     stats: {
-        downloads:  100
+        downloads:  115
         updated_at: 1781685166000
     }
 }

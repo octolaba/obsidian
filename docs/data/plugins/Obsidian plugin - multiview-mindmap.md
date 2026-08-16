@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/multiview-mindmap
 alt:
   - https://github.com/fcj-code/multiview-mindmap
-downloads: 315
+downloads: 453
 updated at: "2026-06-12T12:52:37Z"
 related to:
   - "[[GitHub - 1253421433]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Create interactive mindmaps with bidirectional Markdown synchronization, multiple structural views (Basic, Folder, Tag, CoT), a focus layout, and rich inline node editing. Expand or decompose nodes with AI, export slides/images/HTML/Markdown, import OPML/XMind, and use full undo/redo with keyboard-driven navigation."
 
     stats: {
-        downloads:  315
+        downloads:  453
         updated_at: 1781268757000
     }
 }

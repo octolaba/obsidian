@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-companion-for-claude
 alt:
   - https://github.com/estrenuo/vault-companion-for-claude
-downloads: 197
+downloads: 401
 updated at: "2026-07-15T20:42:30Z"
 related to:
   - "[[GitHub - 1289291445]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with Claude inside Obsidian on mobile and desktop. Give Claude agentic access to read, search, create, and update notes in your vault while holding all write actions behind an approval card. Run entirely within Obsidian so it works wherever the app runs."
 
     stats: {
-        downloads:  197
+        downloads:  401
         updated_at: 1784148150000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/metadata-hider
 alt:
   - https://github.com/benature/obsidian-metadata-hider
-downloads: 10156
+downloads: 10301
 updated at: "2024-05-15T08:12:47Z"
 related to:
   - "[[GitHub - 737520723]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide empty metadata properties in the properties table, file properties panel, and All Properties side panel. Show selected properties even when empty or keep chosen properties hidden even when populated, and reveal all fields while editing except those set to always hide."
 
     stats: {
-        downloads:  10156
+        downloads:  10301
         updated_at: 1715760767000
     }
 }

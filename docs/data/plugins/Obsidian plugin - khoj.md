@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/khoj
 alt:
   - https://github.com/khoj-ai/khoj
-downloads: 52191
+downloads: 52709
 updated at: "2026-03-26T03:36:04Z"
 related to:
   - "[[GitHub - 396569538]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with local or online LLMs and query your vault, the web, and attached documents directly from Obsidian. Create custom agents with personas and tools, run semantic search across PDFs, Markdown, Word, Notion and more, and automate repetitive research. Run Khoj locally or connect to the cloud for private, self-hosted AI access."
 
     stats: {
-        downloads:  52191
+        downloads:  52709
         updated_at: 1774496164000
     }
 }

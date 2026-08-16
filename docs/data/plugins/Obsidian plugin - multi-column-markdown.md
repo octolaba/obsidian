@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/multi-column-markdown
 alt:
   - https://github.com/ckrobinson/multi-column-markdown
-downloads: 211165
+downloads: 213866
 updated at: "2024-01-15T05:36:57Z"
 related to:
   - "[[GitHub - 451009740]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create multi-column layouts in Markdown to arrange blocks horizontally and turn single-column notes into side-by-side regions. Define column count, widths, spacing and alignment using Pandoc-style fenced divs or other syntax. Prefer Reading mode; Live Preview may not render interactive or third-party plugin content."
 
     stats: {
-        downloads:  211165
+        downloads:  213866
         updated_at: 1705297017000
     }
 }

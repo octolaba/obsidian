@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/title-case-converter
 alt:
   - https://github.com/maxsrodenkirchen/Title-Case-Converter-Plugin
-downloads: 31
+downloads: 42
 updated at: "2026-07-07T17:25:37Z"
 related to:
   - "[[GitHub - 1292441742]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert selected text to AMA title case in the editor, handling title/subtitle splits, colons, hyphenated compounds, and other edge cases. Preserve exact capitalizations with an exception list and auto-detect mixed-case words like iPhone or macOS; extendable to additional citation styles."
 
     stats: {
-        downloads:  31
+        downloads:  42
         updated_at: 1783445137000
     }
 }

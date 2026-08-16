@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/search-external-files
 alt:
   - https://github.com/tttt-k/obsidian-search-external-files
-downloads: 117
+downloads: 146
 updated at: "2026-05-13T13:07:33Z"
 related to:
   - "[[GitHub - 1191540741]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse external files from within Obsidian and search your vault for matching file or folder paths. Select items to preview images and information or to search by name or path; operate read-only so your vault files are never modified."
 
     stats: {
-        downloads:  117
+        downloads:  146
         updated_at: 1778677653000
     }
 }

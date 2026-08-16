@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/easy-tikz
 alt:
   - https://github.com/saiki77/easy-tikz
-downloads: 752
+downloads: 976
 updated at: "2026-07-20T21:21:09Z"
 related to:
   - "[[GitHub - 890405688]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and preview pgfplots charts visually with a live, in-note renderer, no TeX install required for in-vault use, and export clean pgfplots when ready to publish. Insert charts or re-open them by clicking to edit inline; plot 2D or 3D expressions, use parametric or polar modes, and interactively rotate, pan, and zoom the preview."
 
     stats: {
-        downloads:  752
+        downloads:  976
         updated_at: 1784582469000
     }
 }

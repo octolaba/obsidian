@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-daily-named-folder
 alt:
   - https://github.com/nemoandrea/obsidian-daily-named-folder
-downloads: 28820
+downloads: 29192
 updated at: "2025-08-23T20:29:31Z"
 related to:
   - "[[GitHub - 393794285]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create daily notes inside their own dated folders and append a one-line description to each filename for faster identification. Use templates and Moment.js date formats when creating or opening today's note, and jump to the nearest previous/next daily note even if days were missed. Rename daily folders and notes via commands."
 
     stats: {
-        downloads:  28820
+        downloads:  29192
         updated_at: 1755980971000
     }
 }

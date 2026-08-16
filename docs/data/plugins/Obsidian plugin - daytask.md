@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daytask
 alt:
   - https://github.com/peanutup/AgendaPane
-downloads: 44
+downloads: 82
 updated at: "2026-07-20T14:35:27Z"
 related to:
   - "[[GitHub - 1301591711]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Plan and manage calendar-first tasks in Obsidian's right sidebar with a compact monthly calendar and a focused daily task list, all without creating or modifying Markdown files. Quickly add times, durations, priorities, notes, and recurrences; reorder, move, complete, or delete tasks locally per vault with keyboard navigation and no cloud or telemetry."
 
     stats: {
-        downloads:  44
+        downloads:  82
         updated_at: 1784558127000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/novels-note-jp
 alt:
   - https://github.com/p77-don/novels-note-jp
-downloads: 194
-updated at: "2026-07-11T01:31:38Z"
+downloads: 337
+updated at: "2026-08-11T09:32:38Z"
 related to:
   - "[[GitHub - 1249782732]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Compose Japanese novels in Obsidian with vertical-writing preview, ruby (furigana) insertion, emphasis dots, automatic paragraph indentation, and manuscript export. Activate novel mode per note to scope monospace fonts, line-wrap rulers, .txt editing, and category-based term highlighting that marks tagged filenames as terms."
 
     stats: {
-        downloads:  194
-        updated_at: 1783733498000
+        downloads:  337
+        updated_at: 1786440758000
     }
 }
 ```

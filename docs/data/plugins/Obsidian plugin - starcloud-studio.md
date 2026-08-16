@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/starcloud-studio
 alt:
   - https://github.com/starhunt/starcloud-studio
-downloads: 1139
+downloads: 1226
 updated at: "2026-06-03T02:10:50Z"
 related to:
   - "[[GitHub - 1121807127]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate knowledge posters, infographics, interactive HTML/PPTX slides, and speech audio from your Markdown notes using multiple AI providers and image styles. Upload outputs to Google Drive with organized folders and publish HTML slides to GitHub Pages for easy embedding."
 
     stats: {
-        downloads:  1139
+        downloads:  1226
         updated_at: 1780452650000
     }
 }

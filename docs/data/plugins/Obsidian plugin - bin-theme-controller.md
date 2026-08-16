@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bin-theme-controller
 alt:
   - https://github.com/binaris00/Theme-Controller
-downloads: 1730
+downloads: 1823
 updated at: "2025-02-04T21:03:26Z"
 related to:
   - "[[GitHub - 895340482]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Control when and how themes display in Obsidian. Apply specific themes and colors automatically based on a note's path or its tags, and toggle light/dark mode with a status-bar switch. Define a fallback default theme for notes without matches."
 
     stats: {
-        downloads:  1730
+        downloads:  1823
         updated_at: 1738703006000
     }
 }

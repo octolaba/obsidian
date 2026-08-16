@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dictionary-plus
 alt:
   - https://github.com/michellegdyason/obsidian-dictionary-plus
-downloads: 238
+downloads: 356
 updated at: "2026-07-08T19:51:35Z"
 related to:
   - "[[GitHub - 1262899388]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add an integrated dictionary view to Obsidian and enable right-click lookup on desktop while recovering selections on mobile. Save lookups to a flashcard-ready history note compatible with Obsidian Spaced Repetition and support PDF++ and reading-view selections."
 
     stats: {
-        downloads:  238
+        downloads:  356
         updated_at: 1783540295000
     }
 }

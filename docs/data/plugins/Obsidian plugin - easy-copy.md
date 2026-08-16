@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/easy-copy
 alt:
   - https://github.com/moyf/easy-copy
-downloads: 9507
+downloads: 10417
 updated at: "2026-07-22T07:39:33Z"
 related to:
   - "[[GitHub - 952977748]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy content based on cursor position, extracting inline code, bold/italic/highlighted text, or entire headings and blocks without formatting symbols. Generate and copy heading links or create a new block ID and copy its block link for quick internal linking."
 
     stats: {
-        downloads:  9507
+        downloads:  10417
         updated_at: 1784705973000
     }
 }

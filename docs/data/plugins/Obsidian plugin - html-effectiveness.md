@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/html-effectiveness
 alt:
   - https://github.com/yanqingwang/obsidian-html-effectiveness
-downloads: 119
-updated at: "2026-07-13T15:17:05Z"
+downloads: 192
+updated at: "2026-08-08T00:53:20Z"
 related to:
   - "[[GitHub - 1281502796]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render spatial HTML content in Obsidian using the html-effectiveness methodology, including side-by-side comparisons, timelines, ASCII diagrams, KPI reports and paged slides. Insert html-effect code blocks to create compare, timeline, diagram, report and slides views and export notes as standalone HTML."
 
     stats: {
-        downloads:  119
-        updated_at: 1783955825000
+        downloads:  192
+        updated_at: 1786150400000
     }
 }
 ```

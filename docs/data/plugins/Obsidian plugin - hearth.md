@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/hearth
 alt:
   - https://github.com/ondreu/Hearth
-downloads: 8279
-updated at: "2026-07-23T12:57:10Z"
+downloads: 16511
+updated at: "2026-08-10T13:10:04Z"
 related to:
   - "[[GitHub - 1282513535]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Hearth — a beautiful, customizable home screen for Obsidian Turn your vault into a real front page: search, dashboard and app launcher in one. Hearth greets you on startup with a fast fuzzy search that finds notes, tags, properties, file types and commands as you type — and can run on Omnisearch's engine if you prefer full-text ranking with snippets. Under the search bar lives a drag-and-drop dashboard you build from live cards. Embed notes, images, canvas, Excalidraw drawings and Bases; pin a Dataview query; host another plugin's view straight on the board; keep an eye on web pages, your daily note, a mini calendar, an activity heatmap and vault statistics. Track work with a tasks card that reads Markdown checkboxes (Tasks-plugin friendly) or TaskNotes, as a simple list or a full Kanban board with drag-between-column status changes. Cards move, resize and snap freely; colors, backgrounds and multiple dashboards make it yours. Works on desktop and mobile. Open source, MIT."
 
     stats: {
-        downloads:  8279
-        updated_at: 1784811430000
+        downloads:  16511
+        updated_at: 1786367404000
     }
 }
 ```

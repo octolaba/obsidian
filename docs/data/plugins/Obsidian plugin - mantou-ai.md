@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mantou-ai
 alt:
   - https://github.com/ravensanstete/Obsidian-MantouAI
-downloads: 2533
+downloads: 2545
 updated at: "2024-02-23T12:56:49Z"
 related to:
   - "[[GitHub - 760457782]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn Obsidian into an open personal AI assistant powered by large language models. Ask questions about selected text, translate and polish writing, summarize and extract viewpoints, perform deep reading, and assign conversational roles via note properties."
 
     stats: {
-        downloads:  2533
+        downloads:  2545
         updated_at: 1708693009000
     }
 }

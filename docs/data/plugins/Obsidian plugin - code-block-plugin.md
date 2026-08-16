@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/code-block-plugin
 alt:
   - https://github.com/paddan/code-block-plugin
-downloads: 14629
+downloads: 14736
 updated at: "2024-06-08T11:05:03Z"
 related to:
   - "[[GitHub - 492953924]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert selected or pasted text into a fenced code block with automatic programming-language detection. Choose which languages to include for detection; detection uses highlight.js and can occasionally guess incorrectly."
 
     stats: {
-        downloads:  14629
+        downloads:  14736
         updated_at: 1717844703000
     }
 }

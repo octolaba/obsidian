@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/helix
 alt:
   - https://github.com/obsidian-helix/obsidian-helix
-downloads: 19651
+downloads: 20389
 updated at: "2026-05-27T16:52:56Z"
 related to:
   - "[[GitHub - 800036064]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add Helix-style modal keybindings to Obsidian's editor using the Helix CodeMirror6 extension. Toggle the bindings via the plugin command and anticipate early-stage behavior while the underlying extension remains in development."
 
     stats: {
-        downloads:  19651
+        downloads:  20389
         updated_at: 1779900776000
     }
 }

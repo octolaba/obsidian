@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/word-counter-session
 alt:
   - https://github.com/mingmingsoeasy/obsidianSessionWordCounter
-downloads: 309
+downloads: 354
 updated at: "2026-01-11T15:26:00Z"
 related to:
   - "[[GitHub - 1132230827]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track words added or removed during a writing session and show the net change in the status bar with an optional elapsed timer. Filter out Markdown syntax, count CJK characters correctly, auto-pause on file switches, and optionally stop after inactivity."
 
     stats: {
-        downloads:  309
+        downloads:  354
         updated_at: 1768145160000
     }
 }

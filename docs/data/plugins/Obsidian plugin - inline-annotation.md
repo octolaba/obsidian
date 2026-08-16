@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/inline-annotation
 alt:
   - https://github.com/baksili/obsidian-inline-annotation
-downloads: 91
+downloads: 114
 updated at: "2026-07-21T09:06:51Z"
 related to:
   - "[[GitHub - 1254119943]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Inline Annotation v2 syntax in Obsidian Reading view and Live Preview. Skip existing links, code, preformatted blocks, ruby, scripts, styles, and elements marked data-inline-annotation-ignore, and align phonetic readings per character while keeping multi-word glosses grouped."
 
     stats: {
-        downloads:  91
+        downloads:  114
         updated_at: 1784624811000
     }
 }

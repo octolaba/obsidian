@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/booknav
 alt:
   - https://github.com/jemberton/obsidian-booknav-plugin
-downloads: 959
+downloads: 997
 updated at: "2024-10-06T18:56:29Z"
 related to:
   - "[[GitHub - 864767345]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create book-style navigation bars with clickable internal or external links using a simple booknav code block. Parse each line as a link, apply prev/center/next styling, and display hover previews for internal pages."
 
     stats: {
-        downloads:  959
+        downloads:  997
         updated_at: 1728240989000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-readlater
 alt:
   - https://github.com/canna71/obsidian-readlater
-downloads: 7009
+downloads: 7025
 updated at: "2022-12-11T17:02:52Z"
 related to:
   - "[[GitHub - 540912542]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save web pages as Markdown notes and keep them synced with their online versions. Integrate with Pocket and Instapaper to fetch unread bookmarks, download or update pages, map notes to URLs via frontmatter or commands, and optionally archive items or run periodic syncs."
 
     stats: {
-        downloads:  7009
+        downloads:  7025
         updated_at: 1670778172000
     }
 }

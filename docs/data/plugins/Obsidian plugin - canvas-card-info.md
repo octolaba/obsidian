@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-card-info
 alt:
   - https://github.com/2jihan/canvas-card-info
-downloads: 1
+downloads: 44
 updated at: "2026-07-23T06:29:59Z"
 related to:
   - "[[GitHub - 1309552794]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a \"Copy card info\" option to Canvas card context menus to copy selected card details to the clipboard. Choose readable text, raw JSON, or both to capture id, type-specific fields, position, size, color, and export multiple selected cards at once."
 
     stats: {
-        downloads:  1
+        downloads:  44
         updated_at: 1784788199000
     }
 }

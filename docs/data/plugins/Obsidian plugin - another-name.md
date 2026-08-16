@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/another-name
 alt:
   - https://github.com/eurfelux/obsidian-another-name-plugin
-downloads: 531
+downloads: 555
 updated at: "2025-04-05T05:01:44Z"
 related to:
   - "[[GitHub - 693156875]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display an alternate name beneath your file's inline title using the frontmatter attribute another-name. Attach translations, secondary names, or aliases to keep titles concise and readable. Enable inline titles to show the secondary name under the main title."
 
     stats: {
-        downloads:  531
+        downloads:  555
         updated_at: 1743829304000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-notes-sorter
 alt:
   - https://github.com/reifat/daily-notes-sorter
-downloads: 128
+downloads: 146
 updated at: "2026-05-15T10:00:26Z"
 related to:
   - "[[GitHub - 1092586418]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sort daily notes automatically in the file explorer by recognized date formats (ISO, DD.MM.YYYY, MM/DD/YYYY and common numeric variants) to keep entries chronological. Configure folders, toggle ascending or descending order, and receive notifications for files that don't match the chosen date format."
 
     stats: {
-        downloads:  128
+        downloads:  146
         updated_at: 1778839226000
     }
 }

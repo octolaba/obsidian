@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cannoli
 alt:
   - https://github.com/deablabs/cannoli
-downloads: 11465
+downloads: 11631
 updated at: "2025-10-28T02:52:48Z"
 related to:
   - "[[GitHub - 668936394]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Build and run no-code LLM scripts inside Obsidian Canvas. Use canvas cards and arrows to define variables, logic, HTTP actions and data flows, read/write your vault, stream formatted outputs, run chatbots, and trigger runs from canvas files, note properties or audio recordings. Connect to OpenAI, Anthropic, Gemini, Groq or local Ollama models."
 
     stats: {
-        downloads:  11465
+        downloads:  11631
         updated_at: 1761619968000
     }
 }

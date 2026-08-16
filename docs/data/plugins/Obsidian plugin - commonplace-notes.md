@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/commonplace-notes
 alt:
   - https://github.com/zachmueller/commonplace-notes
-downloads: 326
+downloads: 406
 updated at: "2026-07-20T04:03:22Z"
 related to:
   - "[[GitHub - 926199916]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish a curated subset of your vault as a fast, stacked-panes static site that opens notes in adjacent columns so readers can follow a train of thought. Host on AWS S3 + CloudFront with per-note stable UIDs, opt-in publishing per note, and an extensible Markdown→HTML pipeline."
 
     stats: {
-        downloads:  326
+        downloads:  406
         updated_at: 1784520202000
     }
 }

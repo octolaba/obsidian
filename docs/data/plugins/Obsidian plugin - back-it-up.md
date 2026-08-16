@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/back-it-up
 alt:
   - https://github.com/hammadxp/back-it-up
-downloads: 1260
+downloads: 1271
 updated at: "2024-02-14T17:07:24Z"
 related to:
   - "[[GitHub - 756270774]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Backup important notes before editing and keep a history of changes. Right-click a note to create a copy beside the original or take a snapshot to a user-defined folder."
 
     stats: {
-        downloads:  1260
+        downloads:  1271
         updated_at: 1707930444000
     }
 }

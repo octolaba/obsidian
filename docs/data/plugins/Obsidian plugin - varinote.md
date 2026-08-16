@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/varinote
 alt:
   - https://github.com/gsarig/obsidian-varinote
-downloads: 874
-updated at: "2025-02-17T18:14:00Z"
+downloads: 956
+updated at: "2026-07-26T21:47:33Z"
 related to:
   - "[[GitHub - 893204563]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Define variables with optional default values directly inside templates using a simple varinote syntax. Prompt for and edit variable values via a modal when creating a note, then inject them into the note with {{$variable}} placeholders. Support common field types like text and dropdown for flexible input."
 
     stats: {
-        downloads:  874
-        updated_at: 1739816040000
+        downloads:  956
+        updated_at: 1785102453000
     }
 }
 ```

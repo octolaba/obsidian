@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cite-engine
 alt:
   - https://github.com/flyingmiata-droid/cite-engine
-downloads: 105
+downloads: 115
 updated at: "2026-06-29T18:26:42Z"
 related to:
   - "[[GitHub - 1269371368]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create drift-proof, closed-corpus citations by stamping source notes with stable citekeys and block IDs and inserting live block-reference citations that always resolve to the original passage. Run integrity checks to flag unresolved citations and quoted text that has drifted from its source."
 
     stats: {
-        downloads:  105
+        downloads:  115
         updated_at: 1782757602000
     }
 }

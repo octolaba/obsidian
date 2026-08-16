@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/md-to-json
 alt:
   - https://github.com/meghan-lendhe/md-to-json
-downloads: 137
+downloads: 151
 updated at: "2026-02-07T12:33:58Z"
 related to:
   - "[[GitHub - 1147118668]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export the current Obsidian note as structured JSON blocks optimized for the companion Figma plugin. Convert headings into h1–h6 blocks, split non-empty lines into body blocks, turn bullets into list blocks, and copy the JSON to the clipboard."
 
     stats: {
-        downloads:  137
+        downloads:  151
         updated_at: 1770467638000
     }
 }

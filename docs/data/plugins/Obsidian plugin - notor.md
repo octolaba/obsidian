@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/notor
 alt:
   - https://github.com/zachmueller/notor
-downloads: 1283
-updated at: "2026-07-10T10:00:58Z"
+downloads: 1415
+updated at: "2026-07-26T00:56:49Z"
 related to:
   - "[[GitHub - 1121357601]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add a transparent, extensible AI assistant to Obsidian with a side-panel chat that reads, searches, creates, and surgically edits vault notes while injecting workspace context and attachments. Require per-change approval with diff previews and automatic checkpoints for rollback; run local or cloud LLMs, spawn sub-agents, and apply personas and workflows."
 
     stats: {
-        downloads:  1283
-        updated_at: 1783677658000
+        downloads:  1415
+        updated_at: 1785027409000
     }
 }
 ```

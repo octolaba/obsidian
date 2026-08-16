@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/archwiki-reader
 alt:
   - https://github.com/lucifayr/archwiki-obsidian
-downloads: 3548
+downloads: 3577
 updated at: "2023-09-06T19:18:00Z"
 related to:
   - "[[GitHub - 677701491]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Download ArchWiki pages as Markdown and open them in a new Obsidian tab for reading and editing. Fetch a categorized index of pages and show suggestions when searching to speed up finding content."
 
     stats: {
-        downloads:  3548
+        downloads:  3577
         updated_at: 1694027880000
     }
 }

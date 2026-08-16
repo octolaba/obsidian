@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/deepl-translate-selection
 alt:
   - https://github.com/fanxin199/obsidian_deepl_translate
-downloads: 248
+downloads: 269
 updated at: "2026-06-17T03:36:02Z"
 related to:
   - "[[GitHub - 1186055972]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Translate selected text instantly using DeepL's quality_optimized engine via the DeepL API. Auto-detect Chinese↔English and choose to insert below, replace the selection, or copy to clipboard from the editor's right-click menu or command palette; support Free and Pro API keys."
 
     stats: {
-        downloads:  248
+        downloads:  269
         updated_at: 1781667362000
     }
 }

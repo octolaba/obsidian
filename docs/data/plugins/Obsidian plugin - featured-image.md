@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/featured-image
 alt:
   - https://github.com/johansan/obsidian-featured-image
-downloads: 37563
+downloads: 39509
 updated at: "2026-07-13T10:48:08Z"
 related to:
   - "[[GitHub - 850570039]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Detect and set thumbnail images for notes by finding the first local image, external URL, YouTube link, or Auto Card Link and save its path to frontmatter for use by other plugins. Download external images locally and create optimized 128×128 thumbnails stored separately to speed browsing and cut memory use. Process entire vaults or selected folders in bulk and clean up unused downloads."
 
     stats: {
-        downloads:  37563
+        downloads:  39509
         updated_at: 1783939688000
     }
 }

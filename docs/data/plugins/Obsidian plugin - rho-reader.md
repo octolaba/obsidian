@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rho-reader
 alt:
   - https://github.com/scriptnull/rho-reader
-downloads: 643
+downloads: 889
 updated at: "2026-06-03T11:36:16Z"
 related to:
   - "[[GitHub - 1073906011]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Store every feed and post as its own Markdown file in your vault. Read RSS, Atom, and JSON Feed content, import and export OPML, and tag posts to organize reading lists. Open articles in your browser or inside Obsidian."
 
     stats: {
-        downloads:  643
+        downloads:  889
         updated_at: 1780486576000
     }
 }

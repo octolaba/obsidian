@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/doc-preview
 alt:
   - https://github.com/notenerdofficial/doc-preview
-downloads: 89
+downloads: 227
 updated at: "2026-07-20T07:17:47Z"
 related to:
   - "[[GitHub - 1305382450]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview PowerPoint and Word files inside Obsidian using a headless LibreOffice renderer so the real app never opens. Auto-refresh previews on external edits and jump to the changed slide/page; use a built-in viewer with zoom, rotate, thumbnail rail, arrow-key navigation, and download — desktop only."
 
     stats: {
-        downloads:  89
+        downloads:  227
         updated_at: 1784531867000
     }
 }

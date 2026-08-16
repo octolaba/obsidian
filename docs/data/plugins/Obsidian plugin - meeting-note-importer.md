@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/meeting-note-importer
 alt:
   - https://github.com/awaragi/obsidian-meeting-note-importer
-downloads: 167
+downloads: 210
 updated at: "2026-06-25T16:48:31Z"
 related to:
   - "[[GitHub - 1270678499]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import calendar invites as structured meeting notes by dropping .ics files or dragging meetings from Outlook for Mac into Obsidian. Populate title, date, attendees, organizer, location, meeting URL and description, skip duplicates, apply custom {{date}}/{{title}} templates, and save to a configured folder with localized UI."
 
     stats: {
-        downloads:  167
+        downloads:  210
         updated_at: 1782406111000
     }
 }

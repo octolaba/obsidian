@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/page-heading-from-links
 alt:
   - https://github.com/beet/page-headings-obsidian-plugin
-downloads: 6994
+downloads: 7051
 updated at: "2022-05-02T04:50:40Z"
 related to:
   - "[[GitHub - 329784768]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Populate blank notes with a Markdown heading derived from the filename. Convert the filename by stripping the .md suffix, replacing underscores with spaces, and capitalizing the first word to create the H1 title."
 
     stats: {
-        downloads:  6994
+        downloads:  7051
         updated_at: 1651467040000
     }
 }

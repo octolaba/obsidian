@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/svg-styler
 alt:
   - https://github.com/arg1998/obsidian-svg-styler
-downloads: 1345
+downloads: 1389
 updated at: "2024-11-08T21:17:22Z"
 related to:
   - "[[GitHub - 861828247]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit SVG styles directly inside the editor. Modify color, border, opacity and other style properties on path, line, rect, circle, ellipse and polygon elements. Save changes in-place, create a styled duplicate, or clear styles."
 
     stats: {
-        downloads:  1345
+        downloads:  1389
         updated_at: 1731100642000
     }
 }

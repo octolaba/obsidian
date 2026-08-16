@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/prior-art
 alt:
   - https://github.com/israerusan/prior-art
-downloads: 22
-updated at: "2026-07-17T00:04:19Z"
+downloads: 42
+updated at: "2026-07-25T17:36:47Z"
 related to:
   - "[[GitHub - 1302217052]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Detect duplicate or similar notes as you title and write, showing up to five matching notes in a sidebar with reasons for each match. Merge safely by opening side-by-side, appending new content into an existing note, or redirecting the duplicate (add alias, replace body with a redirect and offer to trash), with confirmation, undo, and frontmatter preserved."
 
     stats: {
-        downloads:  22
-        updated_at: 1784246659000
+        downloads:  42
+        updated_at: 1785001007000
     }
 }
 ```

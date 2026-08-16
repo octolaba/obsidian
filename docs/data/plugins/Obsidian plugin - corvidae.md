@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/corvidae
 alt:
   - https://github.com/einfachsj/obsidian-corvidae
-downloads: 50
+downloads: 83
 updated at: "2026-07-16T12:59:47Z"
 related to:
   - "[[GitHub - 1301723051]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Configure a modular dashboard grid that places graph views, notes, web views, terminals, and numbered project tickets in a single workspace. Manage folder notes and hybrid links, apply node size/color and custom legends from note frontmatter, and create ticket sidebars with auto frontmatter and explorer sorting."
 
     stats: {
-        downloads:  50
+        downloads:  83
         updated_at: 1784206787000
     }
 }

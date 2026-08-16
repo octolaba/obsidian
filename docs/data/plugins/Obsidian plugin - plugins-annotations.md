@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/plugins-annotations
 alt:
   - https://github.com/alberti42/obsidian-plugins-annotations
-downloads: 4702
+downloads: 4908
 updated at: "2026-07-10T08:42:01Z"
 related to:
   - "[[GitHub - 809102076]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add personal Markdown-formatted annotations to each installed plugin and display them beneath plugin entries in the Community Plugins pane. Include Obsidian links, save edits persistently, and lock annotations or hide empty annotation fields for a cleaner view."
 
     stats: {
-        downloads:  4702
+        downloads:  4908
         updated_at: 1783672921000
     }
 }

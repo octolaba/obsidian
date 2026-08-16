@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/multi-tag
 alt:
   - https://github.com/technohiker/obsidian-multi-tag
-downloads: 20821
+downloads: 21120
 updated at: "2023-11-29T02:14:11Z"
 related to:
   - "[[GitHub - 661451852]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a tag to every note in a folder or to multiple selected notes by right-clicking the folder or selection. Append tags inline at the bottom of notes or add them to YAML frontmatter; YAML mode checks for duplicate tags while inline does not."
 
     stats: {
-        downloads:  20821
+        downloads:  21120
         updated_at: 1701224051000
     }
 }

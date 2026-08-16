@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/russian-rhymes
 alt:
   - https://github.com/mrrepac/russian-rhymes
-downloads: 55
-updated at: "2026-07-10T03:12:46Z"
+downloads: 264
+updated at: "2026-08-06T23:26:16Z"
 related to:
   - "[[GitHub - 1288386458]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Find Russian rhymes offline with a phonetic engine that groups words by sound into exact, near, slant and assonance tiers and highlights alliteration. See stress marks and tweak stress to re-rank rhymes; view definitions, etymology and related words, filter by meaning, and import your dictionaries for offline mobile and desktop use."
 
     stats: {
-        downloads:  55
-        updated_at: 1783653166000
+        downloads:  264
+        updated_at: 1786058776000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/texcore
 alt:
   - https://github.com/youfoundjk/TeXcore
-downloads: 173
+downloads: 235
 updated at: "2026-06-06T10:19:41Z"
 related to:
   - "[[GitHub - 1259654368]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Number and reference display math in the active note using % id: eq-xxx comments; add automatic tag numbers in arabic/alph/Alph/roman/Roman styles and reference via [[#^eq-...]] or \\eqref autocomplete. Preview rendered equations in suggestions and on hover, manage reusable LaTeX snippets and callout math, and export notes or folders to PDF with headers, margins and a TOC."
 
     stats: {
-        downloads:  173
+        downloads:  235
         updated_at: 1780741181000
     }
 }

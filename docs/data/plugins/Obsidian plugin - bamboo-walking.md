@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/bamboo-walking
 alt:
   - https://github.com/miaoziguan/obsidian-bamboo-walking
-downloads: 157
-updated at: "2026-07-21T22:18:00Z"
+downloads: 259
+updated at: "2026-08-10T01:22:57Z"
 related to:
   - "[[GitHub - 1289483600]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Subscribe to a personal writing column and browse curated articles by category in a sidebar. Save articles to your vault with one click, search full-text, track reading progress with a bamboo progress bar, navigate via TOC and keyboard, and use immediately with zero configuration."
 
     stats: {
-        downloads:  157
-        updated_at: 1784672280000
+        downloads:  259
+        updated_at: 1786324977000
     }
 }
 ```

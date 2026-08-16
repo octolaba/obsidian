@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/global-book-search
 alt:
   - https://github.com/ducktapekiller/global-book-search
-downloads: 3735
+downloads: 4865
 updated at: "2026-06-25T17:53:10Z"
 related to:
   - "[[GitHub - 1130757111]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search and aggregate book metadata from Google Books, OpenLibrary, Goodreads, StoryGraph and Calibre into a unified, deduplicated book note. Merge and enrich results with prioritized scoring and resilient scraping to capture translators, editions, JSON‑LD and QR/barcode data."
 
     stats: {
-        downloads:  3735
+        downloads:  4865
         updated_at: 1782409990000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/merge-as-alias
 alt:
   - https://github.com/quietbyday/obsidian-merge-as-alias
-downloads: 780
+downloads: 1180
 updated at: "2026-07-12T20:07:38Z"
 related to:
   - "[[GitHub - 1198995444]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Merge a note into another and convert the original title into an alias while updating every internal link to point to the target with the old name preserved. Combine content and YAML frontmatter with configurable rules for lists and text fields, avoiding duplicates. Open the target note automatically after merging."
 
     stats: {
-        downloads:  780
+        downloads:  1180
         updated_at: 1783886858000
     }
 }

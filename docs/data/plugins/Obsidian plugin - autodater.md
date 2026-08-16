@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/autodater
 alt:
   - https://github.com/cheuyin/autodater
-downloads: 139
-updated at: "2026-06-17T23:55:04Z"
+downloads: 337
+updated at: "2026-08-08T05:43:50Z"
 related to:
   - "[[GitHub - 977711654]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # AutoDater
 
-AutoDater writes Created and Updated dates into a note's YAML frontmatter, so the history of the note travels with the file. It needs no template or setup, preserves properties that are already present, and allows the property names and the date formats to be customized.
+Writes Created and Updated dates into the frontmatter of Markdown notes as they are created and edited, so the history stays with the file. No template or setup is required, existing properties are preserved, and both the property names and the date formats can be customized.
 
 ```cue
 plugin: {
@@ -33,12 +33,12 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/autodater"
     github_url:  "https://github.com/cheuyin/autodater"
-    description: "Automatically adds Created/Updated dates to YAML frontmatter. - This plugin has not been manually reviewed by Obsidian staff."
+    description: "Automatically add Created and Updated dates to new and edited Markdown notes. Zero setup, no manual date tracking. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "AutoDater automatically adds Created and Updated dates to your Obsidian Markdown notes, keeping note history in frontmatter so it stays with the file. It works without templates or setup, preserves existing properties, and supports customizable property names and date formats."
 
     stats: {
-        downloads:  139
-        updated_at: 1781740504000
+        downloads:  337
+        updated_at: 1786167830000
     }
 }
 ```

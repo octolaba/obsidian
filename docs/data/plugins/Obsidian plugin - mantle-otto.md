@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mantle-otto
 alt:
   - https://github.com/carnalmatrix/obsidian-mantle-otto
-downloads: 84
+downloads: 91
 updated at: "2026-06-01T09:23:04Z"
 related to:
   - "[[GitHub - 1255443022]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Otto is a production-ready visual interface that connects Obsidian to the native Gemini CLI. It brings secure, local-first AI agent operations directly into your vault, allowing you to run context-aware workflows, summarise notes, edit files, and search databases from a chat window. Otto automatically feeds active note files, text selections, and workspace folder structures to your local agent, ensuring contextual responses. You retain full control over the agent's shell access by auditing and approving proposed commands before execution. Designed to match the Zenith theme, it provides a unified terminal workspace experience."
 
     stats: {
-        downloads:  84
+        downloads:  91
         updated_at: 1780305784000
     }
 }

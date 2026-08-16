@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/habitica-fullsync
 alt:
   - https://github.com/midwestguru/habitica-fullsync
-downloads: 212
+downloads: 264
 updated at: "2026-01-08T13:00:54Z"
 related to:
   - "[[GitHub - 1130386421]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Habitica tasks into your vault as Markdown for review and tracking, importing personal and group tasks with notes and explicit tags for dailies, habits, and rewards. Score tasks marked complete in Obsidian back to Habitica automatically, use time-zone–aware due dates, and choose device-aware sync behavior."
 
     stats: {
-        downloads:  212
+        downloads:  264
         updated_at: 1767877254000
     }
 }

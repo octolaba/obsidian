@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/my-svgs
 alt:
   - https://github.com/ce-omarbadawy/obsidian-my-svgs
-downloads: 760
+downloads: 867
 updated at: "2026-01-21T05:40:25Z"
 related to:
   - "[[GitHub - 1088632044]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Load custom SVG icons into your vault and use them anywhere Obsidian accepts icon references. Browse a searchable visual grid with live previews, reload icons on demand, and copy icon references with one click while black fills convert to currentColor for theme compatibility."
 
     stats: {
-        downloads:  760
+        downloads:  867
         updated_at: 1768974025000
     }
 }

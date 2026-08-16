@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/packup4ai
 alt:
   - https://github.com/shuxueshuxue/PackUp4AI
-downloads: 927
+downloads: 942
 updated at: "2025-10-24T04:33:52Z"
 related to:
   - "[[GitHub - 972770193]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Collect linked and optionally backlinking notes from the open file across multiple hops to assemble a focused context bundle for AI chatbots. Visualize relationships in an interactive graph sized by word count, view stats, and export the bundle to clipboard or Markdown."
 
     stats: {
-        downloads:  927
+        downloads:  942
         updated_at: 1761280432000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/better-bujo
 alt:
   - https://github.com/lumargh/better-bujo
-downloads: 292
-updated at: "2026-06-30T20:49:05Z"
+downloads: 584
+updated at: "2026-07-28T12:04:18Z"
 related to:
   - "[[GitHub - 1263306884]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Bring the simplicity of your bullet journal to the screen. A dash is a note. A dot is a task. An arrow means it moved. Type your BuJo shorthand the way you always have (- [ ], - [>], - [o], ~ …), and the plugin replaces Obsidian's checkboxes with the glyphs they were always meant to be — a bullet, an arrow, a ringed dot, a styled emotion line. It works in both Reading mode and Live Preview, and it leaves no trace when disabled: all styling is scoped to a single body class, so switching it off hands full control back to Obsidian instantly."
 
     stats: {
-        downloads:  292
-        updated_at: 1782852545000
+        downloads:  584
+        updated_at: 1785240258000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/edit-gemini
 alt:
   - https://github.com/basil-mori/obsidian-edit-gemini
-downloads: 3790
+downloads: 3809
 updated at: "2022-10-23T17:30:00Z"
 related to:
   - "[[GitHub - 555566208]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create .gmi files from the side ribbon or file context menu and edit them as Markdown for the Gemini protocol. Treat .gmi documents like regular notes and edit them directly in Obsidian’s editor."
 
     stats: {
-        downloads:  3790
+        downloads:  3809
         updated_at: 1666546200000
     }
 }

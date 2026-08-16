@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-calendar
 alt:
   - https://github.com/xheldon/Obsidian-Better-Calendar
-downloads: 150
+downloads: 285
 updated at: "2026-07-12T08:54:38Z"
 related to:
   - "[[GitHub - 1254183393]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a space-filling calendar that shows multiple months while keeping day cells a comfortable size. Open or create daily notes from your template and mark existing notes with dots. Add custom regex rules to drop colored highlights on matching days and keep today centered with recent weeks in view."
 
     stats: {
-        downloads:  150
+        downloads:  285
         updated_at: 1783846478000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/color-palette
 alt:
   - https://github.com/alegendstale/obsidian-color-palette
-downloads: 27200
+downloads: 27618
 updated at: "2025-03-14T08:10:02Z"
 related to:
   - "[[GitHub - 669939932]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and manage color palettes in your notes using Hex, RGB, HSL and other CSS color formats. Import palettes from Coolors or Colorhunt links, generate gradients, copy color codes by selecting them, and use commands to open an advanced editor, convert links, or generate random palettes."
 
     stats: {
-        downloads:  27200
+        downloads:  27618
         updated_at: 1741939802000
     }
 }

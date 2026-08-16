@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/japanese-popup-dictionary
 alt:
   - https://github.com/atacansuder/obsidian-japanese-dictionary
-downloads: 558
+downloads: 658
 updated at: "2026-05-27T20:13:34Z"
 related to:
   - "[[GitHub - 1105523241]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Look up Japanese words instantly with an offline popup using Yomitan/Yomichan-format dictionaries (JMdict, Jitendex, etc.). Detect and deinflect conjugated verbs and adjectives automatically; desktop-only due to large dictionary imports."
 
     stats: {
-        downloads:  558
+        downloads:  658
         updated_at: 1779912814000
     }
 }

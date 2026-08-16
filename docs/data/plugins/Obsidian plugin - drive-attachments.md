@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/drive-attachments
 alt:
   - https://github.com/kim-dongryeong/obsidian-drive-attachments
-downloads: 39
+downloads: 72
 updated at: "2026-07-23T04:36:03Z"
 related to:
   - "[[GitHub - 1284342818]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Offload attachments to Google Drive by dragging files into notes — uploads replace files with durable Drive links to keep your vault small and sync-friendly. Browse, search, upload, and organize Drive from a full sidebar file manager; authenticate with your Google account via direct OAuth so no third-party servers handle your data."
 
     stats: {
-        downloads:  39
+        downloads:  72
         updated_at: 1784781363000
     }
 }

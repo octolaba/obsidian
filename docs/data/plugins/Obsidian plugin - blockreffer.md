@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/blockreffer
 alt:
   - https://github.com/tyler-dot-earth/obsidian-blockreffer
-downloads: 1878
+downloads: 1911
 updated at: "2024-11-17T18:47:38Z"
 related to:
   - "[[GitHub - 830250822]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search your vault for blocks referenced with ^block-refs (block IDs) and display matching results. Embed those referenced blocks into notes to create direct block-level links and reuse content across files."
 
     stats: {
-        downloads:  1878
+        downloads:  1911
         updated_at: 1731869258000
     }
 }

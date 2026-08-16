@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tasks-calendar-wrapper
 alt:
   - https://github.com/leonezz/obsidian-tasks-calendar-wrapper
-downloads: 71657
+downloads: 72662
 updated at: "2026-06-13T08:55:37Z"
 related to:
   - "[[GitHub - 602356991]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display tasks from your vault in a timeline view with customizable filters, rendering options, and daily-note-aware date parsing. Provide settings and update support for Obsidian-Tasks-Calendar and Obsidian-Tasks-Timeline and add a quick-entry panel for new items."
 
     stats: {
-        downloads:  71657
+        downloads:  72662
         updated_at: 1781340937000
     }
 }

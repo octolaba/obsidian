@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bibtex-scholar
 alt:
   - https://github.com/liu-qilong/bibtex-scholar
-downloads: 1260
+downloads: 1509
 updated at: "2025-10-30T05:04:59Z"
 related to:
   - "[[GitHub - 909995497]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage your literature as contextual, Markdown-powered notes and map relationships with nested bullets, tables, or flowcharts to capture insights and comparisons. Insert BibTeX blocks, cite inline with smart {ID} or [ID] autocomplete, and view rich citation popovers with title, authors, abstract and quick actions."
 
     stats: {
-        downloads:  1260
+        downloads:  1509
         updated_at: 1761800699000
     }
 }

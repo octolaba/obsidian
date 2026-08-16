@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/synonym
 alt:
   - https://github.com/pixerojan/obsidian-synonym
-downloads: 667
+downloads: 897
 updated at: "2026-05-14T12:54:58Z"
 related to:
   - "[[GitHub - 960492019]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Find synonyms for English and Swedish words inside Obsidian using offline dictionary files with optional online lookup. Add custom synonyms that override other sources and access lookups via right‑click, command palette, or ribbon; switch the interface between English and Swedish."
 
     stats: {
-        downloads:  667
+        downloads:  897
         updated_at: 1778763298000
     }
 }

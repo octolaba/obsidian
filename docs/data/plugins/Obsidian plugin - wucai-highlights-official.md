@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wucai-highlights-official
 alt:
   - https://github.com/makediff/obsidian-wucai
-downloads: 5957
+downloads: 6005
 updated at: "2026-04-11T02:42:16Z"
 related to:
   - "[[GitHub - 601071829]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync all digital highlights from your WuCai account directly into your Obsidian vault with continuous automatic syncing. Requires an active WuCai subscription to export highlights for centralized review and note-taking."
 
     stats: {
-        downloads:  5957
+        downloads:  6005
         updated_at: 1775875336000
     }
 }

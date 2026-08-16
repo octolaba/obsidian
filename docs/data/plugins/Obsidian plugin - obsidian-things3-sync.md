@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-things3-sync
 alt:
   - https://github.com/royxue/obsidian-things3-sync
-downloads: 15877
+downloads: 16043
 updated at: "2026-06-22T04:31:55Z"
 related to:
   - "[[GitHub - 552653493]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync todos, tags, and dates between Obsidian and Things3 across macOS and iOS. Create todos from lines or notes with backlinks, toggle status in both apps, and use any language; requires a Things3 auth token stored in your vault."
 
     stats: {
-        downloads:  15877
+        downloads:  16043
         updated_at: 1782102715000
     }
 }

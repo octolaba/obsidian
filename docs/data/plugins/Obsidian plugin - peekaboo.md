@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/peekaboo
 alt:
   - https://github.com/lio5n/peekaboo
-downloads: 1224
+downloads: 1279
 updated at: "2024-11-20T11:20:31Z"
 related to:
   - "[[GitHub - 805449886]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide and reveal specific files or entire folders using exact paths, wildcards, and per-file exceptions. Protect the hide-list with a password and toggle visibility from the ribbon or command palette; note hidden items are visually concealed but not encrypted."
 
     stats: {
-        downloads:  1224
+        downloads:  1279
         updated_at: 1732101631000
     }
 }

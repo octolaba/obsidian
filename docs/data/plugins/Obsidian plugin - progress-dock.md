@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/progress-dock
 alt:
   - https://github.com/ririririse/obsidian-progress-dock
-downloads: 32
+downloads: 77
 updated at: "2026-07-16T08:10:23Z"
 related to:
   - "[[GitHub - 1302296759]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track numeric goals, deadlines, countdowns, and branching learning roadmaps in a dockable Obsidian side panel. Visualize progress with bars, rings or numbers, add calendar-backed deadlines with countdowns and notes, and build sequential or parallel roadmap branches. Keep all data stored locally with no network access or changes to your Markdown notes."
 
     stats: {
-        downloads:  32
+        downloads:  77
         updated_at: 1784189423000
     }
 }

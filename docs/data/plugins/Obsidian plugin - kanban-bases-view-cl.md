@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kanban-bases-view-cl
 alt:
   - https://github.com/christianlempa/obsidian-bases-kanban
-downloads: 104
+downloads: 126
 updated at: "2026-07-01T08:43:24Z"
 related to:
   - "[[GitHub - 1256073089]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize notes into kanban columns based on any property and rearrange cards with drag-and-drop. Show multi-image galleries and cover images, collapse individual columns, add swimlanes, reorder and persist column order, set column colors and widths, and quick-add cards with column values prefilled."
 
     stats: {
-        downloads:  104
+        downloads:  126
         updated_at: 1782895404000
     }
 }

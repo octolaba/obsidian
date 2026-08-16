@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/gentle-pomo
 alt:
   - https://github.com/jamiestudio-lab/obsidian-gentlepomodoro
-downloads: 453
-updated at: "2026-07-20T19:29:54Z"
+downloads: 920
+updated at: "2026-07-31T16:45:43Z"
 related to:
   - "[[GitHub - 1121558008]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "A gentle, task-aware Pomodoro timer for Obsidian. A soft day→night gradient replaces the ticking clock so you stay in flow. Link focus sessions to your Tasks-plugin items, watch a counter tick up on each task, chase a daily focus goal in the status bar, and end the day with a Dataview-ready log of every session — start, end, pauses, total, and break type."
 
     stats: {
-        downloads:  453
-        updated_at: 1784575794000
+        downloads:  920
+        updated_at: 1785516343000
     }
 }
 ```

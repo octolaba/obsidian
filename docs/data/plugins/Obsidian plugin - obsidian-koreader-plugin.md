@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-koreader-plugin
 alt:
   - https://github.com/edo78/obsidian-koreader-sync
-downloads: 5242
+downloads: 5267
 updated at: "2022-02-11T16:31:06Z"
 related to:
   - "[[GitHub - 449226527]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync KOReader highlights and annotations into your Obsidian vault as Markdown notes with frontmatter metadata. Keep notes updated by connecting your KOReader to the device running Obsidian, create optional per-book folders, and render note bodies with customizable Eta.js templates."
 
     stats: {
-        downloads:  5242
+        downloads:  5267
         updated_at: 1644597066000
     }
 }

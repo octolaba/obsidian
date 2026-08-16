@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/reveal-active-file-button
 alt:
   - https://github.com/claremacrae/reveal-active-file-button-plugin
-downloads: 21909
+downloads: 23034
 updated at: "2026-06-11T11:14:08Z"
 related to:
   - "[[GitHub - 423145474]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a single-click crosshairs button to reveal the active file in the File Explorer and quickly locate neighboring notes. Click the button to jump the navigator to the active file; click again if the explorer doesn't scroll correctly in very large folders."
 
     stats: {
-        downloads:  21909
+        downloads:  23034
         updated_at: 1781176448000
     }
 }

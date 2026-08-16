@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image2latex
 alt:
   - https://github.com/hugo-persson/obsidian-ocrlatex
-downloads: 6569
+downloads: 6602
 updated at: "2024-04-04T16:54:14Z"
 related to:
   - "[[GitHub - 686749027]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert the latest image in your clipboard into Markdown or MathJax using selectable OCR providers (Texify, SimpleTex, pix2tex). Insert the generated LaTeX or Markdown directly into your note for quick capture of formulas and equations."
 
     stats: {
-        downloads:  6569
+        downloads:  6602
         updated_at: 1712249654000
     }
 }

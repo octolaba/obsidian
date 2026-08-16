@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/memos-card-view
 alt:
   - https://github.com/adoom2017/memos-obsidian
-downloads: 94
+downloads: 101
 updated at: "2026-05-20T05:30:02Z"
 related to:
   - "[[GitHub - 1244180798]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect to your Memos instance on desktop and display memos as editable cards in Obsidian, with create, edit, delete, paging, refresh, visibility, tags, pins, timestamps, attachments and live Markdown preview. Clip pages via the embedded browser or a companion Chromium extension, summarize with a local OpenAI-compatible LLM, and save summaries plus source links to Memos."
 
     stats: {
-        downloads:  94
+        downloads:  101
         updated_at: 1779255002000
     }
 }

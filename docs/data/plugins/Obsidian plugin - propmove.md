@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/propmove
 alt:
   - https://github.com/shu-red/propmove
-downloads: 1933
+downloads: 2310
 updated at: "2026-06-24T16:44:49Z"
 related to:
   - "[[GitHub - 1161769788]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move notes automatically based on frontmatter properties and value→folder mappings. Watch for creations and frontmatter updates, create missing target folders, skip ignored folders, and append numeric suffixes when naming conflicts occur."
 
     stats: {
-        downloads:  1933
+        downloads:  2310
         updated_at: 1782319489000
     }
 }

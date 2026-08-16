@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/tiktoker
 alt:
   - https://github.com/ameyxd/obsidian-tiktoker
-downloads: 1907
-updated at: "2026-07-21T22:54:00Z"
+downloads: 2140
+updated at: "2026-07-26T00:51:10Z"
 related to:
   - "[[GitHub - 1054202150]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Save TikTok videos as Markdown notes with embedded playback and extracted metadata. Open notes automatically, process URLs from clipboard or in batches, run local desktop transcriptions, and review saved TikToks in a sidebar queue with filters, sorting, tags, progress tracking and Dataview."
 
     stats: {
-        downloads:  1907
-        updated_at: 1784674440000
+        downloads:  2140
+        updated_at: 1785027070000
     }
 }
 ```

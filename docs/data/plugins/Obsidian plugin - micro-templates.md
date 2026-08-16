@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/micro-templates
 alt:
   - https://github.com/epszaw/obsidian-micro-templates
-downloads: 4001
+downloads: 4010
 updated at: "2023-07-30T20:59:17Z"
 related to:
   - "[[GitHub - 650678596]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Use templates stored in your vault as reusable text snippets and insert them anywhere in your notes. Compile templates with embedded JavaScript via the EJS engine and call dayjs using d() for date formatting. Place $cur in a template to set the cursor position after insertion."
 
     stats: {
-        downloads:  4001
+        downloads:  4010
         updated_at: 1690750757000
     }
 }

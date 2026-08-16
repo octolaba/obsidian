@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/harmony-progression-player
 alt:
   - https://github.com/initsnow/obsidian-harmony-progression-player
-downloads: 97
+downloads: 106
 updated at: "2026-07-09T14:10:36Z"
 related to:
   - "[[GitHub - 1277606667]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Detect harmony progressions written as numeric degrees, Roman numerals, or chord symbols — including extensions, altered, sus/add, diminished/half-diminished, and slash chords — and play them with a bundled sampled piano or soft/bright synth. Parse inline code while ignoring fenced code blocks and resolve numeric/Roman progressions relative to a chosen key root."
 
     stats: {
-        downloads:  97
+        downloads:  106
         updated_at: 1783606236000
     }
 }

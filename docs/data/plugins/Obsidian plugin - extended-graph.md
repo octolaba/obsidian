@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/extended-graph
 alt:
   - https://github.com/elsatam/obsidian-extended-graph
-downloads: 61978
+downloads: 65215
 updated at: "2025-10-17T12:21:33Z"
 related to:
   - "[[GitHub - 902007513]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add images to nodes, change node shapes, and pin or focus nodes to inspect relationships. Filter by tags or properties, remove links by relationship type, switch between saved views, and export the graph to SVG. Scale node and link sizes with statistical functions, reflect search results and open tabs, and customize the active node appearance."
 
     stats: {
-        downloads:  61978
+        downloads:  65215
         updated_at: 1760703693000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markpage-sync
 alt:
   - https://github.com/timikays/markpage-obsidian-plugin
-downloads: 94
+downloads: 99
 updated at: "2026-05-20T23:01:33Z"
 related to:
   - "[[GitHub - 1240629404]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync notes, including embedded images and links, to MarkPage with one click and open them in your browser for visual editing. Run a lightweight local server to push Markdown and serve vault images to any MarkPage deployment, apply built-in themes, and auto-extract H1 as a cover title."
 
     stats: {
-        downloads:  94
+        downloads:  99
         updated_at: 1779318093000
     }
 }

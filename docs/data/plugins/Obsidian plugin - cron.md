@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cron
 alt:
   - https://github.com/cdloh/obsidian-cron
-downloads: 5960
+downloads: 6019
 updated at: "2023-08-24T10:26:27Z"
 related to:
   - "[[GitHub - 609801144]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Schedule Obsidian commands or custom JavaScript scripts to run automatically using cron syntax. Add and manage jobs via the plugin API, use locking to prevent duplicate runs, and integrate with Obsidian Sync to ensure jobs execute once across devices."
 
     stats: {
-        downloads:  5960
+        downloads:  6019
         updated_at: 1692872787000
     }
 }

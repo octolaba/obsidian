@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quicktimebox
 alt:
   - https://github.com/loudinthecloud/obsidian-quick-timebox
-downloads: 110
+downloads: 120
 updated at: "2026-04-18T22:23:42Z"
 related to:
   - "[[GitHub - 1214532017]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Plan your day inside notes by dropping a quicktimebox code block to render an interactive time grid. Edit slots inline and save changes back to the note automatically. Show a live now indicator, choose slot granularity, and handle midnight-wrap and RTL layouts."
 
     stats: {
-        downloads:  110
+        downloads:  120
         updated_at: 1776551022000
     }
 }

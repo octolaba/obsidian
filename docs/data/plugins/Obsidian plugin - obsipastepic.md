@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/obsipastepic
 alt:
   - https://github.com/zengyincen/Obsidian-PastePic
-downloads: 19
-updated at: "2026-07-24T02:16:02Z"
+downloads: 70
+updated at: "2026-07-26T08:50:28Z"
 related to:
   - "[[GitHub - 1309850184]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Upload pasted, dragged, or newly inserted local images to GitHub or any image host and replace them in-place with customizable CDN/proxy Markdown links. Show asynchronous placeholders during upload, restore local links on failure, and handle multiple images with automatic, per-image replacements."
 
     stats: {
-        downloads:  19
-        updated_at: 1784859362000
+        downloads:  70
+        updated_at: 1785055828000
     }
 }
 ```

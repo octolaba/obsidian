@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pensea
 alt:
   - https://github.com/y15865708228-pixel/yang
-downloads: 346
+downloads: 401
 updated at: "2026-05-22T06:55:02Z"
 related to:
   - "[[GitHub - 1215723035]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize daily work and ideas with a sidebar kanban and calendar that shows today's priorities, Inbox count and review progress. Create idea cards from selected text, advance them through lifecycle stages with SM-2 review scheduling, and use optional AI for Inbox summarization, auto-naming and vault Q&A; core features run offline."
 
     stats: {
-        downloads:  346
+        downloads:  401
         updated_at: 1779432902000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/journalyst
 alt:
   - https://github.com/justin-arnold/Journalyst
-downloads: 4453
+downloads: 4591
 updated at: "2024-07-26T05:17:17Z"
 related to:
   - "[[GitHub - 746466922]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track daily journaling and manage multiple journals by designating a vault folder whose subfolders become individual journals using YYYY-MM-DD.md files. Create new entries quickly and view a monthly completion overview for each journal to see which days you wrote."
 
     stats: {
-        downloads:  4453
+        downloads:  4591
         updated_at: 1721971037000
     }
 }

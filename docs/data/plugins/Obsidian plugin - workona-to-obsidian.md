@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/workona-to-obsidian
 alt:
   - https://github.com/holmes555/workona-to-obsidian
-downloads: 4158
+downloads: 4178
 updated at: "2024-04-01T20:23:07Z"
 related to:
   - "[[GitHub - 573876061]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Workona JSON and recreate your workspace folder structure in Obsidian, including resources, tabs, notes, and tasks. Generate Markdown files for each item using default or custom Handlebars templates, preserving metadata, attachments, and source URLs."
 
     stats: {
-        downloads:  4158
+        downloads:  4178
         updated_at: 1712002987000
     }
 }

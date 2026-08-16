@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/agent-client
 alt:
   - https://github.com/rait-09/obsidian-agent-client
-downloads: 213894
-updated at: "2026-06-24T15:48:28Z"
+downloads: 225902
+updated at: "2026-08-06T06:23:15Z"
 related to:
   - "[[GitHub - 1059326899]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Bring AI agents like Claude Code, Codex, and Gemini CLI into your vault and chat with them directly using a floating, collapsible chat window. Reference notes with @notename, paste images, run multiple agents and sessions, switch models, execute terminal commands, and save conversations as Markdown."
 
     stats: {
-        downloads:  213894
-        updated_at: 1782316108000
+        downloads:  225902
+        updated_at: 1785997395000
     }
 }
 ```

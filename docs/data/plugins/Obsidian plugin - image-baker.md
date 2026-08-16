@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-baker
 alt:
   - https://github.com/bartekmp/obsidian-image-baker
-downloads: 271
+downloads: 387
 updated at: "2026-06-10T21:19:00Z"
 related to:
   - "[[GitHub - 1265170882]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bake images into notes as self-contained Base64 embeds so each note becomes a single portable .md file without attachment clutter. Un-bake images back to regular files with original names and folders, convert embeds per image/note/vault, and optionally re-encode to WebP/JPEG with a dry-run preview."
 
     stats: {
-        downloads:  271
+        downloads:  387
         updated_at: 1781126340000
     }
 }

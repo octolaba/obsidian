@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nodte-translator
 alt:
   - https://github.com/nodevcg/nodte-translator
-downloads: 137
+downloads: 160
 updated at: "2026-05-15T13:52:32Z"
 related to:
   - "[[GitHub - 1239515354]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Translate selected text directly in notes into 100+ languages. Select text and replace it with the translated version via the editor context menu for fast, everyday use."
 
     stats: {
-        downloads:  137
+        downloads:  160
         updated_at: 1778853152000
     }
 }

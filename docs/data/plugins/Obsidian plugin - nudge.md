@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/nudge
 alt:
   - https://github.com/2easy/nudge
-downloads: 84
-updated at: "2026-07-16T17:58:26Z"
+downloads: 132
+updated at: "2026-07-30T05:49:24Z"
 related to:
   - "[[GitHub - 1297646345]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage tasks in Obsidian via a single todo.txt and a Today view that surfaces items when due (macOS only). Create and edit tasks with a modal (fields: text, list, due, priority, link, recurrence), drag-and-drop between lists, auto-advance recurring items, and reflect external file edits instantly."
 
     stats: {
-        downloads:  84
-        updated_at: 1784224706000
+        downloads:  132
+        updated_at: 1785390564000
     }
 }
 ```

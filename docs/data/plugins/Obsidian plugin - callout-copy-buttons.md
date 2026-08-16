@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/callout-copy-buttons
 alt:
   - https://github.com/alythobani/obsidian-callout-copy-buttons
-downloads: 3205
+downloads: 3287
 updated at: "2025-06-23T03:47:31Z"
 related to:
   - "[[GitHub - 915529887]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add \"Copy (Markdown)\" and \"Copy (plain text)\" buttons to callout blocks for quick clipboard export. Customize button appearance and behavior and preview changes live. Be aware Markdown copy works only in Source Mode and top-level Reading Mode; plain-text copy uses rendered innerText and may vary when callouts are folded."
 
     stats: {
-        downloads:  3205
+        downloads:  3287
         updated_at: 1750650451000
     }
 }

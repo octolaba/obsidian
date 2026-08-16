@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/daydeck
 alt:
   - https://github.com/shivrajrath/daydeck
-downloads: 92
-updated at: "2026-07-16T17:09:52Z"
+downloads: 163
+updated at: "2026-08-04T22:04:28Z"
 related to:
   - "[[GitHub - 1299916158]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Organize your day on a visual, section-based dashboard that links high-level strategy (Backlog, Learning) to actionable execution (Today, Next). Capture tasks instantly with the Quick Capture bar, use inline tags and filters, drag-and-drop and resize sections, and set reminders and waiting timers to stay focused."
 
     stats: {
-        downloads:  92
-        updated_at: 1784221792000
+        downloads:  163
+        updated_at: 1785881068000
     }
 }
 ```

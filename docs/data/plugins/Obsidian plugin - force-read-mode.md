@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/force-read-mode
 alt:
   - https://github.com/al3xw/force-read-mode
-downloads: 4900
-updated at: "2026-06-12T20:07:19Z"
+downloads: 5312
+updated at: "2026-07-25T13:43:55Z"
 related to:
   - "[[GitHub - 870323165]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Force Markdown files in specified paths to open in read (preview) mode to prevent accidental edits. Match files with multiple micromatch glob patterns and toggle the behavior on or off from the Command Palette."
 
     stats: {
-        downloads:  4900
-        updated_at: 1781294839000
+        downloads:  5312
+        updated_at: 1784987035000
     }
 }
 ```

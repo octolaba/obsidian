@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/web-task-dashboard
 alt:
   - https://github.com/mbedded/obsidian-web-task-dashboard
-downloads: 110
+downloads: 118
 updated at: "2026-02-27T16:43:19Z"
 related to:
   - "[[GitHub - 1046302574]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show tasks from third-party services inside Obsidian and manage them without switching apps. Connect supported services like Tracks and browse, filter, and update tasks directly in a unified dashboard."
 
     stats: {
-        downloads:  110
+        downloads:  118
         updated_at: 1772210599000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/three-noun-prompts
 alt:
   - https://github.com/jamespeachh/Three-Noun-Prompts
-downloads: 421
+downloads: 446
 updated at: "2024-11-20T04:34:21Z"
 related to:
   - "[[GitHub - 876924279]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate three-word creative prompts for writing, composing, or illustration and save them to a designated note. Update prompts automatically at a set interval and review a history of past prompts. Run on desktop only."
 
     stats: {
-        downloads:  421
+        downloads:  446
         updated_at: 1732077261000
     }
 }

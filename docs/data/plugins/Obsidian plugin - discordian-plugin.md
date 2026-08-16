@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/discordian-plugin
 alt:
   - https://github.com/radekkozak/discordian-plugin
-downloads: 17580
+downloads: 17825
 updated at: "2021-03-10T11:22:00Z"
 related to:
   - "[[GitHub - 316226368]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Customize Discordian Theme from the Obsidian Settings panel. Toggle Writer Mode and Flat Andy Mode, enable Paragraph Focus with adjustable fade-out, set readable line length and dark note headers, and adjust font sizes for notes and the File Explorer."
 
     stats: {
-        downloads:  17580
+        downloads:  17825
         updated_at: 1615375320000
     }
 }

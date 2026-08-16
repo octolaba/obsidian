@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/task-board
 alt:
   - https://github.com/tu2-atmanand/Task-Board
-downloads: 62833
+downloads: 65130
 updated at: "2026-06-07T13:46:13Z"
 related to:
   - "[[GitHub - 851500276]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize inline-tasks and task-notes from across your vault on a centralized board with different types of views such as Kanban, Dependency map, list, table, etc... Each board is saved as a file inside the vault (just like a base file), which can be used to manage individual projects."
 
     stats: {
-        downloads:  62833
+        downloads:  65130
         updated_at: 1780839973000
     }
 }

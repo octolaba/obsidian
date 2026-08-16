@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/codex-workflow
 alt:
   - https://github.com/yifu-tian/obsidian-codex-workflow
-downloads: 179
+downloads: 201
 updated at: "2026-04-27T10:00:28Z"
 related to:
   - "[[GitHub - 1222365809]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Launch Codex CLI from the current vault using a ribbon icon, command, or compact right‑sidebar launcher. Open your terminal in the vault directory and pass a configurable startup prompt (supports {{vaultPath}} and {{activeFilePath}}) to Codex."
 
     stats: {
-        downloads:  179
+        downloads:  201
         updated_at: 1777284028000
     }
 }

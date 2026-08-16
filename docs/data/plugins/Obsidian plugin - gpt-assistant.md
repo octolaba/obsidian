@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gpt-assistant
 alt:
   - https://github.com/m7mdisk/obsidian-gpt
-downloads: 7030
+downloads: 7063
 updated at: "2023-05-21T17:10:29Z"
 related to:
   - "[[GitHub - 612107500]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Train a GPT-3 model on your notes and get personalized answers drawn from your own knowledge base. Send your Markdown files to OpenAI to create embeddings for semantic search and context-aware responses."
 
     stats: {
-        downloads:  7030
+        downloads:  7063
         updated_at: 1684689029000
     }
 }

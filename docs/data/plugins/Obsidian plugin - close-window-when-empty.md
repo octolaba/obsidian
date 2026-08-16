@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/close-window-when-empty
 alt:
   - https://github.com/taylorjadin/close-window-when-empty
-downloads: 418
+downloads: 435
 updated at: "2025-11-19T21:40:23Z"
 related to:
   - "[[GitHub - 813831656]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Close the Obsidian window when the last note is closed to mirror browser tab behavior. Leave the app running on macOS after window close, and quit the app on Windows and Linux."
 
     stats: {
-        downloads:  418
+        downloads:  435
         updated_at: 1763588423000
     }
 }

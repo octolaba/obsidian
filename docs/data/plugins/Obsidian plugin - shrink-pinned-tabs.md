@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/shrink-pinned-tabs
 alt:
   - https://github.com/nicosomb/obsidian-shrink-pinned-tabs
-downloads: 4030
+downloads: 4097
 updated at: "2024-12-03T09:46:21Z"
 related to:
   - "[[GitHub - 821374799]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Shrink pinned tabs to save space and declutter the Obsidian tab bar. Toggle tab titles to switch between compact icon-only pins and labeled tabs."
 
     stats: {
-        downloads:  4030
+        downloads:  4097
         updated_at: 1733219181000
     }
 }

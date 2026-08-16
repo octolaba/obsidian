@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bestest-buddy
 alt:
   - https://github.com/nateking-dev/bestest-buddy
-downloads: 75
+downloads: 97
 updated at: "2026-07-08T03:17:11Z"
 related to:
   - "[[GitHub - 1213653032]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hatch a persistent ASCII pet for each vault that watches your writing and reacts with short, in-context quips. Keep a unique, vault-seeded buddy with species, rarity, hat, stats and personality in a compact sidebar panel that responds to writing bursts, pauses, revisions and direct questions without editing your notes."
 
     stats: {
-        downloads:  75
+        downloads:  97
         updated_at: 1783480631000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dangerzone-writing-plugin
 alt:
   - https://github.com/akaalias/dangerzone-writing-plugin
-downloads: 13394
+downloads: 13769
 updated at: "2022-09-29T16:17:21Z"
 related to:
   - "[[GitHub - 314226453]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Start timed writing sprints to warm up your writing muscle, hammer out messy first drafts, and stay focused. Keep typing continuously; pausing for more than five seconds deletes the note's content to enforce uninterrupted flow."
 
     stats: {
-        downloads:  13394
+        downloads:  13769
         updated_at: 1664468241000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/code-editor
 alt:
   - https://github.com/saltyfireball/obsidian-code-editor
-downloads: 2248
+downloads: 3450
 updated at: "2026-05-18T18:10:51Z"
 related to:
   - "[[GitHub - 1166183095]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit non-markdown text files in Obsidian with syntax highlighting for 50+ languages, line numbers with active-line highlighting, bracket matching, word wrap, tab indentation, and undo/redo history. Choose from five built-in color themes, detect binary files to avoid accidental edits, and add custom extensions."
 
     stats: {
-        downloads:  2248
+        downloads:  3450
         updated_at: 1779127851000
     }
 }

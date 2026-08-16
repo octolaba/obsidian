@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/keep-the-rhythm
 alt:
   - https://github.com/benjaminezequiel/keep-the-rhythm
-downloads: 27238
+downloads: 28874
 updated at: "2026-05-19T01:42:57Z"
 related to:
   - "[[GitHub - 908440365]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Tracks your daily word count across your vault, visualizing your writing activity through a heatmap and live stats. Set a daily goal, maintain your streak, and embed writing summaries directly into your notes. All stored locally and synced across devices."
 
     stats: {
-        downloads:  27238
+        downloads:  28874
         updated_at: 1779154977000
     }
 }

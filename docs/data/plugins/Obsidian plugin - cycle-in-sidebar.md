@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cycle-in-sidebar
 alt:
   - https://github.com/houcheng/obsidian-cycle-in-sidebar-plugin
-downloads: 6167
+downloads: 6192
 updated at: "2024-12-05T04:48:44Z"
 related to:
   - "[[GitHub - 584149892]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Cycle through tabs in the left or right sidebar with a hotkey. Move forward or reverse and assign preferred shortcuts in Hotkeys."
 
     stats: {
-        downloads:  6167
+        downloads:  6192
         updated_at: 1733374124000
     }
 }

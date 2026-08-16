@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/swiss-army-knife
 alt:
   - https://github.com/mwoz123/swiss-army-knife-obsidian
-downloads: 6377
+downloads: 6437
 updated at: "2026-04-05T19:38:44Z"
 related to:
   - "[[GitHub - 694134760]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run a set of command-palette utilities for Obsidian. Remove duplicate or all empty lines, create expandable/collapsible sections, download plugin or tag versions, and scroll the page up or down."
 
     stats: {
-        downloads:  6377
+        downloads:  6437
         updated_at: 1775417924000
     }
 }

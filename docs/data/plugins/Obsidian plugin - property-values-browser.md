@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/property-values-browser
 alt:
   - https://github.com/soulbits-vibe/property-values-browser
-downloads: 57
+downloads: 94
 updated at: "2026-07-08T19:10:50Z"
 related to:
   - "[[GitHub - 1237019811]]"
@@ -28,7 +28,7 @@ Lists frontmatter property names with their counts in a right-sidebar view. A pr
 plugin: {
     id:     "property-values-browser"
     name:   "Property Values Browser"
-    author: "Soul"
+    author: "Soulbits"
     repo:   "soulbits-vibe/property-values-browser"
 
     html_url:    "https://community.obsidian.md/plugins/property-values-browser"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse frontmatter property names and counts in a right‑sidebar view. Expand properties to see distinct values with counts, click a value to open an exact property/value search, and right‑click rows to delete properties or values from matching notes. Filter names and values from the top input and refresh the list on demand."
 
     stats: {
-        downloads:  57
+        downloads:  94
         updated_at: 1783537850000
     }
 }

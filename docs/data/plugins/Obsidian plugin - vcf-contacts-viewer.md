@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vcf-contacts-viewer
 alt:
   - https://github.com/viggomeesters/obsidian-vcf-contacts-viewer
-downloads: 87
+downloads: 107
 updated at: "2026-06-08T06:37:34Z"
 related to:
   - "[[GitHub - 1262609213]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open .vcf files in a dedicated view and inspect vCards as contact cards or raw source with line numbers. Search names, organizations, emails, phones and view import-preflight warnings for malformed, unsupported, folded-line, encoded, or version-mismatched fields. Keep PHOTO data private and stay read-only — no network requests, imports, exports, or writes to .vcf files."
 
     stats: {
-        downloads:  87
+        downloads:  107
         updated_at: 1780900654000
     }
 }

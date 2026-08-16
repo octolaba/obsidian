@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tab-link
 alt:
   - https://github.com/jon-vii/obsidian-tab-link
-downloads: 1175
+downloads: 2025
 updated at: "2026-01-23T15:46:32Z"
 related to:
   - "[[GitHub - 1140447409]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert wiki-links with inline ghost-text autocompletion that shows note-name suggestions as you type. Press Tab to accept completions and create links; use context-aware matching that skips code, frontmatter and existing links, with frecency ranking, phrase matching and alias support."
 
     stats: {
-        downloads:  1175
+        downloads:  2025
         updated_at: 1769183192000
     }
 }

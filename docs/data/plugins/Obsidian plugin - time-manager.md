@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/time-manager
 alt:
   - https://github.com/najeong-kim/time-manager-plugin
-downloads: 217
+downloads: 239
 updated at: "2026-05-13T13:38:43Z"
 related to:
   - "[[GitHub - 1232023364]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize daily tasks from your Daily Notes as vertical time-blocks on a timeline. Record durations and completion by category and view per-category bar charts with overload warnings. Suggest and color-highlight @category tags while editing."
 
     stats: {
-        downloads:  217
+        downloads:  239
         updated_at: 1778679523000
     }
 }

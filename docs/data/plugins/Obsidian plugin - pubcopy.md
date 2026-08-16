@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/pubcopy
 alt:
   - https://github.com/canartuc/pubcopy
-downloads: 232
-updated at: "2026-07-09T20:40:57Z"
+downloads: 345
+updated at: "2026-08-08T16:27:36Z"
 related to:
   - "[[GitHub - 1189992938]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Copy notes as platform-optimized HTML for Medium and Substack, preserving formatting and converting 56 Markdown elements — headers, lists, code blocks, tables, images, footnotes and KaTeX. Paste converted HTML directly into Medium or Substack from whole notes or selected text."
 
     stats: {
-        downloads:  232
-        updated_at: 1783629657000
+        downloads:  345
+        updated_at: 1786206456000
     }
 }
 ```

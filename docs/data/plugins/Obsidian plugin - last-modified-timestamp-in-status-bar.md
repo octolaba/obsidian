@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/last-modified-timestamp-in-status-bar
 alt:
   - https://github.com/yustynn/obsidian-last-modified-timestamp-in-status-bar
-downloads: 10313
+downloads: 10562
 updated at: "2024-10-20T18:18:39Z"
 related to:
   - "[[GitHub - 633340032]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display the last modified timestamp of the current note in the status bar, updating frequently and when switching notes. Show or hide created and modified timestamps, choose timestamp formats, and adjust the refresh interval for real-time accuracy."
 
     stats: {
-        downloads:  10313
+        downloads:  10562
         updated_at: 1729448319000
     }
 }

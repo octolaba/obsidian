@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/arweave-uploader
 alt:
   - https://github.com/konfuzz/arweave-uploader-plugin
-downloads: 279
+downloads: 289
 updated at: "2024-11-01T20:01:07Z"
 related to:
   - "[[GitHub - 875506200]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload Obsidian notes as HTML to the Arweave blockchain, converting embedded images to base64 and including them in the document. Get estimated AR/USD transaction costs and check wallet balance before publishing; note private key is stored in plaintext and only image attachments are supported."
 
     stats: {
-        downloads:  279
+        downloads:  289
         updated_at: 1730491267000
     }
 }

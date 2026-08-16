@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tabula
 alt:
   - https://github.com/pblazh/tabula-obsidian
-downloads: 116
+downloads: 126
 updated at: "2026-05-18T18:22:05Z"
 related to:
   - "[[GitHub - 1194011705]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run Tabula transformations on CSV blocks inside Markdown files to compute and update table columns and rows using Tabula scripts. Auto-run on save for instant updates, execute manually from the command palette, and toggle auto-execution or visibility of row/column names."
 
     stats: {
-        downloads:  116
+        downloads:  126
         updated_at: 1779128525000
     }
 }

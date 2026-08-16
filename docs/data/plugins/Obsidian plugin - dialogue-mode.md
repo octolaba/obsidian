@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dialogue-mode
 alt:
   - https://github.com/patrickchiang/obsidian-dialogue-mode
-downloads: 1977
+downloads: 2039
 updated at: "2024-09-29T23:02:35Z"
 related to:
   - "[[GitHub - 814880746]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fade out non-dialogue text to spotlight spoken lines while writing. Adjust fade intensity and dialogue text color to suit your focus and style."
 
     stats: {
-        downloads:  1977
+        downloads:  2039
         updated_at: 1727650955000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/cli-rest-mcp
 alt:
   - https://github.com/dsebastien/obsidian-cli-rest
-downloads: 1891
-updated at: "2026-07-17T07:32:29Z"
+downloads: 2391
+updated at: "2026-07-29T07:43:55Z"
 related to:
   - "[[GitHub - 1162702044]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Control your Obsidian vault programmatically by exposing all CLI commands as a local HTTP API and MCP server. Automate creating, reading, searching, and modifying notes from scripts, tools, or AI assistants while keeping access localhost-only by default with API-key authentication and granular command controls."
 
     stats: {
-        downloads:  1891
-        updated_at: 1784273549000
+        downloads:  2391
+        updated_at: 1785311035000
     }
 }
 ```

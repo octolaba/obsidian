@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/fiction-book-reader
 alt:
   - https://github.com/kvasonaft/fb2-reader
-downloads: 46
+downloads: 107
 updated at: "2026-07-20T21:53:53Z"
 related to:
   - "[[GitHub - 1287537964]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Read .fb2 books from your vault in a formatted reader showing cover, title, authors, chapters, footnotes and images. Navigate via a clickable table of contents, restore your place (up to 300 books), customize appearance (light/dark/sepia) and auto-detect legacy encodings."
 
     stats: {
-        downloads:  46
+        downloads:  107
         updated_at: 1784584433000
     }
 }

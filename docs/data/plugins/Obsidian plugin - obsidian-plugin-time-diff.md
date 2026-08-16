@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-plugin-time-diff
 alt:
   - https://github.com/dominiczaq/obsidian-plugin-time-diff
-downloads: 5888
+downloads: 5905
 updated at: "2026-03-06T16:45:56Z"
 related to:
   - "[[GitHub - 510492155]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Parse timediff blocks containing ranges like \"11:10 - 12:20\" and display readable durations for each range with a summed total at the bottom. Show total time diff for the current file and insert timediff blocks or the current time at the cursor."
 
     stats: {
-        downloads:  5888
+        downloads:  5905
         updated_at: 1772815556000
     }
 }

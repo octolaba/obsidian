@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/age-encrypt
 alt:
   - https://github.com/mr-1311/obsidian-age-encrypt
-downloads: 1592
+downloads: 1629
 updated at: "2025-08-05T23:09:56Z"
 related to:
   - "[[GitHub - 918434745]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Encrypt whole files or selected text with age encryption and store ciphertext in age code blocks compatible with the age CLI. View and edit decrypted content only in memory to avoid writing plaintext to disk, and add optional hints to encrypted blocks."
 
     stats: {
-        downloads:  1592
+        downloads:  1629
         updated_at: 1754435396000
     }
 }

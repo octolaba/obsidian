@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/csv-allinone
 alt:
   - https://github.com/hangeol-chang/obsidian-csv-allinone
-downloads: 2272
+downloads: 2348
 updated at: "2025-06-22T04:20:56Z"
 related to:
   - "[[GitHub - 910048233]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and edit CSV files in your vault, add or remove rows, and save changes directly from Obsidian. Read and render CSV data with DataviewJS, manage files via a CSV explorer, and append rows using Buttons integration."
 
     stats: {
-        downloads:  2272
+        downloads:  2348
         updated_at: 1750566056000
     }
 }

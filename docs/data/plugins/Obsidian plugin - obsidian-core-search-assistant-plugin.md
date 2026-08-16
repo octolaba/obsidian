@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-core-search-assistant-plugin
 alt:
   - https://github.com/qawatake/obsidian-core-search-assistant-plugin
-downloads: 32760
+downloads: 34238
 updated at: "2025-04-27T11:42:20Z"
 related to:
   - "[[GitHub - 447040155]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extend Obsidian's search with a keyboard-driven interface, card and large single-item previews, and auto-preview modes. Navigate results, preview and open items in the same or new pane, and copy wiki links directly from search results."
 
     stats: {
-        downloads:  32760
+        downloads:  34238
         updated_at: 1745754140000
     }
 }

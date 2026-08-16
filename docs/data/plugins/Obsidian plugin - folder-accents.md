@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-accents
 alt:
   - https://github.com/wrongvibe/folder-accents
-downloads: 164
+downloads: 180
 updated at: "2026-05-15T13:17:05Z"
 related to:
   - "[[GitHub - 1238823775]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Change Obsidian's accent color automatically based on the folder of the open note. Assign per-folder colours with subfolder inheritance and most-specific-path priority, preview changes live, and import/export mappings as JSON. For COLOURS theme and might works on theme that respects `--color-accent`."
 
     stats: {
-        downloads:  164
+        downloads:  180
         updated_at: 1778851025000
     }
 }

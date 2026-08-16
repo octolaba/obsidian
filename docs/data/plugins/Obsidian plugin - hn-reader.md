@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hn-reader
 alt:
   - https://github.com/anliberant/hn-obsidian-plugin
-downloads: 79
+downloads: 84
 updated at: "2026-05-31T11:50:26Z"
 related to:
   - "[[GitHub - 1252584360]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse Hacker News Top, New, Best, Ask HN, and Show HN feeds inside Obsidian and open them in a sidebar panel or a new tab. Save stories to a reading-list note or a daily note with one click, auto-append tags and YAML frontmatter, and choose how many stories to load."
 
     stats: {
-        downloads:  79
+        downloads:  84
         updated_at: 1780228226000
     }
 }

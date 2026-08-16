@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-extract-pdf-highlights
 alt:
   - https://github.com/akaalias/obsidian-extract-pdf-highlights
-downloads: 110294
+downloads: 110939
 updated at: "2021-02-17T10:58:44Z"
 related to:
   - "[[GitHub - 325072237]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extract highlighted and underlined text from PDFs into Markdown notes in your Obsidian vault. Include optional page numbers, highlight colors, and create links back to the source PDF for quick reference."
 
     stats: {
-        downloads:  110294
+        downloads:  110939
         updated_at: 1613559524000
     }
 }

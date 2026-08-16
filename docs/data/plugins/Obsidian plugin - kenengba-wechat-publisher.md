@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kenengba-wechat-publisher
 alt:
   - https://github.com/yyhzz985/xuezha985-wechat-publisher
-downloads: 98
+downloads: 114
 updated at: "2026-06-28T06:46:41Z"
 related to:
   - "[[GitHub - 1266988511]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert the current note or selection into WeChat-style HTML with a live right-side preview and one-click copy for pasting into the WeChat editor. Preserve headings, lists, images, tables, code with Shiki highlighting, footnotes and custom containers; automatically strip YAML frontmatter and, with Pro, upload drafts, cover/avatar and auto-upload local images."
 
     stats: {
-        downloads:  98
+        downloads:  114
         updated_at: 1782629201000
     }
 }

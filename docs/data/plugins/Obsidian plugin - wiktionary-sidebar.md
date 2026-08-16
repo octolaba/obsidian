@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wiktionary-sidebar
 alt:
   - https://github.com/jonas-karneboge/wiktionary-sidebar
-downloads: 222
+downloads: 283
 updated at: "2026-06-03T19:22:05Z"
 related to:
   - "[[GitHub - 1257883850]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Look up any word in Wiktionary from a sidebar inside your vault by right-clicking a selection in editor or reading view. View structured entries (part of speech, definitions, etymology, synonyms) with direct links to the source across seven language editions and theme-aware styling."
 
     stats: {
-        downloads:  222
+        downloads:  283
         updated_at: 1780514525000
     }
 }

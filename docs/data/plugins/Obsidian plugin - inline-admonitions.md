@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/inline-admonitions
 alt:
   - https://github.com/scotttomaszewski/obsidian-inline-admonitions
-downloads: 10964
+downloads: 12338
 updated at: "2026-06-04T17:05:43Z"
 related to:
   - "[[GitHub - 747480576]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format inline codeblocks into styled inline admonitions triggered by prefix, suffix, contains, or regex patterns. Customize background and text colors, opacity, icons, and fonts to make inline notes stand out."
 
     stats: {
-        downloads:  10964
+        downloads:  12338
         updated_at: 1780592743000
     }
 }

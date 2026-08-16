@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/songwriter-player
 alt:
   - https://github.com/mrrepac/obsidian-songwriter-player
-downloads: 79
-updated at: "2026-07-06T19:34:58Z"
+downloads: 151
+updated at: "2026-08-05T20:14:30Z"
 related to:
   - "[[GitHub - 1287103294]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Keep audio playing in a right sidebar while you scroll or close the panel, loading tracks from embeds or links in the open note. Control playback on a waveform: click to seek, drag to loop A‑B, double‑click to set a per-file marker, switch tracks, and record play counts + listened time."
 
     stats: {
-        downloads:  79
-        updated_at: 1783366498000
+        downloads:  151
+        updated_at: 1785960870000
     }
 }
 ```

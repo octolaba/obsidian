@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/safe-attachment-trash
 alt:
   - https://github.com/mrjahanbin90/safe-attachment-trash
-downloads: 33
+downloads: 90
 updated at: "2026-07-21T17:17:24Z"
 related to:
   - "[[GitHub - 1307410388]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Find unused attachments and move approved files to a managed safe trash while preserving each file’s original path for exact restoration. Review and open files before moving, restore selected or all files to original folders (recreate folders and resolve name conflicts), or permanently delete as needed."
 
     stats: {
-        downloads:  33
+        downloads:  90
         updated_at: 1784654244000
     }
 }

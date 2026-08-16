@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chat-bubble-renderer
 alt:
   - https://github.com/bruce2431/obsidian-chat-bubble-renderer
-downloads: 188
+downloads: 228
 updated at: "2026-07-08T06:57:10Z"
 related to:
   - "[[GitHub - 1269991156]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Markdown chat logs tagged with 聊天记录 or chat as WeChat-style bubble dialogs directly in Obsidian. Parse standard message headers, quoted replies, merge-forward cards and internal links; display others on the left and yourself on the right with inline media previews and theme-aware colors in a fullscreen overlay."
 
     stats: {
-        downloads:  188
+        downloads:  228
         updated_at: 1783493830000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/column-explorer
 alt:
   - https://github.com/n23eos/column_explorer
-downloads: 136
-updated at: "2026-07-23T10:09:42Z"
+downloads: 297
+updated at: "2026-08-07T22:46:22Z"
 related to:
   - "[[GitHub - 1297527125]]"
 remind me:
@@ -28,7 +28,7 @@ Column Explorer is a Finder-style file explorer built on Miller columns, opening
 plugin: {
     id:     "column-explorer"
     name:   "Column Explorer"
-    author: "N23eos"
+    author: "n23eos"
     repo:   "n23eos/column_explorer"
 
     html_url:    "https://community.obsidian.md/plugins/column-explorer"
@@ -37,8 +37,8 @@ plugin: {
     about:       "Finder-style Miller column file explorer for Obsidian. Open folders in adjacent columns, switch between list and icon views, preview files and images, use breadcrumbs and folder colors, and manage files with multi-select, drag and drop, file operations, and context menus."
 
     stats: {
-        downloads:  136
-        updated_at: 1784801382000
+        downloads:  297
+        updated_at: 1786142782000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-smart-links
 alt:
   - https://github.com/kemayo/obsidian-smart-links
-downloads: 6327
+downloads: 6365
 updated at: "2022-12-09T16:32:20Z"
 related to:
   - "[[GitHub - 551131931]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Define custom smart-link patterns to auto-link matching text when reading notes. Write regular-expression patterns and replacement strings to turn tokens like T12345 or #4324 into full URLs, with matches applied only at line start or after whitespace."
 
     stats: {
-        downloads:  6327
+        downloads:  6365
         updated_at: 1670603540000
     }
 }

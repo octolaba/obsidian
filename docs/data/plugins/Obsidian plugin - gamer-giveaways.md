@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gamer-giveaways
 alt:
   - https://github.com/abduznik/Obsidian-Game-Giveaways
-downloads: 106
+downloads: 111
 updated at: "2026-05-17T14:40:17Z"
 related to:
   - "[[GitHub - 1007220779]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fetch latest game giveaways from Epic, Steam, PlayStation, Xbox and more and save them as organized notes in your vault. Keep lists fresh with automatic or scheduled updates, sort by platform, and include title, value, description, and claim instructions for each entry."
 
     stats: {
-        downloads:  106
+        downloads:  111
         updated_at: 1779028817000
     }
 }

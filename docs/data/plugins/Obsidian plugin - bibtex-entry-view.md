@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bibtex-entry-view
 alt:
   - https://github.com/awfrok/obsidian-plugin-bibtex-entry-view
-downloads: 318
+downloads: 332
 updated at: "2025-08-02T07:21:00Z"
 related to:
   - "[[GitHub - 977002031]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render bibkey code blocks as compact entry previews from your .bib file, highlighting the bibkey in Obsidian's accent color and showing author or editor names in \"last, first\" format. Flag missing keys in red with strikethrough and show live suggestions while typing {bibkey} based on partial field matches."
 
     stats: {
-        downloads:  318
+        downloads:  332
         updated_at: 1754119260000
     }
 }

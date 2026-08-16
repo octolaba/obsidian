@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/simple-gallery
 alt:
   - https://github.com/haivri/obsidian-simple-gallery
-downloads:
-updated at:
+downloads: 104
+updated at: "2026-07-24T19:25:56Z"
 related to:
   - "[[GitHub - 1310581280]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/haivri/obsidian-simple-gallery"
     description: "Turn a simple, YAML-inspired list of image embeds into a responsive photo grid. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Convert a simple list of image embeds into a responsive, portfolio-style photo gallery using a single code block. Reorder images by drag-and-drop, edit captions and section names inline, choose Masonry or uniform Grid layouts, and keep everything local with no network requests or telemetry."
+
+    stats: {
+        downloads:  104
+        updated_at: 1784921156000
+    }
 }
 ```
 

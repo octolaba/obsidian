@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/agentfiles
 alt:
   - https://github.com/railly/agentfiles
-downloads: 6001
-updated at: "2026-07-23T04:56:54Z"
+downloads: 6613
+updated at: "2026-07-24T18:17:41Z"
 related to:
   - "[[GitHub - 1194517182]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage AI skills, commands, and agents from 13+ tools (Claude Code, Cursor, Codex, Windsurf and more) in Obsidian. Browse and deep-search skills and file contents, create new skills with a stepped wizard, edit inline with Markdown preview, install marketplace skills, and export conversations and analytics."
 
     stats: {
-        downloads:  6001
-        updated_at: 1784782614000
+        downloads:  6613
+        updated_at: 1784917061000
     }
 }
 ```

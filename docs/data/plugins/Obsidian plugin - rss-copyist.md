@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rss-copyist
 alt:
   - https://github.com/aoout/obsidian-rss-copyist
-downloads: 2972
+downloads: 2995
 updated at: "2024-02-23T15:09:57Z"
 related to:
   - "[[GitHub - 670158570]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Collect updated RSS articles into per-feed folders and save each entry as a templated Markdown note using a shared template.md. Tag a note as a feed and fetch the newest items from all feeds to populate folders with formatted articles."
 
     stats: {
-        downloads:  2972
+        downloads:  2995
         updated_at: 1708700997000
     }
 }

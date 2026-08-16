@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/latex-autocomplete-customizable
 alt:
   - https://github.com/aiksxd/latex-autocomplete
-downloads: 115
+downloads: 125
 updated at: "2025-12-05T06:03:09Z"
 related to:
   - "[[GitHub - 1023526288]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Build a personalized autocomplete library for LaTeX formulas. Trigger suggestions while editing inline ($...$) or display ($$...$$) math and insert custom completions to speed up equation entry."
 
     stats: {
-        downloads:  115
+        downloads:  125
         updated_at: 1764914589000
     }
 }

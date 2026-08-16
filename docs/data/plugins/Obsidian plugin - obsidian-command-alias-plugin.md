@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-command-alias-plugin
 alt:
   - https://github.com/yajamon/obsidian-command-alias-plugin
-downloads: 6810
+downloads: 6830
 updated at: "2024-06-13T15:11:19Z"
 related to:
   - "[[GitHub - 398570663]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Assign aliases to any Obsidian command to shorten or translate command names. Search the command palette with aliases to quickly find and run commands. Edit or remove aliases from settings as needed."
 
     stats: {
-        downloads:  6810
+        downloads:  6830
         updated_at: 1718291479000
     }
 }

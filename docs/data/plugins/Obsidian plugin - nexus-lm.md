@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nexus-lm
 alt:
   - https://github.com/anshusrathe/nexus-lm
-downloads: 250
+downloads: 311
 updated at: "2026-07-01T16:38:12Z"
 related to:
   - "[[GitHub - 1260731423]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with your notes and turn your vault into a conversational AI workspace using 100+ local or cloud models. Generate interactive study tools, run code, manage RSS feeds, and perform fast semantic search from the Nexus-LM Hub."
 
     stats: {
-        downloads:  250
+        downloads:  311
         updated_at: 1782923892000
     }
 }

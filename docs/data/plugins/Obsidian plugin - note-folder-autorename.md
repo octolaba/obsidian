@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-folder-autorename
 alt:
   - https://github.com/pjeby/note-folder-autorename
-downloads: 13721
+downloads: 13890
 updated at: "2022-01-21T08:04:18Z"
 related to:
   - "[[GitHub - 335475050]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Make a note a folder note by creating a folder with the same name and moving the note inside it. Keeps the folder synced with the note so renames or moves of the note also rename or move the folder and update relative or absolute links."
 
     stats: {
-        downloads:  13721
+        downloads:  13890
         updated_at: 1642752258000
     }
 }

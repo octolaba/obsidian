@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-password
 alt:
   - https://github.com/shadiestgoat/obsidian-simple-password
-downloads: 2195
+downloads: 2326
 updated at: "2026-01-31T17:06:33Z"
 related to:
   - "[[GitHub - 965325529]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Lock your vault with a password and restrict access to selected paths. Use blur or close privacy modes, auto-lock after inactivity, and block previews, embeds, search and optional graph view; note that it does not encrypt files."
 
     stats: {
-        downloads:  2195
+        downloads:  2326
         updated_at: 1769879193000
     }
 }

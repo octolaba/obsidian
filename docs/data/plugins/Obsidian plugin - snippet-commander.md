@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/snippet-commander
 alt:
   - https://github.com/memineoff/snippet-commander
-downloads: 156
+downloads: 181
 updated at: "2026-05-19T08:30:21Z"
 related to:
   - "[[GitHub - 1243287395]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle CSS snippets instantly from the command palette without opening Settings. Select and toggle multiple snippets at once and apply changes immediately with no reload or restart required."
 
     stats: {
-        downloads:  156
+        downloads:  181
         updated_at: 1779179421000
     }
 }

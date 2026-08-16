@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/music-search
 alt:
   - https://github.com/gfontenot/obsidian-music-search
-downloads: 292
+downloads: 339
 updated at: "2026-06-05T19:37:25Z"
 related to:
   - "[[GitHub - 1212593758]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search the MusicBrainz database for albums, EPs, singles, or releases and fetch rich metadata — genres, tracklist, release date, cover art, and MusicBrainz/Discogs/Wikipedia links. Create structured notes with template variables or a full template file and optionally download cover art into your vault."
 
     stats: {
-        downloads:  292
+        downloads:  339
         updated_at: 1780688245000
     }
 }

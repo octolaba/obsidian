@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/material-symbols
 alt:
   - https://github.com/cberane/obsidian-material-symbols
-downloads: 4771
+downloads: 4802
 updated at: "2026-02-26T19:57:09Z"
 related to:
   - "[[GitHub - 597516996]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert Google's Material Symbols (outlined) as inline HTML spans into notes. Add symbols via commands that insert <span class=\"mso\"></span> or a single-quoted <span class='mso'></span>, then type the icon name to render. Apply weight and grade classes (e.g. weight400, grade200) to adjust appearance."
 
     stats: {
-        downloads:  4771
+        downloads:  4802
         updated_at: 1772135829000
     }
 }

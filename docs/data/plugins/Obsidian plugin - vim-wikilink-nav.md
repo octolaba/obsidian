@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vim-wikilink-nav
 alt:
   - https://github.com/noxx/vim-wikilink-nav
-downloads: 100
+downloads: 105
 updated at: "2025-10-29T03:32:21Z"
 related to:
   - "[[GitHub - 1085418853]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Navigate inline wikilink suggestion popups ([[...]]) with Vim-style Ctrl+N/Ctrl+P and accept selections with Enter or Ctrl+Enter. Block global hotkeys while the popup is open and maintain a tiny, Vim-safe footprint for desktop use."
 
     stats: {
-        downloads:  100
+        downloads:  105
         updated_at: 1761708741000
     }
 }

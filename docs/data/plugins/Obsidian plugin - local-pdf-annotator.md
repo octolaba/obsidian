@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/local-pdf-annotator
 alt:
   - https://github.com/alexandert142/Alex-annotator
-downloads: 726
-updated at: "2026-07-17T07:38:08Z"
+downloads: 1258
+updated at: "2026-08-07T11:23:31Z"
 related to:
   - "[[GitHub - 1262476712]]"
 remind me:
@@ -28,7 +28,7 @@ Reads PDFs inside Obsidian through an integrated pdf.js viewer, with highlighted
 plugin: {
     id:     "local-pdf-annotator"
     name:   "PDF Annotator"
-    author: "Tianchen Hao"
+    author: "Alexander Tian"
     repo:   "alexandert142/Alex-annotator"
 
     html_url:    "https://community.obsidian.md/plugins/local-pdf-annotator"
@@ -37,8 +37,8 @@ plugin: {
     about:       "Read PDFs inside Obsidian with an integrated pdf.js viewer. Save searchable highlights and margin notes into a local Markdown sidecar beside each PDF, keeping the original file unchanged. View and search annotations, add page tags, and move margin cards between margins."
 
     stats: {
-        downloads:  726
-        updated_at: 1784273888000
+        downloads:  1258
+        updated_at: 1786101811000
     }
 }
 ```

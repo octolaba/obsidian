@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gallery-view-dashboard
 alt:
   - https://github.com/kawecz/gallery-view
-downloads: 934
+downloads: 1292
 updated at: "2026-07-10T22:32:08Z"
 related to:
   - "[[GitHub - 1251799824]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform your vault folders into a visual, navigable dashboard with custom banners and hierarchical navigation. Display file metadata on library cards, toggle task checkboxes directly from the gallery, and browse files and subfolders with live updates and smart folder suggestions."
 
     stats: {
-        downloads:  934
+        downloads:  1292
         updated_at: 1783722728000
     }
 }

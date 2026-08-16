@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wechatreading-highlights
 alt:
   - https://github.com/ezdever/obsidian-wechatreading-highlights-sync
-downloads: 108
+downloads: 163
 updated at: "2026-07-22T06:34:32Z"
 related to:
   - "[[GitHub - 1266357629]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync WeChat Reading shelf, highlights, notes, reviews, reading progress and stats into local Markdown notes. Generate a summary page grouped by reading status and individual book notes organized into category folders, download covers into a local assets folder, and preserve handwritten content between %% keep-me %% markers. Perform incremental or full re-sync and write synchronization logs for auditing."
 
     stats: {
-        downloads:  108
+        downloads:  163
         updated_at: 1784702072000
     }
 }

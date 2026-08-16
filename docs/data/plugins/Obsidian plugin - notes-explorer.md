@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notes-explorer
 alt:
   - https://github.com/tu2-atmanand/obsidian-notes-explorer
-downloads: 28442
+downloads: 29101
 updated at: "2025-11-04T13:48:57Z"
 related to:
   - "[[GitHub - 892479126]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Explore your vault as visual note cards in masonry or fixed-height grid layouts for faster navigation and revision. Filter, sort and search with saved queries, folder/tag filters and linkable filtered views; apply tag-based card colors and use mobile-optimized UI."
 
     stats: {
-        downloads:  28442
+        downloads:  29101
         updated_at: 1762264137000
     }
 }

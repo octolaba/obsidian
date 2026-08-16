@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/webdav-image-uploader
 alt:
   - https://github.com/koishiiko/obsidian-webdav-image-uploader
-downloads: 1073
+downloads: 1257
 updated at: "2026-06-13T01:31:07Z"
 related to:
   - "[[GitHub - 999970460]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload images to a WebDAV server automatically when pasting or dragging into notes and insert Markdown preview links. Manage files with right-click actions and batch commands to download, delete, rename, or sync images between your vault and the server."
 
     stats: {
-        downloads:  1073
+        downloads:  1257
         updated_at: 1781314267000
     }
 }

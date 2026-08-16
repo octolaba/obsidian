@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-anki-sync
 alt:
   - https://github.com/lukmay/simple-anki-sync
-downloads: 1078
+downloads: 1165
 updated at: "2026-05-25T18:56:14Z"
 related to:
   - "[[GitHub - 981782323]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync notes to Anki using a minimal Markdown-table format that creates Basic cards. Push the current file or entire vault with a single command; requires Anki running with the AnkiConnect add-on."
 
     stats: {
-        downloads:  1078
+        downloads:  1165
         updated_at: 1779735374000
     }
 }

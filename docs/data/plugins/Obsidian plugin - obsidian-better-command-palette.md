@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-better-command-palette
 alt:
   - https://github.com/alexbieg/obsidian-better-command-palette
-downloads: 39669
+downloads: 40841
 updated at: "2023-09-26T19:54:48Z"
 related to:
   - "[[GitHub - 451225266]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a more user-friendly command palette that searches commands, files, and tags from a single input and bubbles recent or pinned choices to the top. Type / to quick-switch files or # to filter by tags, open or create files, run macros, and hide less-useful commands, files, or tags for a cleaner list."
 
     stats: {
-        downloads:  39669
+        downloads:  40841
         updated_at: 1695758088000
     }
 }

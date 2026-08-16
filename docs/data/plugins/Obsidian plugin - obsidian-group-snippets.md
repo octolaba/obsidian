@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-group-snippets
 alt:
   - https://github.com/mara-li/obsidian-group-snippets
-downloads: 5693
+downloads: 5705
 updated at: "2024-05-26T07:29:38Z"
 related to:
   - "[[GitHub - 520772365]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize CSS snippets into named groups and toggle entire groups with a single click or command. Link groups to themes and light/dark schemes to auto-enable matching snippets when switching themes or devices (phone/tablet/desktop)."
 
     stats: {
-        downloads:  5693
+        downloads:  5705
         updated_at: 1716708578000
     }
 }

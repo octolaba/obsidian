@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/time-inserter
 alt:
   - https://github.com/heycalmdown/obsidian-time-inserter
-downloads: 397
+downloads: 414
 updated at: "2025-10-17T01:49:52Z"
 related to:
   - "[[GitHub - 1033628716]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert the current time rounded to the nearest 5 minutes in zero-padded 24-hour HH:MM format. Keep Obsidian fast with an ultra-lightweight, zero-dependency plugin that runs only when invoked for instant, no-delay insertion."
 
     stats: {
-        downloads:  397
+        downloads:  414
         updated_at: 1760665792000
     }
 }

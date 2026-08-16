@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hangarx
 alt:
   - https://github.com/3-elements-design/hangarx-obsidian
-downloads: 319
+downloads: 356
 updated at: "2026-06-04T22:45:41Z"
 related to:
   - "[[GitHub - 1226083729]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "HangarX turns your Obsidian vault into shared memory that every AI agent on your machine can query. Instead of re-explaining your projects to Claude, then to Cursor, then to Claude Code, your notes become a queryable knowledge graph — with entities, relationships, and citations — exposed through the Model Context Protocol (MCP). Agents can ask questions grounded in your vault, surface related notes, and write new findings back to the graph. Run it hosted (sign in with HangarX, zero setup) or fully local (Docker + BYOK for OpenAI, Anthropic, Google, Mistral, Cohere, Groq, Together AI, or Ollama). The plugin ships with: a chat panel that cites the vault notes behind every answer, one-modal two-way sync between vault and graph, live entity highlighting on Obsidian's native graph view, inline wikilink suggestions powered by graph matching, and one-click MCP setup for Claude Desktop, Cursor, Cline, Windsurf, and Claude Code."
 
     stats: {
-        downloads:  319
+        downloads:  356
         updated_at: 1780613141000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simsapa
 alt:
   - https://github.com/simsapa/simsapa-obsidian
-downloads: 1000
+downloads: 1008
 updated at: "2024-03-09T17:06:43Z"
 related to:
   - "[[GitHub - 769167170]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run Simsapa Dhamma Reader in the background to enable in-Obsidian Pāli lookups. Open the Simsapa sidebar to search Pāli dictionaries and suttas, or double-click a Pāli word in a note to display dictionary results with Pāli accents in the sidebar or Simsapa Word Lookup window."
 
     stats: {
-        downloads:  1000
+        downloads:  1008
         updated_at: 1710004003000
     }
 }

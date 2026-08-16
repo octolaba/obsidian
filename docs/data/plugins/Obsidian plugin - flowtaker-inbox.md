@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/flowtaker-inbox
 alt:
   - https://github.com/reit5667/obsidian-flowtaker-inbox
-downloads: 25
+downloads: 42
 updated at: "2026-07-21T10:54:02Z"
 related to:
   - "[[GitHub - 1240554949]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run a Telegram bot inside Obsidian (no external server) to send messages to your vault as local Markdown notes. Save #tags as YAML frontmatter, record forwarded sources, route #todo tasks to sprint or backlog, and transcribe voice messages via Groq Whisper."
 
     stats: {
-        downloads:  25
+        downloads:  42
         updated_at: 1784631242000
     }
 }

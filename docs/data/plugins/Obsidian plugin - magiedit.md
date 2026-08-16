@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/magiedit
 alt:
   - https://github.com/magitools/magiedit-obsidian
-downloads: 166
+downloads: 172
 updated at: "2024-12-01T08:14:29Z"
 related to:
   - "[[GitHub - 876612823]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish the current file to Magiedit by choosing from your configured publishers. Send the open file's content to Magiedit's API as a POST request for immediate publication."
 
     stats: {
-        downloads:  166
+        downloads:  172
         updated_at: 1733040869000
     }
 }

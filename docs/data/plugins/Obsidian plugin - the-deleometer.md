@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/the-deleometer
 alt:
   - https://github.com/michellegdyason/The_Obsidian_Deleometer_v2
-downloads: 139
+downloads: 185
 updated at: "2026-07-21T07:44:52Z"
 related to:
   - "[[GitHub - 1193750359]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Compose journal entries and generate multi-perspective AI analyses for each entry. Continue live AI chats from any analysis perspective, save conversations back into the original note, convert suggestions into editable goals, and track progress with an emotional-intelligence dashboard plus optional Full Calendar sync."
 
     stats: {
-        downloads:  139
+        downloads:  185
         updated_at: 1784619892000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/chartdown
 alt:
   - https://github.com/nossimonov/obsidian-chartdown
-downloads: 43
-updated at: "2026-07-23T00:36:33Z"
+downloads: 191
+updated at: "2026-08-08T21:14:38Z"
 related to:
   - "[[GitHub - 1308182288]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Write TTRPG maps as plain text in Markdown using Chartdown syntax and render chartdown fences in-place, entirely on your machine. Export SVG or .dd2vtt for VTT import; create multi-level battlemaps with lighting, sight, themes, and GM-only hidden tokens."
 
     stats: {
-        downloads:  43
-        updated_at: 1784766993000
+        downloads:  191
+        updated_at: 1786223678000
     }
 }
 ```

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/emrald
 alt:
   - https://github.com/admiral9k/emrald-obsidian
-downloads: 138
-updated at: "2026-05-19T20:17:02Z"
+downloads: 163
+updated at: "2026-08-08T17:04:33Z"
 related to:
   - "[[GitHub - 1232309582]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Track focused work sessions with effort-aware timing, capture quick post-session receipts tied to your notes and projects. Record daily energy check-ins, monitor patterns in effort, flow, recovery, & burnout risk over time, & surface sustained-effort signals before they become problems. All data stays tied to your vault: EMRALD never reads or indexes your note content."
 
     stats: {
-        downloads:  138
-        updated_at: 1779221822000
+        downloads:  163
+        updated_at: 1786208673000
     }
 }
 ```

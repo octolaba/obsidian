@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-static-file-server
 alt:
   - https://github.com/elias-sundqvist/obsidian-static-file-server
-downloads: 4917
+downloads: 4978
 updated at: "2021-06-08T19:44:20Z"
 related to:
   - "[[GitHub - 368312267]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Host a vault subfolder as a local static file server on a chosen port to serve HTML, CSS, JS and other files. Display served pages in iframes, bypass CORS for embedded sites, and access vault files from other apps via HTTP."
 
     stats: {
-        downloads:  4917
+        downloads:  4978
         updated_at: 1623181460000
     }
 }

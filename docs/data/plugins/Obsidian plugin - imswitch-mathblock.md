@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/imswitch-mathblock
 alt:
   - https://github.com/cailurus/imswitch_mathblock_obsidian
-downloads: 390
+downloads: 413
 updated at: "2025-03-27T16:09:50Z"
 related to:
   - "[[GitHub - 933091190]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Switch input methods when the cursor enters or leaves inline math delimited by $: force English input inside formulas and restore the previous IME on exit. Detect math areas automatically and let you customize the IME switch commands (works with macism on macOS or any CLI IME switcher)."
 
     stats: {
-        downloads:  390
+        downloads:  413
         updated_at: 1743091790000
     }
 }

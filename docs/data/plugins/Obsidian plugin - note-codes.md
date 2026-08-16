@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-codes
 alt:
   - https://github.com/silverezhik/obsidian-note-codes
-downloads: 1431
+downloads: 1441
 updated at: "2025-08-28T00:01:42Z"
 related to:
   - "[[GitHub - 1018815062]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Assign 4-character codes to every note for quick cross-references from other notes or handwritten references. Display codes in the status bar and metadata pane, click to open the note-code search or copy the code/URL, and open notes via obsidian://note-codes/open?code=XX-XX; codes derive from each note's path and update on rename with ambiguous letters handled."
 
     stats: {
-        downloads:  1431
+        downloads:  1441
         updated_at: 1756339302000
     }
 }

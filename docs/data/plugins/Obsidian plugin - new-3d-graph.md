@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/new-3d-graph
 alt:
   - https://github.com/apoo711/obsidian-3d-graph
-downloads: 16506
-updated at: "2026-06-29T12:18:00Z"
+downloads: 18530
+updated at: "2026-08-07T06:28:36Z"
 related to:
   - "[[GitHub - 984576587]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Explore your vault with a customizable 3D force-directed graph that lets you pan, zoom, and rotate a live canvas. Customize node shapes, sizes, and colors, tweak physics in real time, filter and color-code with path:, tag:, and file: queries, and click nodes to focus or open files."
 
     stats: {
-        downloads:  16506
-        updated_at: 1782735480000
+        downloads:  18530
+        updated_at: 1786084116000
     }
 }
 ```

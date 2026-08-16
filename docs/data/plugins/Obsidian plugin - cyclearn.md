@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cyclearn
 alt:
   - https://github.com/noahboos/obsidian-cyclearn
-downloads: 558
+downloads: 578
 updated at: "2025-11-05T21:54:49Z"
 related to:
   - "[[GitHub - 1036648865]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create flashcards and organize study material into decks, tags, and templates directly in your vault. Review cards inside Obsidian with personalized revision sessions that adapt to your pace and learning style."
 
     stats: {
-        downloads:  558
+        downloads:  578
         updated_at: 1762379689000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/git-url
 alt:
   - https://github.com/khuongduy354/obsidian-git-url
-downloads: 3932
+downloads: 3940
 updated at: "2024-04-08T04:24:16Z"
 related to:
   - "[[GitHub - 661330039]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy file URLs that point to your repository or custom cloud storage to open notes directly in a browser. Copy note content with embedded image and attachment links rewritten to public remote URLs so markdown renders on external sites. Use GitLab or provide a custom remote base URL."
 
     stats: {
-        downloads:  3932
+        downloads:  3940
         updated_at: 1712550256000
     }
 }

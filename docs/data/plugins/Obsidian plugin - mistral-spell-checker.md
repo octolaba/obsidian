@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mistral-spell-checker
 alt:
   - https://github.com/saintbyte/obsidian_mistal_spell_checker
-downloads: 64
+downloads: 76
 updated at: "2026-06-29T13:35:23Z"
 related to:
   - "[[GitHub - 1283950886]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Check and correct spelling and grammar in selected text using Mistral AI via the editor context menu or command palette. Pick a Mistral model, set a custom system prompt, switch the interface between Russian and English, and verify your API key."
 
     stats: {
-        downloads:  64
+        downloads:  76
         updated_at: 1782740123000
     }
 }

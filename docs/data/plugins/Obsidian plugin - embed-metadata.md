@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/embed-metadata
 alt:
   - https://github.com/schemen/embed-metadata
-downloads: 2118
-updated at: "2026-06-28T18:40:19Z"
+downloads: 2345
+updated at: "2026-08-02T18:58:41Z"
 related to:
   - "[[GitHub - 1125239221]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render frontmatter metadata inline using [%key] or {{key}} markers. Replace markers in reading view and live preview while preserving source mode, ignore inline code and code blocks, leave markers unchanged if keys are missing, and offer built-in file metadata keys like filename, path, ctime and mtime."
 
     stats: {
-        downloads:  2118
-        updated_at: 1782672019000
+        downloads:  2345
+        updated_at: 1785697121000
     }
 }
 ```

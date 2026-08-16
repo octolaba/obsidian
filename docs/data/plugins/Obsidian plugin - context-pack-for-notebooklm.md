@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/context-pack-for-notebooklm
 alt:
   - https://github.com/kojiman55/obsidian-context-pack
-downloads: 915
+downloads: 984
 updated at: "2026-06-18T05:28:30Z"
 related to:
   - "[[GitHub - 1245696073]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn your Obsidian vault into an AI-ready knowledge workspace. Generate AI Briefs, AI MOCs, Context Packs, Knowledge Books, and Notion Workspaces from your notes. Prepare knowledge for ChatGPT, Claude, Gemini, NotebookLM, Claude Code, and more."
 
     stats: {
-        downloads:  915
+        downloads:  984
         updated_at: 1781760510000
     }
 }

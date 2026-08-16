@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/extract-url
 alt:
   - https://github.com/trashhalo/obsidian-extract-url
-downloads: 35089
+downloads: 35380
 updated at: "2022-05-31T13:52:29Z"
 related to:
   - "[[GitHub - 347690367]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert a URL into readable Markdown by replacing a selected link, a frontmatter-specified link in a note, or all links in a note (archive mode). Create archived markdown files, replace external links with internal copies, insert title-only anchors, or extract extra YouTube metadata when youtube-dl is available."
 
     stats: {
-        downloads:  35089
+        downloads:  35380
         updated_at: 1654005149000
     }
 }

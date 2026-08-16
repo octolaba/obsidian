@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-share-image-exporter
 alt:
   - https://github.com/chuyuan-li/note-image-exporter
-downloads: 497
+downloads: 642
 updated at: "2026-05-25T07:51:29Z"
 related to:
   - "[[GitHub - 1236291271]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export notes, selections, or folders as PNG, JPG, WebP, or PDF while preserving Obsidian rendering for Mermaid, math, code blocks, callouts, metadata, and theme styling. Preview and tweak layout, resolution, and pagination, add visible or invisible watermarks and author info, then copy or save the result."
 
     stats: {
-        downloads:  497
+        downloads:  642
         updated_at: 1779695489000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-heading-shifter
 alt:
   - https://github.com/k4a-l/obsidian-heading-shifter
-downloads: 35396
+downloads: 37411
 updated at: "2026-07-23T01:51:34Z"
 related to:
   - "[[GitHub - 520437245]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Shift Markdown heading levels in bulk across selected lines or whole notes. Apply exact levels (no heading or H1–H6) or increase/decrease multiple headings at once, with optional Tab/Shift-Tab behavior for quick edits."
 
     stats: {
-        downloads:  35396
+        downloads:  37411
         updated_at: 1784771494000
     }
 }

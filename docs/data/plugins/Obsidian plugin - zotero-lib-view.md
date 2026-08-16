@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zotero-lib-view
 alt:
   - https://github.com/lebenswille/zotero-lib-view
-downloads: 1325
+downloads: 1712
 updated at: "2026-05-20T21:09:48Z"
 related to:
   - "[[GitHub - 1193030818]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse and manage your Zotero library inside Obsidian with a dedicated table-style Library View that reads Better BibTeX JSON. Open or create literature notes from citation keys, sync automatically when the JSON updates, and pin the view as a tab or sidebar."
 
     stats: {
-        downloads:  1325
+        downloads:  1712
         updated_at: 1779311388000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rosypilot
 alt:
   - https://github.com/zh-xx/rosypilot
-downloads: 254
+downloads: 270
 updated at: "2026-05-21T09:32:10Z"
 related to:
   - "[[GitHub - 1211484079]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Provide context-aware AI inline completions for Chinese legal documents directly in Obsidian. Detect Markdown context (heading, paragraph, list, block-quote, code, math) to tailor prompts and display ghost-text suggestions; switch providers and models like DeepSeek and Volcengine."
 
     stats: {
-        downloads:  254
+        downloads:  270
         updated_at: 1779355930000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/typing-interface-hider
 alt:
   - https://github.com/sergeybychkovvvpgroup-beep/typing-interface-hider
-downloads: 51
+downloads: 72
 updated at: "2026-07-08T12:25:37Z"
 related to:
   - "[[GitHub - 1292601229]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide selected parts of Obsidian's interface while you type to create a lightweight focus/zen typing mode without changing your note layout. Restore the UI on mouse movement, click, scroll, or window blur — or use an optional idle delay or mouse-only restore — and pick which areas to hide (sidebars, ribbon, headers, status bar, title bar, scrollbars)."
 
     stats: {
-        downloads:  51
+        downloads:  72
         updated_at: 1783513537000
     }
 }

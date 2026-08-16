@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hidden-folder-obsidian
 alt:
   - https://github.com/ptrsvltns/hidden-folder-obsidian
-downloads: 10947
+downloads: 11101
 updated at: "2022-12-14T15:06:37Z"
 related to:
   - "[[GitHub - 566299149]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide folders in the file explorer using regular expressions to match folder names. Toggle hiding with a ribbon icon and set regex rules to target folders to hide."
 
     stats: {
-        downloads:  10947
+        downloads:  11101
         updated_at: 1671030397000
     }
 }

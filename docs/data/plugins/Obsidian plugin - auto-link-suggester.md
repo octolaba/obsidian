@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-link-suggester
 alt:
   - https://github.com/hornatx/auto-link-suggester
-downloads: 176
+downloads: 232
 updated at: "2026-06-08T01:02:28Z"
 related to:
   - "[[GitHub - 1258858130]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Suggest native double-bracket link completions as you type by indexing only chosen folders and using debounced, cache-aware scanning to keep searches fast and lightweight. Support single-character triggers for CJK, two-character threshold for ASCII, prefix or fuzzy matching, and generate links using Obsidian's path rules while capping suggestions to reduce CPU and UI load."
 
     stats: {
-        downloads:  176
+        downloads:  232
         updated_at: 1780880548000
     }
 }

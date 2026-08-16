@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ochat
 alt:
   - https://github.com/raniendu/OChat
-downloads: 132
+downloads: 210
 updated at: "2026-06-14T03:06:15Z"
 related to:
   - "[[GitHub - 1268868059]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with local models from a right sidebar using the active note, selected text, @note attachments, and ranked vault snippets as context. Connect to Ollama or OpenAI-compatible local servers, pick models, render Markdown replies, propose Markdown edits with review mode, and test endpoints with visible success/warning/failure states."
 
     stats: {
-        downloads:  132
+        downloads:  210
         updated_at: 1781406375000
     }
 }

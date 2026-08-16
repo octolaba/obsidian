@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-quote
 alt:
   - https://github.com/junjieim/better-quote
-downloads: 150
+downloads: 171
 updated at: "2026-03-16T03:50:18Z"
 related to:
   - "[[GitHub - 1182865650]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mirror any line or block across notes using native Obsidian block embeds to keep one editable source of truth. Assign block IDs automatically, search blocks vault-wide with fuzzy relevance, and insert or append embeds into target files for consistent, synced reuse."
 
     stats: {
-        downloads:  150
+        downloads:  171
         updated_at: 1773633018000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/literature-review-synthesizer
 alt:
   - https://github.com/ibrh96-prog/literature-review-synthesizer
-downloads: 156
-updated at: "2026-06-28T22:39:11Z"
+downloads: 307
+updated at: "2026-07-26T15:19:46Z"
 related to:
   - "[[GitHub - 1251565542]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Synthesize your academic reading notes into structured literature review outputs with your chosen LLM and local API key. Produce thematic syntheses, methodological comparison matrices, research-gap analyses, and citation-ready draft sections saved as new notes with frontmatter and backlinks while keeping data local."
 
     stats: {
-        downloads:  156
-        updated_at: 1782686351000
+        downloads:  307
+        updated_at: 1785079186000
     }
 }
 ```

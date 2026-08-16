@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/rainbow-header-coloring
 alt:
   - https://github.com/albertoos/obsidian-rainbow-header-coloring-plugin
-downloads:
-updated at:
+downloads: 163
+updated at: "2026-07-27T16:20:22Z"
 related to:
   - "[[GitHub - 1245819852]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/albertoos/obsidian-rainbow-header-coloring-plugin"
     description: "Color markdown headers (H1-H6) with customizable palettes. Supports colormap cycling and per-level user-defined colors. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Color markdown headers (H1–H6) in editor and reading view with customizable font and background colors. Choose automatic colormap palettes (HSV, cool, warm, greyscale) or set per-level font/background colors with optional bold/italic; colors apply in Live Preview, Source, and Reading views. Use a lightweight built-in color generator with no external dependencies."
+
+    stats: {
+        downloads:  163
+        updated_at: 1785169222000
+    }
 }
 ```
 

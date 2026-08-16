@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/privacy-screen
 alt:
   - https://github.com/chanhee-lee/obsidian-privacy-screen
-downloads: 199
-updated at: "2025-12-17T13:37:08Z"
+downloads: 269
+updated at: "2026-08-04T06:10:00Z"
 related to:
   - "[[GitHub - 1114895977]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Blur your Obsidian workspace while keeping a clear spotlight around the cursor for privacy in public spaces. Choose circle or square spotlights, adjust size, horizontal offset, tracking mode, blur intensity, and preserve the active state across sessions."
 
     stats: {
-        downloads:  199
-        updated_at: 1765978628000
+        downloads:  269
+        updated_at: 1785823800000
     }
 }
 ```

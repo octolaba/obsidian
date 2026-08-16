@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/multiple-daily-notes
 alt:
   - https://github.com/vaibzzz123/multiple-daily-notes
-downloads: 745
+downloads: 769
 updated at: "2025-03-20T00:10:24Z"
 related to:
   - "[[GitHub - 857106690]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create multiple daily notes for the same date to separate logs, projects, or contexts. Set templates, filenames, and target folders to keep each daily note organized and easy to find."
 
     stats: {
-        downloads:  745
+        downloads:  769
         updated_at: 1742429424000
     }
 }

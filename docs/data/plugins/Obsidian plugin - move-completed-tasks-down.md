@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/move-completed-tasks-down
 alt:
   - https://github.com/optimummost001/move-completed-tasks-down
-downloads: 147
+downloads: 159
 updated at: "2026-03-18T18:28:42Z"
 related to:
   - "[[GitHub - 1184710778]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move completed tasks to the end of their sibling list five seconds after checking them, carrying any nested sub-items with the task. Cancel the pending move by unchecking before the timer; keep incomplete items, code-block tasks, and sibling-level order intact across Source, Live Preview, Reading, and mobile."
 
     stats: {
-        downloads:  147
+        downloads:  159
         updated_at: 1773858522000
     }
 }

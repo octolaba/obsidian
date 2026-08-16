@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-note-to-window-title
 alt:
   - https://github.com/jplattel/open-note-to-window-title
-downloads: 15768
+downloads: 16042
 updated at: "2022-05-23T17:54:34Z"
 related to:
   - "[[GitHub - 338442190]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add the current open note to the Obsidian window title to track activity and provide context when switching apps. Template the title with {{filename}}, {{filepath}}, {{vault}}, {{workspace}} or frontmatter keys to show file- or project-specific labels."
 
     stats: {
-        downloads:  15768
+        downloads:  16042
         updated_at: 1653328474000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/noteson-publish
 alt:
   - https://github.com/shapkinaa/noteson-obsidian-plugin
-downloads: 1344
+downloads: 1350
 updated at: "2025-11-24T13:29:11Z"
 related to:
   - "[[GitHub - 758618846]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export a selected note as an HTML page to the NotesOn.ru server and copy the public link to your clipboard for easy sharing. Remove a published note from the NotesOn server using the note's context menu."
 
     stats: {
-        downloads:  1344
+        downloads:  1350
         updated_at: 1763990951000
     }
 }

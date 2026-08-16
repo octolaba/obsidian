@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/vault-spotlight
 alt:
   - https://github.com/israerusan/obsidian-vault-spotlight
-downloads: 276
-updated at: "2026-07-20T19:53:13Z"
+downloads: 365
+updated at: "2026-07-25T17:28:07Z"
 related to:
   - "[[GitHub - 1281832027]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Launch a Spotlight-style, keyboard-first vault launcher to fuzzy-search filenames with recent-file boosting and show relative modified times. Filter by tags and frontmatter, and upgrade to Pro to add content search (prefix >), multi-select batch open, and save custom search commands."
 
     stats: {
-        downloads:  276
-        updated_at: 1784577193000
+        downloads:  365
+        updated_at: 1785000487000
     }
 }
 ```

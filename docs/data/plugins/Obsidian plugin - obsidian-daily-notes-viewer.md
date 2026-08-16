@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-daily-notes-viewer
 alt:
   - https://github.com/johnsonhong997/obsidian-daily-notes-viewer
-downloads: 18044
+downloads: 18121
 updated at: "2022-03-26T13:36:09Z"
 related to:
   - "[[GitHub - 469632161]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View recent daily notes on a single page for quick reference. Create a viewer file automatically and update it whenever you create daily notes or change settings."
 
     stats: {
-        downloads:  18044
+        downloads:  18121
         updated_at: 1648301769000
     }
 }

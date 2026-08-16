@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-theme-design-utilities
 alt:
   - https://github.com/chrisgrieser/obsidian-theme-design-utilities
-downloads: 19652
+downloads: 19960
 updated at: "2025-01-07T21:29:04Z"
 related to:
   - "[[GitHub - 434258398]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Enable mobile emulation, cycle Source/Live Preview/Reading modes, and switch through installed themes to speed theme iteration. Toggle light/dark, toggle devtools or freeze the UI for capturing transient elements, garble text for private screenshots, and access color cheatsheets and debugging overlays."
 
     stats: {
-        downloads:  19652
+        downloads:  19960
         updated_at: 1736285344000
     }
 }

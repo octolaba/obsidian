@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/ultra-search
 alt:
   - https://github.com/sinaaxe/ultra-search-plugin
-downloads: 760
-updated at: "2026-07-16T17:41:16Z"
+downloads: 1357
+updated at: "2026-07-25T21:29:54Z"
 related to:
   - "[[GitHub - 1261731800]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "UltraSearch is a high-performance community Obsidian plugin that lets you search and rank both file names and individual line contents across all Markdown files in your vault. It also features a powerful Gemini-based AI search to answer complex questions based on your vault's content."
 
     stats: {
-        downloads:  760
-        updated_at: 1784223676000
+        downloads:  1357
+        updated_at: 1785014994000
     }
 }
 ```

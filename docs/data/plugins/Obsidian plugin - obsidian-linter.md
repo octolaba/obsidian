@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-linter
 alt:
   - https://github.com/platers/obsidian-linter
-downloads: 992048
+downloads: 1015984
 updated at: "2026-07-20T23:30:50Z"
 related to:
   - "[[GitHub - 392124023]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format and style Markdown notes with a configurable, extensible rule set covering YAML, headings, footnotes, lists, spacing, and common content fixes. Toggle and configure individual rules to enforce consistent structure and automate cleanup across your vault."
 
     stats: {
-        downloads:  992048
+        downloads:  1015984
         updated_at: 1784590250000
     }
 }

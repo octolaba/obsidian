@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/knowlery
 alt:
   - https://github.com/jayjiangct/knowlery
-downloads: 567
-updated at: "2026-07-21T05:52:41Z"
+downloads: 666
+updated at: "2026-07-29T06:53:32Z"
 related to:
   - "[[GitHub - 1212255232]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Turn your Obsidian vault into an LLM wiki for Claude Code and OpenCode workflows with KNOWLEDGE.md, SCHEMA.md, entity pages, and structured layouts. Keep bundled skills and SCHEMA.md auto-synced, review the current note, generate weekly atlases, and run vault health diagnostics."
 
     stats: {
-        downloads:  567
-        updated_at: 1784613161000
+        downloads:  666
+        updated_at: 1785308012000
     }
 }
 ```

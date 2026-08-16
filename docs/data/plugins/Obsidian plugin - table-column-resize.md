@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/table-column-resize
 alt:
   - https://github.com/lolieatapple/obsidian-table-column-resize
-downloads: 2660
+downloads: 3465
 updated at: "2026-05-09T06:04:11Z"
 related to:
   - "[[GitHub - 1211108020]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Resize table columns by dragging header borders to set custom widths. Persist column widths per note and restore them automatically across Reading View, Live Preview, and PDF export. Hover a header edge to reveal the drag handle and adjust columns interactively."
 
     stats: {
-        downloads:  2660
+        downloads:  3465
         updated_at: 1778306651000
     }
 }

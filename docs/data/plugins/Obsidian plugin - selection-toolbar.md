@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/selection-toolbar
 alt:
   - https://github.com/mockingjay1710/selection-toolbar
-downloads: 367
+downloads: 483
 updated at: "2026-06-07T12:29:32Z"
 related to:
   - "[[GitHub - 1261569153]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show a compact floating toolbar when selecting text in the Markdown editor. Format inline styles (bold, italic, underline, strikethrough, highlight, inline code, links), apply block formats (quotes, lists, code blocks, callouts), convert case, or extract the selection into a new note with a wikilink."
 
     stats: {
-        downloads:  367
+        downloads:  483
         updated_at: 1780835372000
     }
 }

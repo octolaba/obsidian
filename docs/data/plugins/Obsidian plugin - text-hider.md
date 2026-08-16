@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/text-hider
 alt:
   - https://github.com/unbrokenhunter/obsidian-text-hider-plugin
-downloads: 285
-updated at: "2026-01-29T04:50:56Z"
+downloads: 363
+updated at: "2026-07-25T23:00:10Z"
 related to:
   - "[[GitHub - 1144798071]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Hide note content while editing to prevent shoulder-surfing, without modifying files on disk or encrypting notes. Toggle multiple masking styles (invisible, blur, bullet-password), reveal the current word/letter or selections, and keep Markdown headers visible as needed."
 
     stats: {
-        downloads:  285
-        updated_at: 1769662256000
+        downloads:  363
+        updated_at: 1785020410000
     }
 }
 ```

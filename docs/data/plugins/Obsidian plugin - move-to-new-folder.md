@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/move-to-new-folder
 alt:
   - https://github.com/d0d1/obsidian-move-to-new-folder
-downloads: 436
+downloads: 479
 updated at: "2026-05-16T01:31:41Z"
 related to:
   - "[[GitHub - 1175231390]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move files or folders into a newly created subfolder without typing the full destination path. Pick a parent folder via a searchable picker and name the child folder; the plugin creates it and relocates the item while preserving Obsidian's link-update behavior. Use from the file explorer context menu or the command palette."
 
     stats: {
-        downloads:  436
+        downloads:  479
         updated_at: 1778895101000
     }
 }

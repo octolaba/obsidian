@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/replace-pencil
 alt:
   - https://github.com/penyt/replace-pencil
-downloads: 348
+downloads: 391
 updated at: "2026-05-30T16:16:33Z"
 related to:
   - "[[GitHub - 986939802]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Replace custom placeholders inside code blocks with live input fields in Reading view. Set a placeholder prefix, type to instantly update the code, copy the replaced result to clipboard, or reset all changes with the eraser button."
 
     stats: {
-        downloads:  348
+        downloads:  391
         updated_at: 1780157793000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/onedrive-bidirectional-sync
 alt:
   - https://github.com/naipi11/onedrive-bidirectional-sync
-downloads: 179
+downloads: 229
 updated at: "2026-06-15T16:58:59Z"
 related to:
   - "[[GitHub - 1270360541]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault bidirectionally with OneDrive via Microsoft Graph without the OneDrive client, running on Windows, macOS, Linux, iOS and Android. Use Files.ReadWrite.AppFolder to store vaults in OneDrive/Apps/<app>/vaults/<id>, detect changes with local snapshots, create \"local conflict\" copies on concurrent edits, and skip .obsidian by default."
 
     stats: {
-        downloads:  179
+        downloads:  229
         updated_at: 1781542739000
     }
 }

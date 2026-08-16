@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-open-tracker-plus
 alt:
   - https://github.com/srivadrevu/obsidian-note-open-tracker-plus
-downloads: 448
+downloads: 523
 updated at: "2026-03-05T00:33:00Z"
 related to:
   - "[[GitHub - 1173040535]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track note opens across desktop and mobile and optionally record append-only NDJSON events. Generate an analytics report with all-time opens, opens in the last 30/90/365 days, trending scores based on those windows, and most recently opened notes."
 
     stats: {
-        downloads:  448
+        downloads:  523
         updated_at: 1772670780000
     }
 }

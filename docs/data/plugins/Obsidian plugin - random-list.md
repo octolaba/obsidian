@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/random-list
 alt:
   - https://github.com/keymasterr/obsidian-random-list
-downloads: 98
+downloads: 126
 updated at: "2026-06-19T22:04:18Z"
 related to:
   - "[[GitHub - 1273280328]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert an inline {{rnd}} button in any note to pick a random item from the list in scope. Click to open a modal that selects a random entry (won't repeat the current pick), respects heading boundaries, and lets you mark checkbox items done/undone or include checked items in the pool."
 
     stats: {
-        downloads:  98
+        downloads:  126
         updated_at: 1781906658000
     }
 }

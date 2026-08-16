@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markdown-password
 alt:
   - https://github.com/hoyin258/markdown-password
-downloads: 271
+downloads: 288
 updated at: "2026-01-20T12:21:45Z"
 related to:
   - "[[GitHub - 1135593779]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed encrypted secrets directly in Markdown using [|vault:id|] placeholders, leaving only IDs in your .md files. Keep master and vault keys only in RAM while auto-encrypting typed secrets with AES-256-GCM and storing ciphertext in a local vault.json, revealing secrets in Obsidian only when authorized."
 
     stats: {
-        downloads:  271
+        downloads:  288
         updated_at: 1768911705000
     }
 }

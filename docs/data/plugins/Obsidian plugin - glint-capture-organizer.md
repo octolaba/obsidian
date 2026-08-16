@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/glint-capture-organizer
 alt:
   - https://github.com/cjpnice/obsidian-glint
-downloads: 100
+downloads: 120
 updated at: "2026-06-27T05:18:30Z"
 related to:
   - "[[GitHub - 1263703642]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Process .glintcapture.json files from the Shortcuts iCloud inbox and convert captures (selected text, current note, clipboard or URL) into clean Markdown notes with Obsidian-friendly YAML frontmatter. Generate title, category, tags, summary, key points and entities, store notes in category subfolders, and present an inbox view with pending/processed/failed status plus retry and reprocess controls."
 
     stats: {
-        downloads:  100
+        downloads:  120
         updated_at: 1782537510000
     }
 }

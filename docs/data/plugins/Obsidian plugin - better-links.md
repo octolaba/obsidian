@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-links
 alt:
   - https://github.com/moyf/better-links
-downloads: 5286
+downloads: 7219
 updated at: "2026-06-17T14:43:28Z"
 related to:
   - "[[GitHub - 1185925067]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit links from a compact popover in the Markdown editor for links. Open with Ctrl/Cmd+Click and run quick actions to open, copy in preferred format or copy URL/image filename, or delete; autocomplete vault files/headings, auto-update display text, and show the popover for collapsed links on iOS."
 
     stats: {
-        downloads:  5286
+        downloads:  7219
         updated_at: 1781707408000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-wrap-with-shortcuts
 alt:
   - https://github.com/manic/obsidian-wrap-with-shortcuts
-downloads: 12819
+downloads: 13158
 updated at: "2023-03-21T12:45:26Z"
 related to:
   - "[[GitHub - 442078938]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Wrap selected text with custom tag wrappers using keyboard shortcuts. Assign shortcuts to any wrapper for fast formatting; includes an underline wrapper preset on Ctrl+U / Cmd+U. Create and reuse multiple wrappers across notes."
 
     stats: {
-        downloads:  12819
+        downloads:  13158
         updated_at: 1679402726000
     }
 }

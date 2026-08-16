@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/come-down
 alt:
   - https://github.com/mntno/obsidian-come-down
-downloads: 1179
+downloads: 1218
 updated at: "2026-04-28T18:35:08Z"
 related to:
   - "[[GitHub - 942482302]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Download external images embedded in notes and cache them locally so images load offline or on synced copies of your vault. Keep note text unchanged and store cached files in the plugin folder so they sync with file-sync services but remain excluded from Git."
 
     stats: {
-        downloads:  1179
+        downloads:  1218
         updated_at: 1777401308000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/seamless-embeds
 alt:
   - https://github.com/5krus/obsidian-seamless-embeds
-downloads: 305
+downloads: 354
 updated at: "2026-05-27T05:38:46Z"
 related to:
   - "[[GitHub - 1250932381]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render embedded notes seamlessly inline with surrounding text so readers can't tell where one note ends and another begins. Remove borders, padding, titles, and link icons; preserve full-width dividers and support nested embeds in Reading and Live Preview."
 
     stats: {
-        downloads:  305
+        downloads:  354
         updated_at: 1779860326000
     }
 }

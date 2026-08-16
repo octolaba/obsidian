@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/life-timeline
 alt:
   - https://github.com/kellybrendan/obsidian-life-timeline
-downloads: 24
+downloads: 37
 updated at: "2026-07-19T13:49:00Z"
 related to:
   - "[[GitHub - 1305738411]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a JSON-based life timeline inside your vault and group events into colored eras with descriptions. Add events with start and optional end dates, edit eras and events inline from notes, reorder and collapse eras while keeping all data in a portable JSON file."
 
     stats: {
-        downloads:  24
+        downloads:  37
         updated_at: 1784468940000
     }
 }

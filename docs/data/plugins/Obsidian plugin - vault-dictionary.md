@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-dictionary
 alt:
   - https://github.com/tahayigitmelek/vault-dictionary
-downloads: 347
+downloads: 410
 updated at: "2026-06-30T17:58:56Z"
 related to:
   - "[[GitHub - 1173767561]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight and display definitions for matching words throughout your vault, visible in Live Preview and Reading Mode. Build and manage a personal dictionary by adding terms from selected text or the settings dashboard, with entries saved to .obsidian/vault-dictionary.json for easy editing and syncing."
 
     stats: {
-        downloads:  347
+        downloads:  410
         updated_at: 1782842336000
     }
 }

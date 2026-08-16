@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/native-property-operator
 alt:
   - https://github.com/jqml/native-property-operator
-downloads: 51
+downloads: 68
 updated at: "2026-07-18T12:29:04Z"
 related to:
   - "[[GitHub - 1300819082]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview and apply YAML frontmatter property operations across visible Markdown notes. Maintain a catalog of property names with native Obsidian types and create saved manual or automatic actions to add, remove, rename, or set property values while previewing changes before writing. Report changed, skipped, and failed counts with reasons and confirm multi-file or overwrite operations."
 
     stats: {
-        downloads:  51
+        downloads:  68
         updated_at: 1784377744000
     }
 }

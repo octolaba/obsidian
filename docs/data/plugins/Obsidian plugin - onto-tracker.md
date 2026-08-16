@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/onto-tracker
 alt:
   - https://github.com/jdchart/onto-tracker
-downloads: 460
+downloads: 467
 updated at: "2024-07-30T12:28:35Z"
 related to:
   - "[[GitHub - 832678745]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage projects with an ontology by tracking a source folder and categorizing files using user-defined rules. Create freezes to snapshot file metadata and notes, unpack ontologies into your vault, and map ontology metadata to files for tasks like CMS uploads."
 
     stats: {
-        downloads:  460
+        downloads:  467
         updated_at: 1722342515000
     }
 }

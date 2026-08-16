@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/paperflow
 alt:
   - https://github.com/quan-meng/paperflow
-downloads: 146
+downloads: 162
 updated at: "2026-05-29T15:59:59Z"
 related to:
   - "[[GitHub - 1223297337]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import arXiv papers by ID or URL to download PDFs and create Markdown paper notes. Generate concise AI summaries (idea, method, limitations, future work, key sentences) and add exact-match PDF++ highlights with configurable concepts and colors."
 
     stats: {
-        downloads:  146
+        downloads:  162
         updated_at: 1780070399000
     }
 }

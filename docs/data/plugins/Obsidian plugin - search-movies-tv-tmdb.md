@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/search-movies-tv-tmdb
 alt:
   - https://github.com/bernardonogueira8/search-movies-tv-tmdb
-downloads: 176
+downloads: 194
 updated at: "2026-05-19T18:30:22Z"
 related to:
   - "[[GitHub - 1242758386]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search movies and TV shows using the TMDB API directly from Obsidian. Display key metadata and summaries for quick reference."
 
     stats: {
-        downloads:  176
+        downloads:  194
         updated_at: 1779215422000
     }
 }

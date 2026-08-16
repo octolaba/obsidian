@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/writing-habit
 alt:
   - https://github.com/jedgrant/wh-obsidian
-downloads: 98
+downloads: 116
 updated at: "2026-05-30T01:37:35Z"
 related to:
   - "[[GitHub - 1247841875]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Details writing stats, sprints (solo or with friends), writing streaks, and leaderboards while you write in Obsidian, with stats synced to WritingHabit Leaderboards. View daily and lifetime word counts, run timed sprints, and build streaks from a persistent sidebar panel."
 
     stats: {
-        downloads:  98
+        downloads:  116
         updated_at: 1780105055000
     }
 }

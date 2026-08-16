@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/index-flow
 alt:
   - https://github.com/phongviez/obsidian-index-flow
-downloads: 128
+downloads: 145
 updated at: "2026-07-05T14:18:04Z"
 related to:
   - "[[GitHub - 1188408144]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Renumber Markdown files in a folder using zero-padded numeric prefixes, perform safe two-phase renaming to avoid collisions, and preview highlighted diffs before applying changes. Remove leading numeric prefixes, auto-resolve name conflicts, and undo the last batch for predictable reversions."
 
     stats: {
-        downloads:  128
+        downloads:  145
         updated_at: 1783261084000
     }
 }

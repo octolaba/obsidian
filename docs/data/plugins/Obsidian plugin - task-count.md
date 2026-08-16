@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/task-count
 alt:
   - https://github.com/anareaty/task-count
-downloads: 200
+downloads: 254
 updated at: "2026-05-13T06:23:56Z"
 related to:
   - "[[GitHub - 1123592539]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Count tasks in a note and save totals to specified note properties so counts stay with your file. Include regular Markdown checkboxes and tasks from TaskNotes, and refresh counts automatically or on demand."
 
     stats: {
-        downloads:  200
+        downloads:  254
         updated_at: 1778653436000
     }
 }

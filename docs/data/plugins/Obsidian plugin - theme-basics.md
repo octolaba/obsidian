@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/theme-basics
 alt:
   - https://github.com/narwhai/theme-basics
-downloads: 397
+downloads: 480
 updated at: "2026-05-08T15:31:57Z"
 related to:
   - "[[GitHub - 1205331611]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Customize backgrounds, typography, spacing, headers (H1–H6), lists, dividers, blockquotes, code blocks, and tag styles without writing CSS. Set separate light/dark profiles and control link and emphasis colors, per-heading size/weight, and list indents for consistent visuals."
 
     stats: {
-        downloads:  397
+        downloads:  480
         updated_at: 1778254317000
     }
 }

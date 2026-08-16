@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/share-to-save
 alt:
   - https://github.com/chenxiccc/Obsidian-Share-to-Save
-downloads: 669
+downloads: 950
 updated at: "2026-07-14T07:23:07Z"
 related to:
   - "[[GitHub - 1251932555]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Share a link, paste a URL, or jot down text — it becomes a Markdown note in your vault. Images are downloaded and embedded automatically."
 
     stats: {
-        downloads:  669
+        downloads:  950
         updated_at: 1784013787000
     }
 }

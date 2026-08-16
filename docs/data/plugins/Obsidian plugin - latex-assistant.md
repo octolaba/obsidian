@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/latex-assistant
 alt:
   - https://github.com/erimanga/Latex-assistant
-downloads: 39
+downloads: 59
 updated at: "2026-07-07T01:18:10Z"
 related to:
   - "[[GitHub - 1290609402]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit LaTeX with smart $ auto-pairing that toggles inline and display math. Insert common LaTeX snippets via trigger expansion or a slash command inside math, with the cursor jumping to the first editable field. Create and manage custom snippets and import/export them as JSON."
 
     stats: {
-        downloads:  39
+        downloads:  59
         updated_at: 1783387090000
     }
 }

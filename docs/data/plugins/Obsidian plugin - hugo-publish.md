@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hugo-publish
 alt:
   - https://github.com/kirito41dd/obsidian-hugo-publish
-downloads: 3075
+downloads: 3110
 updated at: "2026-04-13T13:31:16Z"
 related to:
   - "[[GitHub - 749361962]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Obsidian notes and linked images into Hugo-ready Markdown, translating internal links and image embeds into standard Markdown and static URLs. Auto-write front matter (title, date, lastmod) and sync converted files to your Hugo site directory for publishing."
 
     stats: {
-        downloads:  3075
+        downloads:  3110
         updated_at: 1776087076000
     }
 }

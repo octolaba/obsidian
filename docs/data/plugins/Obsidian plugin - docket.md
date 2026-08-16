@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/docket
 alt:
   - https://github.com/myeongsoyi/obsidian-docket
-downloads: 70
+downloads: 87
 updated at: "2026-07-03T14:09:54Z"
 related to:
   - "[[GitHub - 1288341563]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage projects, tasks, and subtasks with statuses, due dates and automatic roll-up progress using Gantt, WBS and Kanban board views. Open the Docket panel to see timelines, tree-structured WBS, or drag cards between columns to update status and trace items via frontmatter links to meetings and daily notes."
 
     stats: {
-        downloads:  70
+        downloads:  87
         updated_at: 1783087794000
     }
 }

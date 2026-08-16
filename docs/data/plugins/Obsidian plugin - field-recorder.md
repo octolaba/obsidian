@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/field-recorder
 alt:
   - https://github.com/donmccurdy/obsidian-field-recorder
-downloads: 606
+downloads: 673
 updated at: "2026-03-01T02:35:10Z"
 related to:
   - "[[GitHub - 1141392590]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Record audio directly in Obsidian with selectable input devices, output formats (M4A, WebM Opus, PCM), and adjustable quality. Visualize waveforms and clipping, monitor input, pause/resume captures, view file size and duration, and adjust gain or enable noise suppression and voice isolation for cleaner takes."
 
     stats: {
-        downloads:  606
+        downloads:  673
         updated_at: 1772332510000
     }
 }

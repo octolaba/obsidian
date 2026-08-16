@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/bible-search
 alt:
   - https://github.com/ruanpienaarcode/obsidian-bible-search
-downloads: 21
-updated at: "2026-07-21T07:55:52Z"
+downloads: 236
+updated at: "2026-08-09T14:36:32Z"
 related to:
   - "[[GitHub - 1307358446]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Search the whole Bible from a dedicated Obsidian pane with full-text results that jump to verses and link back to notes in your vault. Run a setup wizard to download public-domain translations, build a searchable page, resume interrupted downloads, adopt existing setups, and stay in-theme on desktop and mobile."
 
     stats: {
-        downloads:  21
-        updated_at: 1784620552000
+        downloads:  236
+        updated_at: 1786286192000
     }
 }
 ```

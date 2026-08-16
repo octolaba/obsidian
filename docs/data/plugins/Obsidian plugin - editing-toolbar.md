@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/editing-toolbar
 alt:
   - https://github.com/pkm-er/obsidian-editing-toolbar
-downloads: 1666090
+downloads: 1734502
 updated at: "2026-07-14T12:37:05Z"
 related to:
   - "[[GitHub - 532797913]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a MS-Word-like editing toolbar and a minimal, user-friendly text editor modal to Obsidian for smoother, WYSIWYG-style writing and easy markup. Enable top or cursor-following toolbar positions, multi-window/multi-tab support, and quick commands for font/background color, list indenting, undo/redo, horizontal rules and justification."
 
     stats: {
-        downloads:  1666090
+        downloads:  1734502
         updated_at: 1784032625000
     }
 }

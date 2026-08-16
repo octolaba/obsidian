@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/odaily
 alt:
   - https://github.com/guchang/Odaily-Plugin
-downloads: 636
+downloads: 775
 updated at: "2026-05-26T13:28:10Z"
 related to:
   - "[[GitHub - 1237394558]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture ideas, manage notes, and add tasks from a schedule-focused home with quick note, new docs, todo list, quick switcher, and recent files. Navigate by day/week/month, record timestamped memos, track open/completed tasks with tag filtering, and toggle per-theme backgrounds and light/dark mode."
 
     stats: {
-        downloads:  636
+        downloads:  775
         updated_at: 1779802090000
     }
 }

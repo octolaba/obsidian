@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/autogen
 alt:
   - https://github.com/aidantilgner/AutogenObsidianPlugin
-downloads: 1557
+downloads: 1588
 updated at: "2024-02-19T23:41:46Z"
 related to:
   - "[[GitHub - 751522765]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate in-place text completions inside notes using OpenAI or OpenAI-compatible local models. Trigger generations with @[prompt] and point to a chosen model or custom API URL (LocalAI, Ollama, etc.) for cloud or local inference."
 
     stats: {
-        downloads:  1557
+        downloads:  1588
         updated_at: 1708386106000
     }
 }

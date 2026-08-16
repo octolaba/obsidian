@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tailwind-snippet
 alt:
   - https://github.com/nicholas-wilcox/tailwind-snippet-obsidian-plugin
-downloads: 1170
+downloads: 1231
 updated at: "2025-02-23T15:08:46Z"
 related to:
   - "[[GitHub - 655715605]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate a Tailwind v3 CSS snippet from your vault using Tailwind as a PostCSS plugin and save it to your snippets directory. Auto-update the snippet when files or settings change, trigger manual refreshes with the ribbon icon, and enable the snippet manually once created."
 
     stats: {
-        downloads:  1170
+        downloads:  1231
         updated_at: 1740323326000
     }
 }

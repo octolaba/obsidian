@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/day-planner-analyzer
 alt:
   - https://github.com/roguel90/day-planner-analyzer
-downloads: 158
+downloads: 191
 updated at: "2026-05-24T00:26:04Z"
 related to:
   - "[[GitHub - 1165243753]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Analyze Day Planner–style daily notes to generate customizable statistics on time-boxed tasks, planned vs unplanned time, day length, and task completion—highlight priority tasks and keep stats updated as you edit. Select any week, month, or custom range to view charts, sortable tables, and consult the built-in AI chat for personalized habit and productivity advice."
 
     stats: {
-        downloads:  158
+        downloads:  191
         updated_at: 1779582364000
     }
 }

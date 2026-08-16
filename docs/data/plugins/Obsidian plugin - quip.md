@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quip
 alt:
   - https://github.com/sblakey/obsidian-quip
-downloads: 7334
+downloads: 7360
 updated at: "2024-04-22T20:46:18Z"
 related to:
   - "[[GitHub - 581310692]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Quip documents into Obsidian as notes. Publish new Obsidian notes to Quip as HTML and update existing Quip documents with fresh Obsidian renderings. Connect to your Quip account to sync content between Obsidian and Quip."
 
     stats: {
-        downloads:  7334
+        downloads:  7360
         updated_at: 1713818778000
     }
 }

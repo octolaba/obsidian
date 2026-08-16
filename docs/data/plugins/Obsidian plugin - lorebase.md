@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/lorebase
 alt:
   - https://github.com/murchi1k/obsidian-lorebase-plugin
-downloads: 1339
-updated at: "2026-07-17T13:28:30Z"
+downloads: 2008
+updated at: "2026-08-08T15:28:33Z"
 related to:
   - "[[GitHub - 1258115374]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # Lorebase
 
-Turns notes into a card-based media library with posters and virtualized grids for browsing. Games and anime are tracked with statuses, progress, ratings, tags, filters and sorting, and all data stays as Markdown in the vault. Metadata can be imported from Steam, RAWG, AniList and Shikimori.
+Keeps a personal media library for games, anime, movies, TV shows, books and manga inside the vault. Titles are added manually or found through connected catalogs, organized into cards with covers, descriptions and other metadata, and tracked with statuses, favorites, ratings and progress across seasons, episodes, pages, chapters and volumes. Search, filters, sorting, saved views and statistics cover larger collections, and the appearance of cards and individual sections is configurable. Entries remain ordinary Markdown files, with no account, cloud synchronization or telemetry.
 
 ```cue
 plugin: {
@@ -33,12 +33,12 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/lorebase"
     github_url:  "https://github.com/murchi1k/obsidian-lorebase-plugin"
-    description: "Track games and anime with card views, status filters, ratings, and metadata integrations. - This plugin has not been manually reviewed by Obsidian staff."
-    about:       "Turn notes into a card-based media library with posters and virtualized grids for smooth, fast browsing. Track games and anime with statuses, progress, ratings, tags, filters and sorting, store all data as Markdown in your vault, and import metadata from Steam, RAWG, AniList and Shikimori."
+    description: "Lorebase is a media library built into Obsidian for games, anime, movies, TV shows, books, and manga. Cards, metadata, ratings, progress, and statistics are stored locally in Markdown - This plugin has not been manually reviewed by Obsidian staff."
+    about:       "Lorebase turns Obsidian into a convenient personal media library for games, anime, movies, TV shows, books, and manga. Add titles manually or find them through connected catalogs, organize your collection into cards, and save covers, descriptions, and other metadata. Mark statuses, favorites, and personal ratings; keep track of seasons, episodes, pages, chapters, and volumes. Search, filters, sorting, saved views, and statistics help you quickly navigate even a large library. The appearance of cards and individual sections is fully customizable. All entries remain as regular Markdown files in your storage: Lorebase does not require an account, cloud synchronization, or telemetry. Your data remains local, portable, and entirely under your control"
 
     stats: {
-        downloads:  1339
-        updated_at: 1784294910000
+        downloads:  2008
+        updated_at: 1786202913000
     }
 }
 ```

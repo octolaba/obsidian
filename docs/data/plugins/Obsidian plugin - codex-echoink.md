@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/codex-echoink
 alt:
   - https://github.com/akin-lvyifang/codex-echoink
-downloads: 561
+downloads: 689
 updated at: "2026-07-23T08:31:50Z"
 related to:
   - "[[GitHub - 1222645271]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a session-scoped Codex workspace in the Obsidian sidebar to chat with an agent that can read, inspect, edit files, and run local commands inside your vault. Show an agent-style process timeline of reasoning, commands and file edits, plus a persistent Knowledge channel with slash commands, Wiki-based evidence search, and a health dashboard to maintain vault knowledge."
 
     stats: {
-        downloads:  561
+        downloads:  689
         updated_at: 1784795510000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/html-tabs
 alt:
   - https://github.com/ptournet/obsidian-html-tabs
-downloads: 8130
+downloads: 8219
 updated at: "2023-12-03T17:36:30Z"
 related to:
   - "[[GitHub - 686904637]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert tabbed panels into notes to group content under labeled tabs. Use plain-text labels and full Markdown inside tabs (including transcluded notes and fenced code blocks), and tweak appearance with a CSS snippet."
 
     stats: {
-        downloads:  8130
+        downloads:  8219
         updated_at: 1701624990000
     }
 }

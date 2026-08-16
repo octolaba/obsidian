@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ask-vault
 alt:
   - https://github.com/sourit2001/AskVault
-downloads: 202
+downloads: 236
 updated at: "2026-05-27T14:22:06Z"
 related to:
   - "[[GitHub - 1248033248]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Ask questions about the active note or the entire vault using your local Codex CLI. Keep follow-ups concise without resending the full note, switch to whole-vault synthesis, pick model and reasoning effort, start in a read-only sandbox, and save chats as Markdown under Codex 对话/."
 
     stats: {
-        downloads:  202
+        downloads:  236
         updated_at: 1779891726000
     }
 }

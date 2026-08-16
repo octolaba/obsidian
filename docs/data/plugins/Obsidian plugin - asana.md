@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/asana
 alt:
   - https://github.com/mryanb/obsidian-asana
-downloads: 1261
+downloads: 1295
 updated at: "2025-04-06T02:49:32Z"
 related to:
   - "[[GitHub - 918620432]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create Asana tasks from the current line or selected text in Obsidian. Connect with an Asana access token to send tasks directly to your Asana workspace."
 
     stats: {
-        downloads:  1261
+        downloads:  1295
         updated_at: 1743907772000
     }
 }

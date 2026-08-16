@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/calendar-importer
 alt:
   - https://github.com/efficient-x/Calendar-Importer
-downloads: 382
-updated at: "2026-07-21T00:10:57Z"
+downloads: 737
+updated at: "2026-08-02T11:52:24Z"
 related to:
   - "[[GitHub - 1294872251]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Calendar Importer turns Google Calendar, Outlook, iCloud, Zoho, and other iCal/ICS calendar feeds into clean markdown tasks. Using a shared calendar with someone who has not yet found the warm glow of Obsidian? Let them keep adding events in their calendar app while Calendar Importer quietly brings those dates into your vault. Boom! Less double entry, and more obsidian time for you. How good!"
 
     stats: {
-        downloads:  382
-        updated_at: 1784592657000
+        downloads:  737
+        updated_at: 1785671544000
     }
 }
 ```

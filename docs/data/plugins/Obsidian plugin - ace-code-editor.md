@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ace-code-editor
 alt:
   - https://github.com/raven-pensieve/obsidian-ace-code-editor
-downloads: 9519
+downloads: 9875
 updated at: "2026-06-14T08:48:47Z"
 related to:
   - "[[GitHub - 977376166]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit code directly in Obsidian with the Ace editor, including syntax highlighting, code folding, and other advanced editing features. Manage and preview code files and CSS snippets, and edit code blocks with a full-featured inline editor."
 
     stats: {
-        downloads:  9519
+        downloads:  9875
         updated_at: 1781426927000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vestaboardian
 alt:
   - https://github.com/patrick-knight/Vestaboardian
-downloads: 31
+downloads: 39
 updated at: "2026-07-13T02:15:06Z"
 related to:
   - "[[GitHub - 1284657953]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Compose messages in Obsidian notes and send them to your Vestaboard via Cloud or Local APIs, targeting Flagship (6x22) or Note (3x15) devices. Preview tile output, validate and auto-fix unsupported characters or over-wide rows, and log sends in a Vestaboard History table for tracking."
 
     stats: {
-        downloads:  31
+        downloads:  39
         updated_at: 1783908906000
     }
 }

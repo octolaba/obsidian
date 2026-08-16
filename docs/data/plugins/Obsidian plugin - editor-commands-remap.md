@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/editor-commands-remap
 alt:
   - https://github.com/c4ctus5/editor-commands-remap
-downloads: 4568
+downloads: 4596
 updated at: "2021-08-28T08:02:04Z"
 related to:
   - "[[GitHub - 398538481]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Map hotkeys to Obsidian editor commands for cursor movement, indentation, line swapping, line deletion, and folding. Activate these editor-only commands whenever an editor is open to streamline text editing."
 
     stats: {
-        downloads:  4568
+        downloads:  4596
         updated_at: 1630137724000
     }
 }

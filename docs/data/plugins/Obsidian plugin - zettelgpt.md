@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zettelgpt
 alt:
   - https://github.com/overraddit/ZettelGPT
-downloads: 5192
+downloads: 5208
 updated at: "2023-04-20T15:37:33Z"
 related to:
   - "[[GitHub - 628411360]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate ChatGPT answers directly inside Obsidian and maintain self-contained question–answer threads to preserve context across follow-ups. Reduce token use by sending only relevant conversation history. Visualize linked question and answer notes in the graph view and be aware note content is uploaded to OpenAI."
 
     stats: {
-        downloads:  5192
+        downloads:  5208
         updated_at: 1682005053000
     }
 }

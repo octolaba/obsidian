@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-flashcards
 alt:
   - https://github.com/mihirpatel1112/better-flashcards
-downloads: 51
+downloads: 113
 updated at: "2026-07-12T09:32:57Z"
 related to:
   - "[[GitHub - 1298119718]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Obsidian notes with Anki via AnkiConnect to create, update and delete flashcards directly from Markdown. Create simple, reversed, spaced, inline Q::A and cloze cards with LaTeX, images, audio, code highlighting, global/local tags, note references and Obsidian URI support."
 
     stats: {
-        downloads:  51
+        downloads:  113
         updated_at: 1783848777000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/e-daiary
 alt:
   - https://github.com/wholetomy/obsidian-e-daiary
-downloads: 392
+downloads: 412
 updated at: "2025-01-03T13:05:45Z"
 related to:
   - "[[GitHub - 809428248]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create daily journal entries organized by year and day-of-year in timestamped folders and Markdown files. Generate a Day X (DD-MM-YYYY HH-mm).md entry for each session to keep a consistent, chronological journal."
 
     stats: {
-        downloads:  392
+        downloads:  412
         updated_at: 1735909545000
     }
 }

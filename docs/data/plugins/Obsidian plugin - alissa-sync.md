@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/alissa-sync
 alt:
   - https://github.com/fahera-mx/obsidian.alissa.app
-downloads: 21
+downloads: 33
 updated at: "2026-07-09T16:31:04Z"
 related to:
   - "[[GitHub - 1294241795]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mirror your Alissa vault into Obsidian as wikilinked Markdown files — include projects, tasks, contexts, deliverables and entities. Refresh the entire knowledge graph with one click while keeping your API token stored locally and communications over HTTPS."
 
     stats: {
-        downloads:  21
+        downloads:  33
         updated_at: 1783614664000
     }
 }

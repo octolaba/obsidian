@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/life-in-weeks-calendar
 alt:
   - https://github.com/szuc/obsidian-life-in-weeks-calendar
-downloads: 1318
+downloads: 1592
 updated at: "2026-06-09T12:49:26Z"
 related to:
   - "[[GitHub - 1053105423]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display your life as a grid of weekly boxes color-coded for past, present, and future. Map weeks from your birth date and projected lifespan and mark weeks with created weekly notes, integrating with Periodic Notes, Journals, or running standalone."
 
     stats: {
-        downloads:  1318
+        downloads:  1592
         updated_at: 1781009366000
     }
 }

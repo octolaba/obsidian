@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/huanmuyu
 alt:
   - https://github.com/jiangzizhao/huanmuyu-plugin
-downloads: 43
-updated at: "2026-07-14T12:24:17Z"
+downloads: 79
+updated at: "2026-07-24T16:15:09Z"
 related to:
   - "[[GitHub - 1287361617]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Learn languages with a study calendar, daily new words (10 examples, IPA, native audio), spaced-repetition review, AI sentence correction and a local vocabulary. Keep all progress local in your vault; support EN/JA/KO/FR/ZH/ES/AR; only contact api.monoi.cn for license checks."
 
     stats: {
-        downloads:  43
-        updated_at: 1784031857000
+        downloads:  79
+        updated_at: 1784909709000
     }
 }
 ```

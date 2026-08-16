@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/anki-integration
 alt:
   - https://github.com/rifts-obsidian-laboratory/anki-integration
-downloads: 2284
+downloads: 2584
 updated at: "2025-06-15T11:43:41Z"
 related to:
   - "[[GitHub - 942122246]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Anki collection instantly from Obsidian and keep flashcards up to date with one button. Create decks and flashcards directly from notes using Obsidian-style pop-up dialogs to choose deck, model, and card content."
 
     stats: {
-        downloads:  2284
+        downloads:  2584
         updated_at: 1749987821000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/excerpt-outline-mindmap-editor
 alt:
   - https://github.com/kpaede/Excerpt-Outline-Mindmap-Editor
-downloads: 633
-updated at: "2026-05-25T12:20:02Z"
+downloads: 711
+updated at: "2026-08-06T20:26:28Z"
 related to:
   - "[[GitHub - 998027829]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Visualize and edit Markdown outlines as draggable mindmaps, with each node mapping to a list item and children moving with their parent. Add sibling or child nodes via hover controls, delete nodes with or without descendants, and preserve a standard Markdown outline for native Obsidian compatibility."
 
     stats: {
-        downloads:  633
-        updated_at: 1779711602000
+        downloads:  711
+        updated_at: 1786047988000
     }
 }
 ```

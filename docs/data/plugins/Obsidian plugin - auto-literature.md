@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-literature
 alt:
   - https://github.com/hucorz/obsidian-autoLiterature
-downloads: 3824
+downloads: 3859
 updated at: "2024-12-06T14:15:31Z"
 related to:
   - "[[GitHub - 680997241]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Detect paper IDs in notes and fetch rich metadata (title, authors, journal, date) for arXiv, DOI, medRxiv and bioRxiv entries. Download and organize PDFs with flexible naming and insert customizable Markdown summaries in place of the ID."
 
     stats: {
-        downloads:  3824
+        downloads:  3859
         updated_at: 1733494531000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-second-brain
 alt:
   - https://github.com/your-papa/obsidian-Smart2Brain
-downloads: 63103
+downloads: 63893
 updated at: "2024-05-18T11:45:48Z"
 related to:
   - "[[GitHub - 699343375]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with your notes using local or cloud LLMs and a RAG pipeline that embeds and retrieves relevant vault content to answer queries. Trace answers to source notes via Obsidian links, save and resume chats, switch models (including Ollama or OpenAI), and run fully offline to keep data local."
 
     stats: {
-        downloads:  63103
+        downloads:  63893
         updated_at: 1716032748000
     }
 }

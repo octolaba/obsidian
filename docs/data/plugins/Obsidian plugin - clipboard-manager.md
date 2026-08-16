@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/clipboard-manager
 alt:
   - https://github.com/ayu5h-raj/clipboard-manager
-downloads: 790
+downloads: 833
 updated at: "2025-06-23T18:56:37Z"
 related to:
   - "[[GitHub - 1007274900]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture and store clipboard history automatically with persistent entries and timestamps. Search and filter history in real time, preview long items, and quick-paste from the ribbon or command palette. Export selected or all entries to Markdown while preserving formatting."
 
     stats: {
-        downloads:  790
+        downloads:  833
         updated_at: 1750704997000
     }
 }

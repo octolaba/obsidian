@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/task-journal-checkbox-sink
 alt:
   - https://github.com/inciyang2022-a11y/task-journal-checkbox-sink
-downloads: 112
+downloads: 144
 updated at: "2026-06-24T22:36:36Z"
 related to:
   - "[[GitHub - 1261313398]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage tasks on a central page and record outcomes in today's Daily Note with optional summaries. Sink completed tasks to the end of their current list while moving entire task blocks, mark partial completions without sinking, and archive completed items by real completion date. Undo the latest task operation (persists after restart) and keep all data local and offline."
 
     stats: {
-        downloads:  112
+        downloads:  144
         updated_at: 1782340596000
     }
 }

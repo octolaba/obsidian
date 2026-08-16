@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/butter-editor
 alt:
   - https://github.com/spreadwell/butter-editor
-downloads: 673
+downloads: 1002
 updated at: "2026-07-17T18:16:37Z"
 related to:
   - "[[GitHub - 1236982700]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit notes in a WYSIWYG mode that renders Obsidian Markdown (headings, lists, tables, code, math, footnotes, embeds, callouts, comments, and wikilinks) while keeping files as plain Markdown on disk. Use on desktop and mobile with touch-optimized controls, block reordering, and a customizable toolbar."
 
     stats: {
-        downloads:  673
+        downloads:  1002
         updated_at: 1784312197000
     }
 }

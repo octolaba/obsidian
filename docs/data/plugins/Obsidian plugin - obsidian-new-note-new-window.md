@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-new-note-new-window
 alt:
   - https://github.com/pr0dt0s/new-note-new-window
-downloads: 5164
+downloads: 5190
 updated at: "2023-04-17T22:21:40Z"
 related to:
   - "[[GitHub - 559260058]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open new notes in a floating window. Create each note in its own floating pane or reuse a single floating window, and save new files to your default or a specified folder."
 
     stats: {
-        downloads:  5164
+        downloads:  5190
         updated_at: 1681770100000
     }
 }

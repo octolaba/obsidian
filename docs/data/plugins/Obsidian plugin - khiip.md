@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/khiip
 alt:
   - https://github.com/khiipai/khiip-obsidian
-downloads: 79
+downloads: 88
 updated at: "2026-07-14T22:09:45Z"
 related to:
   - "[[GitHub - 1283362193]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Khiip captures web content into your Obsidian vault as markdown you own, and recalls it semantically across everything you've kept. Paste a URL — from X, Reddit, YouTube, Wikipedia, or the web — and a local Khiip daemon fetches it, extracts a clean typed note, and files it into your vault (organized into per-source folders). From the right-hand sidebar or the command palette you can capture URLs, run semantic recall over your captures, check daemon status and recent captures, and open, re-capture, or copy any captured link. Requires the free, open-source Khiip daemon, which runs locally on your machine (desktop only) — your captures live in your vault as markdown and recall runs on-device, with no cloud account or lock-in. Khiip also offers an optional paid \"Plus\" tier that adds platform-styled rendering and deeper per-source extraction; capture and recall stay fully free and open-source."
 
     stats: {
-        downloads:  79
+        downloads:  88
         updated_at: 1784066985000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/easy-test
 alt:
   - https://github.com/forrest1398/obsidian-easyTest-plugin
-downloads: 529
+downloads: 547
 updated at: "2025-04-30T10:18:12Z"
 related to:
   - "[[GitHub - 899364069]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extract bolded text from the active editor and convert each item into interactive input fields displayed in a modal. Enter answers, check them in real time, and reveal hints for the focused question to run quick, repeatable self-tests."
 
     stats: {
-        downloads:  529
+        downloads:  547
         updated_at: 1746008292000
     }
 }

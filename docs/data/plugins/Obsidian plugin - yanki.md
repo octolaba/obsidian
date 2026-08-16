@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/yanki
 alt:
   - https://github.com/kitschpatrol/yanki-obsidian
-downloads: 11669
-updated at: "2026-07-21T16:35:28Z"
+downloads: 12419
+updated at: "2026-08-03T02:41:20Z"
 related to:
   - "[[GitHub - 809204999]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync folders of Markdown notes to Anki. Map each Obsidian note to a single Anki note using plain Markdown and convert folder hierarchies into corresponding Anki decks automatically."
 
     stats: {
-        downloads:  11669
-        updated_at: 1784651728000
+        downloads:  12419
+        updated_at: 1785724880000
     }
 }
 ```

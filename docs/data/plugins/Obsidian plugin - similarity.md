@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/similarity
 alt:
   - https://github.com/jorammillenaar/obsidian-similarity
-downloads: 3535
-updated at: "2026-07-11T18:53:07Z"
+downloads: 4221
+updated at: "2026-08-01T18:44:02Z"
 related to:
   - "[[GitHub - 881555096]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Find notes by meaning rather than keywords using a local semantic index. Browse semantically related notes and jump through connected ideas across your vault. Run fully on-device with no external APIs and zero data leaving your machine."
 
     stats: {
-        downloads:  3535
-        updated_at: 1783795987000
+        downloads:  4221
+        updated_at: 1785609842000
     }
 }
 ```

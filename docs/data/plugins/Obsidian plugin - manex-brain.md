@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/manex-brain
 alt:
   - https://github.com/krcnow/manex-brain
-downloads: 148
+downloads: 159
 updated at: "2026-05-12T20:51:04Z"
 related to:
   - "[[GitHub - 1236108062]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turns your vault into a private, local AI knowledge base powered by Apple Silicon MLX. No cloud, no API keys, no data leaving your machine. On first load, it automatically installs the mlx-lm inference engine and starts a local server. After that, the server starts silently every time Obsidian opens. Your entire vault is indexed in the background. When you ask a question, the most relevant chunks from across all your notes are retrieved and used as context, alongside the note you currently have open. Linked notes, backlinks, and shared-tag notes are also included automatically. Save useful answers, corrections, and decisions directly back into your vault as memory notes. The brain retrieves these saved memories in future sessions, so it gets smarter the more you use it. You can also leave comments on answers to refine how the brain responds over time. Requires macOS with Apple Silicon (M1 or later) and Python 3 installed via Homebrew."
 
     stats: {
-        downloads:  148
+        downloads:  159
         updated_at: 1778619064000
     }
 }

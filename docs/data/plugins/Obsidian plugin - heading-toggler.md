@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/heading-toggler
 alt:
   - https://github.com/lord-turmoil/heading-toggler-obsidian
-downloads: 831
+downloads: 846
 updated at: "2024-07-23T02:57:34Z"
 related to:
   - "[[GitHub - 830836308]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle heading levels quickly without typing # characters, converting normal text to H1–H6 and back. Bind commands to hotkeys to increase, decrease, or toggle heading levels."
 
     stats: {
-        downloads:  831
+        downloads:  846
         updated_at: 1721703454000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/three-d-model-viewer
 alt:
   - https://github.com/dark72147/3d-model-viewer
-downloads: 137
+downloads: 199
 updated at: "2026-06-27T10:51:16Z"
 related to:
   - "[[GitHub - 1282087152]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview local STL, OBJ, and 3MF 3D model files directly inside Obsidian notes with an embedded viewer. Center and auto-scale models for clean rendering, then inspect with mouse rotation, wheel zoom, in‑plane 90° turns and a view cube for quick viewpoint changes."
 
     stats: {
-        downloads:  137
+        downloads:  199
         updated_at: 1782557476000
     }
 }

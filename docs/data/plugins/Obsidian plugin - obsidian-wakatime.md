@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-wakatime
 alt:
   - https://github.com/wakatime/obsidian-wakatime
-downloads: 13793
+downloads: 13870
 updated at: "2022-12-30T20:48:38Z"
 related to:
   - "[[GitHub - 578927432]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track time and activity in Obsidian to generate automatic metrics and insights from your note-taking sessions. View detailed usage and time-tracking reports on your WakaTime dashboard."
 
     stats: {
-        downloads:  13793
+        downloads:  13870
         updated_at: 1672433318000
     }
 }

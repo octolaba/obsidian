@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-rant
 alt:
   - https://github.com/lanice/obsidian-rant
-downloads: 4402
+downloads: 4413
 updated at: "2022-02-13T08:11:07Z"
 related to:
   - "[[GitHub - 442221335]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Execute Rant scripts in code blocks or inline to generate procedural text—templates, dialogue, name generators, random data, and more. Render outputs in preview with full Markdown parsing, embed block results via links, and re-run scripts with new random seeds for varied output."
 
     stats: {
-        downloads:  4402
+        downloads:  4413
         updated_at: 1644739867000
     }
 }

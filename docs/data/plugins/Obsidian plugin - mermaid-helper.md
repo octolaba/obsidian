@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mermaid-helper
 alt:
   - https://github.com/francescodicursi/Mermaid.js-Helper-OMH-plugin
-downloads: 6764
+downloads: 6790
 updated at: "2023-02-06T17:33:28Z"
 related to:
   - "[[GitHub - 598093268]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Clean Mermaid graph and flowchart code by moving variable declarations to the top, apply regex-based edits to style or class rows, and tidy Mermaid style/class lines. Create empty files from newline lists or H2 sections, copy global colorGroups into a local graph, and convert comma/newline lists into [[links]]."
 
     stats: {
-        downloads:  6764
+        downloads:  6790
         updated_at: 1675704808000
     }
 }

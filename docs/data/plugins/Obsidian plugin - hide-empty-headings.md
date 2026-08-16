@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hide-empty-headings
 alt:
   - https://github.com/duluodexiaopiqiu/hide-empty-headings
-downloads: 63
+downloads: 71
 updated at: "2026-06-16T08:46:12Z"
 related to:
   - "[[GitHub - 1246211775]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide empty headings in reading mode when no content exists beneath them. Refresh on note switch to keep only headings with content visible."
 
     stats: {
-        downloads:  63
+        downloads:  71
         updated_at: 1781599572000
     }
 }

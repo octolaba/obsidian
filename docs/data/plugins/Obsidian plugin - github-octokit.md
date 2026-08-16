@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/github-octokit
 alt:
   - https://github.com/rhoades-brown/obsidian-github
-downloads: 240
+downloads: 273
 updated at: "2026-05-30T20:29:46Z"
 related to:
   - "[[GitHub - 1110822751]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault with GitHub using the official Octokit API. No Git CLI required. Works on desktop and mobile. Two-way sync with batch commits. Selective or full vault sync. Auto-sync on save, on interval, or on startup. Subfolder mapping to sync your vault to a specific path within a repository. Configuration sync for themes, snippets, and hotkeys across devices. Multi-repo support lets you sync additional GitHub repos into specific vault directories, each with independent branches, subfolder mapping, and ignore patterns. Shared repo configs sync automatically across devices. Conflict resolution with automatic detection, side-by-side and inline diff views, and manual editing. Sync panel shows file changes grouped by status, commit history, and live logs. Glob-based ignore patterns for files and folders. GitHub tokens stored securely in Obsidian's encrypted SecretStorage. Requires a GitHub Personal Access Token with repo scope."
 
     stats: {
-        downloads:  240
+        downloads:  273
         updated_at: 1780172986000
     }
 }

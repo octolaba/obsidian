@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dnd-tavern-generator
 alt:
   - https://github.com/trikorka/tavernus-plugin
-downloads: 308
+downloads: 398
 updated at: "2026-06-03T17:11:22Z"
 related to:
   - "[[GitHub - 1257326412]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate detailed, atmospheric Dungeons & Dragons taverns in your vault, including name, size, prices, and prestige. Create customized menus of drinks and meals based on tavern parameters and insert the full description directly into your note."
 
     stats: {
-        downloads:  308
+        downloads:  398
         updated_at: 1780506682000
     }
 }

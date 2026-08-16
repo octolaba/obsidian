@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-hide-cursor
 alt:
   - https://github.com/jmxo/obsidian-auto-hide-cursor
-downloads: 4535
+downloads: 4564
 updated at: "2023-06-13T15:37:22Z"
 related to:
   - "[[GitHub - 634283453]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide the cursor after scrolling or a short delay, and reveal it when the mouse moves. Pair with focus mode to remove pointer distractions while reading or editing notes."
 
     stats: {
-        downloads:  4535
+        downloads:  4564
         updated_at: 1686670642000
     }
 }

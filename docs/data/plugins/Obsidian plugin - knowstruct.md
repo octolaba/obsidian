@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/knowstruct
 alt:
   - https://github.com/jackyun6/knowstruct
-downloads: 68
-updated at: "2026-07-19T15:08:37Z"
+downloads: 556
+updated at: "2026-08-03T15:11:17Z"
 related to:
   - "[[GitHub - 1305776174]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Organize knowledge into editable Markdown content cards and Q&A cards, map them into native Canvas mind maps, and schedule spaced reviews to learn and retain information. Convert images and PDFs into Markdown via an optional MinerU or local parser while keeping notes and review data local by default."
 
     stats: {
-        downloads:  68
-        updated_at: 1784473717000
+        downloads:  556
+        updated_at: 1785769877000
     }
 }
 ```

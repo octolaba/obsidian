@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/enhanced-pdf-export
 alt:
   - https://github.com/cygnusyang/obsidian-enhanced-pdf-export
-downloads: 245
+downloads: 397
 updated at: "2026-07-06T02:03:58Z"
 related to:
   - "[[GitHub - 1290188837]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export Markdown to high-fidelity PDFs that preserve Mermaid, inline HTML, SVG, tables and callouts. Render with Obsidian's Markdown engine and print via Electron to produce A4 PDFs with cover and table of contents; save a same-folder single-file PDF on Obsidian Desktop."
 
     stats: {
-        downloads:  245
+        downloads:  397
         updated_at: 1783303438000
     }
 }

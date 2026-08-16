@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/gotsaeng-os
 alt:
   - https://github.com/wonkwonlee/gotsaeng-os
-downloads: 84
-updated at: "2026-06-16T21:17:10Z"
+downloads: 104
+updated at: "2026-08-07T21:00:08Z"
 related to:
   - "[[GitHub - 1264663711]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Compile your Markdown vault into local, model-ready context packs and auditable Markdown/JSON artifacts. Scan and classify notes to extract facts, decisions, actions, risks and insights, flag contradiction candidates for human review, and emit deterministic memory diffs with provenance and confidence scores."
 
     stats: {
-        downloads:  84
-        updated_at: 1781644630000
+        downloads:  104
+        updated_at: 1786136408000
     }
 }
 ```

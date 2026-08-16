@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-canvasearch
 alt:
   - https://github.com/ddalexb/obsidian-simple-canvasearch
-downloads: 113473
+downloads: 113674
 updated at: "2025-05-19T20:32:14Z"
 related to:
   - "[[GitHub - 665633697]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search and jump to nodes inside your canvas with a fuzzy-search modal. Locate nodes by title or include note contents for deeper matches and navigate directly within the canvas. Avoid including contents on very large canvases to prevent slowdowns."
 
     stats: {
-        downloads:  113473
+        downloads:  113674
         updated_at: 1747686734000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/templater-obsidian
 alt:
   - https://github.com/silentvoid13/Templater
-downloads: 4994515
-updated at: "2026-07-24T03:50:25Z"
+downloads: 5229110
+updated at: "2026-08-05T05:45:57Z"
 related to:
   - "[[GitHub - 310048170]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create dynamic templates that insert variables and function results into your notes. Run JavaScript and system commands to compute, transform, or auto-generate content inside your vault."
 
     stats: {
-        downloads:  4994515
-        updated_at: 1784865025000
+        downloads:  5229110
+        updated_at: 1785908757000
     }
 }
 ```

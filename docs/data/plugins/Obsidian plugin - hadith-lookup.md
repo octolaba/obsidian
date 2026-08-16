@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hadith-lookup
 alt:
   - https://github.com/iadnanmukhtar/obsidian-hadith-lookup-plugin
-downloads: 405
+downloads: 425
 updated at: "2026-04-12T16:41:15Z"
 related to:
   - "[[GitHub - 634369467]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fetch Quranic āyahs and ḥadīths by selecting a Hadith Unlocked reference ID (e.g. quran:2:255, bukhari:99). Replace the reference with the sourced text and English translation from Hadith Unlocked, formatted as an Obsidian callout."
 
     stats: {
-        downloads:  405
+        downloads:  425
         updated_at: 1776012075000
     }
 }

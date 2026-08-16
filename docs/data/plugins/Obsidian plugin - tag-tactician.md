@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tag-tactician
 alt:
   - https://github.com/scotttomaszewski/obsidian-tag-tactician
-downloads: 2618
+downloads: 2712
 updated at: "2026-06-22T12:55:47Z"
 related to:
   - "[[GitHub - 912992346]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bulk-edit frontmatter tags across multiple notes by adding or removing tags, preview proposed changes, and selectively apply updates to chosen files. Display related notes determined by tag, filename, and link similarity, and visualize your vault in a tag-based hierarchy with Tag Navigation. Operate on frontmatter tags only; inline #tags in note bodies are not changed."
 
     stats: {
-        downloads:  2618
+        downloads:  2712
         updated_at: 1782132947000
     }
 }

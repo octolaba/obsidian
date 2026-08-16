@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-notes-timeline-view
 alt:
   - https://github.com/masaki39/daily-notes-timeline
-downloads: 3958
+downloads: 4274
 updated at: "2026-06-08T11:38:19Z"
 related to:
   - "[[GitHub - 1127001917]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse daily notes in an infinite-scroll timeline that renders only the visible portion for smooth navigation and jump to any date from a calendar. Filter and extract landmarks like tasks, lists, links, images, callouts, and headings, and search with highlighted results."
 
     stats: {
-        downloads:  3958
+        downloads:  4274
         updated_at: 1780918699000
     }
 }

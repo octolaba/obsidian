@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/code-files
 alt:
   - https://github.com/lukasbach/obsidian-code-files
-downloads: 20506
+downloads: 21004
 updated at: "2025-03-03T17:30:04Z"
 related to:
   - "[[GitHub - 617084477]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit and view code files alongside notes using an embedded Monaco Editor with syntax highlighting, theming, file creation, and CSS snippet editing. Open and edit individual Markdown code blocks in a Monaco modal that syncs changes back to the document. Expect an internet connection due to hosted Monaco resources."
 
     stats: {
-        downloads:  20506
+        downloads:  21004
         updated_at: 1741023004000
     }
 }

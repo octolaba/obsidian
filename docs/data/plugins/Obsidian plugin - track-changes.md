@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/track-changes
 alt:
   - https://github.com/philphilphil/obsidian-track-changes
-downloads: 912
-updated at: "2026-06-24T19:46:20Z"
+downloads: 1157
+updated at: "2026-08-01T09:45:40Z"
 related to:
   - "[[GitHub - 1236954286]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Review CriticMarkup suggestions in a side panel and accept, reject, or reply inline to changes. Manage all five CriticMarkup forms with threaded comments, multi-author color coding, per-item or per-thread deletion, finalize to resolve remaining markup, and preview accepted or raw text while leaving code-block markup untouched."
 
     stats: {
-        downloads:  912
-        updated_at: 1782330380000
+        downloads:  1157
+        updated_at: 1785577540000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/karmind
 alt:
   - https://github.com/lhy723/obsidian-karmind
-downloads: 109
+downloads: 115
 updated at: "2026-04-27T10:47:45Z"
 related to:
   - "[[GitHub - 1219940072]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Build a personal LLM-powered wiki by compiling raw notes into a persistent, interlinked wiki. Ask questions using relevant wiki context and backfill useful answers and analysis into pages. Run health checks for broken links, orphan pages, missing concepts, and monitor long-running task progress in the chat."
 
     stats: {
-        downloads:  109
+        downloads:  115
         updated_at: 1777286865000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tlp-classification
 alt:
   - https://github.com/rafamss/obsidian-tlp-classification
-downloads: 178
+downloads: 202
 updated at: "2026-06-16T22:39:30Z"
 related to:
   - "[[GitHub - 1247646745]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Classify notes using the Traffic Light Protocol (TLP) via a visual picker in the Properties panel, command-palette modal, or status-bar indicator. Generate official TLP-color PDF header/footer badges for Better Export PDF and automatically regenerate templates when TLP frontmatter is edited. Define custom organization-specific classification levels in a vault markdown file."
 
     stats: {
-        downloads:  178
+        downloads:  202
         updated_at: 1781649570000
     }
 }

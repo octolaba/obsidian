@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/convert-url-to-iframe
 alt:
   - https://github.com/fhachez/obsidian-convert-url-to-iframe
-downloads: 105174
+downloads: 106204
 updated at: "2022-05-07T11:36:09Z"
 related to:
   - "[[GitHub - 310927762]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert any URL into an embedded iframe preview directly inside your note. Preserve YouTube timestamps and rely on OEmbed for correct sizing, allow fullscreen and responsive aspect ratios, and embed links via right-click or command."
 
     stats: {
-        downloads:  105174
+        downloads:  106204
         updated_at: 1651923369000
     }
 }

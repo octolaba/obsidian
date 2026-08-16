@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/command-tracker
 alt:
   - https://github.com/namikaze-40p/obsidian-command-tracker
-downloads: 1898
-updated at: "2026-05-06T04:58:29Z"
+downloads: 2041
+updated at: "2026-07-26T02:22:54Z"
 related to:
   - "[[GitHub - 805790775]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Track each command execution and display last-used dates and daily usage counts. Inspect per-command histories and hotkey associations to spot frequently used commands to assign hotkeys or reclaim rarely used bindings."
 
     stats: {
-        downloads:  1898
-        updated_at: 1778043509000
+        downloads:  2041
+        updated_at: 1785032574000
     }
 }
 ```

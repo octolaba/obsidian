@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/device-plugin-switcher
 alt:
   - https://github.com/yvelious/device-plugin-switcher
-downloads: 159
+downloads: 226
 updated at: "2026-06-23T15:33:22Z"
 related to:
   - "[[GitHub - 1277351112]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Choose which Obsidian community plugins are enabled on desktop, mobile, both, or disabled while keeping a single shared .obsidian configuration folder. Apply device-specific active plugin states without syncing plugin files or plugin settings automatically, preserving a unified config while controlling per-device plugin activity."
 
     stats: {
-        downloads:  159
+        downloads:  226
         updated_at: 1782228802000
     }
 }

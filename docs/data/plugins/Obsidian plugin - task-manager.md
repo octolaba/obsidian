@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/task-manager
 alt:
   - https://github.com/itnq18/obsidian-task-manager
-downloads: 32
-updated at: "2026-07-19T08:24:16Z"
+downloads: 93
+updated at: "2026-08-03T09:22:20Z"
 related to:
   - "[[GitHub - 1303174019]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Organize daily reports, unfinished and overdue tasks, and future plans in a compact right-sidebar. Open or create today's daily report from the sidebar without overwriting existing notes. Collect Markdown checklists from daily notes, group tasks by planned date/status, store future items in one file, and write completion timestamps back to source notes."
 
     stats: {
-        downloads:  32
-        updated_at: 1784449456000
+        downloads:  93
+        updated_at: 1785748940000
     }
 }
 ```

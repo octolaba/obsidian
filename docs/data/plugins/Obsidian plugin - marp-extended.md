@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/marp-extended
 alt:
   - https://github.com/shuuul/obsidian-marp-extended
-downloads: 175
+downloads: 265
 updated at: "2026-07-11T16:44:56Z"
 related to:
   - "[[GitHub - 1280405177]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create Marp slide decks from Markdown notes inside Obsidian. Preview, present, and export decks as HTML, PDF, or PPTX using Marp CLI; convert Obsidian image wiki-links to standard Markdown, render Mermaid diagrams, and apply bundled or custom Marp themes."
 
     stats: {
-        downloads:  175
+        downloads:  265
         updated_at: 1783788296000
     }
 }

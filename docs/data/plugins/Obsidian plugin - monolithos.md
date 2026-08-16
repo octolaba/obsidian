@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/monolithos
 alt:
   - https://github.com/silas-zhen/monolithos-plugin
-downloads: 92
+downloads: 98
 updated at: "2026-02-27T10:35:53Z"
 related to:
   - "[[GitHub - 1168389475]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Crystallize notes into structured, traceable Crystals that distill core insights and extract entities from text, PDFs, images, and audio. Summon AI inline, retrieve deterministic memories from a local Memory Core, and export writing as audio briefings or presentation-ready content while keeping your vault private and local-first."
 
     stats: {
-        downloads:  92
+        downloads:  98
         updated_at: 1772188553000
     }
 }

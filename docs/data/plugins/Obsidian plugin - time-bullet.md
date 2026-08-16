@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/time-bullet
 alt:
   - https://github.com/pedrogdn/obsidian-time-bullet-plugin
-downloads: 1445
+downloads: 1542
 updated at: "2026-07-18T06:33:34Z"
 related to:
   - "[[GitHub - 942998748]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add automatic timestamps to bulleted list items and auto-continue them on new lines to keep chronological notes. Toggle timestamps on any line with a hotkey to create or remove time bullets for meeting notes, daily logs, or simple time tracking."
 
     stats: {
-        downloads:  1445
+        downloads:  1542
         updated_at: 1784356414000
     }
 }

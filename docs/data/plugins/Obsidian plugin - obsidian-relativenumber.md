@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-relativenumber
 alt:
   - https://github.com/thisdotrob/obsidian-relativenumber-plugin
-downloads: 5317
+downloads: 5339
 updated at: "2022-02-05T20:44:35Z"
 related to:
   - "[[GitHub - 455244703]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Enable Vim-style relative line numbers in Obsidian's editors. Replace absolute numbers with cursor-relative offsets in both Live Preview and legacy editor modes to simplify line-oriented navigation."
 
     stats: {
-        downloads:  5317
+        downloads:  5339
         updated_at: 1644093875000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/todotxt
 alt:
   - https://github.com/mvgrimes/obsidian-todotxt-plugin
-downloads: 11878
+downloads: 11921
 updated at: "2024-07-23T15:08:13Z"
 related to:
   - "[[GitHub - 629743411]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage .todotxt files inside Obsidian with native todo.txt parsing and a TODOTXT badge for quick identification. Highlight due:yyyy-mm-dd dates with color alerts, respect t:YYYY-MM-DD thresholds, preserve priorities on completion (experimental), and create recurring tasks from rec: tags (experimental)."
 
     stats: {
-        downloads:  11878
+        downloads:  11921
         updated_at: 1721747293000
     }
 }

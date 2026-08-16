@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/popcorn-md
 alt:
   - https://github.com/vitaliiromanenko/popcorn-md
-downloads: 155
+downloads: 196
 updated at: "2026-06-22T17:22:25Z"
 related to:
   - "[[GitHub - 1260363848]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search movies and TV shows via TMDb by title or IMDb ID and create structured Obsidian notes from a template. Generate notes pre-filled with metadata (title, year, genres, poster, synopsis, rating, cast) and embed posters. Use a clean modal search interface."
 
     stats: {
-        downloads:  155
+        downloads:  196
         updated_at: 1782148945000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-editor
 alt:
   - https://github.com/buszk/obsidian-ai-editor
-downloads: 6571
+downloads: 6614
 updated at: "2025-01-06T05:15:21Z"
 related to:
   - "[[GitHub - 678119049]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Process notes with AI models directly inside Obsidian using configurable commands. Create and customize commands for summarization, rewriting, brainstorming, and grammar suggestions, and apply them to selections or whole documents."
 
     stats: {
-        downloads:  6571
+        downloads:  6614
         updated_at: 1736140521000
     }
 }

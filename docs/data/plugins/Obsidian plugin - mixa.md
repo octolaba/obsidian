@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mixa
 alt:
   - https://github.com/mixasite/obsidian-mixa
-downloads: 4328
+downloads: 4340
 updated at: "2024-04-29T05:58:22Z"
 related to:
   - "[[GitHub - 601902482]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish your Obsidian notes and blog posts as a live, SEO-friendly website with one click. Create customizable no-code sites from Markdown/MDX/HTML while preserving folder structure, pick themes, use live preview, and exclude drafts via frontmatter."
 
     stats: {
-        downloads:  4328
+        downloads:  4340
         updated_at: 1714370302000
     }
 }

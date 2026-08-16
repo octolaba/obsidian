@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/various-complements
 alt:
   - https://github.com/tadashi-aikawa/obsidian-various-complements-plugin
-downloads: 531944
+downloads: 556106
 updated at: "2026-06-24T10:27:09Z"
 related to:
   - "[[GitHub - 336464138]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Complete words with IDE-style auto-completion directly inside Obsidian. Display context-aware suggestions as you type and accept completions to speed up writing and coding in Markdown."
 
     stats: {
-        downloads:  531944
+        downloads:  556106
         updated_at: 1782296829000
     }
 }

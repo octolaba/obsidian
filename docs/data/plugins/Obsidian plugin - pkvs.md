@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pkvs
 alt:
   - https://github.com/iamrecursion/obsidian-pkvs
-downloads: 1654
+downloads: 1685
 updated at: "2026-04-23T17:05:58Z"
 related to:
   - "[[GitHub - 738182810]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Expose a persistent key-value store as window.pkvs for use in Obsidian scripts (Templater, Dataview, custom JS). Persist values across template/query runs and synced devices, and inspect state with a built-in portable web inspector. Avoid storing or loading untrusted data due to eval-based serialization."
 
     stats: {
-        downloads:  1654
+        downloads:  1685
         updated_at: 1776963958000
     }
 }

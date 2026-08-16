@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quote-of-the-day
 alt:
   - https://github.com/twentytwokhz/quote-of-the-day
-downloads: 15332
+downloads: 15636
 updated at: "2024-11-28T16:54:56Z"
 related to:
   - "[[GitHub - 419806138]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert random famous quotes as Markdown from the Quotable API. Use the {{qotd}} template to insert quotes and optionally include tags in a footer."
 
     stats: {
-        downloads:  15332
+        downloads:  15636
         updated_at: 1732812896000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/checklist-progress-bar
 alt:
   - https://github.com/profesr-chaos/obsidian-checklist-progress-bar
-downloads: 360
-updated at: "2026-06-04T12:15:31Z"
+downloads: 471
+updated at: "2026-08-10T17:38:44Z"
 related to:
   - "[[GitHub - 1259306323]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Display a live progress bar above any checklist block by placing a > [!progress] callout directly before the list. Update the bar in real time as items are checked, support nested checklists and multiple independent bars per note, with clean dark/light styling and zero configuration."
 
     stats: {
-        downloads:  360
-        updated_at: 1780575331000
+        downloads:  471
+        updated_at: 1786383524000
     }
 }
 ```

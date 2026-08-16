@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tenki
 alt:
   - https://github.com/ms3056/Tenki
-downloads: 6621
+downloads: 6681
 updated at: "2025-12-21T06:31:26Z"
 related to:
   - "[[GitHub - 659484270]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display local weather and forecasts in Obsidian via WeatherAPI. Enter your WeatherAPI key and city to view current conditions, forecasts, sunrise/sunset times, and auto-refresh with a 30‑minute minimum update interval."
 
     stats: {
-        downloads:  6621
+        downloads:  6681
         updated_at: 1766298686000
     }
 }

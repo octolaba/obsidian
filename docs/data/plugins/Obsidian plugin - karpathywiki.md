@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/karpathywiki
 alt:
   - https://github.com/green-dalii/obsidian-llm-wiki
-downloads:
-updated at:
+downloads: 33126
+updated at: "2026-08-09T00:15:37Z"
 related to:
   - "[[GitHub - 1221689260]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/green-dalii/obsidian-llm-wiki"
     description: "Karpathy's LLM Wiki implementation - multi-page knowledge generation with entity/concept pages and conversational query. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Karpathy's LLM Wiki implementation plugin for Obsidian - turns notes and PDFs into a linked, LLM-powered knowledge base with entity pages, concept pages, graph-powered Q&A, and local-first privacy."
+
+    stats: {
+        downloads:  33126
+        updated_at: 1786234537000
+    }
 }
 ```
 

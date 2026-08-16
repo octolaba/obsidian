@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/para-workflower
 alt:
   - https://github.com/trucke/para-workflower
-downloads: 2422
+downloads: 2446
 updated at: "2024-04-04T10:22:32Z"
 related to:
   - "[[GitHub - 766633853]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Initialize your Vault and create Projects, Areas, and Resources using PARA-friendly commands. Archive and restore PARA items instantly or via a fuzzy search modal, and move project folders to and from an archive while preserving folder structure."
 
     stats: {
-        downloads:  2422
+        downloads:  2446
         updated_at: 1712226152000
     }
 }

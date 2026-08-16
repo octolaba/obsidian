@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/google-contacts
 alt:
   - https://github.com/aleksejs1/obsidian-contact-sync-plugin
-downloads: 2050
+downloads: 2342
 updated at: "2026-05-13T16:15:17Z"
 related to:
   - "[[GitHub - 969514042]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Google Contacts into Obsidian as individual notes with YAML frontmatter for metadata and free-form body text for your notes. Audit for stale local contact notes, filter by Google label, set folder and filename conventions, choose naming strategies (including vCard/array formats), and convert relations into Obsidian links."
 
     stats: {
-        downloads:  2050
+        downloads:  2342
         updated_at: 1778688917000
     }
 }

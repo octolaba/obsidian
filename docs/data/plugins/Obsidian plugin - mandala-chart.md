@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mandala-chart
 alt:
   - https://github.com/gurio318/obsidian-mandala-chart
-downloads: 154
+downloads: 178
 updated at: "2026-06-01T11:32:24Z"
 related to:
   - "[[GitHub - 1253146908]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create interactive 9×9 Mandala Charts for structured goal planning with inline editable cells and two view modes for overview or theme focus. Insert charts via code-block embeds, use Markdown in cells, get rainbow-colored circular theme labels, auto-save, and export print-ready A4 landscape pages."
 
     stats: {
-        downloads:  154
+        downloads:  178
         updated_at: 1780313544000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/nested-properties
 alt:
   - https://github.com/mnaoumov/obsidian-nested-properties
-downloads: 5288
-updated at: "2026-07-21T14:48:20Z"
+downloads: 5896
+updated at: "2026-08-08T18:50:36Z"
 related to:
   - "[[GitHub - 1174243603]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "View and edit nested YAML frontmatter as a collapsible tree inside the Properties editor. Collapse or expand branches, use context menu actions (cut, copy, paste, remove), add properties at any nesting level, and scroll horizontally for deep structures."
 
     stats: {
-        downloads:  5288
-        updated_at: 1784645300000
+        downloads:  5896
+        updated_at: 1786215036000
     }
 }
 ```

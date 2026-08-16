@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nl-syntax-highlighting
 alt:
   - https://github.com/artisticat1/nl-syntax-highlighting
-downloads: 20549
+downloads: 20775
 updated at: "2024-12-05T12:02:55Z"
 related to:
   - "[[GitHub - 581361313]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight adjectives, nouns, verbs, adverbs, and conjunctions in the editor to reveal sentence structure. Customize highlight colors and toggle highlighting on or off from the command palette."
 
     stats: {
-        downloads:  20549
+        downloads:  20775
         updated_at: 1733400175000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tidy-titles
 alt:
   - https://github.com/hoxi/tidy-titles
-downloads: 16
+downloads: 36
 updated at: "2026-07-20T17:29:41Z"
 related to:
   - "[[GitHub - 1276346226]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep filenames tidy while preserving human-readable titles. Slugify new note filenames and store the original title in frontmatter; update links when renaming and offer commands to create or rename notes with live slug previews."
 
     stats: {
-        downloads:  16
+        downloads:  36
         updated_at: 1784568581000
     }
 }

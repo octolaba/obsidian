@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/eve-apple-tree
 alt:
   - https://github.com/brandthebrand/eve-apple-tree
-downloads: 59
+downloads: 84
 updated at: "2026-07-05T15:52:56Z"
 related to:
   - "[[GitHub - 1289649567]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Grow your notes into a living 3D tree of light you can fly through. View each top-level folder as its own tree in a forest, place leaves by field and time, cluster linked notes, and mark breakthroughs and outputs as flowers and apples; zoom to reveal titles and descriptions or zoom out to translucent silhouettes."
 
     stats: {
-        downloads:  59
+        downloads:  84
         updated_at: 1783266776000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/todos-sort
 alt:
   - https://github.com/jsifalda/obsidian-todos-sort
-downloads: 2065
+downloads: 2130
 updated at: "2025-12-26T05:21:15Z"
 related to:
   - "[[GitHub - 878093321]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sort todos by completion status automatically when opening a note. Group tasks into four tiers — incomplete, in-progress, completed, and canceled — and choose whether completed items appear at the top or bottom for clearer prioritization. Maintain fast performance even on large notes."
 
     stats: {
-        downloads:  2065
+        downloads:  2130
         updated_at: 1766726475000
     }
 }

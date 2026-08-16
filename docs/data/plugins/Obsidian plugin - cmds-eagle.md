@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cmds-eagle
 alt:
   - https://github.com/johnfkoo951/cmds-eagle
-downloads: 10399
+downloads: 11285
 updated at: "2026-07-09T18:06:29Z"
 related to:
   - "[[GitHub - 1130622836]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect your Eagle asset library to your vault and search or embed images directly into notes. Upload pasted, dropped, or local images to cloud storage (ImgHippo, Cloudflare R2, S3, WebDAV), batch-convert local images to cloud URLs, and convert image paths for cross-platform Mac/Windows sync."
 
     stats: {
-        downloads:  10399
+        downloads:  11285
         updated_at: 1783620389000
     }
 }

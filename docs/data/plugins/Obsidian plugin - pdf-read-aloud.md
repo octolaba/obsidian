@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pdf-read-aloud
 alt:
   - https://github.com/gurnoorrana/Obsidian-pdf-read-aloud
-downloads: 192
+downloads: 252
 updated at: "2026-06-07T13:05:37Z"
 related to:
   - "[[GitHub - 1261988444]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Read open PDF files aloud using your device's built-in text-to-speech with no internet or API needed. Control playback with Play/Pause/Stop, skip sentences, adjust speed and voice, click to start from any sentence, read selections, jump via the progress bar, and use context-menu or Command Palette commands."
 
     stats: {
-        downloads:  192
+        downloads:  252
         updated_at: 1780837537000
     }
 }

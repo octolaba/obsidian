@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/code-language-completer
 alt:
   - https://github.com/stanley-910/obsidian-code-language-completer
-downloads: 1845
+downloads: 1949
 updated at: "2024-09-24T20:50:15Z"
 related to:
   - "[[GitHub - 858536136]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert code fences faster with inline language autosuggestions and completions for many programming languages. Suggest languages based on recently used entries, add custom languages, and open the language picker with a hotkey that places the cursor inside the new code block."
 
     stats: {
-        downloads:  1845
+        downloads:  1949
         updated_at: 1727211015000
     }
 }

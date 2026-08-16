@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/docdrop
 alt:
   - https://github.com/flatulentfowl/docdrop
-downloads: 515
+downloads: 752
 updated at: "2026-05-12T21:48:24Z"
 related to:
   - "[[GitHub - 1228167201]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "DocDrop is an Obsidian plugin that converts documents, spreadsheets, images, and more into clean, usable Markdown files directly within your vault. Powered by Microsoft's MarkItDown CLI, it processes files entirely on your machine (with optional cloud AI support for enhanced OCR) — giving you control, speed, and privacy. Right-click any supported file in your vault and have it converted to Markdown in seconds. No cloud dependency required by default, no complex workflows — just convert and go. Supported File Types DocDrop handles a wide variety of formats: Documents: PDF, Word Presentations: PowerPoint Spreadsheets: Excel Images: JPEG, PNG, GIF, WebP, BMP, TIFF Markup & Data: HTML, CSV, JSON, XML, EPUB, ZIP Audio: MP3, WAV (via ffmpeg) How to Use DocDrop Right-Click Context Menu In the Obsidian file explorer, right-click a supported file (e.g., a PDF) Select \"Convert to Markdown with DocDrop\" Wait for the conversion to complete A new .md file appears in the same folder"
 
     stats: {
-        downloads:  515
+        downloads:  752
         updated_at: 1778622504000
     }
 }

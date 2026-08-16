@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chessview
 alt:
   - https://github.com/tuxitop/chessview
-downloads: 248
+downloads: 341
 updated at: "2026-05-24T13:15:20Z"
 related to:
   - "[[GitHub - 1155723495]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render interactive chess boards from PGN or FEN directly in notes. Create solvable puzzles with hints and solutions, annotate moves with NAGs, draw arrows and circles, navigate moves via keyboard, and export positions to Lichess or Chess.com."
 
     stats: {
-        downloads:  248
+        downloads:  341
         updated_at: 1779628520000
     }
 }

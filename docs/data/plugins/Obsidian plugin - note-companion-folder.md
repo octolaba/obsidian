@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-companion-folder
 alt:
   - https://github.com/vkodocha/NoteCompanionFolder
-downloads: 2115
+downloads: 2137
 updated at: "2025-10-01T13:13:37Z"
 related to:
   - "[[GitHub - 764447873]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Store attachments in a dedicated companion folder for each note, named after the note without its extension. Place companion folders next to notes or under a common base path, and open or create them via ribbon, command, context, or file actions."
 
     stats: {
-        downloads:  2115
+        downloads:  2137
         updated_at: 1759324417000
     }
 }

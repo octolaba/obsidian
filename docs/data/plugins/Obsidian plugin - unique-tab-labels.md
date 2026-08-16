@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/unique-tab-labels
 alt:
   - https://github.com/stephencarboni/obsidian-unique-tab-labels
-downloads: 105
+downloads: 118
 updated at: "2026-05-11T09:45:22Z"
 related to:
   - "[[GitHub - 1234735539]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Make tab labels unique by prefixing filenames with parent folder names, adding additional parents until each label is distinct. Keep labels minimal by only adding as many folder levels as needed."
 
     stats: {
-        downloads:  105
+        downloads:  118
         updated_at: 1778492722000
     }
 }

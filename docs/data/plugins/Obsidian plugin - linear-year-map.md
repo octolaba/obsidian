@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/linear-year-map
 alt:
   - https://github.com/michaelatdisney/ObsidianLinearYearMap
-downloads: 571
+downloads: 614
 updated at: "2026-05-15T18:45:20Z"
 related to:
   - "[[GitHub - 1140689855]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize your year with a continuous 12-month horizontal timeline that plots notes from frontmatter dates. Color-code and filter categories, auto-refresh on edits, and click events to open their notes."
 
     stats: {
-        downloads:  571
+        downloads:  614
         updated_at: 1778870720000
     }
 }

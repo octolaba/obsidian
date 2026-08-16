@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hard-breaks
 alt:
   - https://github.com/bkis/obsidian-hard-breaks
-downloads: 7259
+downloads: 7300
 updated at: "2022-08-08T14:36:08Z"
 related to:
   - "[[GitHub - 513838182]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Force hard line breaks in the open note's paragraphs and blockquotes while leaving tables, lists, links, code blocks, and front matter untouched. Replace soft breaks with CommonMark-compliant hard breaks via an editor command and choose two-space or backslash formats."
 
     stats: {
-        downloads:  7259
+        downloads:  7300
         updated_at: 1659969368000
     }
 }

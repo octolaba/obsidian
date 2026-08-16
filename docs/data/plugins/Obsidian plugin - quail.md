@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quail
 alt:
   - https://github.com/lyricat/obsidian-quail
-downloads: 4608
+downloads: 4629
 updated at: "2025-04-07T01:03:05Z"
 related to:
   - "[[GitHub - 679094145]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish Obsidian notes to Quaily as newsletters or blog posts and manage publish/unpublish across multiple channels and languages. Generate AI summaries and tags, deliver posts to subscribers, and preview content on mobile or desktop before publishing."
 
     stats: {
-        downloads:  4608
+        downloads:  4629
         updated_at: 1743987785000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-archive
 alt:
   - https://github.com/shanedonburke/obsidian-auto-archive
-downloads: 4243
+downloads: 4270
 updated at: "2023-08-26T15:56:34Z"
 related to:
   - "[[GitHub - 680506810]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Archive notes automatically once they reach a specified age. Specify which notes to archive and where to move them to keep your vault organized without manual dragging."
 
     stats: {
-        downloads:  4243
+        downloads:  4270
         updated_at: 1693065394000
     }
 }

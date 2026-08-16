@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rss-dashboard
 alt:
   - https://github.com/amatya-aditya/obsidian-rss-dashboard
-downloads: 118533
+downloads: 125743
 updated at: "2026-07-11T23:17:35Z"
 related to:
   - "[[GitHub - 949786244]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Stream RSS, Atom, JSON feeds, podcasts and YouTube into an in-vault dashboard. Discover curated sources, read full articles with a built-in reader and markdown conversion, save as templated markdown, and organize with folders, tags, filters, OPML support, and auto-refresh."
 
     stats: {
-        downloads:  118533
+        downloads:  125743
         updated_at: 1783811855000
     }
 }

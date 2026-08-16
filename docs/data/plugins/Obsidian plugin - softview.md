@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/softview
 alt:
   - https://github.com/icarsone/obsidian-SoftView
-downloads: 117
+downloads: 131
 updated at: "2026-05-28T12:43:27Z"
 related to:
   - "[[GitHub - 1252313787]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open the current Markdown note in a warm, focused reading pane inside Obsidian that preserves internal links, images, callouts, tags, and embeds. Use a paper-like layout with narrower lines, gentler spacing, internal navigation, and scroll position restore."
 
     stats: {
-        downloads:  117
+        downloads:  131
         updated_at: 1779972207000
     }
 }

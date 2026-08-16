@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/ibook
 alt:
   - https://github.com/bingryan/obsidian-ibook-plugin
-downloads: 14275
+downloads: 14318
 updated at: "2023-07-31T02:50:16Z"
 related to:
   - "[[GitHub - 609379043]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Export Mac iBooks highlights and annotations into your Obsidian vault. Search by book name or author, fetch metadata from Goodreads, and apply customizable Handlebars templates to format imported notes."
 
     stats: {
-        downloads:  14275
+        downloads:  14318
         updated_at: 1690771816000
     }
 }

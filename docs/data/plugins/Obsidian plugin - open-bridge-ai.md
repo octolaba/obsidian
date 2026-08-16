@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-bridge-ai
 alt:
   - https://github.com/xiaoyihuang0503-cyber/obsidian-open-bridge-ai
-downloads: 145
+downloads: 159
 updated at: "2026-05-23T05:50:17Z"
 related to:
   - "[[GitHub - 1247285541]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open Bridge helps you create contextual AI conversations inside your vault. You can attach files, folders, selected Markdown text, and specific AI replies as precise context before asking a question. This makes short prompts like \"summarize this\", \"rewrite this paragraph\", or \"compare these files\" work with the right surrounding information. It supports Claude, Codex, custom CLI backends, and OpenAI-compatible model gateways. You can use subscription-based CLI login or configure an API gateway with a base URL, model name, and optional API key. Open Bridge also provides active context chips, quoted AI replies, live CLI execution progress, Markdown session saving, and interface languages for Chinese, English, and Japanese."
 
     stats: {
-        downloads:  145
+        downloads:  159
         updated_at: 1779515417000
     }
 }

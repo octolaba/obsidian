@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/consistent-attachments
 alt:
   - https://github.com/bueckerlars/obsidian-consistent-attachments
-downloads: 295
+downloads: 363
 updated at: "2026-06-03T16:51:34Z"
 related to:
   - "[[GitHub - 1251685509]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep attachments with their notes when moving or copying files by automatically relocating or duplicating linked files. Handle shared attachments by skipping, copying, or prompting; scan and clean orphaned files; prevent overwrites with numeric suffixes; view recent operations and run manual actions."
 
     stats: {
-        downloads:  295
+        downloads:  363
         updated_at: 1780505494000
     }
 }

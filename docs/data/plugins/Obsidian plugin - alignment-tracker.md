@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/alignment-tracker
 alt:
   - https://github.com/fiopio/ObsidianAlignmentTracker
-downloads: 537
+downloads: 559
 updated at: "2024-09-10T13:33:46Z"
 related to:
   - "[[GitHub - 855099528]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track character alignment by tallying Lawful/Chaotic and Good/Evil actions and plotting them on two alignment axes. Use an alignmenttracker block to increment L/C/G/E counts and auto-generate a grid that reveals each character's perceived alignment."
 
     stats: {
-        downloads:  537
+        downloads:  559
         updated_at: 1725975226000
     }
 }

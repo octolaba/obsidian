@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/local-quotes
 alt:
   - https://github.com/sundevista/local-quotes
-downloads: 7701
+downloads: 7746
 updated at: "2023-07-28T13:54:42Z"
 related to:
   - "[[GitHub - 481119905]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Collect quotes from across your vault and embed rotating quote blocks anywhere in your notes. Renew quotes automatically at intervals from seconds to months, apply custom classes and formats, and refresh instantly to see updates in real time."
 
     stats: {
-        downloads:  7701
+        downloads:  7746
         updated_at: 1690552482000
     }
 }

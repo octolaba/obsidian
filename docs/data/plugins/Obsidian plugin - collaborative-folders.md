@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/collaborative-folders
 alt:
   - https://github.com/abromberg/obsidian-collaborative-folders-plugin
-downloads: 1147
+downloads: 1806
 updated at: "2026-05-23T20:01:42Z"
 related to:
   - "[[GitHub - 1170065738]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Share folders and edit notes in real time with end-to-end encryption. See collaborators' cursors, sync live edits across vaults, and invite others with share links so folders appear in their vault."
 
     stats: {
-        downloads:  1147
+        downloads:  1806
         updated_at: 1779566502000
     }
 }

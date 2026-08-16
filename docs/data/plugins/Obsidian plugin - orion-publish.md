@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/orion-publish
 alt:
   - https://github.com/seanrcollings/orion-publish-plugin
-downloads: 1196
+downloads: 1210
 updated at: "2024-01-12T06:22:21Z"
 related to:
   - "[[GitHub - 726594056]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish Obsidian notes to the web and manage them from Obsidian. Update or unpublish notes, copy published URLs to the clipboard, point publications to a custom domain, and group notes into feeds to collect related posts."
 
     stats: {
-        downloads:  1196
+        downloads:  1210
         updated_at: 1705040541000
     }
 }

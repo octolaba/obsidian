@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mochi-cards-pro
 alt:
   - https://github.com/xhayden/obsidian-mochi-cards-pro
-downloads: 3044
+downloads: 3067
 updated at: "2025-09-24T18:45:28Z"
 related to:
   - "[[GitHub - 643039140]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create Mochi flashcards from Markdown notes using Mochi Pro's premium API; supply your Mochi Pro API key to enable exports. Author cards as headings like # Card Name with any Markdown or LaTeX content, select one or many, then run the Export Card from Text command to send them to Mochi. Use Mochi templates that start with << Name >> <input value=\"\">."
 
     stats: {
-        downloads:  3044
+        downloads:  3067
         updated_at: 1758739528000
     }
 }

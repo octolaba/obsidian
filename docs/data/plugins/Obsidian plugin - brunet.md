@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/brunet
 alt:
   - https://github.com/msyaifullah/brunet
-downloads: 107
+downloads: 126
 updated at: "2026-05-24T07:39:11Z"
 related to:
   - "[[GitHub - 1242644572]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View and Run Bruno API requests directly from Obsidian. Open any .bru file to see a formatted card with the method, URL, headers, params, body, and docs — then run it and inspect the response with JSON pretty-printing. A Collections sidebar lists all your .bru files with run buttons, .bru/.yml/.yaml files get syntax highlighting, and you can copy the bru run CLI command in one click."
 
     stats: {
-        downloads:  107
+        downloads:  126
         updated_at: 1779608351000
     }
 }

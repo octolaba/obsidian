@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/vault-as-mcp
 alt:
   - https://github.com/ebullient/obsidian-vault-mcp
-downloads: 5096
-updated at: "2026-06-26T17:36:41Z"
+downloads: 6080
+updated at: "2026-07-30T16:37:44Z"
 related to:
   - "[[GitHub - 1076932350]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Run an MCP (Model Context Protocol) server in your vault to let external LLM tools access and manipulate notes over HTTP or via the included stdio bridge. Show server status in the status bar and expose operations to read, search, list, create, append, update, delete, expand embeds, list templates, and get periodic note paths. Keep all data local and run only on desktop environments."
 
     stats: {
-        downloads:  5096
-        updated_at: 1782495401000
+        downloads:  6080
+        updated_at: 1785429464000
     }
 }
 ```

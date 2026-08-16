@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-translate
 alt:
   - https://github.com/dxshelley/ai-translate
-downloads: 15
+downloads: 79
 updated at: "2026-07-23T02:00:02Z"
 related to:
   - "[[GitHub - 1224348956]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "AI Translate keeps language support inside the moment of reading and writing, so you can resolve meaning without breaking your note-taking flow. Look up a single English word for phonetics, bilingual definitions, and UK/US audio; select phrases, sentences, or passages for translation; or enter text directly from the Command Palette. Designed around low-friction learning, it turns a lookup into a useful next step: optionally send successful English lookups to your own vocabulary service automatically or save them manually. The integration is off by default and supports flexible request templates, authentication, and custom headers. Use the built-in Youdao mobile dictionary and translation services, or configure an OpenAI-compatible endpoint as a fallback. Chinese text translates to English; other text uses your chosen target language. Requests go only to Youdao, endpoints you configure, and the vocabulary service you explicitly enable."
 
     stats: {
-        downloads:  15
+        downloads:  79
         updated_at: 1784772002000
     }
 }

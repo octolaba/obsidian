@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/object-oriented-thinking
 alt:
   - https://github.com/tiagojacinto/obsidian-object-oriented-thinking
-downloads: 640
+downloads: 667
 updated at: "2025-08-27T15:11:25Z"
 related to:
   - "[[GitHub - 949934706]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add inheritance-like behavior to notes by setting an extends frontmatter link to a parent note (e.g., extends: [[ParentNote]]). Query relationships programmatically with oot.getObjectFileByLink and oot.getObjectFileByPath, and use the returned isDescendantOf method to filter pages in Dataview or custom scripts."
 
     stats: {
-        downloads:  640
+        downloads:  667
         updated_at: 1756307485000
     }
 }

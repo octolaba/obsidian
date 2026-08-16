@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/unread-plus
 alt:
   - https://github.com/kashicards/unread-plus
-downloads: 120
-updated at: "2026-07-05T13:16:20Z"
+downloads: 173
+updated at: "2026-08-04T17:05:21Z"
 related to:
   - "[[GitHub - 1256447449]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Track unread files with colored status dots and per-status folder badges that propagate counts through the entire folder tree, even when collapsed. Show a total unread count in the status bar, age dots over time, snooze items, detect files added while Obsidian was closed, open unread files sequentially, and create custom statuses and colors."
 
     stats: {
-        downloads:  120
-        updated_at: 1783257380000
+        downloads:  173
+        updated_at: 1785863121000
     }
 }
 ```

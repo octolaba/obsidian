@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dql-syntax
 alt:
   - https://github.com/andrewusher/obsidian-dynatrace-dql
-downloads: 76
+downloads: 85
 updated at: "2026-06-09T02:18:44Z"
 related to:
   - "[[GitHub - 1262376549]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight DQL code blocks in Obsidian with full token coloring and a copy button in reading mode. Recognize commands, functions, data types, operators, durations, numbers, strings, comments and include ready-to-use query templates."
 
     stats: {
-        downloads:  76
+        downloads:  85
         updated_at: 1780971524000
     }
 }

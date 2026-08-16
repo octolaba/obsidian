@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/type-zen-mode
 alt:
   - https://github.com/ilgamgabdullin/obsidian-typezen
-downloads: 1793
+downloads: 1809
 updated at: "2025-02-03T14:08:05Z"
 related to:
   - "[[GitHub - 881464778]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Remove all distractions while typing. Enter a clean writing mode that hides UI elements and keeps the editor centered for uninterrupted focus."
 
     stats: {
-        downloads:  1793
+        downloads:  1809
         updated_at: 1738591685000
     }
 }

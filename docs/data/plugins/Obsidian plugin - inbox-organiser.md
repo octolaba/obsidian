@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/inbox-organiser
 alt:
   - https://github.com/jamiefdhurst/obsidian-inbox-organiser
-downloads: 3156
+downloads: 3354
 updated at: "2026-01-06T21:47:08Z"
 related to:
   - "[[GitHub - 887351813]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Collect new and unorganised notes saved in your vault root into a dedicated inbox folder. Provide an interface to move inbox files into other folders and periodically prompt you to clear and organise your inbox."
 
     stats: {
-        downloads:  3156
+        downloads:  3354
         updated_at: 1767736028000
     }
 }

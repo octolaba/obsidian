@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pins-save
 alt:
   - https://github.com/satosprod/pins-save
-downloads: 35
+downloads: 55
 updated at: "2026-07-08T04:49:19Z"
 related to:
   - "[[GitHub - 1292113332]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Restore pinned Markdown tabs across restarts by automatically reopening and re-pinning notes you had pinned. Track pin/unpin actions in the background, update saved paths when files are renamed or deleted, and provide commands plus a live status panel to manage saved pins."
 
     stats: {
-        downloads:  35
+        downloads:  55
         updated_at: 1783486159000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/pin-board
 alt:
   - https://github.com/rayvven/obsidian-pin-board
-downloads: 165
-updated at: "2026-07-08T03:34:24Z"
+downloads: 223
+updated at: "2026-08-09T23:45:38Z"
 related to:
   - "[[GitHub - 1283336479]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Display a Pinterest-style masonry feed of every image and short video from a chosen folder or the entire vault. Attach notes to pins, drag files onto the board to add them, and pin the board tab to keep it visible while browsing."
 
     stats: {
-        downloads:  165
-        updated_at: 1783481664000
+        downloads:  223
+        updated_at: 1786319138000
     }
 }
 ```

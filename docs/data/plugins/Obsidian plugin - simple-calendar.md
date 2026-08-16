@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-calendar
 alt:
   - https://github.com/newcodejin/simple-calendar
-downloads: 32
+downloads: 66
 updated at: "2026-07-22T04:43:09Z"
 related to:
   - "[[GitHub - 1301283544]]"
@@ -36,7 +36,7 @@ plugin: {
     description: "A minimal calendar you can lightly decorate. - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  32
+        downloads:  66
         updated_at: 1784695389000
     }
 }

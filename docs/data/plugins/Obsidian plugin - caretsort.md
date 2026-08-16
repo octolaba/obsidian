@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/caretsort
 alt:
   - https://github.com/simratt/obsidian-caretsort
-downloads: 130
+downloads: 157
 updated at: "2026-05-15T22:48:27Z"
 related to:
   - "[[GitHub - 1216527208]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a ▾ caret to table headers and click to sort columns A→Z or Z→A. Write the new order back to the Markdown file, sorting numbers numerically and using displayed wiki-link text for alphabetical sorts. Work in reading view and live preview and provide an undo for the last sort."
 
     stats: {
-        downloads:  130
+        downloads:  157
         updated_at: 1778885307000
     }
 }

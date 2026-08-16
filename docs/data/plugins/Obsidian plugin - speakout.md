@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/speakout
 alt:
   - https://github.com/landyking/speak-out-plugin-for-obsidian
-downloads: 64
+downloads: 119
 updated at: "2026-07-09T09:46:25Z"
 related to:
   - "[[GitHub - 1289622781]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add lightweight text-to-speech controls to reading view and mark passages with HTML data-speak attributes or marker links. Tap the speaker icon beside each marked section to play the rendered text via the browser's local TTS without sending note content to any remote service."
 
     stats: {
-        downloads:  64
+        downloads:  119
         updated_at: 1783590385000
     }
 }

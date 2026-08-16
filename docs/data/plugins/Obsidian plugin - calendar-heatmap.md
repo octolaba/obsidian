@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/calendar-heatmap
 alt:
   - https://github.com/deemsd/calendar-heatmap
-downloads: 265
+downloads: 311
 updated at: "2026-07-12T12:10:26Z"
 related to:
   - "[[GitHub - 1269932527]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a calendar view in the sidebar to navigate, open, or create daily notes. Visualize writing activity with a heatmap by note count or words added, and optionally display week numbers to open weekly notes."
 
     stats: {
-        downloads:  265
+        downloads:  311
         updated_at: 1783858226000
     }
 }

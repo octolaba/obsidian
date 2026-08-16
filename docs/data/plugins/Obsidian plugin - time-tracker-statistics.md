@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/time-tracker-statistics
 alt:
   - https://github.com/the-quotient/obsidian-time-tracker-statistics
-downloads: 197
+downloads: 228
 updated at: "2026-05-31T20:09:23Z"
 related to:
   - "[[GitHub - 1147188589]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualise tracked time across your vault with daily and monthly statistics. Group entries by file tags, set category target times and time-off days, and view totals, per-entry breakdowns, running trackers and deviation calculations."
 
     stats: {
-        downloads:  197
+        downloads:  228
         updated_at: 1780258163000
     }
 }

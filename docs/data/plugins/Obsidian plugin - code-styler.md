@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/code-styler
 alt:
   - https://github.com/mayurankv/Obsidian-Code-Styler
-downloads: 222476
+downloads: 226849
 updated at: "2024-02-23T13:32:40Z"
 related to:
   - "[[GitHub - 663255791]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Style code blocks and inline code in editor and preview with themeable appearance, light/dark colors, optional line numbers and highlights. Apply exclusions or whitelists for languages and processed blocks to avoid styling conflicts with other plugins."
 
     stats: {
-        downloads:  222476
+        downloads:  226849
         updated_at: 1708695160000
     }
 }

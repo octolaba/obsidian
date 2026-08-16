@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/yori-task
 alt:
   - https://github.com/yorigo77/obsidian-yori-task
-downloads: 279
+downloads: 309
 updated at: "2026-05-16T10:21:08Z"
 related to:
   - "[[GitHub - 1217377374]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize daily, weekly and monthly tasks with dedicated Task, Week and Year views to plan and review short- and long-term work. Arrange and edit tasks via drag-and-drop and right-click actions; convert notes into linked tasks by dragging them into blocks. Archive the current view into a summary note for later reference."
 
     stats: {
-        downloads:  279
+        downloads:  309
         updated_at: 1778926868000
     }
 }

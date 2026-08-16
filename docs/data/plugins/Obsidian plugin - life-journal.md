@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/life-journal
 alt:
   - https://github.com/iamxiaoming-gif/life-journal
-downloads: 192
+downloads: 259
 updated at: "2026-05-22T17:35:21Z"
 related to:
   - "[[GitHub - 1246823342]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Life Journal is an Obsidian plugin that makes recording effortless. One click in your sidebar — just open, type, save. Entries are auto-timestamped to your daily markdown file. Four tabs: Mood — pick emotion + note in 3s; Record — capture what happened; Thoughts — catch fleeting ideas; Plans — add tasks with auto-extracted dates. Review Mode: waterfall cards, filter by type, click #tags, check tasks with file sync. Three UI styles × 8 color themes. Smart: natural language dates, image paste, inline #tags, markdown rendering. Mobile responsive. All data is plain markdown in your vault — no cloud, no lock-in. By Natural Growth Notes. Obsidian 0.15.0+. Life Journal 是 Obsidian 插件，让记录毫不费力。常驻侧边栏，打开、输入、保存三步完成。自动加时间戳写入当天 Markdown 文件。四个Tab：心情—三秒记录；记录—记下此刻；想法—捕捉念头；计划—自然语言待办自动提取日期。回顾模式：瀑布流卡片，按类型筛选，点击#标签定位，直接勾选待办同步文件。自然成长笔记(小红书、抖音、微信公众号)出品，Obsidian 0.15.0+。"
 
     stats: {
-        downloads:  192
+        downloads:  259
         updated_at: 1779471321000
     }
 }

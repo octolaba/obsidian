@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ollama-notes-chat
 alt:
   - https://github.com/tdmarchetta/obsidian-ollama-notes-chat
-downloads: 408
+downloads: 493
 updated at: "2026-07-09T21:18:20Z"
 related to:
   - "[[GitHub - 1214056841]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with your notes from a right-sidebar panel via a local Ollama server so requests stay on your LAN. Stream responses live, switch context modes (note, selection, linked notes, RAG), render Markdown with clickable [[wikilinks]], and save or insert conversations."
 
     stats: {
-        downloads:  408
+        downloads:  493
         updated_at: 1783631900000
     }
 }

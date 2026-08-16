@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/minitabs
 alt:
   - https://github.com/ssjy1919/Obsidian-minitabs
-downloads: 4181
+downloads: 4251
 updated at: "2025-05-17T15:39:38Z"
 related to:
   - "[[GitHub - 716789924]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed multiple tabbed panels and split-column layouts inside a code block and render their contents as standard Obsidian markdown. Create top-or-bottom tab bars, nest tabs arbitrarily, or compose 2x2 (or 2xN) quadrant views to organize dashboards and multi-panel notes."
 
     stats: {
-        downloads:  4181
+        downloads:  4251
         updated_at: 1747496378000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-as-note
 alt:
   - https://github.com/lyqed/copy-as-note
-downloads: 919
+downloads: 1032
 updated at: "2026-06-18T21:02:29Z"
 related to:
   - "[[GitHub - 1145830198]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy the full raw Markdown of the active note to the clipboard. Use a mobile toolbar command or the left‑sidebar ribbon for quick access; copies raw .md file content from the vault (not rendered preview)."
 
     stats: {
-        downloads:  919
+        downloads:  1032
         updated_at: 1781816549000
     }
 }

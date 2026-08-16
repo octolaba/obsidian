@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dictionary-sync
 alt:
   - https://github.com/kquinsland/obsidian-plugin-dictionary-sync
-downloads: 168
+downloads: 176
 updated at: "2026-02-06T03:19:35Z"
 related to:
   - "[[GitHub - 1146915966]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Synchronize your spell-check dictionary with a note in your vault to keep custom words synced across devices via Obsidian Sync. Read and write the dictionary using Obsidian's native APIs so changes apply immediately and avoid external scripts or quitting the app."
 
     stats: {
-        downloads:  168
+        downloads:  176
         updated_at: 1770347975000
     }
 }

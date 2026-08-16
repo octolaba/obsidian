@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-wordy
 alt:
   - https://github.com/nqthqn/obsidian-wordy
-downloads: 15448
+downloads: 15813
 updated at: "2023-08-10T18:20:12Z"
 related to:
   - "[[GitHub - 555195090]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Find synonyms, rhymes, antonyms, and alliterative alternatives for any highlighted word using the Datamuse API. Browse related terms — including hypernyms, hyponyms, holonyms and meronyms — in the Wordy panel and replace words directly in your note."
 
     stats: {
-        downloads:  15448
+        downloads:  15813
         updated_at: 1691691612000
     }
 }

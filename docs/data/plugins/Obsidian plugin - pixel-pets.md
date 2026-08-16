@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pixel-pets
 alt:
   - https://github.com/lucashjin/obsidian-pets
-downloads: 3986
+downloads: 4099
 updated at: "2026-06-23T02:12:35Z"
 related to:
   - "[[GitHub - 998054587]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a movable pet view in your vault and add pixel pets (22 cats with 7+ animations) to play across 10 backgrounds. Name and customize pets, play fetch, pet them, make them follow you, or chat with Catbot that answers using your vault's context."
 
     stats: {
-        downloads:  3986
+        downloads:  4099
         updated_at: 1782180755000
     }
 }

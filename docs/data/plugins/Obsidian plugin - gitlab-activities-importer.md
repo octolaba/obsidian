@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gitlab-activities-importer
 alt:
   - https://github.com/anindyaspaul/obsidian-gitlab-activities-importer
-downloads: 100
+downloads: 116
 updated at: "2026-03-14T17:11:08Z"
 related to:
   - "[[GitHub - 944606308]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import GitLab activities into the active daily note via the GitLab REST API, matching events to the note's date based on the filename. Support GitLab.com and self‑managed instances, replace a dedicated section on each run for idempotent updates, and include push metadata like branch, commit count, and latest commit title."
 
     stats: {
-        downloads:  100
+        downloads:  116
         updated_at: 1773508268000
     }
 }

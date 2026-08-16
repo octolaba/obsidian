@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/desk-photos
 alt:
   - https://github.com/tapeau/Desk-Photos
-downloads: 46
+downloads: 91
 updated at: "2026-07-11T01:28:17Z"
 related to:
   - "[[GitHub - 1293724701]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add sticky, floating photos atop the editor and pin them to the screen or to specific parts of a note. Customize visuals with filters, frames, tapes, pins, text overlays and optional sounds; positions save relative to the editor or note and persist across sessions."
 
     stats: {
-        downloads:  46
+        downloads:  91
         updated_at: 1783733297000
     }
 }

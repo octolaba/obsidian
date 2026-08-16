@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rapid-ai
 alt:
   - https://github.com/ahmed3developer/rapid-ai
-downloads: 985
+downloads: 994
 updated at: "2024-05-18T01:55:03Z"
 related to:
   - "[[GitHub - 782959635]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate content instantly with an AI assistant accessible from the sidebar, status bar, context menu, command palette, or inline in notes. Apply AI actions to selected text and use quick-action buttons and keyboard shortcuts for grammar fixes, translations, code adjustments, and diagram generation. Rely on a high-availability API for fast, high-rate requests."
 
     stats: {
-        downloads:  985
+        downloads:  994
         updated_at: 1715997303000
     }
 }

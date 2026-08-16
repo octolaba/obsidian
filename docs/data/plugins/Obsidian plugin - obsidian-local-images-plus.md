@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-local-images-plus
 alt:
   - https://github.com/sergei-korneev/obsidian-local-images-plus
-downloads: 152086
+downloads: 155346
 updated at: "2025-09-04T21:45:05Z"
 related to:
   - "[[GitHub - 579394681]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Download and localize images and media from pasted web content, Word/OpenOffice docs, markdown embeds and base64 data into your vault. Save attachments next to notes or into note-named folders, convert PNGs to JPEGs, deduplicate by MD5 and remove orphaned files."
 
     stats: {
-        downloads:  152086
+        downloads:  155346
         updated_at: 1757022305000
     }
 }

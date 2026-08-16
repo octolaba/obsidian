@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/settings-sidebar-organizer
 alt:
   - https://github.com/cyrylsz/obsidian-settings-sidebar-organizer
-downloads: 3271
-updated at: "2026-06-23T15:49:28Z"
+downloads: 4330
+updated at: "2026-08-06T09:59:45Z"
 related to:
   - "[[GitHub - 1158567091]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Group Community Plugins into custom collapsible folders, auto-sort by keyword matches, and collect unmatched items in an optional Ungrouped folder. Rename plugins with aliases, reorder entries manually, and compact or collapse Settings sidebar headers for a cleaner layout."
 
     stats: {
-        downloads:  3271
-        updated_at: 1782229768000
+        downloads:  4330
+        updated_at: 1786010385000
     }
 }
 ```

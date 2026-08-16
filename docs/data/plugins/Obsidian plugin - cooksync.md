@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cooksync
 alt:
   - https://github.com/furst/cooksync-obsidian
-downloads: 444
+downloads: 535
 updated at: "2025-01-14T20:03:11Z"
 related to:
   - "[[GitHub - 910199172]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Cooksync recipes into Obsidian automatically, importing full recipe data, source links, and cover images. Add tags on import and run automatic or manual sync from a connected Cooksync account (requires a paid Cooksync subscription)."
 
     stats: {
-        downloads:  444
+        downloads:  535
         updated_at: 1736884991000
     }
 }

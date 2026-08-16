@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/font-size
 alt:
   - https://github.com/ryotaushio/obsidian-font-size
-downloads: 14754
+downloads: 15166
 updated at: "2024-03-28T05:48:28Z"
 related to:
   - "[[GitHub - 747885016]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Adjust editor font size with Increment and Decrement commands. Change size from hotkeys or the command palette without affecting other UI elements."
 
     stats: {
-        downloads:  14754
+        downloads:  15166
         updated_at: 1711604908000
     }
 }

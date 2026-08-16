@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-furigana
 alt:
   - https://github.com/uonr/obsidian-furigana
-downloads: 7184
+downloads: 7238
 updated at: "2025-02-11T05:22:58Z"
 related to:
   - "[[GitHub - 340460785]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Wrap selected text in <ruby>…<rt>…</rt></ruby> tags to add furigana (ruby) readings. Insert editable <rt> slots for quick manual entry of pronunciations."
 
     stats: {
-        downloads:  7184
+        downloads:  7238
         updated_at: 1739251378000
     }
 }

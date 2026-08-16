@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/cursor-history
 alt:
   - https://github.com/abdelrahmanhafez/obsidian-cursor-history
-downloads: 320
-updated at: "2026-03-28T13:39:38Z"
+downloads: 362
+updated at: "2026-08-08T15:33:10Z"
 related to:
   - "[[GitHub - 1194056448]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Track cursor positions across files and navigate back or forward with a browser-style stack. Use a position-based heuristic (same line or within 10 lines updates current entry; 10+ lines or a different file creates a new entry), keep up to 50 session entries, and clear forward history after navigating."
 
     stats: {
-        downloads:  320
-        updated_at: 1774705178000
+        downloads:  362
+        updated_at: 1786203190000
     }
 }
 ```

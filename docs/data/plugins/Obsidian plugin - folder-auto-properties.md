@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-auto-properties
 alt:
   - https://github.com/kawecz/folder-auto-properties
-downloads: 1082
+downloads: 1588
 updated at: "2026-07-02T00:30:50Z"
 related to:
   - "[[GitHub - 1197747585]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Automate frontmatter metadata by applying folder-specific rules so new notes inherit predefined YAML properties. Use integrated folder search to map paths and inject properties safely without overwriting existing frontmatter. Skip properties with empty values to keep files clean."
 
     stats: {
-        downloads:  1082
+        downloads:  1588
         updated_at: 1782952250000
     }
 }

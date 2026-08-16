@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/battlesnake-viewer
 alt:
   - https://github.com/enderinvader/battlesnake-viewer
-downloads: 3042
+downloads: 3056
 updated at: "2023-07-11T22:33:37Z"
 related to:
   - "[[GitHub - 663988704]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render BattleSnake JSON board states as static SVG boards in preview mode for clear, exportable visuals. Produce non-interactive, export-optimized images from code blocks labeled \"battlesnake\" for inclusion in HTML/PDF outputs."
 
     stats: {
-        downloads:  3042
+        downloads:  3056
         updated_at: 1689114817000
     }
 }

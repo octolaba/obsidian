@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/cooklang-obsidian
 alt:
   - https://github.com/cooklang/cooklang-obsidian
-downloads: 15081
-updated at: "2026-06-29T18:42:50Z"
+downloads: 15880
+updated at: "2026-08-10T10:24:54Z"
 related to:
   - "[[GitHub - 423648207]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add Cooklang recipe support to Obsidian and parse Cooklang markup into structured elements like ingredients, tools, times, metadata, and method. Provide editor and preview integration so Cooklang files render as readable, structured recipes inside your vault."
 
     stats: {
-        downloads:  15081
-        updated_at: 1782758570000
+        downloads:  15880
+        updated_at: 1786357494000
     }
 }
 ```

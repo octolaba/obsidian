@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/epub-reader-with-tts
 alt:
   - https://github.com/usero2/obsidian-plugins-epub-reader-with-tts
-downloads: 384
+downloads: 536
 updated at: "2026-06-10T17:41:37Z"
 related to:
   - "[[GitHub - 1263744716]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Read EPUBs natively inside Obsidian with scroll or paginated modes, a clickable table of contents, in-book search, and automatic restoration of your last chapter and scroll position. Listen with integrated TTS (system or Google), enjoy live sentence highlighting, start-from-cursor playback, instant speed control, and smart paragraph skipping."
 
     stats: {
-        downloads:  384
+        downloads:  536
         updated_at: 1781113297000
     }
 }

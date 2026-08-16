@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/markdown2html
 alt:
   - https://github.com/blotspot/obsidian-markdown2html
-downloads: 1165
-updated at: "2026-06-12T20:03:30Z"
+downloads: 1242
+updated at: "2026-07-31T19:22:23Z"
 related to:
   - "[[GitHub - 910157634]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Copy notes as clean HTML or plain text to the clipboard. Convert selected text or whole documents to HTML using Obsidian's renderer, strip all tag attributes and classes, inline internal images as base64 (up to a certain size), remove empty paragraphs, and preserve content added by other plugins."
 
     stats: {
-        downloads:  1165
-        updated_at: 1781294610000
+        downloads:  1242
+        updated_at: 1785525743000
     }
 }
 ```

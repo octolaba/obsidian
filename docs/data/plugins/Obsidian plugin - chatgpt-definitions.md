@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chatgpt-definitions
 alt:
   - https://github.com/julix14/chatGPT-Obsidian
-downloads: 4428
+downloads: 4437
 updated at: "2023-08-30T15:41:51Z"
 related to:
   - "[[GitHub - 683157639]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate concise definitions with OpenAI GPT-3 using the note's title and tags as the prompt. Append the AI-written definition to the end of the file and update the note's status (e.g., \"Definition by AI\")."
 
     stats: {
-        downloads:  4428
+        downloads:  4437
         updated_at: 1693410111000
     }
 }

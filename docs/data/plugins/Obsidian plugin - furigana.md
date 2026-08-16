@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/furigana
 alt:
   - https://github.com/joepetrakovich/obsidian-furigana
-downloads: 278
+downloads: 359
 updated at: "2026-06-19T09:39:24Z"
 related to:
   - "[[GitHub - 1141477852]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display furigana above Japanese kanji in reading view to show pronunciations directly over text. Enable hover-only mode to hide readings until needed and adjust furigana font size and color for comfortable reading."
 
     stats: {
-        downloads:  278
+        downloads:  359
         updated_at: 1781861964000
     }
 }

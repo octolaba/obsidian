@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-link-updater
 alt:
   - https://github.com/andy51002000/obsidian-image-link-updater
-downloads: 87
+downloads: 149
 updated at: "2026-07-23T07:51:59Z"
 related to:
   - "[[GitHub - 1028147002]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Update every image link in your vault automatically when images are moved, renamed, cut/pasted, or moved outside Obsidian to preserve Markdown and wiki references. Save pasted images to your attachments and insert them as Markdown image links, handling spaces and URI‑encoded names."
 
     stats: {
-        downloads:  87
+        downloads:  149
         updated_at: 1784793119000
     }
 }

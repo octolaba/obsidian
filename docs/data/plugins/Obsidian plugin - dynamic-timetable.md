@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dynamic-timetable
 alt:
   - https://github.com/l7cy/obsidian-dynamic-timetable
-downloads: 10633
+downloads: 10664
 updated at: "2023-10-23T03:16:28Z"
 related to:
   - "[[GitHub - 612978865]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate dynamic timetables from Markdown tasks that include estimated durations and optional start times. Mark tasks complete or interrupt to record actual start and duration and automatically create resumed tasks for remaining time. Display color-coded tasks to reveal schedule gaps or conflicts against previous task end times."
 
     stats: {
-        downloads:  10633
+        downloads:  10664
         updated_at: 1698030988000
     }
 }

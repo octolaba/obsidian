@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/uncheck-all
 alt:
   - https://github.com/shacharharshuv/obsidian-uncheck-all
-downloads: 16092
+downloads: 16448
 updated at: "2023-08-24T20:47:59Z"
 related to:
   - "[[GitHub - 681869078]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Uncheck all checkboxes in the current file with a single command. Keep line text intact and only clear checkbox marks."
 
     stats: {
-        downloads:  16092
+        downloads:  16448
         updated_at: 1692910079000
     }
 }

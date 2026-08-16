@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/voice-text-input
 alt:
   - https://github.com/chenxuan520/obsidian-voice2text
-downloads:
-updated at:
+downloads: 37
+updated at: "2026-07-26T05:53:53Z"
 related to:
   - "[[GitHub - 1312065710]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/chenxuan520/obsidian-voice2text"
     description: "Dictate notes with streaming Volcengine ASR or Xiaomi MiMo ASR. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Record audio in Obsidian desktop and insert recognized text at the editor cursor in real time or after stopping. Send audio to the chosen ASR service—stream via WebSocket for live partial transcription or upload WAV for a final transcript—and store API credentials locally in the vault."
+
+    stats: {
+        downloads:  37
+        updated_at: 1785045233000
+    }
 }
 ```
 
