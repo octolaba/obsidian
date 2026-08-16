@@ -159,7 +159,22 @@ history carry how we got here.
    moves the repository and every catalog entity that points to it. This closure is deliberate even
    if another member of the component still appears in an index. At the current pin every index
    repository is unique across both classes, so each component is one plugin or theme plus one
-   repository; the transitive definition guards a future shared repository.
+   repository; the transitive definition guards a future shared repository. The closure is then
+   reduced by the target state before anything moves: a repository note is excluded when the run
+   has **not** classified it Repository-unavailable and at least one entity present in an index at
+   the target pin resolves to it. That is the only reduction, and it is narrow on purpose — a
+   repository GitHub has confirmed unavailable still archives together with every entity pointing
+   at it, live index rows included, which is what the sentence above protects. Without the
+   reduction a plugin that changes its `id` while keeping its repository would archive a repository
+   the same run is about to re-link: lookup skips archived notes, so the repository would be
+   rendered again from its immutable numeric id, and because the repository `uid` derives from that
+   id the tree would carry one `uid` twice, live and archived at once.
+
+   Because that reduction resolves offline, it cannot see a repository renamed upstream after the
+   baseline whose new name is not yet an alias, so one invariant closes the gap from the other
+   side: a run never creates a repository note whose archived counterpart exists. Rendering one
+   refuses instead, because restoring an archived note is undecided policy and the choice belongs
+   to a human, not to a run that has already started writing.
 
    Archiving is a path-only move into `docs/.catalog/archive/{plugins,repositories,themes}/`: filenames,
    bytes, uids, aliases, human fields, bodies, data blocks and bare repository links stay unchanged.
@@ -380,8 +395,11 @@ Given an index row's `repo` string:
    current full name and name lead the aliases, former names stay as members. When GitHub answers
    under a newer name than the index row's, the index string is recorded as a former-name alias
    too, so the row resolves offline afterwards.
-4. On miss, create `GitHub - {numeric id}.md` from the template. The notes are the only identity
-   store — nothing is recorded outside them (decision 3.11).
+4. On miss, create `GitHub - {numeric id}.md` from the template — unless that filename already
+   exists under `docs/.catalog/archive/repositories/`, in which case the run refuses and stops
+   instead of creating it, and a human decides. Restoring an archived note is undecided policy
+   (decision 3.3), and a run that has already started writing is not the place to decide it. The
+   notes are the only identity store — nothing is recorded outside them (decision 3.11).
 
 ### 6.2 Backfill Run — Stage 1, plugins
 
@@ -405,9 +423,13 @@ Given an index row's `repo` string:
 3. Classify every difference; the resulting task list is deterministic and lands in the state
    file's worklists before execution:
    - **Added** — full per-entity pipeline as in Backfill.
-   - **Removed** — compute the decision 3.3 relationship closure at the baseline and move every
-     note in it to its class-preserving archive home; attach the Removal List reason when present.
-     Human state moves intact and never blocks archival because no note is destroyed.
+   - **Removed** — compute the decision 3.3 relationship closure at the baseline, reduce it by the
+     target state as decision 3.3 requires, and move every remaining note to its class-preserving
+     archive home; attach the Removal List reason when present. Human state moves intact and never
+     blocks archival because no note is destroyed. A removed plugin whose repository is claimed by
+     a plugin added in the same run is executed, not queued: plugin identity is the `id`, so the
+     old note archives and the new one is created, both keeping their own uid, and the shared
+     repository stays live under its single numeric identity.
    - **Repository-unavailable** — for a known repository, GraphQL by `owner/name` and REST
      `/repositories/{databaseId}` both return terminal `404`/`410` in this run; for a repository
      without a numeric id, a standing `github-missing` from an earlier run is re-probed and returns
