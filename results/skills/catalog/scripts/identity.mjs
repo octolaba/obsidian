@@ -53,9 +53,15 @@ function shapeOk(value, shape) {
     return true;
 }
 
-export function verifyMaterial(root) {
+/**
+ * @param flag which injected root is being verified. An Update Run injects the community directory
+ *   data twice — the mirror at the target pin, and the base pin's copy materialized beside the
+ *   catalog — and the same structural proof answers for both, so the message has to name which one
+ *   failed rather than always naming the mirror's flag.
+ */
+export function verifyMaterial(root, { flag = PRIMARY.flag } = {}) {
     if (!root || !isDirectory(root)) {
-        return { status: IDENTITY_STATUS.missing, root: root ?? null, reason: `no --${PRIMARY.flag} directory`, files: null };
+        return { status: IDENTITY_STATUS.missing, root: root ?? null, reason: `no --${flag} directory`, files: null };
     }
     const resolved = path.resolve(root);
     const sentinel = path.join(resolved, PRIMARY.sentinel.file);

@@ -34,6 +34,43 @@ export function loadRepositoryNotes(catalogRoot) {
 }
 
 /**
+ * The other half of the relationship graph: which repository notes each plugin and theme note
+ * links to. Together with `loadRepositoryNotes` it is the whole of decision 3.3's baseline
+ * component — the links, not the index, are what record how the catalog stood at the run baseline.
+ *
+ * `related to` members are YAML-quoted on disk, so they are read through `parseNote`; a hand-rolled
+ * frontmatter reader finds zero links and computes a closure that looks plausible and is wrong.
+ *
+ * A note that exists and does not parse is reported as `links: null` rather than as no links at
+ * all: an unreadable note in a closure would silently leave its repository live.
+ */
+export function loadEntityNotes(catalogRoot) {
+    const byKey = new Map();
+    for (const [kind, spec] of Object.entries(NOTE_CLASSES)) {
+        if (kind === 'repository') continue;
+        for (const file of listFiles(path.join(catalogRoot, spec.directory), name => name.endsWith('.md'))) {
+            const basename = path.basename(file);
+            if (!basename.startsWith(spec.prefix)) continue;
+            const identity = basename.slice(spec.prefix.length, -'.md'.length);
+            const relative = path.relative(catalogRoot, file);
+            const note = parseNote(readText(file));
+            if (!note.ok) {
+                byKey.set(`${kind}:${identity}`, { file: relative, links: null, reason: note.reason });
+                continue;
+            }
+            if (!(note.values.tags ?? []).includes(spec.tag)) continue;
+            const links = [];
+            for (const member of note.values['related to'] ?? []) {
+                const match = /^\[\[GitHub - (\d+)\]\]$/.exec(member);
+                if (match) links.push(Number(match[1]));
+            }
+            byKey.set(`${kind}:${identity}`, { file: relative, links, reason: null });
+        }
+    }
+    return { byKey };
+}
+
+/**
  * @param capture async `(repoString) => repositoryRecord | null` — step 3, the only network step.
  * @returns `{ repository, source }` where source names which step answered, or a miss with reason.
  */

@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { isFile, readText } from './lib.mjs';
+import { repoKey } from './model.mjs';
 import { parseFrontmatter, serializeFrontmatter } from './note.mjs';
 
 /**
@@ -97,6 +98,27 @@ export function resumeView(state) {
     return { ...state, sections };
 }
 
+/**
+ * Subjects carrying more than one line, anywhere in the file.
+ *
+ * `parseState` deliberately does not enforce this — the grammar is about line shape — but every
+ * later stage does depend on it: a tick matches by typed id and would mark two lines at once, and
+ * a second line for one subject is the shape a hand edit takes when it means to redirect work.
+ * Repository ids compare case-insensitively, as they do everywhere else.
+ */
+export function duplicateSubjects(state) {
+    const seen = new Map();
+    const duplicates = [];
+    for (const name of SECTIONS) {
+        for (const item of state.sections[name] ?? []) {
+            const key = `${item.type} ${item.type === 'repo' ? repoKey(item.id) : item.id}`;
+            if (seen.has(key)) duplicates.push({ type: item.type, id: item.id, sections: [seen.get(key), name] });
+            else seen.set(key, name);
+        }
+    }
+    return duplicates;
+}
+
 /** Every `[>]`/`[-]` line, flattened: the standing exceptions the gate reads. */
 export function exceptions(state) {
     const out = [];
@@ -141,8 +163,8 @@ export function resetState(state) {
 
 /**
  * The compact receipt (decision 3.11): the worked checklist is deliberately not archived — the
- * catalog diff in git records the work. Exclusive create: finalising twice under one run label is
- * an error, not an overwrite.
+ * catalog diff in git records the work. Exclusive create: a receipt is never overwritten, and
+ * `receiptDescribes` decides whether one already on disk belongs to the run finalising now.
  */
 export function renderReceipt(receipt) {
     const lines = [
@@ -174,12 +196,73 @@ export function renderReceipt(receipt) {
             ? standing.map(item => `- [${item.marker}] ${item.type} ${item.id}${item.reason ? ` — ${item.reason}` : ''}\n`).join('')
             : 'None.\n',
     );
+    if (receipt.archive) lines.push(renderArchive(receipt.archive));
     return lines.join('');
 }
 
+/**
+ * The archive's integrity guard is a recorded hash, not a diff.
+ *
+ * An archived note is exempt from the template and re-render checks — its contract is unchanged
+ * bytes, not current shape, and a note archived by index removal cannot be re-rendered at all,
+ * because the row it would render from is gone. "It is versioned, so a changed byte shows in the
+ * diff" is not a guard either: it is empty until the owner commits, which is exactly when a
+ * freshly moved note is least protected. So the hash the move computed is written down here,
+ * where it is durable and a later gate can assert the bytes against it.
+ */
+function renderArchive(archive) {
+    const lines = ['\n## Archive\n\n'];
+    const count = type => archive.moves.filter(move => move.type === type).length;
+    lines.push(
+        `${archive.moves.length} notes moved: ${count('plugin')} plugins, ${count('theme')} themes, ` +
+            `${count('repo')} repositories; ${archive.spared.length} ` +
+            `${archive.spared.length === 1 ? 'repository' : 'repositories'} spared by the target state.\n\n`,
+    );
+    lines.push('| class | note | sha256 |\n| --- | --- | --- |\n');
+    for (const move of archive.moves) lines.push(`| ${move.type} | ${move.to} | ${move.sha256} |\n`);
+    if (archive.spared.length) {
+        lines.push('\n');
+        for (const entry of archive.spared) {
+            lines.push(
+                `- spared ${entry.type} ${entry.id} (${entry.numericId}): claimed at the target pin by ` +
+                    `${entry.claimedBy.replace(':', ' ')} via ${entry.via} (${entry.source})\n`,
+            );
+        }
+    }
+    return lines.join('');
+}
+
+/** One run label, one receipt filename — the convention lives here and nowhere else. */
+export function receiptPath(directory, run) {
+    return path.join(directory, `${run}.md`);
+}
+
 export function writeReceipt(directory, receipt) {
-    const file = path.join(directory, `${receipt.run}.md`);
+    const file = receiptPath(directory, receipt.run);
     fs.mkdirSync(directory, { recursive: true });
     fs.writeFileSync(file, renderReceipt(receipt), { flag: 'wx' });
     return file;
+}
+
+/**
+ * Whether the receipt already on disk describes *this* run: same run label, same pin pair. That
+ * is what makes finalisation re-runnable — a crash between the receipt and the reset leaves the
+ * receipt behind while the reset still has to happen, and the reset is what advances Sync State.
+ * A receipt describing anything else is refused rather than overwritten, so two different runs can
+ * never finalise under one label. Timestamps are deliberately not compared: they record when the
+ * work finished, not which run it was.
+ */
+export function receiptDescribes(directory, receipt) {
+    const file = receiptPath(directory, receipt.run);
+    if (!isFile(file)) return { file, same: false, reason: 'no receipt on disk' };
+    const frontmatter = parseFrontmatter(readText(file));
+    if (!frontmatter.ok) return { file, same: false, reason: `the receipt does not parse: ${frontmatter.reason}` };
+    const differences = [];
+    for (const [key, expected] of [['run', receipt.run], ['base pin', receipt.basePin], ['target pin', receipt.targetPin]]) {
+        const actual = frontmatter.values[key] ?? null;
+        if (String(actual ?? '') !== String(expected ?? '')) {
+            differences.push(`${key} ${actual ?? 'absent'} ≠ ${expected ?? 'absent'}`);
+        }
+    }
+    return { file, same: differences.length === 0, reason: differences.join('; ') || null };
 }

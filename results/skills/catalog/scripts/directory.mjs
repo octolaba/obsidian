@@ -34,7 +34,7 @@ export class DirectoryClient {
         this.lastAt = 0;
     }
 
-    async fetchPage(url) {
+    async request(url, { method = 'GET', accept = 'text/html' } = {}) {
         for (let attempt = 0; ; attempt += 1) {
             const wait = this.lastAt + this.pacing.intervalMs - Date.now();
             if (wait > 0) await sleep(wait);
@@ -43,7 +43,8 @@ export class DirectoryClient {
             let response;
             try {
                 response = await fetch(url, {
-                    headers: { 'user-agent': this.userAgent, accept: 'text/html' },
+                    method,
+                    headers: { 'user-agent': this.userAgent, accept },
                     signal: AbortSignal.timeout(this.pacing.timeoutMs),
                 });
             } catch (error) {
@@ -62,9 +63,26 @@ export class DirectoryClient {
                 await sleep(this.pacing.backoffMs * (attempt + 1));
                 continue;
             }
+            if (method === 'HEAD') return { ok: response.ok, status: response.status, reason: null };
             const body = await response.text();
             return { ok: response.ok, status: response.status, body, bytes: body.length, hash: sha256(body) };
         }
+    }
+
+    async fetchPage(url) {
+        return this.request(url);
+    }
+
+    /**
+     * A HEAD through the same budget as a page fetch (decision 3.9). The screenshot address is
+     * derived from the pinned index rather than observed, so the only way to know whether the
+     * embed a note is about to carry resolves is to ask — and asking is one more unhurried request
+     * against somebody else's server, so it is paced, retried and counted exactly like the rest.
+     * The address is never trimmed or repaired: upstream data is not "fixed", the embed is simply
+     * omitted and the lane recorded.
+     */
+    async probe(url) {
+        return this.request(url, { method: 'HEAD', accept: '*/*' });
     }
 
     /** Capture plus extraction in one step, so no caller ever sees unvalidated page text. */

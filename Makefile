@@ -45,8 +45,18 @@ OBSIDIAN_RELEASES := research/core/obsidian-releases
 # portable harnesses may not invoke the version-control system themselves.
 CATALOG_ROOT := docs/data
 CATALOG_TEMPLATES := .github/templates
+CATALOG_SUPPORT := docs/.catalog
+# The archive is injected directly rather than as the support root: that root also holds the owner's
+# own scratch, which a gate pointed at it would walk and report as stray notes.
+CATALOG_ARCHIVE := $(CATALOG_SUPPORT)/archive
 CATALOG_STATE := .github/run/state.md
+CATALOG_BASE_INDEX := $(CATALOG_SUPPORT)/base-index
 RELEASE_PIN := $(shell git -C $(OBSIDIAN_RELEASES) rev-parse HEAD 2>/dev/null)
+# An Update Run classifies two pins. The target one is the mirror's worktree; the base one is the
+# pin the catalog reflects, which lives in the mirror's history. Reading it is the repository's job,
+# not the skill's, so the state file names it here and a helper extracts it into an injectable root.
+CATALOG_BASE_PIN := $(shell awk '/^base pin: /{print $$3; exit}' $(CATALOG_STATE) 2>/dev/null)
+INDEX_MATERIALIZE := scripts/materialize-index.sh
 
 # Every gate, as "name<TAB>command". This is the only place the mapping lives.
 GATE_submodules := sh $(SUBMODULE_LINT)
@@ -59,11 +69,11 @@ GATE_developer_test := $(NODE) $(DEVELOPER_SKILL)/scripts/test.mjs --sample-plug
 GATE_developer_verify := $(NODE) $(DEVELOPER_SKILL)/scripts/verify.mjs --obsidian-api-root $(OBSIDIAN_API) --developer-docs-root $(OBSIDIAN_DEVELOPER_DOCS) --sample-plugin-root $(OBSIDIAN_SAMPLE_PLUGIN) --sample-theme-root $(OBSIDIAN_SAMPLE_THEME) --releases-root $(OBSIDIAN_RELEASES) --obsidian-help-root $(OBSIDIAN_HELP_ROOT)
 GATE_kanban_test := $(NODE) $(KANBAN_SKILL)/scripts/test.mjs --source-root $(KANBAN_SOURCE) --tasks-root $(TASKS_SOURCE)
 GATE_kanban_verify := $(NODE) $(KANBAN_SKILL)/scripts/verify.mjs --source-root $(KANBAN_SOURCE) --tasks-root $(TASKS_SOURCE)
-GATE_catalog_gate := $(NODE) $(CATALOG_SKILL)/scripts/gate.mjs --release-mirror-root $(OBSIDIAN_RELEASES) --templates-root $(CATALOG_TEMPLATES) --catalog-root $(CATALOG_ROOT) --state-file $(CATALOG_STATE) --release-pin $(RELEASE_PIN)
+GATE_catalog_gate := $(NODE) $(CATALOG_SKILL)/scripts/gate.mjs --release-mirror-root $(OBSIDIAN_RELEASES) --templates-root $(CATALOG_TEMPLATES) --catalog-root $(CATALOG_ROOT) --archive-root $(CATALOG_ARCHIVE) --state-file $(CATALOG_STATE) --release-pin $(RELEASE_PIN)
 GATE_catalog_test := $(NODE) $(CATALOG_SKILL)/scripts/test.mjs --release-mirror-root $(OBSIDIAN_RELEASES) --templates-root $(CATALOG_TEMPLATES)
 GATE_catalog_verify := $(NODE) $(CATALOG_SKILL)/scripts/verify.mjs --release-mirror-root $(OBSIDIAN_RELEASES) --release-pin $(RELEASE_PIN)
 
-.PHONY: help lint hydrated \
+.PHONY: help lint hydrated catalog-base-index \
 	lint-submodules \
 	lint-dataview-test lint-dataview-verify \
 	lint-tasks-test lint-tasks-verify \
@@ -88,6 +98,7 @@ help:
 	@echo 'make lint-catalog-gate     Catalog offline schema gate against the pinned mirror'
 	@echo 'make lint-catalog-test     Catalog fixture tests for the renderer, slug rule, extractor and validators'
 	@echo 'make lint-catalog-verify   Catalog skill formal verifier'
+	@echo 'make catalog-base-index    materialize the base pin'"'"'s index as a root the Update Run can be given'
 
 ## Fail early and distinctly when the research material has not been hydrated, so that a missing
 ## submodule is never reported as an artifact defect.
@@ -146,6 +157,12 @@ lint-catalog-test: hydrated
 
 lint-catalog-verify: hydrated
 	@$(GATE_catalog_verify)
+
+## Not a gate: an Update Run input. Disposable scratch under the support root, regenerated from the
+## mirror's history whenever the state file's `base pin` moves.
+catalog-base-index: hydrated
+	@[ -n '$(CATALOG_BASE_PIN)' ] || { echo '$(CATALOG_STATE) records no `base pin`' >&2; exit 2; }
+	@sh $(INDEX_MATERIALIZE) $(OBSIDIAN_RELEASES) $(CATALOG_BASE_PIN) $(CATALOG_BASE_INDEX)
 
 ## Run every gate, then aggregate. One red gate must never hide the rest.
 lint: hydrated

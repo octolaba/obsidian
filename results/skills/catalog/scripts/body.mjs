@@ -31,6 +31,49 @@ const FORBIDDEN = [
 /** Marketing register the pipeline refuses outright; a body states what the thing does. */
 const MARKETING = /\b(?:amazing|awesome|beautifully|best-in-class|blazing|effortless(?:ly)?|game[- ]changer|magic(?:al)?|must[- ]have|powerful|revolutionary|seamless(?:ly)?|stunning|ultimate|supercharge[sd]?)\b/i;
 
+/**
+ * Boilerplate the Plugin Index appends to the `description` of every plugin its staff has not
+ * reviewed. It is a statement about the review process, not about the plugin, so it describes no
+ * entity and grounds no body — which is why every body writer drops it before summarising, and why
+ * the definition lives here once rather than inline in each caller.
+ */
+export const UNREVIEWED_PLUGIN_NOTICE = 'This plugin has not been manually reviewed by Obsidian staff.';
+
+/**
+ * The notice as the index serves it: appended after a hyphen separator whose surrounding
+ * whitespace varies, and sometimes the whole of a `description`. The sentence itself is matched
+ * literally, so nothing an author actually wrote can be swallowed with it.
+ */
+const UNREVIEWED_PLUGIN_NOTICE_PATTERN = new RegExp(
+    `\\s*(?:-\\s*)?${UNREVIEWED_PLUGIN_NOTICE.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}`,
+    'g',
+);
+
+/** A recorded input with the index's unreviewed-plugin boilerplate removed. */
+export function withoutIndexBoilerplate(input) {
+    return String(input ?? '').replace(UNREVIEWED_PLUGIN_NOTICE_PATTERN, '').trim();
+}
+
+/**
+ * Which of an entity's recorded body inputs moved, and therefore whether a fresh body is owed.
+ *
+ * The note's own data block is the baseline (decision 3.11), and an entity body is grounded in two
+ * recorded inputs: the upstream `description` and the About the Directory served. Comparing only
+ * About is the trap this function exists to close — a plugin whose description was rewritten
+ * upstream while its About stood still would queue no body at all, silently contradicting the rule
+ * that a `description` change queues one. A theme carries no description, so only About can move.
+ *
+ * @param recorded the note's flattened data-block values, or `null` when it has none.
+ * @returns the moved input names in a fixed order; empty means the recorded body still stands.
+ */
+export function movedBodyInputs({ kind, description = null, about = null, recorded = null }) {
+    const value = key => recorded?.get(`${kind}.${key}`) ?? null;
+    const moved = [];
+    if ((about ?? '') !== (value('about') ?? '')) moved.push('About');
+    if (kind === 'plugin' && (description ?? '') !== (value('description') ?? '')) moved.push('description');
+    return moved;
+}
+
 function sentences(text) {
     return text
         .split(/(?<=[.!?])\s+/)
@@ -62,9 +105,14 @@ function words(text) {
  * is what lets a run record the lane instead of looping. The classification is a *record* — the
  * `bodyless-no-input` exception line in the state file, reviewed by a human in the diff; it never
  * suppresses a finding on its own.
+ *
+ * The index's unreviewed-plugin boilerplate is dropped before the floor is measured, so the count
+ * reflects what upstream says about the entity. Counted, its five content words carry a plugin
+ * whose `description` is nothing else over the floor and put the lane out of reach: the note is
+ * then neither written nor excused, which coverage reports as an uncovered index row.
  */
 export function hasNoUsableInput(inputs) {
-    return words(inputs.filter(Boolean).join(' ')).size <= LIMITS.minGroundingOverlap;
+    return words(inputs.filter(Boolean).map(withoutIndexBoilerplate).join(' ')).size <= LIMITS.minGroundingOverlap;
 }
 
 /**

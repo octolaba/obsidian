@@ -150,6 +150,45 @@ export async function fetchReadme(nameWithOwner, { userAgent }) {
     return normalizeReadme(JSON.parse(text));
 }
 
+/**
+ * The second identity probe decision 3.3 requires: REST `GET /repositories/{databaseId}`.
+ *
+ * The numeric id is immutable, so this answers the question an `owner/name` capture cannot: a
+ * repository that misses by name is either renamed or gone, and only the id separates the two.
+ * `200` carries the current `nameWithOwner` and means rename; `404`/`410` is terminal and is the
+ * only outcome that may ever become archive evidence. Everything else — a timeout, 429, an
+ * authentication failure, any `5xx` — is a retry that says nothing about the repository, so it is
+ * reported as such rather than folded into the terminal case.
+ *
+ * @returns `{status, nameWithOwner, terminal, reason}`; `status` is `null` when the request itself
+ *   failed, and `terminal` is the only field an archive decision may read.
+ */
+export async function fetchRepositoryById(databaseId, { userAgent }) {
+    let response;
+    try {
+        response = await fetch(`${REST_ENDPOINT}/repositories/${databaseId}`, {
+            headers: {
+                authorization: `bearer ${token()}`,
+                accept: 'application/vnd.github+json',
+                'user-agent': userAgent,
+            },
+        });
+    } catch (error) {
+        return { status: null, nameWithOwner: null, terminal: false, reason: String(error) };
+    }
+    if (response.status === 200) {
+        const payload = JSON.parse(await response.text());
+        return { status: 200, nameWithOwner: payload.full_name ?? null, terminal: false, reason: 'renamed' };
+    }
+    const terminal = response.status === 404 || response.status === 410;
+    return {
+        status: response.status,
+        nameWithOwner: null,
+        terminal,
+        reason: terminal ? 'terminal' : `HTTP ${response.status} is not evidence of loss`,
+    };
+}
+
 /** Normalises a GraphQL repository node into the record the templates and renderer consume. */
 export function toRepositoryRecord(node, readme, capturedAt) {
     return {

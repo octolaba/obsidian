@@ -196,5 +196,42 @@ file, never incidental drift. The gate enforces this by comparing every note's f
 order and tag list against the template, and the record names inside its data block against the
 records the template's contract declares.
 
-Archive-aware gate support is pending. Until it lands, do not move notes by hand: the current gate
-scans only live class homes and cannot yet prove archive closure or live/archive coverage.
+## What the gate checks in each home
+
+The template and re-render checks above apply to the **live** tree. An archived note is checked for
+exactly four things: it parses; it carries a `uid`, unique across the live tree and the archive
+combined; its filename agrees with the identity it claims; and no live note links to it. Nothing
+else — not template key order, not tags, not the pin-derived values inside the data block, not the
+parse-and-re-emit proof.
+
+That is not laxity, it follows from the contract. An archived note's contract is **unchanged bytes**,
+not current shape, and a note archived because its index row disappeared has no row at the pin to
+render from — it cannot honestly be re-rendered, and it must not be, because it is historical
+evidence. Applying the live checks here would also plant a landmine: the next template migration
+would turn every archived note into `catalog/template-drift` at once, forcing a choice between a
+permanently red gate and rewriting history.
+
+The bytes are guarded instead by the sha256 the archive step records for every move. Those hashes
+are folded into the run receipt, and the gate asserts each archived note against the one recorded
+for it — `catalog/archive-bytes-changed` when they disagree, `state/receipt-conflict` when two
+receipts claim different bytes for one note. A note whose move no receipt records yet is counted and
+reported rather than assumed good; "it is versioned, so a changed byte shows in the diff" is not a
+guard, because it is empty until the owner commits, which is exactly when a freshly moved note is
+least protected.
+
+Uniqueness of `uid` spans both homes and is `catalog/duplicate-uid`. It is the invariant that catches
+the one way an archive can corrupt the catalog: a repository re-created from its immutable numeric id
+mints the uid of the note just archived under it, and no check scoped to a single home can see the
+pair. Full-name alias uniqueness stays scoped per class **and** per home; one shared between a live
+and an archived repository note is the expected state after a repository changes hands and is
+recorded as `catalog/alias-across-homes`, informational rather than a finding.
+
+Link resolution is scoped to a note's own home. A live note pointing into the archive is
+`catalog/dangling-link` — resolution never sees archived notes, so the target would be re-created
+rather than followed. An archived note pointing at a live repository is `catalog/archive-closure-broken`
+unless a live entity still holds that repository, which is the recorded outcome of the closure
+reduction: a repository an entity live at the pin still claims is spared from the archive, and the
+departing entity's link is left pointing at it.
+
+Never move a note by hand. The archive step is the only thing that reconciles the move set and
+records the hash the note is checked against afterwards.

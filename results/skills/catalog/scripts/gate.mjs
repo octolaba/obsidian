@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -11,6 +12,8 @@ import {
     printReport,
     readJson,
     readText,
+    sha256,
+    toPosix,
     writeUsageError,
 } from './lib.mjs';
 import { IDENTITY_STATUS, PRIMARY, describeStaleness, verifyMaterial } from './identity.mjs';
@@ -46,7 +49,8 @@ const USAGE = `usage: gate.mjs --release-mirror-root DIR --templates-root DIR [o
 
   --release-mirror-root DIR   checkout of ${PRIMARY.repo} (required)
   --templates-root DIR        directory holding the three note templates (required)
-  --catalog-root DIR          the catalog tree; skipped when absent
+  --catalog-root DIR          the live catalog tree; skipped when absent
+  --archive-root DIR          the archive tree; coverage is not proven without it
   --state-file FILE           the live state file; carries Sync State and standing exceptions
   --release-pin SHA           the Release Pin the caller has checked out
   --json                      machine-readable report
@@ -338,18 +342,78 @@ function checkInvariants(indexes, findings, lines) {
     );
 }
 
+/**
+ * Which standing lines may excuse a coverage shortfall (ruling R4).
+ *
+ * Matching on the subject alone is not enough. A `bodyless-no-input` line says the note carries no
+ * prose, which is a statement about a note that *exists*; letting it excuse a wholly missing one
+ * would hide the very failure coverage exists to catch. Only a lane meaning "this subject is
+ * legitimately not a live note" may excuse it.
+ *
+ * The tail below is what the archive stage appends to a subject it moved while its index row
+ * survived, and it is the shape `crafted` needs: the Theme Index still carries the row, so without
+ * the excuse the gate would report an uncovered row forever and the only escapes would be
+ * un-archiving a note whose repository is gone or weakening the check for everyone. A rename-suspect
+ * is the other lane — both halves are queued for the owner, so the added row deliberately has no
+ * note at all.
+ */
+const NOT_LIVE_LANES = Object.freeze(['repository-unavailable', 'rename-suspect']);
+const ARCHIVED_WHILE_INDEXED = 'archived while its index row stands';
+
+function excusesAbsence(reason) {
+    const text = String(reason ?? '');
+    return text.endsWith(ARCHIVED_WHILE_INDEXED) || NOT_LIVE_LANES.some(lane => text.startsWith(lane));
+}
+
+/**
+ * The archive's integrity guard is the sha256 the archive stage recorded per move (ruling R6).
+ *
+ * An archived note is exempt from the template and re-render checks, so nothing else would notice a
+ * changed byte; and "it is versioned, so the diff shows it" is empty until the owner commits, which
+ * is exactly when a freshly moved note is least protected. The receipt is where those hashes are
+ * durable, and a receipt sits beside the live state file by the same convention finalisation writes
+ * it under — the state file is injected, so the gate still learns no repository layout.
+ */
+const ARCHIVE_ROW = /^\| (?:plugin|theme|repo) \| (.+?) \| ([0-9a-f]{64}) \|$/;
+
+function recordedArchiveHashes(stateFile) {
+    const recorded = new Map();
+    const conflicts = [];
+    const receipts = new Set();
+    if (!stateFile) return { recorded, conflicts, receipts };
+    for (const file of listFiles(path.dirname(stateFile), name => name.endsWith('.md'))) {
+        if (path.resolve(file) === path.resolve(stateFile)) continue;
+        const receipt = path.basename(file);
+        for (const line of readText(file).split('\n')) {
+            const row = ARCHIVE_ROW.exec(line);
+            if (!row) continue;
+            receipts.add(receipt);
+            const note = toPosix(row[1]);
+            const seen = recorded.get(note);
+            if (seen && seen.sha256 !== row[2]) {
+                conflicts.push({ note, receipts: [seen.receipt, receipt] });
+                continue;
+            }
+            recorded.set(note, { sha256: row[2], receipt });
+        }
+    }
+    return { recorded, conflicts, receipts };
+}
+
 /** §5.4 — catalog well-formedness, including a byte-stable re-render of every frontmatter block. */
 function checkCatalog(context, findings, lines) {
-    const { catalogRoot, templates, indexes, state } = context;
+    const { catalogRoot, archiveRoot, templates, indexes, state, stateFile } = context;
     if (!catalogRoot || !isDirectory(catalogRoot)) {
         lines.push('catalog: absent — nothing to check');
         return;
     }
     const pluginsById = new Map(indexes.plugins.map(plugin => [plugin.id, plugin]));
     const themesBySlug = new Map(indexes.themes.map(theme => [themeSlug(theme.name), theme]));
-    const repositoryNotes = new Map();
-    const repositoryAliases = new Map();
-    let counted = 0;
+    /** Numeric id → note, per home: what a repository link may resolve to on each side. */
+    const repositoryNotes = { live: new Map(), archive: new Map() };
+    const repositoryAliases = { live: new Map(), archive: new Map() };
+    const referenced = { live: new Set(), archive: new Set() };
+    const counted = { live: 0, archive: 0 };
 
     const classOf = file => {
         const parent = path.basename(path.dirname(file));
@@ -359,26 +423,58 @@ function checkCatalog(context, findings, lines) {
         return null;
     };
 
-    const files = listFiles(catalogRoot, file => file.endsWith('.md'));
+    // The two homes. `classOf` reads the parent directory basename, which is identical either side,
+    // so the home comes from the root a file was listed under — and every relative path is computed
+    // against that root, or an archived finding would print a `../..` prefix.
+    const homed = Boolean(archiveRoot) && isDirectory(archiveRoot);
+    const markdown = file => file.endsWith('.md');
+    const files = [
+        ...listFiles(catalogRoot, markdown).map(file => ({ file, home: 'live', root: catalogRoot })),
+        ...(homed ? listFiles(archiveRoot, markdown).map(file => ({ file, home: 'archive', root: archiveRoot })) : []),
+    ];
 
-    // Pre-pass: repository alias → note path plus body presence, so a `repo <owner/name>`
-    // exception line can be resolved and checked for staleness (decision 3.11).
-    const aliasToPath = new Map();
+    // What exists on disk, per home and class, under the identity its *filename* claims. Coverage is
+    // keyed here rather than on the note's parsed `xid` deliberately: "does this index row have a
+    // note" must keep its answer when a note fails to parse, and a bare link resolves by basename
+    // anyway. A filename that disagrees with the note's own identity is a finding of its own.
+    const inventory = {
+        live: { plugin: new Map(), theme: new Map(), repository: new Map() },
+        archive: { plugin: new Map(), theme: new Map(), repository: new Map() },
+    };
+    for (const entry of files) {
+        const kind = classOf(entry.file);
+        if (!kind) continue;
+        const basename = path.basename(entry.file);
+        if (!basename.startsWith(kind.spec.prefix)) continue;
+        inventory[entry.home][kind.name].set(
+            basename.slice(kind.spec.prefix.length, -'.md'.length),
+            path.relative(entry.root, entry.file),
+        );
+    }
+
+    // Pre-pass: repository alias → note path and numeric id, plus body presence, so a
+    // `repo <owner/name>` exception line can be resolved and checked for staleness (decision 3.11).
+    // Live notes only: an excuse is about the catalog as it stands, and resolution is scoped to the
+    // live tree everywhere else too (D4).
+    const aliasToRepository = new Map();
     const repositoryBodies = new Map();
-    for (const file of files) {
-        const kind = classOf(file);
+    for (const entry of files) {
+        if (entry.home !== 'live') continue;
+        const kind = classOf(entry.file);
         if (!kind || kind.name !== 'repository') continue;
-        const note = parseNote(readText(file));
+        const note = parseNote(readText(entry.file));
         if (!note.ok) continue;
-        const relative = path.relative(catalogRoot, file);
+        const relative = path.relative(catalogRoot, entry.file);
         repositoryBodies.set(relative, !bodyMissing(note));
-        for (const alias of note.values.aliases ?? []) aliasToPath.set(repoKey(alias), relative);
+        const numericId = repositoryNumericXid(note.values);
+        for (const alias of note.values.aliases ?? []) aliasToRepository.set(repoKey(alias), { relative, numericId });
     }
 
     // Standing exceptions live as `[>]`/`[-]` lines in the state file; there are no report fences.
     const standing = state?.ok ? exceptions(state) : [];
     const recordedMisses = new Set();
     const recordedBodyless = new Set();
+    const relocationOrphans = new Set();
     for (const exception of standing) {
         if (!exception.reason) {
             findings.push(
@@ -399,7 +495,7 @@ function checkCatalog(context, findings, lines) {
         } else if (exception.reason.startsWith('bodyless-no-input') && exception.type === 'repo') {
             const resolved = /^\d+$/.test(exception.id)
                 ? path.join(NOTE_CLASSES.repository.directory, repositoryNoteName(Number(exception.id)))
-                : aliasToPath.get(repoKey(exception.id));
+                : aliasToRepository.get(repoKey(exception.id))?.relative;
             if (!resolved || !repositoryBodies.has(resolved)) {
                 findings.push(
                     makeFinding({
@@ -420,18 +516,67 @@ function checkCatalog(context, findings, lines) {
             } else {
                 recordedBodyless.add(resolved);
             }
+        } else if (exception.reason.startsWith('relocation-orphan') && exception.type === 'repo') {
+            // The one repository a live entity may legitimately stop referencing: relocation left it
+            // accessible and unreferenced, and restoring or archiving it is the owner's call.
+            const resolved = /^\d+$/.test(exception.id)
+                ? exception.id
+                : String(aliasToRepository.get(repoKey(exception.id))?.numericId ?? '');
+            if (resolved === '') {
+                findings.push(
+                    makeFinding({
+                        id: 'state/stale-exception',
+                        consequence: 'catalog-malformed',
+                        message: `relocation-orphan exception \`repo ${exception.id}\` resolves to no live repository note`,
+                    }),
+                );
+            } else {
+                relocationOrphans.add(resolved);
+            }
         }
         // Other reasons (readme-oversized, readme-error, …) are recorded context, not gate excuses.
     }
-    for (const file of files) {
-        const relative = path.relative(catalogRoot, file);
+
+    // Every entity note's repository links, resolved only once both homes are known: which side a
+    // link may legitimately land on depends on the side the note itself sits on.
+    const linked = [];
+    /** uid → the note carrying it, across both homes: two files under one uid is the corruption
+     *  ruling A exists to prevent, and it is invisible to any check scoped to a single home. */
+    const uids = new Map();
+    const hashes = homed ? recordedArchiveHashes(stateFile) : { recorded: new Map(), conflicts: [], receipts: new Set() };
+    let verified = 0;
+    let unverified = 0;
+
+    for (const entry of files) {
+        const { file, home, root } = entry;
+        const relative = path.relative(root, file);
+        // Archived findings carry a home-qualified path: the class split is identical either side,
+        // so `plugins/Obsidian plugin - x.md` alone would not say which note a reader must open.
+        const reported = home === 'archive' ? `archive/${toPosix(relative)}` : relative;
+        if (home === 'archive') {
+            const record = hashes.recorded.get(toPosix(relative));
+            if (!record) {
+                unverified += 1;
+            } else if (sha256(fs.readFileSync(file)) !== record.sha256) {
+                findings.push(
+                    makeFinding({
+                        id: 'catalog/archive-bytes-changed',
+                        consequence: 'catalog-malformed',
+                        file: reported,
+                        message: `the note no longer carries the bytes ${record.receipt} recorded for it; an archived note is never rewritten`,
+                    }),
+                );
+            } else {
+                verified += 1;
+            }
+        }
         const kind = classOf(file);
         if (!kind) {
             findings.push(
                 makeFinding({
                     id: 'catalog/stray-note',
                     consequence: 'catalog-malformed',
-                    file: relative,
+                    file: reported,
                     message: 'note sits outside plugins/, themes/ and repositories/',
                 }),
             );
@@ -444,13 +589,70 @@ function checkCatalog(context, findings, lines) {
                 makeFinding({
                     id: 'catalog/unparsable',
                     consequence: 'catalog-malformed',
-                    file: relative,
+                    file: reported,
                     message: `note does not parse: ${note.reason}`,
                 }),
             );
             continue;
         }
-        counted += 1;
+        counted[home] += 1;
+        const basename = path.basename(file);
+        const uid = note.values.uid ?? null;
+        if (typeof uid === 'string' && uid !== '') {
+            const seen = uids.get(uid);
+            if (seen === undefined) uids.set(uid, reported);
+            else {
+                findings.push(
+                    makeFinding({
+                        id: 'catalog/duplicate-uid',
+                        consequence: 'identity-broken',
+                        file: reported,
+                        message: `uid \`${uid}\` is also carried by ${seen}; a uid is write-once and names exactly one note`,
+                    }),
+                );
+            }
+        }
+
+        // Ruling B8: an archived note's contract is *unchanged bytes*, not current shape.
+        //
+        // It cannot honestly be re-rendered — a note archived because its index row disappeared has
+        // no row at the pin to render from — and it must not be, because it is historical evidence.
+        // So it is checked for exactly four things: it parses (above); it carries a uid, unique
+        // across both homes (above); its filename agrees with the identity it claims (here); and no
+        // live note links to it (with the links, below). Template key order, tags, pin-derived
+        // data-block values and the parse→re-emit→compare proof are live-tree checks — applying them
+        // here would turn every archived note into `catalog/template-drift` the day a template
+        // migration lands, forcing a choice between a permanently red gate and re-rendering history.
+        // The bytes are guarded instead by the hash the move recorded.
+        if (home === 'archive') {
+            if (kind.name === 'repository') {
+                const numericId = repositoryNumericXid(note.values);
+                if (numericId === null) {
+                    findings.push(
+                        makeFinding({
+                            id: 'catalog/bad-repository-xid',
+                            consequence: 'catalog-malformed',
+                            file: reported,
+                            message: 'no xid member is a numeric GitHub repository id',
+                        }),
+                    );
+                    continue;
+                }
+                expect(findings, reported, basename === repositoryNoteName(numericId), 'filename does not follow `GitHub - {numeric id}.md`');
+                expect(findings, reported, note.values.uid === repositoryUid(numericId), 'uid is not the deterministic UUIDv5 for this repository id');
+                repositoryNotes.archive.set(String(numericId), reported);
+                registerAliases(note, reported, repositoryAliases.archive, findings);
+                continue;
+            }
+            const identity = String(note.values.xid?.[0] ?? '');
+            const noteName = kind.name === 'plugin' ? pluginNoteName : themeNoteName;
+            const uidFor = kind.name === 'plugin' ? pluginUid : themeUid;
+            expect(findings, reported, basename === noteName(identity), `filename does not follow \`${kind.spec.prefix}{xid}.md\``);
+            expect(findings, reported, note.values.uid === uidFor(identity), 'uid is not the deterministic UUIDv5 for this identity');
+            linked.push({ home, reported, relative, members: note.values['related to'] ?? [] });
+            continue;
+        }
+
         const template = templates[kind.name];
         const rendered = serializeFrontmatter(note.keys, note.values);
         if (!text.startsWith(rendered)) {
@@ -498,8 +700,10 @@ function checkCatalog(context, findings, lines) {
             { note, template, kind: kind.name, relative, indexes, bodylessRecorded: recordedBodyless.has(relative) },
             findings,
         );
+        if (kind.name !== 'repository') {
+            linked.push({ home, reported, relative, members: note.values['related to'] ?? [] });
+        }
 
-        const basename = path.basename(file);
         if (kind.name === 'plugin') {
             const id = String(note.values.xid?.[0] ?? '');
             const plugin = pluginsById.get(id);
@@ -582,90 +786,294 @@ function checkCatalog(context, findings, lines) {
                 slash > 0 && repositoryAliasList[0] === note.h1.slice(slash + 1) && repositoryAliasList[1] === note.h1,
                 'aliases do not lead with the bare name followed by the current full name',
             );
-            repositoryNotes.set(String(numericId), relative);
-            for (const alias of note.values.aliases ?? []) {
-                if (!alias.includes('/')) continue;
-                const key = repoKey(alias);
-                if (repositoryAliases.has(key)) {
-                    findings.push(
-                        makeFinding({
-                            id: 'catalog/duplicate-full-name-alias',
-                            consequence: 'identity-broken',
-                            file: relative,
-                            message: `full-name alias \`${alias}\` is also carried by ${repositoryAliases.get(key)} (uniqueness holds per note class)`,
-                        }),
-                    );
-                }
-                repositoryAliases.set(key, relative);
-            }
+            repositoryNotes.live.set(String(numericId), relative);
+            registerAliases(note, relative, repositoryAliases.live, findings);
         }
     }
 
-    // Every plugin and theme link must resolve, or the miss must be excused in the state file.
-    for (const file of files) {
-        const kind = classOf(file);
-        if (!kind || kind.name === 'repository') continue;
-        const relative = path.relative(catalogRoot, file);
-        const note = parseNote(readText(file));
-        if (!note.ok) continue;
-        const links = note.values['related to'] ?? [];
-        if (links.length > 0 && recordedMisses.has(relative)) {
+    // A full-name alias shared between a live and an archived repository note is the expected state
+    // after a repository changes hands, and resolution is scoped to live notes anyway (D4), so it is
+    // recorded rather than reported. Uniqueness itself stays asserted per class *and* per home.
+    const shared = [...repositoryAliases.archive.keys()].filter(key => repositoryAliases.live.has(key));
+    if (shared.length) {
+        findings.push(
+            makeFinding({
+                id: 'catalog/alias-across-homes',
+                consequence: 'informational',
+                message: `${shared.length} full-name aliases are carried by both a live and an archived repository note`,
+                evidence: shared.slice(0, 5).join(', '),
+            }),
+        );
+    }
+
+    // Two passes, because one of the answers depends on the whole graph: what every note refers to
+    // has to be known before an unresolved link can be judged.
+    const LINK = /^\[\[GitHub - (\d+)\]\]$/;
+    for (const entry of linked) {
+        for (const link of entry.members) {
+            const match = LINK.exec(link);
+            if (match && repositoryNotes[entry.home].has(match[1])) referenced[entry.home].add(match[1]);
+        }
+    }
+
+    // Every repository link must resolve, and it must resolve in its own note's home: a live note
+    // must never point into the archive (D4), and an archived note pointing at a live repository is
+    // a component that did not close — with exactly one exception, which the closure reduction
+    // creates on purpose. A repository an entity live at the pin still claims is spared from the
+    // archive (ruling A), so the departing entity's own link is left pointing at a live note. That
+    // is the recorded outcome of the reduction, and the tree proves it: the repository is held by a
+    // live entity. One that nothing live holds is a component that failed to close, and is reported.
+    let sparedLinks = 0;
+    for (const entry of linked) {
+        const { home, reported, relative, members } = entry;
+        const excused = home === 'live' && recordedMisses.has(relative);
+        if (members.length > 0 && excused) {
             findings.push(
                 makeFinding({
                     id: 'state/stale-exception',
                     consequence: 'catalog-malformed',
-                    file: relative,
+                    file: reported,
                     message: 'the note carries a repository link; its `github-missing` exception is stale',
                 }),
             );
         }
-        if (links.length === 0) {
-            if (!recordedMisses.has(relative)) {
+        if (members.length === 0) {
+            // An archived entity may legitimately have no link — a `github-missing` subject archives
+            // with no repository to take with it — so the demand for an excuse is live-tree only.
+            if (home === 'live' && !excused) {
                 findings.push(
                     makeFinding({
                         id: 'catalog/unrecorded-missing-link',
                         consequence: 'catalog-malformed',
-                        file: relative,
+                        file: reported,
                         message: 'no repository link and no `github-missing` exception in the state file (§5.4)',
                     }),
                 );
             }
             continue;
         }
-        for (const link of links) {
+        for (const link of members) {
             // §3.1: the link is bare. A link carrying display text is drift, not a
             // variant, so it fails the shape test and is reported as dangling-shaped below.
-            const match = /^\[\[GitHub - (\d+)\]\]$/.exec(link);
+            const match = LINK.exec(link);
             if (!match) {
                 if (link.startsWith('[[GitHub - ')) {
                     findings.push(
                         makeFinding({
                             id: 'catalog/link-shape',
                             consequence: 'catalog-malformed',
-                            file: relative,
+                            file: reported,
                             message: `repository link ${link} is not the bare \`[[GitHub - {id}]]\` form (§3.1)`,
                         }),
                     );
                 }
                 continue;
             }
-            if (!repositoryNotes.has(match[1])) {
+            const numericId = match[1];
+            if (repositoryNotes[home].has(numericId)) continue;
+            if (home === 'live') {
                 findings.push(
                     makeFinding({
                         id: 'catalog/dangling-link',
                         consequence: 'catalog-malformed',
-                        file: relative,
-                        message: `repository link ${link} has no note`,
+                        file: reported,
+                        message: repositoryNotes.archive.has(numericId)
+                            ? `repository link ${link} resolves only into the archive; a live note must never point into it (D4)`
+                            : `repository link ${link} has no note`,
                     }),
                 );
+                continue;
             }
+            if (referenced.live.has(numericId)) {
+                sparedLinks += 1;
+                continue;
+            }
+            findings.push(
+                makeFinding({
+                    id: 'catalog/archive-closure-broken',
+                    consequence: 'catalog-malformed',
+                    file: reported,
+                    message: repositoryNotes.live.has(numericId)
+                        ? `repository link ${link} is still live and no live note holds it; the repository should have moved with the component (decision 3.3)`
+                        : `repository link ${link} has no note`,
+                }),
+            );
         }
     }
 
-    lines.push(`catalog: ${counted} notes checked, ${repositoryNotes.size} repository notes`);
+    lines.push(`catalog: ${counted.live} notes checked, ${repositoryNotes.live.size} repository notes`);
     lines.push(
         `state exceptions: ${standing.length} standing ` +
             `(${recordedMisses.size} github-missing, ${recordedBodyless.size} bodyless-no-input)`,
+    );
+    if (homed) {
+        lines.push(
+            `archive: ${counted.archive} notes checked, ${verified} of ${verified + unverified} hash-verified from ` +
+                `${hashes.receipts.size} ${hashes.receipts.size === 1 ? 'receipt' : 'receipts'}` +
+                (sparedLinks ? `, ${sparedLinks} links into repositories the closure reduction spared` : ''),
+        );
+        for (const conflict of hashes.conflicts) {
+            findings.push(
+                makeFinding({
+                    id: 'state/receipt-conflict',
+                    consequence: 'catalog-malformed',
+                    file: `archive/${conflict.note}`,
+                    message: `${conflict.receipts.join(' and ')} record different hashes for one archived note`,
+                }),
+            );
+        }
+    }
+    checkCoverage({ indexes, inventory, referenced, standing, relocationOrphans, homed }, findings, lines);
+}
+
+/** §4.1: uniqueness of a repository's full-name alias, asserted per note class and per home. */
+function registerAliases(note, reported, aliases, findings) {
+    for (const alias of note.values.aliases ?? []) {
+        if (!alias.includes('/')) continue;
+        const key = repoKey(alias);
+        if (aliases.has(key)) {
+            findings.push(
+                makeFinding({
+                    id: 'catalog/duplicate-full-name-alias',
+                    consequence: 'identity-broken',
+                    file: reported,
+                    message: `full-name alias \`${alias}\` is also carried by ${aliases.get(key)} (uniqueness holds per note class)`,
+                }),
+            );
+        }
+        aliases.set(key, reported);
+    }
+}
+
+/**
+ * §5.4 and decision D5 — coverage, in both directions, which is the only mechanical proof that a run
+ * did what it promised. Every other check proves that the notes which exist are well-formed; without
+ * this one, six hundred notes a run never created would leave the gate green.
+ *
+ * Six assertions. Every index row at the pin has a live note (A) unless a standing line says the
+ * subject is legitimately not live (A′); a live note whose id is not at the pin is reported where the
+ * note itself is checked (B); an archived note whose id *is* at the pin is a contradiction (C) unless
+ * the same kind of line excuses it (C′); no identity sits in both homes at once (D); every live
+ * repository note is held by a live entity (E) unless a `relocation-orphan` line stands for it (E′);
+ * and every archived repository note is held by an archived one (F). F is the one that catches an
+ * *over*-collected closure, which reconciliation can no longer see once the moves have landed.
+ *
+ * Without the archive root the block proves nothing it could stand behind — an uncovered row and an
+ * archived note are indistinguishable — so it says so and raises nothing.
+ */
+function checkCoverage({ indexes, inventory, referenced, standing, relocationOrphans, homed }, findings, lines) {
+    if (!homed) {
+        lines.push('coverage: not checked (--archive-root absent)');
+        return;
+    }
+    const excuses = new Map();
+    for (const line of standing) {
+        if (line.type === 'repo' || !excusesAbsence(line.reason)) continue;
+        excuses.set(`${line.type} ${line.id}`, line.reason);
+    }
+
+    const classes = [
+        { name: 'plugin', label: 'plugins', ids: indexes.plugins.map(row => row.id), noteName: pluginNoteName },
+        { name: 'theme', label: 'themes', ids: indexes.themes.map(row => themeSlug(row.name)), noteName: themeNoteName },
+    ];
+    const summaries = [];
+    for (const entity of classes) {
+        const live = inventory.live[entity.name];
+        const archived = inventory.archive[entity.name];
+        const indexed = new Set(entity.ids);
+        const spec = NOTE_CLASSES[entity.name];
+        let uncovered = 0;
+        let excused = 0;
+        for (const id of indexed) {
+            if (live.has(id)) continue;
+            uncovered += 1;
+            const excuse = excuses.get(`${entity.name} ${id}`);
+            if (excuse) {
+                excused += 1;
+                continue;
+            }
+            findings.push(
+                makeFinding({
+                    id: 'catalog/uncovered-index-row',
+                    consequence: 'catalog-malformed',
+                    file: path.join(spec.directory, entity.noteName(id)),
+                    message: `the index carries \`${id}\` at this pin and no live note covers it, with no standing line excusing the absence`,
+                }),
+            );
+        }
+        for (const [id, relative] of archived) {
+            if (!indexed.has(id) || excuses.has(`${entity.name} ${id}`)) continue;
+            findings.push(
+                makeFinding({
+                    id: 'catalog/archived-but-indexed',
+                    consequence: 'catalog-malformed',
+                    file: `archive/${toPosix(relative)}`,
+                    message: `\`${id}\` is archived while the index still carries it, and no standing line records why`,
+                }),
+            );
+        }
+        for (const [id, relative] of live) {
+            if (!archived.has(id)) continue;
+            findings.push(
+                makeFinding({
+                    id: 'catalog/both-homes',
+                    consequence: 'identity-broken',
+                    file: relative,
+                    message: `\`${id}\` is both live and archived; one identity holds one note`,
+                }),
+            );
+        }
+        summaries.push({ label: entity.label, live: live.size, indexed: indexed.size, archived: archived.size, uncovered, excused });
+    }
+
+    // Padded so the two entity lines read as a table: the interesting number is the one that differs.
+    const width = key => Math.max(...summaries.map(summary => String(summary[key]).length));
+    const widths = { live: width('live'), indexed: width('indexed'), archived: width('archived') };
+    const label = Math.max(...summaries.map(summary => summary.label.length));
+    for (const summary of summaries) {
+        lines.push(
+            `coverage: ${summary.label.padEnd(label)} ${String(summary.live).padStart(widths.live)} live / ` +
+                `${String(summary.indexed).padStart(widths.indexed)} indexed, ` +
+                `${String(summary.archived).padStart(widths.archived)} archived, ` +
+                `${summary.uncovered} uncovered, ${summary.excused} excused`,
+        );
+    }
+
+    let orphans = 0;
+    let excusedOrphans = 0;
+    for (const [id, relative] of inventory.live.repository) {
+        if (referenced.live.has(id)) continue;
+        if (relocationOrphans.has(id)) {
+            excusedOrphans += 1;
+            continue;
+        }
+        orphans += 1;
+        findings.push(
+            makeFinding({
+                id: 'catalog/orphan-repository',
+                consequence: 'catalog-malformed',
+                file: relative,
+                message: 'no live plugin or theme note links to this repository, and no `relocation-orphan` line stands for it',
+            }),
+        );
+    }
+    let unreferenced = 0;
+    for (const [id, relative] of inventory.archive.repository) {
+        if (referenced.archive.has(id)) continue;
+        unreferenced += 1;
+        findings.push(
+            makeFinding({
+                id: 'catalog/archive-closure-broken',
+                consequence: 'catalog-malformed',
+                file: `archive/${toPosix(relative)}`,
+                message: 'no archived plugin or theme note links to this repository; the component archived more than it holds',
+            }),
+        );
+    }
+    lines.push(
+        `coverage: repositories ${inventory.live.repository.size} live ` +
+            `(${orphans} orphan${excusedOrphans ? `, ${excusedOrphans} excused` : ''}), ` +
+            `${inventory.archive.repository.size} archived (${unreferenced} unreferenced)`,
     );
 }
 
@@ -710,7 +1118,7 @@ function checkDataBlock({ note, template, kind, relative, indexes, bodylessRecor
                 id: 'catalog/block-order',
                 consequence: 'catalog-malformed',
                 file,
-                message: `the data block is not preceded by a body, and no \`${FENCES.bodyless}\` record excuses it (§6.5)`,
+                message: 'the data block is not preceded by a body, and no `bodyless-no-input` exception in the state file excuses it (§6.5)',
             }),
         );
     }
@@ -859,7 +1267,7 @@ function main(argv) {
     try {
         args = parseArgs(argv, {
             booleans: ['json', 'help'],
-            values: ['release-mirror-root', 'catalog-root', 'templates-root', 'state-file', 'release-pin'],
+            values: ['release-mirror-root', 'catalog-root', 'archive-root', 'templates-root', 'state-file', 'release-pin'],
         });
     } catch (error) {
         writeUsageError(error, USAGE);
@@ -901,6 +1309,14 @@ function main(argv) {
         process.exitCode = EXIT.missingMaterial;
         return;
     }
+    // An absent flag means "no archive to judge" and the coverage block says so. A flag pointing at
+    // nothing is a different thing entirely: it would silently disable the one proof the gate offers
+    // that a run created what it promised, so it is missing material rather than an empty archive.
+    if (args['archive-root'] && !isDirectory(args['archive-root'])) {
+        process.stderr.write(`--archive-root ${args['archive-root']} is not a directory\n`);
+        process.exitCode = EXIT.missingMaterial;
+        return;
+    }
 
     const indexes = loadIndexes(material.root);
     checkComplementarity(indexes, findings, lines);
@@ -932,7 +1348,14 @@ function main(argv) {
     }
 
     checkCatalog(
-        { catalogRoot: args['catalog-root'], templates, indexes, state },
+        {
+            catalogRoot: args['catalog-root'],
+            archiveRoot: args['archive-root'],
+            stateFile: args['state-file'] ?? null,
+            templates,
+            indexes,
+            state,
+        },
         findings,
         lines,
     );
