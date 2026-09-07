@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sentinel
 alt:
   - https://github.com/gsarig/obsidian-sentinel
-downloads: 1291
+downloads: 1305
 updated at: "2025-03-30T15:03:38Z"
 related to:
   - "[[GitHub - 903683932]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Update properties and run commands when notes open, close, or change visibility. Target notes by tag, folder, name, or regex and trigger actions like auto-incrementing a views counter, stamping modified datetime on exit, or running a linter."
 
     stats: {
-        downloads:  1291
+        downloads:  1305
         updated_at: 1743347018000
     }
 }

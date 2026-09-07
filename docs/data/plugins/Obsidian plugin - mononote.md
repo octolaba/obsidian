@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mononote
 alt:
   - https://github.com/czottmann/obsidian-mononote
-downloads: 31185
+downloads: 31846
 updated at: "2024-06-24T12:30:18Z"
 related to:
   - "[[GitHub - 650788917]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep each note to a single tab per pane by focusing its existing tab instead of opening duplicates. Enable Editor → Always focus new tabs to ensure correct operation; works for opening notes via links, menus, and hotkeys."
 
     stats: {
-        downloads:  31185
+        downloads:  31846
         updated_at: 1719232218000
     }
 }

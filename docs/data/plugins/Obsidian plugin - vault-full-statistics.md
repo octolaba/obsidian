@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/vault-full-statistics
 alt:
   - https://github.com/jtprogru/obsidian-vault-full-statistics-plugin
-downloads: 7069
-updated at: "2026-06-28T18:45:55Z"
+downloads: 7774
+updated at: "2026-08-04T06:53:25Z"
 related to:
   - "[[GitHub - 850655754]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Display vault statistics in the status bar, showing total notes, total links, and QoV (links per note). Click the status item to cycle through statistics and hover to reveal all values."
 
     stats: {
-        downloads:  7069
-        updated_at: 1782672355000
+        downloads:  7774
+        updated_at: 1785826405000
     }
 }
 ```

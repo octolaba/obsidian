@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quick-codeblock
 alt:
   - https://github.com/xcloud-ai/quick-codeblock
-downloads: 24
+downloads: 43
 updated at: "2026-07-19T11:55:09Z"
 related to:
   - "[[GitHub - 1300201048]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert Markdown code blocks with the cursor positioned inside and intelligent line breaks, or wrap selected text in a language-tagged block. Define custom languages, choose from a language popup, and assign per-language shortcuts with real-time conflict detection."
 
     stats: {
-        downloads:  24
+        downloads:  43
         updated_at: 1784462109000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/literate-haskell
 alt:
   - https://github.com/jajaperson/obsidian-literate-haskell
-downloads: 3588
+downloads: 3597
 updated at: "2022-08-20T09:20:30Z"
 related to:
   - "[[GitHub - 526524383]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Treat .lhs files like Markdown so prose and code coexist naturally. Hide \\begin{code} and \\end{code} in .haskell blocks so Haskell code in .lhs files behaves like ordinary .hs files."
 
     stats: {
-        downloads:  3588
+        downloads:  3597
         updated_at: 1660987230000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-state-switcher
 alt:
   - https://github.com/lijyze/obsidian-state-switcher
-downloads: 12469
+downloads: 12563
 updated at: "2022-06-30T02:02:09Z"
 related to:
   - "[[GitHub - 492231393]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit YAML front matter safely without opening it directly. Update single key-value fields, insert or remove items in array fields, and perform bulk updates from the command palette (edit mode). Auto-create front matter if missing and support customizable array formats (- item or [item])."
 
     stats: {
-        downloads:  12469
+        downloads:  12563
         updated_at: 1656554529000
     }
 }

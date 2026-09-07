@@ -5,16 +5,16 @@ xid:
 aliases:
   - ripple
   - Ripple
-  - johanmensah/obsidian-ripple
+  - nejmlabs/obsidian-ripple
 tags:
   - type/bookmark
   - bookmark/obsidian
   - obsidian/plugin
 url: https://community.obsidian.md/plugins/ripple
 alt:
-  - https://github.com/johanmensah/obsidian-ripple
-downloads: 79
-updated at: "2026-07-06T23:23:32Z"
+  - https://github.com/nejmlabs/obsidian-ripple
+downloads: 133
+updated at: "2026-08-05T19:39:06Z"
 related to:
   - "[[GitHub - 1291557398]]"
 remind me:
@@ -28,17 +28,17 @@ Ripple keeps a micro-journal in a single vault folder, which holds timestamped M
 plugin: {
     id:     "ripple"
     name:   "Ripple"
-    author: "Johan Mensah"
-    repo:   "johanmensah/obsidian-ripple"
+    author: "nejm"
+    repo:   "nejmlabs/obsidian-ripple"
 
     html_url:    "https://community.obsidian.md/plugins/ripple"
-    github_url:  "https://github.com/johanmensah/obsidian-ripple"
+    github_url:  "https://github.com/nejmlabs/obsidian-ripple"
     description: "A micro-journal over one vault folder: a feed of posts, threaded replies, and AI reflections. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Create a micro-journal inside your vault: one folder is the single source of truth, holding timestamped Markdown posts with simple frontmatter and threaded replies. Browse a newest-first feed with an in-feed composer, highlights, month navigation, and optional AI reflections via the AI Providers plugin. Works on obsidian mobile. Inspired by Pile — for everyone who enjoyed the app and wanted it inside their vault."
 
     stats: {
-        downloads:  79
-        updated_at: 1783380212000
+        downloads:  133
+        updated_at: 1785958746000
     }
 }
 ```

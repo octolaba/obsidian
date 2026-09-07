@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/table-line-break
 alt:
   - https://github.com/marcelflymark/new-line-break-inside-table-cell
-downloads: 2573
+downloads: 2700
 updated at: "2026-07-02T13:46:36Z"
 related to:
   - "[[GitHub - 1046125895]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert line breaks inside Markdown table cells on mobile devices via a new command or toolbar icon. Start a new line within the same cell using an HTML <br> so you can type multiple lines without a hardware keyboard."
 
     stats: {
-        downloads:  2573
+        downloads:  2700
         updated_at: 1782999996000
     }
 }

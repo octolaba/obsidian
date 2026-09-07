@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/timemeter
 alt:
   - https://github.com/nauppece/timemeter
-downloads: 26
+downloads: 41
 updated at: "2026-07-21T15:12:34Z"
 related to:
   - "[[GitHub - 1299405164]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Record app activity and session notes into daily Markdown logs (TimeMeter/YYYY-MM-DD.md). Automatically track frontmost macOS apps and window titles, detect AFK periods, and add quick one-line memos; save all data locally in your vault. Automatic tracking runs on macOS desktop only; mobile supports viewing and manual logs."
 
     stats: {
-        downloads:  26
+        downloads:  41
         updated_at: 1784646754000
     }
 }

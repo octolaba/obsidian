@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/webdav-snapshot-sync
 alt:
   - https://github.com/pengggxp/webdav_sync
-downloads: 118
+downloads: 136
 updated at: "2026-06-27T09:21:04Z"
 related to:
   - "[[GitHub - 1260198413]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create manual zip snapshots of your vault and upload or download them to WebDAV, with metadata and index tracking. Upload a before-download backup before restoring a selected snapshot, delete scoped local files then write remote content (preserve ctime/mtime when supported), honor ignore rules, and manually prune old snapshots."
 
     stats: {
-        downloads:  118
+        downloads:  136
         updated_at: 1782552064000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/ob-epub-reader
 alt:
   - https://github.com/chengshans/ob-epub-reader
-downloads: 520
-updated at: "2026-06-26T01:49:32Z"
+downloads: 750
+updated at: "2026-08-07T07:47:28Z"
 related to:
   - "[[GitHub - 1265840755]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Read EPUBs inside Obsidian with a built-in reader, TOC sidebar, progress tracking, and paginated or scroll modes. Highlight and add colored margin notes that export to Markdown excerpts with deep links back to the exact passage, and optionally send selections to OpenAI-compatible APIs for AI interpretation."
 
     stats: {
-        downloads:  520
-        updated_at: 1782438572000
+        downloads:  750
+        updated_at: 1786088848000
     }
 }
 ```

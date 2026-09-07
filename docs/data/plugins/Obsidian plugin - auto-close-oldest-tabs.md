@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-close-oldest-tabs
 alt:
   - https://github.com/usero2/obsidian-plugins-auto-close-tabs
-downloads: 119
+downloads: 158
 updated at: "2026-06-16T10:42:07Z"
 related to:
   - "[[GitHub - 1259644551]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Close the least-recently-used tabs automatically when open tabs exceed a configurable limit to keep your workspace tidy. Force internal links and files to open in new tabs until the limit is reached to avoid replacing your active note."
 
     stats: {
-        downloads:  119
+        downloads:  158
         updated_at: 1781606527000
     }
 }

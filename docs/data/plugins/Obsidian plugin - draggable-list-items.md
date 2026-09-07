@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/draggable-list-items
 alt:
   - https://github.com/viscouspot/draggable-list-items
-downloads: 661
+downloads: 833
 updated at: "2026-06-10T14:55:21Z"
 related to:
   - "[[GitHub - 850491762]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reorder list items by dragging in reading view and live preview on desktop and mobile. Keep nested children with their parent, restrict drags to matching list types (tasks, bullets, ordered), and renumber ordered lists after drop. Only rendered views support dragging."
 
     stats: {
-        downloads:  661
+        downloads:  833
         updated_at: 1781103321000
     }
 }

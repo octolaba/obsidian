@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/minimal-task-board
 alt:
   - https://github.com/selectstarfromusers/obsidian-task-manager
-downloads: 243
+downloads: 291
 updated at: "2026-05-29T21:22:54Z"
 related to:
   - "[[GitHub - 1192277971]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create customizable buckets and group tasks by any frontmatter property to build Kanban-style boards, Eisenhower matrices, or GTD workflows. Track inline tasks from any note with #task and keep them bidirectionally synced; drag-and-drop to reorder or move tasks with a clean, frameless design."
 
     stats: {
-        downloads:  243
+        downloads:  291
         updated_at: 1780089774000
     }
 }

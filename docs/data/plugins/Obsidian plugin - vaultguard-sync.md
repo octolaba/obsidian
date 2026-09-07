@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/vaultguard-sync
 alt:
   - https://github.com/peter70700/vaultguard-obsidian
-downloads: 306
-updated at: "2026-07-15T17:30:01Z"
+downloads: 369
+updated at: "2026-08-11T13:13:25Z"
 related to:
   - "[[GitHub - 1236556714]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync vaults with permission-aware end-to-end encryption (AES-256-GCM) using KMS-backed keys. Enforce per-file permissions with role inheritance, time-bound key leases and automatic re-encryption on user offboarding. Support multi-vaults, plugin allowlists, secure authentication and local at-rest encryption."
 
     stats: {
-        downloads:  306
-        updated_at: 1784136601000
+        downloads:  369
+        updated_at: 1786454005000
     }
 }
 ```

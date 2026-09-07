@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/soundboard
 alt:
   - https://github.com/jgradim/obsidian-soundboard
-downloads: 399
-updated at: "2026-06-04T13:01:28Z"
+downloads: 473
+updated at: "2026-08-06T14:53:27Z"
 related to:
   - "[[GitHub - 1149274104]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create soundboards and playlists from local audio files to play background music, ambiance, and sound effects offline. Organize tracks into customizable tiles and sections, control playback per tile, and switch between one-shot or looping playlist modes."
 
     stats: {
-        downloads:  399
-        updated_at: 1780578088000
+        downloads:  473
+        updated_at: 1786028007000
     }
 }
 ```

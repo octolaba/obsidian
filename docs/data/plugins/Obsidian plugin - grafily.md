@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/grafily
 alt:
   - https://github.com/thebesttvarynka/grafily
-downloads: 135
+downloads: 246
 updated at: "2026-07-18T14:00:53Z"
 related to:
   - "[[GitHub - 1122938713]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render interactive family graphs from person .md files and explore ancestors and descendants. Use tree (Reingold–Tilford) or graph (Brandes–Köpf) layouts and scan a vault directory for person metadata. Collapse and expand family branches for clearer navigation."
 
     stats: {
-        downloads:  135
+        downloads:  246
         updated_at: 1784383253000
     }
 }

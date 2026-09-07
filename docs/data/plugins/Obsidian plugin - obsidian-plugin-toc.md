@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-plugin-toc
 alt:
   - https://github.com/hipstersmoothie/obsidian-plugin-toc
-downloads: 218128
+downloads: 220673
 updated at: "2023-05-11T02:08:35Z"
 related to:
   - "[[GitHub - 340997513]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a table of contents for a note as a linked list of headings, either full or limited to the next heading level. Choose list style, title and header-depth range to control scope."
 
     stats: {
-        downloads:  218128
+        downloads:  220673
         updated_at: 1683770915000
     }
 }

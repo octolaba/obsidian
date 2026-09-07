@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-notes-to-vault
 alt:
   - https://github.com/rgomezjnr/copy-notes-to-vault
-downloads: 189
+downloads: 247
 updated at: "2026-05-13T22:43:50Z"
 related to:
   - "[[GitHub - 1230023495]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy notes to another vault using a searchable folder-tree selector and optionally preserve the source folder hierarchy. Include and automatically copy all referenced attachments (embedded files and linked files), pick the destination with a native folder picker, and keep your last-used destination and preferences."
 
     stats: {
-        downloads:  189
+        downloads:  247
         updated_at: 1778712230000
     }
 }

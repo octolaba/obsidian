@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/email-to-vault
 alt:
   - https://github.com/mnaoumov/obsidian-email-to-vault
-downloads: 1448
-updated at: "2026-07-21T23:39:11Z"
+downloads: 1692
+updated at: "2026-08-08T17:53:53Z"
 related to:
   - "[[GitHub - 1211999652]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create a free one-click email mailbox and forward emails into your vault as Markdown notes. Fetch messages automatically with full metadata and attachments; emails route through third-party mail.tm servers, so avoid sending sensitive data."
 
     stats: {
-        downloads:  1448
-        updated_at: 1784677151000
+        downloads:  1692
+        updated_at: 1786211633000
     }
 }
 ```

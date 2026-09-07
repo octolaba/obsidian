@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/md-to-flomo
 alt:
   - https://github.com/joeytoday/obsidian-md2flomo
-downloads: 99
-updated at: "2026-07-15T10:10:26Z"
+downloads: 120
+updated at: "2026-07-28T02:14:25Z"
 related to:
   - "[[GitHub - 1047784274]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Send Obsidian notes to flomo in one click. Convert frontmatter tags to flomo tags, clean formatting (bold title, note body, aliases, tags), publish single notes or batch via a dashboard with publish-status tracking and test API connectivity."
 
     stats: {
-        downloads:  99
-        updated_at: 1784110226000
+        downloads:  120
+        updated_at: 1785204865000
     }
 }
 ```

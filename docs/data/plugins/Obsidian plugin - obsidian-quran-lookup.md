@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-quran-lookup
 alt:
   - https://github.com/abuibrahim2/quranlookup
-downloads: 5797
+downloads: 5853
 updated at: "2024-12-16T04:38:43Z"
 related to:
   - "[[GitHub - 559706788]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Lookup Quran verses by Surah:Ayah shorthand (number or name) and replace the selected text with a formatted Obsidian callout showing ayah number, Arabic text, and translation. Use fuzzy Surah-name matching, chained ranges, toggle translation display, choose language/translator, and apply Arabic styling or alternate container types."
 
     stats: {
-        downloads:  5797
+        downloads:  5853
         updated_at: 1734323923000
     }
 }

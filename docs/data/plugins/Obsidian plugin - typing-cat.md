@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/typing-cat
 alt:
   - https://github.com/jefrry/obsidian-typing-cat
-downloads: 216
+downloads: 249
 updated at: "2026-01-30T09:31:24Z"
 related to:
   - "[[GitHub - 1140478619]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a cozy cat overlay that types along with you in real time and gives playful visual cues (sweats during intense bursts, shows a heart when clicked). Track typing speed in WPM, CPM, or CPS with an optional on-screen speedometer. Customize position, size, opacity, and orientation."
 
     stats: {
-        downloads:  216
+        downloads:  249
         updated_at: 1769765484000
     }
 }

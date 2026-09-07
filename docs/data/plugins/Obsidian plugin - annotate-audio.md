@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/annotate-audio
 alt:
   - https://github.com/12-vide/annotate-audio
-downloads: 2080
+downloads: 2117
 updated at: "2025-06-29T07:39:11Z"
 related to:
   - "[[GitHub - 943264397]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Play and tweak audio with adjustable volume, speed, looping and millisecond-precise seeking. Add LRC-formatted timestamped comments to jump to sections, edit or delete annotations, use keyboard commands or mobile controls, and localize the interface."
 
     stats: {
-        downloads:  2080
+        downloads:  2117
         updated_at: 1751182751000
     }
 }

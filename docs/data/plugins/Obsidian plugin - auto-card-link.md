@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-card-link
 alt:
   - https://github.com/nekoshita/obsidian-auto-card-link
-downloads: 76396
+downloads: 77352
 updated at: "2024-02-24T06:47:20Z"
 related to:
   - "[[GitHub - 476976689]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fetch metadata from URLs and generate Markdown-safe, card-styled links as YAML code blocks so notes stay free of HTML. Convert pasted or selected URLs into card links, include local images via Obsidian internal links, and style cards with separate CSS snippets."
 
     stats: {
-        downloads:  76396
+        downloads:  77352
         updated_at: 1708757240000
     }
 }

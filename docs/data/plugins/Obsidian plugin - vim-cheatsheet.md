@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vim-cheatsheet
 alt:
   - https://github.com/rafaelmehdiyev/obsidian-vim-cheatsheet
-downloads: 217
+downloads: 269
 updated at: "2026-05-27T11:35:00Z"
 related to:
   - "[[GitHub - 1251140507]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a searchable Vim command reference inside Obsidian. Browse 150+ motions, operators, text objects and commands with examples and word-by-word search. Display as a modal or pinned sidebar that follows your theme and works on mobile."
 
     stats: {
-        downloads:  217
+        downloads:  269
         updated_at: 1779881700000
     }
 }

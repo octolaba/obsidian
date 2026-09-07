@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tab-panels
 alt:
   - https://github.com/gnoxnahte/obsidian-tab-panels
-downloads: 9991
+downloads: 10319
 updated at: "2026-02-22T03:05:56Z"
 related to:
   - "[[GitHub - 861126418]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create tabbed panels to organize notes into collapsible sections using simple Markdown code blocks. Render tabs in reading mode and enable optional caching to integrate links, headings, tags and plugin data (e.g., Dataview) with Obsidian’s core features."
 
     stats: {
-        downloads:  9991
+        downloads:  10319
         updated_at: 1771729556000
     }
 }

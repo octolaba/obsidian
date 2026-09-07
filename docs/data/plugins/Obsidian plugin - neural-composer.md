@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/neural-composer
 alt:
   - https://github.com/oscampo/obsidian-neural-composer
-downloads: 11854
+downloads: 12637
 updated at: "2026-07-17T10:24:39Z"
 related to:
   - "[[GitHub - 1126393943]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Build a knowledge graph of your vault and use graph-based retrieval to uncover relationships across notes. Pose complex, context-rich queries to synthesize connected ideas for research, writing, journaling, and project planning."
 
     stats: {
-        downloads:  11854
+        downloads:  12637
         updated_at: 1784283879000
     }
 }

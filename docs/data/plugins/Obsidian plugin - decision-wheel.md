@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/decision-wheel
 alt:
   - https://github.com/moonsand79/obsidian-decision-wheel
-downloads: 115
+downloads: 163
 updated at: "2026-06-06T07:08:33Z"
 related to:
   - "[[GitHub - 1259929621]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Drop choices into a visual wheel in the Obsidian sidebar and spin to pick a winner with realistic friction and inertia physics. Customize color palettes with smart contrast and browse, save, edit, or duplicate reusable wheels in a persistent vault manager."
 
     stats: {
-        downloads:  115
+        downloads:  163
         updated_at: 1780729713000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-sort-and-permute-lines
 alt:
   - https://github.com/vinzent03/obsidian-sort-and-permute-lines
-downloads: 59945
+downloads: 63836
 updated at: "2026-07-16T00:36:17Z"
 related to:
   - "[[GitHub - 332338146]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sort lines alphabetically, by length, reverse their order, or shuffle them. Sort headings while preserving parent hierarchy and apply changes to the whole file or a selected range."
 
     stats: {
-        downloads:  59945
+        downloads:  63836
         updated_at: 1784162177000
     }
 }

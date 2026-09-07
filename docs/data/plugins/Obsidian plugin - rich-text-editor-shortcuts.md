@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rich-text-editor-shortcuts
 alt:
   - https://github.com/joshuawootonn/obsidian-rich-text-editor-shortcuts
-downloads: 1721
+downloads: 1745
 updated at: "2024-08-27T06:13:48Z"
 related to:
   - "[[GitHub - 829989699]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add Notion-style rich text shortcuts to Obsidian for faster inline formatting. Create unchecked/checked checkboxes with []-space and [x]-space, toggle checkboxes with Mod-Shift-Enter, convert clipboard URLs into links with Mod-V, create local vault links with Mod-Shift-K, and toggle underline with Mod-U."
 
     stats: {
-        downloads:  1721
+        downloads:  1745
         updated_at: 1724739228000
     }
 }

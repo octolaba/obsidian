@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/antv-infographic
 alt:
   - https://github.com/larchliu/obsidian-infographic-plugin
-downloads: 152
+downloads: 170
 updated at: "2026-01-30T14:56:49Z"
 related to:
   - "[[GitHub - 1145915051]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render AntV Infographic code blocks directly inside Obsidian notes to display diagrams and layouts. Create fenced code blocks with language \"infographic\" to show templates like radial-tree and other AntV Infographic visualizations."
 
     stats: {
-        downloads:  152
+        downloads:  170
         updated_at: 1769785009000
     }
 }

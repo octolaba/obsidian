@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cvss-calculator
 alt:
   - https://github.com/0xdad0/obsidian-cvss
-downloads: 105
+downloads: 114
 updated at: "2026-05-20T05:25:43Z"
 related to:
   - "[[GitHub - 1200763922]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Compute CVSS 3.1 scores in a single wide modal showing all eight base metrics and update the score live as you select options. Copy the full CVSS vector or insert the score into your note, update the current note or open findings' CVSS frontmatter, and view a color-coded severity badge. Automatically adjust Privileges Required weights when Scope changes per CVSS 3.1."
 
     stats: {
-        downloads:  105
+        downloads:  114
         updated_at: 1779254743000
     }
 }

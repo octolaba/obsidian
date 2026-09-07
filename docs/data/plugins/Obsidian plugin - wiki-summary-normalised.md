@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wiki-summary-normalised
 alt:
   - https://github.com/pflanzmann/obsidian-summary-plugin
-downloads: 145
+downloads: 168
 updated at: "2026-03-22T22:43:10Z"
 related to:
   - "[[GitHub - 1126894931]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Compile multiple Markdown files—or your entire vault—into a single, well-structured text document tailored for LLM inputs. Traverse your note graph to gather outgoing links and backlinks, preview and select included files in an interactive tree, and exclude templates or archives for clean concatenation. Pair primary notes with mirror copies and keep a smart history of recent summaries for quick reuse."
 
     stats: {
-        downloads:  145
+        downloads:  168
         updated_at: 1774219390000
     }
 }

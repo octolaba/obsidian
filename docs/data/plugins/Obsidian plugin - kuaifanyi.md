@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/kuaifanyi
 alt:
   - https://github.com/wjzixi/kuaifanyi
-downloads:
-updated at:
+downloads: 130
+updated at: "2026-07-26T09:19:46Z"
 related to:
   - "[[GitHub - 1309365457]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/wjzixi/kuaifanyi"
     description: "选中即译：短词词典模式+长句流式翻译，AI 解释并行渲染，豆包神经语音朗读（支持声音克隆），兼容 DeepSeek 等 OpenAI 格式 API - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Translate and read aloud selections instantly, using dictionary lookups for short words and streaming translation for longer text. Display parallel AI explanations, auto-detect language direction, and play neural TTS (Volcano Engine) with optional voice cloning in a draggable, resizable popup."
+
+    stats: {
+        downloads:  130
+        updated_at: 1785057586000
+    }
 }
 ```
 

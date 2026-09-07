@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-hide-sidebars-when-narrow
 alt:
   - https://github.com/nomarcub/obsidian-hide-sidebars-on-window-resize
-downloads: 19603
-updated at: "2026-05-19T21:34:54Z"
+downloads: 20432
+updated at: "2026-08-02T06:08:15Z"
 related to:
   - "[[GitHub - 464998119]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Hide sidebars automatically when the window narrows and restore them when it widens. Set minimum widths for left and right sidebars to control when they collapse."
 
     stats: {
-        downloads:  19603
-        updated_at: 1779226494000
+        downloads:  20432
+        updated_at: 1785650895000
     }
 }
 ```

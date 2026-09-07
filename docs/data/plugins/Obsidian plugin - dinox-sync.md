@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dinox-sync
 alt:
   - https://github.com/ryzencool/dinox-sync
-downloads: 3105
+downloads: 3231
 updated at: "2026-07-03T05:44:01Z"
 related to:
   - "[[GitHub - 820819552]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Dinox notes to Obsidian and push Obsidian notes back to Dinox with incremental pulls that only fetch changed items. Organize synced files into adjustable folder hierarchies and filename/templates, enable automatic periodic pulls, and push current notes or selected text as new Dinox notes."
 
     stats: {
-        downloads:  3105
+        downloads:  3231
         updated_at: 1783057441000
     }
 }

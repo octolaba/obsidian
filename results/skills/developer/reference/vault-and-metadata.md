@@ -27,10 +27,10 @@ Signatures, `@since` tags, and the normative "prefer X over Y" JSDoc come from t
 and worked recipes come from the narrative documentation and the submission guidelines. Nothing here
 was executed against a running vault. Members the typings leave without a version tag are written
 **untagged, availability unknown**: declaration at the 1.13.2 pin does not establish compatibility
-with 1.12.7. A lower floor needs another pinned official source or runtime verification.
+with 1.13.7. A lower floor needs another pinned official source or runtime verification.
 
 Citation aliases: `api`, `docs`, `sample`, `theme`, `rel`, `help` — defined in the skill's Sources
-section. Every API named states its `@since` and its tier at this pin — *stable* at or below 1.12.7,
+section. Every API named states its `@since` and its tier at this pin — *stable* at or below 1.13.7,
 *insider-only* above it.
 
 **Which storage to choose** — `data.json`, frontmatter, ordinary files, secrets, or per-device local

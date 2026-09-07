@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-in-github
 alt:
   - https://github.com/hacker-c/obsidian-open-in-github-plugin
-downloads: 487
+downloads: 503
 updated at: "2025-03-30T05:05:09Z"
 related to:
   - "[[GitHub - 949255856]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open projects and files on GitHub directly from Obsidian. Launch the current file or repository path in your browser to view or edit it on GitHub."
 
     stats: {
-        downloads:  487
+        downloads:  503
         updated_at: 1743311109000
     }
 }

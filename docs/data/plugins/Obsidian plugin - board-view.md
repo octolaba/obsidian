@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/board-view
 alt:
   - https://github.com/seventhxiv/obsidian-board-view
-downloads: 13591
+downloads: 14267
 updated at: "2025-12-03T07:48:32Z"
 related to:
   - "[[GitHub - 1105151102]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create interactive board views for bases with both column and row grouping to use as Kanban or gallery layouts. Drag and drop cards to update note properties, add color-coded groups, display images and icons on cards, hide or reorder groups, and create new notes with pre-filled properties."
 
     stats: {
-        downloads:  13591
+        downloads:  14267
         updated_at: 1764748112000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/book-bibliography-card
 alt:
   - https://github.com/the-town/book-bibliography-card
-downloads: 127
+downloads: 138
 updated at: "2026-01-31T14:18:21Z"
 related to:
   - "[[GitHub - 1146012038]]"
@@ -36,7 +36,7 @@ plugin: {
     description: "Display book cover and bibliography from ISBN (OpenBD). Write ISBN in a code block to show a book card. - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  127
+        downloads:  138
         updated_at: 1769869101000
     }
 }

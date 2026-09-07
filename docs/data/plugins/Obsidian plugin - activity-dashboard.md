@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/activity-dashboard
 alt:
   - https://github.com/saimdeniz/activity-dashboard
-downloads: 239
+downloads: 327
 updated at: "2026-06-09T00:10:43Z"
 related to:
   - "[[GitHub - 1262717730]]"
@@ -36,7 +36,7 @@ plugin: {
     description: "Comprehensive media statistics and multi-resolution activity dashboard for Media DB notes. - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  239
+        downloads:  327
         updated_at: 1780963843000
     }
 }

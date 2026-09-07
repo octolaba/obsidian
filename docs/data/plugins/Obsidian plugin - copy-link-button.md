@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-link-button
 alt:
   - https://github.com/chektek/obsidian-copy-link
-downloads: 113
+downloads: 134
 updated at: "2026-06-13T01:29:38Z"
 related to:
   - "[[GitHub - 1258857303]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a small copy button next to markdown links and bare URLs to copy the link to the clipboard with one click in edit, Live Preview, and reading views. Show a brief checkmark after copying and style the button to match Obsidian themes while leaving wikilinks untouched."
 
     stats: {
-        downloads:  113
+        downloads:  134
         updated_at: 1781314178000
     }
 }

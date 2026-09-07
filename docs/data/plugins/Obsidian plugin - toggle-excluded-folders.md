@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/toggle-excluded-folders
 alt:
   - https://github.com/ssurfthekaliyuga/obsidian-toggle-excluded-folders
-downloads: 239
+downloads: 312
 updated at: "2026-05-27T19:23:02Z"
 related to:
   - "[[GitHub - 1247544699]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle your Excluded files list on and off with a single click to reveal or hide archived or noisy folders and notes. Stash and restore Obsidian's native excluded filters (folders, files, tags, regex) without creating a separate list and refresh Search and Graph views automatically."
 
     stats: {
-        downloads:  239
+        downloads:  312
         updated_at: 1779909782000
     }
 }

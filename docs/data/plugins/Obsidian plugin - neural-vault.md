@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/neural-vault
 alt:
   - https://github.com/williansaez/neural-vault
-downloads: 87
+downloads: 122
 updated at: "2026-07-01T18:26:27Z"
 related to:
   - "[[GitHub - 1265122610]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Pair with Claude Code to animate Obsidian's native graph view, flashing nodes when the agent reads or edits files. Keep the built-in PIXI renderer active so nodes swell, glow, and drift under real physics for a live visualization of agent activity."
 
     stats: {
-        downloads:  87
+        downloads:  122
         updated_at: 1782930387000
     }
 }

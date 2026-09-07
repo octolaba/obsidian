@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/modern-outline
 alt:
   - https://github.com/krental/obsidian-modern-outline
-downloads: 506
+downloads: 626
 updated at: "2026-06-30T10:14:15Z"
 related to:
   - "[[GitHub - 1278909524]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Overlay a modern minimap outline on the note edge showing headings as markers; hover to reveal labels and click to jump to any heading. Highlight the active heading in edit and reading modes, show hierarchy via indent/size or tree lines, and compress spacing for dense notes."
 
     stats: {
-        downloads:  506
+        downloads:  626
         updated_at: 1782814455000
     }
 }

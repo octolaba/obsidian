@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/collapse-linked-mentions
 alt:
   - https://github.com/n810k/obsidian-collapse-linked-mentions
-downloads: 733
+downloads: 753
 updated at: "2024-09-19T03:53:17Z"
 related to:
   - "[[GitHub - 859602603]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Collapse linked mentions automatically to reduce visual clutter and streamline note scanning. Preserve link visibility while hiding expanded mention content."
 
     stats: {
-        downloads:  733
+        downloads:  753
         updated_at: 1726717997000
     }
 }

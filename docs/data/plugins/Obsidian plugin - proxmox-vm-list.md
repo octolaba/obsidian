@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/proxmox-vm-list
 alt:
   - https://github.com/psalkiewicz/obsidian-proxmox-vm-list
-downloads: 23
+downloads: 38
 updated at: "2026-07-06T21:29:57Z"
 related to:
   - "[[GitHub - 1291499435]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect to Proxmox VE and generate a Markdown inventory of all VMs and LXC containers across every node. Output a table with VMID, name, type, host, status, CPU/RAM, disks, OS and notes; mark templates and running/stopped state for quick review and regenerate the note on each update."
 
     stats: {
-        downloads:  23
+        downloads:  38
         updated_at: 1783373397000
     }
 }

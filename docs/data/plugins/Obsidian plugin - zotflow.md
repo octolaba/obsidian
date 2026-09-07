@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/zotflow
 alt:
   - https://github.com/duanxianpi/zotflow
-downloads: 9493
-updated at: "2026-07-19T07:31:24Z"
+downloads: 11375
+updated at: "2026-08-09T12:12:00Z"
 related to:
   - "[[GitHub - 1128662025]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Bring your Zotero library into Obsidian and read and annotate PDFs/EPUBs inline with a theme-matching reader. Sync items, metadata, and annotations bidirectionally with Zotero, generate template-driven Markdown source notes, and cite literature via drag-and-drop, autocomplete, or hotkeys."
 
     stats: {
-        downloads:  9493
-        updated_at: 1784446284000
+        downloads:  11375
+        updated_at: 1786277520000
     }
 }
 ```

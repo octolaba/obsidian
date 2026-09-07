@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-chat-as-md
 alt:
   - https://github.com/cpbotha/obsidian-ai-chat-as-md
-downloads: 1329
+downloads: 1369
 updated at: "2025-07-27T18:15:52Z"
 related to:
   - "[[GitHub - 818251225]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with GPT-4 Omni or Claude 3.5 directly inside your Obsidian Markdown notes. Create branching conversations as nested headings, include images for multimodal context, render citations from search-integrated models, and set per-file models or system prompts via frontmatter or embeds."
 
     stats: {
-        downloads:  1329
+        downloads:  1369
         updated_at: 1753640152000
     }
 }

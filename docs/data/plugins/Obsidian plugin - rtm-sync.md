@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rtm-sync
 alt:
   - https://github.com/kissyjpf/rtm-sync
-downloads: 143
+downloads: 151
 updated at: "2026-06-24T06:19:41Z"
 related to:
   - "[[GitHub - 1127079997]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync tasks between Obsidian and Remember The Milk by downloading, adding, and completing items while preserving due dates, priorities, tags and stable RTM ID links in your notes. Select exactly which tasks to import with a popup or RTM search queries, convert RTM lists and tags into Obsidian hashtags, and add tasks using RTM Smart Add syntax."
 
     stats: {
-        downloads:  143
+        downloads:  151
         updated_at: 1782281981000
     }
 }

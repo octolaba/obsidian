@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-mathjax
 alt:
   - https://github.com/greasycat/BetterMathjax
-downloads: 10840
+downloads: 10933
 updated at: "2023-01-27T03:07:08Z"
 related to:
   - "[[GitHub - 590167355]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add MathJax autocompletion with live inline rendering when typing $$ or $$$$ blocks. Show a helper modal and insert editable snippets with hotkeys, navigate placeholders quickly, and customize behavior in settings."
 
     stats: {
-        downloads:  10840
+        downloads:  10933
         updated_at: 1674788828000
     }
 }

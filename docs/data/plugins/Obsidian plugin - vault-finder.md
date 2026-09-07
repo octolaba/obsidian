@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-finder
 alt:
   - https://github.com/cozeboy/vault-finder
-downloads: 120
+downloads: 137
 updated at: "2026-06-24T07:02:27Z"
 related to:
   - "[[GitHub - 1271911737]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search your Obsidian vault with fast local full-text indexing and n-gram tokenization for mixed Chinese/English content. Add optional vector retrieval and AI-powered keyword expansion, relevance filtering, and concise result summarization; save summaries as notes or revisit searches via a keyboard-navigable sidebar."
 
     stats: {
-        downloads:  120
+        downloads:  137
         updated_at: 1782284547000
     }
 }

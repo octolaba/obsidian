@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ozsync
 alt:
   - https://github.com/atopos31/OZSync
-downloads: 280
+downloads: 342
 updated at: "2026-05-14T06:54:34Z"
 related to:
   - "[[GitHub - 1217895722]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault with ZimaOS storage for desktop backup, file browsing, and cross-device access. Browse ZimaOS inside Obsidian to upload, download, preview, create, and delete files; run manual or optional interval sync with newer-file-wins conflict resolution and local timestamped backups before remote overwrites; monitor state in the status bar and status view. Use on Obsidian desktop only."
 
     stats: {
-        downloads:  280
+        downloads:  342
         updated_at: 1778741674000
     }
 }

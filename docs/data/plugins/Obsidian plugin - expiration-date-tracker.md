@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/expiration-date-tracker
 alt:
   - https://github.com/raboro/obsidian-expiration-date-tracker-plugin
-downloads: 3287
+downloads: 3389
 updated at: "2023-10-07T20:51:56Z"
 related to:
   - "[[GitHub - 681799123]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track expiration dates for items listed in a Markdown table and display them in a dedicated view grouped by expiration category with days-until-expiry. Receive notices for expired items, search items or categories, and set the source file, date format, and threshold ranges for categories."
 
     stats: {
-        downloads:  3287
+        downloads:  3389
         updated_at: 1696711916000
     }
 }

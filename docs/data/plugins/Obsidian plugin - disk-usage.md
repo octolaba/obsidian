@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/disk-usage
 alt:
   - https://github.com/promptier/disk-usage
-downloads: 3305
+downloads: 3326
 updated at: "2023-10-22T20:35:18Z"
 related to:
   - "[[GitHub - 705920625]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Aggregate file sizes across your vault to produce totals broken down by folder and file type. Generate a Markdown report and expose the raw data for browsing in developer tools. Measure file sizes only (not OS disk allocation) and exclude hidden .obsidian metadata."
 
     stats: {
-        downloads:  3305
+        downloads:  3326
         updated_at: 1698006918000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/related-notes-by-tag
 alt:
   - https://github.com/chrishoward-projects/related-notes-by-tag
-downloads: 4061
-updated at: "2026-01-18T11:53:42Z"
+downloads: 4948
+updated at: "2026-08-09T07:17:27Z"
 related to:
   - "[[GitHub - 1002390999]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Discover notes that share tags with the active note to surface related content and strengthen knowledge links. Open a right‑sidebar panel that updates in real time and offers tag filters, minimum-match requirements, sorting, matched-tag display, collapsible groups, and folder exclusions."
 
     stats: {
-        downloads:  4061
-        updated_at: 1768737222000
+        downloads:  4948
+        updated_at: 1786259847000
     }
 }
 ```

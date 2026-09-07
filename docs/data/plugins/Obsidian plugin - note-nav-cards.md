@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-nav-cards
 alt:
   - https://github.com/davidtorro/Obsidian-Note-Nav-Cards-Plugin
-downloads: 80
+downloads: 94
 updated at: "2026-07-02T17:18:50Z"
 related to:
   - "[[GitHub - 1285227578]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render navigation cards from a note-nav code block to show previous, next, or both notes using English and Spanish keys. Resolve and open internal links via Obsidian's API and apply adaptive styling for light and dark themes."
 
     stats: {
-        downloads:  80
+        downloads:  94
         updated_at: 1783012730000
     }
 }

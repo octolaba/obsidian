@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-folder-view
 alt:
   - https://github.com/sixtarocyan/smart-folder-view
-downloads: 286
+downloads: 319
 updated at: "2026-06-04T11:38:45Z"
 related to:
   - "[[GitHub - 1227883398]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn a folder of notes into an interactive dashboard with timeline and board layouts, draggable cards, and metadata-based filters. Save reusable pages and presets, map stable colors from a chosen field, persist manual ordering and page state, undo the last drag, and export page definitions back to your vault."
 
     stats: {
-        downloads:  286
+        downloads:  319
         updated_at: 1780573125000
     }
 }

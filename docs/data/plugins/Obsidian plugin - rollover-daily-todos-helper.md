@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rollover-daily-todos-helper
 alt:
   - https://github.com/eugenschmalz/obsidian-rollover-daily-todos-helper
-downloads: 110
+downloads: 128
 updated at: "2026-05-06T20:49:38Z"
 related to:
   - "[[GitHub - 1231179965]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Delay opening today's daily note at startup so Rollover Daily Todos reliably catches the note-creation event; set a 0–120s startup delay and optionally skip if today's note is already open. Run an optional rollover command after opening and use fallback command resolution for custom daily-note commands, with desktop and mobile support."
 
     stats: {
-        downloads:  110
+        downloads:  128
         updated_at: 1778100578000
     }
 }

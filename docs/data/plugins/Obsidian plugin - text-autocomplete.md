@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/text-autocomplete
 alt:
   - https://github.com/c-degni/text-autocomplete
-downloads: 1692
+downloads: 1905
 updated at: "2026-03-14T23:46:06Z"
 related to:
   - "[[GitHub - 978993617]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Type faster with inline word suggestions shown in a dropdown as you type. Replace the current word by clicking a suggestion or using Enter/Tab; navigate suggestions with arrow keys, Esc to dismiss, and Shift+Enter to keep Enter's default. Manage a custom dictionary or import .txt word lists to expand suggestions."
 
     stats: {
-        downloads:  1692
+        downloads:  1905
         updated_at: 1773531966000
     }
 }

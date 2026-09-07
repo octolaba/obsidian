@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jira-issue-managing
 alt:
   - https://github.com/angelperezasenjo/obsidian-to-jira
-downloads: 459
+downloads: 467
 updated at: "2024-12-12T09:00:26Z"
 related to:
   - "[[GitHub - 902264108]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create, update, and import Jira issues directly from Obsidian using the command palette. Import issue data into markdown files in a jira-issues folder, and create or update Jira issues from frontmatter fields (summary, priority, key) while choosing project and issue type via suggestion modals."
 
     stats: {
-        downloads:  459
+        downloads:  467
         updated_at: 1733994026000
     }
 }

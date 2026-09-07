@@ -279,19 +279,50 @@ function main(argv) {
     const legacy = indexes.themes.filter(theme => theme.legacy === true).length;
     const repos = new Set([...indexes.plugins, ...indexes.themes].map(row => row.repo.toLowerCase()));
     const uppercase = [...indexes.plugins, ...indexes.themes].filter(row => /[A-Z]/.test(row.repo)).length;
-    const encoded = indexes.themes.filter(theme => encodeURIComponent(theme.screenshot) !== theme.screenshot.replace(/\//g, '%2F')).length;
     const removedIds = new Set(indexes.pluginsRemoved.map(row => row.id));
     const intersect = indexes.plugins.filter(plugin => removedIds.has(plugin.id));
 
+    // Owners sharing one case-folded basename: the reason repository notes are named by numeric id.
+    const owners = new Map();
+    for (const row of [...indexes.plugins, ...indexes.themes]) {
+        const [owner, name] = row.repo.split('/');
+        const key = (name ?? '').toLowerCase();
+        if (!owners.has(key)) owners.set(key, new Set());
+        owners.get(key).add((owner ?? '').toLowerCase());
+    }
+    const collisions = [...owners.values()].filter(set => set.size > 1).length;
+
+    // Screenshot paths needing URL-encoding — counted the way the renderer encodes, segment by segment.
+    const needEncoding = indexes.themes.filter(theme =>
+        theme.screenshot.split('/').some(segment => encodeURIComponent(segment) !== segment),
+    ).length;
+
+    // Release-tag keys in Plugin Stats: shaped like a version, or an arbitrary tag name. The shape
+    // rule is the gate's, restated rather than shared, so the two cannot quietly diverge on it.
+    const versionShaped = /^v?\d+\.\d+(?:\.\d+)?(?:[-+.][0-9A-Za-z.-]+)?$/;
+    const releaseTags = { total: 0, arbitrary: 0 };
+    for (const record of Object.values(indexes.stats)) {
+        for (const key of Object.keys(record)) {
+            if (key === 'downloads' || key === 'updated') continue;
+            releaseTags.total += 1;
+            if (!versionShaped.test(key)) releaseTags.arbitrary += 1;
+        }
+    }
+
     const claims = [
-        [indexes.plugins.length, 6057, 'plugins'],
-        [indexes.themes.length, 650, 'themes'],
-        [slugs.size, 650, 'distinct slugs'],
-        [repos.size, 6707, 'distinct repositories'],
+        [indexes.plugins.length, 6594, 'plugins'],
+        [indexes.themes.length, 684, 'themes'],
+        [slugs.size, 684, 'distinct slugs'],
+        [repos.size, 7278, 'distinct repositories'],
         [legacy, 17, 'legacy themes'],
-        [statsGapIndex, 73, 'index ids without stats'],
-        [statsGapStats, 10, 'stats ids without an index row'],
-        [uppercase, 885, 'repo strings containing uppercase'],
+        [statsGapIndex, 19, 'index ids without stats'],
+        [statsGapStats, 4, 'stats ids without an index row'],
+        [uppercase, 966, 'repo strings containing uppercase'],
+        [collisions, 68, 'basename collisions across owners'],
+        [needEncoding, 12, 'screenshot paths needing URL-encoding'],
+        [releaseTags.total, 81941, 'release-tag keys in Plugin Stats'],
+        [releaseTags.total - releaseTags.arbitrary, 81901, 'version-shaped release-tag keys'],
+        [releaseTags.arbitrary, 40, 'arbitrary release-tag keys'],
         [intersect.length, 3, 'ids in both the index and the removal list'],
     ];
     for (const [actual, expected, what] of claims) {
@@ -307,11 +338,15 @@ function main(argv) {
         assertion(skill.includes(id), `${id} is named as an anchor but not in SKILL.md`);
     }
 
-    // Eleven screenshot paths needing URL-encoding — counted the way the renderer encodes.
-    const needEncoding = indexes.themes.filter(theme =>
-        theme.screenshot.split('/').some(segment => encodeURIComponent(segment) !== segment),
-    ).length;
-    assertion(needEncoding === 11, `screenshot paths needing URL-encoding: artifact says 11, pin says ${needEncoding}`);
+    // A reference file restating a pin-derived count is as stale as the skill would be, and the
+    // phrase is matched rather than the bare digits: `19` alone occurs in unrelated prose.
+    for (const [phrase, what] of [
+        [`${statsGapIndex} ids without a stats entry`, 'the ids without a stats entry'],
+        [`(${statsGapIndex} at the pin)`, 'the empty-downloads count'],
+        [`${needEncoding} pinned paths`, 'the screenshot paths needing URL-encoding'],
+    ]) {
+        assertion(contracts.includes(phrase), `note-contracts.md does not state ${what} at this pin: expected "${phrase}"`);
+    }
 
     // --- the manifest covers what the artifact says it covers -----------------------------------------
     const manifest = readJson(path.join(SKILL_ROOT, 'scripts', 'manifest.json'));
@@ -339,7 +374,7 @@ function main(argv) {
     lines.push(`skill: ${EXPECTED_SKILL_NAME} in ${path.basename(SKILL_ROOT)}/`);
     lines.push(`material: ${PRIMARY.repo} verified structurally at ${material.root}`);
     lines.push(
-        `claims re-derived: ${claims.length} counts, ${intersect.length} index-and-removed ids, ${needEncoding} encoded screenshot paths`,
+        `claims re-derived: ${claims.length} counts, ${intersect.length} index-and-removed ids, ${releaseTags.total} release-tag keys`,
     );
     lines.push(
         `portable surface: ${REQUIRED_FILES.length} files, ${parsed.size} parsed flags, ${DOCUMENTED_FLAGS.length} documented`,

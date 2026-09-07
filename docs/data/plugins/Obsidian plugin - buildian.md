@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/buildian
 alt:
   - https://github.com/yuchenssr/buildian
-downloads: 659
+downloads: 797
 updated at: "2026-07-22T07:30:32Z"
 related to:
   - "[[GitHub - 1257058560]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Buildian connects your Obsidian vault to external coding-agent CLIs and provider-backed runtimes, including xAI Grok Build, Cursor Agent, Factory Droid and Amp code. Chat from the sidebar, edit notes inline with word-level diff previews, let agents read, write, edit, and search files in your vault, mention notes or subagents as context, reuse slash commands and Skills, review changes in Plan Mode, and keep multiple conversations open across tabs. Built on Claudian, Buildian is an unofficial project and is not affiliated with xAI, Cursor, Factory, Anysphere, Obsidian, or any supported provider."
 
     stats: {
-        downloads:  659
+        downloads:  797
         updated_at: 1784705432000
     }
 }

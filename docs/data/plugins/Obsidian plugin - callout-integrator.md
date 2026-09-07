@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/callout-integrator
 alt:
   - https://github.com/cleoche/obsidian-callout-integrator
-downloads: 12551
+downloads: 12741
 updated at: "2023-11-22T16:14:30Z"
 related to:
   - "[[GitHub - 601795212]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert long blocks of text into callouts by inserting \"> \" at the start of each line, and remove those markers to revert. Target the current line or a highlighted selection, with commands available on desktop and mobile."
 
     stats: {
-        downloads:  12551
+        downloads:  12741
         updated_at: 1700669670000
     }
 }

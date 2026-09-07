@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-navigator
 alt:
   - https://github.com/wenlzhang/obsidian-folder-navigator
-downloads: 2773
+downloads: 2822
 updated at: "2025-10-07T19:28:30Z"
 related to:
   - "[[GitHub - 938828879]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Navigate vault folders instantly using fuzzy search and expand the target folder in the file explorer on selection. Prioritize results by alphabetical, recently visited, or frequently visited order, and reset navigation history when needed."
 
     stats: {
-        downloads:  2773
+        downloads:  2822
         updated_at: 1759865310000
     }
 }

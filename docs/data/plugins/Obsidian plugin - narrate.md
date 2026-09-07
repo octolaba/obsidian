@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/narrate
 alt:
   - https://github.com/jang-hs/obsidian-narrate
-downloads: 216
+downloads: 267
 updated at: "2026-06-01T06:44:48Z"
 related to:
   - "[[GitHub - 1251303926]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Play markdown notes aloud via a local OpenAI-compatible TTS server. Use gapless chunked playback with per-note resume, a draggable mini-player, inline play buttons, reading queues, jump-to-chunk modal, sleep timer, and estimated duration."
 
     stats: {
-        downloads:  216
+        downloads:  267
         updated_at: 1780296288000
     }
 }

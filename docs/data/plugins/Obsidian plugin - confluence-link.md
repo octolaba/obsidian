@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/confluence-link
 alt:
   - https://github.com/bungarazvan/confluence-link
-downloads: 2130
+downloads: 2162
 updated at: "2025-01-10T18:19:42Z"
 related to:
   - "[[GitHub - 769621578]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish Obsidian notes as Confluence pages and share them with your team using a single command. Choose a space, mark favorites for quick access, and use fuzzy search to find spaces beyond the initial listing."
 
     stats: {
-        downloads:  2130
+        downloads:  2162
         updated_at: 1736533182000
     }
 }

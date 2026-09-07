@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/edit-in-neovim
 alt:
   - https://github.com/theseusgrey/edit-in-neovim
-downloads: 7584
+downloads: 7895
 updated at: "2026-03-25T18:45:48Z"
 related to:
   - "[[GitHub - 815863981]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Launch a persistent Neovim instance in a terminal and open every Obsidian file as a buffer in that Neovim session. Mirror note navigation so opening a file in Obsidian focuses the matching Neovim buffer, and enable two-way editing with companion bridge plugins."
 
     stats: {
-        downloads:  7584
+        downloads:  7895
         updated_at: 1774464348000
     }
 }

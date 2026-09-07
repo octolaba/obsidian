@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-file-cooker
 alt:
   - https://github.com/ivaneye/obsidian-files-cooker
-downloads: 15380
+downloads: 16083
 updated at: "2026-04-06T01:23:08Z"
 related to:
   - "[[GitHub - 506293393]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Batch-edit and manage multiple notes selected from search results, the current file, clipboard links, Dataview/DataviewJS queries, or Bases query results. Add or remove tag, alias and CSS class values; move, copy, rename, merge or delete files; create files from unresolved links; sync to flomo; and add files, text or tasks to Canvas."
 
     stats: {
-        downloads:  15380
+        downloads:  16083
         updated_at: 1775438588000
     }
 }

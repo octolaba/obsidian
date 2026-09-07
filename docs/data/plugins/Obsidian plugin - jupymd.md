@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jupymd
 alt:
   - https://github.com/d-eniz/jupymd
-downloads: 11391
+downloads: 12346
 updated at: "2026-04-16T11:40:14Z"
 related to:
   - "[[GitHub - 937347303]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Integrate your programming notes into Obsidian. With JupyMD you can run Python code, create plots with matplotlib, conduct data analysis with pandas dataframes, build machine learning models with sklearn and pytorch, and much of what you would typically use a Jupyter notebook for, all in your Obsidian vault. JupyMD is an independent project and not affiliated with Project Jupyter, Jupytext, or Obsidian."
 
     stats: {
-        downloads:  11391
+        downloads:  12346
         updated_at: 1776339614000
     }
 }

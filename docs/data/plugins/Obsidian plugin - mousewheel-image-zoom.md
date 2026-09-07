@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mousewheel-image-zoom
 alt:
   - https://github.com/nicojeske/mousewheel-image-zoom
-downloads: 162294
+downloads: 164313
 updated at: "2025-05-29T01:40:01Z"
 related to:
   - "[[GitHub - 416363117]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Zoom images in preview mode by holding a configurable modifier key (default left Alt) and scrolling the mouse wheel. Adjust image size smoothly on the fly and change the modifier key to match your workflow."
 
     stats: {
-        downloads:  162294
+        downloads:  164313
         updated_at: 1748482801000
     }
 }

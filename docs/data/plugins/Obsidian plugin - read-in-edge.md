@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/read-in-edge
 alt:
   - https://github.com/ooheroism/obsidian-open-edge-tts
-downloads: 44
+downloads: 64
 updated at: "2026-07-08T09:57:16Z"
 related to:
   - "[[GitHub - 1292810811]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open the active Markdown file in Microsoft Edge to use its built-in Read Aloud text-to-speech. Use the ribbon icon or command to launch the note in Edge Workspace on desktop and start Read Aloud there."
 
     stats: {
-        downloads:  44
+        downloads:  64
         updated_at: 1783504636000
     }
 }

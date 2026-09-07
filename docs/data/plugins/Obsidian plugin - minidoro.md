@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/minidoro
 alt:
   - https://github.com/shaktisampadswain/minidoro
-downloads: 3533
+downloads: 3661
 updated at: "2026-01-05T10:41:39Z"
 related to:
   - "[[GitHub - 1038105456]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a minimalist Pomodoro timer to the header with a circular progress indicator and hover-activated controls to start, pause, resume, and reset. Customize work/short/long durations, auto-start and session count, get desktop and sound notifications, and pin the control panel for persistent access."
 
     stats: {
-        downloads:  3533
+        downloads:  3661
         updated_at: 1767609699000
     }
 }

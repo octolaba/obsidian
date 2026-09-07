@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/style-importer
 alt:
   - https://github.com/joshrouwhorst/style-importer
-downloads: 4664
+downloads: 4683
 updated at: "2023-06-12T14:08:20Z"
 related to:
   - "[[GitHub - 652272353]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import CSS from a URL and save it as .obsidian/snippets/style-importer.css to keep styles synced across multiple vaults. Keep requests restricted to the URLs you provide and write only that single snippet file."
 
     stats: {
-        downloads:  4664
+        downloads:  4683
         updated_at: 1686578900000
     }
 }

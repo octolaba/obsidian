@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/storyclock
 alt:
   - https://github.com/jonzfisher/obsidian-chronostory
-downloads: 3176
+downloads: 3195
 updated at: "2023-12-14T03:28:49Z"
 related to:
   - "[[GitHub - 725402569]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize story events on a circular clock by writing the total runtime and HH:MM:SS timestamps in a note. Render the Storyclock when you exit edit mode and switch back to code view to resume editing timestamps."
 
     stats: {
-        downloads:  3176
+        downloads:  3195
         updated_at: 1702524529000
     }
 }

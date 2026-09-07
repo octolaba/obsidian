@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/insighta
 alt:
   - https://github.com/hongjiantang/obsidian-insighta
-downloads: 2438
+downloads: 2492
 updated at: "2024-11-06T03:47:51Z"
 related to:
   - "[[GitHub - 728187001]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extract atomic, interlinked notes from long articles using AI, adding links back to source notes and relevant tags for easy reference. Generate organized Maps of Content that group related notes for clear navigation and structured knowledge."
 
     stats: {
-        downloads:  2438
+        downloads:  2492
         updated_at: 1730864871000
     }
 }

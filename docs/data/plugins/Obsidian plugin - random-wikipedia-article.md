@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/random-wikipedia-article
 alt:
   - https://github.com/spencerf718/obsidian-random-wikipedia
-downloads: 359
+downloads: 374
 updated at: "2025-07-16T22:11:13Z"
 related to:
   - "[[GitHub - 1002196766]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fetch a random Wikipedia article and create a well-formatted note in your vault, parsing article headers into Obsidian sections. Filter results by minimum headers and excluded headings, retry for suitable articles, and save and open the note automatically."
 
     stats: {
-        downloads:  359
+        downloads:  374
         updated_at: 1752703873000
     }
 }

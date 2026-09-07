@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/step-viewer
 alt:
   - https://github.com/ondreu/STEP-viewer
-downloads: 140
+downloads: 232
 updated at: "2026-07-05T10:27:39Z"
 related to:
   - "[[GitHub - 1286361260]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View CAD models directly inside Obsidian in an interactive 3D viewer. Click a supported file in the file explorer and it opens in a three.js-powered viewer with orbit / pan / zoom, model colours, edges, measurement, annotations and a navigation cube — or embed a model inline in any note. Supported formats: STEP (.step / .stp) — full B-rep parsing with assembly hierarchy and per-face colours. FreeCAD (.FCStd) — native FreeCAD documents; the visible objects are rendered with their placements and colours. OBJ / STL — plain triangle meshes. Geometry parsing is done with occt-import-js (OpenCASCADE compiled to WASM), which reads both STEP and the BREP shapes stored inside FreeCAD documents. With mobile support."
 
     stats: {
-        downloads:  140
+        downloads:  232
         updated_at: 1783247259000
     }
 }

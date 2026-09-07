@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-format-brush
 alt:
   - https://github.com/wenlzhang/obsidian-canvas-format-brush
-downloads: 3206
+downloads: 3451
 updated at: "2025-03-12T16:31:44Z"
 related to:
   - "[[GitHub - 945200418]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy and paste formatting between Canvas elements to transfer card size and color like a format painter. Use commands, context menu, and the status-bar indicator to copy all formatting, size only, or color only, then apply them to selected elements."
 
     stats: {
-        downloads:  3206
+        downloads:  3451
         updated_at: 1741797104000
     }
 }

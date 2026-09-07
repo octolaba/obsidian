@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/statusbar-organizer
 alt:
   - https://github.com/opisek/obsidian-statusbar-organizer
-downloads: 14536
+downloads: 15206
 updated at: "2025-10-30T13:16:52Z"
 related to:
   - "[[GitHub - 741657082]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reorder status bar elements with drag-and-drop and toggle their visibility to customize what appears. Create and switch between named presets — including separate fullscreen and windowed presets — that persist across restarts, and remove stale entries for deleted plugins."
 
     stats: {
-        downloads:  14536
+        downloads:  15206
         updated_at: 1761830212000
     }
 }

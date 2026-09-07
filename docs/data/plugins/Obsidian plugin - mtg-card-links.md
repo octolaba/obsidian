@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mtg-card-links
 alt:
   - https://github.com/aedans/mtg-card-links
-downloads: 4408
+downloads: 4444
 updated at: "2026-03-26T01:56:13Z"
 related to:
   - "[[GitHub - 664189767]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Link Magic: The Gathering cards by enclosing a card name in square brackets. Use fuzzy matching for alternate or split names, and specify set or collector number with [Card Name|Set Name] or [Card Name|Set Name|123]."
 
     stats: {
-        downloads:  4408
+        downloads:  4444
         updated_at: 1774490173000
     }
 }

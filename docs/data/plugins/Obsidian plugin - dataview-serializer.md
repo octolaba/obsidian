@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/dataview-serializer
 alt:
   - https://github.com/dsebastien/obsidian-dataview-serializer
-downloads: 14812
-updated at: "2026-07-18T07:25:25Z"
+downloads: 16005
+updated at: "2026-07-29T15:16:26Z"
 related to:
   - "[[GitHub - 791441629]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Convert Dataview queries into static Markdown and save the generated output directly into your notes. Make query results produce real links that appear on the Graph and show up on Obsidian Publish so generated content is stored and discoverable."
 
     stats: {
-        downloads:  14812
-        updated_at: 1784359525000
+        downloads:  16005
+        updated_at: 1785338186000
     }
 }
 ```

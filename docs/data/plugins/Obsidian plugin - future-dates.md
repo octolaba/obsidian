@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/future-dates
 alt:
   - https://github.com/slonoed/obsidian-future-dates
-downloads: 408
+downloads: 418
 updated at: "2024-05-11T05:26:19Z"
 related to:
   - "[[GitHub - 762158526]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Collect all links with future dates into a right panel for easy tracking of upcoming tasks and notes. Pull date information from Daily Notes templates to surface upcoming entries in one place."
 
     stats: {
-        downloads:  408
+        downloads:  418
         updated_at: 1715405179000
     }
 }

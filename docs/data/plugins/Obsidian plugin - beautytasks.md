@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/beautytasks
 alt:
   - https://github.com/avnibilgin/BeautyTasks
-downloads: 904
-updated at: "2026-07-23T11:53:33Z"
+downloads: 2083
+updated at: "2026-08-10T21:05:15Z"
 related to:
   - "[[GitHub - 1261817613]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage tasks and projects in Obsidian with a Todoist-style interface that creates one Markdown note per task, offers a native UI, and requires no other plugins. Style states, labels and priorities via CSS custom properties or use Style Settings color pickers, with a built-in palette and a monochrome toggle."
 
     stats: {
-        downloads:  904
-        updated_at: 1784807613000
+        downloads:  2083
+        updated_at: 1786395915000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rsync
 alt:
   - https://github.com/ganapathyraman/rsync-plugin
-downloads: 880
+downloads: 905
 updated at: "2025-02-26T16:33:10Z"
 related to:
   - "[[GitHub - 923584039]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync files and folders between local and remote systems using rsync in push or pull mode with SSH (password or private key) and custom exclusion rules. Schedule periodic syncs, preview changes with dry-run, save detailed logs, and watch real-time progress."
 
     stats: {
-        downloads:  880
+        downloads:  905
         updated_at: 1740587590000
     }
 }

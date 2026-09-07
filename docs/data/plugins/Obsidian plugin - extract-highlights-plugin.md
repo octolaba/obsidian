@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/extract-highlights-plugin
 alt:
   - https://github.com/akaalias/extract-highlights-plugin
-downloads: 23499
+downloads: 24057
 updated at: "2021-02-25T10:02:22Z"
 related to:
   - "[[GitHub - 311072640]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and extract highlights from the current Markdown note to your clipboard as a bullet list, recognizing ==, ** and <mark></mark> highlight delimiters. Include or hide the note title, add footnote links back to source files, convert highlights into Obsidian links for an ad‑hoc MOC, and auto‑capitalize entries for consistency."
 
     stats: {
-        downloads:  23499
+        downloads:  24057
         updated_at: 1614247342000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ttrpg-tools-screen
 alt:
   - https://github.com/jareika/ttrpg-tools-screen
-downloads: 2487
+downloads: 3057
 updated at: "2026-06-01T17:25:00Z"
 related to:
   - "[[GitHub - 1185508787]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a player-screen popout to show handouts, maps, images, PDFs, notes and videos on a second monitor, TV, or projector; remember window size and position and optionally auto-open when content is sent. Control and queue sent items from a controller pane in Obsidian, switch or close tabs, and send notes, selected markdown, images, videos or PDFs."
 
     stats: {
-        downloads:  2487
+        downloads:  3057
         updated_at: 1780334700000
     }
 }

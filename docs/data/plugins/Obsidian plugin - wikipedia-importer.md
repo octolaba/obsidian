@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wikipedia-importer
 alt:
   - https://github.com/aedraaelynn/Wikipedia-Importer
-downloads: 255
+downloads: 313
 updated at: "2026-07-09T10:30:58Z"
 related to:
   - "[[GitHub - 1292139177]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Wikipedia pages as clean, fully-linked Obsidian notes, converting every Wikipedia link into an internal [[wikilink]], and/or you can utilize tags (manually and/or automatically generated). Remove clutter like edit markers, navboxes, and citation scaffolding. Convert equations to Obsidian LaTeX, embed content images, and preserve sources as plaintext in a References section."
 
     stats: {
-        downloads:  255
+        downloads:  313
         updated_at: 1783593058000
     }
 }

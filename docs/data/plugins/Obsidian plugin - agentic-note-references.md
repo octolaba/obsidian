@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/agentic-note-references
 alt:
   - https://github.com/avinashkanaujiya/obsidian-agentic-note-references
-downloads: 311
+downloads: 337
 updated at: "2026-07-09T11:21:34Z"
 related to:
   - "[[GitHub - 1234731265]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy a citation with file link, line numbers, and a custom prompt ready to paste into any AI agent chat. Select text or place the cursor to capture the referenced lines to the clipboard using a configurable citation template and file path format with placeholders for filename and line numbers."
 
     stats: {
-        downloads:  311
+        downloads:  337
         updated_at: 1783596094000
     }
 }

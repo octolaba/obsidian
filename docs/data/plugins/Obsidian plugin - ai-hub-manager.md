@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-hub-manager
 alt:
   - https://github.com/liwbcraft/ai-hub-manager
-downloads: 114
+downloads: 141
 updated at: "2026-06-12T15:33:59Z"
 related to:
   - "[[GitHub - 1249705763]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Access and manage 20+ AI assistants inside Obsidian using a tabbed interface with drag-to-scroll switching. Embed supported AIs or open others in popups, add/edit/remove and reorder models, refresh one or all AIs, hide the tab bar for a cleaner view, and switch between English and Chinese."
 
     stats: {
-        downloads:  114
+        downloads:  141
         updated_at: 1781278439000
     }
 }

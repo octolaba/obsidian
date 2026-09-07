@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/microblog-publisher
 alt:
   - https://github.com/bradbarrish/microblog-publisher
-downloads: 96
+downloads: 104
 updated at: "2026-05-15T22:11:33Z"
 related to:
   - "[[GitHub - 1227020665]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish the active note to Micro.blog via Micropub, supporting published posts, Micro.blog drafts, image uploads, categories, and updates to existing posts. Cross-post to Mastodon only when a note explicitly opts in, and write microblog_url, microblog_published, and media links back into the note's frontmatter."
 
     stats: {
-        downloads:  96
+        downloads:  104
         updated_at: 1778883093000
     }
 }

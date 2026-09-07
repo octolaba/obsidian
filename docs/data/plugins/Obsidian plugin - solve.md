@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/solve
 alt:
   - https://github.com/liamriddell/obsidian-solve
-downloads: 27233
+downloads: 27403
 updated at: "2025-01-23T17:16:22Z"
 related to:
   - "[[GitHub - 671207274]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Process equations and date expressions in real time inside your notes. Calculate arithmetic, percentages and date math like '10 + 5' or 'Now + 20 days', display results inline, and recognize many patterns with features expanding over time."
 
     stats: {
-        downloads:  27233
+        downloads:  27403
         updated_at: 1737652582000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tag-aliases
 alt:
   - https://github.com/yingjialong/obsidian-tag-aliases
-downloads: 272
+downloads: 292
 updated at: "2026-05-16T11:50:08Z"
 related to:
   - "[[GitHub - 1186176334]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Define tag alias groups to normalize tags across your vault and keep tag names consistent. Type any alias to get the canonical tag in autocomplete; optionally auto-replace existing aliases, batch-migrate your vault, and import/export alias lists."
 
     stats: {
-        downloads:  272
+        downloads:  292
         updated_at: 1778932208000
     }
 }

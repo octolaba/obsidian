@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/boox-sync
 alt:
   - https://github.com/sky150/obsidian-boox-sync
-downloads:
-updated at:
+downloads: 102
+updated at: "2026-07-17T15:50:40Z"
 related to:
   - "[[GitHub - 1197687114]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/sky150/obsidian-boox-sync"
     description: "Sync handwritten notes from your Onyx Boox device to Obsidian via BooxDrop. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Sync handwritten notes from your Onyx Boox to Obsidian via BooxDrop. Scan for exported PDF and PNG notes, preview new or changed files in a selection dialog, and preserve notebook folder structure while downloading only new or modified files."
+
+    stats: {
+        downloads:  102
+        updated_at: 1784303440000
+    }
 }
 ```
 

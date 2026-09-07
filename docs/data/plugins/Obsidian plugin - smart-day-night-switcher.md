@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-day-night-switcher
 alt:
   - https://github.com/andrii256/ops_obsidian_smart-day-night-switcher
-downloads: 1096
+downloads: 1282
 updated at: "2025-03-27T20:32:38Z"
 related to:
   - "[[GitHub - 947552264]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Switch Obsidian between light and dark themes automatically based on calculated local sunrise and sunset times. Enter your latitude/longitude (defaults to London if omitted); calculations run locally and no location data is sent."
 
     stats: {
-        downloads:  1096
+        downloads:  1282
         updated_at: 1743107558000
     }
 }

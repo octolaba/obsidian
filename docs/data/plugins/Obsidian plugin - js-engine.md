@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/js-engine
 alt:
   - https://github.com/mprojectscode/obsidian-js-engine-plugin
-downloads: 58833
+downloads: 61467
 updated at: "2026-06-16T11:05:20Z"
 related to:
   - "[[GitHub - 659885582]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run JavaScript inside notes using js-engine code blocks and render the returned value inline as text or markdown. Use js-engine-debug to rerun and inspect blocks, and tap the engine API to build markdown programmatically or import local JS files."
 
     stats: {
-        downloads:  58833
+        downloads:  61467
         updated_at: 1781607920000
     }
 }

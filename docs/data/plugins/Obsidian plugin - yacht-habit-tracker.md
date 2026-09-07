@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/yacht-habit-tracker
 alt:
   - https://github.com/jayandoh/obsidian-habit-tracker
-downloads: 275
+downloads: 295
 updated at: "2026-04-02T07:56:40Z"
 related to:
   - "[[GitHub - 1152514124]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track habits directly inside Obsidian with a local, exportable habit tracker offering sidebar/tab and embeddable views. View streaks, add/edit/archive habits, and import or export JSON with merge or replace options."
 
     stats: {
-        downloads:  275
+        downloads:  295
         updated_at: 1775116600000
     }
 }

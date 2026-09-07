@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/auto-scroll
 alt:
   - https://github.com/femto-0/auto-scroll
-downloads: 165
-updated at: "2026-06-13T15:05:40Z"
+downloads: 278
+updated at: "2026-08-08T13:18:36Z"
 related to:
   - "[[GitHub - 1268408706]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Keep the editor view moving as you type by auto-scrolling when the cursor reaches a chosen point in the visible pane. Maintain the insertion point above the bottom of the pane with configurable trigger, scroll step and cooldown, plus optional smooth animation."
 
     stats: {
-        downloads:  165
-        updated_at: 1781363140000
+        downloads:  278
+        updated_at: 1786195116000
     }
 }
 ```

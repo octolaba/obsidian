@@ -4,7 +4,7 @@ xid:
   - myworld-task-manager
 aliases:
   - myworld-task-manager
-  - MyWorld Task Manager
+  - Life OS Task Manager
   - kjh-portfolio/202604-obsidian-task-manager
 tags:
   - type/bookmark
@@ -13,21 +13,21 @@ tags:
 url: https://community.obsidian.md/plugins/myworld-task-manager
 alt:
   - https://github.com/kjh-portfolio/202604-obsidian-task-manager
-downloads: 327
-updated at: "2026-07-21T05:23:58Z"
+downloads: 371
+updated at: "2026-07-29T18:34:55Z"
 related to:
   - "[[GitHub - 1221081263]]"
 remind me:
 ---
 
-# MyWorld Task Manager
+# Life OS Task Manager
 
 Manages tasks and projects across daily notes and project files, syncing them automatically and pushing progress into a central schedule. Daily resets and archiving are automated, and monthly checklist statistics are produced with visual dashboards. Fleeting ideas are captured as timestamped memos for quick triage.
 
 ```cue
 plugin: {
     id:     "myworld-task-manager"
-    name:   "MyWorld Task Manager"
+    name:   "Life OS Task Manager"
     author: "KJH"
     repo:   "kjh-portfolio/202604-obsidian-task-manager"
 
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage tasks and projects across daily notes and project files with automatic syncing and progress pushed to a central schedule. Automate daily resets and archiving, generate monthly checklist statistics with visual dashboards, and capture fleeting ideas to timestamped memos for quick triage."
 
     stats: {
-        downloads:  327
-        updated_at: 1784611438000
+        downloads:  371
+        updated_at: 1785350095000
     }
 }
 ```

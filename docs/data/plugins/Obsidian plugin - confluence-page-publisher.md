@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/confluence-page-publisher
 alt:
   - https://github.com/gibranbadrul/obsidian-confluence-page
-downloads: 23
-updated at: "2026-07-08T17:17:00Z"
+downloads: 51
+updated at: "2026-08-04T08:33:02Z"
 related to:
   - "[[GitHub - 1292470296]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Publish Obsidian notes to Confluence as Confluence Storage XHTML, rendering diagrams and uploading local attachments. Bind notes to Confluence pages via frontmatter, skip unchanged content using content hashes, and write publish metadata (page ID, timestamp, hash) back into the note."
 
     stats: {
-        downloads:  23
-        updated_at: 1783531020000
+        downloads:  51
+        updated_at: 1785832382000
     }
 }
 ```

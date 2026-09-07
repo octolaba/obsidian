@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-pandoc-reference-list
 alt:
   - https://github.com/obsidian-community/obsidian-pandoc-reference-list
-downloads: 84555
+downloads: 85662
 updated at: "2024-01-04T17:56:29Z"
 related to:
   - "[[GitHub - 486416079]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a formatted reference list in the sidebar for every Pandoc citekey found in the current document. Use a bibliography file and a CSL style (file or URL) to render citation entries and update the list as you edit."
 
     stats: {
-        downloads:  84555
+        downloads:  85662
         updated_at: 1704390989000
     }
 }

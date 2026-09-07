@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-apply-patterns
 alt:
   - https://github.com/jglev/obsidian-apply-patterns-plugin
-downloads: 13556
+downloads: 13739
 updated at: "2023-02-26T23:38:57Z"
 related to:
   - "[[GitHub - 391650639]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create collections of regular-expression find-and-replace rules and apply them to selections or entire lines from a searchable menu. Define natural-language date and date-range patterns and use saved rule sets to update due dates, completion markers, and other text across notes."
 
     stats: {
-        downloads:  13556
+        downloads:  13739
         updated_at: 1677454737000
     }
 }

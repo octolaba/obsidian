@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-file-organizer
 alt:
   - https://github.com/mofukuru/auto_file_organizer
-downloads: 4854
+downloads: 4992
 updated at: "2026-06-07T01:52:08Z"
 related to:
   - "[[GitHub - 890653133]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize newly added files into designated folders based on file extensions or tags. Create and edit extension-to-folder and tag-to-folder mappings, set mapping priority, generate mappings automatically, and exclude specific folders from automatic moves."
 
     stats: {
-        downloads:  4854
+        downloads:  4992
         updated_at: 1780797128000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-css-class
 alt:
   - https://github.com/mara-li/obsidian-canvas-css-class
-downloads: 30869
+downloads: 31180
 updated at: "2024-06-06T13:26:26Z"
 related to:
   - "[[GitHub - 582003271]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a .canvas-file class and a data-canvas-path=\"filepath\" attribute to each Canvas DOM element for precise CSS targeting. Assign or remove custom CSS classes per canvas via commands or settings, auto-follow file moves/renames, and choose whether classes attach to the body or workspace view."
 
     stats: {
-        downloads:  30869
+        downloads:  31180
         updated_at: 1717680386000
     }
 }

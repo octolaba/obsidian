@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-archiver
 alt:
   - https://github.com/thenomadlad/obsidian-note-archiver
-downloads: 6305
+downloads: 6372
 updated at: "2023-06-04T21:43:36Z"
 related to:
   - "[[GitHub - 645082412]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Archive notes to a designated folder. Group archived files by year or month and run archiving from the command palette or the editor and file menus."
 
     stats: {
-        downloads:  6305
+        downloads:  6372
         updated_at: 1685915016000
     }
 }

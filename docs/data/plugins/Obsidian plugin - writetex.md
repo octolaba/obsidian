@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/writetex
 alt:
   - https://github.com/jacklitstar/writetex-obsidian
-downloads: 137
+downloads: 148
 updated at: "2025-12-20T09:47:13Z"
 related to:
   - "[[GitHub - 1119434084]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect the WriteTex mobile app to Obsidian via a local proxy to receive OCR-converted LaTeX, TikZ, or Markdown and insert it directly at your cursor. Send surrounding text for context-aware recognition, auto-discover the app on your network via mDNS, and stream the generated code as it appears."
 
     stats: {
-        downloads:  137
+        downloads:  148
         updated_at: 1766224033000
     }
 }

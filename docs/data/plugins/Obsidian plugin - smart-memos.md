@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-memos
 alt:
   - https://github.com/mossy1022/Smart-Memos
-downloads: 8658
+downloads: 8721
 updated at: "2024-09-29T21:38:43Z"
 related to:
   - "[[GitHub - 817427355]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Record audio directly into notes with pause, resume, and restart controls. Transcribe spoken or imported audio with AI and generate detailed Markdown notes and Mermaid charts from the transcript. Customize prompts to shape analysis and output; supports mp3, mp4, mpeg, wav, webm."
 
     stats: {
-        downloads:  8658
+        downloads:  8721
         updated_at: 1727645923000
     }
 }

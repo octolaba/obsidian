@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notebookpoint
 alt:
   - https://github.com/jiangzizhao/notebookpoint
-downloads: 247
+downloads: 312
 updated at: "2026-07-20T11:02:09Z"
 related to:
   - "[[GitHub - 1277998192]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "同步你在微信转发的文章与链接为带全文的 Obsidian Markdown 笔记，使用本地卡密激活。让托管服务接收并解析内容，插件自动将生成的笔记拉入你的 vault，卡密仅保存在本地。"
 
     stats: {
-        downloads:  247
+        downloads:  312
         updated_at: 1784545329000
     }
 }

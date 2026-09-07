@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dotpass
 alt:
   - https://github.com/blackfish1067750468/Obsidian-DotPass
-downloads: 146
+downloads: 181
 updated at: "2026-06-26T07:29:12Z"
 related to:
   - "[[GitHub - 1280927318]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Control which files and folders show in Obsidian's file explorer and reveal hidden dot-prefixed items like .git or .env. Create name, path, glob or regex rules, track targets after moves, reorder priorities by drag-and-drop; keep settings local — revealing dotfiles requires the desktop app."
 
     stats: {
-        downloads:  146
+        downloads:  181
         updated_at: 1782458952000
     }
 }

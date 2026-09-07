@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/beautiful-graph
 alt:
   - https://github.com/dawsonbodenhamer/beautiful-graph
-downloads: 3
+downloads: 172
 updated at: "2026-07-23T22:17:47Z"
 related to:
   - "[[GitHub - 1308175961]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reveal your vault's structure with a cinematic, folder-aware graph view tailored for folder-driven and Karpathy-style knowledge bases. Display folder-aware index labels, color-coded directory Groups, readable index.md hubs, expressive palettes, Folder Lens contours, and adjustable ambience for clearer, navigable maps of your notes."
 
     stats: {
-        downloads:  3
+        downloads:  172
         updated_at: 1784845067000
     }
 }

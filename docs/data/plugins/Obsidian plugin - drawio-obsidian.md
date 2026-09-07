@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/drawio-obsidian
 alt:
   - https://github.com/zapthedingbat/drawio-obsidian
-downloads: 207850
+downloads: 210127
 updated at: "2025-01-20T05:20:13Z"
 related to:
   - "[[GitHub - 400751306]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and edit draw.io diagrams inside Obsidian, embedding them in notes or storing them as standalone files. Save diagrams as SVG or .drawio and insert or reopen them for further editing."
 
     stats: {
-        downloads:  207850
+        downloads:  210127
         updated_at: 1737350413000
     }
 }

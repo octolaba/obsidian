@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bracket-to-checkbox
 alt:
   - https://github.com/2jihan/bracket-to-checkbox
-downloads: 80
+downloads: 102
 updated at: "2026-06-29T08:16:57Z"
 related to:
   - "[[GitHub - 1283762274]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert a leading [] followed by a space into a Markdown checkbox (- [ ]) when typed at the start of any line, including inside bullets or indents. Preserve existing list markers and indentation and ignore [] typed in the middle of a line."
 
     stats: {
-        downloads:  80
+        downloads:  102
         updated_at: 1782721017000
     }
 }

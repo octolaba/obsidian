@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hanko
 alt:
   - https://github.com/telehakke/hanko
-downloads: 367
+downloads: 384
 updated at: "2026-05-20T14:08:30Z"
 related to:
   - "[[GitHub - 903790982]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Register and paste text snippets directly into notes via right-click, command palette, or ribbon. Manage, reorder, and delete saved snippets and set the cursor position after pasting; works only in edit mode (preview not supported)."
 
     stats: {
-        downloads:  367
+        downloads:  384
         updated_at: 1779286110000
     }
 }

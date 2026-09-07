@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gamebase
 alt:
   - https://github.com/andypandy1189/obsidian-game-search
-downloads: 54
+downloads: 74
 updated at: "2026-06-30T20:43:46Z"
 related to:
   - "[[GitHub - 1285393488]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Gamebase is the ultimate plugin for video game enthusiasts, reviewers, and collectors who want to seamlessly integrate their gaming library into their Obsidian vault. Powered by the robust IGDB (Internet Game Database) API, Gamebase allows you to search for any video game in existence and instantly pull rich metadata directly into your notes. Rather than manually typing out release dates, developers, and genres, Gamebase automates the busywork so you can focus on writing your reviews, tracking your backlog, or building your personal game wiki. Key Features Instant Note Generation: Use the Command Palette or the dedicated Ribbon Icon to quickly search for a game and instantly generate a beautifully formatted note. Bulk Import: Have a huge backlog? Use the Bulk Import staging UI to search for and queue up multiple games at once, then import them all in a single click. 100% Custom Templates: You have total control over how your data looks. Simply create a markdown template using stan"
 
     stats: {
-        downloads:  54
+        downloads:  74
         updated_at: 1782852226000
     }
 }

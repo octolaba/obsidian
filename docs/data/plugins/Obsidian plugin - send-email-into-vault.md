@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/send-email-into-vault
 alt:
   - https://github.com/marr00n/email2obsidian-plugin-releases
-downloads: 6261
+downloads: 6746
 updated at: "2026-06-16T22:47:02Z"
 related to:
   - "[[GitHub - 1118292875]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hassle-free email capture for Obsidian. Send any email — notes, ideas, PDFs, receipts — to your unique ingestion address, and Email2Obsidian converts it into a fully formatted Markdown note saved directly to your Obsidian vault. Flexible sync: trigger manually, on a schedule, or automatically when your vault opens. Safe file handling ensures new notes never overwrite existing files. Configurable attachment storage lets you choose where attachments are saved. Works on desktop and mobile. Multiple vault support coming soon. Strong privacy: emails are automatically deleted after 72 hours and are never sold, shared, or used for AI training; no vault telemetry."
 
     stats: {
-        downloads:  6261
+        downloads:  6746
         updated_at: 1781650022000
     }
 }

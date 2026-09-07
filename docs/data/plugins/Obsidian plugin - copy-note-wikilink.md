@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-note-wikilink
 alt:
   - https://github.com/sharfaroz7/wikilinkcopy
-downloads: 77
+downloads: 93
 updated at: "2026-06-28T16:06:19Z"
 related to:
   - "[[GitHub - 1283159395]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy the current note name as an Obsidian wikilink ([[My note]]). Copy highlighted results from search-style modals (Omnisearch, Quick Switcher, Better Command Palette) when available to paste as wikilinks. Please note that I have vibe-coded this with codex. It was created for a personal use case where I needed to quickly copy the file name and paste in different parts of a task in operon plugin. I hope it can help someone else as well."
 
     stats: {
-        downloads:  77
+        downloads:  93
         updated_at: 1782662779000
     }
 }

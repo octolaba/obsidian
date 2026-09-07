@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-amazingmarvin-plugin
 alt:
   - https://github.com/ikuyarihs/obsidian-amazingmarvin-plugin
-downloads: 4863
+downloads: 4932
 updated at: "2025-12-22T10:56:49Z"
 related to:
   - "[[GitHub - 379824648]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display Amazing Marvin tasks in Obsidian's right sidebar as a List or Calendar (Week/Month) view. Connect via your Amazing Marvin API token and define task queries as JSON blocks to render due items, scheduled tasks, notes, and colored labels."
 
     stats: {
-        downloads:  4863
+        downloads:  4932
         updated_at: 1766401009000
     }
 }

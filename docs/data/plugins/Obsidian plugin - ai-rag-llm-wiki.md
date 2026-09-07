@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-rag-llm-wiki
 alt:
   - https://github.com/yep49/obsidian-ai-rag-plugin
-downloads: 318
+downloads: 372
 updated at: "2026-04-24T02:41:01Z"
 related to:
   - "[[GitHub - 1219557320]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Build a persistent, auditable Markdown LLM wiki while preserving advanced RAG retrieval and conversational QA. Auto-update indices, fuse dense and sparse recalls with rerank and compression, import source summaries into interlinked wiki pages, log query chains, flag conflicts, and return citation-aware answers."
 
     stats: {
-        downloads:  318
+        downloads:  372
         updated_at: 1776998461000
     }
 }

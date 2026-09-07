@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-node-linker
 alt:
   - https://github.com/mvstro/canvas-node-linker
-downloads: 273
+downloads: 368
 updated at: "2026-05-15T22:47:16Z"
 related to:
   - "[[GitHub - 1240088612]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy ready-to-paste canvas wikilinks from any node or group via a right-click menu entry and place the link on your clipboard in one click. Use the node's first heading as display text for text nodes, the group label for groups, or copy a bare link if none exists."
 
     stats: {
-        downloads:  273
+        downloads:  368
         updated_at: 1778885236000
     }
 }

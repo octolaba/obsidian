@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/comshit
 alt:
   - https://github.com/comwhore/obsidian-comshit
-downloads: 150
+downloads: 172
 updated at: "2026-05-17T18:10:51Z"
 related to:
   - "[[GitHub - 1241689771]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Extend Canvas mind mapping with Lovely-Mindmap-style shortcuts, directional navigation, and node commands. Sync .md and .canvas files bidirectionally, run OSINT CLIs (Sherlock, Maigret, Social Analyzer) on node text, and embed spreadsheet (.sheet) support within the plugin folder."
 
     stats: {
-        downloads:  150
+        downloads:  172
         updated_at: 1779041451000
     }
 }

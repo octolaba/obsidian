@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/csharp-snippet-runner
 alt:
   - https://github.com/ohm-engineering/obsidian-csharp-interactive
-downloads: 144
+downloads: 173
 updated at: "2026-06-01T07:18:58Z"
 related to:
   - "[[GitHub - 1252433063]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Designed for fast experimentation, education and learning, C# Snippet Runner turns your vault into an interactive C# playground. Write code blocks tagged csharp, cs, c#, net, or .net, then run them with a single click. The plugin executes these snippets using CSharpRepl which it auto-installs when needed. Output and error messages are shown below the code block. All without leaving Obsidian. It also persists data. This data persistance can be used to support sharing a vault with snippets which is especially useful for educational purposes."
 
     stats: {
-        downloads:  144
+        downloads:  173
         updated_at: 1780298338000
     }
 }

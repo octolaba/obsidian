@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/control-characters
 alt:
   - https://github.com/joethei/obsidian-control-characters
-downloads: 7759
+downloads: 7889
 updated at: "2025-12-18T14:21:09Z"
 related to:
   - "[[GitHub - 474594123]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show control characters (spaces, tabs, newlines) directly in edit mode. Limit highlighting to the current selection or force it per note using cc-selection or cc frontmatter properties like cc-newline and cc-tab. Adjust appearance via Style Settings."
 
     stats: {
-        downloads:  7759
+        downloads:  7889
         updated_at: 1766067669000
     }
 }

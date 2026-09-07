@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gradient-text
 alt:
   - https://github.com/matheuszarkov/gradient-text
-downloads: 206
+downloads: 281
 updated at: "2026-06-12T11:19:26Z"
 related to:
   - "[[GitHub - 1267255380]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Paint notes with gradients for headings, bold, italic, wikilinks, external links, and regular text using five curated palettes or a full custom color picker with two- or three-stop gradients. Control gradients per element with live previews, toggle them globally or individually, and fall back to theme colors when disabled; works in Reading view and Live Preview."
 
     stats: {
-        downloads:  206
+        downloads:  281
         updated_at: 1781263166000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sync-todoist
 alt:
   - https://github.com/o1xhack/obsidian-sync-todoist
-downloads: 256
+downloads: 308
 updated at: "2026-06-12T04:13:40Z"
 related to:
   - "[[GitHub - 1237294381]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Markdown tasks in Obsidian with Todoist bidirectionally, preserving nested outlines, labels, projects, and local notes. Create Todoist tasks from #todoist checkboxes, auto-link subtasks via IDs, render live filter queries, and populate a Daily Note region."
 
     stats: {
-        downloads:  256
+        downloads:  308
         updated_at: 1781237620000
     }
 }

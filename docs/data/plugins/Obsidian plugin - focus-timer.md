@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/focus-timer
 alt:
   - https://github.com/zhoutianye/obsidian-focus-timer
-downloads: 236
+downloads: 278
 updated at: "2026-06-12T02:19:22Z"
 related to:
   - "[[GitHub - 1144735962]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run a local focus timer with countdown and stopwatch modes, adjustable durations, and quick-start commands. View session history in card layouts and analyze focus with charts for daily, weekly, monthly, and yearly summaries. Embed live focus statistics and charts into notes and mark sessions completed or abandoned."
 
     stats: {
-        downloads:  236
+        downloads:  278
         updated_at: 1781230762000
     }
 }

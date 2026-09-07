@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nextdeck
 alt:
   - https://github.com/onlymykazari/obsidian-nextcloud-deck
-downloads: 88
+downloads: 170
 updated at: "2026-07-19T05:45:50Z"
 related to:
   - "[[GitHub - 1293197569]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage Kanban boards with each card saved as a real Markdown note in your vault, offering drag-and-drop lists, inline card creation, colored labels, start/due dates and checklist progress. Sync boards two-way with Nextcloud Deck (field-level conflict resolution), optionally sync attachments, view sync logs and keep credentials encrypted."
 
     stats: {
-        downloads:  88
+        downloads:  170
         updated_at: 1784439950000
     }
 }

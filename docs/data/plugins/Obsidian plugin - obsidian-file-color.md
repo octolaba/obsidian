@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-file-color
 alt:
   - https://github.com/ecustic/obsidian-file-color
-downloads: 210716
+downloads: 215240
 updated at: "2023-12-02T23:15:01Z"
 related to:
   - "[[GitHub - 577295578]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Color files and folders in the file explorer to visually organize notes. Create a custom palette, assign colors via right‑click modal, and enable cascading or background coloring to apply colors to children or the file background."
 
     stats: {
-        downloads:  210716
+        downloads:  215240
         updated_at: 1701558901000
     }
 }

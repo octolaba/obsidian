@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-go-to-line
 alt:
   - https://github.com/phibr0/obsidian-go-to-line
-downloads: 5302
+downloads: 5471
 updated at: "2021-09-18T15:36:34Z"
 related to:
   - "[[GitHub - 397921939]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Jump to a specific line and character in the active note via the command palette. Apply clipboard line:column data to position cursors instantly, and copy the primary or all cursor positions to the clipboard."
 
     stats: {
-        downloads:  5302
+        downloads:  5471
         updated_at: 1631979394000
     }
 }

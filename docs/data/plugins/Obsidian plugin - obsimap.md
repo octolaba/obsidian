@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsimap
 alt:
   - https://github.com/creative781/obsimap
-downloads: 2891
+downloads: 3462
 updated at: "2026-07-19T07:12:04Z"
 related to:
   - "[[GitHub - 1248968237]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create keyboard-centric mind maps by turning Markdown notes into editable, linkable nodes and navigate them entirely by keyboard. Compile linked notes into a single structured Markdown file or export a clean hierarchical outliner, and reorder nodes via drag-and-drop or hotkeys."
 
     stats: {
-        downloads:  2891
+        downloads:  3462
         updated_at: 1784445124000
     }
 }

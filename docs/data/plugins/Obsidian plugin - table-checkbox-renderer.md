@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/table-checkbox-renderer
 alt:
   - https://github.com/dannns/obsidian-table-checkbox-renderer
-downloads: 9251
+downloads: 10302
 updated at: "2026-02-28T02:27:01Z"
 related to:
   - "[[GitHub - 1023273091]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Enable interactive checkboxes inside Markdown tables and toggle them directly in Reading Mode. Keep the rendered table and Markdown file in sync by updating the source on each toggle, with support for multiple checkboxes per cell and complex table layouts."
 
     stats: {
-        downloads:  9251
+        downloads:  10302
         updated_at: 1772245621000
     }
 }

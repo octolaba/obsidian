@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/docx-exporter
 alt:
   - https://github.com/kanshurichard/obsidian-docx-exporter
-downloads: 12136
+downloads: 13351
 updated at: "2025-12-12T08:09:12Z"
 related to:
   - "[[GitHub - 1034830286]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export notes to DOCX with zero external dependencies and full cross-platform support for desktop and mobile. Preserve headings, formatting, lists, code blocks and images to produce Word-compatible .docx files (open in Word to correct Pages/Preview rendering quirks)."
 
     stats: {
-        downloads:  12136
+        downloads:  13351
         updated_at: 1765526952000
     }
 }

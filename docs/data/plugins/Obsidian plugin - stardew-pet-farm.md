@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/stardew-pet-farm
 alt:
   - https://github.com/prof0und/stardew-pet-farm
-downloads: 200
+downloads: 247
 updated at: "2026-05-18T06:03:43Z"
 related to:
   - "[[GitHub - 1189966978]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a tiny animated Stardew-style farm in your vault sidebar. Watch pixel pets wander, idle, and take occasional naps with natural movement patterns."
 
     stats: {
-        downloads:  200
+        downloads:  247
         updated_at: 1779084223000
     }
 }

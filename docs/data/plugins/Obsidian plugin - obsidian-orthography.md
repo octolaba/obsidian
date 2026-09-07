@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-orthography
 alt:
   - https://github.com/denisoed/obsidian-orthography
-downloads: 12982
+downloads: 13045
 updated at: "2024-10-23T16:09:36Z"
 related to:
   - "[[GitHub - 329990025]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Check and correct English spelling and grammar in notes with one-click corrections and inline suggestions. Use error search and optional Todo and Grammarly integration; note this alpha build can be unstable and doesn't work reliably in Live Preview—backup your notes."
 
     stats: {
-        downloads:  12982
+        downloads:  13045
         updated_at: 1729699776000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsid-link
 alt:
   - https://github.com/lgreil/obsid-link
-downloads: 184
+downloads: 464
 updated at: "2026-06-08T11:12:19Z"
 related to:
   - "[[GitHub - 1262727118]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy or open a shareable obsid.net URL for any note with one click. Wrap Obsidian's obsidian:// deep links in a standard https:// URL so links stay clickable in chat apps and email, and use the Command Palette or ribbon icon to copy or open the current note via obsid.net."
 
     stats: {
-        downloads:  184
+        downloads:  464
         updated_at: 1780917139000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/zotlit
 alt:
   - https://github.com/aidenlx/zotlit
-downloads: 63358
-updated at: "2026-05-07T09:11:17Z"
+downloads: 66491
+updated at: "2026-08-05T11:20:29Z"
 related to:
   - "[[GitHub - 455983032]]"
 remind me:
@@ -28,7 +28,7 @@ ZotLit connects Obsidian with Zotero through a set of community plugins, importi
 plugin: {
     id:     "zotlit"
     name:   "ZotLit"
-    author: "aidenlx"
+    author: "Aiden Liu"
     repo:   "aidenlx/zotlit"
 
     html_url:    "https://community.obsidian.md/plugins/zotlit"
@@ -37,8 +37,8 @@ plugin: {
     about:       "Connect Obsidian with Zotero using a set of community plugins to import citation metadata and item notes into your vault. Reference and browse Zotero items directly inside Obsidian to streamline research and citation workflows."
 
     stats: {
-        downloads:  63358
-        updated_at: 1778145077000
+        downloads:  66491
+        updated_at: 1785928829000
     }
 }
 ```

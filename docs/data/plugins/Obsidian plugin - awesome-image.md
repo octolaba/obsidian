@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/awesome-image
 alt:
   - https://github.com/awesomedog/obsidian-awesome-image
-downloads: 15175
+downloads: 15296
 updated at: "2024-02-01T07:00:30Z"
 related to:
   - "[[GitHub - 588534063]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Centralize image files by copying pasted or linked images into a user-defined folder with uniform names and update Markdown links. Auto-download web images and process pasted or binary images immediately to keep your vault offline and consistent. List unlinked images for easy cleanup."
 
     stats: {
-        downloads:  15175
+        downloads:  15296
         updated_at: 1706770830000
     }
 }

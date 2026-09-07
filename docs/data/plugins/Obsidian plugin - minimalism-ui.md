@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/minimalism-ui
 alt:
   - https://github.com/tcyeee/obsidian-minimalism-ui
-downloads: 588
-updated at: "2026-07-21T16:55:24Z"
+downloads: 680
+updated at: "2026-08-05T08:03:31Z"
 related to:
   - "[[GitHub - 998344956]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Transform Obsidian into a minimal macOS-style writing environment with a frosted-glass sidebar, merged Outline and Properties view, simplified panels, and refined typography and block styles. Enable single-page mode with an LRU tab cache and cross-tab back/forward navigation, assign a Home note, and enjoy smooth scrolling plus subtle page-load and heading animations."
 
     stats: {
-        downloads:  588
-        updated_at: 1784652924000
+        downloads:  680
+        updated_at: 1785917011000
     }
 }
 ```

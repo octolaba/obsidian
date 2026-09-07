@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/click-clack
 alt:
   - https://github.com/acylation/obsidian-click-clack
-downloads: 20145
+downloads: 20830
 updated at: "2024-04-04T09:13:54Z"
 related to:
   - "[[GitHub - 672049358]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Simulate typewriter and mechanical keyboard sounds while you type in Obsidian, with a default sound pack and optional additional schemes. Adjust global volume and toggle sounds on or off from the settings or via the command palette."
 
     stats: {
-        downloads:  20145
+        downloads:  20830
         updated_at: 1712222034000
     }
 }

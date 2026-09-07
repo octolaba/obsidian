@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-bundle
 alt:
   - https://github.com/rajatnai49/obsidian-canvas-bundler
-downloads: 20
+downloads: 43
 updated at: "2026-07-16T05:58:05Z"
 related to:
   - "[[GitHub - 1248513598]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export the open Obsidian canvas and all linked notes, embeds, and attachments into a single portable ZIP archive. Include markdown files, non-markdown assets, and group background images while rewriting canvas paths and note links and generating unique names for duplicate files. Run on desktop only and save the ZIP to the vault root."
 
     stats: {
-        downloads:  20
+        downloads:  43
         updated_at: 1784181485000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-webdav
 alt:
   - https://github.com/gghyoo/simple-webdav
-downloads: 197
+downloads: 227
 updated at: "2026-04-12T14:25:36Z"
 related to:
   - "[[GitHub - 1208314441]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your vault with WebDAV using ETag and SHA-256 three-way comparison to avoid relying on timestamps or server time drift. Perform two-way, real-time and scheduled sync with conflict safety that preserves both versions, safe-delete recovery to .sync_trash, crash-safe state persistence and bilingual EN/ZH support."
 
     stats: {
-        downloads:  197
+        downloads:  227
         updated_at: 1776003936000
     }
 }

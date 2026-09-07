@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-latex-environments
 alt:
   - https://github.com/raineszm/obsidian-latex-environments
-downloads: 29154
+downloads: 29337
 updated at: "2023-07-31T17:46:14Z"
 related to:
   - "[[GitHub - 310145136]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert, change, and delete LaTeX environments inside math blocks. Wrap a selection with a new environment, rename the surrounding environment, or remove the innermost enclosing environment while editing math in Obsidian."
 
     stats: {
-        downloads:  29154
+        downloads:  29337
         updated_at: 1690825574000
     }
 }

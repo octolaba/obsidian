@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/colorez
 alt:
   - https://github.com/didacd/colorez
-downloads: 692
+downloads: 1093
 updated at: "2026-05-27T22:42:43Z"
 related to:
   - "[[GitHub - 1251725119]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Change text color using your active theme's CSS variables so colors adapt automatically when switching themes or toggling dark/light mode. Pick colors or translucent highlights from the right-click menu with tiny previews, remove styling with an Eraser, or apply via the Command Palette."
 
     stats: {
-        downloads:  692
+        downloads:  1093
         updated_at: 1779921763000
     }
 }

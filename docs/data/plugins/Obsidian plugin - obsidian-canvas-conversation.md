@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-canvas-conversation
 alt:
   - https://github.com/andrebaltazar8/obsidian-canvas-conversation
-downloads: 7385
+downloads: 7410
 updated at: "2023-01-30T21:14:59Z"
 related to:
   - "[[GitHub - 583830966]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create canvas conversations on Canvas nodes with ChatGPT. Right-click a node to prompt ChatGPT and insert generated replies directly on the canvas; requires ChatGPT session and clearance tokens."
 
     stats: {
-        downloads:  7385
+        downloads:  7410
         updated_at: 1675113299000
     }
 }

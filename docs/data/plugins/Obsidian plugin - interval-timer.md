@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/interval-timer
 alt:
   - https://github.com/tamiroh/obsidian-interval-timer
-downloads: 51
-updated at: "2026-07-21T15:23:24Z"
+downloads: 160
+updated at: "2026-08-07T14:48:03Z"
 related to:
   - "[[GitHub - 618692637]]"
 remind me:
@@ -36,8 +36,8 @@ plugin: {
     description: "Run focus and break cycles using methods like the Pomodoro Technique, and record completed intervals on your Markdown task lines. - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  51
-        updated_at: 1784647404000
+        downloads:  160
+        updated_at: 1786114083000
     }
 }
 ```

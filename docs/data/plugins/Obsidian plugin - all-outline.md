@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/all-outline
 alt:
   - https://github.com/cemtan/all-outline
-downloads: 166
+downloads: 183
 updated at: "2026-05-09T23:24:35Z"
 related to:
   - "[[GitHub - 1234054025]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View a single unified outline panel for Markdown notes and PDF documents, built from real Markdown headings and PDF bookmarks. Switch files and see the outline update automatically; navigate precisely with correct heading jumps, PDF page+offset deep links, per-file expand state, and optional page-number badges."
 
     stats: {
-        downloads:  166
+        downloads:  183
         updated_at: 1778369075000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graph-link-types
 alt:
   - https://github.com/natefrisch01/Graph-Link-Types
-downloads: 12218
+downloads: 12533
 updated at: "2026-05-16T11:13:51Z"
 related to:
   - "[[GitHub - 739510458]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display link types directly on graph edges by reading Dataview metadata to label relationships between notes. Render labels dynamically with PIXI.js for real-time updates and readable link text in the graph view."
 
     stats: {
-        downloads:  12218
+        downloads:  12533
         updated_at: 1778930031000
     }
 }

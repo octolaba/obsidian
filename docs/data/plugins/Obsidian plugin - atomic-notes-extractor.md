@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/atomic-notes-extractor
 alt:
   - https://github.com/miaoziguan/obsidian-Bamboo-Darts
-downloads: 534
-updated at: "2026-07-20T09:08:21Z"
+downloads: 563
+updated at: "2026-08-10T00:29:57Z"
 related to:
   - "[[GitHub - 1271176417]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Distill long articles, webpages, or selected text into concise atomic notes using AI (DeepSeek). Filter out low-quality or duplicate content, flag facts for evidence, and merge similar notes within the same batch. Save or preview cleaned, single-idea notes directly into your vault."
 
     stats: {
-        downloads:  534
-        updated_at: 1784538501000
+        downloads:  563
+        updated_at: 1786321797000
     }
 }
 ```

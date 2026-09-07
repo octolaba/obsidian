@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/manuscript-outliner
 alt:
   - https://github.com/joe-iq/obsidian-manuscript-outliner
-downloads: 259
+downloads: 287
 updated at: "2026-05-27T16:34:59Z"
 related to:
   - "[[GitHub - 1249143980]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate structured outlines from manuscript notes that display each section's status tag and word count at a glance. Create nested numbered-heading outlines with wikilinks and hierarchical Markdown tables (1.2.3) that auto-update as you edit and let you jump directly to any section."
 
     stats: {
-        downloads:  259
+        downloads:  287
         updated_at: 1779899699000
     }
 }

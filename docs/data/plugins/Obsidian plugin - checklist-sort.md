@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/checklist-sort
 alt:
   - https://github.com/profesr-chaos/obsidian-checklist-sort
-downloads: 152
+downloads: 200
 updated at: "2026-06-04T09:53:13Z"
 related to:
   - "[[GitHub - 1259149458]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sort checklists by moving unchecked items to the top and checked items to the bottom. Preserve nested item order so subtasks stay attached to their parent and keep their original sequence."
 
     stats: {
-        downloads:  152
+        downloads:  200
         updated_at: 1780566793000
     }
 }

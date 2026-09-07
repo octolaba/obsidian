@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/strudel-repl
 alt:
   - https://github.com/dudaanton/obsidian-strudel-plugin
-downloads: 928
+downloads: 1029
 updated at: "2026-06-01T07:47:16Z"
 related to:
   - "[[GitHub - 1082257769]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed and play Strudel live-code patterns in notes with play/stop/reload controls and a live pianoroll. Highlight Strudel syntax and show the currently playing part, with sample caching for local playback. Run Strudel code in notes — it executes arbitrary JavaScript; avoid untrusted code."
 
     stats: {
-        downloads:  928
+        downloads:  1029
         updated_at: 1780300036000
     }
 }

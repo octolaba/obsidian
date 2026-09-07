@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/typefully
 alt:
   - https://github.com/dsebastien/obsidian-typefully
-downloads: 705
-updated at: "2026-07-17T07:42:12Z"
+downloads: 828
+updated at: "2026-08-04T08:48:20Z"
 related to:
   - "[[GitHub - 800362467]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Publish notes or selected text from Obsidian to X, LinkedIn, Threads, Bluesky & Mastodon via Typefully (API v2). Manage drafts, queue, and schedule from a right‑sidebar panel; attach vault images via auto‑upload, thread posts, clean Markdown, and convert note tags to hashtags."
 
     stats: {
-        downloads:  705
-        updated_at: 1784274132000
+        downloads:  828
+        updated_at: 1785833300000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/beeminder-sync
 alt:
   - https://github.com/leonstaufer/obsidian-beeminder-task-sync
-downloads: 100
+downloads: 107
 updated at: "2026-05-16T12:40:08Z"
 related to:
   - "[[GitHub - 1215304397]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync task completions to Beeminder goals by tagging checklist items with a 🐝 marker; checking a task sends a datapoint and unchecking removes it. Insert goal names or an =value inline (defaults to 1) and use goal autocomplete—works with plain Markdown checkboxes and the Tasks plugin."
 
     stats: {
-        downloads:  100
+        downloads:  107
         updated_at: 1778935208000
     }
 }

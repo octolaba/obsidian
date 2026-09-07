@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notion-vault-sync
 alt:
   - https://github.com/kaventro/notion-sync
-downloads: 124
+downloads: 255
 updated at: "2026-07-12T16:59:26Z"
 related to:
   - "[[GitHub - 1295864008]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your entire Obsidian vault to Notion while preserving folder hierarchy, Markdown formatting, internal links, frontmatter metadata, and attachments. Mirror full or incremental changes, run on-save or scheduled syncs, pull Notion pages back into your vault, and inspect detailed sync history and logs."
 
     stats: {
-        downloads:  124
+        downloads:  255
         updated_at: 1783875566000
     }
 }

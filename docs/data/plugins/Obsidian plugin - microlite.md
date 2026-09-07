@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/microlite
 alt:
   - https://github.com/jaanaltosaar/obsidian-microlite
-downloads: 36
-updated at: "2026-07-22T17:13:41Z"
+downloads: 87
+updated at: "2026-08-01T12:35:13Z"
 related to:
   - "[[GitHub - 1291584195]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Microlite reads Obsidian's File Recovery snapshots and writes one dated note that shows only the lines you changed this week: a per-day activity table, then heading-aware diffs, newest first. It handles the messy parts such as bulk syncs, renamed notes, live content folded in, and notes you merely opened dropped. Hand that single note to Claude or ChatGPT instead of the whole notes you would like the LLM to analyze (giving whole notes can lead the model to forget important context and add noise). The model sees only what moved, so it connects ideas across notes on its own. Edit a project plan on Monday and a journal entry on Thursday, and the model surfaces the thread between them, i.e. no manual [[links]] needed. No other tool does this today, apart from a cumbersome manual Python script. In short, you get to skip the work of curating context and lower the cognitive load of writing. In using this for therapy-adjacent and life coaching-adjacent use cases, we've found it fun! :)"
 
     stats: {
-        downloads:  36
-        updated_at: 1784740421000
+        downloads:  87
+        updated_at: 1785587713000
     }
 }
 ```

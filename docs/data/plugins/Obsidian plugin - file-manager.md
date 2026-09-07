@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-manager
 alt:
   - https://github.com/jfsicilia/obsidian-file-manager
-downloads: 3005
+downloads: 3058
 updated at: "2025-03-27T10:11:51Z"
 related to:
   - "[[GitHub - 871183400]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage files and folders in File Explorer with create, duplicate, move, copy, rename, select and clipboard commands with hotkeys. Open items with custom commands or URLs, use pathexplorer codeblocks for path lists (absolute, env vars), and pick overwrite, skip or keep on conflicts."
 
     stats: {
-        downloads:  3005
+        downloads:  3058
         updated_at: 1743070311000
     }
 }

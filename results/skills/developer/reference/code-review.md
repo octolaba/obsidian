@@ -28,7 +28,7 @@ the source classes of the pinned pages.
 
 Citation aliases: `api`, `docs`, `sample`, `theme`, `rel`, `help` — defined in the skill's Sources
 section. Where a step names an API, its `@since` and its tier at this pin — **stable** at or below
-1.12.7, **insider-only** above it — come from the reference that owns it.
+1.13.7, **insider-only** above it — come from the reference that owns it.
 
 ## The tier model
 
@@ -73,7 +73,7 @@ Never open a file before these are answered or recorded as assumptions.
    removal reading "ID changed, no response from developer after 30 days" **Observed**
    (rel: community-plugins-removed.json:630). On a published plugin, an `id` that violates the current
    charset rule is reported as *informational, with a counter-warning not to change it*.
-3. **Target `minAppVersion`,** and how it compares with the stable app at this pin, 1.12.7
+3. **Target `minAppVersion`,** and how it compares with the stable app at this pin, 1.13.7
    **Observed** (rel: desktop-releases.json:3). A review that recommends an insider-only API to a
    plugin targeting 1.10 is worse than no review.
 4. **The mobile claim.** Read `isDesktopOnly` from the manifest. It is a declaration with
@@ -190,7 +190,7 @@ How to express that without breaking the model:
 
 The directory predates the rules you are applying. Live entries contain `id` values with uppercase
 letters, a dot, and underscores **Observed**
-(rel: community-plugins.json:185; rel: community-plugins.json:4301; rel: community-plugins.json:6926),
+(rel: community-plugins.json:192; rel: community-plugins.json:4301; rel: community-plugins.json:6926),
 while the rule reads "The ID must
 contain only lowercase letters and hyphens, can't end with `plugin`, and can't contain `obsidian`"
 **Contract** (docs: en/Reference/Manifest.md:27).

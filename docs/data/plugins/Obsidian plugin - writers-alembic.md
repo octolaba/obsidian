@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/writers-alembic
 alt:
   - https://github.com/sedetweiler/obsidian-alembic
-downloads: 344
+downloads: 369
 updated at: "2026-06-09T02:45:07Z"
 related to:
   - "[[GitHub - 1213555950]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Alembic brings AI writing help into Obsidian without hiding it behind a black box. Every action it can take is a plain prompt Markdown file in your vault. You can open the prompt, rewrite it, share it with someone, or even contribute new ones to the Alembic project. It comes with more than 20 ready-to-use workflows, but delete or change them as you desire. Tighten a bloated paragraph, fix grammar without flattening your voice, pull a long note down to what actually matters, continue a draft in your own rhythm, or strip the obvious tells out of text that reads as AI-written. Select some text and hit a hotkey, or run a workflow on the whole note from the command palette. Alembic works with Claude, Gemini, OpenAI, OpenRouter, and local models through Ollama. If you already have the Claude or Gemini CLI installed, you don't need an API key! It can also follow links and feed linked notes in as context, so the model sees the connected ideas in your vault."
 
     stats: {
-        downloads:  344
+        downloads:  369
         updated_at: 1780973107000
     }
 }

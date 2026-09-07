@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/recent-tab-switcher
 alt:
   - https://github.com/samuelrawrs/recent-tab-switcher
-downloads: 861
+downloads: 891
 updated at: "2024-07-25T18:37:14Z"
 related to:
   - "[[GitHub - 833569206]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle between the active pane and the last-active pane with a hotkey to quickly switch back and forth. Jump back to your previous note or pane without hunting through tabs."
 
     stats: {
-        downloads:  861
+        downloads:  891
         updated_at: 1721932634000
     }
 }

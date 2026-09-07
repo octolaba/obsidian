@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/vault-inspector
 alt:
   - https://github.com/rogerdigital/vault-inspector
-downloads: 1614
-updated at: "2026-06-23T08:29:56Z"
+downloads: 2486
+updated at: "2026-07-28T16:12:01Z"
 related to:
   - "[[GitHub - 1234773360]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Scan your vault for long-term maintenance issues and view a clear, navigable report without modifying any files. Detect broken internal links and missing headings; find orphaned attachments, duplicate files (name/size/hash), frontmatter type mismatches, low‑usage or missing tags, and oversized notes or attachments."
 
     stats: {
-        downloads:  1614
-        updated_at: 1782203396000
+        downloads:  2486
+        updated_at: 1785255121000
     }
 }
 ```

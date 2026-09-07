@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/custom-list-character
 alt:
   - https://github.com/lilian-pouliquen/obsidian-custom-list-character
-downloads: 5380
+downloads: 5427
 updated at: "2023-12-01T21:24:38Z"
 related to:
   - "[[GitHub - 672638298]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Choose the bullet character (-, * or +) used when creating bullet lists in Obsidian. Bind a hotkey to insert or reformat lists with the selected character and add the command to the mobile toolbar for quick access."
 
     stats: {
-        downloads:  5380
+        downloads:  5427
         updated_at: 1701465878000
     }
 }

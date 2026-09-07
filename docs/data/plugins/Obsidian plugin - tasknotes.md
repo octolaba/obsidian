@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/tasknotes
 alt:
   - https://github.com/callumalpass/tasknotes
-downloads: 707943
-updated at: "2026-06-26T08:59:18Z"
+downloads: 956799
+updated at: "2026-08-09T22:10:13Z"
 related to:
   - "[[GitHub - 985542247]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage tasks as individual Markdown notes with YAML frontmatter and view them via Bases-powered List, Kanban, Calendar, and Agenda .base files. Parse natural-language dates and tags, extend frontmatter with custom fields, and keep data portable as editable plain text with no plugin-specific database."
 
     stats: {
-        downloads:  707943
-        updated_at: 1782464358000
+        downloads:  956799
+        updated_at: 1786313413000
     }
 }
 ```

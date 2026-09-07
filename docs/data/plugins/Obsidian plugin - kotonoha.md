@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kotonoha
 alt:
   - https://github.com/rons-29/kotonoha
-downloads: 140
+downloads: 211
 updated at: "2026-06-29T01:25:01Z"
 related to:
   - "[[GitHub - 1282174444]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Kotonoha is a lightweight quick-capture plugin for Obsidian. It saves everyday notes and tasks to Daily Notes, creates today's Daily Note when needed, and lets you review saved items in a simple timeline. It also supports task saving and completion toggles, attachments, search, tags, filters, a heatmap, and reflection tools."
 
     stats: {
-        downloads:  140
+        downloads:  211
         updated_at: 1782696301000
     }
 }

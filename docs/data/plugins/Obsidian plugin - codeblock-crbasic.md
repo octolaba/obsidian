@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/codeblock-crbasic
 alt:
   - https://github.com/utleysam/codeblock-crbasic
-downloads: 70
+downloads: 76
 updated at: "2026-06-05T04:59:58Z"
 related to:
   - "[[GitHub - 1259984280]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add CRBasic syntax highlighting to markdown code blocks."
 
     stats: {
-        downloads:  70
+        downloads:  76
         updated_at: 1780635598000
     }
 }

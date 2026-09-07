@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cmd-search
 alt:
   - https://github.com/spaceshipcaptain/CmdSearch
-downloads: 997
+downloads: 1026
 updated at: "2025-04-19T17:29:14Z"
 related to:
   - "[[GitHub - 931940072]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search the web from within Obsidian using custom command-palette commands. Add, edit, or remove commands using %s as a query placeholder to open search URLs or instant links, assign hotkeys for quick access, and open results in Obsidian's Web Viewer when enabled."
 
     stats: {
-        downloads:  997
+        downloads:  1026
         updated_at: 1745083754000
     }
 }

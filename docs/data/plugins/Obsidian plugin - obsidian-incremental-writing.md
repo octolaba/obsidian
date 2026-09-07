@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-incremental-writing
 alt:
   - https://github.com/bjsi/incremental-writing
-downloads: 12691
+downloads: 12720
 updated at: "2021-10-02T10:06:23Z"
 related to:
   - "[[GitHub - 349836103]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add notes and blocks to prioritized queues for incremental review, refinement, and long-term retention. Prioritize items (lower numbers = higher priority) and schedule reviews over time to iteratively expand and edit ideas."
 
     stats: {
-        downloads:  12691
+        downloads:  12720
         updated_at: 1633169183000
     }
 }

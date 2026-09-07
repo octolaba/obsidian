@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/template-filename
 alt:
   - https://github.com/callumalpass/obsidian-template-filename
-downloads: 1462
+downloads: 1499
 updated at: "2025-04-24T02:24:41Z"
 related to:
   - "[[GitHub - 971741172]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create notes with templatable filenames using date/time tokens, random strings, UUIDs, counters, hashes, Unix timestamps, and custom numeral bases. Preview filenames live and use global or named counters, system variables, and text-formatting utilities for sequential or unique naming."
 
     stats: {
-        downloads:  1462
+        downloads:  1499
         updated_at: 1745461481000
     }
 }

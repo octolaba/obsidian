@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bases-paginator
 alt:
   - https://github.com/sean2077/obsidian-bases-paginator
-downloads: 5334
+downloads: 6944
 updated at: "2026-07-21T10:42:59Z"
 related to:
   - "[[GitHub - 1119259990]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a paginated, sortable table view to Obsidian Bases with configurable page sizes, real-time global search, multi-select column filters, and natural sorting. Save filter presets, choose list rendering styles, drag to reorder columns during a session, and render links/tags natively; view is read-only."
 
     stats: {
-        downloads:  5334
+        downloads:  6944
         updated_at: 1784630579000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/live-columns
 alt:
   - https://github.com/nhiwentwest/live-columns
-downloads: 1153
+downloads: 1260
 updated at: "2026-05-21T06:26:00Z"
 related to:
   - "[[GitHub - 1139225117]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create multi-column layouts visually in Live Preview. Insert and edit 2-column, 3-column, or full-width sections and style each column with background and border colors without switching to Source Mode."
 
     stats: {
-        downloads:  1153
+        downloads:  1260
         updated_at: 1779344760000
     }
 }

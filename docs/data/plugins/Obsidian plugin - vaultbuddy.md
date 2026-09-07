@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vaultbuddy
 alt:
   - https://github.com/zhenghaoyang24/obsidian-plugin-vaultbuddy
-downloads: 155
+downloads: 208
 updated at: "2026-06-18T02:38:08Z"
 related to:
   - "[[GitHub - 1267155683]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with your entire vault and get AI answers grounded in your notes. Retrieve relevant passages, connect scattered information, generate summaries with automatic source citations, switch between multiple curl-compatible models, and store API keys locally with encryption while saving conversations automatically."
 
     stats: {
-        downloads:  155
+        downloads:  208
         updated_at: 1781750288000
     }
 }

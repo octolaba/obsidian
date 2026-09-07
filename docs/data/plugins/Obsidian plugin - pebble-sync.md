@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pebble-sync
 alt:
   - https://github.com/sapienskid/pebble-sync
-downloads: 56
+downloads: 65
 updated at: "2026-06-23T10:46:33Z"
 related to:
   - "[[GitHub - 1065346156]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import notes from a Pebble API into atomic Markdown files and optionally embed them into matching Daily Notes beneath a configurable heading. Generate notes from templates with folder and tag-derived naming, run imports on demand or an interval, deduplicate via on-disk history, or force-overwrite when needed."
 
     stats: {
-        downloads:  56
+        downloads:  65
         updated_at: 1782211593000
     }
 }

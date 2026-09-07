@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/upcoming-birthdays
 alt:
   - https://github.com/nithinbekal/obsidian-upcoming-birthdays
-downloads: 112
+downloads: 138
 updated at: "2026-05-28T02:20:11Z"
 related to:
   - "[[GitHub - 1200073077]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track and display upcoming birthdays by reading a date-of-birth field in note frontmatter. Show upcoming dates with days-to-go and calculated ages, highlight today's and imminent birthdays, and open the corresponding note by clicking a name. Configure the frontmatter property name and look‑ahead period."
 
     stats: {
-        downloads:  112
+        downloads:  138
         updated_at: 1779934811000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/data-fetcher
 alt:
   - https://github.com/qf3l3k/obsidian-data-fetcher
-downloads: 1803
+downloads: 1854
 updated at: "2026-05-20T15:55:35Z"
 related to:
   - "[[GitHub - 949922135]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run REST, GraphQL, RPC or gRPC-style requests and render responses inline using data-query code blocks. Manage endpoint aliases and headers, cache results with expiration and a cache browser, refresh individual or all queries, and copy or save responses."
 
     stats: {
-        downloads:  1803
+        downloads:  1854
         updated_at: 1779292535000
     }
 }

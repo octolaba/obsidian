@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/expand-selection
 alt:
   - https://github.com/atait/obsidian-expand-selection
-downloads: 1345
+downloads: 1688
 updated at: "2026-03-14T22:17:46Z"
 related to:
   - "[[GitHub - 1084588994]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Select the current section with a single hotkey and expand repeatedly to parent sections or the entire note. Simplify selection on mobile where cursor control is awkward, and use with Code Shortcuts for line-by-line selection."
 
     stats: {
-        downloads:  1345
+        downloads:  1688
         updated_at: 1773526666000
     }
 }

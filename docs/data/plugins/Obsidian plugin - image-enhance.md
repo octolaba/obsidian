@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-enhance
 alt:
   - https://github.com/wheesys/obsidian-image-enhance-plugin
-downloads: 158
+downloads: 181
 updated at: "2026-04-29T09:26:28Z"
 related to:
   - "[[GitHub - 1166236877]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload images to remote hosts via PicGo, PicList or PicGo‑Core, automatically converting pasted images into hosted links. Batch upload images in a file or across the vault, download web images to local files, clean unused image files and remove broken image links, with drag‑and‑drop and right‑click upload support."
 
     stats: {
-        downloads:  158
+        downloads:  181
         updated_at: 1777454788000
     }
 }

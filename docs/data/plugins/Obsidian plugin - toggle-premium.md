@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/toggle-premium
 alt:
   - https://github.com/jawoojo/obsidian-toggle
-downloads: 255
+downloads: 335
 updated at: "2026-01-04T14:34:25Z"
 related to:
   - "[[GitHub - 1125998388]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create Notion-style collapsible toggles with |> and <| and render a clickable triangle to fold and unfold content with a single click. Scope header folding inside toggles to keep the global outline intact. Make code fences collapsible with ```> and show a hover Copy button on toggle titles, built on Obsidian's core folding engine."
 
     stats: {
-        downloads:  255
+        downloads:  335
         updated_at: 1767537265000
     }
 }

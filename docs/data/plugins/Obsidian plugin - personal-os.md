@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/personal-os
 alt:
   - https://github.com/gengad/obsidian-personal-os
-downloads: 2320
+downloads: 2344
 updated at: "2025-05-27T14:50:57Z"
 related to:
   - "[[GitHub - 768607660]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Automate selection and processing of the next file that needs attention, open the appropriate workspace, and guide focus using GTD-inspired inbox and work-in-progress rules. Randomly snooze items within a date range and mark overdue or recurring tasks as failed across the current file or entire vault."
 
     stats: {
-        downloads:  2320
+        downloads:  2344
         updated_at: 1748357457000
     }
 }

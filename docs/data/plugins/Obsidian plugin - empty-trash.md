@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/empty-trash
 alt:
   - https://github.com/pandaaigc/obsidian-empty-trash
-downloads: 51
+downloads: 91
 updated at: "2026-07-08T11:50:12Z"
 related to:
   - "[[GitHub - 1293083424]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Empty the vault's .trash folder in one click. Delete all files and folders inside the vault-local .trash with a single confirmation. Keep backups or sync history because deletion cannot be undone and the operating system trash is not affected."
 
     stats: {
-        downloads:  51
+        downloads:  91
         updated_at: 1783511412000
     }
 }

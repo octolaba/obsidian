@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/terminal-agent-tabs
 alt:
   - https://github.com/hirose30/terminal-agent-tabs
-downloads: 384
+downloads: 446
 updated at: "2026-07-21T20:46:07Z"
 related to:
   - "[[GitHub - 1193739358]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run multiple agent CLI sessions (Claude Code, Codex, Gemini, Grok, etc.) as tabs inside Obsidian. Manage sessions from a sidebar, resume or split tabs, auto-update titles, adjust per-tab font size, send note selections to a session, receive hook notifications with optional sounds, and sync terminal clipboard via OSC52."
 
     stats: {
-        downloads:  384
+        downloads:  446
         updated_at: 1784666767000
     }
 }

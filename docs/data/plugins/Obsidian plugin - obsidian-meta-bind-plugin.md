@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-meta-bind-plugin
 alt:
   - https://github.com/mprojectscode/obsidian-meta-bind-plugin
-downloads: 432813
+downloads: 470201
 updated at: "2026-06-16T11:24:26Z"
 related to:
   - "[[GitHub - 501199572]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create interactive inline input fields, view fields, and buttons inside your notes. Bind those fields to frontmatter properties to edit and display metadata in-place and keep note content and frontmatter synchronized."
 
     stats: {
-        downloads:  432813
+        downloads:  470201
         updated_at: 1781609066000
     }
 }

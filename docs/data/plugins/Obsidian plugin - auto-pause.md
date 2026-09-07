@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/auto-pause
 alt:
   - https://github.com/ckep1/obsidian-autopause
-downloads: 3760
-updated at: "2026-02-16T04:06:41Z"
+downloads: 3798
+updated at: "2026-08-09T22:58:09Z"
 related to:
   - "[[GitHub - 852947633]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Pause any currently playing audio when a new clip starts, with an option to reset to the beginning instead of just pausing. Use global hotkeys to play/pause and jump to the next or previous audio across tabs and documents on desktop and mobile."
 
     stats: {
-        downloads:  3760
-        updated_at: 1771214801000
+        downloads:  3798
+        updated_at: 1786316289000
     }
 }
 ```

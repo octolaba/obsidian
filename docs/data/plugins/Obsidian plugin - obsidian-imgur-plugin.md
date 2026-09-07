@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-imgur-plugin
 alt:
   - https://github.com/gavvvr/obsidian-imgur-plugin
-downloads: 60715
+downloads: 60985
 updated at: "2024-11-02T23:47:42Z"
 related to:
   - "[[GitHub - 329433600]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload images to Imgur instead of storing them in your vault. Paste from the clipboard or drag-and-drop files (including animated GIFs), and choose anonymous uploads or your Imgur account to shrink vault size and simplify sharing."
 
     stats: {
-        downloads:  60715
+        downloads:  60985
         updated_at: 1730591262000
     }
 }

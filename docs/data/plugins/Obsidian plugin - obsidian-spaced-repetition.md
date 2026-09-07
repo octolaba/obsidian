@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-spaced-repetition
 alt:
   - https://github.com/st3v3nmw/obsidian-spaced-repetition
-downloads: 566973
+downloads: 577601
 updated at: "2026-06-14T10:39:25Z"
 related to:
   - "[[GitHub - 334392093]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Review flashcards and notes with spaced repetition in Obsidian to beat the forgetting curve. Create single-line, multi-line, reversed and cloze cards with images, audio, video and LaTeX; organize decks via tags or folders. Track due items and view review statistics."
 
     stats: {
-        downloads:  566973
+        downloads:  577601
         updated_at: 1781433565000
     }
 }

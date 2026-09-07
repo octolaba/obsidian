@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-excel-to-markdown-table
 alt:
   - https://github.com/ganesshkumar/obsidian-excel-to-markdown-table
-downloads: 193044
+downloads: 196707
 updated at: "2022-06-17T09:36:53Z"
 related to:
   - "[[GitHub - 454256248]]"
@@ -28,7 +28,7 @@ Pastes spreadsheet data copied from Microsoft Excel, Google Sheets, Apple Number
 plugin: {
     id:     "obsidian-excel-to-markdown-table"
     name:   "Excel to Markdown Table"
-    author: "ganesshkumar"
+    author: "Ganessh Kumar R P"
     repo:   "ganesshkumar/obsidian-excel-to-markdown-table"
 
     html_url:    "https://community.obsidian.md/plugins/obsidian-excel-to-markdown-table"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Paste spreadsheet data from Excel, Google Sheets, Apple Numbers, or LibreOffice Calc into Obsidian as Markdown tables. Convert single- or multi-column clipboard ranges into properly formatted Markdown tables using plain paste or the plugin’s paste/command options."
 
     stats: {
-        downloads:  193044
+        downloads:  196707
         updated_at: 1655458613000
     }
 }

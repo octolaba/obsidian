@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-vault-statistics-plugin
 alt:
   - https://github.com/bkyle/obsidian-vault-statistics-plugin
-downloads: 47438
+downloads: 47684
 updated at: "2022-10-26T05:01:13Z"
 related to:
   - "[[GitHub - 321490133]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display vault statistics in the status bar, showing counts for notes, files, attachments, links, and words. Click the status item to cycle metrics and hover to preview all available statistics."
 
     stats: {
-        downloads:  47438
+        downloads:  47684
         updated_at: 1666760473000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/scrobble
 alt:
   - https://github.com/yipqp/obsidian-scrobble
-downloads: 111
+downloads: 157
 updated at: "2026-03-14T02:46:00Z"
 related to:
   - "[[GitHub - 1092161647]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Log currently playing or recently played tracks or search Spotify and create song or album notes with populated frontmatter. Capture timestamped thoughts, link related songs with contextual logs, and auto-generate notes from Spotify metadata. Use a Spotify Premium account to access the API."
 
     stats: {
-        downloads:  111
+        downloads:  157
         updated_at: 1773456360000
     }
 }

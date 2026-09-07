@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/yonxao-mindmap
 alt:
   - https://github.com/yonxao/yonxao-mindmap
-downloads: 304
+downloads: 372
 updated at: "2026-07-18T23:38:49Z"
 related to:
   - "[[GitHub - 1260193234]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Yonxao Mind Map 是一款面向 Obsidian 的 mind map / mindmap 思维导图插件，适合可视化思考、知识管理、大纲整理、头脑风暴和结构化笔记。它可将 Markdown yxmm 代码块渲染为可交互 SVG 导图，并支持多布局、快捷键编辑、主题配色、导出和自定义。 Yonxao Mind Map is an Obsidian mind map / mindmap plugin for visual thinking, knowledge management, outlining, brainstorming, and structured note-taking. It renders Markdown yxmm code blocks as interactive SVG mind maps with multiple layouts, keyboard editing, themes, export, and customization."
 
     stats: {
-        downloads:  304
+        downloads:  372
         updated_at: 1784417929000
     }
 }

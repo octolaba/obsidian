@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bullet
 alt:
   - https://github.com/kdnk/obsidian-bullet
-downloads: 529
+downloads: 649
 updated at: "2026-07-23T01:48:16Z"
 related to:
   - "[[GitHub - 1241309205]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Work with nested lists like in Workflowy or RoamResearch and create deeply structured outlines. Move, indent, outdent and reorder list items and sublists with commands and toolbar actions, show vertical indentation lines, and keep the caret inside content for smoother editing."
 
     stats: {
-        downloads:  529
+        downloads:  649
         updated_at: 1784771296000
     }
 }

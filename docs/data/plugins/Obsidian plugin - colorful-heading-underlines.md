@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/colorful-heading-underlines
 alt:
   - https://github.com/greetclammy/colorful-heading-underlines
-downloads: 999
+downloads: 1090
 updated at: "2026-04-14T18:11:47Z"
 related to:
   - "[[GitHub - 1108511462]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add colorful underlines to headings to visually identify heading levels. Set underlines to the width of the last line or the widest line in multi-line headings, and adjust colors and appearance in Style Settings."
 
     stats: {
-        downloads:  999
+        downloads:  1090
         updated_at: 1776190307000
     }
 }

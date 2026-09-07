@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/luhman
 alt:
   - https://github.com/dyldog/luhman-obsidian-plugin
-downloads: 17626
+downloads: 17685
 updated at: "2023-05-16T23:49:36Z"
 related to:
   - "[[GitHub - 395327424]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create child and sibling notes using Luhmann-style ID filenames (e.g., 12a56g), using selected text as the title or prompting for one. Search notes by their first Markdown H1 to open them or insert links to the file."
 
     stats: {
-        downloads:  17626
+        downloads:  17685
         updated_at: 1684280976000
     }
 }

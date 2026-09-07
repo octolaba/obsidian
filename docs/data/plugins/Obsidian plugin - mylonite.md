@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mylonite
 alt:
   - https://github.com/z1xus/mylonite
-downloads: 149
+downloads: 167
 updated at: "2026-06-12T16:15:38Z"
 related to:
   - "[[GitHub - 1241182095]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Host a self-managed sync server and pair Obsidian devices to synchronize vault data end-to-end encrypted through your own storage. Keep vault content encrypted during transfer and sync notes across devices via a remote server you control."
 
     stats: {
-        downloads:  149
+        downloads:  167
         updated_at: 1781280938000
     }
 }

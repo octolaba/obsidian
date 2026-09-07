@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/kmind-zen
 alt:
   - https://github.com/suka233/obsidian-kmind-zen
-downloads: 863
-updated at: "2026-07-16T07:38:52Z"
+downloads: 842
+updated at: "2026-08-10T16:50:26Z"
 related to:
   - "[[GitHub - 1201042237]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "KMind Zen brings a beautifully designed, blazing-fast mind mapping editor to Obsidian. Create and edit local-first .kmindz maps directly in your vault, import XMind files, and use the same map across SiYuan Note, the web app, and other KMind Zen hosts. Build rich knowledge maps with optimized rich-text nodes, a refined formula editor, recursive summary nodes, node backlinks, node notes, comments, and KMind Zen’s original multi-hyperlink system for attaching multiple links to a single node. Smart light/dark themes keep maps readable in different environments, and the built-in theme editor lets you create your own visual style. Map contents stay local during normal editing and are not uploaded for license activation. Unlimited local maps and nodes are free to manage; Try the interactive KMind Zen web app at https://kmind.app/app."
 
     stats: {
-        downloads:  863
-        updated_at: 1784187532000
+        downloads:  842
+        updated_at: 1786380626000
     }
 }
 ```

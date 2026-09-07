@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gene-code
 alt:
   - https://github.com/neznayer/obsidian-gene-code
-downloads: 56
+downloads: 72
 updated at: "2026-07-02T17:24:15Z"
 related to:
   - "[[GitHub - 1286987134]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render gene-code lollipop and pedigree diagrams inline as SVG figures by writing code blocks in Obsidian notes. Stay meaningful across light and dark themes, and show inline errors for unparseable blocks. Proposals for new additional types of diagrams are highly appreciated! Write me an Issue on the Github page."
 
     stats: {
-        downloads:  56
+        downloads:  72
         updated_at: 1783013055000
     }
 }

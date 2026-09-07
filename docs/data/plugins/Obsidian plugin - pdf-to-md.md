@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/pdf-to-md
 alt:
   - https://github.com/kkbin505/pdf-to-md
-downloads: 2269
+downloads: 2762
 updated at: "2026-06-01T04:31:29Z"
 related to:
   - "[[GitHub - 1242637097]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Convert handwritten PDFs in Obsidian to Markdown with a right-click, leveraging AI models like GPT-4o, GPT-5.4, Alibaba Qwen, or Google Gemini. Monitor conversion with a visual progress bar and keep API keys secure by reading them from environment variables."
 
     stats: {
-        downloads:  2269
+        downloads:  2762
         updated_at: 1780288289000
     }
 }

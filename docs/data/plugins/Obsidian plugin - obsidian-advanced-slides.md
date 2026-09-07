@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-advanced-slides
 alt:
   - https://github.com/mszturc/obsidian-advanced-slides
-downloads: 831219
+downloads: 833339
 updated at: "2023-02-15T23:39:31Z"
 related to:
   - "[[GitHub - 436176544]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create slide decks from your Obsidian notes and embed content directly into slides. Preview edits live, apply themes and annotations, and export presentations as PDF or standalone HTML with full Obsidian Markdown support."
 
     stats: {
-        downloads:  831219
+        downloads:  833339
         updated_at: 1676504371000
     }
 }

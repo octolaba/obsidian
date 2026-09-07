@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pure-chat-llm
 alt:
   - https://github.com/thejusticeman/pure-chat-llm
-downloads: 2406
+downloads: 2643
 updated at: "2026-05-16T00:11:24Z"
 related to:
   - "[[GitHub - 968930804]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform any note into an interactive AI chat that can read, search, write, and manage your vault with agent tools and explicit approval for destructive changes. Leverage deep Obsidian integration, multi-provider LLMs and real-time voice."
 
     stats: {
-        downloads:  2406
+        downloads:  2643
         updated_at: 1778890284000
     }
 }

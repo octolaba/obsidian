@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/yandex-calendar-integration
 alt:
   - https://github.com/caduct-3ateuhuk/obsidian-yandex-calendar-integration
-downloads: 160
+downloads: 185
 updated at: "2025-11-26T03:45:51Z"
 related to:
   - "[[GitHub - 1104204287]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Yandex Calendar with Obsidian and insert today's events into your daily notes using a customizable template. Store your Yandex app password securely and insert formatted events at the cursor position automatically."
 
     stats: {
-        downloads:  160
+        downloads:  185
         updated_at: 1764128751000
     }
 }

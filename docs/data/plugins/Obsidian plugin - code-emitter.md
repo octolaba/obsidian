@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/code-emitter
 alt:
   - https://github.com/mokeyish/obsidian-code-emitter
-downloads: 65462
+downloads: 66307
 updated at: "2024-12-12T00:16:58Z"
 related to:
   - "[[GitHub - 519450328]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Execute code blocks interactively inside Obsidian notes like Jupyter notebooks. Run Python, TypeScript and JavaScript locally via JS/WebAssembly sandboxes, or evaluate many other languages through online playgrounds with cross-platform desktop and mobile support. Avoid sending sensitive source code to remote services."
 
     stats: {
-        downloads:  65462
+        downloads:  66307
         updated_at: 1733962618000
     }
 }

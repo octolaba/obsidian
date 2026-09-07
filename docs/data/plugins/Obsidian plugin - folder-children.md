@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-children
 alt:
   - https://github.com/aaronarcade/Obsidian-Folder-Children
-downloads: 89
+downloads: 103
 updated at: "2026-06-20T04:19:14Z"
 related to:
   - "[[GitHub - 1267763693]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync each folder's direct children into a collapsible \"Children\" callout on its folder note. Require the Folder Notes plugin; list direct child notes and subfolders alphabetically, link subfolders to their folder notes, and skip hidden files, .obsidian, and folders without a folder note."
 
     stats: {
-        downloads:  89
+        downloads:  103
         updated_at: 1781929154000
     }
 }

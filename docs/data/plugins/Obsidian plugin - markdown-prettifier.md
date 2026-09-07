@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markdown-prettifier
 alt:
   - https://github.com/cristianvasquez/obsidian-prettify
-downloads: 56812
+downloads: 57093
 updated at: "2021-11-18T21:45:37Z"
 related to:
   - "[[GitHub - 312065725]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reformat Markdown in Obsidian to clean messy syntax, normalize ordered lists and tables, and convert inline hashtags and literals into frontmatter entries and links. Update or insert frontmatter fields like modified dates and UUIDs, autolink URLs and emails, and renumber lists for consistent formatting."
 
     stats: {
-        downloads:  56812
+        downloads:  57093
         updated_at: 1637271937000
     }
 }

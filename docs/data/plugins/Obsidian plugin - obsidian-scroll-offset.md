@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-scroll-offset
 alt:
   - https://github.com/lijyze/scroll-offset
-downloads: 10512
+downloads: 10616
 updated at: "2022-07-22T06:37:50Z"
 related to:
   - "[[GitHub - 476750127]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep a custom vertical margin around the cursor while scrolling, emulating Vim's scrolloff so the cursor stays away from window edges. Set the offset in pixels or as a proportion of the content height; auto-adjust at boundaries so it never exceeds half the view."
 
     stats: {
-        downloads:  10512
+        downloads:  10616
         updated_at: 1658471870000
     }
 }

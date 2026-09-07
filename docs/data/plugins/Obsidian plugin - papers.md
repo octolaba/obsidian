@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/papers
 alt:
   - https://github.com/willjhliang/obsidian-papers
-downloads: 863
+downloads: 981
 updated at: "2026-06-29T19:49:23Z"
 related to:
   - "[[GitHub - 992966591]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search arXiv by URL or title and import papers directly into your vault. Create a new note containing title, authors, publication year and URL, and download or embed the paper's PDF."
 
     stats: {
-        downloads:  863
+        downloads:  981
         updated_at: 1782762563000
     }
 }

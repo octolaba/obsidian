@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-agent
 alt:
   - https://github.com/nikitaclicks/obsidian-openagent
-downloads: 324
+downloads: 437
 updated at: "2026-05-17T07:44:51Z"
 related to:
   - "[[GitHub - 1220867750]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run an AI agent in your vault to read, write, edit, append, search and list notes, and manage frontmatter and links. Connect any OpenAI-compatible provider (OpenAI, Anthropic via proxy, Ollama, LM Studio), bring your own API key so requests go only to your chosen endpoint, confirm destructive writes with diff previews, and run the same plugin on desktop and mobile."
 
     stats: {
-        downloads:  324
+        downloads:  437
         updated_at: 1779003891000
     }
 }

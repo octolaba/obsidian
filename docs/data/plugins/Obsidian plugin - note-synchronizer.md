@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-synchronizer
 alt:
   - https://github.com/tansongchen/obsidian-note-synchronizer
-downloads: 8247
+downloads: 8266
 updated at: "2024-02-17T23:00:43Z"
 related to:
   - "[[GitHub - 503045167]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Anki and Obsidian with 1:1 mapping between Anki notes, decks, and tags and Obsidian notes, folders, and tags. Import Anki note types as Markdown templates and convert Obsidian wikilinks to Markdown links. Choose Markdown mode (raw Markdown) or HTML mode (rendered HTML)."
 
     stats: {
-        downloads:  8247
+        downloads:  8266
         updated_at: 1708210843000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/lmath
 alt:
   - https://github.com/lubriedev/lmath
-downloads: 83
-updated at: "2026-07-23T05:30:22Z"
+downloads: 255
+updated at: "2026-08-03T02:15:14Z"
 related to:
   - "[[GitHub - 1274015317]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Graph functions, systems of equations, symbolic derivatives and definite integrals directly inside your notes. Display the LaTeX-rendered formula beside an interactive Cartesian plane with pan, zoom, crosshair and rail mode for walking along curves. Render explicit, implicit, parametric and polar curves with arc-length tracing to preserve shapes, rasterize dense implicit sets, shade integral regions and mark intersections of systems."
 
     stats: {
-        downloads:  83
-        updated_at: 1784784622000
+        downloads:  255
+        updated_at: 1785723314000
     }
 }
 ```

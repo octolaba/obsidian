@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-day-planner
 alt:
   - https://github.com/ivan-lednev/obsidian-day-planner
-downloads: 834512
-updated at: "2026-07-17T14:19:52Z"
+downloads: 856463
+updated at: "2026-07-31T06:46:36Z"
 related to:
   - "[[GitHub - 309622475]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # Day Planner
 
-Day Planner plans a day from a task list in a Markdown note and shows it as editable calendar views, timelines, a multi-day planner and a mini-timeline in the status bar. Time is tracked and events are drawn from daily notes, the Tasks plugin, online calendars and Dataview clock properties, consolidating tasks and clocks in one view.
+Turns tasks and events into time blocks on an editable timeline, alongside calendar views, a multi-day planner and a mini-timeline in the status bar. Blocks are drawn from daily notes, the Tasks plugin, online calendars and Dataview clock properties, so tasks and clocks are consolidated in one place. A built-in time tracker records time spent.
 
 ```cue
 plugin: {
@@ -33,12 +33,12 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/obsidian-day-planner"
     github_url:  "https://github.com/ivan-lednev/obsidian-day-planner"
-    description: "Day planning from a task list in a Markdown note with enhanced time block functionality."
+    description: "Turn tasks from daily notes, the Tasks plugin, and calendars into time blocks on an editable timeline, with built-in time tracker."
     about:       "Plan and visualize your schedule with editable calendar views, timelines, a multi-day planner, and a mini-timeline in the status bar. Track time and display events from Daily Notes, the Tasks plugin, online calendars, and Dataview clock properties to consolidate tasks and clocks."
 
     stats: {
-        downloads:  834512
-        updated_at: 1784297992000
+        downloads:  856463
+        updated_at: 1785480396000
     }
 }
 ```

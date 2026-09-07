@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lskypro-auto-upload-enhanced
 alt:
   - https://github.com/zgfdada/lskypro-auto-upload-enhanced
-downloads: 94
+downloads: 115
 updated at: "2026-05-14T13:47:33Z"
 related to:
   - "[[GitHub - 1238689418]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload images to Lsky Pro from clipboard, drag-and-drop, local files, or remote links and support both older and newer Lsky Pro APIs. Download remote images into a configurable folder, upload current-note images (downloads remotes first), replace links with Lsky URLs, and show context-menu actions with a single floating progress notice."
 
     stats: {
-        downloads:  94
+        downloads:  115
         updated_at: 1778766453000
     }
 }

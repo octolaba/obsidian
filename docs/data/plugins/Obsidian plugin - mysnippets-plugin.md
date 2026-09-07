@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mysnippets-plugin
 alt:
   - https://github.com/chetachiezikeuzor/MySnippets-Plugin
-downloads: 38666
+downloads: 39297
 updated at: "2022-09-01T00:17:17Z"
 related to:
   - "[[GitHub - 401838776]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage CSS snippets from a compact status-bar menu inside your workspace. Toggle snippets on and off, reload the snippets folder, and open the snippets directory without leaving your notes."
 
     stats: {
-        downloads:  38666
+        downloads:  39297
         updated_at: 1661991437000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pseudocode-in-obs
 alt:
   - https://github.com/ytliu74/obsidian-pseudocode
-downloads: 20184
+downloads: 20436
 updated at: "2026-05-06T01:01:09Z"
 related to:
   - "[[GitHub - 613233044]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render LaTeX-style pseudocode inside code blocks into publication-quality HTML that mirrors LaTeX algorithm output and supports inline math. Customize macros via a preamble, use in-block auto-completion, and export compilable LaTeX files while respecting light and dark themes."
 
     stats: {
-        downloads:  20184
+        downloads:  20436
         updated_at: 1778029269000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quick-tray
 alt:
   - https://github.com/goodjinc/obsidian-quick-tray
-downloads: 93
+downloads: 181
 updated at: "2026-07-08T07:57:09Z"
 related to:
   - "[[GitHub - 1293086260]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep Obsidian available in the system tray and control it from the tray menu or global shortcuts. Create quick notes or open Search and Quick Switcher from the tray or via shortcuts, and hide, restart, open, or quit Obsidian with a click. Choose what the tray left-click does."
 
     stats: {
-        downloads:  93
+        downloads:  181
         updated_at: 1783497429000
     }
 }

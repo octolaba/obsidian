@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/abstract-folder
 alt:
   - https://github.com/rahmanierfan/abstract-folder
-downloads: 5119
+downloads: 5911
 updated at: "2026-02-07T06:34:21Z"
 related to:
   - "[[GitHub - 1102486209]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize files virtually across multiple abstract folders without changing their physical locations. Define folder relationships in frontmatter links, view a virtual file explorer with multi-parent notes, drag-and-drop to reorganize, and convert between physical and abstract folder layouts."
 
     stats: {
-        downloads:  5119
+        downloads:  5911
         updated_at: 1770446061000
     }
 }

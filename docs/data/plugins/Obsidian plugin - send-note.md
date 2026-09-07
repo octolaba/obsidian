@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/send-note
 alt:
   - https://github.com/jvsteiner/send-note
-downloads: 505
+downloads: 513
 updated at: "2024-12-18T19:00:28Z"
 related to:
   - "[[GitHub - 881985929]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Share notes instantly via your AWS S3 bucket as encrypted Markdown files. Create a secure share URL with the encryption key embedded so recipients can open it in Obsidian to import the note into their vault. Delete the uploaded note from S3 directly from the note's frontmatter."
 
     stats: {
-        downloads:  505
+        downloads:  513
         updated_at: 1734548428000
     }
 }

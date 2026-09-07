@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vaultman
 alt:
   - https://github.com/meibbo/Vaultman
-downloads: 510
+downloads: 863
 updated at: "2026-07-24T00:33:56Z"
 related to:
   - "[[GitHub - 1194023403]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage files across your vault at scale from modular instances and composable views. Filter and select notes, queue batch operations, preview exact changes, and apply them all at once with active filters and a queue for targeted bulk edits."
 
     stats: {
-        downloads:  510
+        downloads:  863
         updated_at: 1784853236000
     }
 }

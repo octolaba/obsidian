@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-custom-frames
 alt:
   - https://github.com/ellpeck/ObsidianCustomFrames
-downloads: 249709
-updated at: "2025-01-19T11:02:26Z"
+downloads: 255173
+updated at: "2026-08-09T13:07:45Z"
 related to:
   - "[[GitHub - 471791904]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Turn web apps into Obsidian panes using configurable iframes with custom CSS and presets for sites like Google Keep and Todoist. Embed frames as standalone panes or inside Markdown via a special code block, pass style overrides and URL suffixes, and hide desktop-only frames on mobile."
 
     stats: {
-        downloads:  249709
-        updated_at: 1737284546000
+        downloads:  255173
+        updated_at: 1786280865000
     }
 }
 ```

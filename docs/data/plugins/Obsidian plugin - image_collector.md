@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image_collector
 alt:
   - https://github.com/tdaykin/obsidian_image_collector
-downloads: 2680
+downloads: 2694
 updated at: "2024-03-22T00:12:32Z"
 related to:
   - "[[GitHub - 752550820]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Collect all images referenced in the current note into a single folder for quick export. Export Markdown-linked images for easy uploading to websites or converting notes to LaTeX without manually hunting files."
 
     stats: {
-        downloads:  2680
+        downloads:  2694
         updated_at: 1711066352000
     }
 }

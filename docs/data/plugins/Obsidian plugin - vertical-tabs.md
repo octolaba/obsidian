@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vertical-tabs
 alt:
   - https://github.com/oxdc/obsidian-vertical-tabs
-downloads: 75285
+downloads: 78945
 updated at: "2026-07-20T11:33:38Z"
 related to:
   - "[[GitHub - 831376921]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a vertical list of open notes to organize and navigate many tabs more clearly. Group tabs, use per-tab zoom and zen mode, browse tab history, and use an extended keyboard tab switcher; enable IDE mode for VSCode-like ephemeral tabs and automatic deduplication."
 
     stats: {
-        downloads:  75285
+        downloads:  78945
         updated_at: 1784547218000
     }
 }

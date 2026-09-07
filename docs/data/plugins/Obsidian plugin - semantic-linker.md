@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/semantic-linker
 alt:
   - https://github.com/neurocoda/semantic-linker
-downloads: 246
+downloads: 285
 updated at: "2026-05-19T06:45:04Z"
 related to:
   - "[[GitHub - 1241606445]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Discover semantically related notes from local metadata and add curated links via an interactive graph sidebar. Index note metadata (titles, filenames, tags, frontmatter) — not full bodies — and show connected nodes plus ranked unlinked candidates; click candidates to insert links or context nodes to remove them using local or OpenAI-compatible embeddings."
 
     stats: {
-        downloads:  246
+        downloads:  285
         updated_at: 1779173104000
     }
 }

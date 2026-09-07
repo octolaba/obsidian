@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-clone
 alt:
   - https://github.com/ezra-y/obsidian-vault-clone
-downloads: 118
+downloads: 142
 updated at: "2026-05-19T09:26:39Z"
 related to:
   - "[[GitHub - 1243274596]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a new vault by cloning an existing vault's configuration and open it immediately. Selectively copy appearance, behavior, and plugin settings — themes, fonts, hotkeys, editor prefs, community/core plugins and their configs — without editing .obsidian files."
 
     stats: {
-        downloads:  118
+        downloads:  142
         updated_at: 1779182799000
     }
 }

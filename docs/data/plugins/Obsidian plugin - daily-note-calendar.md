@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-note-calendar
 alt:
   - https://github.com/bartkessels/daily-note-calendar
-downloads: 18431
+downloads: 18714
 updated at: "2026-04-12T08:30:20Z"
 related to:
   - "[[GitHub - 876059595]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Navigate your vault with an interactive calendar and open or create periodic notes—daily, weekly, monthly, quarterly, or yearly—by clicking dates, week numbers, months, quarters, or years. Customize note filenames and folders with date-fns formats and template variables, and display indicators for existing notes."
 
     stats: {
-        downloads:  18431
+        downloads:  18714
         updated_at: 1775982620000
     }
 }

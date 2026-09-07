@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bujo-bullets
 alt:
   - https://github.com/frankolson/obsidian-bujo-bullets
-downloads: 4432
+downloads: 4530
 updated at: "2025-03-09T01:25:22Z"
 related to:
   - "[[GitHub - 867250082]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display Bullet Journal–style checkboxes (incomplete, completed, irrelevant, migrated, scheduled, events) with custom rendering in reading mode. Change bullet types via right-click menu, commands or hotkeys, and add highlighted signifiers like ! and ? for quick context."
 
     stats: {
-        downloads:  4432
+        downloads:  4530
         updated_at: 1741483522000
     }
 }

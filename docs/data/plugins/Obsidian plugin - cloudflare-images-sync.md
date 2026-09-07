@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cloudflare-images-sync
 alt:
   - https://github.com/imaikosuke/obsidian-cloudflare-r2-sync
-downloads: 85
+downloads: 95
 updated at: "2026-06-02T14:43:57Z"
 related to:
   - "[[GitHub - 1221537291]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync local note images to Cloudflare R2, replace successfully uploaded links with public URLs, and move uploaded files to Obsidian trash. Convert PNG/JPEG/BMP to WebP before upload with adjustable quality, and upload cover images to write their public URL into a frontmatter property. Drop images into the editor to auto-upload at the cursor, and fall back to local attachments if an upload fails."
 
     stats: {
-        downloads:  85
+        downloads:  95
         updated_at: 1780411437000
     }
 }

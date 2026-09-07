@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-time-tracker
 alt:
   - https://github.com/rafaelmehdiyev/obsidian-vault-time-tracker
-downloads: 140
+downloads: 180
 updated at: "2026-05-25T17:08:36Z"
 related to:
   - "[[GitHub - 1248066093]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track time spent on each note and keep the timer running when Obsidian is minimized or you switch apps. View Daily/Weekly/Monthly summaries in a sidebar, open a sortable full-page dashboard with folders and full paths, see a live status-bar timer, and retain history across renames and deleted notes."
 
     stats: {
-        downloads:  140
+        downloads:  180
         updated_at: 1779728916000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/thought-synapse-mobile
 alt:
   - https://github.com/liyaomingme/thought-synapse-mobile
-downloads: 146
+downloads: 169
 updated at: "2026-07-03T06:39:51Z"
 related to:
   - "[[GitHub - 1270201896]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a mobile-first ambient art piece designed exclusively for Obsidian Mobile that embeds a fluid, auto-rotating visual at the bottom of the file explorer. Extract continuous Chinese phrases from notes, filter out English code, digits and noise, and keep interactions zero-touch with persistent rendering via a microtask-level observer."
 
     stats: {
-        downloads:  146
+        downloads:  169
         updated_at: 1783060791000
     }
 }

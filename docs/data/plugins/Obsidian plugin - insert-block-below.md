@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/insert-block-below
 alt:
   - https://github.com/homura144/obsidian-insert-block-below
-downloads: 103
+downloads: 117
 updated at: "2026-04-12T14:14:25Z"
 related to:
   - "[[GitHub - 1208608155]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert math blocks and code fences below the current line while preserving blockquote, callout, and ordered/unordered list indentation. Trigger via command palette or auto-expand by typing $$$ or ``` at a line end; supports empty-line cases and an optional two-line code-block mode."
 
     stats: {
-        downloads:  103
+        downloads:  117
         updated_at: 1776003265000
     }
 }

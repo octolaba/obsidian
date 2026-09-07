@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/stardew-valley-pals
 alt:
   - https://github.com/miaowuduck/stardew-valley-pals
-downloads: 127
+downloads: 159
 updated at: "2026-06-10T06:39:20Z"
 related to:
   - "[[GitHub - 1252384411]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Bring Stardew Valley pets and NPCs into your Obsidian vault with animated pixel sprites, 11 species, 35+ characters, dockable panel or free-roaming overlay, draggable companions, and themed seasonal backgrounds. Enable AI-powered persona speech bubbles for contextual comments, auto-rants, and multilingual prompts via OpenAI-compatible APIs."
 
     stats: {
-        downloads:  127
+        downloads:  159
         updated_at: 1781073560000
     }
 }

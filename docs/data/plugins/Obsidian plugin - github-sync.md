@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/github-sync
 alt:
   - https://github.com/kevinmkchin/Obsidian-GitHub-Sync
-downloads: 46424
+downloads: 48142
 updated at: "2026-04-28T01:41:29Z"
 related to:
   - "[[GitHub - 749183270]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your vault to a personal GitHub repo with a single ribbon action to pull remote changes and push local edits. Open unmerged files for conflict resolution, support HTTPS or SSH remotes, enable auto-sync on startup, and show concise or hidden sync notices."
 
     stats: {
-        downloads:  46424
+        downloads:  48142
         updated_at: 1777340489000
     }
 }

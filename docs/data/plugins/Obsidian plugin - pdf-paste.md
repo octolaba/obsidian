@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pdf-paste
 alt:
   - https://github.com/cormac-c/obsidian-paste-plugin
-downloads: 2219
+downloads: 2268
 updated at: "2025-02-02T17:31:54Z"
 related to:
   - "[[GitHub - 925878154]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Clean pasted text from PDFs or other sources by removing unwanted newlines, fixing hyphenated line breaks, and normalizing spacing. Preserve paragraph structure and fit cleaned text seamlessly into your notes."
 
     stats: {
-        downloads:  2219
+        downloads:  2268
         updated_at: 1738517514000
     }
 }

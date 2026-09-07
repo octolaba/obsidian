@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-chat-sidebar
 alt:
   - https://github.com/tektrg/obsidian-ai
-downloads: 239
+downloads: 301
 updated at: "2026-06-20T14:15:45Z"
 related to:
   - "[[GitHub - 1273193770]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a desktop-only AI chat sidebar with Claude Max OAuth, Anthropic API key fallback, and optional ChatGPT Plus/Codex support. Stream responses, include active note context and file mentions, run multi-file diff reviews, and let agents propose edits (review diffs before applying)."
 
     stats: {
-        downloads:  239
+        downloads:  301
         updated_at: 1781964945000
     }
 }

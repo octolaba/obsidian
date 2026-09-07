@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mermaid-block-to-image
 alt:
   - https://github.com/jcmexdev/obsidian-mermaid-block-to-image
-downloads: 360
+downloads: 411
 updated at: "2026-06-06T22:11:16Z"
 related to:
   - "[[GitHub - 1251473306]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Mermaid code blocks to static image URLs (SVG, PNG, or WebP) using the free Kroki or Mermaid.ink APIs, and restore them back to editable code blocks instantly. This speeds up note loading, keeps your vault clutter-free, and ensures consistent rendering across devices."
 
     stats: {
-        downloads:  360
+        downloads:  411
         updated_at: 1780783876000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/everyday-classical-music
 alt:
   - https://github.com/eloliuyx/everyday-classical-music-plugin
-downloads: 789
+downloads: 802
 updated at: "2024-06-10T03:56:44Z"
 related to:
   - "[[GitHub - 812025678]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert a different classical music piece with a YouTube link into each daily note. Select from a curated, date-mapped list of 366 pieces to keep suggestions consistent across years; backfill or remove links across existing daily notes."
 
     stats: {
-        downloads:  789
+        downloads:  802
         updated_at: 1717991804000
     }
 }

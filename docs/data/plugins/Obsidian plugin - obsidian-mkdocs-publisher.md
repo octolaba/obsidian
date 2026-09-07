@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-mkdocs-publisher
 alt:
   - https://github.com/enveloppe/obsidian-enveloppe
-downloads: 61388
+downloads: 66408
 updated at: "2026-04-07T15:18:41Z"
 related to:
   - "[[GitHub - 479063777]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish Obsidian notes to a GitHub repository using custom templates (Jekyll, MkDocs, Hugo or your own) and create pull requests that can auto-merge. Convert wikilinks to Markdown, update internal links, rename folder notes, support Dataview queries, Mermaid and LaTeX, and remove deleted or depublished files."
 
     stats: {
-        downloads:  61388
+        downloads:  66408
         updated_at: 1775575121000
     }
 }

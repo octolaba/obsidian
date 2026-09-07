@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chronicle
 alt:
   - https://github.com/cubiclewar/obsidian-chronicle
-downloads: 120
+downloads: 139
 updated at: "2026-05-18T10:40:43Z"
 related to:
   - "[[GitHub - 1234395541]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chronicle films and TV series by creating or updating notes populated with rich metadata and optional local artwork. Fetch details from OMDB and TMDB, apply customizable templates, and save entries to a media folder to track what you watch."
 
     stats: {
-        downloads:  120
+        downloads:  139
         updated_at: 1779100843000
     }
 }

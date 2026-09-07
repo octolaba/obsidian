@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/msg-handler
 alt:
   - https://github.com/ozntel/obsidian-msg-handler
-downloads: 9415
+downloads: 9491
 updated at: "2023-03-05T16:13:38Z"
 related to:
   - "[[GitHub - 605730837]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display and search Outlook .msg and .eml files directly inside Obsidian with a custom file view and matching search panel. Index messages for fast queries and present headers, plain-text body, and attachments; render images with a toggle and save non-image attachments into your vault."
 
     stats: {
-        downloads:  9415
+        downloads:  9491
         updated_at: 1678032818000
     }
 }

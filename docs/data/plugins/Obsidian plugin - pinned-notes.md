@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pinned-notes
 alt:
   - https://github.com/vasilcoin002/pinned-notes-plugin-obsidian
-downloads: 6463
+downloads: 6621
 updated at: "2026-05-05T19:58:48Z"
 related to:
   - "[[GitHub - 810952513]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Pin frequently used notes to the Obsidian ribbon for one-click access. Configure each pin with a display name, file path, and a lucide icon (defaults to \"file\")."
 
     stats: {
-        downloads:  6463
+        downloads:  6621
         updated_at: 1778011128000
     }
 }

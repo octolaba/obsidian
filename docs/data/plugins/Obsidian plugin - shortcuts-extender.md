@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/shortcuts-extender
 alt:
   - https://github.com/ryjjin/Obsidian-shortcuts-extender
-downloads: 27565
-updated at: "2022-03-13T21:46:58Z"
+downloads: 28619
+updated at: "2026-08-01T13:00:53Z"
 related to:
   - "[[GitHub - 309197515]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Change heading levels with shortcuts (Ctrl+1–Ctrl+6) and toggle code blocks with Ctrl+`. Clear Markdown markup from a line or selection with Ctrl+0. Assign shortcuts to enter special characters for non‑English keyboard layouts."
 
     stats: {
-        downloads:  27565
-        updated_at: 1647208018000
+        downloads:  28619
+        updated_at: 1785589253000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/opml-editor
 alt:
   - https://github.com/slobbocampbell/obsidian-opml-editor
-downloads: 125
+downloads: 161
 updated at: "2026-06-25T10:29:01Z"
 related to:
   - "[[GitHub - 1280014809]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit OPML files as interactive, collapsible outline trees directly inside Obsidian. Expand/collapse nodes, double-click to edit labels, drag-and-drop reorder, use the context menu to add/delete nodes, inspect and edit node attributes, and toggle to raw XML with auto-save."
 
     stats: {
-        downloads:  125
+        downloads:  161
         updated_at: 1782383341000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notepipe
 alt:
   - https://github.com/jiezhengj/NotePipe
-downloads: 21
+downloads: 34
 updated at: "2026-07-15T07:59:07Z"
 related to:
   - "[[GitHub - 1300318507]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy selected text with its file path and line numbers as a Markdown blockquote for direct pasting into AI terminals. Show a floating button near selections in edit and reading modes, handle file-explorer selections, output absolute filesystem paths, and apply a customizable template with path/line/selection variables."
 
     stats: {
-        downloads:  21
+        downloads:  34
         updated_at: 1784102347000
     }
 }

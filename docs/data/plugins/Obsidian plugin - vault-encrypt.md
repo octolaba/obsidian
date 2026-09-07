@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-encrypt
 alt:
   - https://github.com/pluppen/obsidian-vault-encrypt-plugin
-downloads: 736
+downloads: 822
 updated at: "2025-10-06T18:32:09Z"
 related to:
   - "[[GitHub - 1029272710]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Encrypt your entire vault into unreadable files and decrypt with a master password. Keep files encrypted across restarts and control encryption from a lock icon. Back up your vault and remember your password; plugin is early-stage and not security-audited."
 
     stats: {
-        downloads:  736
+        downloads:  822
         updated_at: 1759775529000
     }
 }

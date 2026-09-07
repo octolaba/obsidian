@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/maps
 alt:
   - https://github.com/obsidianmd/obsidian-maps
-downloads: 47031
-updated at: "2025-11-23T22:49:47Z"
+downloads: 52904
+updated at: "2026-08-01T14:56:31Z"
 related to:
   - "[[GitHub - 1063443797]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add a map layout to Obsidian Bases to display notes as an interactive, browsable map. Display dynamic markers that match filters, apply marker icons and colors from note properties, load custom background tiles, and set default zoom options."
 
     stats: {
-        downloads:  47031
-        updated_at: 1763938187000
+        downloads:  52904
+        updated_at: 1785596191000
     }
 }
 ```

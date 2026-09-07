@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/custom-sidebar-icons
 alt:
   - https://github.com/raven-pensieve/obsidian-custom-icons
-downloads: 13058
+downloads: 13380
 updated at: "2026-06-28T05:10:25Z"
 related to:
   - "[[GitHub - 775954071]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Customize icons for notes, folders, and the Settings page to give your vault clearer visual organization. Apply per-file or per-folder icons with the remastered v1.0 aligned to Obsidian 1.11; be aware CSS-based configurations were removed and breaking changes may require migration."
 
     stats: {
-        downloads:  13058
+        downloads:  13380
         updated_at: 1782623425000
     }
 }

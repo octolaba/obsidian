@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/attachment-management
 alt:
   - https://github.com/trganda/obsidian-attachment-management
-downloads: 73542
+downloads: 76588
 updated at: "2026-05-26T02:14:50Z"
 related to:
   - "[[GitHub - 637269474]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set flexible attachment paths using variables like ${notepath}, ${notename}, ${date}, ${md5}, and ${originalname}. Auto-rename and relocate pasted or dropped files, override path rules per folder, file, or extension, and run a rearrange command to rename/move linked attachments across your vault."
 
     stats: {
-        downloads:  73542
+        downloads:  76588
         updated_at: 1779761690000
     }
 }

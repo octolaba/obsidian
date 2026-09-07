@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tategaki
 alt:
   - https://github.com/cat-left-paw/tategaki-plugin-release
-downloads: 2333
+downloads: 2763
 updated at: "2026-05-28T18:24:26Z"
 related to:
   - "[[GitHub - 1123852460]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit and view Markdown in a vertical (tategaki) layout on desktop with inline source editing and keyboard navigation tuned for vertical text. Show ruby (furigana), TCY, images/embeds, outline navigation and folding, outliner-style list editing, and Book mode with measured pagination."
 
     stats: {
-        downloads:  2333
+        downloads:  2763
         updated_at: 1779992666000
     }
 }

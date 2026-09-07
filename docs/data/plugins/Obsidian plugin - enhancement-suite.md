@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/enhancement-suite
 alt:
   - https://github.com/lemon695/obsidian-enhancement-suite
-downloads: 227
+downloads: 334
 updated at: "2026-06-10T08:18:29Z"
 related to:
   - "[[GitHub - 1185909831]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bundle multiple independently configurable modules into one plugin with automatic English/Simplified Chinese switching. Validate frontmatter in real time and summarize or batch-edit properties, sort and filter table columns, view and edit JSON with a tree viewer, export clean Markdown/standalone HTML or PDF, perform cross-file search-and-replace, and show live note statistics."
 
     stats: {
-        downloads:  227
+        downloads:  334
         updated_at: 1781079509000
     }
 }

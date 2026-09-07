@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rmarkdown-reader
 alt:
   - https://github.com/jaskonas/obsidian-rmarkdown
-downloads: 181
+downloads: 207
 updated at: "2026-05-26T16:44:28Z"
 related to:
   - "[[GitHub - 1214630760]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open and edit RMarkdown (.rmd/.Rmd) files directly in your vault while keeping them as .rmd. Show labeled headers for code chunks (engine, name, options), mark inline R expressions with badges, and index .rmd files for search and graph views with theme-aware styling."
 
     stats: {
-        downloads:  181
+        downloads:  207
         updated_at: 1779813868000
     }
 }

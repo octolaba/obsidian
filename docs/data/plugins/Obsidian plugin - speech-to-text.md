@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/speech-to-text
 alt:
   - https://github.com/asyouplz/SpeechNote
-downloads: 298
+downloads: 355
 updated at: "2026-05-18T08:34:49Z"
 related to:
   - "[[GitHub - 1044216061]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transcribe audio recordings to text directly in Obsidian using multiple AI providers with automatic provider selection and speaker diarization. Insert transcripts at the cursor or create new notes, support 40+ languages with auto language detection, and handle batch files with real-time progress."
 
     stats: {
-        downloads:  298
+        downloads:  355
         updated_at: 1779093289000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/contact-cards
 alt:
   - https://github.com/aegixx/obsidian-contact-cards
-downloads: 1769
+downloads: 1798
 updated at: "2026-02-04T18:55:48Z"
 related to:
   - "[[GitHub - 903013498]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render YAML contact-card code blocks as clean, interactive contact cards in preview mode. Populate profile photos and company logos from email or vault images, show name, title, company, email, phone and location, and make fields clickable."
 
     stats: {
-        downloads:  1769
+        downloads:  1798
         updated_at: 1770231348000
     }
 }

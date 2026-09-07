@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kavita-sync
 alt:
   - https://github.com/davidlbowman/kavita-to-obsidian
-downloads: 299
+downloads: 313
 updated at: "2026-05-16T01:48:51Z"
 related to:
   - "[[GitHub - 1110923074]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync annotations, highlights, and notes from Kavita into your Obsidian vault. Choose hierarchical folders (per-series/per-book Markdown files with rich frontmatter and wiki links) or a single-file export that groups all annotations by series and chapter."
 
     stats: {
-        downloads:  299
+        downloads:  313
         updated_at: 1778896131000
     }
 }

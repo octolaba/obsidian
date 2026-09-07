@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/okb
 alt:
   - https://github.com/dgalichet/obsidian-kb-plugin
-downloads: 372
+downloads: 433
 updated at: "2026-07-08T05:18:31Z"
 related to:
   - "[[GitHub - 1248139665]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Vault Knowledge Base turns your Obsidian vault into a local retrieval layer for AI agents. Search with lexical, semantic, and graph-aware indexing, expose the same local knowledge base through MCP, and keep your notes on your machine. See https://dgalichet.github.io/obsidian-kb/ for more informations"
 
     stats: {
-        downloads:  372
+        downloads:  433
         updated_at: 1783487911000
     }
 }

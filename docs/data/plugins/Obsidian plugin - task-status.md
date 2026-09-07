@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/task-status
 alt:
   - https://github.com/vburzynski/obsidian-task-status
-downloads: 9821
+downloads: 10049
 updated at: "2026-06-16T17:47:02Z"
 related to:
   - "[[GitHub - 665197937]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Change any task status in selected lines or at the cursor using a searchable quick menu with fuzzy search. Swap existing checkbox markers or convert plain text into tasks and choose from configurable status markers that rely on your theme or CSS for styling."
 
     stats: {
-        downloads:  9821
+        downloads:  10049
         updated_at: 1781632022000
     }
 }

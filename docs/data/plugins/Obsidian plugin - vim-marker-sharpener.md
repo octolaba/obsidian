@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vim-marker-sharpener
 alt:
   - https://github.com/artemdvoryadkin/obsidian-vim-marker-sharpener
-downloads: 424
+downloads: 457
 updated at: "2025-06-10T07:47:37Z"
 related to:
   - "[[GitHub - 965966466]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format selected text in VIM VISUAL and VISUAL LINE modes as bold, italic, strikethrough, code, or comment with a single command. Combine multiple styles, strip formatting, and trigger formatting from NORMAL mode or via vim leader keys and hotkeys."
 
     stats: {
-        downloads:  424
+        downloads:  457
         updated_at: 1749541657000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bases-chart
 alt:
   - https://github.com/kevinmcaleer/obsidian-bases-chart
-downloads: 501
+downloads: 611
 updated at: "2026-06-17T14:41:24Z"
 related to:
   - "[[GitHub - 1212481082]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize Obsidian Bases data as charts directly inside notes. Use SQL or the inline visual editor to build bar, column, pie, doughnut, gauge, line, GitHub-style calendar heatmap, or stat KPI charts; support multi-metric queries, multi-source comparison/UNION, date bucketing, custom colors and data labels."
 
     stats: {
-        downloads:  501
+        downloads:  611
         updated_at: 1781707284000
     }
 }

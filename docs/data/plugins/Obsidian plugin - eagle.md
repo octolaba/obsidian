@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/eagle
 alt:
   - https://github.com/goberomsu/obsidian-eagle-plugin
-downloads: 1563
+downloads: 1781
 updated at: "2026-05-22T06:24:20Z"
 related to:
   - "[[GitHub - 1016354770]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Paste images into notes to auto-upload to Eagle and render via a local cache, keeping your vault lean. Search and insert images from your Eagle library with thumbnails, smart deduplication, folder mapping and Canvas support. Work offline with cached thumbnails and automatic cache sync."
 
     stats: {
-        downloads:  1563
+        downloads:  1781
         updated_at: 1779431060000
     }
 }

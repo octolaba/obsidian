@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-trim-whitespace
 alt:
   - https://github.com/zlovatt/obsidian-trim-whitespace
-downloads: 15255
+downloads: 15443
 updated at: "2025-12-03T18:26:02Z"
 related to:
   - "[[GitHub - 508105394]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Trim unnecessary blank characters—spaces, tabs, and extra blank lines—from your notes. Target trailing, leading, or multiple consecutive whitespace in a document or selection, preserve code blocks and indented lists, and run manually or automatically."
 
     stats: {
-        downloads:  15255
+        downloads:  15443
         updated_at: 1764786362000
     }
 }

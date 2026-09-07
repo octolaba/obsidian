@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/telegram-inbox
 alt:
   - https://github.com/icealtria/obsidian-telegram-inbox
-downloads: 6418
+downloads: 6571
 updated at: "2026-07-11T17:01:54Z"
 related to:
   - "[[GitHub - 771627176]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Receive messages from Telegram bots and append them to your Obsidian daily note for centralized logging and journaling. Whitelist Telegram usernames or IDs to control senders; incoming messages remain on Telegram for up to 24 hours if the plugin is offline."
 
     stats: {
-        downloads:  6418
+        downloads:  6571
         updated_at: 1783789314000
     }
 }

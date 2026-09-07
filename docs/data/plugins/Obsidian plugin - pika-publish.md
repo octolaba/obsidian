@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pika-publish
 alt:
   - https://github.com/otaviocc/obsidian-pika
-downloads: 116
+downloads: 136
 updated at: "2026-05-26T18:56:44Z"
 related to:
   - "[[GitHub - 1210260531]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish notes to your Pika blog via the Micropub API straight from your vault. Find and upload local images, replace links with hosted URLs, and cache mappings in note properties for quick re-publishes. Use YAML frontmatter or defaults for title, tags, visibility (Draft/Public), and save the post URL for updates."
 
     stats: {
-        downloads:  116
+        downloads:  136
         updated_at: 1779821804000
     }
 }

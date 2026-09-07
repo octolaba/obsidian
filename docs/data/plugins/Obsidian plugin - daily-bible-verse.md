@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/daily-bible-verse
 alt:
   - https://github.com/polygonhunter/daily-bible-verse
-downloads: 1
-updated at: "2026-07-23T19:31:54Z"
+downloads: 63
+updated at: "2026-07-25T18:08:22Z"
 related to:
   - "[[GitHub - 1310019049]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Insert a daily Bible verse into your daily note as a plain-markdown callout with localized book references and attribution. Provide offline, deterministic verses across five languages and public-domain translations, with a seeded no-repeat rotation, configurable verse pools, and a daily re-roll."
 
     stats: {
-        downloads:  1
-        updated_at: 1784835114000
+        downloads:  63
+        updated_at: 1785002902000
     }
 }
 ```

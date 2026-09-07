@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/adamantine-pick
 alt:
   - https://github.com/notlibrary/obsidian-adamantine-pick
-downloads: 5407
+downloads: 5441
 updated at: "2026-04-04T06:09:19Z"
 related to:
   - "[[GitHub - 593803551]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Pikchr diagrams to inline SVG inside Obsidian notes, client-side and offline without installing or compiling Pikchr. Convert fenced pikchr code blocks into viewable diagrams and expose embeddable SVG for styling or scripting."
 
     stats: {
-        downloads:  5407
+        downloads:  5441
         updated_at: 1775282959000
     }
 }

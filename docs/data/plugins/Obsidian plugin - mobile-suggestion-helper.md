@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mobile-suggestion-helper
 alt:
   - https://github.com/pjkaufman/obsidian-mobile-suggester-helper
-downloads: 85
+downloads: 96
 updated at: "2026-05-01T05:13:32Z"
 related to:
   - "[[GitHub - 743277585]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Navigate the mobile link suggester by moving the highlighted entry up or down and selecting the desired file. Select specific files from the dropdown—including non-first results—and choose headings or block anchors to insert precise links."
 
     stats: {
-        downloads:  85
+        downloads:  96
         updated_at: 1777612412000
     }
 }

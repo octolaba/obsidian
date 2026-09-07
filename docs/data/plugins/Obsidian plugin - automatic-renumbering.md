@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/automatic-renumbering
 alt:
   - https://github.com/omrilevigit/Auto-List-Management-Obsidian
-downloads: 8209
+downloads: 8350
 updated at: "2026-04-15T09:49:33Z"
 related to:
   - "[[GitHub - 848824761]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reorder lists and checklists automatically in Obsidian. Keep hierarchical checkbox blocks together, auto-renumber numbered lists, sort checked items to top or bottom, and handle pastes, drags, and deep nesting with high performance."
 
     stats: {
-        downloads:  8209
+        downloads:  8350
         updated_at: 1776246573000
     }
 }

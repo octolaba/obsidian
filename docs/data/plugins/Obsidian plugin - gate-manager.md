@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/gate-manager
 alt:
   - https://github.com/anandrajbaghel/obsidian-gate-manager
-downloads: 88
-updated at: "2026-07-18T03:10:20Z"
+downloads: 128
+updated at: "2026-08-10T12:35:35Z"
 related to:
   - "[[GitHub - 1296493460]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync your vault with the official GATE study repository and download the latest notes, diagrams, and resources with a single click. Preserve your highlights and personal notes during updates and read built-in release notes from the dashboard."
 
     stats: {
-        downloads:  88
-        updated_at: 1784344220000
+        downloads:  128
+        updated_at: 1786365335000
     }
 }
 ```

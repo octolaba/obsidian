@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/better-footnote
 alt:
   - https://github.com/alcatrazyu/better-footnote
-downloads: 2086
-updated at: "2026-07-04T12:52:10Z"
+downloads: 3413
+updated at: "2026-08-09T15:28:54Z"
 related to:
   - "[[GitHub - 1240290598]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Open a right sidebar to edit Markdown footnote definitions with normal selection, multiline input, and auto-save to the source note. Jump from footnote cards to their reference (briefly outlined), show numeric labels while preserving [^id], and remember positions per file."
 
     stats: {
-        downloads:  2086
-        updated_at: 1783169530000
+        downloads:  3413
+        updated_at: 1786289334000
     }
 }
 ```

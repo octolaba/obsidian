@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mindmap
 alt:
   - https://github.com/onecalmcloud/obsidian-mindmap
-downloads: 17687
+downloads: 18133
 updated at: "2026-06-23T15:54:45Z"
 related to:
   - "[[GitHub - 783793953]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create interactive, editable mindmaps from your Markdown notes with a vue3-mindmap visual editor inside Obsidian. Generate mindmap files in your vault and edit nodes visually; note the plugin is early-stage and may be unstable."
 
     stats: {
-        downloads:  17687
+        downloads:  18133
         updated_at: 1782230085000
     }
 }

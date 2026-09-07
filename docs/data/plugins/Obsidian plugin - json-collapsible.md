@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/json-collapsible
 alt:
   - https://github.com/n1az/json-collapsible
-downloads: 254
+downloads: 273
 updated at: "2026-01-05T01:43:19Z"
 related to:
   - "[[GitHub - 1127977882]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display JSON as interactive, collapsible trees with color-coded values for strings, numbers, booleans, and null. Render quickly on desktop and mobile with a lightweight viewer. Convert standard JSON code blocks into readable, expandable views inside notes."
 
     stats: {
-        downloads:  254
+        downloads:  273
         updated_at: 1767577399000
     }
 }

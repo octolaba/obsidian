@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/standing-questions
 alt:
   - https://github.com/israerusan/standing-questions
-downloads: 21
-updated at: "2026-07-17T00:04:10Z"
+downloads: 38
+updated at: "2026-07-25T17:37:14Z"
 related to:
   - "[[GitHub - 1302216954]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Track open questions as first-class notes with statuses and parent/sub-question links. Watch new notes for possible answers, notify you of matches, propagate status upward when sub-questions resolve, and detect/report cycles. Keep notes unchanged by default and only write status lines to frontmatter when enabled."
 
     stats: {
-        downloads:  21
-        updated_at: 1784246650000
+        downloads:  38
+        updated_at: 1785001034000
     }
 }
 ```

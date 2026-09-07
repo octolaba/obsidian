@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/vaultchat
 alt:
   - https://github.com/kpulik/Chatsidian
-downloads: 299
-updated at: "2026-03-27T15:18:05Z"
+downloads: 379
+updated at: "2026-07-30T05:37:45Z"
 related to:
   - "[[GitHub - 1192173130]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Chat with multiple AI providers inside Obsidian and attach vault files or the active note as context so models see your full file tree. Edit, create, or delete files via AI proposals with diff previews, stream responses in real time, and resume searchable, per-vault conversation history."
 
     stats: {
-        downloads:  299
-        updated_at: 1774624685000
+        downloads:  379
+        updated_at: 1785389865000
     }
 }
 ```

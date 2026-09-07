@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/brain-atlas
 alt:
   - https://github.com/colorpulse6/brain-atlas
-downloads: 2649
-updated at: "2026-06-15T05:33:30Z"
+downloads: 3477
+updated at: "2026-08-04T13:46:42Z"
 related to:
   - "[[GitHub - 1252362861]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render your Obsidian vault as an interactive 3D anatomical brain. Notes become neural nodes, wikilinks become pathways, and folders, tags, or frontmatter can be mapped into brain regions so the atlas reflects how your vault is actually organized. Toggle regions and labels, inspect classification decisions, open notes from the graph, switch palettes, and tune performance while keeping all rendering local to your vault."
 
     stats: {
-        downloads:  2649
-        updated_at: 1781501610000
+        downloads:  3477
+        updated_at: 1785851202000
     }
 }
 ```

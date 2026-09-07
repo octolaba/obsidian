@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian42-strange-new-worlds
 alt:
   - https://github.com/tfthacker/obsidian42-strange-new-worlds
-downloads: 131595
+downloads: 133429
 updated at: "2026-04-04T07:03:04Z"
 related to:
   - "[[GitHub - 490661732]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reveal connections between notes, links, block references, and embeds across your vault. Resurface related files and hidden associations discreetly so you can explore your notes' networked structure without disruption."
 
     stats: {
-        downloads:  131595
+        downloads:  133429
         updated_at: 1775286184000
     }
 }

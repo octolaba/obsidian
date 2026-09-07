@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-audio-player
 alt:
   - https://github.com/noonesimg/obsidian-audio-player
-downloads: 19623
+downloads: 19893
 updated at: "2022-12-14T16:12:19Z"
 related to:
   - "[[GitHub - 564811862]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Play a single audio instance across your vault with a persistent wave visualizer that keeps audio playing even when you close the note. Add bookmarks by double-clicking the waveform or by listing timestamped chapters inside an audio-player block, and control playback with Pause/Resume commands."
 
     stats: {
-        downloads:  19623
+        downloads:  19893
         updated_at: 1671034339000
     }
 }

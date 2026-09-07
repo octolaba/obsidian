@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/linkmind
 alt:
   - https://github.com/qiuos/linkmind
-downloads: 634
+downloads: 927
 updated at: "2026-05-17T10:40:39Z"
 related to:
   - "[[GitHub - 1241285432]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Edit Markdown notes as interactive mind maps that render headings and lists into a clean SVG/DOM tree and sync every change back to plain Markdown. Reorganize maps with keyboard and drag-and-drop, add emoji and #tags, follow [[wikilinks]] across branches, and export maps or branches as SVG/PNG."
 
     stats: {
-        downloads:  634
+        downloads:  927
         updated_at: 1779014439000
     }
 }

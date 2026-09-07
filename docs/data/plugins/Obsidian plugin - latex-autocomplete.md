@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/latex-autocomplete
 alt:
   - https://github.com/yanis-gerst/latex-autocomplete
-downloads: 880
+downloads: 922
 updated at: "2025-11-19T09:18:15Z"
 related to:
   - "[[GitHub - 689256891]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show LaTeX command suggestions as you type \"\\\" and complete commands with a single selection. Support simple shortcut expansions (for example \"\\a/b\" → \"\\frac{a}{b}\") to speed LaTeX input."
 
     stats: {
-        downloads:  880
+        downloads:  922
         updated_at: 1763543895000
     }
 }

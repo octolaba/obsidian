@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/share-via-notepad-tab
 alt:
   - https://github.com/revolter/obsidian-share-via-notepad-tab-plugin
-downloads: 402
+downloads: 409
 updated at: "2025-12-21T19:15:52Z"
 related to:
   - "[[GitHub - 832275531]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Share entire notes or highlighted selections to Notepad Tab directly from Obsidian. Invoke dedicated commands from the Command Palette to post the current note or the current selection to Notepad Tab."
 
     stats: {
-        downloads:  402
+        downloads:  409
         updated_at: 1766344552000
     }
 }

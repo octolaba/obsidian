@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/task-tree
 alt:
   - https://github.com/aldorithm392/obsidian-task-tree
-downloads: 1
+downloads: 79
 updated at: "2026-07-24T05:15:54Z"
 related to:
   - "[[GitHub - 1310575236]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create deeply nested task trees and view the same items as a Kanban board while keeping everything as plain Markdown checklists. Limit changes to opt-in files (type: task-tree) and write only minimal metadata: status, ^id, [tt-override:: …], and [tt-blocked-by:: …]."
 
     stats: {
-        downloads:  1
+        downloads:  79
         updated_at: 1784870154000
     }
 }

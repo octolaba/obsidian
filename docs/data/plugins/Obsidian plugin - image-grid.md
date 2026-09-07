@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-grid
 alt:
   - https://github.com/skydiver/obsidian-image-grid
-downloads: 994
+downloads: 1134
 updated at: "2026-02-10T15:08:35Z"
 related to:
   - "[[GitHub - 1154555680]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render images in a responsive CSS grid using image-grid fenced code blocks. Set columns, gap, and per-image max-width with inline options or pipe syntax, and open images in a fullscreen lightbox for quick preview."
 
     stats: {
-        downloads:  994
+        downloads:  1134
         updated_at: 1770736115000
     }
 }

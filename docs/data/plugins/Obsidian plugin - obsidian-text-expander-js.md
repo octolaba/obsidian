@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-text-expander-js
 alt:
   - https://github.com/jon-heard/obsidian-inline-scripts
-downloads: 15576
+downloads: 15680
 updated at: "2022-12-13T05:17:25Z"
 related to:
   - "[[GitHub - 496966438]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Replace typed shortcuts with JavaScript-generated expansions that insert dynamic text (dates, names, parameterized results, and more) directly into notes. Create and edit shortcut scripts, run them on any platform and editor (mobile, CM6/CM5), and chain or parametrize expansions for advanced automation."
 
     stats: {
-        downloads:  15576
+        downloads:  15680
         updated_at: 1670908645000
     }
 }

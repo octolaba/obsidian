@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sync-config-folder-to-common-folder
 alt:
   - https://github.com/codeonquer/obsidian-sync-config-folder-to-common-folder
-downloads: 1149
+downloads: 1162
 updated at: "2024-12-16T09:54:28Z"
 related to:
   - "[[GitHub - 777613913]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync the Vault's dot-prefixed Obsidian config folder to a normal folder and restore it back with Sync and Restore commands. Specify the common folder with a relative path (from the Vault root) or an absolute path."
 
     stats: {
-        downloads:  1149
+        downloads:  1162
         updated_at: 1734342868000
     }
 }

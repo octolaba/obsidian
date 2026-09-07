@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/mdx-preview
 alt:
   - https://github.com/jovialio/obsidian-mdx
-downloads: 151
-updated at: "2026-07-12T12:34:54Z"
+downloads: 214
+updated at: "2026-08-05T12:58:06Z"
 related to:
   - "[[GitHub - 1284526622]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Preview MDX files in Obsidian and render JSX and embedded JavaScript after a security confirmation. View Code Hike examples for interactive, annotated code walkthroughs."
 
     stats: {
-        downloads:  151
-        updated_at: 1783859694000
+        downloads:  214
+        updated_at: 1785934686000
     }
 }
 ```

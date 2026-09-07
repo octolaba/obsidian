@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-loom
 alt:
   - https://github.com/woxin667/Canvas-Loom
-downloads:
-updated at:
+downloads: 780
+updated at: "2026-07-25T15:55:49Z"
 related to:
   - "[[GitHub - 1033928688]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/woxin667/Canvas-Loom"
     description: "Add functionality to the Canvas for merging, splitting, copying content, and adding markers. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Split long Canvas text cards by custom delimiters or Markdown headings into multiple new cards. Copy, merge and preview selected cards, then export results to the clipboard, new canvas cards or Markdown documents. Add numeric, text or emoji tags and view or batch-edit card properties like size and position."
+
+    stats: {
+        downloads:  780
+        updated_at: 1784994949000
+    }
 }
 ```
 

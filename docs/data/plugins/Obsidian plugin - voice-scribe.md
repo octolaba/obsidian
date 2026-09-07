@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/voice-scribe
 alt:
   - https://github.com/mrrepac/voice-scribe
-downloads: 131
-updated at: "2026-07-10T02:01:34Z"
+downloads: 273
+updated at: "2026-08-04T21:13:56Z"
 related to:
   - "[[GitHub - 1295848384]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Record voice notes and transcribe them locally with Whisper, fully offline and without cloud services or API keys. Insert transcripts into the last-focused input or a new note, transcribe existing audio files, and use toggle or push-to-talk hotkeys; works on desktop and mobile."
 
     stats: {
-        downloads:  131
-        updated_at: 1783648894000
+        downloads:  273
+        updated_at: 1785878036000
     }
 }
 ```

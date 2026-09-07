@@ -12,8 +12,8 @@ tags:
 url: https://community.obsidian.md/plugins/kkh
 alt:
   - https://github.com/okikae/obsid-kkh
-downloads: 247
-updated at: "2025-08-10T13:40:00Z"
+downloads: 275
+updated at: "2026-08-08T11:54:37Z"
 related to:
   - "[[GitHub - 899987884]]"
 remind me:
@@ -36,8 +36,8 @@ plugin: {
     about:       "Convert selected text between historical and modern Japanese orthography, including kyūjitai/kyūkana and shinjitai/shinkana, old/new kana usage, odori-ji, contracted kana, y-row e, and historical katakana. Execute conversions directly from the editor via menu or command."
 
     stats: {
-        downloads:  247
-        updated_at: 1754833200000
+        downloads:  275
+        updated_at: 1786190077000
     }
 }
 ```

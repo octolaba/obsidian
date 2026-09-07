@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/pycalc
 alt:
   - https://github.com/pycalc-plugin/obsidian
-downloads: 1593
+downloads: 1623
 updated at: "2024-12-20T19:18:36Z"
 related to:
   - "[[GitHub - 888578410]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Execute Python code inline in the editor by pressing Enter. Run Brython 3.13-powered Python directly in your notes for quick calculations and simple scripting."
 
     stats: {
-        downloads:  1593
+        downloads:  1623
         updated_at: 1734722316000
     }
 }

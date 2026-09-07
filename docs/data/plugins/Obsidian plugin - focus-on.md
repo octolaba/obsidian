@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/focus-on
 alt:
   - https://github.com/lavton/obsidian-connections-to-tag
-downloads: 67
+downloads: 73
 updated at: "2026-06-17T23:41:38Z"
 related to:
   - "[[GitHub - 687045054]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Focus on a subset of your vault by selecting a folder, tag, or starting note to isolate a topic. Collect related notes from search results or follow directional connections and rules to expand the set, then view only those notes in the graph."
 
     stats: {
-        downloads:  67
+        downloads:  73
         updated_at: 1781739698000
     }
 }

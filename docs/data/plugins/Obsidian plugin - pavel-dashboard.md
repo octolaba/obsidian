@@ -4,7 +4,7 @@ xid:
   - pavel-dashboard
 aliases:
   - pavel-dashboard
-  - Focus Workbench
+  - Omni Workbench
   - pavelpeng7/obsidian-ultra-dashboard
 tags:
   - type/bookmark
@@ -13,21 +13,21 @@ tags:
 url: https://community.obsidian.md/plugins/pavel-dashboard
 alt:
   - https://github.com/pavelpeng7/obsidian-ultra-dashboard
-downloads: 22
-updated at: "2026-07-23T17:41:56Z"
+downloads: 78
+updated at: "2026-08-05T18:21:38Z"
 related to:
   - "[[GitHub - 1308074311]]"
 remind me:
 ---
 
-# Focus Workbench
+# Omni Workbench
 
 Shows a local-first home dashboard built from the vault's Markdown and frontmatter, with current focus, an idea inbox and recent notes. A filtered task workbench covers today, active, in-progress, overdue and completed items, tasks can be created, edited and completed, and a focus timer runs per task. The recorded description states that all data stays local in each note's frontmatter.
 
 ```cue
 plugin: {
     id:     "pavel-dashboard"
-    name:   "Focus Workbench"
+    name:   "Omni Workbench"
     author: "pavel"
     repo:   "pavelpeng7/obsidian-ultra-dashboard"
 
@@ -37,8 +37,8 @@ plugin: {
     about:       "Display a home dashboard with current focus, idea inbox, and recent notes built from your vault's Markdown and frontmatter. Manage tasks with a filtered workbench (today, active, in‑progress, overdue, completed), create/edit/complete tasks, run a focus timer per task, and keep all data local in each note's frontmatter."
 
     stats: {
-        downloads:  22
-        updated_at: 1784828516000
+        downloads:  78
+        updated_at: 1785954098000
     }
 }
 ```

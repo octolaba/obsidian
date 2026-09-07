@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-intelligence
 alt:
   - https://github.com/cybaea/obsidian-vault-intelligence
-downloads: 3384
+downloads: 3658
 updated at: "2026-07-10T06:18:13Z"
 related to:
   - "[[GitHub - 1124658086]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Maintain your vault as a self-updating knowledge system by running agents that find gaps, audit and unify tags, and retrieve context based on explicit links via Graph RAG. Refresh outdated notes with live web searches and run secure local agents or optional offline models so your data never leaves your device."
 
     stats: {
-        downloads:  3384
+        downloads:  3658
         updated_at: 1783664293000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-connections-visualizer
 alt:
   - https://github.com/mossy1022/Smart-Connections-Visualizer
-downloads: 36130
+downloads: 36711
 updated at: "2026-01-06T18:09:59Z"
 related to:
   - "[[GitHub - 807701365]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize connections for a single note as an interactive force-directed graph. Adjust node and link appearance, tweak repel/link/center forces and relevance-based distances, and preview notes by hovering nodes to explore relationships and insights."
 
     stats: {
-        downloads:  36130
+        downloads:  36711
         updated_at: 1767722999000
     }
 }

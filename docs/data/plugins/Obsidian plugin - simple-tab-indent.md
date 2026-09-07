@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-tab-indent
 alt:
   - https://github.com/hoomersinpsom/simple-tab-indent
-downloads: 5920
+downloads: 6245
 updated at: "2025-04-24T19:24:19Z"
 related to:
   - "[[GitHub - 972248380]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert a zero-width space plus a real tab to prevent Markdown from treating indented lines as code blocks while preserving true tab width in the editor. Work in Source Mode and Live Preview and configure the rendered tab width. Note that indented tasks or list items won't be recognized by Obsidian's task features, search, or task plugins."
 
     stats: {
-        downloads:  5920
+        downloads:  6245
         updated_at: 1745522659000
     }
 }

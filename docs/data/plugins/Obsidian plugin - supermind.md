@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/supermind
 alt:
   - https://github.com/springrain1/obsidian-xmind-plugin
-downloads: 2825
+downloads: 3466
 updated at: "2026-06-09T10:38:43Z"
 related to:
   - "[[GitHub - 1103919596]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and edit interactive mind maps directly inside Obsidian with a WYSIWYG canvas, drag-and-drop layout, multiple themes and rich text support (tables, callouts, code blocks). Sync maps bidirectionally with Markdown, expand nodes with AI across multiple providers, export to PNG/JPEG/SVG or XMind, and rely on enterprise-grade stability."
 
     stats: {
-        downloads:  2825
+        downloads:  3466
         updated_at: 1781001523000
     }
 }

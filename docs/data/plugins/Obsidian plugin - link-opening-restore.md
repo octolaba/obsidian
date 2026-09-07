@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/link-opening-restore
 alt:
   - https://github.com/smallzombie/link-opening-restore
-downloads: 676
+downloads: 699
 updated at: "2026-03-08T02:37:31Z"
 related to:
   - "[[GitHub - 896390635]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Restore link-opening behavior to Ctrl+Left Click in edit mode. Use Ctrl+Left Click to open in the current tab, Ctrl+Shift+Left Click to open in a new tab, and Ctrl+Shift+Alt+Left Click to open in a new window."
 
     stats: {
-        downloads:  676
+        downloads:  699
         updated_at: 1772937451000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/smart-export
 alt:
   - https://github.com/littlehaku/obsidian-smart-export
-downloads: 3628
-updated at: "2026-05-17T12:02:37Z"
+downloads: 3975
+updated at: "2026-08-05T16:34:28Z"
 related to:
   - "[[GitHub - 1006536615]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Build a linked note tree from a root note and export it in XML, print-friendly Markdown, or customizable Markdown templates formatted for both humans and LLMs. Control link direction, content vs title depth, exclude folders/tags/properties, rewrite links to Obsidian heading links, and export to clipboard or a new note with a token estimate."
 
     stats: {
-        downloads:  3628
-        updated_at: 1779019357000
+        downloads:  3975
+        updated_at: 1785947668000
     }
 }
 ```

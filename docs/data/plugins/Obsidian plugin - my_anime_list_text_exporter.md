@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/my_anime_list_text_exporter
 alt:
   - https://github.com/xmoncoco/my_anime_list_text_exporter
-downloads: 3298
+downloads: 3321
 updated at: "2025-12-05T07:25:14Z"
 related to:
   - "[[GitHub - 737377044]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create Obsidian notes from your MyAnimeList entries with synopsis, MAL links, tags, and character pages. Generate individual anime pages or folders and add checklists to track and organize your collection."
 
     stats: {
-        downloads:  3298
+        downloads:  3321
         updated_at: 1764919514000
     }
 }

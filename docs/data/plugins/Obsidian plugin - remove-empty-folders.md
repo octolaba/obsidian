@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/remove-empty-folders
 alt:
   - https://github.com/fnya/remove-empty-folders
-downloads: 3558
+downloads: 3578
 updated at: "2023-12-02T14:47:23Z"
 related to:
   - "[[GitHub - 709336905]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Remove empty folders from selected locations in the file explorer. Run repeatedly to clear nested empties; removed folders are moved to Obsidian's .trash for easy recovery."
 
     stats: {
-        downloads:  3558
+        downloads:  3578
         updated_at: 1701528443000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gslogimaker-my-bible
 alt:
   - https://github.com/gslogimaker/my-bible-obsidian-plugin
-downloads: 9983
+downloads: 10191
 updated at: "2026-03-29T15:28:13Z"
 related to:
   - "[[GitHub - 735191764]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a customizable Markdown Bible inside your vault with one note per chapter and on-demand verse text. Read and populate verses as you go, access or download multiple translations and switch between them without breaking links, while linking to any verse and exploring connections in the Graph View."
 
     stats: {
-        downloads:  9983
+        downloads:  10191
         updated_at: 1774798093000
     }
 }

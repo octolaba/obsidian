@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bases-buttons
 alt:
   - https://github.com/imed-ghomari/obsidian-bases-buttons
-downloads: 347
+downloads: 530
 updated at: "2026-06-22T12:56:00Z"
 related to:
   - "[[GitHub - 1255052417]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Define button properties (e.g., button.run) and render clickable buttons in Base tables. Run configured Templater templates against the Base row’s note, even when it isn’t open."
 
     stats: {
-        downloads:  347
+        downloads:  530
         updated_at: 1782132960000
     }
 }

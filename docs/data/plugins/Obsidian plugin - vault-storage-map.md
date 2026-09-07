@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-storage-map
 alt:
   - https://github.com/dimar4713/vault-storage-map
-downloads: 80
+downloads: 114
 updated at: "2026-07-13T16:50:26Z"
 related to:
   - "[[GitHub - 1299315892]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Map disk usage inside your vault with an interactive treemap, folder drill-down, and ranked largest-folder and largest-file tables. Compare scans, view file-type stats and diagnostic warnings for oversized files and common vault issues, export Markdown/CSV/JSON reports, and keep all data local with read-only scanning and optional cached scans."
 
     stats: {
-        downloads:  80
+        downloads:  114
         updated_at: 1783961426000
     }
 }

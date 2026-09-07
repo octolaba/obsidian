@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/codesplash-themes
 alt:
   - https://github.com/codesplash-ai/codesplash-themes
-downloads: 153
+downloads: 163
 updated at: "2026-05-16T21:11:26Z"
 related to:
   - "[[GitHub - 1163757326]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and manage custom color themes with a visual editor. Define a two-layer color palette, assign variables to semantic UI elements, and preview changes live. Edit, duplicate, rename or delete built-ins, import/export themes as JSON, and switch themes instantly."
 
     stats: {
-        downloads:  153
+        downloads:  163
         updated_at: 1778965886000
     }
 }

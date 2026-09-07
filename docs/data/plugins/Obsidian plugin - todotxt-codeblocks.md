@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/todotxt-codeblocks
 alt:
   - https://github.com/benjamonnguyen/obsidian-todotxt-codeblocks
-downloads: 4829
+downloads: 4847
 updated at: "2024-10-20T06:15:34Z"
 related to:
   - "[[GitHub - 671489278]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage Todo.txt tasks inside Obsidian via todotxt-style codeblocks. Link codeblocks to .txt files for two-way sync, sort and group tasks by project or context, preview and edit tasks inline, autocomplete projects/contexts, render Markdown links, and archive completed tasks."
 
     stats: {
-        downloads:  4829
+        downloads:  4847
         updated_at: 1729404934000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/meeting-detector
 alt:
   - https://github.com/yut0takagi/obsidian-meeting-detector
-downloads: 213
+downloads: 254
 updated at: "2026-05-30T17:00:26Z"
 related to:
   - "[[GitHub - 1202415352]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Detect Zoom, Google Meet, and Teams on macOS and prompt to start recording, create a meeting note, or both. Create templated notes with {{date}}, {{time}} and {{app}}, and optionally auto-stop recordings or notify when meetings end. Use the Audio Recorder core plugin for recording."
 
     stats: {
-        downloads:  213
+        downloads:  254
         updated_at: 1780160426000
     }
 }

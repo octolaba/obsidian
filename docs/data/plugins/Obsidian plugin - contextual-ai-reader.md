@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/contextual-ai-reader
 alt:
   - https://github.com/skye1349/contextual-ai-reader
-downloads: 145
-updated at: "2026-07-14T11:33:25Z"
+downloads: 196
+updated at: "2026-07-28T11:21:53Z"
 related to:
   - "[[GitHub - 1255063629]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "AI language-learning reader for Obsidian with contextual translation, vocabulary explanations, and bilingual Markdown notes."
 
     stats: {
-        downloads:  145
-        updated_at: 1784028805000
+        downloads:  196
+        updated_at: 1785237713000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jadou
 alt:
   - https://github.com/peter-yanase/jadou-obsidian
-downloads: 225
+downloads: 242
 updated at: "2026-04-29T06:42:24Z"
 related to:
   - "[[GitHub - 1170436571]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Look up readings and meanings for Japanese expressions, insert furigana, and add entries to a sortable glossary directly in Obsidian. Run entirely offline except for dictionary updates, handle inflected forms, support mobile and PDF files, and select sentences with one click or a hotkey."
 
     stats: {
-        downloads:  225
+        downloads:  242
         updated_at: 1777444944000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/floating-toc
 alt:
   - https://github.com/pkm-er/obsidian-floating-toc-plugin
-downloads: 136814
+downloads: 140216
 updated at: "2026-01-24T06:10:20Z"
 related to:
   - "[[GitHub - 462540904]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a floating table of contents that tracks and highlights the current heading in both reading and source modes. Support pop-out multi-window, collapse/expand sections via click, search titles, and customize appearance."
 
     stats: {
-        downloads:  136814
+        downloads:  140216
         updated_at: 1769235020000
     }
 }

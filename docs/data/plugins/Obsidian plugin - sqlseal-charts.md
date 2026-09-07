@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sqlseal-charts
 alt:
   - https://github.com/h-sphere/sql-seal-charts
-downloads: 2619
+downloads: 2664
 updated at: "2025-08-14T15:36:22Z"
 related to:
   - "[[GitHub - 921686463]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize SQLSeal query results with interactive ECharts charts. Use built-in chart types (line, bar, pie, scatter, heatmap) and access query results as ECharts datasets or via exposed data and functions for custom transformations."
 
     stats: {
-        downloads:  2619
+        downloads:  2664
         updated_at: 1755185782000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-vimrc-support
 alt:
   - https://github.com/esm7/obsidian-vimrc-support
-downloads: 149828
+downloads: 151281
 updated at: "2024-11-03T09:37:13Z"
 related to:
   - "[[GitHub - 309078472]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Load Vim commands from a .obsidian.vimrc file in your vault root to persist Vim keymaps and settings across sessions. Keep Obsidian's built-in Vim mode configured consistently and add Obsidian-aware extras like Ex-to-command mappings and system clipboard yanks."
 
     stats: {
-        downloads:  149828
+        downloads:  151281
         updated_at: 1730626633000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/lite-memo
 alt:
   - https://github.com/fengshuzi/lite-memo
-downloads: 351
-updated at: "2026-07-06T04:41:34Z"
+downloads: 463
+updated at: "2026-08-04T03:46:53Z"
 related to:
   - "[[GitHub - 1145757674]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Quickly jot down inspirations and random thoughts, like posting on Weibo, with a shortcut key to pop up an input box, automatically timestamp, and save as a daily Markdown log. Use smart keywords to automatically add tags, supporting tag aggregation and search. Convert inspiration directly into tasks and track time spent; a built-in Pomodoro timer and real-time updated log view, compatible with Logseq journal format."
 
     stats: {
-        downloads:  351
-        updated_at: 1783312894000
+        downloads:  463
+        updated_at: 1785815213000
     }
 }
 ```

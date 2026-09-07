@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pi-chat
 alt:
   - https://github.com/gengyabc/obsidian-pi-plugin
-downloads: 163
+downloads: 180
 updated at: "2026-07-08T15:12:09Z"
 related to:
   - "[[GitHub - 1231602076]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with the Pi coding agent inside Obsidian (desktop only) using a locally installed Pi binary. Render conversations as native Markdown with code highlighting, Mermaid, callouts, wiki-links and live streaming, plus expandable thinking blocks, collapsible tool outputs, image paste and file attachments. Manage sessions with a sidebar and header, auto-save chats as Markdown notes, browse/export Pi sessions, and switch models and Pi commands."
 
     stats: {
-        downloads:  163
+        downloads:  180
         updated_at: 1783523529000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/local-rest-api-periodic-notes
 alt:
   - https://github.com/coddingtonbear/obsidian-local-rest-api-periodic-notes
-downloads:
-updated at:
+downloads: 691
+updated at: "2026-07-25T04:27:55Z"
 related to:
   - "[[GitHub - 1311647352]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/coddingtonbear/obsidian-local-rest-api-periodic-notes"
     description: "Add periodic note endpoints for daily, weekly, monthly, quarterly, and yearly notes to the Local REST API, with an MCP tool for resolving the current note's path. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Restore periodic-note REST routes to Local REST API to read, create, append, patch, or delete daily, weekly, monthly, quarterly, and yearly notes, including targeting headings or blocks via trailing path segments. Provide an MCP tool to return or create the vault-relative path for the current periodic note and delegate folder/format/template logic to Daily Notes and Periodic Notes plugins."
+
+    stats: {
+        downloads:  691
+        updated_at: 1784953675000
+    }
 }
 ```
 

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/claude-panel-ryukyuhub
 alt:
   - https://github.com/ryukyuhub/obsidian-claude-panel-ryukyuhub
-downloads: 609
-updated at: "2026-07-02T09:56:24Z"
+downloads: 736
+updated at: "2026-07-26T11:48:05Z"
 related to:
   - "[[GitHub - 1228570407]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Adds a right-sidebar chat panel powered by Claude Code. The plugin spawns the `claude` CLI as a subprocess with your vault as its working directory, so reading, writing, searching, and running commands against your notes all happen in the editor. Features: streaming responses with tool-use pills and per-turn cost / duration, auto @-mention of the active note, paste-to-attach for clipboard images, captured editor / preview selections, session resume across turns, slash commands (/clear, /help, /model, /think, /mcp, /usage, /login), project-level MCP servers via `.mcp.json`, and a live account & rate-limit usage panel. Desktop only. Requires the `claude` CLI installed and signed in (Claude Pro / Max subscription, or an Anthropic API key). Uses `fs`, `child_process`, and clipboard access to run the CLI and capture pasted images. UI follows the editor's language setting (English or Japanese)."
 
     stats: {
-        downloads:  609
-        updated_at: 1782986184000
+        downloads:  736
+        updated_at: 1785066485000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-habit-tracker
 alt:
   - https://github.com/duoani/obsidian-habit-tracker
-downloads: 18925
+downloads: 18986
 updated at: "2021-09-17T16:21:24Z"
 related to:
   - "[[GitHub - 378315793]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a monthly punchboard for visualizing habit check-ins using a simple habitt code block. Specify the month with [month:YYYY-MM] to render a calendar view. Annotate days with tags or emojis (defaults to a checkmark when omitted) and optionally include links or images via HTML."
 
     stats: {
-        downloads:  18925
+        downloads:  18986
         updated_at: 1631895684000
     }
 }

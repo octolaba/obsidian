@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obs-text-wrapper
 alt:
   - https://github.com/smx0/obs-text-wrapper
-downloads: 5527
+downloads: 5565
 updated at: "2023-01-17T20:59:11Z"
 related to:
   - "[[GitHub - 587879418]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Wrap selected text with customizable HTML tags in the editor. Configure up to three preset tags and bind them to hotkeys or open a command-palette modal to enter a new tag; when no text is selected, insert the adjacent tag pair."
 
     stats: {
-        downloads:  5527
+        downloads:  5565
         updated_at: 1673989151000
     }
 }

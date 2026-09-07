@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-plantuml
 alt:
   - https://github.com/joethei/obsidian-plantuml
-downloads: 148778
+downloads: 152303
 updated at: "2026-06-12T11:24:16Z"
 related to:
   - "[[GitHub - 349654010]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render PlantUML diagrams in Obsidian using an online server, a local PlantUML .jar, or a self‑hosted server. Create fenced code blocks with plantuml, plantuml-svg for higher-resolution SVGs, or plantuml-ascii for ASCII art; link vault notes with [[[Your other note]]] and include external .puml files when rendering locally."
 
     stats: {
-        downloads:  148778
+        downloads:  152303
         updated_at: 1781263456000
     }
 }

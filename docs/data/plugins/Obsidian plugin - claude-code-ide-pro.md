@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/claude-code-ide-pro
 alt:
   - https://github.com/transept-ai/obsidian-claude-code-ide-pro
-downloads: 401
+downloads: 489
 updated at: "2026-05-25T15:39:45Z"
 related to:
   - "[[GitHub - 1244673891]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect Claude Code to Obsidian using the full IDE protocol so Claude gets live context and follows you between notes. Edit your vault through one-click side-by-side diffs, navigate to specific files and lines, and query Obsidian-native tools for backlinks, wikilinks, frontmatter, search and daily notes."
 
     stats: {
-        downloads:  401
+        downloads:  489
         updated_at: 1779723585000
     }
 }

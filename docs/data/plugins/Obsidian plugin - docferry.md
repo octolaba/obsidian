@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/docferry
 alt:
   - https://github.com/fyaic/Docferry-Obsidian-Plugin
-downloads: 150
+downloads: 165
 updated at: "2026-07-17T08:13:27Z"
 related to:
   - "[[GitHub - 1271936090]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "DocFerry is a free and open-source Obsidian plugin for publishing exactly one note as a secure share link. It is designed to work with DocFerry Cloud by default, including a free quota of 5 active shares, while still allowing users to connect a custom self-hosted server. DocFerry is intentionally not a folder publisher, vault publisher, public directory, or digital garden. Readers can only open the document behind the share URL they receive. Internal links are resolved only when the target note has also been published through DocFerry."
 
     stats: {
-        downloads:  150
+        downloads:  165
         updated_at: 1784276007000
     }
 }

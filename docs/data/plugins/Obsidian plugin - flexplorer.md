@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/flexplorer
 alt:
   - https://github.com/kh4f/flexplorer
-downloads: 81577
+downloads: 85542
 updated at: "2026-06-24T03:54:05Z"
 related to:
   - "[[GitHub - 930127327]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize files with per-folder sorting, manual drag-and-drop custom ordering, and pin or hide items to surface important notes. Use full mobile support to manage explorer order and layout on the go."
 
     stats: {
-        downloads:  81577
+        downloads:  85542
         updated_at: 1782273245000
     }
 }

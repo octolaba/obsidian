@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/bases-navigator
 alt:
   - https://github.com/yueyinfeng/bases-navigator
-downloads:
-updated at:
+downloads: 68
+updated at: "2026-07-28T15:04:19Z"
 related to:
   - "[[GitHub - 1311793849]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/yueyinfeng/bases-navigator"
     description: "Navigate between files in an Obsidian Bases view using arrow keys. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Navigate files listed in a Bases view with Left/Right or Up/Down arrow keys to move to the previous or next result while preserving the view's order. Wrap around at list ends, keep or reuse the current tab, return to the source Bases view, and show your current position via command or the status bar."
+
+    stats: {
+        downloads:  68
+        updated_at: 1785251059000
+    }
 }
 ```
 

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/analogy-rag-in-your-vault
 alt:
   - https://github.com/liaocaoxuezhe/obsidian-extension
-downloads: 310
-updated at: "2026-07-22T05:54:06Z"
+downloads: 430
+updated at: "2026-08-08T10:45:10Z"
 related to:
   - "[[GitHub - 1261117821]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Index your vault and retrieve notes relevant to queries to build a local knowledge base. Generate context-aware answers or concise summaries with a connected language model that reference your notes."
 
     stats: {
-        downloads:  310
-        updated_at: 1784699646000
+        downloads:  430
+        updated_at: 1786185910000
     }
 }
 ```

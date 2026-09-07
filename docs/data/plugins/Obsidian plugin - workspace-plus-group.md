@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/workspace-plus-group
 alt:
   - https://github.com/cnwenzhihong/Obsidian-workspace-plus-group
-downloads: 82
-updated at: "2026-07-16T14:41:49Z"
+downloads: 142
+updated at: "2026-08-07T11:15:23Z"
 related to:
   - "[[GitHub - 1296781735]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage workspaces with hierarchical parent-child trees and drag-and-drop reordering, shown with indentation and collapsible groups. Switch workspaces quickly via a fuzzy-search switcher in the command palette, status bar, or a shortcut, and create new workspaces by typing a name. Bind per-workspace modes (theme, font, global settings) to apply automatically and view/save the current workspace and mode from the status bar."
 
     stats: {
-        downloads:  82
-        updated_at: 1784212909000
+        downloads:  142
+        updated_at: 1786101323000
     }
 }
 ```

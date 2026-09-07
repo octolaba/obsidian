@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/unofficial-fabric-integration
 alt:
   - https://github.com/chasebank87/unofficial-fabric-plugin
-downloads: 2669
+downloads: 2677
 updated at: "2024-08-22T18:14:34Z"
 related to:
   - "[[GitHub - 821591030]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bring Fabric-style AI workflows into Obsidian without requiring Fabric or fabric-connector. Sync and manage custom patterns from a watched folder, detect YouTube links, and connect to external APIs to fetch, manipulate, and dynamically render content with optional debug logging."
 
     stats: {
-        downloads:  2669
+        downloads:  2677
         updated_at: 1724350474000
     }
 }

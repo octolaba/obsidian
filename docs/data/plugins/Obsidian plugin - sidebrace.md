@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sidebrace
 alt:
   - https://github.com/realhenrylo/obsidian-sidebrace
-downloads: 27
+downloads: 183
 updated at: "2026-07-22T13:08:39Z"
 related to:
   - "[[GitHub - 1308567816]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Group a few related lines with a side curly brace and a short label using the callout syntax you already know. Render braces on the left or right in Reading view and Live Preview, reuse the callout title as the label, and fall back to ordinary callouts when the plugin is absent."
 
     stats: {
-        downloads:  27
+        downloads:  183
         updated_at: 1784725719000
     }
 }

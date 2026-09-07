@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/task-syncer
 alt:
   - https://github.com/ysonc/obsidian-tasks-syncer
-downloads: 48
-updated at: "2026-07-24T03:50:31Z"
+downloads: 132
+updated at: "2026-07-31T02:16:12Z"
 related to:
   - "[[GitHub - 938812046]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Connect your Obsidian desktop vault to Microsoft To Do or TickTick via OAuth and sync tasks with a selected remote list. Manage tasks from the sidebar or commands, operating on one chosen provider and remote list at a time."
 
     stats: {
-        downloads:  48
-        updated_at: 1784865031000
+        downloads:  132
+        updated_at: 1785464172000
     }
 }
 ```

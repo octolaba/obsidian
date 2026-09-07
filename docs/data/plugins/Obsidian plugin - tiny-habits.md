@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tiny-habits
 alt:
   - https://github.com/nazoadiego/tiny-habits
-downloads: 1931
+downloads: 1987
 updated at: "2026-02-20T19:45:04Z"
 related to:
   - "[[GitHub - 976876024]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track habits directly in your Markdown notes and store all entries in each note's frontmatter. Mark entries as completed, failed, skipped, or not started and view a heatmap-style table with keyboard navigation and past/future entry browsing."
 
     stats: {
-        downloads:  1931
+        downloads:  1987
         updated_at: 1771616704000
     }
 }

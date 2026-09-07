@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/coderecall
 alt:
   - https://github.com/rixct/code-recall
-downloads: 51
+downloads: 67
 updated at: "2026-07-05T08:53:45Z"
 related to:
   - "[[GitHub - 1285919862]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn code blocks into spaced-repetition cards that hide cloze fragments and prompt you to retype missing code. Auto-grade answers by running your submission in a sandbox against reference tests and schedule the next review with an SM-2 algorithm based on pass/fail."
 
     stats: {
-        downloads:  51
+        downloads:  67
         updated_at: 1783241625000
     }
 }

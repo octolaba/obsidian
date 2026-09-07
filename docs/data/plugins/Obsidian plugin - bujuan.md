@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bujuan
 alt:
   - https://github.com/gaschengshi/bujuan
-downloads: 103
+downloads: 129
 updated at: "2026-05-30T14:14:00Z"
 related to:
   - "[[GitHub - 1231847757]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize today's goals, next actionable steps, and completed history in a standalone, card-based workbench inside Obsidian. Generate AI-powered next-step suggestions, manage or complete current steps, reselect or randomly pick goals, and record inspiration notes that link back to source files."
 
     stats: {
-        downloads:  103
+        downloads:  129
         updated_at: 1780150440000
     }
 }

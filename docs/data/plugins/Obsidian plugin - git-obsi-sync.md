@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/git-obsi-sync
 alt:
   - https://github.com/livan116/github-valut-sync
-downloads: 3251
+downloads: 5199
 updated at: "2026-05-21T02:44:19Z"
 related to:
   - "[[GitHub - 1245163208]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault across desktop and mobile using a private GitHub repo, with silent auto-commits and background pushes on every save. Pull the latest changes on open and resolve conflicts with a side-by-side UI, keeping all files in your own GitHub account."
 
     stats: {
-        downloads:  3251
+        downloads:  5199
         updated_at: 1779331459000
     }
 }

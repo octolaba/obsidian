@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-paste-image-rename
 alt:
   - https://github.com/reorx/obsidian-paste-image-rename
-downloads: 149586
+downloads: 153737
 updated at: "2023-01-30T09:08:23Z"
 related to:
   - "[[GitHub - 467962355]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Rename pasted images and other attachments via an editable prompt that replaces internal links automatically. Auto-generate filenames from custom patterns or frontmatter keys and batch-rename attachments to keep your vault organized."
 
     stats: {
-        downloads:  149586
+        downloads:  153737
         updated_at: 1675069703000
     }
 }

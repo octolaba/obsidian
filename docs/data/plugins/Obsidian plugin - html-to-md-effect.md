@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/html-to-md-effect
 alt:
   - https://github.com/yanqingwang/obsidian-html-to-md-effect
-downloads: 45
-updated at: "2026-07-13T14:34:06Z"
+downloads: 133
+updated at: "2026-08-08T00:55:39Z"
 related to:
   - "[[GitHub - 1297422650]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Convert any .html file to clean Markdown in Obsidian, preserving headings, bold/italic/strikethrough, inline and fenced code (with language tags), links, images, nested lists, pipe-format tables, blockquotes, horizontal rules, and optional YAML frontmatter. Batch convert all .html files in a folder and protect existing .md files by skipping overwrites."
 
     stats: {
-        downloads:  45
-        updated_at: 1783953246000
+        downloads:  133
+        updated_at: 1786150539000
     }
 }
 ```

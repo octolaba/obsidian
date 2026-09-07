@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/three-d-codeblocks
 alt:
   - https://github.com/johannes-kaindl/3d-codeblocks
-downloads:
-updated at:
+downloads: 78
+updated at: "2026-08-04T11:50:22Z"
 related to:
   - "[[GitHub - 1311247620]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/johannes-kaindl/3d-codeblocks"
     description: "Render 3D artifacts (GLB, glTF, STL) inline from a code block — orbit, zoom and pan without leaving your note. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "View 3D models (GLB, glTF, STL) directly inside notes and interactively orbit, zoom, and pan without leaving Obsidian. Embed models by opening files, using wiki-embeds, 3D code blocks, or inline glTF JSON, and show captions or fixed heights. Keep views live-updated when source files change and display clear messages for unsupported compressed files."
+
+    stats: {
+        downloads:  78
+        updated_at: 1785844222000
+    }
 }
 ```
 

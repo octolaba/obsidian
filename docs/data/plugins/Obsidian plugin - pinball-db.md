@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pinball-db
 alt:
   - https://github.com/tgrosinger/pinball-db-obsidian
-downloads: 70
+downloads: 81
 updated at: "2026-07-13T16:40:49Z"
 related to:
   - "[[GitHub - 1273949154]]"
@@ -28,7 +28,7 @@ Pinball DB keeps a database of pinball machines inside the vault. Notes are crea
 plugin: {
     id:     "pinball-db"
     name:   "Pinball DB"
-    author: "tgrosinger"
+    author: "Tony Grosinger"
     repo:   "tgrosinger/pinball-db-obsidian"
 
     html_url:    "https://community.obsidian.md/plugins/pinball-db"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track and organize a database of pinball machines in your vault. Create notes with machine details and deep links to popular pinball websites. Record and review scores for each machine."
 
     stats: {
-        downloads:  70
+        downloads:  81
         updated_at: 1783960849000
     }
 }

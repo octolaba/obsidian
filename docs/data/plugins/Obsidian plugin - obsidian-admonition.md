@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-admonition
 alt:
   - https://github.com/ebullient/obsidian-admonition
-downloads: 933312
+downloads: 946812
 updated at: "2026-06-22T23:38:51Z"
 related to:
   - "[[GitHub - 348800928]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create attention-grabbing callouts, tips, warnings, notes and other informative blocks directly in your Markdown notes. Pick from built-in types and icons or define custom styles with CSS, nest blockquotes and code blocks, and import/export custom admonition presets via JSON."
 
     stats: {
-        downloads:  933312
+        downloads:  946812
         updated_at: 1782171531000
     }
 }

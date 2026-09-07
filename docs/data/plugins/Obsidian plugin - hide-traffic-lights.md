@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hide-traffic-lights
 alt:
   - https://github.com/tavva/obsidian-plugin-hide-traffic-lights
-downloads: 563
+downloads: 606
 updated at: "2026-05-13T09:00:25Z"
 related to:
   - "[[GitHub - 1074167368]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide macOS traffic light buttons for a clean minimalist look"
 
     stats: {
-        downloads:  563
+        downloads:  606
         updated_at: 1778662825000
     }
 }

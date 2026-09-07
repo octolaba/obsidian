@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zen-space
 alt:
   - https://github.com/amatya-aditya/obsidian-zen-space
-downloads: 4072
+downloads: 4166
 updated at: "2025-06-07T03:17:41Z"
 related to:
   - "[[GitHub - 957346696]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse files in a distraction-free, card-based grid and focus on relevant notes with hover quick-action buttons for rename, delete, and pin. Generate and update Index files automatically, pin important items for fast access, and navigate nested folders with breadcrumb trails."
 
     stats: {
-        downloads:  4072
+        downloads:  4166
         updated_at: 1749266261000
     }
 }

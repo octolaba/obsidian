@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/notes-to-strapi-export-article-ai
 alt:
   - https://github.com/cinquinandy/notes-to-strapi-export-article-ai
-downloads: 3780
-updated at: "2026-07-23T04:32:21Z"
+downloads: 4000
+updated at: "2026-08-11T00:43:53Z"
 related to:
   - "[[GitHub - 776208271]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Export Obsidian notes to Strapi CMS with configurable routes and per-route field mappings for multiple languages. Generate frontmatter and SEO-optimized content via AI, and upload or update single images and galleries with automatic path management. Configure via JSON schema to tailor routes and fields."
 
     stats: {
-        downloads:  3780
-        updated_at: 1784781141000
+        downloads:  4000
+        updated_at: 1786409033000
     }
 }
 ```

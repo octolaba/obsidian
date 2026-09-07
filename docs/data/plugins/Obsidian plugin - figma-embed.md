@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/figma-embed
 alt:
   - https://github.com/kocheck/obsidian-figma-viewer
-downloads: 3796
+downloads: 3936
 updated at: "2026-03-08T11:12:53Z"
 related to:
   - "[[GitHub - 786432306]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed Figma designs inline by pasting a public Figma link into your Obsidian note. Display interactive, real-time previews that update with changes and show a fallback card linking to the browser when private or restricted files can't be embedded."
 
     stats: {
-        downloads:  3796
+        downloads:  3936
         updated_at: 1772968373000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markdoc
 alt:
   - https://github.com/kamoshi/obsidian-markdoc
-downloads: 3545
+downloads: 3554
 updated at: "2023-04-27T21:27:48Z"
 related to:
   - "[[GitHub - 633538077]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit .mdoc files directly in Obsidian and access them from the file explorer like regular Markdown notes. Add basic syntax highlighting for Markdoc tags to improve readability while authoring."
 
     stats: {
-        downloads:  3545
+        downloads:  3554
         updated_at: 1682630868000
     }
 }

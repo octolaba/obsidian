@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/link-tree
 alt:
   - https://github.com/j-palindrome/obsidian-link-tree
-downloads: 14346
+downloads: 14488
 updated at: "2023-07-26T08:23:55Z"
 related to:
   - "[[GitHub - 657828483]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display the current note's links and backlinks in a recursively expandable outline, filtering out circular links. Toggle forward/back lists, search by pathname, and preview or edit note lines inline using Dataview to extract links and backlinks."
 
     stats: {
-        downloads:  14346
+        downloads:  14488
         updated_at: 1690359835000
     }
 }

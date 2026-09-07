@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/wechat-publisher
 alt:
   - https://github.com/rancelee233/wechat-publisher
-downloads: 1565
-updated at: "2026-06-29T09:41:19Z"
+downloads: 1857
+updated at: "2026-08-11T02:59:52Z"
 related to:
   - "[[GitHub - 1193254467]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "免费一键将 Obsidian 笔记发布到微信公众号 Write in Obsidian and publish to your WeChat Official Account. Render Markdown into WeChat-compatible HTML with code highlighting, math, Mermaid diagrams, tables and automatic image upload; preview formatting, copy HTML, or push drafts to your Official Account with one click."
 
     stats: {
-        downloads:  1565
-        updated_at: 1782726079000
+        downloads:  1857
+        updated_at: 1786417192000
     }
 }
 ```

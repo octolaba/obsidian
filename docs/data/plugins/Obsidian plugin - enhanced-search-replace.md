@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/enhanced-search-replace
 alt:
   - https://github.com/liuhaoxd/obsidian-enhanced-search-replace
-downloads: 427
+downloads: 510
 updated at: "2026-04-14T03:12:25Z"
 related to:
   - "[[GitHub - 1209425233]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open an inline search-and-replace panel inside the editor. Find and replace with match-case, whole-word, and regex support, preview highlighted matches in the current editor, and close the panel with Esc even when the input is not focused."
 
     stats: {
-        downloads:  427
+        downloads:  510
         updated_at: 1776136345000
     }
 }

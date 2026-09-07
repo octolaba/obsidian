@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/iconik
 alt:
   - https://github.com/creagleone/obsidian-iconik
-downloads: 208
+downloads: 239
 updated at: "2026-05-19T17:52:01Z"
 related to:
   - "[[GitHub - 1243709222]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Customize icons and colors for any file or folder from a single right-click in the explorer. Assign any of 1,700+ Lucide icons, pick text and background colors with a live preview, and persist changes via a single CSS stylesheet for zero performance overhead."
 
     stats: {
-        downloads:  208
+        downloads:  239
         updated_at: 1779213121000
     }
 }

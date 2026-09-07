@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/codianz
 alt:
   - https://github.com/bcs1037/codian
-downloads: 5
-updated at: "2026-07-23T17:45:40Z"
+downloads: 855
+updated at: "2026-08-08T11:50:41Z"
 related to:
   - "[[GitHub - 1309804746]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # Codian
 
-Codian makes the vault a working directory for local coding agents, embedding Codex, Claude Code, OpenCode, Kimi Code, Grok and Pi as collaborators reachable from sidebar conversations and inline editing. Agents get file reads and writes, search, bash commands and multi-step workflows, while provider-native authentication, sessions, models and permissions stay intact. Notes, folders, conversations, skills and local tools are kept around one problem, long conversations are navigated by prompt, shared workspace resources are managed, and inline diffs are reviewed before edits apply. No telemetry service is included.
+Turns the vault into a workspace for local coding agents, driving Claude Code, Codex, OpenCode, Kimi Code, Grok or Pi from sidebar conversations and inline editing. Provider-native authentication, sessions, models and permissions remain intact, and notes, folders, conversations, skills and local tools can be grouped around one problem. Long conversations can be navigated by prompt, shared workspace resources are managed in place, and inline diffs are reviewed before edits are applied. No telemetry service is included.
 
 ```cue
 plugin: {
@@ -33,12 +33,12 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/codianz"
     github_url:  "https://github.com/bcs1037/codian"
-    description: "Embeds Codex, Claude Code, and other coding agents as AI collaborators in your vault. Your vault becomes their working directory, giving them capabilities for file reads and writes, search, bash commands, and multi-step workflows. - This plugin has not been manually reviewed by Obsidian staff."
+    description: "A multi-provider AI agent workspace: connect local coding agents with your vault, conversations, skills, and tools while preserving provider-native sessions and permissions. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Codian turns your vault into a workspace for local coding agents. Use Claude Code, Codex, OpenCode, Kimi Code, Grok, or Pi from sidebar conversations and inline editing. Keep notes, folders, conversations, skills, and local tools around the same problem; provider-native authentication, sessions, models, and permissions remain intact. Navigate long conversations by prompt, manage shared workspace resources, and review inline diffs before applying edits. No telemetry service is included."
 
     stats: {
-        downloads:  5
-        updated_at: 1784828740000
+        downloads:  855
+        updated_at: 1786189841000
     }
 }
 ```

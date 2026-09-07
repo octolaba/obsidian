@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/consecutive-lists
 alt:
   - https://github.com/jtucker2/obsidian-consecutive-lists
-downloads: 1541
+downloads: 1548
 updated at: "2024-02-07T22:10:29Z"
 related to:
   - "[[GitHub - 752836852]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create consecutive lists that render as separate lists in reading mode by automatically alternating list markers for adjacent lists. Keep Markdown fully compatible with other parsers so notes remain transferable and readable without the plugin."
 
     stats: {
-        downloads:  1541
+        downloads:  1548
         updated_at: 1707343829000
     }
 }

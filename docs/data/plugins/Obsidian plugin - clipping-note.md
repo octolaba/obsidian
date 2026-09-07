@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/clipping-note
 alt:
   - https://github.com/brightwav3/clipping-note
-downloads: 103
+downloads: 115
 updated at: "2026-06-11T23:16:25Z"
 related to:
   - "[[GitHub - 1266743020]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a timestamped clipping note from a template with one click or a command; save it to a Clippings folder and open it immediately. Use customizable date/time filename prefix and format, template placeholders ({{title}}, {{date}}, {{time}}), automatic folder creation and collision-safe naming."
 
     stats: {
-        downloads:  103
+        downloads:  115
         updated_at: 1781219785000
     }
 }

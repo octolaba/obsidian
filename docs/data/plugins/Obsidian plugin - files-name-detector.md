@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/files-name-detector
 alt:
   - https://github.com/harrishussain24/files-name-detector
-downloads: 102
+downloads: 112
 updated at: "2026-04-10T19:47:58Z"
 related to:
   - "[[GitHub - 1207293178]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Rename files by replacing spaces with dashes (e.g., my note.md → my-note.md). Scan the vault on plugin load to rename existing files, automatically rename newly created files, and show a notice for each rename."
 
     stats: {
-        downloads:  102
+        downloads:  112
         updated_at: 1775850478000
     }
 }

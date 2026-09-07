@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/xiangqi
 alt:
   - https://github.com/west-shell/obsidian-xiangqi
-downloads: 1395
-updated at: "2026-07-23T04:27:06Z"
+downloads: 1514
+updated at: "2026-08-10T13:54:18Z"
 related to:
   - "[[GitHub - 1003279944]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render Chinese chess boards and replay games from FEN/PGN inside Obsidian with a dedicated .pgn view and interactive move playback. Edit moves and branches, auto-save changes back to PGN, jump to web PikaFish for analysis, and insert xiangqi/xq code blocks to embed or generate FEN."
 
     stats: {
-        downloads:  1395
-        updated_at: 1784780826000
+        downloads:  1514
+        updated_at: 1786370058000
     }
 }
 ```

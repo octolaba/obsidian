@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/monday-integration
 alt:
   - https://github.com/nbdev99/obsidian-monday-integration
-downloads: 216
+downloads: 237
 updated at: "2026-05-16T07:26:35Z"
 related to:
   - "[[GitHub - 1128424269]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View Monday.com boards and items inside your notes or in a dedicated sidebar with real-time data. Embed board dashboards, browse boards and team summaries, create linked notes or tasks from items or selected text, update statuses, assign people, and post comments."
 
     stats: {
-        downloads:  216
+        downloads:  237
         updated_at: 1778916395000
     }
 }

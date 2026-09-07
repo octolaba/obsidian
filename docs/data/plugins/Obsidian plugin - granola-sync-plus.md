@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/granola-sync-plus
 alt:
   - https://github.com/dannymcc/Granola-to-Obsidian
-downloads: 3854
-updated at: "2026-07-22T18:02:24Z"
+downloads: 4971
+updated at: "2026-08-05T07:19:51Z"
 related to:
   - "[[GitHub - 997326127]]"
 remind me:
@@ -36,8 +36,8 @@ plugin: {
     description: "Sync your Granola AI meeting notes to your vault with customizable settings. - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  3854
-        updated_at: 1784743344000
+        downloads:  4971
+        updated_at: 1785914391000
     }
 }
 ```

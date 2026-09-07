@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/offline-whisper
 alt:
   - https://github.com/manthey/offline-whisper
-downloads: 439
+downloads: 581
 updated at: "2026-07-21T12:52:47Z"
 related to:
   - "[[GitHub - 1155937177]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transcribe speech to text locally using Whisper models. Run offline after the initial model download, support desktop (whisper.cpp) and mobile (transformers.js via WebAssembly), and keep audio and transcriptions fully on your device."
 
     stats: {
-        downloads:  439
+        downloads:  581
         updated_at: 1784638367000
     }
 }

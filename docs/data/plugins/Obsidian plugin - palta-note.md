@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/palta-note
 alt:
   - https://github.com/mrniket/palta-obsidian-plugin
-downloads: 2993
+downloads: 3000
 updated at: "2026-02-11T05:20:32Z"
 related to:
   - "[[GitHub - 687065864]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Write Kaydas, Gats and Relas in Bhatkhande notation directly in Obsidian notes using palta code blocks. Render those blocks into readable Bhatkhande notation with a web component, including optional vibhag structure or omit vibhags for quick entries."
 
     stats: {
-        downloads:  2993
+        downloads:  3000
         updated_at: 1770787232000
     }
 }

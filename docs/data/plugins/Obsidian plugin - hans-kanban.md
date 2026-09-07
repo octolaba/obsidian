@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/hans-kanban
 alt:
   - https://github.com/hansai-art/obsidian-hans-kanban
-downloads: 135
-updated at: "2026-07-19T15:32:23Z"
+downloads: 240
+updated at: "2026-07-25T06:38:44Z"
 related to:
   - "[[GitHub - 1258246434]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Turn Obsidian notes into a columned Kanban board with draggable cards that update each note's status. Color cards by leading emoji or automatic assignment, use swimlanes or masonry layouts, adjust column widths, hide empty columns, and preserve card positions when files are renamed."
 
     stats: {
-        downloads:  135
-        updated_at: 1784475143000
+        downloads:  240
+        updated_at: 1784961524000
     }
 }
 ```

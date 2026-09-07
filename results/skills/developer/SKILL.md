@@ -1,6 +1,6 @@
 ---
 name: obsidian-developer
-description: "Source-verified expertise in Obsidian plugin and theme development, pinned to the obsidian API 1.13.2 typings and official developer docs (stable app 1.12.7 at the pin): architecture and extension-point decisions, project setup, lifecycle and API contracts, debugging and the Obsidian CLI, mobile compatibility, performance, security, review, and release. Use when explaining how Obsidian extension development works or when designing, building, debugging, reviewing, or shipping a plugin or theme. Selecting an existing third-party plugin or theme to install is outside this skill; for vault-side Dataview or Tasks use, use the Obsidian Dataview or Obsidian Tasks skill instead."
+description: "Source-verified expertise in Obsidian plugin and theme development, pinned to the obsidian API 1.13.2 typings and official developer docs (stable app 1.13.7 at the pin): architecture and extension-point decisions, project setup, lifecycle and API contracts, debugging and the Obsidian CLI, mobile compatibility, performance, security, review, and release. Use when explaining how Obsidian extension development works or when designing, building, debugging, reviewing, or shipping a plugin or theme. Selecting an existing third-party plugin or theme to install is outside this skill; for vault-side Dataview or Tasks use, use the Obsidian Dataview or Obsidian Tasks skill instead."
 source: obsidianmd/obsidian-api
 version: 1.13.2
 basis: source
@@ -46,7 +46,7 @@ to that alias's repository root.
 | `docs` | `obsidianmd/obsidian-developer-docs` | `2d0e942f03b23ed94ebda3c610ed074662ed63db` | Normative policies, requirements, guidelines, narrative guides |
 | `sample` | `obsidianmd/obsidian-sample-plugin` | `23c165fd362d4049330cb3edad6a52914ff2007a` | Official plugin template — observed, not normative |
 | `theme` | `obsidianmd/obsidian-sample-theme` | `be9db886ee504a5b261304a072efed8dd95477d9` | Official theme template — observed, not normative |
-| `rel` | `obsidianmd/obsidian-releases` | `80239338536205c598b72ed46c77ecb86831bc57` | Directory data and app release manifest — a downstream mirror |
+| `rel` | `obsidianmd/obsidian-releases` | `11fc3ae2320769a5db81b9029ab644928540f9b8` | Directory data and app release manifest — a downstream mirror |
 | `help` | `obsidianmd/obsidian-help` | `a97de34c1a9f2381586f4f51070aeb9207c8a457` | User-facing behaviour; primary documentation for the Obsidian CLI |
 
 `obsidianmd/obsidian-api` publishes no git tags. `1.13.2` is the **npm typings version** recorded at
@@ -60,13 +60,13 @@ guidelines → `obsidian.d.ts` JSDoc and `@since` → developer-docs narrative �
 primary documentation). `CHANGELOG.md` stops at v1.7.2 (api: CHANGELOG.md:5) and is stale by
 several minor versions; prefer `@since`.
 
-**Availability-tier rule.** The stable desktop app at this pin is **1.12.7**
-(rel: desktop-releases.json:3); 1.13.x is the beta channel (rel: desktop-releases.json:9). The
-typings and docs already describe 1.13 features. For a dated `@since`, compare that version with
-1.12.7 and state *stable at pin* or *insider-only at pin*. An **untagged** declaration proves only
-that the symbol exists in the 1.13.2 typings; its introduction version and availability tier are
-**unknown**. Do not recommend one below the target floor unless another pinned official source or a
-runtime check establishes compatibility; otherwise label it **Unverified** and give a dated fallback. Never recommend an insider-only or availability-unknown API as the default path.
+**Availability-tier rule.** The stable desktop app at this pin is **1.13.7**
+(rel: desktop-releases.json:3), and the beta channel carries the same version
+(rel: desktop-releases.json:9), so the mirror records no insider build ahead of stable. For a dated
+`@since`, compare it with 1.13.7 and state *stable at pin* or *insider-only at pin*. An **untagged**
+declaration proves only that the symbol exists in the 1.13.2 typings; its introduction version and
+availability tier are **unknown**. Do not recommend one below the target floor unless another pinned
+official source or a runtime check establishes compatibility; otherwise label it **Unverified** and give a dated fallback. Never recommend an insider-only or availability-unknown API as the default path.
 
 **Basis boundary.** `basis: source` means the typings, sample sources, build configs, CI workflows,
 theme CSS, and directory data were read. The Obsidian app itself is closed source
@@ -84,8 +84,8 @@ pinned template, config, or directory data), **Inference**, **Recommendation**, 
 Establish, or state as an assumption:
 
 1. **Plugin or theme**, and whether it is pre-first-release or already published.
-2. Target **`minAppVersion`**, and the app version the user actually runs (stable is 1.12.7 at this
-   pin; 1.13.x is insider-only).
+2. Target **`minAppVersion`**, and the app version the user actually runs (stable is 1.13.7 at this
+   pin, on both channels; a user who has not updated is the real constraint).
 3. **`isDesktopOnly`**, and whether mobile is genuinely supported.
 4. The exact `manifest.json`, and `versions.json` if present.
 5. Toolchain: bundler, whether externals are configured, whether a production build is used.
@@ -195,8 +195,8 @@ a **new release with an incremented version**, not just a push **Contract**
 (docs: en/Plugins/Releasing/Submit your plugin.md:59).
 
 **Migrate.** Name the version boundary before recommending anything: deferred views (1.7.2),
-declarative settings (1.13.0, insider-only at pin), `SecretStorage` (1.11.4), Bases views (1.10.0),
-CLI handlers (1.12.2).
+declarative settings (1.13.0, stable at pin but still an install gate), `SecretStorage` (1.11.4),
+Bases views (1.10.0), CLI handlers (1.12.2).
 
 ## High-risk traps
 
@@ -281,7 +281,7 @@ refresh never reseeds notes or edits Obsidian configuration JSON; commands are q
 1. Every recommended API states its dated `@since` and tier, or says **untagged; availability
    unknown** and names the independent verification, runtime guard, or dated fallback.
 2. Nothing insider-only is presented as the default path for a plugin whose `minAppVersion` is at or
-   below 1.12.7.
+   below 1.13.7.
 3. Claims are labelled: Contract, Observed, Inference, Recommendation, or Unverified.
 4. Any Source-mode editor claim is labelled **Inference** — the pinned editor docs cover Reading view
    and Live Preview only (docs: en/Plugins/Editor/Editor extensions.md:15-16).
@@ -301,8 +301,8 @@ Known limitations:
   been measured, and nothing here is evidence about it.
 - **The app is closed source.** Enforcement behaviour — deprecation handling, review automation,
   install gating — is inferred from data and docs, never read from an implementation.
-- **The six pins move together.** A partial pin bump makes cross-source claims incomparable; re-verify
-  the whole set.
+- **The mirror pin is ahead of the other five.** Cross-source claims read a later app release against
+  earlier documentation; where they disagree the mirror decides. Move the pins together and re-verify.
 - Third-party tooling (testing frameworks, alternative bundlers, Style Settings, BRAT internals) is
   out of evidence and appears only as a labelled gap.
 
@@ -321,12 +321,12 @@ Conflicts. Both sides are cited; **Resolution** lines are this skill's synthesis
 | Theme `versions.json` | The theme template ships `{"1.0.0": "1.0.0"}` (theme: versions.json:1-3) while its own worked example says `{"1.0.0": "0.16.0"}` (theme: README.md:65-69); the docs document the mechanism for plugins only (docs: en/Reference/Versions.md:7) | **Inference:** the file is undocumented for themes — keep it consistent with the manifest and do not rely on it |
 | Removed list | Descriptive, not a gate: `duplicate-line` appears on the removed list (rel: community-plugins-removed.json:58) and still in the live catalogue (rel: community-plugins.json:3846) — 3 ids do | **Inference:** never treat presence or absence there as an install gate |
 | Deprecation list | Per-version blocklist with no documented semantics (rel: community-plugin-deprecation.json:2-3) | **Inference:** describes versions the team flagged; never claim it forces an update |
-| `id` charset | "only lowercase letters and hyphens" (docs: en/Reference/Manifest.md:27) vs published ids with uppercase, dots, and underscores (rel: community-plugins.json:185; rel: community-plugins.json:4301; rel: community-plugins.json:6926) | **Recommendation:** obey the rule for new plugins; never "fix" a published id (sample: AGENTS.md:76) |
+| `id` charset | "only lowercase letters and hyphens" (docs: en/Reference/Manifest.md:27) vs published ids with uppercase, dots, and underscores (rel: community-plugins.json:192; rel: community-plugins.json:4301; rel: community-plugins.json:6926) | **Recommendation:** obey the rule for new plugins; never "fix" a published id (sample: AGENTS.md:76) |
 | Editor mode coverage | Docs cover Reading view and Live Preview only (docs: en/Plugins/Editor/Editor extensions.md:15-16); `getMode()` returns `'source' \| 'preview'` (api: obsidian.d.ts:4214; api: obsidian.d.ts:4240) | **Inference:** Live Preview reports `'source'`; use `editorLivePreviewField` to distinguish (api: obsidian.d.ts:2609) |
 | Network helpers | `requestUrl` throws on 400+ by default (api: obsidian.d.ts:5457-5458); `request()` is still declared and not deprecated (api: obsidian.d.ts:5436) | **Recommendation:** use `requestUrl` and handle the throw explicitly |
 | Style Settings | No specification in any pinned source | **Unverified:** the plugin is widely used by themes, but nothing about it can be stated here |
 | CSS reload | Snippets are applied automatically on save (help: en/Extending Obsidian/CSS snippets.md:41) while a theme manifest change needs a restart (docs: en/Themes/App themes/Build a theme.md:65) | **Recommendation:** develop as a snippet, ship as a theme |
-| Feature availability | Docs teach 1.13 features (docs: en/Plugins/User interface/Settings.md:8) while stable is 1.12.7 (rel: desktop-releases.json:3) | **Recommendation:** the availability-tier rule above exists for exactly this |
+| Feature availability | Docs call the declarative settings API "currently in an insider build" (docs: en/Plugins/User interface/Settings.md:8) while the mirror ships 1.13.7 as stable (rel: desktop-releases.json:3) | **Inference:** the docs sentence describes an earlier moment than the mirror; tier from the mirror, and read a 1.13 requirement as an install gate rather than an insider gate |
 
 The two counted claims above — 16 of 26 theme removals citing remote resources, and 3 removed ids
 still present in the live catalogue — are reproducible with `jq` inside the `rel` checkout:

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/simple-steam-auth
 alt:
   - https://github.com/dreamscached/obsidian-simple-steam-auth
-downloads: 210
-updated at: "2026-04-07T20:38:09Z"
+downloads: 243
+updated at: "2026-07-30T22:33:53Z"
 related to:
   - "[[GitHub - 1070094181]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Generate Steam Guard codes right in your Obsidian vault."
 
     stats: {
-        downloads:  210
-        updated_at: 1775594289000
+        downloads:  243
+        updated_at: 1785450833000
     }
 }
 ```

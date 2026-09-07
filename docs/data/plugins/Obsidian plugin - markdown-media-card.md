@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markdown-media-card
 alt:
   - https://github.com/zhouhua/obsidian-markdown-media-card
-downloads: 3042
+downloads: 3074
 updated at: "2024-03-18T06:55:07Z"
 related to:
   - "[[GitHub - 765155845]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert customizable media info cards into Markdown notes for books, music, movies and other items. Define fields like title, cover, author/artist/director, rating and summary to render styled, shareable card blocks directly in your vault."
 
     stats: {
-        downloads:  3042
+        downloads:  3074
         updated_at: 1710744907000
     }
 }

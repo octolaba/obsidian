@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-periodic-notes
 alt:
   - https://github.com/jamiefdhurst/obsidian-auto-periodic-notes
-downloads: 5590
+downloads: 5685
 updated at: "2026-01-12T14:03:42Z"
 related to:
   - "[[GitHub - 828516460]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create periodic notes automatically in the background for daily, weekly, monthly, quarterly, and yearly intervals, respecting your Periodic Notes templates, formats, and locations. Open and pin new notes automatically, optionally close older notes, and exclude weekends from daily generation."
 
     stats: {
-        downloads:  5590
+        downloads:  5685
         updated_at: 1768226622000
     }
 }

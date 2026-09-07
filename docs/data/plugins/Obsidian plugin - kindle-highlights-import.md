@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kindle-highlights-import
 alt:
   - https://github.com/leonluttenberger/obsidian-kindle-highlight-import
-downloads: 1641
+downloads: 1713
 updated at: "2026-04-05T17:16:18Z"
 related to:
   - "[[GitHub - 750993271]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Kindle highlights into your Obsidian vault and convert them into readable Markdown book notes. Format highlights automatically for easy reading and accept HTML or PDF Kindle exports for quick, organized import."
 
     stats: {
-        downloads:  1641
+        downloads:  1713
         updated_at: 1775409378000
     }
 }

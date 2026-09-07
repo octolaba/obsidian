@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/chemtrails
 alt:
   - https://github.com/altarok/chemtrails
-downloads: 199
-updated at: "2026-07-02T10:35:36Z"
+downloads: 325
+updated at: "2026-08-03T19:18:04Z"
 related to:
   - "[[GitHub - 1262243317]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render SMILES strings as native vector SVG diagrams directly inside notes without external servers. Auto-crop empty whitespace, scale molecules to fit your pane, and match Obsidian light/dark themes for consistent appearance. This plugin serves as a bridge to the Smiles-Drawer of the Reymond Group."
 
     stats: {
-        downloads:  199
-        updated_at: 1782988536000
+        downloads:  325
+        updated_at: 1785784684000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-providers
 alt:
   - https://github.com/pfrankov/obsidian-ai-providers
-downloads: 52804
+downloads: 54179
 updated at: "2026-04-18T19:48:43Z"
 related to:
   - "[[GitHub - 890505758]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage AI provider settings and API keys from a single control panel. Store and share credentials and configuration for multiple AI services so other Obsidian plugins can connect without re-entering details. Do not perform AI processing; serve as a centralized, extendable provider hub compatible with OpenAI-style APIs."
 
     stats: {
-        downloads:  52804
+        downloads:  54179
         updated_at: 1776541723000
     }
 }

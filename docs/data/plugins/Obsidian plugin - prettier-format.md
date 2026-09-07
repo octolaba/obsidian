@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/prettier-format
 alt:
   - https://github.com/dylanarmstrong/obsidian-prettier-plugin
-downloads: 857
+downloads: 878
 updated at: "2025-05-26T18:59:24Z"
 related to:
   - "[[GitHub - 960258217]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format Markdown with Prettier using Obsidian's editor tab and spacing settings. Enable format-on-save or run the Format current file command to tidy up files with no extra configuration."
 
     stats: {
-        downloads:  857
+        downloads:  878
         updated_at: 1748285964000
     }
 }

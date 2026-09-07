@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markdown-cleaner
 alt:
   - https://github.com/gao-qian-long/obsidian-markdown-cleaner
-downloads: 1069
+downloads: 1350
 updated at: "2026-04-22T09:38:50Z"
 related to:
   - "[[GitHub - 1209405136]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Clean excessive Markdown formatting while preserving valid bold and italic, removing stray *, _, and other redundant markers. Convert LaTeX math delimiters \\(...\\) to $...$ and \\[...\\] to $$...$$ for complex formulas (fractions, roots, sums, matrices), with paste auto-clean and hotkey-triggered cleaning."
 
     stats: {
-        downloads:  1069
+        downloads:  1350
         updated_at: 1776850730000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/external-rename-handler
 alt:
   - https://github.com/mnaoumov/obsidian-external-rename-handler
-downloads: 4469
-updated at: "2026-07-22T03:59:24Z"
+downloads: 4822
+updated at: "2026-08-08T18:08:44Z"
 related to:
   - "[[GitHub - 908742831]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Handle renames performed outside Obsidian by treating them as single rename events instead of separate create/delete actions. Operate only while Obsidian is running and only for tracked files and folders inside the vault, skipping dot-prefixed items and changes outside the vault."
 
     stats: {
-        downloads:  4469
-        updated_at: 1784692764000
+        downloads:  4822
+        updated_at: 1786212524000
     }
 }
 ```

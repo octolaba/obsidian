@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-explorer-note-count
 alt:
   - https://github.com/ozntel/file-explorer-note-count
-downloads: 280535
+downloads: 286098
 updated at: "2025-09-22T22:33:41Z"
 related to:
   - "[[GitHub - 372969719]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display total note and file counts next to folders in the File Explorer, summing items across subfolders. Enable an option to show counts on expanded folders or keep them hidden by default when subfolders exist."
 
     stats: {
-        downloads:  280535
+        downloads:  286098
         updated_at: 1758580421000
     }
 }

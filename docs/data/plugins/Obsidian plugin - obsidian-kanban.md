@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-kanban
 alt:
   - https://github.com/obsidian-community/obsidian-kanban
-downloads: 2460199
+downloads: 2525135
 updated at: "2024-05-31T01:08:28Z"
 related to:
   - "[[GitHub - 358435115]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create markdown-backed Kanban boards inside Obsidian. Organize notes into draggable columns and cards stored as plain Markdown in your vault, keeping board content editable and linkable like regular notes."
 
     stats: {
-        downloads:  2460199
+        downloads:  2525135
         updated_at: 1717117708000
     }
 }

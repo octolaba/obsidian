@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nav-arrows
 alt:
   - https://github.com/antoineart/obsidian-nav-buttons
-downloads: 174
+downloads: 200
 updated at: "2026-05-27T08:14:55Z"
 related to:
   - "[[GitHub - 1164582714]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add back and forward navigation arrows to the top bar next to the sidebar collapse button. Keep arrows always visible regardless of sidebar state and disable them when no back or forward history exists, matching Obsidian's native icon style."
 
     stats: {
-        downloads:  174
+        downloads:  200
         updated_at: 1779869695000
     }
 }

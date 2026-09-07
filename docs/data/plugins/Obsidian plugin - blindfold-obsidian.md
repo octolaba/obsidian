@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/blindfold-obsidian
 alt:
   - https://github.com/vzsky/blindfold-obsidian
-downloads: 5400
+downloads: 5426
 updated at: "2024-01-15T16:18:33Z"
 related to:
   - "[[GitHub - 644328216]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide long or distracting sections behind a collapsible blindfold block to keep documents concise and readable. Reveal content with a click to view full details, including LaTeX and other Obsidian elements."
 
     stats: {
-        downloads:  5400
+        downloads:  5426
         updated_at: 1705335513000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-zoom
 alt:
   - https://github.com/liominsb/image_zoom
-downloads: 203
+downloads: 245
 updated at: "2026-05-09T08:16:24Z"
 related to:
   - "[[GitHub - 1233674204]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open images fullscreen by clicking them in reading or live-preview modes. Zoom with the mouse wheel around the cursor and drag to pan; press Esc or click the dark background to close. Run lightweight, dependency-free code with requestAnimationFrame-based performance and isolated CSS."
 
     stats: {
-        downloads:  203
+        downloads:  245
         updated_at: 1778314584000
     }
 }

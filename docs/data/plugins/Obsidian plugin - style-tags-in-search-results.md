@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/style-tags-in-search-results
 alt:
   - https://github.com/fanis/obsidian-style-tags-in-search-results
-downloads: 135
+downloads: 145
 updated at: "2026-07-04T11:10:15Z"
 related to:
   - "[[GitHub - 1060135382]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a customizable CSS class (default .search-tag) to tags in search results to style or hide them. Hide tags automatically to declutter and shorten matched lines for a cleaner, more readable results pane."
 
     stats: {
-        downloads:  135
+        downloads:  145
         updated_at: 1783163415000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/morning-os
 alt:
   - https://github.com/satyagalla/Morning-OS-obsidian
-downloads: 333
+downloads: 411
 updated at: "2026-06-13T01:34:32Z"
 related to:
   - "[[GitHub - 1247244920]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate a daily briefing dashboard from your vault that surfaces tasks, goals, rules and AI-picked insights each morning. Detect carryover tasks, record what you resolved and what's still open, and surface identity affirmations and suggestions using multiple AI providers."
 
     stats: {
-        downloads:  333
+        downloads:  411
         updated_at: 1781314472000
     }
 }

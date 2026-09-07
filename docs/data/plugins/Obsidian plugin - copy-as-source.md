@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-as-source
 alt:
   - https://github.com/gapmiss/copy-as-source
-downloads: 1956
+downloads: 2008
 updated at: "2026-05-31T19:22:23Z"
 related to:
   - "[[GitHub - 739864788]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy selected elements' HTML from reading view to the clipboard as formatted source code. Format the HTML with Prettier before copying for clean, readable output."
 
     stats: {
-        downloads:  1956
+        downloads:  2008
         updated_at: 1780255343000
     }
 }

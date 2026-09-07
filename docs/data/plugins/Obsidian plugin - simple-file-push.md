@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-file-push
 alt:
   - https://github.com/huedaya/obsidian-simple-file-push
-downloads: 1229
+downloads: 1236
 updated at: "2024-02-20T10:48:37Z"
 related to:
   - "[[GitHub - 756405078]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Push Markdown files to a POST endpoint as JSON containing file_name and content. Protect the API with Bearer auth and trigger uploads from a note via the Sync file to my Blog command."
 
     stats: {
-        downloads:  1229
+        downloads:  1236
         updated_at: 1708426117000
     }
 }

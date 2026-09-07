@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-timestamp-notes
 alt:
   - https://github.com/juliang22/ObsidianTimestampNotes
-downloads: 25713
+downloads: 25826
 updated at: "2022-07-25T02:13:21Z"
 related to:
   - "[[GitHub - 488739494]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a video player in Obsidian's sidebar to play local or web videos alongside your notes. Insert timestamped links with a hotkey and select timestamps to jump to exact moments in the video. Control playback and seek from the sidebar for quick review."
 
     stats: {
-        downloads:  25713
+        downloads:  25826
         updated_at: 1658715201000
     }
 }

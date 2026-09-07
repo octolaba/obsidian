@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/float-on-top
 alt:
   - https://github.com/joeutke-dev/obsidian-float
-downloads: 163
-updated at: "2026-06-13T01:09:56Z"
+downloads: 497
+updated at: "2026-07-30T23:51:35Z"
 related to:
   - "[[GitHub - 1171152435]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Keep Obsidian floating or pinned above other windows on your desktop with a button in the ribbon so it doesn't get lost. Adjust window transparency to keep obsidian above other windows like video meetings while remaining aware of what sits behind the obsidian window. Simple, but useful plugin to better integrate obsidian into your day to day especially when working in lots of applications or across multiple monitors."
 
     stats: {
-        downloads:  163
-        updated_at: 1781312996000
+        downloads:  497
+        updated_at: 1785455495000
     }
 }
 ```

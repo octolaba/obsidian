@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/outlook-meeting-notes
 alt:
   - https://github.com/davidingerslev/outlook-meeting-notes
-downloads: 13299
+downloads: 13793
 updated at: "2025-04-02T08:44:29Z"
 related to:
   - "[[GitHub - 945531443]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create meeting notes from Outlook .msg files by dragging a meeting from the Outlook desktop app onto the Obsidian ribbon icon. Generate a note prefilled with meeting details (date/time, subject, recipients, invite message) using a customizable template and filename based on the meeting date and time, with no Outlook add-ins or Microsoft Graph required."
 
     stats: {
-        downloads:  13299
+        downloads:  13793
         updated_at: 1743583469000
     }
 }

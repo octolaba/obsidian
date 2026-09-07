@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/split-web-viewer-modifier
 alt:
   - https://github.com/hucy/split-link-router
-downloads: 125
+downloads: 143
 updated at: "2026-04-18T03:51:21Z"
 related to:
   - "[[GitHub - 1214015221]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open external links in Obsidian's split Web Viewer pane and reuse the same Web Viewer pane for subsequent links. Use Shift+Click to open a new Web Viewer tab and Cmd/Ctrl+Click to toggle the target between the Web Viewer and your browser."
 
     stats: {
-        downloads:  125
+        downloads:  143
         updated_at: 1776484281000
     }
 }

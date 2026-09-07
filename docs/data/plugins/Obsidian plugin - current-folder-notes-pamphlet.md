@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/current-folder-notes-pamphlet
 alt:
   - https://github.com/caffa/Obsidian-Current-Folder-Note-Display-Plugin
-downloads: 2151
+downloads: 2176
 updated at: "2025-06-12T15:54:25Z"
 related to:
   - "[[GitHub - 776262734]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show notes from the current folder in a dedicated pane, automatically sorting them by chapter numbers and highlighting the active file. Filter which notes appear, format titles to Title Case, include subfolders, and view or jump to file headings inline for fast navigation."
 
     stats: {
-        downloads:  2151
+        downloads:  2176
         updated_at: 1749743665000
     }
 }

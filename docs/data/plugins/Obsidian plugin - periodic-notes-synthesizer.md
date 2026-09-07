@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/periodic-notes-synthesizer
 alt:
   - https://github.com/ibrh96-prog/obsidian-periodic-notes-synthesizer
-downloads: 90
+downloads: 114
 updated at: "2026-07-09T17:04:50Z"
 related to:
   - "[[GitHub - 1270021312]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate monthly and quarterly rollups from your daily and periodic notes, extracting recurring themes, unresolved open loops, commitments, and concise per-note summaries. Create a Periodic Synthesis.md that highlights themes, said-vs-did progress, stale loops, and topical consensus across entries."
 
     stats: {
-        downloads:  90
+        downloads:  114
         updated_at: 1783616690000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mermaid-popup
 alt:
   - https://github.com/gitcpy/obsidian-diagram-popup
-downloads: 19841
+downloads: 20952
 updated at: "2025-07-02T11:09:56Z"
 related to:
   - "[[GitHub - 839094738]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show diagrams from Mermaid, PlantUML, Graphviz and other formats in a draggable, zoomable popup. Open popups via Ctrl+click or the toolbar button and pan/zoom with mouse, touch gestures, or on-screen navigation controls."
 
     stats: {
-        downloads:  19841
+        downloads:  20952
         updated_at: 1751454596000
     }
 }

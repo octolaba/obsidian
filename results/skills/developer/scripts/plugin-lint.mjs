@@ -37,7 +37,7 @@ const USAGE = [
 ].join('\n');
 
 /** The stable desktop app at the studied pin; anything above it is insider-only. */
-const STABLE_APP_AT_PIN = '1.12.7';
+const STABLE_APP_AT_PIN = '1.13.7';
 
 /**
  * Every rule states the upstream line it comes from. The tier is not chosen: it is the class of

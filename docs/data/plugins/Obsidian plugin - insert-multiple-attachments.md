@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/insert-multiple-attachments
 alt:
   - https://github.com/mnaoumov/obsidian-insert-multiple-attachments
-downloads: 5994
-updated at: "2026-07-21T01:08:55Z"
+downloads: 6383
+updated at: "2026-08-08T18:38:02Z"
 related to:
   - "[[GitHub - 901635318]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Insert multiple attachments at once by extending Obsidian's built-in Insert Attachment command. Select several files and add them as links or embeds into the current note in one action."
 
     stats: {
-        downloads:  5994
-        updated_at: 1784596135000
+        downloads:  6383
+        updated_at: 1786214282000
     }
 }
 ```

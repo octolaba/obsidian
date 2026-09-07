@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-dailynote
 alt:
   - https://github.com/andrewmcgivery/obsidian-canvas-dailynote
-downloads: 3488
+downloads: 3515
 updated at: "2024-02-14T20:52:22Z"
 related to:
   - "[[GitHub - 731872024]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a daily note node to Canvas that always displays today's note and updates automatically when you open the canvas. Insert the node via a Canvas button and let the plugin create the daily note if it doesn't exist. Expect the node to be replaced when updated, so connections from it are not preserved."
 
     stats: {
-        downloads:  3488
+        downloads:  3515
         updated_at: 1707943942000
     }
 }

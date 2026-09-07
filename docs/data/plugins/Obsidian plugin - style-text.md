@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/style-text
 alt:
   - https://github.com/juanjoarranz/style-text-obsidian-plugin
-downloads: 15163
+downloads: 15387
 updated at: "2023-07-01T16:33:18Z"
 related to:
   - "[[GitHub - 655845000]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Apply custom CSS styles to selected text in your Obsidian notes. Create and manage multiple styles, then apply or remove them from the editor via the command palette or context menu."
 
     stats: {
-        downloads:  15163
+        downloads:  15387
         updated_at: 1688229198000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-pomodoro-plugin
 alt:
   - https://github.com/tokuhirom/obsidian-pomodoro-plugin
-downloads: 16579
+downloads: 16628
 updated at: "2021-05-20T01:39:33Z"
 related to:
   - "[[GitHub - 366944573]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a Pomodoro timer to your Obsidian window to run focused work intervals and short breaks. Adjust session and break durations in settings to follow the Pomodoro Technique and track completed pomodoros."
 
     stats: {
-        downloads:  16579
+        downloads:  16628
         updated_at: 1621474773000
     }
 }

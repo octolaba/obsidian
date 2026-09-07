@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/drag-to-scroll
 alt:
   - https://github.com/constsz/obsidian-drag-to-scroll
-downloads: 2468
+downloads: 2551
 updated at: "2025-08-30T14:44:13Z"
 related to:
   - "[[GitHub - 1013421567]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Enable drag-to-scroll across Obsidian. Hold the mouse button and drag to scroll like on a touch device, working in both Edit and Reading modes on desktop only."
 
     stats: {
-        downloads:  2468
+        downloads:  2551
         updated_at: 1756565053000
     }
 }

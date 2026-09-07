@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/asciidoc-live
 alt:
   - https://github.com/koshlensky/asciidoc-live
-downloads: 197
+downloads: 245
 updated at: "2026-05-16T07:45:14Z"
 related to:
   - "[[GitHub - 1052957337]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render .adoc, .asciidoc and .asc files with full AsciiDoc support and a live preview that automatically re-renders as you type. Save pasted images to the vault and insert image:: syntax, render math ([latexmath]/[asciimath]/[stem]) via MathJax, resolve xref/<<>> links to open and scroll to targets, and auto-refresh on external edits or in split-pane Source mode."
 
     stats: {
-        downloads:  197
+        downloads:  245
         updated_at: 1778917514000
     }
 }

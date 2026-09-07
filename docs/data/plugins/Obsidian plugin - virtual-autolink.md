@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/virtual-autolink
 alt:
   - https://github.com/avinashkanaujiya/obsidian-autolink
-downloads: 194
-updated at: "2026-07-09T11:41:29Z"
+downloads: 450
+updated at: "2026-07-24T11:26:29Z"
 related to:
   - "[[GitHub - 1240257519]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Generate virtual links for any text that matches note titles or aliases, updating live in edit and read modes without altering your note files. Keep links hidden from the graph and reference counts, and convert virtual links to real links via the context menu."
 
     stats: {
-        downloads:  194
-        updated_at: 1783597289000
+        downloads:  450
+        updated_at: 1784892389000
     }
 }
 ```

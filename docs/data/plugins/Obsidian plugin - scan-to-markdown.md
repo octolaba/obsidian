@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/scan-to-markdown
 alt:
   - https://github.com/bwtymdb/scan2md
-downloads: 25
-updated at: "2026-07-05T12:22:27Z"
+downloads: 53
+updated at: "2026-08-09T14:57:55Z"
 related to:
   - "[[GitHub - 1285866597]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "用手机扫码拍照，将书本、公式、表格等内容转成结构化 Markdown 并写入当前笔记或另存为新笔记。保留标题层级、段落、列表、表格与 LaTeX 公式（行内 $...$、块级 $$...$$），并通过你配置的视觉大模型（支持多家厂商与 OpenAI 兼容接口）完成识别。"
 
     stats: {
-        downloads:  25
-        updated_at: 1783254147000
+        downloads:  53
+        updated_at: 1786287475000
     }
 }
 ```

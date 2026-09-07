@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pdf-highlight-notes
 alt:
   - https://github.com/kebl3541/Obsidian-PDF-Highlight-Notes
-downloads: 116
+downloads: 184
 updated at: "2026-07-07T17:22:51Z"
 related to:
   - "[[GitHub - 1292452978]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import PDFs into your vault and open them in Obsidian's built-in viewer. Highlight text to add permanent highlights visible in other PDF readers, or save selections as Markdown quotes in a companion highlights note with deep links to the exact page and selection."
 
     stats: {
-        downloads:  116
+        downloads:  184
         updated_at: 1783444971000
     }
 }

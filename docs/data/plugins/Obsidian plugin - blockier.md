@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/blockier
 alt:
   - https://github.com/blorbb/obsidian-blockier
-downloads: 5109
+downloads: 5166
 updated at: "2025-01-26T23:09:44Z"
 related to:
   - "[[GitHub - 672485075]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Select the current block without its bullet, number, heading, quote or checkbox prefix, with multiple-cursor and code-block support. Override existing list or checkbox markers by typing a new prefix at the line start. Show configurable suggestions for custom checkboxes and callouts."
 
     stats: {
-        downloads:  5109
+        downloads:  5166
         updated_at: 1737932984000
     }
 }

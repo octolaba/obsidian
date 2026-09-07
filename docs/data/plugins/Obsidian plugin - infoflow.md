@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/infoflow
 alt:
   - https://github.com/infoflow/Obsidian-InfoFlow
-downloads: 320
+downloads: 329
 updated at: "2026-01-11T03:23:02Z"
 related to:
   - "[[GitHub - 935676344]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync saved articles, web pages, X posts, YouTube videos, notes, and highlights from InfoFlow directly into your Obsidian vault. Convert HTML to Markdown, import highlights and annotations, and filter or automate syncs with customizable file names and note templates including frontmatter."
 
     stats: {
-        downloads:  320
+        downloads:  329
         updated_at: 1768101782000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/excalidraw-extras
 alt:
   - https://github.com/zsviczian/obsidian-excalidraw-extras
-downloads: 12203
+downloads: 18097
 updated at: "2026-06-30T16:15:46Z"
 related to:
   - "[[GitHub - 1262907541]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Host heavy libraries and high‑privilege operations for Excalidraw, including MathJax and Mermaid rendering plus file system, network and IPC capabilities. Keep the main Excalidraw plugin lightweight, fast, and compliant by separating large dependencies and privileged code."
 
     stats: {
-        downloads:  12203
+        downloads:  18097
         updated_at: 1782836146000
     }
 }

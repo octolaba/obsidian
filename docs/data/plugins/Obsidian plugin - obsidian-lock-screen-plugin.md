@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-lock-screen-plugin
 alt:
   - https://github.com/ericbiewener/obsidian-lock-screen-plugin
-downloads: 11383
+downloads: 11485
 updated at: "2022-03-03T16:52:08Z"
 related to:
   - "[[GitHub - 450601797]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a lock screen UI to hide notes without encrypting files. Show the lock screen when the window loses focus (desktop), when interaction stops (mobile), when a vault opens, or via the command palette. Include optional delay for desktop and mobile triggers."
 
     stats: {
-        downloads:  11383
+        downloads:  11485
         updated_at: 1646326328000
     }
 }

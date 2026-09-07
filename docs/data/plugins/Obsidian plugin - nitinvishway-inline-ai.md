@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nitinvishway-inline-ai
 alt:
   - https://github.com/nitinvishway/Inline-AI
-downloads: 47
+downloads: 76
 updated at: "2026-07-09T12:21:07Z"
 related to:
   - "[[GitHub - 1231561524]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Inline AI responses directly into notes by typing /ai plus your prompt and pressing Enter. Generate text, brainstorm ideas, summarize, refactor, or expand content inline using OpenAI, Claude, Gemini, or local Ollama as the provider."
 
     stats: {
-        downloads:  47
+        downloads:  76
         updated_at: 1783599667000
     }
 }

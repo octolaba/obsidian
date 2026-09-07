@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mermaid-explorer
 alt:
   - https://github.com/tahayigitmelek/mermaid-explorer
-downloads: 179
+downloads: 244
 updated at: "2026-06-30T17:52:44Z"
 related to:
   - "[[GitHub - 1280610099]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Discover and index all Mermaid diagrams across your vault in a dedicated explorer with search, filters, and dashboard statistics. Preview and zoom diagrams, edit with live rendering and error diagnostics, sync edits back to the original Markdown block, or export as SVG/PNG."
 
     stats: {
-        downloads:  179
+        downloads:  244
         updated_at: 1782841964000
     }
 }

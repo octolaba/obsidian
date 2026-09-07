@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ugreen-sync
 alt:
   - https://github.com/tsfreddie/obsidian-ugreen-sync
-downloads: 341
+downloads: 501
 updated at: "2026-07-02T12:23:33Z"
 related to:
   - "[[GitHub - 1275444669]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your entire vault with a UGREEN NAS running UGOS Pro using a direct UGOS URL or UGREENlink ID. It is recommended to use UGREENlink ID for minimum setup required. Supports best-effort automatic syncing."
 
     stats: {
-        downloads:  341
+        downloads:  501
         updated_at: 1782995013000
     }
 }

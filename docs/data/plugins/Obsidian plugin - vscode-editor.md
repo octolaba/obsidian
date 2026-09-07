@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vscode-editor
 alt:
   - https://github.com/sunxvming/obsidian-vscode-editor
-downloads: 58560
+downloads: 60456
 updated at: "2025-11-25T08:38:19Z"
 related to:
   - "[[GitHub - 691885467]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit and view code files inside Obsidian using the Monaco (VS Code) editor with syntax support for many languages, including C, C++, C#, Python, JavaScript, Rust and Go. Work offline with customizable themes, fonts and code wrapping, and toggle line numbers, indent guides and the minimap. Open and edit individual code blocks from Markdown and preview internal links."
 
     stats: {
-        downloads:  58560
+        downloads:  60456
         updated_at: 1764059899000
     }
 }

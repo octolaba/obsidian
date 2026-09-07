@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/variant-editor
 alt:
   - https://github.com/kunalja/VariantEditor
-downloads: 1244
+downloads: 1274
 updated at: "2025-08-29T04:30:54Z"
 related to:
   - "[[GitHub - 988562610]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create multiple phrasing variants for words, phrases, or entire sentences and keep all options inline in your Markdown. View and compare alternatives in context, switch or reorder variants, and commit the chosen version when ready using a compact {{variant1|variant2|variant3}}^INDEX syntax."
 
     stats: {
-        downloads:  1244
+        downloads:  1274
         updated_at: 1756441854000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/habit-tracker
 alt:
   - https://github.com/narsail/habit-tracker-obsidian
-downloads: 10153
+downloads: 10189
 updated at: "2022-07-17T08:49:04Z"
 related to:
   - "[[GitHub - 507487606]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize habit progress as a heatmap-style tracker using DataviewJS data from your notes. Map numeric intensities to color gradients, render up to seven habits with renderHabitTracker(), and insert the tracker inside a DataviewJS block."
 
     stats: {
-        downloads:  10153
+        downloads:  10189
         updated_at: 1658047744000
     }
 }

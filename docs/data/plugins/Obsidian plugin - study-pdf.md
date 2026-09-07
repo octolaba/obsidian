@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/study-pdf
 alt:
   - https://github.com/gris/study-pdf
-downloads: 13
-updated at: "2026-07-23T18:01:16Z"
+downloads: 341
+updated at: "2026-08-05T20:52:20Z"
 related to:
   - "[[GitHub - 1308778373]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # Study PDF
 
-PDFs are highlighted and annotated inside Obsidian, and the marks are written into the file as standard PDF annotations so they remain visible in other readers and in embeds. A built-in page browses every highlight, jumps to it and copies it, and highlights are exported to a note where each quote links back to its annotation. The same highlights are studied as spaced-repetition flashcards.
+Adds highlighting and annotation to PDFs inside Obsidian, written into the file as standard PDF annotations so they remain visible in Adobe, Preview and embeds. Every highlight is browsable in one place and can be exported to a note where each quote links back to its annotation. The same highlights can then be studied as spaced-repetition flashcards.
 
 ```cue
 plugin: {
@@ -33,12 +33,12 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/study-pdf"
     github_url:  "https://github.com/gris/study-pdf"
-    description: "Highlight text and add notes to PDFs, saved into the file itself so they work in any reader — with a built-in page to browse, jump to, and copy them all. - This plugin has not been manually reviewed by Obsidian staff."
+    description: "Highlight and take notes in PDFs, stored in the file itself, then study them as spaced-repetition flashcards. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Highlight and annotate PDFs inside Obsidian, written into the file as standard PDF annotations so they open in Adobe, Preview, and embeds. Browse every highlight in one place, export them to a note where each quote links back to its annotation, and study them as spaced-repetition flashcards."
 
     stats: {
-        downloads:  13
-        updated_at: 1784829676000
+        downloads:  341
+        updated_at: 1785963140000
     }
 }
 ```

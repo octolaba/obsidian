@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-sentence-navigator
 alt:
   - https://github.com/timhor/obsidian-sentence-navigator
-downloads: 5880
+downloads: 5896
 updated at: "2023-01-15T10:11:11Z"
 related to:
   - "[[GitHub - 413417962]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manipulate sentences as units of movement. Select, move, and delete whole sentences and jump between sentence starts for precise sentence-level navigation and editing."
 
     stats: {
-        downloads:  5880
+        downloads:  5896
         updated_at: 1673777471000
     }
 }

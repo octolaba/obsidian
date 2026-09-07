@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/in-file-nav-history
 alt:
   - https://github.com/beaurancourt/obsidian-in-file-nav-history
-downloads: 138
+downloads: 185
 updated at: "2026-06-20T19:47:55Z"
 related to:
   - "[[GitHub - 1274531574]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Go back and forward to the exact cursor and scroll positions across files and within the same note. Record per-pane history of position snapshots that persists across restarts and restore editor or preview so you return to the precise spot you left."
 
     stats: {
-        downloads:  138
+        downloads:  185
         updated_at: 1781984875000
     }
 }

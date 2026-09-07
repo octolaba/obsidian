@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vim-toggle
 alt:
   - https://github.com/connerohnesorge/vim-toggle
-downloads: 10890
+downloads: 11036
 updated at: "2025-08-18T17:40:55Z"
 related to:
   - "[[GitHub - 584515085]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle Vim editing mode on and off in Obsidian via a command or configurable hotkey. Enable optional notifications to show when Vim mode is switched."
 
     stats: {
-        downloads:  10890
+        downloads:  11036
         updated_at: 1755538855000
     }
 }

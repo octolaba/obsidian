@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-wordnik
 alt:
   - https://github.com/lizard-heart/obsidian-wordnik-definitions
-downloads: 4424
+downloads: 4441
 updated at: "2022-04-17T03:03:18Z"
 related to:
   - "[[GitHub - 478403649]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fetch definitions, examples, and related words from Wordnik and paste the results at your cursor location. Search a word or use the active note title to insert formatted Wordnik data, and control output with a customizable template and a maximum-definition limit."
 
     stats: {
-        downloads:  4424
+        downloads:  4441
         updated_at: 1650164598000
     }
 }

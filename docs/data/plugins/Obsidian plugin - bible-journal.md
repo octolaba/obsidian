@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bible-journal
 alt:
   - https://github.com/skylernorgaard/obsidian-bible-journal-plugin
-downloads: 40
+downloads: 83
 updated at: "2026-07-16T16:34:43Z"
 related to:
   - "[[GitHub - 1302916434]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Journal Scripture with an offline World English Bible reader offering chapter picker, prev/next navigation, and verse selection. Organize study notes in a sidebar by book, chapter, or section, create one-tap tagged notes, and save AND/OR tag-search snapshots."
 
     stats: {
-        downloads:  40
+        downloads:  83
         updated_at: 1784219683000
     }
 }

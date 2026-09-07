@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/paste-link-with-title
 alt:
   - https://github.com/haradaiko100/obsidian-auto-link-converter
-downloads: 454
+downloads: 558
 updated at: "2026-02-08T17:00:30Z"
 related to:
   - "[[GitHub - 1147007148]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert pasted URLs into reference-style Markdown links by fetching page titles. Run a command to convert selected URLs manually and replace unfetchable titles with a configurable placeholder."
 
     stats: {
-        downloads:  454
+        downloads:  558
         updated_at: 1770570030000
     }
 }

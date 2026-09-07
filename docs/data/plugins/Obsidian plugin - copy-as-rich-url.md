@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-as-rich-url
 alt:
   - https://github.com/brianling/obsidian-copy-as-rich-url
-downloads: 121
+downloads: 144
 updated at: "2026-05-21T09:35:17Z"
 related to:
   - "[[GitHub - 1245486926]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy the current note as a rich hyperlink to the system clipboard. The plugin writes both text/html (with a proper anchor tag) and text/plain, so rich-text editors paste a single clickable link with the note title as anchor text, while plain-text editors get the title and URL on separate lines. Invoke via the left ribbon icon, the command palette, or a custom hotkey. Useful for cross-linking knowledge bases like FuseBase, Notion, Confluence, Slack, and Gmail back to your notes."
 
     stats: {
-        downloads:  121
+        downloads:  144
         updated_at: 1779356117000
     }
 }

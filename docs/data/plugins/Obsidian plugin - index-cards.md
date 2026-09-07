@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/index-cards
 alt:
   - https://github.com/liveaquietlife/obsidian-index-cards
-downloads: 244
-updated at: "2026-07-05T22:31:29Z"
+downloads: 357
+updated at: "2026-08-09T14:46:30Z"
 related to:
   - "[[GitHub - 1263396928]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Capture ideas, reading notes, and research on virtual index cards and file them into projects, categories, and subcategories. Open a full-width dashboard to preview, search, move, export, and compare cards; enable Academic Mode to add citation fields and generate bibliographies."
 
     stats: {
-        downloads:  244
-        updated_at: 1783290689000
+        downloads:  357
+        updated_at: 1786286790000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-tag-curator
 alt:
   - https://github.com/qmkcamel/obsidian-ai-tag-curator
-downloads: 148
+downloads: 174
 updated at: "2026-05-26T06:21:52Z"
 related to:
   - "[[GitHub - 1235509660]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Maintain a coherent tag taxonomy across your vault with AI-driven recommendations that prefer existing tags, explain confidence and alternatives, and apply changes only after confirmation. Generate a vault-level tag health report that surfaces low-frequency or duplicate tags, hierarchy inconsistencies, naming drift, and prioritized actions with supporting evidence."
 
     stats: {
-        downloads:  148
+        downloads:  174
         updated_at: 1779776512000
     }
 }

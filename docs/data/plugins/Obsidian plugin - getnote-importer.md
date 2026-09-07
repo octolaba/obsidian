@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/getnote-importer
 alt:
   - https://github.com/andyzhengyan/obsidian-getnote-importer
-downloads: 1724
-updated at: "2026-07-11T01:14:42Z"
+downloads: 2388
+updated at: "2026-08-10T03:57:01Z"
 related to:
   - "[[GitHub - 1224747284]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "双向同步Obsidian&得到大脑（aka. 得到脑机 ）"
 
     stats: {
-        downloads:  1724
-        updated_at: 1783732482000
+        downloads:  2388
+        updated_at: 1786334221000
     }
 }
 ```

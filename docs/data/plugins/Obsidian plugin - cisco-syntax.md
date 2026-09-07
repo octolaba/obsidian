@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cisco-syntax
 alt:
   - https://github.com/blakebratcher/obsidian-cisco-syntax
-downloads: 42
+downloads: 101
 updated at: "2026-07-09T12:40:04Z"
 related to:
   - "[[GitHub - 1294154685]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight Cisco IOS, IOS-XE, IOS-XR, and NX-OS configs inside fenced code blocks for colorized syntax in both Reading and Live Preview. Use one grammar for consistent styling, apply theme-aware colors with an optional Vibrant palette, and add an always-visible copy button for Reading mode."
 
     stats: {
-        downloads:  42
+        downloads:  101
         updated_at: 1783600804000
     }
 }

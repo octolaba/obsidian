@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-charts
 alt:
   - https://github.com/phibr0/obsidian-charts
-downloads: 311864
+downloads: 316478
 updated at: "2024-01-26T10:13:43Z"
 related to:
   - "[[GitHub - 324836889]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create interactive charts directly inside Obsidian from Markdown tables or embedded CSV. Visualize and explore data with multiple chart types and built-in interactivity for responsive, embeddable charts."
 
     stats: {
-        downloads:  311864
+        downloads:  316478
         updated_at: 1706264023000
     }
 }

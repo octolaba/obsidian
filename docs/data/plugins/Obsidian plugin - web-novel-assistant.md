@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/web-novel-assistant
 alt:
   - https://github.com/hatanochihiro/obsidian-webnovel-assistant
-downloads: 5252
-updated at: "2026-07-20T06:28:35Z"
+downloads: 7752
+updated at: "2026-08-10T12:55:36Z"
 related to:
   - "[[GitHub - 1211713865]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "A comprehensive writing environment designed specifically for web novel authors. It features a centralized Writing Dashboard to monitor all your ongoing novels, daily goals, and writing progress. The Advanced Word Count provides real-time tracking of your added words, focused writing time, and customizable goals. You can easily manage your universe using World-Building Tools tailored for character profiles, timelines, and foreshadowing. The plugin offers a fully Bilingual Interface that seamlessly adapts to your English or Chinese language settings. To gamify your writing sessions, the Timed Task Tracker offers time-boxed sprints and productivity tracking. Content creators will love the OBS Streaming Overlay, which uses a built-in HTTP server to display real-time statistics directly on livestreams. Finally, the Advanced Search enables intelligent folder-specific queries with memory for quick navigation."
 
     stats: {
-        downloads:  5252
-        updated_at: 1784528915000
+        downloads:  7752
+        updated_at: 1786366536000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-linker
 alt:
   - https://github.com/lemannrus/smart-linker
-downloads: 198
+downloads: 240
 updated at: "2025-12-17T13:23:27Z"
 related to:
   - "[[GitHub - 1118133064]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Find and insert semantically related notes using pre-computed vector embeddings and cosine similarity. Insert results into a managed block at the end of the note for fast local lookup, with deduplication and non-destructive updates."
 
     stats: {
-        downloads:  198
+        downloads:  240
         updated_at: 1765977807000
     }
 }

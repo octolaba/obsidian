@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-gallery
 alt:
   - https://github.com/pashashocky/obsidian-note-gallery
-downloads: 38874
+downloads: 39426
 updated at: "2024-11-24T12:52:56Z"
 related to:
   - "[[GitHub - 705366674]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display notes and images in a fast masonry-style gallery inside a note, using cached markdown cards for near-instant previews. Filter and search with a single Obsidian search query (including regex), sort and limit results, recursively scan folders, and reflect CRUD updates. Customize column breakpoints for responsive layouts."
 
     stats: {
-        downloads:  38874
+        downloads:  39426
         updated_at: 1732452776000
     }
 }

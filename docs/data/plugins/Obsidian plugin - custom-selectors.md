@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/custom-selectors
 alt:
   - https://github.com/hodie/obsidian-custom-selectors
-downloads: 1481
+downloads: 1944
 updated at: "2026-03-16T12:38:31Z"
 related to:
   - "[[GitHub - 1181987966]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Define selector properties as interactive dropdown menus in the Properties view and inside Bases tables. Manage selectors and options centrally, sync changes across views, and apply optional default values to new files."
 
     stats: {
-        downloads:  1481
+        downloads:  1944
         updated_at: 1773664711000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/interactive-hill-chart
 alt:
   - https://github.com/volodymyrkoval/interactive-hill-chart-obsidian
-downloads: 117
+downloads: 128
 updated at: "2026-05-13T13:25:04Z"
 related to:
   - "[[GitHub - 1218071955]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize work progress as an interactive hill chart with positions from 0–100 and a peak marking the shift from uncertainty to execution. Drag dots linked to notes to update positions; changes write back to the fenced hill-chart code block and everything stays local inside your vault."
 
     stats: {
-        downloads:  117
+        downloads:  128
         updated_at: 1778678704000
     }
 }

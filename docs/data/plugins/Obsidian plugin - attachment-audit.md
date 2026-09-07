@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/attachment-audit
 alt:
   - https://github.com/israerusan/attachment-audit
-downloads: 76
-updated at: "2026-07-08T02:08:11Z"
+downloads: 155
+updated at: "2026-08-04T22:57:32Z"
 related to:
   - "[[GitHub - 1292182457]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Scan your vault for truly unused attachments, exact duplicates, oversized files, junk-named captures, and misplaced files, and preview exactly what can be reclaimed before you delete anything. Perform safe cleanup that preserves links and re-validates actions with cross-checks across Markdown, frontmatter, and canvas; upgrade to Pro for bulk cleanup, saved scan profiles, custom rules, and Markdown reports."
 
     stats: {
-        downloads:  76
-        updated_at: 1783476491000
+        downloads:  155
+        updated_at: 1785884252000
     }
 }
 ```

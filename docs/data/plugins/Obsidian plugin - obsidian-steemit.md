@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-steemit
 alt:
   - https://github.com/anpigon/obsidian-steemit-plugin
-downloads: 4009
+downloads: 4017
 updated at: "2024-06-27T13:05:27Z"
 related to:
   - "[[GitHub - 465584585]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish the current note directly to your Steemit account from Obsidian. Set front-matter metadata (title, permlink, category, tags) for the post and hide sections from publication using HTML or %% comments."
 
     stats: {
-        downloads:  4009
+        downloads:  4017
         updated_at: 1719493527000
     }
 }

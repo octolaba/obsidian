@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/personal-assistant
 alt:
   - https://github.com/edonyzpc/personal-assistant
-downloads: 20361
-updated at: "2026-06-28T04:03:32Z"
+downloads: 21685
+updated at: "2026-08-09T14:14:05Z"
 related to:
   - "[[GitHub - 504440915]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Automate note creation, open related graph views and quick memos, and update plugins or themes with a single command. Use a RAG-powered LLM chat assistant to search, read, and write across your vault and generate AI images from note content."
 
     stats: {
-        downloads:  20361
-        updated_at: 1782619412000
+        downloads:  21685
+        updated_at: 1786284845000
     }
 }
 ```

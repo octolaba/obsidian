@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-locker
 alt:
   - https://github.com/felvesthe/Note-Locker
-downloads: 3621
+downloads: 3816
 updated at: "2025-11-30T17:35:33Z"
 related to:
   - "[[GitHub - 954159777]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Prevent accidental edits by locking notes in preview mode. Use one-click locking with persistent locks that survive file renames and session restarts, and get clear visual feedback on desktop and mobile."
 
     stats: {
-        downloads:  3621
+        downloads:  3816
         updated_at: 1764524133000
     }
 }

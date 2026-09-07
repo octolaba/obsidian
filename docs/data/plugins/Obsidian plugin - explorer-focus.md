@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/explorer-focus
 alt:
   - https://github.com/davidvkimball/obsidian-explorer-focus
-downloads: 6303
-updated at: "2026-05-30T19:45:46Z"
+downloads: 7232
+updated at: "2026-08-10T22:39:48Z"
 related to:
   - "[[GitHub - 1100888901]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Focus the file explorer on a specific file or folder, showing only the focused item plus its children and ancestors. Choose current file, parent, grandparent, great-grandparent, or a custom folder and toggle focus via command, right-click context menu, or an explorer toolbar button."
 
     stats: {
-        downloads:  6303
-        updated_at: 1780170346000
+        downloads:  7232
+        updated_at: 1786401588000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/img2html
 alt:
   - https://github.com/0x1da9430/img2html
-downloads: 1051
+downloads: 1082
 updated at: "2026-05-09T14:04:33Z"
 related to:
   - "[[GitHub - 945050277]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert pasted images to HTML <img> tags and save the image files in your vault instead of Markdown or Obsidian wikilinks. Set custom save paths and image widths, add optional alt attributes, and enable paste notifications for smoother cross-platform sharing."
 
     stats: {
-        downloads:  1051
+        downloads:  1082
         updated_at: 1778335473000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/3d-graph
 alt:
   - https://github.com/alexw00/obsidian-3d-graph
-downloads: 67156
+downloads: 69324
 updated at: "2023-10-24T18:05:24Z"
 related to:
   - "[[GitHub - 527559096]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render your vault as an interactive 3D graph to visualize notes and their connections. Explore links, clusters, and node details with rotation, zoom, and highlighting for quick structural insight."
 
     stats: {
-        downloads:  67156
+        downloads:  69324
         updated_at: 1698170724000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/show-whitespace-cm6
 alt:
   - https://github.com/ebullient/obsidian-show-whitespace-cm6
-downloads: 17418
+downloads: 18056
 updated at: "2026-07-10T16:19:49Z"
 related to:
   - "[[GitHub - 726226170]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight leading and trailing whitespace in both Source and Live Preview, rendering visible characters for line starts and line endings. Mark blockquote carets and subtly shade list-marker whitespace, and provide optional built-in CSS you can disable or replace with your own."
 
     stats: {
-        downloads:  17418
+        downloads:  18056
         updated_at: 1783700389000
     }
 }

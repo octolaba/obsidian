@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/vault-router
 alt:
   - https://github.com/israerusan/vault-router
-downloads: 25
-updated at: "2026-07-07T11:14:58Z"
+downloads: 53
+updated at: "2026-07-25T19:38:20Z"
 related to:
   - "[[GitHub - 1291641820]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Route notes to their proper folders using local rules that match title, path, tags, and frontmatter, then move them quickly on demand or automatically. Preview destinations before moving and sweep inboxes to bulk-file notes; upgrade for unlimited rules, unlimited sweeps, and hands-off auto-routing."
 
     stats: {
-        downloads:  25
-        updated_at: 1783422898000
+        downloads:  53
+        updated_at: 1785008300000
     }
 }
 ```

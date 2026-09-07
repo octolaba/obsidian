@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/friend-tracker
 alt:
   - https://github.com/buzzguy/friend-tracker
-downloads: 4980
+downloads: 5107
 updated at: "2025-05-14T00:59:35Z"
 related to:
   - "[[GitHub - 907003188]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage contacts and track birthdays, milestones, and upcoming celebrations. Log dated interactions, keep detailed notes and custom fields, and sort contacts by name, age, or days until birthday."
 
     stats: {
-        downloads:  4980
+        downloads:  5107
         updated_at: 1747184375000
     }
 }

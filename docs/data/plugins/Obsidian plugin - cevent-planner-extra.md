@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cevent-planner-extra
 alt:
   - https://github.com/abdur-nur-porag/CEvent-Planner-Extra
-downloads: 107
+downloads: 119
 updated at: "2026-05-29T09:09:44Z"
 related to:
   - "[[GitHub - 1248173798]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate and copy formatted event Markdown using a clean Material Design modal. Specify single or multi-day schedules, time ranges, alarms, emojis, tags, notes and recurrence, then paste anywhere via clipboard mode without forcing file creation (requires CEvent Planner for tracking)."
 
     stats: {
-        downloads:  107
+        downloads:  119
         updated_at: 1780045784000
     }
 }

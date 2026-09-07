@@ -1,8 +1,8 @@
 ---
 name: obsidian-community-catalog
-description: "Materialize and maintain the Obsidian community directory — 6,057 plugins, 650 themes and their GitHub repositories — as a catalog of Markdown notes driven from the pinned release mirror obsidianmd/obsidian-releases at Release Pin 80239338536205c598b72ed46c77ecb86831bc57. Use when running or repairing a Backfill or Update Run, when the schema gate reports drift or staleness, when a note's properties, filename, uid or repository link look wrong, or when About, README or screenshot capture fails. This skill owns the catalog pipeline; questions about how a plugin or theme itself behaves belong to that component's own skill."
+description: "Materialize and maintain the Obsidian community directory — 6,594 plugins, 684 themes and their GitHub repositories — as a catalog of Markdown notes driven from the pinned release mirror obsidianmd/obsidian-releases at Release Pin 11fc3ae2320769a5db81b9029ab644928540f9b8. Use when running or repairing a Backfill or Update Run, when the schema gate reports drift or staleness, when a note's properties, filename, uid or repository link look wrong, or when About, README or screenshot capture fails. This skill owns the catalog pipeline; questions about how a plugin or theme itself behaves belong to that component's own skill."
 source: obsidianmd/obsidian-releases
-version: 80239338536205c598b72ed46c77ecb86831bc57
+version: 11fc3ae2320769a5db81b9029ab644928540f9b8
 basis: source
 ---
 
@@ -34,9 +34,9 @@ context.
 
 | Alias | Source | Version | Role |
 | --- | --- | --- | --- |
-| `releases` | obsidianmd/obsidian-releases | commit `80239338536205c598b72ed46c77ecb86831bc57` (mirror commit of 2026-07-25) | Primary. Authoritative for membership, ids, names, repos, stats. |
-| `directory` | `https://community.obsidian.md` | unversioned; captured 2026-08-06 | Supplementary and **mutable**. The only source of About. Every capture is access-dated in the cache evidence and dated by its run's receipt. |
-| `github` | GitHub API — GraphQL v4 metadata, REST `/readme` | unversioned; probed 2026-08-06 and 2026-08-10 | Supplementary and **mutable**. Repository records over GraphQL; the README — content, sha, size, jump address — over REST. |
+| `releases` | obsidianmd/obsidian-releases | commit `11fc3ae2320769a5db81b9029ab644928540f9b8` (mirror commit of 2026-08-12) | Primary. Authoritative for membership, ids, names, repos, stats. |
+| `directory` | `https://community.obsidian.md` | unversioned; extraction fixtures captured 2026-08-06, pages last captured 2026-08-15 | Supplementary and **mutable**. The only source of About. Every capture is access-dated in the cache evidence and dated by its run's receipt. |
+| `github` | GitHub API — GraphQL v4 metadata, REST `/readme` | unversioned; probed 2026-08-06, 2026-08-10 and 2026-08-15 | Supplementary and **mutable**. Repository records over GraphQL; the README — content, sha, size, jump address — over REST. |
 
 Two of the three sources cannot be pinned. That is the reason the reproducibility claim is narrow:
 **mechanical steps are reproducible from the pin; capture-derived values are dated observations**,
@@ -125,10 +125,16 @@ blocks and bare repository links. Archived notes are historical: refresh and poi
 not mutate them. Automatic restoration when an entity re-enters an index or GitHub becomes
 reachable is not decided; queue it for the owner.
 
-**Observed at the pin.** 6,057 plugins, 650 themes, 650 distinct slugs, 6,707 distinct
-repositories, 17 `legacy` themes, 73 index ids without stats and 10 stats ids without an index row,
-885 repo strings containing uppercase, 63 repositories colliding on case-insensitive basename with
-different owners, 11 screenshot paths needing URL-encoding.
+**Observed at the pin.** 6,594 plugins, 684 themes, 684 distinct slugs, 7,278 distinct
+repositories, 17 `legacy` themes, 19 index ids without stats and 4 stats ids without an index row,
+966 repo strings containing uppercase, 68 repositories colliding on case-insensitive basename with
+different owners, 12 screenshot paths needing URL-encoding.
+
+**A stats gap is never a capture trigger**, because it means "not counted yet" rather than "no such
+plugin". Measured across the 2026-08-15 pin advance: of the 73 ids the preceding pin left uncounted,
+72 gained a record and one left the index outright, and all 19 uncounted ids at this pin are plugins
+the index has only just gained. Every one of those transitions is **Stats-moved** — two properties
+point-edited, no Directory page and no body.
 
 ### Links to repository notes are bare — read before writing any link
 
@@ -152,7 +158,7 @@ is drift, and the gate reports it as `catalog/link-shape`.
 ### Per-class aliases, and why resolution is scoped
 
 **Contract.** Plugin and theme notes carry their `repo` string as an alias, and so does the
-repository note as its `nameWithOwner`. Every one of the 6,707 index rows therefore shares that
+repository note as its `nameWithOwner`. Every one of the 7,278 index rows therefore shares that
 string across two notes by design — the owner's standing template convention. Two consequences:
 
 1. Alias uniqueness is asserted **per note class**, never globally.
@@ -217,13 +223,14 @@ notes which exist are well-formed. Given `--archive-root` the gate asserts it in
 prints what it found:
 
 ```
-coverage: plugins 6057 live / 6057 indexed, 0 archived, 0 uncovered, 0 excused
-coverage: themes   650 live /  650 indexed, 0 archived, 0 uncovered, 0 excused
-coverage: repositories 6700 live (0 orphan), 0 archived (0 unreferenced)
+coverage: plugins 6594 live / 6594 indexed, 64 archived, 0 uncovered, 0 excused
+coverage: themes   683 live /  684 indexed,  6 archived, 1 uncovered, 1 excused
+coverage: repositories 7277 live (0 orphan), 60 archived (0 unreferenced)
 ```
 
-A subject whose component archived while its index row survived shows as `1 uncovered, 1 excused`:
-the shortfall is real and is counted, and the standing line is what accounts for it.
+A subject whose component archived while its index row survived shows as `1 uncovered, 1 excused` —
+the theme line above, where a repository GitHub confirmed gone took its theme with it. The shortfall
+is real and is counted, and the standing line is what accounts for it.
 
 Every index row at the pin has one live note (`catalog/uncovered-index-row`); every live note has a
 row (`catalog/not-in-index`); an archived note whose id is still at the pin is a contradiction
@@ -360,7 +367,7 @@ anything, and write the task list into the state file's worklists first:
 | Class | Trigger | Action |
 | --- | --- | --- |
 | Added | id or slug appears | full per-entity pipeline |
-| Removed | id or slug disappears | compute the baseline relationship closure and move every note in it under `<support-root>/archive/{plugins,repositories,themes}/` by class; attach the removal reason |
+| Removed | id or slug disappears | compute the baseline relationship closure, reduce it by the repositories a live target-pin entity still claims — offline at worklist time, again on resolved numeric ids at archive time — and move every surviving note under `<support-root>/archive/{plugins,repositories,themes}/` by class; attach the removal reason |
 | Repository-unavailable | known repo: terminal miss by `owner/name` and `/repositories/{databaseId}` in one run; unresolved repo: terminal miss in two distinct runs | archive the repository's whole baseline relationship closure; transient failures never enter this class |
 | Relocated | `repo` changed | re-resolve; the numeric id decides rename vs different repository; queue an unreferenced old repository for the owner because orphan disposition is not decided |
 | Amended | plugin `name`/`author`/`description`, theme `name`/`screenshot`/`modes`/`legacy`/`author` | point-edit; a plugin `description` change queues a body |
@@ -372,6 +379,11 @@ added and relocated entities, and an amendment that queues a body, because a bod
 in a freshly observed About. `Sync` is work that does not: a point-edit whose every input is already
 in hand. The claim the split buys is a one-line assertion — **zero network calls are attributable to
 any `Sync` item** — and that is the efficiency criterion the whole design exists to meet.
+
+**Observed, 2026-08-15**, on the Update Run across this pin pair: 700 Directory pages, 32 batched
+GraphQL points covering 639 repositories, 638 REST `/readme` calls and 40 screenshot probes, for a
+catalog of 14,554 live notes. 5,935 existing notes were point-edited with no request attributable to
+any of them, and 4,934 of those changed exactly two lines — the download counter and its timestamp.
 
 **`Dump` and `Drop` are enumerated; `Sync` is not.** Network work and archive moves are expensive and
 genuinely stateful, and `Drop` is the only surviving record of a relationship graph that has already
@@ -475,7 +487,12 @@ there is no re-baseline stage (decision 3.11).
 
 Printed by the stage that hits them; the coordinator lands the durable ones as `[>]`/`[-]` lines
 with reasons in the state file (the renderer writes `bodyless-no-input` lines itself). Retried on
-later runs — a `[>]` line auto-seeds the next worklist — and never silently absorbed:
+later runs — a `[>]` line auto-seeds the next worklist — and never silently absorbed.
+
+**Read "retry on rotation" below as the intended behaviour, not as a stage that runs.** A `[>]` line
+is genuinely re-probed by the next run; a lane that defers to the refresh rotation defers to
+something not yet implemented (Known limits), so its subject is revisited only if an index change
+selects it for capture anyway.
 
 | Lane | Meaning | What the run does |
 | --- | --- | --- |
@@ -534,23 +551,44 @@ robots policy, so pacing errs polite: one request at a time, 1.5 s apart by defa
 - **About is unpinnable.** Its only source is mutable markup. The extractor validates page identity
   before trusting content, so drift fails loudly, but a Directory redesign stops About updates until
   the contract is re-fixed. Recorded contract and fixtures: `reference/extraction-contract.md`.
-- **Screenshots are live content.** The derivation `raw.githubusercontent.com/{repo}/HEAD/{path}` is
-  pinned; the bytes behind `HEAD` are not. A default-branch move changes the image with no catalog
-  event, and the embed claims nothing more than the derivation. The `screenshot-404` probe runs for
-  **captured** themes only, so a theme note written before a run that probes it carries an embed
-  nobody has checked; those are re-examined by the refresh rotation, not by this check.
+- **The refresh rotation is not implemented.** Capture selects exactly what the worklist classified —
+  added and relocated entities, amendments that queue a body, and standing `[>]` subjects — and
+  nothing else. There is no stage that revisits an entity whose index row has not moved, so an About
+  baseline, a screenshot verdict and a README sha are only ever as fresh as that entity's own last
+  capture, and nothing measures how stale the oldest of them is. This is the largest outstanding
+  piece of work; until it exists, every sentence promising re-examination "on rotation" is a
+  statement of intent, and staleness of that kind is invisible to the gate rather than reported by it.
+- **Screenshots are live content, and a probe is only as fresh as its capture.** The derivation
+  `raw.githubusercontent.com/{repo}/HEAD/{path}` is pinned; the bytes behind `HEAD` are not. A
+  default-branch move changes the image with no catalog event, and the embed claims nothing more than
+  the derivation. The `screenshot-404` probe runs for **captured** themes only — 40 of 683 live themes
+  in the 2026-08-15 run — so every other note carries the verdict of whenever it was last captured,
+  and without the rotation above nothing re-checks it. Two rows at this pin carry a trailing space in
+  `screenshot` (`wolai`, `BrutalGarden`): the path is never trimmed, both derived addresses answer
+  404, and neither note carries an embed.
 - **Theme bodies.** Theme pages *do* carry an About block in the same markup shape as plugin pages
   (verified 2026-08-06, fixture `theme-rose-pine.html`), so the README fallback is not needed for a
   page that renders; it remains the recorded fallback for a theme whose page is absent.
-- **Release-tag keys in Plugin Stats are opaque.** 75,020 of 75,052 are semver-shaped; 32 are
-  arbitrary GitHub release tag names (`publish`, `build/main.js`, `全功能支持`, a bare UUID). The
-  manifest models the integer *value*, not the key.
-- **Empty About is silent unless the page answers the not-found shell.** Measured over the full
-  backfill: 44 entities hold an empty About baseline, while only one `directory-not-found` firing was
-  recorded. A page that renders without an About block is classified `absent` and records no lane,
-  so the absence is visible only in the note's empty `about` field, not in the failure-lane tally.
-  The refresh rotation re-examines those entities on later runs; until then, an empty About is not
-  evidence that the page is gone.
+- **A body task carries less than the renderer validates against, and the gap loses notes.** The
+  queued task hands the agent the entity's upstream `description` and its About. The renderer, when
+  About is empty, grounds the returned body against the repository's own `description` and README as
+  well. An agent that honestly declines because the inputs it was handed hold nothing to say
+  therefore produces no body for a subject the pipeline still considers groundable — and that is
+  neither a rejected body nor a `bodyless-no-input` line, so nothing reports it and the note simply
+  never lands. Two notes were lost this way in the 2026-08-15 run and had to be written separately;
+  coverage caught them, which is the only reason they were noticed. This is a real gap, not a
+  defect fixed here: closing it means handing the task the same input set the validator uses, or
+  making a declining agent record a lane of its own.
+- **Release-tag keys in Plugin Stats are opaque.** 81,901 of the 81,941 keys open with an optional
+  `v` and two dot-separated numbers; 40 are arbitrary GitHub release tag names (`publish`,
+  `build/main.js`, `全功能支持`, a bare UUID). The manifest models the integer *value*, not the key.
+- **Empty About is silent unless the page answers the not-found shell.** Measured across the catalog
+  on 2026-08-15: 53 entities — 46 plugins and 7 themes — hold an empty About baseline, against two
+  recorded `directory-not-found` firings in the catalog's whole history. A page that renders without
+  an About block is classified `absent` and records no lane, so the absence is visible only in the
+  note's empty `about` field, not in the failure-lane tally. Nothing revisits them, because the
+  rotation that would is not implemented: an empty About is neither evidence that the page is gone
+  nor evidence that anyone looked recently.
 - **Coverage reconciles against the index and the notes, never against run history.** Receipts
   are counts, not the authority; the catalog itself is scanned whenever coverage is claimed.
 - **Preferred-README discovery is server-side**: REST `/readme` answers it; no client-side rule

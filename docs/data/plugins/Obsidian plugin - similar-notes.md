@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/similar-notes
 alt:
   - https://github.com/joybro/obsidian-similar-notes
-downloads: 10181
+downloads: 11413
 updated at: "2026-07-03T13:36:45Z"
 related to:
   - "[[GitHub - 978722828]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Find semantically similar notes using AI and display related notes at the bottom of the current file as you write. Search your vault by meaning, choose local on-device models for full privacy or connect OpenAI/Ollama cloud models for larger or cross-device use; built-in models run on mobile and desktop without API keys."
 
     stats: {
-        downloads:  10181
+        downloads:  11413
         updated_at: 1783085805000
     }
 }

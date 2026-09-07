@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/clean-copy
 alt:
   - https://github.com/rafaelmehdiyev/obsidian-clean-copy
-downloads: 179
+downloads: 208
 updated at: "2026-05-23T15:04:46Z"
 related to:
   - "[[GitHub - 1246890276]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy a selection or whole note to clipboard without frontmatter or other metadata. Strip [[wikilinks]] to plain text, remove inline #tags, ^block-id anchors and callout syntax, with an option to also remove all Markdown formatting."
 
     stats: {
-        downloads:  179
+        downloads:  208
         updated_at: 1779548686000
     }
 }

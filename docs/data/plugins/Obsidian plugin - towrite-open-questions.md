@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/towrite-open-questions
 alt:
   - https://github.com/gitmorric/towrite-open-questions
-downloads: 90
-updated at: "2026-07-02T07:52:03Z"
+downloads: 112
+updated at: "2026-08-11T15:26:56Z"
 related to:
   - "[[GitHub - 1286326035]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Attach unfinished ideas and draft fragments to the exact note line, PDF highlight, or selection. Capture ToThink/ToWrite cards into a collapsible sidebar with source highlighting and jump-back, store cards in sidecar JSON, and export JSON or run an optional local HTTP API."
 
     stats: {
-        downloads:  90
-        updated_at: 1782978723000
+        downloads:  112
+        updated_at: 1786462016000
     }
 }
 ```

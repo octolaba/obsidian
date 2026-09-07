@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/floating-headings
 alt:
   - https://github.com/k0src/Floating-Headings-Obsidian-Plugin
-downloads: 5628
+downloads: 6229
 updated at: "2026-02-27T04:57:16Z"
 related to:
   - "[[GitHub - 1022463504]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a floating, collapsible Notion-style outline of your note’s headings in a sidebar with compact indicators and hover-to-expand full heading text. Navigate instantly by clicking headings, filter and search in real time, collapse heading hierarchies, and position the sidebar left or right; adapts to your theme."
 
     stats: {
-        downloads:  5628
+        downloads:  6229
         updated_at: 1772168236000
     }
 }

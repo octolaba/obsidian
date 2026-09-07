@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-toggle-case
 alt:
   - https://github.com/matthewalner/obsidian-toggle-case
-downloads: 6933
+downloads: 6976
 updated at: "2022-12-11T19:55:22Z"
 related to:
   - "[[GitHub - 574663420]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle selected text case, cycling between lowercase → Title Case → UPPERCASE. Apply changes across multiple cursors and invoke via the Toggle Case command or an assigned shortcut."
 
     stats: {
-        downloads:  6933
+        downloads:  6976
         updated_at: 1670788522000
     }
 }

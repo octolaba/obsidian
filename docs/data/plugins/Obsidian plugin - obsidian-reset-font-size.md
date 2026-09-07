@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-reset-font-size
 alt:
   - https://github.com/luckman212/obsidian-reset-font-size
-downloads: 7037
+downloads: 7062
 updated at: "2022-05-29T17:30:44Z"
 related to:
   - "[[GitHub - 403833911]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reset note font size and optional global window zoom to a configurable default with a single command or sidebar button. Bind the command to a hotkey or run it from the command palette for instant recovery from accidental zooming."
 
     stats: {
-        downloads:  7037
+        downloads:  7062
         updated_at: 1653845444000
     }
 }

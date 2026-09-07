@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/google-drive-merge-sync
 alt:
   - https://github.com/kebl3541/Obsidian-Google-Drive-Merge-Sync
-downloads: 161
+downloads: 311
 updated at: "2026-07-12T17:56:58Z"
 related to:
   - "[[GitHub - 1292822691]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your vault with Google Drive using your own Google OAuth client and local tokens, restricting the plugin to its own Drive folder. Merge conflicting notes with a word-level three-way merge against the last synced version, preview the exact sync plan before running, and send deletions to trash so nothing is lost."
 
     stats: {
-        downloads:  161
+        downloads:  311
         updated_at: 1783879018000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/linkwarden
 alt:
   - https://github.com/heiss/obsidian-linkwarden
-downloads: 19
+downloads: 70
 updated at: "2026-07-22T17:08:04Z"
 related to:
   - "[[GitHub - 1306939904]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search and insert saved Linkwarden links into notes as stable deep-URL bindings, keeping Linkwarden as the single source of truth. Display linked pages' highlights in a sidebar as a living reading aid without creating files, insert highlights as callout quotes with referenceable block IDs, and archive external URLs back to Linkwarden while rewriting them to their bindings."
 
     stats: {
-        downloads:  19
+        downloads:  70
         updated_at: 1784740084000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chillight-graph
 alt:
   - https://github.com/irolyuk/chillight-graph
-downloads: 91
+downloads: 138
 updated at: "2026-07-04T16:08:59Z"
 related to:
   - "[[GitHub - 1288721621]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display an animated graph view with glowing themed nodes and curved garland-style wires. Customize node and wire colors, glow, size, thickness and sag, and choose from 14 built-in visual themes plus multiple animation modes. Desktop only."
 
     stats: {
-        downloads:  91
+        downloads:  138
         updated_at: 1783181339000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zoxide-notes
 alt:
   - https://github.com/qustrolabe/zoxide-notes
-downloads: 151
+downloads: 160
 updated at: "2026-05-28T19:48:29Z"
 related to:
   - "[[GitHub - 1168460345]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track note visits and rank notes using the zoxide frecency algorithm so frequently or recently opened notes surface first. Open a sidebar panel or quick-search modal to browse and jump to notes ordered by their frecency score."
 
     stats: {
-        downloads:  151
+        downloads:  160
         updated_at: 1779997709000
     }
 }

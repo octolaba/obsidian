@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-indicators
 alt:
   - https://github.com/jakobmick/obsidian-file-indicators
-downloads: 4143
+downloads: 4156
 updated at: "2024-01-17T22:03:43Z"
 related to:
   - "[[GitHub - 705882802]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add custom colored indicators to files and folders in the file explorer to visually mark items at file, folder, or root level. Use built-in shapes or provide SVG shapes that render in the chosen color, and apply indicators via right-click, commands, or settings."
 
     stats: {
-        downloads:  4143
+        downloads:  4156
         updated_at: 1705529023000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/slide-deck
 alt:
   - https://github.com/johannes-kaindl/slide-deck
-downloads: 130
-updated at: "2026-07-19T21:14:39Z"
+downloads: 161
+updated at: "2026-08-10T07:00:48Z"
 related to:
   - "[[GitHub - 1282110930]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Turn a Markdown note into a slide deck and export to PDF or a PNG image series. Render slides in a sandboxed iframe with built-in and user themes, live preview with readability warnings, frontmatter-controlled settings, and five per-slide layouts."
 
     stats: {
-        downloads:  130
-        updated_at: 1784495679000
+        downloads:  161
+        updated_at: 1786345248000
     }
 }
 ```

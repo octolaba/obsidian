@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-scroll-to-top-plugin
 alt:
   - https://github.com/cloudhao1999/obsidian-scroll-to-top-plugin
-downloads: 26626
+downloads: 27036
 updated at: "2025-07-08T02:47:22Z"
 related to:
   - "[[GitHub - 557729519]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a status-bar button to jump to the top or bottom of the current note. Use a ribbon button to scroll to the cursor or selection in edit mode and customize button style and behavior."
 
     stats: {
-        downloads:  26626
+        downloads:  27036
         updated_at: 1751942842000
     }
 }

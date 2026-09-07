@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pdf-image-extractor
 alt:
   - https://github.com/svew/obsidian-pdf-image-extractor
-downloads: 132
+downloads: 199
 updated at: "2026-06-19T00:11:41Z"
 related to:
   - "[[GitHub - 1272782007]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extract embedded images from the open PDF and save each image into a subfolder in your vault. Scan every page and export images to your attachments folder with indexed filenames and a custom output location."
 
     stats: {
-        downloads:  132
+        downloads:  199
         updated_at: 1781827901000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/spoilers
 alt:
   - https://github.com/jacobtread/obsidian-spoilers
-downloads: 4091
+downloads: 4153
 updated at: "2026-02-05T06:41:35Z"
 related to:
   - "[[GitHub - 766322785]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create hidable spoiler blocks to hide and reveal content inline. Use plain-text, markdown, or env-variable blocks with show/hide controls and copy buttons, and copy full content or individual keys/values."
 
     stats: {
-        downloads:  4091
+        downloads:  4153
         updated_at: 1770273695000
     }
 }

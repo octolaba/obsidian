@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/knowledge-objects
 alt:
   - https://github.com/linye0/knowledge-objects
-downloads: 15
+downloads: 48
 updated at: "2026-07-23T12:26:18Z"
 related to:
   - "[[GitHub - 1308601108]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render local music fenced code blocks as interactive audio players that show title, artist, cover image, playback progress, and duration. Use vault-relative audio and image files, work on desktop and mobile, and preserve readable Markdown when the plugin is disabled."
 
     stats: {
-        downloads:  15
+        downloads:  48
         updated_at: 1784809578000
     }
 }

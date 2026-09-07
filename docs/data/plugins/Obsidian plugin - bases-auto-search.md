@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bases-auto-search
 alt:
   - https://github.com/churnish/bases-auto-search
-downloads: 4862
+downloads: 5815
 updated at: "2026-03-02T20:10:28Z"
 related to:
   - "[[GitHub - 1169574750]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open the search bar in Bases automatically whenever you open a Bases view. Focus the search field immediately so you can start typing to find records without extra clicks."
 
     stats: {
-        downloads:  4862
+        downloads:  5815
         updated_at: 1772482228000
     }
 }

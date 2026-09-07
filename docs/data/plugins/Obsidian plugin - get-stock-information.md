@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/get-stock-information
 alt:
   - https://github.com/mikejongbloet/obsidian-get-stock-information
-downloads: 5619
+downloads: 5642
 updated at: "2023-04-02T21:01:57Z"
 related to:
   - "[[GitHub - 622312505]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert live stock data for any symbol directly into your note. Display bid/ask, spread, name, currency, volume, market cap, day and 52-week ranges, and a timestamp in a callout block."
 
     stats: {
-        downloads:  5619
+        downloads:  5642
         updated_at: 1680469317000
     }
 }

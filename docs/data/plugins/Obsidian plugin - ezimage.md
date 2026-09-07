@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ezimage
 alt:
   - https://github.com/keepwonder/ezimage-obsidian
-downloads: 293
+downloads: 324
 updated at: "2026-07-10T01:36:46Z"
 related to:
   - "[[GitHub - 1246490561]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Paste or drag images into notes to upload them to cloud storage and insert a Markdown image link instead of saving local files. Convert and compress images to WebP before upload, support Cloudflare R2, and sign uploads locally so credentials never leave your machine."
 
     stats: {
-        downloads:  293
+        downloads:  324
         updated_at: 1783647406000
     }
 }

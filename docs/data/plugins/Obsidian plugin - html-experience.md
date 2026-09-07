@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/html-experience
 alt:
   - https://github.com/yabswannalearn/html-experience
-downloads: 454
+downloads: 605
 updated at: "2026-06-14T09:46:16Z"
 related to:
   - "[[GitHub - 1268940189]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bring the web directly into your vault with HTML Experience. This plugin lets you open .html, .htm, .mht, and .mhtml files right inside Obsidian, complete with fully functional, sandboxed JavaScript support. Tailor your reading experience by toggling between dark and light modes, preserving original page colors, or setting custom backgrounds. It’s built for productivity, featuring in-page text search, zoom controls, full-screen viewing, and external link routing to your default browser. Plus, with auto-reloading on external edits, your web files are always up to date the moment you save them."
 
     stats: {
-        downloads:  454
+        downloads:  605
         updated_at: 1781430376000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mermaid-elk-renderer
 alt:
   - https://github.com/smolblackhole/mermaid-elk-renderer
-downloads: 481
+downloads: 604
 updated at: "2026-07-09T16:50:19Z"
 related to:
   - "[[GitHub - 1204008922]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Re-enable the ELK layout engine for Mermaid diagrams and apply ELK layouts on a per-diagram basis by adding %% elk %% to the code block. Keep default Mermaid rendering for other diagrams, preserve custom classDef styling, and respect Obsidian's light/dark color scheme."
 
     stats: {
-        downloads:  481
+        downloads:  604
         updated_at: 1783615819000
     }
 }

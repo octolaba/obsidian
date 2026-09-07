@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/qb-reader-parser
 alt:
   - https://github.com/j-barta/qb-reader-parser
-downloads: 3453
+downloads: 3507
 updated at: "2024-05-06T13:56:07Z"
 related to:
   - "[[GitHub - 682570298]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Parse QB Reader tossups into Obsidian_to_Anki–ready cloze cards via the QB Reader API. Open a query dialog to fetch tossups, highlight sentences to split clues, and click lines to convert them into Anki-ready cloze format."
 
     stats: {
-        downloads:  3453
+        downloads:  3507
         updated_at: 1715003767000
     }
 }

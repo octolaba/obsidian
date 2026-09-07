@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/voice-md
 alt:
   - https://github.com/denizokcu/voice-md
-downloads: 500
-updated at: "2026-05-22T14:36:40Z"
+downloads: 601
+updated at: "2026-07-30T17:05:37Z"
 related to:
   - "[[GitHub - 1079237732]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Record audio and transcribe it inline using OpenAI's GPT‑4o audio models, with auto‑language detection and mobile support. Enable meeting mode for automatic speaker identification in multi‑speaker recordings, or generate both raw and GPT‑formatted markdown transcriptions saved and cross‑linked in your vault."
 
     stats: {
-        downloads:  500
-        updated_at: 1779460600000
+        downloads:  601
+        updated_at: 1785431137000
     }
 }
 ```

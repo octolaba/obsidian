@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sync-graph-settings
 alt:
   - https://github.com/xallt/sync-graph-settings
-downloads: 16575
+downloads: 16768
 updated at: "2025-06-13T14:11:11Z"
 related to:
   - "[[GitHub - 544357454]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Global Graph Color Groups to the active Local Graph with a single command. Keep local graph node colors and groupings identical to your Global Graph settings for consistent visualization."
 
     stats: {
-        downloads:  16575
+        downloads:  16768
         updated_at: 1749823871000
     }
 }

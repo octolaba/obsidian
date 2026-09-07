@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-keyword-linker
 alt:
   - https://github.com/danrhodes/AutoKeywordLinker
-downloads: 15303
+downloads: 16466
 updated at: "2026-04-09T19:16:26Z"
 related to:
   - "[[GitHub - 1073742191]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert keywords into wiki-style links across your vault. Build an interconnected knowledge graph with automatic backlinks, bulk linking, AI-powered keyword suggestions, and respect for existing links, code blocks, and other markdown formatting."
 
     stats: {
-        downloads:  15303
+        downloads:  16466
         updated_at: 1775762186000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quick-cards
 alt:
   - https://github.com/abcamus/obsidian-quick-card
-downloads: 1508
+downloads: 1519
 updated at: "2024-09-01T08:25:42Z"
 related to:
   - "[[GitHub - 839630386]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display files in the current folder as cards showing note title, creation date, and a brief summary. Open notes by clicking a card or create a new note with the plus button in the card view. Switch automatically to the folder of the file open in the editor to keep cards synced."
 
     stats: {
-        downloads:  1508
+        downloads:  1519
         updated_at: 1725179142000
     }
 }

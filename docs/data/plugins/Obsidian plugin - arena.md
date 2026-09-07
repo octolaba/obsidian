@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/arena
 alt:
   - https://github.com/0xroko/obsidian-arena-plugin
-downloads: 2474
+downloads: 2495
 updated at: "2024-06-24T12:46:28Z"
 related to:
   - "[[GitHub - 708529028]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save Are.na blocks as local Obsidian notes and display them inline in your vault. Support all block types, open original blocks in your browser, save private blocks using a personal access token, and store files by block ID for a DB-free workflow."
 
     stats: {
-        downloads:  2474
+        downloads:  2495
         updated_at: 1719233188000
     }
 }

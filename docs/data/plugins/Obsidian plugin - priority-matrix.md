@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/priority-matrix
 alt:
   - https://github.com/murtazaraza/prioritymatrix-obsidian
-downloads: 299
+downloads: 332
 updated at: "2026-05-19T19:23:07Z"
 related to:
   - "[[GitHub - 1086417136]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and manage 2×2 priority matrix notes that auto-detect tasks by tag across your vault. Drag and drop tasks between quadrants, mark tasks done, and keep matrices as editable Markdown files with automatic matrix view for matching filenames."
 
     stats: {
-        downloads:  299
+        downloads:  332
         updated_at: 1779218587000
     }
 }

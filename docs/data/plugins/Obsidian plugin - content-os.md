@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/content-os
 alt:
   - https://github.com/eharris128/obsidian-content-os
-downloads: 300
+downloads: 315
 updated at: "2026-06-10T16:42:47Z"
 related to:
   - "[[GitHub - 1005662138]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Post to LinkedIn directly from your vault using a simple in-Obsidian composer modal. Compose and publish posts with a live character counter that respects LinkedIn's 3000-character limit, and authenticate securely via OAuth."
 
     stats: {
-        downloads:  300
+        downloads:  315
         updated_at: 1781109767000
     }
 }

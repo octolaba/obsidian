@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-import-json
 alt:
   - https://github.com/farling42/obsidian-import-json
-downloads: 75015
+downloads: 76409
 updated at: "2026-07-07T15:43:51Z"
 related to:
   - "[[GitHub - 442504460]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import JSON or CSV tables and create one Obsidian note per CSV row or JSON object. Use Handlebars templates and optional JS helpers to map fields, build note titles from fields or code, and pull JSON from local files or URLs."
 
     stats: {
-        downloads:  75015
+        downloads:  76409
         updated_at: 1783439031000
     }
 }

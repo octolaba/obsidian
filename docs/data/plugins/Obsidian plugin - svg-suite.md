@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/svg-suite
 alt:
   - https://github.com/ezxabi/svg-suite
-downloads: 88
+downloads: 139
 updated at: "2026-07-06T15:33:53Z"
 related to:
   - "[[GitHub - 1290532229]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open and edit SVG files directly in Obsidian with a dedicated viewer that opens SVGs automatically and supports smooth pan/zoom, background presets, and hover controls for embedded images. Edit source in a live, syntax‑highlighted XML editor and export the current view as PNG up to 4x."
 
     stats: {
-        downloads:  88
+        downloads:  139
         updated_at: 1783352033000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-or-create-file-command
 alt:
   - https://github.com/iparips/open-or-create-file-obsidian-plugin
-downloads: 450
+downloads: 468
 updated at: "2026-03-30T05:04:00Z"
 related to:
   - "[[GitHub - 864325961]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create or open files from templates and pattern-based paths using date-aware placeholders. Add custom commands with time-shifted dates for daily, weekly, or recurring notes, and import/export command configurations as JSON."
 
     stats: {
-        downloads:  450
+        downloads:  468
         updated_at: 1774847040000
     }
 }

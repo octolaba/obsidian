@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/time-stamp-hider
 alt:
   - https://github.com/leonyew-ley/obsidian-time-stamp-hider
-downloads: 92
+downloads: 111
 updated at: "2026-07-05T11:10:28Z"
 related to:
   - "[[GitHub - 1274191727]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide timestamp prefixes (e.g., 2603040057) from Zettelkasten-style internal link display text so links show only the human title. Keep filenames, Markdown source, aliases and backlinks unchanged, support a custom prefix regular expression, and apply hiding in Reading View and Live Preview where stable rendering allows."
 
     stats: {
-        downloads:  92
+        downloads:  111
         updated_at: 1783249828000
     }
 }

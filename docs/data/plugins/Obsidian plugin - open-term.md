@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-term
 alt:
   - https://github.com/daolyap/openterm
-downloads: 115
+downloads: 122
 updated at: "2026-03-05T13:01:45Z"
 related to:
   - "[[GitHub - 1164728383]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open the currently right-clicked file or folder in your operating system's terminal. Configure terminal executables and application names, and disable options you don't need."
 
     stats: {
-        downloads:  115
+        downloads:  122
         updated_at: 1772715705000
     }
 }

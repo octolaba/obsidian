@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/arbor
 alt:
   - https://github.com/kpyruy/Arbor
-downloads: 671
-updated at: "2026-05-16T11:06:41Z"
+downloads: 1307
+updated at: "2026-08-06T16:13:39Z"
 related to:
   - "[[GitHub - 1190967451]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Write in branching, left-to-right blocks inside a single Markdown note. View the current branch, nearby alternatives, and next steps while editing inline. Reorder with drag-and-drop, keyboard navigation, and block search, and keep the source as a normal .md file—no canvas or export needed."
 
     stats: {
-        downloads:  671
-        updated_at: 1778929601000
+        downloads:  1307
+        updated_at: 1786032819000
     }
 }
 ```

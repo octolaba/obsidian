@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/md-table-to-latex
 alt:
   - https://github.com/pengivy1990/md-table-to-latex
-downloads: 102
+downloads: 116
 updated at: "2026-05-23T11:58:47Z"
 related to:
   - "[[GitHub - 1245387803]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert selected Markdown tables into LaTeX array environments wrapped in $$ for MathJax rendering. Parse Markdown alignment for column formatting, strip redundant $ from inline math, and insert an optional table caption."
 
     stats: {
-        downloads:  102
+        downloads:  116
         updated_at: 1779537527000
     }
 }

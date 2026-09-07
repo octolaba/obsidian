@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/animelist
 alt:
   - https://github.com/cwh555/AnimeList
-downloads: 36
-updated at: "2026-07-22T03:05:40Z"
+downloads: 195
+updated at: "2026-08-07T06:36:13Z"
 related to:
   - "[[GitHub - 1305781129]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Track anime/manga/novels in plain Markdown and keep files as the source of truth — no Dataview dependency or private media database. Browse a native library view, search Bangumi/AniList/Open Library, download covers locally, record scores and progress, apply filters and favorites, and inspect a pannable completion timeline."
 
     stats: {
-        downloads:  36
-        updated_at: 1784689540000
+        downloads:  195
+        updated_at: 1786084573000
     }
 }
 ```

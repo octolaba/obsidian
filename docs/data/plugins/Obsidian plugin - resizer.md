@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/resizer
 alt:
   - https://github.com/pixerojan/obsidian-resizer
-downloads: 1494
+downloads: 1875
 updated at: "2026-06-07T08:52:56Z"
 related to:
   - "[[GitHub - 1070809234]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Drag corner handles to resize and scale embedded images and PDFs in Live Preview. Automatically update markdown with exact dimensions and store PDF scale as HTML comments for persistent, cross-device sync."
 
     stats: {
-        downloads:  1494
+        downloads:  1875
         updated_at: 1780822376000
     }
 }

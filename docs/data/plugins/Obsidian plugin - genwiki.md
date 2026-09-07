@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/genwiki
 alt:
   - https://github.com/yvonshong/genwiki
-downloads: 159
+downloads: 210
 updated at: "2026-06-06T12:33:26Z"
 related to:
   - "[[GitHub - 1260607282]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Build an incremental LLM wiki from web clippings, merging findings into wikilinked notes and archiving sources. Ask context-aware questions in a conversational sidebar with wikilinked citations, save syntheses as wiki pages, and audit to reveal contradictions and gaps."
 
     stats: {
-        downloads:  159
+        downloads:  210
         updated_at: 1780749206000
     }
 }

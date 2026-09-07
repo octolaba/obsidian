@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gpg-crypt
 alt:
   - https://github.com/tejado/obsidian-gpgCrypt
-downloads: 7624
+downloads: 7693
 updated at: "2025-08-27T19:43:11Z"
 related to:
   - "[[GitHub - 690161121]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Encrypt notes using OpenPGP.js or your local GnuPG installation, with OpenPGP smartcard support (YubiKey, Nitrokey) and asymmetric key pairs. Keep full Obsidian editing and workflow while optionally encrypting all notes, with status-bar and mobile (OpenPGP.js) support. Note that encrypted notes may still be cached unencrypted on disk."
 
     stats: {
-        downloads:  7624
+        downloads:  7693
         updated_at: 1756323791000
     }
 }

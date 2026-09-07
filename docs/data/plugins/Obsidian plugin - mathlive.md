@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mathlive
 alt:
   - https://github.com/danzilberdan/obsidian-mathlive
-downloads: 29034
+downloads: 29479
 updated at: "2026-04-08T15:33:03Z"
 related to:
   - "[[GitHub - 596070462]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert and edit inline or display math using a visual MathLive editor directly in your notes. Convert copied formula images into editable LaTeX via cloud or local OCR and insert results for quick cleanup."
 
     stats: {
-        downloads:  29034
+        downloads:  29479
         updated_at: 1775662383000
     }
 }

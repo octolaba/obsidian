@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/favorite-note
 alt:
   - https://github.com/mahmudz/obsidian-favorite-plugin
-downloads: 6951
+downloads: 6997
 updated at: "2024-10-27T18:00:58Z"
 related to:
   - "[[GitHub - 701326373]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mark notes as favorites directly from the note list. Show a heart icon when hovering over notes to quickly highlight and access preferred items."
 
     stats: {
-        downloads:  6951
+        downloads:  6997
         updated_at: 1730052058000
     }
 }

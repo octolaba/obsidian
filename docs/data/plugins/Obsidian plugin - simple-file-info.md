@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-file-info
 alt:
   - https://github.com/lukas-cap/simple-file-info
-downloads: 849
+downloads: 910
 updated at: "2025-03-31T20:17:54Z"
 related to:
   - "[[GitHub - 929964101]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display basic file metadata in a compact pane in Obsidian's right sidebar, including simple image details. Keep a native, theme-friendly appearance with minimal UI and no extra bloat."
 
     stats: {
-        downloads:  849
+        downloads:  910
         updated_at: 1743452274000
     }
 }

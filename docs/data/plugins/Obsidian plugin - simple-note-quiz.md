@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-note-quiz
 alt:
   - https://github.com/beginner137/Obsidian-simple-note-quiz
-downloads: 5591
+downloads: 5612
 updated at: "2022-04-08T10:30:26Z"
 related to:
   - "[[GitHub - 436892898]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a simple quiz from the current note's Q&A lines. Parse lines ending with a question mark (or use bullet points as separators) into question/answer cards, present cards to answer, and mark items Correct or Wrong directly on the note to track progress and scores."
 
     stats: {
-        downloads:  5591
+        downloads:  5612
         updated_at: 1649413826000
     }
 }

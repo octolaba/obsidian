@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-emoji-toolbar
 alt:
   - https://github.com/oliveryh/obsidian-emoji-toolbar
-downloads: 481337
+downloads: 486445
 updated at: "2025-11-17T21:33:02Z"
 related to:
   - "[[GitHub - 316953248]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search and insert emojis directly into the editor. Filter results with fuzzy/semantic matching, skin tone support, and a recently used list. Preview and insert Twitter-style emoji formatting when preferred."
 
     stats: {
-        downloads:  481337
+        downloads:  486445
         updated_at: 1763415182000
     }
 }

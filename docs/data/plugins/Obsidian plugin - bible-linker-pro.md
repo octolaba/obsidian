@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bible-linker-pro
 alt:
   - https://github.com/floydv149/bibleLinkerPro
-downloads: 2882
+downloads: 2933
 updated at: "2025-04-04T12:04:02Z"
 related to:
   - "[[GitHub - 705834442]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert short or long Bible references (e.g., \"ge 1:1\" or \"Genesis 1:1\") into JW Library links that open directly from your notes without altering them. Format link output, auto-capture the current verse, choose preferred Bible edition and language, and open links automatically."
 
     stats: {
-        downloads:  2882
+        downloads:  2933
         updated_at: 1743768242000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/biblib
 alt:
   - https://github.com/callumalpass/obsidian-biblib
-downloads: 7147
+downloads: 7260
 updated at: "2026-05-14T12:14:22Z"
 related to:
   - "[[GitHub - 969474435]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage bibliographic references as Markdown notes with CSL‑JSON metadata in YAML frontmatter, keeping each reference as a plain-text, git-friendly file in your vault. Fetch metadata via DOI, ISBN, PubMed, arXiv or URL, receive references from the Zotero browser connector, and export bibliographies as CSL‑JSON or BibTeX for Pandoc."
 
     stats: {
-        downloads:  7147
+        downloads:  7260
         updated_at: 1778760862000
     }
 }

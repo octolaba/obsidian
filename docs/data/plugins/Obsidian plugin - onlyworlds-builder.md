@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/onlyworlds-builder
 alt:
   - https://github.com/onlyworlds/obsidian-plugin
-downloads: 1573
+downloads: 1680
 updated at: "2026-07-17T08:47:37Z"
 related to:
   - "[[GitHub - 841069464]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and manage complete worldbuilding projects using the OnlyWorlds data standard directly inside Obsidian. Organize elements as notes in a dedicated OnlyWorlds folder, export or copy full world JSON, and upload or import worlds to the OnlyWorlds framework."
 
     stats: {
-        downloads:  1573
+        downloads:  1680
         updated_at: 1784278057000
     }
 }

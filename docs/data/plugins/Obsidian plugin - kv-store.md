@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kv-store
 alt:
   - https://github.com/darren-project/obsidian-kv
-downloads: 873
+downloads: 931
 updated at: "2025-01-27T04:24:17Z"
 related to:
   - "[[GitHub - 751255744]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Store and retrieve key-value pairs in your vault using a JSON-based store. Edit data directly in a Settings textarea with automatic JSON validation and saving. Access the store programmatically via kv.set, kv.get, kv.delete, kv.has, kv.keys, kv.values and kv.entries."
 
     stats: {
-        downloads:  873
+        downloads:  931
         updated_at: 1737951857000
     }
 }

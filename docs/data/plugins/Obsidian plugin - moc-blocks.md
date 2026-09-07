@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/moc-blocks
 alt:
   - https://github.com/nebulousnessie/Obsidian-MOCBlocks
-downloads: 137
+downloads: 155
 updated at: "2026-05-16T17:58:47Z"
 related to:
   - "[[GitHub - 1014486040]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create interactive Maps of Content (MOCs) by attaching clickable marker and area links to an image using \"MOC Blocks\". Add and edit markers, draw polylines, and customize marker styles; save marker locations and links in per‑MOC files for persistent, editable maps."
 
     stats: {
-        downloads:  137
+        downloads:  155
         updated_at: 1778954327000
     }
 }

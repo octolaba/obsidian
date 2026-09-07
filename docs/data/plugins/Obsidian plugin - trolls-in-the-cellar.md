@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/trolls-in-the-cellar
 alt:
   - https://github.com/daren-thomas/trolls-in-the-cellar
-downloads: 138
+downloads: 183
 updated at: "2026-06-01T14:57:51Z"
 related to:
   - "[[GitHub - 1250015759]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create Perchance-style random generators directly in Markdown notes using troll-food tables and troll-speak blocks. Render interactive rollers in Reading view with Roll and Copy, handle named tables, ranges, weights, nested expansions, and multi-pass recursion for traps, names, loot, prompts, and other structured randomness."
 
     stats: {
-        downloads:  138
+        downloads:  183
         updated_at: 1780325871000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/duplicate-line
 alt:
   - https://github.com/msztolcman/obsidian-duplicate-line
-downloads: 1481
+downloads: 1551
 updated at: "2025-03-18T15:19:11Z"
 related to:
   - "[[GitHub - 494423675]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Duplicate the current line or selected text with a single hotkey. Create instant copies to speed up editing and note composition."
 
     stats: {
-        downloads:  1481
+        downloads:  1551
         updated_at: 1742311151000
     }
 }

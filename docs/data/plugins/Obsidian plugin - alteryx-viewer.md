@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/alteryx-viewer
 alt:
   - https://github.com/viggomeesters/obsidian-alteryx-viewer
-downloads: 81
+downloads: 95
 updated at: "2026-06-08T06:52:16Z"
 related to:
   - "[[GitHub - 1262619969]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Inspect .yxmd workflows and browse .yxzp packages in a read-only view that shows metadata, tools, connections, paths, formulas and source XML. Flag malformed XML, duplicate or missing ToolIDs, unknown tool types, and broken connections without executing or modifying files."
 
     stats: {
-        downloads:  81
+        downloads:  95
         updated_at: 1780901536000
     }
 }

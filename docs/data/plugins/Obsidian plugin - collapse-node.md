@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/collapse-node
 alt:
   - https://github.com/quorafind/Obsidian-Collapse-Node
-downloads: 15979
+downloads: 16233
 updated at: "2025-03-05T09:10:11Z"
 related to:
   - "[[GitHub - 683882598]]"
@@ -28,7 +28,7 @@ Collapse Node collapses and expands nodes in Canvas through workspace commands, 
 plugin: {
     id:     "collapse-node"
     name:   "Collapse Node"
-    author: "quorafind"
+    author: "Boninall"
     repo:   "quorafind/Obsidian-Collapse-Node"
 
     html_url:    "https://community.obsidian.md/plugins/collapse-node"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Collapse and expand nodes in Canvas using workspace commands, context menus, or direct header clicks. Set or remove custom aliases and thumbnails to display in the collapsed state and fold all or selected nodes."
 
     stats: {
-        downloads:  15979
+        downloads:  16233
         updated_at: 1741165811000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/DEVONlink-obsidian
 alt:
   - https://github.com/ryanjamurphy/DEVONlink-obsidian
-downloads: 9428
+downloads: 9462
 updated at: "2021-06-18T19:07:21Z"
 related to:
   - "[[GitHub - 346798864]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Integrate Obsidian with DEVONthink to open or reveal the current note and insert related files suggested by DEVONthink’s AI. Search by the active note’s name across open DEVONthink databases and pair with the companion AppleScript to link notes between apps."
 
     stats: {
-        downloads:  9428
+        downloads:  9462
         updated_at: 1624043241000
     }
 }

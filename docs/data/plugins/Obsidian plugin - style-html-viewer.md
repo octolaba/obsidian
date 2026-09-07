@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/style-html-viewer
 alt:
   - https://github.com/taihoe/obisidian-html-viewer
-downloads: 142
+downloads: 223
 updated at: "2026-06-30T06:17:56Z"
 related to:
   - "[[GitHub - 1283831549]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render HTML files inside Obsidian workspace tabs using a sandboxed iframe with a strict Content Security Policy. Toggle between live, auto-reloading rendered preview and raw source, convert relative assets to vault URIs, and open local links in native tabs while external links launch your browser."
 
     stats: {
-        downloads:  142
+        downloads:  223
         updated_at: 1782800276000
     }
 }

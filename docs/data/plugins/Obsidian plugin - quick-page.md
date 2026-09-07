@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/quick-page
 alt:
   - https://github.com/fengshuzi/quick-page
-downloads: 75
-updated at: "2026-05-25T09:56:33Z"
+downloads: 101
+updated at: "2026-08-04T03:47:15Z"
 related to:
   - "[[GitHub - 1132749472]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create timestamped Markdown notes in your pages directory with a single click. Add a left‑sidebar + button to generate files named yyyymmddhhmm.md and open them instantly, compatible with Logseq pages structure."
 
     stats: {
-        downloads:  75
-        updated_at: 1779702993000
+        downloads:  101
+        updated_at: 1785815235000
     }
 }
 ```

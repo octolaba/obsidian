@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/marginnote-sync
 alt:
   - https://github.com/cheendfdf/marginnote-obsidian-sync
-downloads: 163
+downloads: 211
 updated at: "2026-06-02T03:39:42Z"
 related to:
   - "[[GitHub - 1256230346]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync MarginNote 4 annotations, highlights, notes and mind maps into Obsidian as per-book Markdown files with YAML frontmatter and Canvas (.canvas) mind maps. Read MN4's live SQLite DB for incremental updates, rebuild hierarchical mind maps, render callouts and wikilinks, and keep marginnote4app:// deep links back to the source."
 
     stats: {
-        downloads:  163
+        downloads:  211
         updated_at: 1780371582000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-auto-tagger
 alt:
   - https://github.com/oyuk/ai-auto-tagger
-downloads: 163
+downloads: 178
 updated at: "2026-01-24T02:57:20Z"
 related to:
   - "[[GitHub - 1140975048]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate tags for the active note using Google's Gemini API and insert them into frontmatter. Sanitize tags to Obsidian format, limit the number generated, and optionally reuse existing vault tags for consistent labeling."
 
     stats: {
-        downloads:  163
+        downloads:  178
         updated_at: 1769223440000
     }
 }

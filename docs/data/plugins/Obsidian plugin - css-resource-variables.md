@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/css-resource-variables
 alt:
   - https://github.com/chrisairbrown-del/CSS-Resource-Variables
-downloads: 21
+downloads: 67
 updated at: "2026-07-21T17:31:49Z"
 related to:
   - "[[GitHub - 1307098697]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Map a vault file to a CSS custom property so themes and snippets can reference it via var(--name). Provide local images, fonts, or other assets to theme/snippet CSS without network calls or base64 embedding; paths auto-resolve and follow files when renamed or moved."
 
     stats: {
-        downloads:  21
+        downloads:  67
         updated_at: 1784655109000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/supabase-vault-sync
 alt:
   - https://github.com/dsnbyte/obsidian-supabase-sync
-downloads: 139
+downloads: 169
 updated at: "2026-07-01T14:49:59Z"
 related to:
   - "[[GitHub - 1261452089]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault bidirectionally with Supabase Postgres (notes and frontmatter) and Supabase Storage (attachments). Work offline with queued changes that sync automatically, secure sessions via email/password, enforce strict row-level security, per-vault isolation and device tracking."
 
     stats: {
-        downloads:  139
+        downloads:  169
         updated_at: 1782917399000
     }
 }

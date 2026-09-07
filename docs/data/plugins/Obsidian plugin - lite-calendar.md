@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/lite-calendar
 alt:
   - https://github.com/fengshuzi/lite-calendar
-downloads: 141
-updated at: "2026-07-17T13:20:23Z"
+downloads: 185
+updated at: "2026-08-04T03:46:46Z"
 related to:
   - "[[GitHub - 1131616920]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Integrate macOS Calendar into Obsidian with a Thino-style, interactive calendar view. View upcoming three days of events and create, edit, or delete events across multiple calendars, including all-day items, locations, and notes. Require macOS and grant calendar access permission."
 
     stats: {
-        downloads:  141
-        updated_at: 1784294423000
+        downloads:  185
+        updated_at: 1785815206000
     }
 }
 ```

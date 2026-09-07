@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/redline
 alt:
   - https://github.com/nicolasassi/redline
-downloads: 301
+downloads: 505
 updated at: "2026-06-01T14:44:39Z"
 related to:
   - "[[GitHub - 1242442408]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add PR-style review comments to any document and keep them in a sibling .review.md sidecar so source notes stay clean. Anchor comments to paragraphs, headings, lists, images, code blocks, callouts, or tables using block-reference anchors, and use gutter markers plus a review sidebar to jump, filter, and resolve comments."
 
     stats: {
-        downloads:  301
+        downloads:  505
         updated_at: 1780325079000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/oxygen-settings
 alt:
   - https://github.com/davidvkimball/obsidian-oxygen-settings
-downloads: 9145
-updated at: "2026-05-30T19:46:11Z"
+downloads: 9440
+updated at: "2026-08-10T22:39:35Z"
 related to:
   - "[[GitHub - 1082816217]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Configure Oxygen Theme visuals and behavior from Obsidian's settings. Adjust animations, auto-hide file-explorer icons and navbar reveal, and background blur, with optional Style Settings support for finer theme tweaks."
 
     stats: {
-        downloads:  9145
-        updated_at: 1780170371000
+        downloads:  9440
+        updated_at: 1786401575000
     }
 }
 ```

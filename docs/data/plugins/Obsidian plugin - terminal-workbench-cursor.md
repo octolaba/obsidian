@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/terminal-workbench-cursor
 alt:
   - https://github.com/real-fruit-snacks/terminal-workbench-cursor
-downloads: 54
+downloads: 72
 updated at: "2026-07-18T20:35:56Z"
 related to:
   - "[[GitHub - 1302174732]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Replace Obsidian's caret with a canvas-driven engine offering box, line, or underline cursors with smooth gliding motion, glow, blink and layered trails. Add a torch spotlight that dims the workspace and a Ghost Trail that peels a tiny ghost off typed characters, plus pixel trails, motion smear and CRT afterimages that adopt Terminal Workbench accent colors."
 
     stats: {
-        downloads:  54
+        downloads:  72
         updated_at: 1784406956000
     }
 }

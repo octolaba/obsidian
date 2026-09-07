@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/noor
 alt:
   - https://github.com/mksherbini/obsidian-noor
-downloads: 893
+downloads: 913
 updated at: "2024-10-18T21:55:59Z"
 related to:
   - "[[GitHub - 805390794]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert random Quran or Hadith quotes at the cursor with Arabic text, selectable translation and recitation info, and source links. Create or update a Dhikr file containing a Quran and Hadith quote and call noorJS.randomQuranQuote() / noorJS.randomHadithQuote() from scripts or templates to fetch quotes programmatically."
 
     stats: {
-        downloads:  893
+        downloads:  913
         updated_at: 1729288559000
     }
 }

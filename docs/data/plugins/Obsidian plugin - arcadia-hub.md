@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/arcadia-hub
 alt:
   - https://github.com/arcadia-studio/obsidian-arcadia-hub
-downloads: 89
+downloads: 99
 updated at: "2026-06-10T19:32:50Z"
 related to:
   - "[[GitHub - 1193974039]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse GitHub repos, issues, pull requests, and Actions from an Obsidian sidebar. Create issues from the current note (title and body pre-filled), monitor CI/Actions status, and switch repositories without leaving Obsidian. Enable premium AI extras like NotebookLM sync and a Claude Code bridge."
 
     stats: {
-        downloads:  89
+        downloads:  99
         updated_at: 1781119970000
     }
 }

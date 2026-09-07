@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/halo
 alt:
   - https://github.com/halo-sigs/obsidian-halo
-downloads: 3900
+downloads: 3957
 updated at: "2026-06-24T07:10:19Z"
 related to:
   - "[[GitHub - 648588132]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish Obsidian notes to your Halo site directly from the editor. Pull posts from Halo into your vault and update note content from the site to keep them synchronized. Configure multiple Halo sites and mark one as the default for quick publishing."
 
     stats: {
-        downloads:  3900
+        downloads:  3957
         updated_at: 1782285019000
     }
 }

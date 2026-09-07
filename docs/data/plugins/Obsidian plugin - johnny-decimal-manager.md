@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/johnny-decimal-manager
 alt:
   - https://github.com/rzrabbi/obsidian-johnny-decimal-manager
-downloads: 194
+downloads: 222
 updated at: "2026-05-16T09:15:02Z"
 related to:
   - "[[GitHub - 1225851545]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize your vault with the Johnny.Decimal classification by automating creation and enforcement of Area, Category, and Item addresses. Create missing parent folders on demand and keep your on-disk hierarchy and filenames consistent for cross-platform, cloud, and AI-friendly workflows."
 
     stats: {
-        downloads:  194
+        downloads:  222
         updated_at: 1778922902000
     }
 }

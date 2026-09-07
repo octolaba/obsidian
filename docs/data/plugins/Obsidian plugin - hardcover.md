@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hardcover
 alt:
   - https://github.com/aliceinwaterdeep/obsidian-hardcover
-downloads: 1407
+downloads: 1497
 updated at: "2026-07-21T10:24:29Z"
 related to:
   - "[[GitHub - 976156223]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Hardcover library to Obsidian, creating one note per book with metadata stored in frontmatter. Use customizable note and filename templates, group notes by author or series, filter by status, and preserve personal notes below a delimiter while performing incremental updates."
 
     stats: {
-        downloads:  1407
+        downloads:  1497
         updated_at: 1784629469000
     }
 }

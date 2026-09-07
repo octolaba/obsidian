@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/settings-management
 alt:
   - https://github.com/xhuajin/obsidian-settings-management
-downloads: 5157
+downloads: 5438
 updated at: "2026-02-10T05:59:55Z"
 related to:
   - "[[GitHub - 800826852]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a menu to the bottom-right of the Settings tab that lists all enabled and disabled plugins and CSS in a grid layout. Save current plugin and CSS enable states as named configs, rename or delete them via right-click, and apply saved sets instantly using optional Lucide icons."
 
     stats: {
-        downloads:  5157
+        downloads:  5438
         updated_at: 1770703195000
     }
 }

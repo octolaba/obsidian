@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/worklog
 alt:
   - https://github.com/352662115-hub/worklog-obsidian-plugin
-downloads: 141
-updated at: "2026-07-05T08:58:27Z"
+downloads: 179
+updated at: "2026-07-28T12:22:47Z"
 related to:
   - "[[GitHub - 1227174370]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "管理本地工时、月度任务、每日工时和日历完成状态，并展示年度看板的月度趋势、任务类型占比与项目汇总。使用本地 JSON 按年份归档，按模板自动生成新月任务、同步月度笔记或仅保存数据，支持编辑/删除每日记录、避免同日同任务重复并保护已登记工时任务引用。"
 
     stats: {
-        downloads:  141
-        updated_at: 1783241907000
+        downloads:  179
+        updated_at: 1785241367000
     }
 }
 ```

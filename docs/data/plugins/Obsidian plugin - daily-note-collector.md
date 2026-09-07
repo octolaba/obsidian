@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-note-collector
 alt:
   - https://github.com/la/obsidian-daily-note-collector
-downloads: 2066
+downloads: 2091
 updated at: "2026-04-05T11:07:04Z"
 related to:
   - "[[GitHub - 837730422]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add links to your daily note for every newly created file to keep new notes tracked by date. Maintain a simple per-day index for quick navigation back to recently created files."
 
     stats: {
-        downloads:  2066
+        downloads:  2091
         updated_at: 1775387224000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dndjay
 alt:
   - https://github.com/cosmakes/DnDJay
-downloads: 144
+downloads: 185
 updated at: "2026-06-24T07:40:09Z"
 related to:
   - "[[GitHub - 1275464164]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Control tabletop audio and maps from an Obsidian pane. Mix four Web Audio channels with live meters, use a 12-pad palette for looping beds and one-shots with a quick-fire channel, and prepare or switch scenes with smooth or sudden transitions. Frame vault images or videos (pan/zoom/rotate) and stream maps live to a Raspberry Pi HDMI display."
 
     stats: {
-        downloads:  144
+        downloads:  185
         updated_at: 1782286809000
     }
 }

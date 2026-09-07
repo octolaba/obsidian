@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-key-sequence-shortcut
 alt:
   - https://github.com/anselmwang/obsidian-key-sequence-shortcut
-downloads: 5126
+downloads: 5140
 updated at: "2022-03-15T02:37:14Z"
 related to:
   - "[[GitHub - 463415596]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bind memorable key sequences (like \"tl\" or \"xl\") to any Obsidian command and execute them immediately as you type, without pressing Enter. Manage mappings in a workspace config file and reload changes to apply new or updated shortcuts."
 
     stats: {
-        downloads:  5126
+        downloads:  5140
         updated_at: 1647311834000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/plugin-profile-manager
 alt:
   - https://github.com/k0324-j/plugin-profile-manager
-downloads: 185
+downloads: 197
 updated at: "2026-05-24T07:25:07Z"
 related to:
   - "[[GitHub - 1248068958]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Compare and edit enabled community plugins across multiple Obsidian configuration profiles. Register profile folders, view plugin state (on, off, not installed, or blocked), toggle plugins, copy missing plugin folders between profiles, and back up before uninstalling. Enable privacy mode to mask names for screenshots and protect the manager from accidental removal."
 
     stats: {
-        downloads:  185
+        downloads:  197
         updated_at: 1779607507000
     }
 }

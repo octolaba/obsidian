@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/external-links-view
 alt:
   - https://github.com/theamritanair/obsidian-external-links
-downloads: 779
+downloads: 821
 updated at: "2026-06-26T06:34:44Z"
 related to:
   - "[[GitHub - 1034644970]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Collect all external links from your vault and display them organized by their source notes. Open links in your default browser with a click and access the view from the ribbon or command palette. Exclude unwanted URLs using configurable regex patterns."
 
     stats: {
-        downloads:  779
+        downloads:  821
         updated_at: 1782455684000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/codename
 alt:
   - https://github.com/dstack/obsidian-codename
-downloads: 3913
+downloads: 3922
 updated at: "2023-08-06T22:00:13Z"
 related to:
   - "[[GitHub - 675424915]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate random codenames for projects, notes, or secret items to avoid getting hung up on naming. Insert a generated codename directly at the editor cursor via a Command Palette command."
 
     stats: {
-        downloads:  3913
+        downloads:  3922
         updated_at: 1691359213000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/focus-mode-banner
 alt:
   - https://github.com/adrianofontanari/obsidian-focus-mode-banner
-downloads: 515
+downloads: 529
 updated at: "2026-04-11T18:48:15Z"
 related to:
   - "[[GitHub - 1208043299]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a bold warning banner whenever you navigate away from the note where you started to make context loss deliberate. Auto-dismiss the banner after a few seconds or close it manually; toggle Focus Mode from the ribbon or command palette."
 
     stats: {
-        downloads:  515
+        downloads:  529
         updated_at: 1775933295000
     }
 }

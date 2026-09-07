@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/filename-styler
 alt:
   - https://github.com/marc-f/obsidian-file-name-styler
-downloads: 2569
+downloads: 2667
 updated at: "2025-04-24T08:07:30Z"
 related to:
   - "[[GitHub - 964711207]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide timestamp IDs and style file names in the sidebar using predefined timestamp patterns or custom regular expressions. Add prefixes, suffixes, colors, and emoji icons; restrict styles to folders and combine multiple profiles while keeping original filenames on disk."
 
     stats: {
-        downloads:  2569
+        downloads:  2667
         updated_at: 1745482050000
     }
 }

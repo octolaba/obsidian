@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/repertoire
 alt:
   - https://github.com/samuelbeard/obsidian-repertoire-plugin
-downloads: 402
+downloads: 451
 updated at: "2026-06-18T09:29:12Z"
 related to:
   - "[[GitHub - 1086601033]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Write chord charts using scale-degree notation (e.g., 1, 2, 5/7) and render them as chords in any key. Include altered chords (b3, #4), slash chords, and optional or passing chords using parentheses. Set key and capo in frontmatter to transpose displays."
 
     stats: {
-        downloads:  402
+        downloads:  451
         updated_at: 1781774952000
     }
 }

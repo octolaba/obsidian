@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vk-group-notifier
 alt:
   - https://github.com/filichev-evgeny/obsidianvkupdatenotifier
-downloads: 1272
+downloads: 1287
 updated at: "2023-12-26T11:48:39Z"
 related to:
   - "[[GitHub - 711534947]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Monitor new posts from vk.com groups and display them in your vault. Authorize with your VK account to grant group access; authentication is handled by vk.com. Add vk-group-notifier codeblocks with a group name or id in notes to track groups and set per-block options like maxDays, pinLast, and maxTextLength."
 
     stats: {
-        downloads:  1272
+        downloads:  1287
         updated_at: 1703591319000
     }
 }

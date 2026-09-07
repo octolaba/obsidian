@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/bamboo-immortals
 alt:
   - https://github.com/miaoziguan/obsidian-bamboo-immortals
-downloads: 355
-updated at: "2026-07-23T04:03:59Z"
+downloads: 643
+updated at: "2026-08-10T14:54:13Z"
 related to:
   - "[[GitHub - 1288172009]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Automate goals and daily tasks with a Chinese-style system that breaks multi-level goals into tasks and logs activity across a 9-period timeline. Run deep reviews and earn bamboo coins to redeem rewards, level up through 10 stages (100 levels), and add procedural bamboo ambient sounds and animated themes."
 
     stats: {
-        downloads:  355
-        updated_at: 1784779439000
+        downloads:  643
+        updated_at: 1786373653000
     }
 }
 ```

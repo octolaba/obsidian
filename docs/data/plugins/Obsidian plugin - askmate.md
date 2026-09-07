@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/askmate
 alt:
   - https://github.com/codewithbehnam/askmate
-downloads: 233
+downloads: 267
 updated at: "2026-07-17T22:13:52Z"
 related to:
   - "[[GitHub - 1236330582]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a right‑sidebar AI panel on desktop to query the current note or selected text for Q&A, summaries, rewrites, translations, image generation, and note‑focused workflows. Choose threaded or bounded multi‑note/folder context, stream responses from OpenAI/OpenRouter/Anthropic/Gemini or a local endpoint, preview and safely apply outputs, and create custom sidebar workflows with templates."
 
     stats: {
-        downloads:  233
+        downloads:  267
         updated_at: 1784326432000
     }
 }

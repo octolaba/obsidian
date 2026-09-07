@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graphfrontier
 alt:
   - https://github.com/pikiby/GraphFrontier
-downloads: 2070
+downloads: 3147
 updated at: "2026-06-05T21:16:17Z"
 related to:
   - "[[GitHub - 1163608278]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize notes and relationships using an independent physics-driven graph that remains smooth at scale. Pin and save node positions, arrange linked nodes into orbits, paint or hide links for clarity, and use right-click actions to select or copy linked nodes and paths."
 
     stats: {
-        downloads:  2070
+        downloads:  3147
         updated_at: 1780694177000
     }
 }

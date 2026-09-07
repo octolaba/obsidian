@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/created-daily-note-sync
 alt:
   - https://github.com/zgfdada/created-daily-note-sync
-downloads: 86
+downloads: 91
 updated at: "2026-05-18T04:24:27Z"
 related to:
   - "[[GitHub - 1242021912]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create missing daily notes from the created field in a note's frontmatter, auto-generating the corresponding daily file when absent. Scan the vault or individual files to backfill daily notes, respecting Obsidian's Daily Notes settings and common date formats."
 
     stats: {
-        downloads:  86
+        downloads:  91
         updated_at: 1779078267000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/menubar-time-tracker
 alt:
   - https://github.com/powderfirm-ship-it/obsidian-menubar-time-tracker
-downloads: 83
+downloads: 98
 updated at: "2026-06-23T17:40:00Z"
 related to:
   - "[[GitHub - 1278299755]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track project time from the macOS menu bar with one-click start/stop timers and a modal to tag sessions. Save each session as a Markdown note with frontmatter and roll up totals per project in the included Time per project Base; running timers persist across restarts."
 
     stats: {
-        downloads:  83
+        downloads:  98
         updated_at: 1782236400000
     }
 }

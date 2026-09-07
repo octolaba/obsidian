@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/lina
 alt:
   - https://github.com/anselmopinheiro/lina
-downloads: 160
-updated at: "2026-07-12T19:30:14Z"
+downloads: 194
+updated at: "2026-08-02T21:50:14Z"
 related to:
   - "[[GitHub - 1280176068]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Lina creates a local textual index (`.lina`) of your Obsidian notes, splitting them into searchable text blocks. It supports search by note name, path or content, plus hybrid search that combines textual and local semantic search with relevance, similarity and source indicators. With local AI through Ollama, Lina can analyse notes and suggest YAML, tags, links, tasks and folder organisation without automatically modifying your files."
 
     stats: {
-        downloads:  160
-        updated_at: 1783884614000
+        downloads:  194
+        updated_at: 1785707414000
     }
 }
 ```

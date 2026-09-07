@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/korean-grammar-assistant
 alt:
   - https://github.com/hyungyunlim/obsidian-korean-grammar-assistant
-downloads: 3456
+downloads: 3837
 updated at: "2026-05-20T13:09:38Z"
 related to:
   - "[[GitHub - 1021151550]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Check and correct Korean spelling and grammar with AI-driven suggestions from Bareun.ai, OpenAI, Anthropic, Google, or local Ollama. Edit inline (beta) or in a popup, preview color-coded states and multiple suggestions with confidence scores, then apply fixes with one click."
 
     stats: {
-        downloads:  3456
+        downloads:  3837
         updated_at: 1779282578000
     }
 }

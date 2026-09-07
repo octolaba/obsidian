@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/granola-notes-merger
 alt:
   - https://github.com/andym-dc/granola-notes-merger
-downloads: 98
+downloads: 130
 updated at: "2026-06-24T05:00:29Z"
 related to:
   - "[[GitHub - 1255511948]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Merge Granola AI meeting notes and raw transcripts into a single document or clipboard-ready text. Discover matching transcripts automatically, preview merged output in an interactive dashboard, and create unified .md files or copy combined text to clipboard with fuzzy-finder fallback and customizable templates."
 
     stats: {
-        downloads:  98
+        downloads:  130
         updated_at: 1782277229000
     }
 }

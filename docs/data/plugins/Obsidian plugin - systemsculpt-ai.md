@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/systemsculpt-ai
 alt:
   - https://github.com/systemsculpt/obsidian-systemsculpt-ai
-downloads: 36063
-updated at: "2026-07-19T03:31:21Z"
+downloads: 36714
+updated at: "2026-08-11T02:48:58Z"
 related to:
   - "[[GitHub - 781681513]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Chat with your notes via vault-aware AI agents; switch between tool-assisted agent mode and pure reasoning, and select system prompts from vault markdown. Search semantically with embeddings, record and transcribe audio, run capture-folder automations, and generate Canvas images."
 
     stats: {
-        downloads:  36063
-        updated_at: 1784431881000
+        downloads:  36714
+        updated_at: 1786416538000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ghostterm
 alt:
   - https://github.com/andyhtran/GhostTerm
-downloads: 238
+downloads: 379
 updated at: "2026-06-01T04:01:54Z"
 related to:
   - "[[GitHub - 1254046083]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a Ghostty-style terminal inside Obsidian's sidebar or main workspace to run shells alongside your notes. Create terminal tabs and splits, preserve working-directory context from the file explorer, and intercept terminal shortcuts only when the terminal is focused. Read Ghostty font, color, cursor and shell settings and track terminal title, current working directory, and OSC 8 hyperlinks."
 
     stats: {
-        downloads:  238
+        downloads:  379
         updated_at: 1780286514000
     }
 }

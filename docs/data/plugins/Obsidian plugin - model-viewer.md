@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/model-viewer
 alt:
   - https://github.com/janispritzkau/obsidian-model-viewer
-downloads: 1330
+downloads: 1374
 updated at: "2025-04-24T20:46:55Z"
 related to:
   - "[[GitHub - 956467406]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View and embed interactive glTF/GLB 3D models directly in your vault using Google's model-viewer. Browse and preview .glb/.gltf files, place interactive models in notes with native embed syntax, and support common glTF extensions like Draco and KTX2 for compressed assets and PBR materials."
 
     stats: {
-        downloads:  1330
+        downloads:  1374
         updated_at: 1745527615000
     }
 }

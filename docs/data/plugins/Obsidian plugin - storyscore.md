@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/storyscore
 alt:
   - https://github.com/srpernax/obsidian-storyscore
-downloads: 29
+downloads: 79
 updated at: "2026-07-23T18:33:47Z"
 related to:
   - "[[GitHub - 1306269793]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize and play soundtracks, tracks, and leitmotifs inside your vault with a unified manager and integrated audio player. Embed interactive track cards in any note to attach audio files, lyrics, metadata, and narrative annotations to characters, scenes, or recurring motifs."
 
     stats: {
-        downloads:  29
+        downloads:  79
         updated_at: 1784831627000
     }
 }

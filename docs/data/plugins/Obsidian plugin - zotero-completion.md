@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zotero-completion
 alt:
   - https://github.com/yuukibarns/obsidian-zotero-completion
-downloads: 104
+downloads: 182
 updated at: "2026-06-28T15:17:04Z"
 related to:
   - "[[GitHub - 1282951660]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search Zotero PDFs and annotations from Obsidian and insert zotero://open-pdf/library/items/... Markdown links at the cursor, including annotation page numbers. Persist a normalized local cache in the vault and refresh or clear it via commands; requires Zotero Desktop with the local API enabled."
 
     stats: {
-        downloads:  104
+        downloads:  182
         updated_at: 1782659824000
     }
 }

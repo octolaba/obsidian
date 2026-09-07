@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/private-sync
 alt:
   - https://github.com/haniewicz/PrivateSyncPlugin
-downloads: 31
+downloads: 48
 updated at: "2026-07-16T20:02:28Z"
 related to:
   - "[[GitHub - 1291873186]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault with a self-hosted Private Sync Server over HTTP/HTTPS to keep data off external clouds. Maintain per-device tokens and a local sync index for incremental two-way sync using SHA-256 change detection and batched uploads, and pair devices to control access."
 
     stats: {
-        downloads:  31
+        downloads:  48
         updated_at: 1784232148000
     }
 }

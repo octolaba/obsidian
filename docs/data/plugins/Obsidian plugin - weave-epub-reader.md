@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/weave-epub-reader
 alt:
   - https://github.com/zhuzhige123/obsidian-weave-reader
-downloads: 5602
-updated at: "2026-07-23T06:46:04Z"
+downloads: 7855
+updated at: "2026-08-09T13:20:01Z"
 related to:
   - "[[GitHub - 1231960327]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Read EPUB, MOBI, AZW3, FB2, CBZ, TXT and other ebook files directly inside your Obsidian vault with a bookshelf, chapter navigation, persistent reading position, pagination/scroll modes and theme controls. Highlight and extract passages back into Markdown, Canvas or Weave card data with backlinks and deep links to exact book positions, display note-derived highlights in the text, and export or snapshot selections for review."
 
     stats: {
-        downloads:  5602
-        updated_at: 1784789164000
+        downloads:  7855
+        updated_at: 1786281601000
     }
 }
 ```

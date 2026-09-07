@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/inbox
 alt:
   - https://github.com/zachatoo/obsidian-inbox
-downloads: 6564
+downloads: 6595
 updated at: "2024-03-06T05:06:20Z"
 related to:
   - "[[GitHub - 581023090]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Notify on vault launch when new content appears in your inbox note or folder. Track a single file or a folder and compare against the last snapshot or a defined base to avoid false alerts."
 
     stats: {
-        downloads:  6564
+        downloads:  6595
         updated_at: 1709701580000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/vault-reorganizer
 alt:
   - https://github.com/michellegdyason/vault-reorganizer
-downloads:
-updated at:
+downloads: 135
+updated at: "2026-07-25T13:02:53Z"
 related to:
   - "[[GitHub - 1256947510]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/michellegdyason/vault-reorganizer"
     description: "Preview and apply bulk vault reorganization plans for notes, attachments, templates, canvases, and other files. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Preview and apply bulk cleanup plans to flatten large vaults into a compact, configurable folder layout. Move files via Obsidian's file manager to preserve links, resolve name conflicts, handle .base files and attachments, retry stubborn renames, optionally remove empty folders, and report blocking hidden dotfiles."
+
+    stats: {
+        downloads:  135
+        updated_at: 1784984573000
+    }
 }
 ```
 

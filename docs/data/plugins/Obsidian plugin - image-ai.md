@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-ai
 alt:
   - https://github.com/javajiang/image_plugin
-downloads: 15
+downloads: 29
 updated at: "2026-07-12T02:01:16Z"
 related to:
   - "[[GitHub - 1297908629]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Collect reference product images and distill visual styles from single or multiple photos to capture competitor or brand aesthetics. Generate new ecommerce hero and detail images from those distilled styles, with styles saved to 图片风格库 and outputs written to 生成图片."
 
     stats: {
-        downloads:  15
+        downloads:  29
         updated_at: 1783821676000
     }
 }

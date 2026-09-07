@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-flashcards
 alt:
   - https://github.com/clancyj11/simple-flashcards
-downloads: 192
+downloads: 234
 updated at: "2026-05-16T20:33:55Z"
 related to:
   - "[[GitHub - 1240986613]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create RemNote-style flashcards inline using ::: blocks and simple delimiters for front/back, bidirectional, cloze, and multiline answers. Organize cards into decks with inline tags and review with optional spaced repetition by deck, current note, or the whole vault."
 
     stats: {
-        downloads:  192
+        downloads:  234
         updated_at: 1778963635000
     }
 }

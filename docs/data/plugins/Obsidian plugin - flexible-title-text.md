@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/flexible-title-text
 alt:
   - https://github.com/tsubasaogawa/obsidian-plugin-flexible-title-text
-downloads: 92
+downloads: 103
 updated at: "2026-05-24T04:52:13Z"
 related to:
   - "[[GitHub - 1172345796]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Customize the Obsidian window title with flexible templates. Use variables like {vaultName} plus static text to build custom title formats that appear in the app's title bar."
 
     stats: {
-        downloads:  92
+        downloads:  103
         updated_at: 1779598333000
     }
 }

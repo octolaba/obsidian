@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/yt-video-summarizer
 alt:
   - https://github.com/mbramani/obsidian-yt-video-summarizer
-downloads: 8386
+downloads: 8637
 updated at: "2026-04-28T20:38:51Z"
 related to:
   - "[[GitHub - 911758285]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate AI-powered summaries of YouTube videos directly in Obsidian using Google's Gemini, OpenAI, Anthropic, or other compatible models. Extract transcripts, create structured notes with key points, explain technical terms, and add metadata and tags for organized review."
 
     stats: {
-        downloads:  8386
+        downloads:  8637
         updated_at: 1777408731000
     }
 }

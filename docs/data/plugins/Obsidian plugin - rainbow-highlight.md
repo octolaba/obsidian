@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rainbow-highlight
 alt:
   - https://github.com/norman-lawyer/obsidian-rainbow-highlight
-downloads: 330
+downloads: 412
 updated at: "2026-04-13T08:45:15Z"
 related to:
   - "[[GitHub - 1209036834]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight selected text with a floating color palette and choose from six colors that adapt to light and dark themes. Preserve bold, italic, and strikethrough formatting, remove highlights with one click, and access each color via the command palette."
 
     stats: {
-        downloads:  330
+        downloads:  412
         updated_at: 1776069915000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/markdownlint
 alt:
   - https://github.com/ebullient/obsidian-markdownlint
-downloads: 4409
-updated at: "2026-06-03T16:17:49Z"
+downloads: 4661
+updated at: "2026-07-30T16:30:39Z"
 related to:
   - "[[GitHub - 878608938]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Lint Markdown files in your vault with markdownlint and highlight issues directly in the editor. Apply rules from .markdownlint.json, .markdownlint.jsonc, .markdownlint.yaml, or .markdownlint.yml configuration files and fix problems as you edit."
 
     stats: {
-        downloads:  4409
-        updated_at: 1780503469000
+        downloads:  4661
+        updated_at: 1785429039000
     }
 }
 ```

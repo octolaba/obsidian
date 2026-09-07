@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/codeless-heatmap-calendar
 alt:
   - https://github.com/webtechaccess/obsidian-heatmap-calendar
-downloads: 1504
+downloads: 1525
 updated at: "2025-01-22T18:16:20Z"
 related to:
   - "[[GitHub - 917342683]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize Toggl time as a customizable heatmap calendar inside Obsidian. Use fake data for testing and create multiple independently configured instances with themes, color gradients, layout and tooltip styling, project filters, streaks, statistics and billable-hours tracking."
 
     stats: {
-        downloads:  1504
+        downloads:  1525
         updated_at: 1737569780000
     }
 }

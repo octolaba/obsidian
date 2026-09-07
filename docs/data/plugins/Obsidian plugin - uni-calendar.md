@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/uni-calendar
 alt:
   - https://github.com/yinshaohua/UniCalendar
-downloads: 246
+downloads: 303
 updated at: "2026-05-18T03:51:00Z"
 related to:
   - "[[GitHub - 1196453904]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Aggregate events from Google Calendar, CalDAV servers, and ICS feeds into a unified, color-coded month view with event deduplication across sources. Display Chinese lunar dates, traditional festivals, 24 solar terms, and public holiday overlays with auto-sync and mobile compatibility."
 
     stats: {
-        downloads:  246
+        downloads:  303
         updated_at: 1779076260000
     }
 }

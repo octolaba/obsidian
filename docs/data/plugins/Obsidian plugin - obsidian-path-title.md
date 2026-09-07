@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-path-title
 alt:
   - https://github.com/jdeal/obsidian-path-title-plugin
-downloads: 9595
+downloads: 9735
 updated at: "2022-09-21T00:46:14Z"
 related to:
   - "[[GitHub - 447705226]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show the current file's full path next to its title for quick location context. Customize path font size and apply ordered replacements (exact path, folder, text, or regex) to shorten or rewrite path segments."
 
     stats: {
-        downloads:  9595
+        downloads:  9735
         updated_at: 1663721174000
     }
 }

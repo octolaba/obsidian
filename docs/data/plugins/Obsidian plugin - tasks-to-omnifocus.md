@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tasks-to-omnifocus
 alt:
   - https://github.com/lizard-heart/obsidian-to-omnifocus
-downloads: 7509
+downloads: 7536
 updated at: "2024-09-02T18:39:36Z"
 related to:
   - "[[GitHub - 603917381]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extract tasks from the active note and create them in OmniFocus, skipping already checked items and interpreting inline due dates (e.g., // 2025-02-01). Assign projects and task properties in the OmniFocus modal and optionally mark sent tasks complete in Obsidian."
 
     stats: {
-        downloads:  7509
+        downloads:  7536
         updated_at: 1725302376000
     }
 }

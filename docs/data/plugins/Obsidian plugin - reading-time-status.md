@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/reading-time-status
 alt:
   - https://github.com/loispsq/reading-time-status
-downloads: 23
+downloads: 36
 updated at: "2026-07-11T06:52:13Z"
 related to:
   - "[[GitHub - 1297103964]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display an estimated reading time for the active note in the status bar, updating live as you switch notes or type. Count CJK characters as words for accurate mixed-language estimates, allow adjusting words‑per‑minute, and optionally show the word count."
 
     stats: {
-        downloads:  23
+        downloads:  36
         updated_at: 1783752733000
     }
 }

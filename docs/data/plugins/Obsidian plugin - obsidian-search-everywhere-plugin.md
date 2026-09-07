@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-search-everywhere-plugin
 alt:
   - https://github.com/mom0aut/obsidian-search-everywhere
-downloads: 7602
+downloads: 7870
 updated at: "2022-03-14T14:24:46Z"
 related to:
   - "[[GitHub - 465392054]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open Obsidian's search by double-pressing the Shift key to replicate IntelliJ's Search Everywhere. Jump instantly to notes, headings, and matching content without reaching for menus."
 
     stats: {
-        downloads:  7602
+        downloads:  7870
         updated_at: 1647267886000
     }
 }

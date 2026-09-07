@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/banyan
 alt:
   - https://github.com/ratiger/obsidian-banyan
-downloads: 8210
+downloads: 8529
 updated at: "2026-07-22T13:54:03Z"
 related to:
   - "[[GitHub - 981998758]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize and browse notes with a card-based homepage that displays clear titles, content previews, and tags. Filter by multiple tags, time ranges, or content; save filter sets, run random reviews to rediscover old notes, and view a heat map of your writing activity."
 
     stats: {
-        downloads:  8210
+        downloads:  8529
         updated_at: 1784728443000
     }
 }

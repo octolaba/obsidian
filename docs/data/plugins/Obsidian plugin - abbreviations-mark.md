@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/abbreviations-mark
 alt:
   - https://github.com/dragonish/obsidian-abbreviations
-downloads: 3581
-updated at: "2026-02-26T12:59:30Z"
+downloads: 3698
+updated at: "2026-08-05T15:48:43Z"
 related to:
   - "[[GitHub - 832489009]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Mark abbreviations and acronyms automatically in reading view, Live Preview, and optional source mode. Read definitions from note metadata or Markdown Extra syntax, list all abbreviations in the current file, and provide a context menu for each abbreviation."
 
     stats: {
-        downloads:  3581
-        updated_at: 1772110770000
+        downloads:  3698
+        updated_at: 1785944923000
     }
 }
 ```

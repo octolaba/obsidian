@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/marker-api
 alt:
   - https://github.com/l3-n0x/obsidian-marker
-downloads: 26304
+downloads: 27587
 updated at: "2026-06-11T22:03:30Z"
 related to:
   - "[[GitHub - 832354242]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert PDFs into rich, formatted Markdown with preserved tables, formulas, images and OCR text. Use Marker or MistralAI endpoints to extract content, batch-convert multiple files, and save outputs into organized vault folders with smart folder integration."
 
     stats: {
-        downloads:  26304
+        downloads:  27587
         updated_at: 1781215410000
     }
 }

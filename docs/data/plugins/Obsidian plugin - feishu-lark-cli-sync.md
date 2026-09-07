@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/feishu-lark-cli-sync
 alt:
   - https://github.com/wanghuan9/obsidian-feishu-lark-cli-sync
-downloads: 567
-updated at: "2026-07-16T10:14:23Z"
+downloads: 879
+updated at: "2026-08-08T03:17:32Z"
 related to:
   - "[[GitHub - 1266348693]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Publish Obsidian Markdown to Feishu/Lark docs via the local lark-cli, syncing single files or entire directories while preserving folder hierarchy. Perform safe incremental updates that avoid silent full overwrites, rewrite internal Markdown/Wiki links to remote doc references, and allow forced full overwrite when needed."
 
     stats: {
-        downloads:  567
-        updated_at: 1784196863000
+        downloads:  879
+        updated_at: 1786159052000
     }
 }
 ```

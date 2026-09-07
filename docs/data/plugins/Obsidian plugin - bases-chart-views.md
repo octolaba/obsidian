@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bases-chart-views
 alt:
   - https://github.com/haiqiang-zhang/obsidian-bases-charts
-downloads: 7039
+downloads: 8946
 updated at: "2026-04-04T18:28:36Z"
 related to:
   - "[[GitHub - 1122015241]]"
@@ -28,7 +28,7 @@ Bases Chart Views adds interactive chart views to Bases through Apache ECharts, 
 plugin: {
     id:     "bases-chart-views"
     name:   "Bases Chart Views"
-    author: "haiqiang-zhang"
+    author: "Haiqiang Zhang"
     repo:   "haiqiang-zhang/obsidian-bases-charts"
 
     html_url:    "https://community.obsidian.md/plugins/bases-chart-views"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create interactive chart views for Bases with built-in Data Charts (Scatter, Line, Bar, Pie) supporting configurable axes, grouping, per-property aggregation, multiple Y-axes, and synced scales. Generate or iterate any ECharts visualization via AI by describing your intent to Claudian, which reads your data and outputs full chart configurations."
 
     stats: {
-        downloads:  7039
+        downloads:  8946
         updated_at: 1775327316000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-highlightpublicnotes-plugin
 alt:
   - https://github.com/dennisseidel/highlightpublicnotes-obsidian-plugin
-downloads: 6969
+downloads: 6981
 updated at: "2022-07-30T15:02:05Z"
 related to:
   - "[[GitHub - 353803264]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight titlebars of notes marked as public via frontmatter or placed in a specified folder. Show a red visual warning to prevent accidentally adding confidential or sensitive data to notes you plan to publish."
 
     stats: {
-        downloads:  6969
+        downloads:  6981
         updated_at: 1659193325000
     }
 }

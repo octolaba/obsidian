@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-todo
 alt:
   - https://github.com/elliotxx/obsidian-simple-todo
-downloads: 2675
+downloads: 2737
 updated at: "2024-11-21T13:35:11Z"
 related to:
   - "[[GitHub - 881252158]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage todos directly in Markdown using a minimalist, text-only workflow with date-based organization and simple task categorization. Toggle task status between Todo/In Progress/Done, reschedule unfinished tasks to today, and archive completed tasks monthly into a simple-todo directory."
 
     stats: {
-        downloads:  2675
+        downloads:  2737
         updated_at: 1732196111000
     }
 }

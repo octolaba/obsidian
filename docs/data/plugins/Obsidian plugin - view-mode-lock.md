@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/view-mode-lock
 alt:
   - https://github.com/goodjinc/obsidian-view-mode-lock
-downloads: 95
+downloads: 320
 updated at: "2026-07-20T05:03:39Z"
 related to:
   - "[[GitHub - 1302315372]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Lock notes to Reading, Live Preview, or Source mode and make Reading the global default. Create rules by folder, tag, or YAML property (including subfolders) and override per note with a frontmatter view-mode-lock property; works on desktop, mobile, and tablet."
 
     stats: {
-        downloads:  95
+        downloads:  320
         updated_at: 1784523819000
     }
 }

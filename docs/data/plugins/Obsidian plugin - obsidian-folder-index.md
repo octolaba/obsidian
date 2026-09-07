@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-folder-index
 alt:
   - https://github.com/turulix/obsidian-folder-index
-downloads: 33199
+downloads: 33547
 updated at: "2025-09-09T19:32:19Z"
 related to:
   - "[[GitHub - 484647813]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate automatic index files for folders and open them on click; rename index files when folders are renamed. Link and alphabetically sort files and headings, inject index content with the folder-index-content block, and show folders in the Graph View. Respect the title frontmatter to override the index filename."
 
     stats: {
-        downloads:  33199
+        downloads:  33547
         updated_at: 1757446339000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-remember-file-state
 alt:
   - https://github.com/ludovicchabant/obsidian-remember-file-state
-downloads: 14522
+downloads: 14608
 updated at: "2023-11-22T01:25:34Z"
 related to:
   - "[[GitHub - 457224841]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Restore cursor and scroll positions when switching between files. Persist editor state to disk so positions return after restarting Obsidian, working only on file open/close to avoid background polling."
 
     stats: {
-        downloads:  14522
+        downloads:  14608
         updated_at: 1700616334000
     }
 }

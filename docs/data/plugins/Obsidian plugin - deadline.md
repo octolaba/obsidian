@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/deadline
 alt:
   - https://github.com/saydullayev017/deadline
-downloads: 308
+downloads: 364
 updated at: "2026-05-18T09:39:47Z"
 related to:
   - "[[GitHub - 1146206844]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Plan your day with an integrated calendar, Pomodoro timer, and task manager in one clean workspace. Create or open daily notes from the monthly calendar, run customizable work/break sessions with animated progress and sound, and add, check off, or delete tasks inline while preserving Obsidian themes."
 
     stats: {
-        downloads:  308
+        downloads:  364
         updated_at: 1779097187000
     }
 }

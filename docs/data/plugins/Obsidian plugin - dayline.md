@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dayline
 alt:
   - https://github.com/hailp-vn38/obsidian-dayline-plugin
-downloads: 215
+downloads: 238
 updated at: "2026-06-22T09:42:22Z"
 related to:
   - "[[GitHub - 1244380443]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture short daily check-ins in a right-sidebar timeline and auto-create daily markdown timeline files in your vault. Save entries as markdown blocks with hidden JSON metadata, attach images/files/audio, search and filter by text, tag, time or date, and open or embed source entries."
 
     stats: {
-        downloads:  215
+        downloads:  238
         updated_at: 1782121342000
     }
 }

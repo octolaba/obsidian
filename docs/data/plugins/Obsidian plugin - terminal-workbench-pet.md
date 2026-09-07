@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/terminal-workbench-pet
 alt:
   - https://github.com/real-fruit-snacks/terminal-workbench-pet
-downloads: 141
+downloads: 176
 updated at: "2026-07-19T01:31:50Z"
 related to:
   - "[[GitHub - 1292877500]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a floating ghost that drifts through your workspace, peeks at headings, reads along the paragraph you're on, spooks away from your cursor, and naps when idle. Switch between float, follow-cursor, or off modes and boop the ghost to change its color and trigger a happy squish; color choice is remembered and the pet matches the Terminal Workbench palette when available."
 
     stats: {
-        downloads:  141
+        downloads:  176
         updated_at: 1784424710000
     }
 }

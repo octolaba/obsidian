@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/snipd-official
 alt:
   - https://github.com/snipd-app/snipd-obsidian
-downloads: 64383
+downloads: 67784
 updated at: "2026-05-14T09:53:49Z"
 related to:
   - "[[GitHub - 1077533845]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Snipd podcast highlights to your Obsidian vault with transcripts, AI summaries, notes, links and rich metadata (cover image, title, publish date). Customize episode and snip templates, choose to sync only edited snips, and expose metadata as properties for Obsidian Bases."
 
     stats: {
-        downloads:  64383
+        downloads:  67784
         updated_at: 1778752429000
     }
 }

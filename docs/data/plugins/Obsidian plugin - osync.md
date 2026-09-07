@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/osync
 alt:
   - https://github.com/korthomasjeong/Osync-p
-downloads: 382
+downloads: 472
 updated at: "2026-07-24T02:18:07Z"
 related to:
   - "[[GitHub - 1247249633]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault across devices in real time with zero-knowledge, end-to-end AES-256-GCM encryption and Argon2id-derived vault keys so data is encrypted on-device before upload. Manage per-device sync for attachments and folders, create/connect remote vaults, browse version history, resolve conflicts, and restore deleted files."
 
     stats: {
-        downloads:  382
+        downloads:  472
         updated_at: 1784859487000
     }
 }

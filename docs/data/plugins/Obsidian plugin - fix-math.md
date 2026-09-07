@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/fix-math
 alt:
   - https://github.com/loglux/fix-math-for-obsidian
-downloads: 4794
+downloads: 5414
 updated at: "2026-07-10T00:13:08Z"
 related to:
   - "[[GitHub - 1071043157]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert LaTeX delimiters \\(…\\) → $…$ and \\[…\\] → $$…$$ in the current file while preserving fenced code blocks and existing $…$/$\\$\\$…\\$\\$ delimiters. Detect math inside plain parentheses and brackets and display counts of converted inline and display formulas."
 
     stats: {
-        downloads:  4794
+        downloads:  5414
         updated_at: 1783642388000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/latex-panel-helper
 alt:
   - https://github.com/myluster/Obsidian-LaTeX-Helper
-downloads: 1574
+downloads: 1713
 updated at: "2026-07-12T18:01:25Z"
 related to:
   - "[[GitHub - 1065846464]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert LaTeX symbols and snippets from a searchable, category-based panel with instant insertion, automatic spacing, and returned editor focus. Edit the symbol library via JSON and toggle between a docked sidebar or floating window while the UI adapts to English or Chinese."
 
     stats: {
-        downloads:  1574
+        downloads:  1713
         updated_at: 1783879285000
     }
 }

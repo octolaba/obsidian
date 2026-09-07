@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/forge
 alt:
   - https://github.com/joshua-walls/forge
-downloads: 1247
+downloads: 1822
 updated at: "2026-07-15T23:31:10Z"
 related to:
   - "[[GitHub - 1242766321]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Maintain vault consistency as it grows by validating schemas, normalizing frontmatter and tags, repairing structural drift, and running bulk updates to standardize notes. Build relationship indexes and exportable views to keep Dataviews, Bases, dashboards, and automations reliable over time."
 
     stats: {
-        downloads:  1247
+        downloads:  1822
         updated_at: 1784158270000
     }
 }

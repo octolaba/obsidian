@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sidecar-notes
 alt:
   - https://github.com/rosemary1812/Sidecar-Notes
-downloads: 517
+downloads: 625
 updated at: "2026-05-16T03:38:35Z"
 related to:
   - "[[GitHub - 1194349681]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a source note beside a dedicated sidecar to read and annotate with both files visible. Send selected text to the sidecar as blockquotes, mark the source with ==highlight==, auto-create companion files named {basename} notes.md, and prevent duplicate quotes."
 
     stats: {
-        downloads:  517
+        downloads:  625
         updated_at: 1778902715000
     }
 }

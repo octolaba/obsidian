@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/granola-meetings-simple-sync
 alt:
   - https://github.com/philfreo/obsidian-granola-plugin
-downloads: 5611
-updated at: "2026-07-16T14:22:00Z"
+downloads: 6723
+updated at: "2026-08-11T13:29:42Z"
 related to:
   - "[[GitHub - 1141412604]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync Granola meeting notes, AI summaries, and transcripts into your vault via Granola's MCP API with one-time OAuth and automatic scheduled sync. Customize templates and frontmatter, preserve local edits by skipping existing notes, deduplicate by meeting ID, and auto-link attendees to person notes."
 
     stats: {
-        downloads:  5611
-        updated_at: 1784211720000
+        downloads:  6723
+        updated_at: 1786454982000
     }
 }
 ```

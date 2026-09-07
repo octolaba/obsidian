@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dainvo-task-manager
 alt:
   - https://github.com/intagri-technologies/dainvo-task-manager
-downloads: 130
+downloads: 159
 updated at: "2026-07-21T09:06:20Z"
 related to:
   - "[[GitHub - 1261873644]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync tasks from one or more vaults to Dainvo app via a localhost bridge. Dainvo is a Calendar and Task management app that manages all your different task management apps, calendars, and meeting clients in one place. Open and edit your daily notes from Dainvo calendar. View all your Obsidian tasks in one place. Each task has a link to the note it is created on allowing you to quickly refer back to the note to view context. Plan your tasks on your calendar. Interactive Demo: https://dainvo.com/demo/ Website: https://dainvo.com"
 
     stats: {
-        downloads:  130
+        downloads:  159
         updated_at: 1784624780000
     }
 }

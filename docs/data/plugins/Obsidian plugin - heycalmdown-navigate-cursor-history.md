@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/heycalmdown-navigate-cursor-history
 alt:
   - https://github.com/heycalmdown/navigate-cursor-history
-downloads: 7461
+downloads: 7512
 updated at: "2022-04-12T22:16:15Z"
 related to:
   - "[[GitHub - 467823099]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Navigate cursor position history and jump back and forth through the last 50 locations like VSCode. Record positions once per second, keep history only for the session, and reset forward history when you move while navigating."
 
     stats: {
-        downloads:  7461
+        downloads:  7512
         updated_at: 1649801775000
     }
 }

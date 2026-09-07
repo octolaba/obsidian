@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-another-quick-switcher
 alt:
   - https://github.com/tadashi-aikawa/obsidian-another-quick-switcher
-downloads: 148828
+downloads: 170200
 updated at: "2026-07-15T07:56:15Z"
 related to:
   - "[[GitHub - 407786842]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search and switch across files, links, backlinks, and in-file content with custom commands, token-order-independent matching, emoji-aware prefixes, and ripgrep-powered grep. Preview notes inline, batch-open or insert results, navigate backlinks inside the dialog, move or reveal files, and use a history-aware command palette."
 
     stats: {
-        downloads:  148828
+        downloads:  170200
         updated_at: 1784102175000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/unread-changes
 alt:
   - https://github.com/anombyte93/obsidian-unread-changes
-downloads: 30
-updated at: "2026-07-09T09:00:02Z"
+downloads: 73
+updated at: "2026-07-27T06:55:51Z"
 related to:
   - "[[GitHub - 1294672908]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Show unread edit indicators across the vault with blue dots and folder rollups, and list every unread note in an inbox pane with who changed it and a plain‑English summary. Display a virtual banner above changed notes with Changelog, Diff and Mark Read actions, provide per‑device diffs and author attribution, and append stamped changelogs as browsable Markdown."
 
     stats: {
-        downloads:  30
-        updated_at: 1783587602000
+        downloads:  73
+        updated_at: 1785135351000
     }
 }
 ```

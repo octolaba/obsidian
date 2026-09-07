@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mediaviewer
 alt:
   - https://github.com/devon22/obsidian-mediaviewer
-downloads: 8848
+downloads: 9459
 updated at: "2026-07-23T06:56:51Z"
 related to:
   - "[[GitHub - 913957457]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Easily browse, zoom, and manage images, videos, and audio files directly within your notes. This plugin provides a fullscreen media viewer with keyboard navigation and click-to-open previews, alongside customizable, responsive grid layouts supporting drag-and-drop, thumbnails, and pagination."
 
     stats: {
-        downloads:  8848
+        downloads:  9459
         updated_at: 1784789811000
     }
 }

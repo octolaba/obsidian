@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/minimize-on-close
 alt:
   - https://github.com/alberti42/obsidian-minimize-on-close
-downloads: 1785
+downloads: 1863
 updated at: "2024-09-25T12:55:26Z"
 related to:
   - "[[GitHub - 859349336]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Minimize the Obsidian window to the dock or taskbar whenever all panes are closed, matching macOS app behavior. Apply the behavior across macOS, Windows, and Linux or keep it macOS-only, and trigger minimize or exit via command-palette actions."
 
     stats: {
-        downloads:  1785
+        downloads:  1863
         updated_at: 1727268926000
     }
 }

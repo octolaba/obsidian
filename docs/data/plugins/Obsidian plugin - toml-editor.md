@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/toml-editor
 alt:
   - https://github.com/jasoncrawford/obsidian-toml
-downloads: 23
+downloads: 49
 updated at: "2026-07-12T12:36:00Z"
 related to:
   - "[[GitHub - 1295994849]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open .toml files inside a native pane with a CodeMirror 6 editor, line numbers, and TOML syntax highlighting. Use debounced autosave and inline parse diagnostics, with a status bar showing whether the current document is valid TOML."
 
     stats: {
-        downloads:  23
+        downloads:  49
         updated_at: 1783859760000
     }
 }

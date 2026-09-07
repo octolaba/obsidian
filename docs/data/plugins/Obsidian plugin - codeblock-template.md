@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/codeblock-template
 alt:
   - https://github.com/sylcool/obsidian-codeblock-template
-downloads: 3476
+downloads: 3491
 updated at: "2023-06-14T04:18:47Z"
 related to:
   - "[[GitHub - 647128051]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reuse code-block content across notes as templates with named variables, anonymous CSV-style variables, and array loops for repeated entries. Insert templates by referencing code-block names, pass variables for inline substitution, and trigger insertion with short inline markers for quick autocompletion."
 
     stats: {
-        downloads:  3476
+        downloads:  3491
         updated_at: 1686716327000
     }
 }

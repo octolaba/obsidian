@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hide-commands-in-menu
 alt:
   - https://github.com/bomian98/obsidian-hide-commands-in-menu
-downloads: 1253
+downloads: 1520
 updated at: "2025-08-27T12:35:48Z"
 related to:
   - "[[GitHub - 921455727]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide specific commands from any Obsidian context menu, including commands added by community plugins, using plain text or regex patterns. Remove redundant separators automatically and inject CSS classes to style or target hidden items across different menu types."
 
     stats: {
-        downloads:  1253
+        downloads:  1520
         updated_at: 1756298148000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kanban-pro-boards
 alt:
   - https://github.com/icarian-systems/kanban-pro-plugin
-downloads: 333
+downloads: 412
 updated at: "2026-06-04T15:16:40Z"
 related to:
   - "[[GitHub - 1258599177]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage local-first Kanban boards that share the community Kanban plugin's on-disk Markdown format to preserve existing boards. Use free board, table and list views with templates, or unlock Pro for recurrence, time tracking and calendar export; data stays local and offline."
 
     stats: {
-        downloads:  333
+        downloads:  412
         updated_at: 1780586200000
     }
 }

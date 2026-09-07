@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-shift
 alt:
   - https://github.com/qctsu/obsidian-file-shift
-downloads: 786
+downloads: 995
 updated at: "2026-04-08T09:07:13Z"
 related to:
   - "[[GitHub - 1192482926]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reorder files and folders in Obsidian's File Explorer by dragging items where you want them, including dropping into a folder's center to move items. Save persistent, per-folder order without changing filenames and rely on Obsidian's virtual-scroll API for stable rendering."
 
     stats: {
-        downloads:  786
+        downloads:  995
         updated_at: 1775639233000
     }
 }

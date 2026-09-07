@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vim-keynav
 alt:
   - https://github.com/guoang/obsidian-vim-keynav
-downloads: 232
+downloads: 253
 updated at: "2026-02-26T09:50:38Z"
 related to:
   - "[[GitHub - 1167438497]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bring Vim-style navigation to reading mode and built-in browser tabs. Scroll with j/k, jump with gg/G, open links via Vimium-style hint labels, and inject host-level keybindings into webviews (including cross-origin iframes) while disabling keys in input fields."
 
     stats: {
-        downloads:  232
+        downloads:  253
         updated_at: 1772099438000
     }
 }

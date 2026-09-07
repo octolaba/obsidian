@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cold-file-hider
 alt:
   - https://github.com/hehongxi/obsidian-cold-file-hider
-downloads: 100
+downloads: 107
 updated at: "2026-05-19T03:00:57Z"
 related to:
   - "[[GitHub - 1234701404]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide inactive files from the file explorer after N days without edits, restoring them when opened via search, Quick Switcher, links, backlinks, or graph view. Collapse folders when all contents go cold, allow temporary reveal at reduced opacity, and respect renames, deletions, and exclusion patterns."
 
     stats: {
-        downloads:  100
+        downloads:  107
         updated_at: 1779159657000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/project-view
 alt:
   - https://github.com/ngchenghow/obsidian-project-view
-downloads: 696
+downloads: 728
 updated at: "2026-06-07T12:04:26Z"
 related to:
   - "[[GitHub - 1244800694]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize notes into projects that keep their own folders, specific notes, pinned items and named panes. Switch projects from a left‑sidebar list to instantly restore open tabs, scroll position, cursor and undo history without reopening files. Sync projects with Google Drive on desktop."
 
     stats: {
-        downloads:  696
+        downloads:  728
         updated_at: 1780833866000
     }
 }

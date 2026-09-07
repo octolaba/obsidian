@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/property-explorer
 alt:
   - https://github.com/october-learns/obsidian-property-explorer
-downloads: 104
+downloads: 145
 updated at: "2026-07-03T17:20:41Z"
 related to:
   - "[[GitHub - 1264160365]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Explore all properties across your vault in an expandable right-pane tree: property key → unique values → notes containing that value. Search keys, values, and titles with scope filters, sort by name or frequency, open notes directly, and get live reindexing as notes change."
 
     stats: {
-        downloads:  104
+        downloads:  145
         updated_at: 1783099241000
     }
 }

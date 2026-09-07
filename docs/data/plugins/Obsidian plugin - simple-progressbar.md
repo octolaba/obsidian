@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/simple-progressbar
 alt:
   - https://github.com/isragdd12/simple-progressbar
-downloads: 179
-updated at: "2026-05-20T21:07:47Z"
+downloads: 235
+updated at: "2026-07-30T09:34:39Z"
 related to:
   - "[[GitHub - 1242700643]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Insert interactive progress bars into notes using simple Markdown code blocks. Customize every property of the object, and control progress with built-in control buttons."
 
     stats: {
-        downloads:  179
-        updated_at: 1779311267000
+        downloads:  235
+        updated_at: 1785404079000
     }
 }
 ```

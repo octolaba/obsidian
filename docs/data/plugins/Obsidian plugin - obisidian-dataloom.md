@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obisidian-dataloom
 alt:
   - https://github.com/aykutkardas/obsidian-dataloom
-downloads: 3282
+downloads: 4155
 updated at: "2026-07-12T05:23:11Z"
 related to:
   - "[[GitHub - 1101114306]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and manage databases inside Obsidian with customizable columns, cell types, filters, sorting, and multiple views. Weave data from folders and frontmatter, import/export CSV/Markdown/PDF, embed records into notes, and use on desktop and mobile."
 
     stats: {
-        downloads:  3282
+        downloads:  4155
         updated_at: 1783833791000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/write-good
 alt:
   - https://github.com/markahesketh/write-good-obsidian
-downloads: 3606
+downloads: 3827
 updated at: "2025-06-16T18:40:56Z"
 related to:
   - "[[GitHub - 932960948]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Check English prose for common issues and receive inline suggestions to improve clarity and style. Detect passive voice, repeated words, sentences starting with \"So\" or \"There is/are\", weasel words, adverbs, wordy phrases, clichés, and E-Prime \"to be\" verbs; toggle checks per note via the command palette or a hotkey."
 
     stats: {
-        downloads:  3606
+        downloads:  3827
         updated_at: 1750099256000
     }
 }

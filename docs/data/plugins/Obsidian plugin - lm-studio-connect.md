@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/lm-studio-connect
 alt:
   - https://github.com/joepetrakovich/obsidian-lmstudio-connect
-downloads: 2272
-updated at: "2026-07-02T23:05:55Z"
+downloads: 2732
+updated at: "2026-08-05T08:19:44Z"
 related to:
   - "[[GitHub - 1115134375]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Connect Obsidian to a local LM Studio server for private, offline LLM chat. Chat with your notes in a built-in chat view that knows open files, supports inline file picking ([[) and lets you embed prompts using lmsc fenced codeblocks."
 
     stats: {
-        downloads:  2272
-        updated_at: 1783033555000
+        downloads:  2732
+        updated_at: 1785917984000
     }
 }
 ```

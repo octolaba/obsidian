@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-sync-rest
 alt:
   - https://github.com/andrewboldi/obsidian-vault-sync
-downloads: 308
+downloads: 349
 updated at: "2026-04-27T02:30:18Z"
 related to:
   - "[[GitHub - 1221397927]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault to a GitHub repository via GitHub's REST API to avoid git wire-protocol failures on iOS and produce real git commits on GitHub. Keep memory use bounded by the largest single file so vaults of any size, including images, sync reliably."
 
     stats: {
-        downloads:  308
+        downloads:  349
         updated_at: 1777257018000
     }
 }

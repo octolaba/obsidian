@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/plantuml-integrator
 alt:
   - https://github.com/fangface-hub/obsidian_plantuml_integrator
-downloads: 161
+downloads: 201
 updated at: "2026-07-19T03:08:02Z"
 related to:
   - "[[GitHub - 1192787589]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render PlantUML diagrams from code blocks (plantuml, puml) and embedded .puml files in Markdown preview. Cache include dependency trees and auto re-render on included-file changes; pick a remote HTTP endpoint or a running local PlantUML server, and right-click a diagram to clear its cache and re-render."
 
     stats: {
-        downloads:  161
+        downloads:  201
         updated_at: 1784430482000
     }
 }

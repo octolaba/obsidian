@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-card-bg-remover
 alt:
   - https://github.com/luxmargos/obsidian-canvas-card-bg-remover
-downloads: 7345
+downloads: 7430
 updated at: "2024-01-03T09:02:27Z"
 related to:
   - "[[GitHub - 728037138]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Remove card backgrounds in Canvas for specific embed types such as PNG images, Canvas embeds, and Markdown to create transparent cards. Customize which embed types use transparency from the plugin settings."
 
     stats: {
-        downloads:  7345
+        downloads:  7430
         updated_at: 1704272547000
     }
 }

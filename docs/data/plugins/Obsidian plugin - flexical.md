@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/flexical
 alt:
   - https://github.com/kev-cao/obsidian-flexical
-downloads: 159
-updated at: "2026-06-27T05:11:07Z"
+downloads: 215
+updated at: "2026-08-04T15:38:21Z"
 related to:
   - "[[GitHub - 1270438686]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add a customizable calendar panel to the sidebar that shows colored dots for each note that matches a calendar's filters. Jump from note to note by clicking on the days in the calendar."
 
     stats: {
-        downloads:  159
-        updated_at: 1782537067000
+        downloads:  215
+        updated_at: 1785857901000
     }
 }
 ```

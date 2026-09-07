@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/star-imagemaster
 alt:
   - https://github.com/starhunt/star-imagemaster
-downloads: 699
+downloads: 784
 updated at: "2026-06-03T02:23:52Z"
 related to:
   - "[[GitHub - 1132584924]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage images in Obsidian with an all-in-one tool that auto-saves pasted or dropped images into folder/central/date modes and supports customizable filename patterns. Browse a thumbnail or list gallery with filters for in-use and orphan files, detect duplicates via SHA-256 and reuse links, and update all note references when images move or rename."
 
     stats: {
-        downloads:  699
+        downloads:  784
         updated_at: 1780453432000
     }
 }

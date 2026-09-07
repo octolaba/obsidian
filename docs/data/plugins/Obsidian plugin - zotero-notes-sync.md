@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zotero-notes-sync
 alt:
   - https://github.com/lojeunhou/zotero-notes-sync-plugin
-downloads: 164
+downloads: 210
 updated at: "2026-05-28T16:24:15Z"
 related to:
   - "[[GitHub - 1252155472]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Zotero Desktop notes into your Obsidian vault as individual Markdown files with frontmatter containing Zotero key, parent title, creators, year, tags, dates and zotero:// links. Run one-click or command-palette sync, browse synced notes via _index.md, and review results in .zotero-notes-manifest.json; requires Zotero Desktop local API."
 
     stats: {
-        downloads:  164
+        downloads:  210
         updated_at: 1779985455000
     }
 }

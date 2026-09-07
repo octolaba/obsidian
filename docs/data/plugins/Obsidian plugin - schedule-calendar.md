@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/schedule-calendar
 alt:
   - https://github.com/seonggoos/obsidian-schedule-calendar
-downloads: 394
+downloads: 493
 updated at: "2026-07-13T00:23:30Z"
 related to:
   - "[[GitHub - 1243061463]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display an interactive calendar that turns schedule entries from daily notes into a draggable, resizable timeline with daily, weekly, and monthly views. Drag, resize, create, edit, and delete events directly on the timeline; write changes back to your note file automatically."
 
     stats: {
-        downloads:  394
+        downloads:  493
         updated_at: 1783902210000
     }
 }

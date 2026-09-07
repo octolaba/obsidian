@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/widgets
 alt:
   - https://github.com/rafaelveiga/obsidian-widgets
-downloads: 32139
+downloads: 32693
 updated at: "2025-03-27T01:35:17Z"
 related to:
   - "[[GitHub - 594512853]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert interactive widgets into notes using a simple widgets code block. Add clocks, quotes, countdowns and counters with customizable formats, labels and increments to show live time, timed events, quotes and interactive counts inline."
 
     stats: {
-        downloads:  32139
+        downloads:  32693
         updated_at: 1743039317000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-bases
 alt:
   - https://github.com/scotttomaszewski/obsidian-folder-bases
-downloads: 329
+downloads: 388
 updated at: "2026-06-02T21:24:08Z"
 related to:
   - "[[GitHub - 1253910671]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a folder's associated .base file directly from the file explorer with a click. Configure base filename using {{folder_name}} and {{folder_path}} tokens, optionally create a base from a template via modifier+click, and use right-click options to open or create bases. Keep normal folder navigation intact by preserving the collapse chevron."
 
     stats: {
-        downloads:  329
+        downloads:  388
         updated_at: 1780435448000
     }
 }

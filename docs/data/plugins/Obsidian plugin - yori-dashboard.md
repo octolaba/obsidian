@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/yori-dashboard
 alt:
   - https://github.com/yorigo77/obsidian-yori-dashboard
-downloads: 812
+downloads: 1061
 updated at: "2026-06-11T12:50:44Z"
 related to:
   - "[[GitHub - 1229788886]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Gather daily events, data logs, tasks, check‑ins, moments, monthly plans, and quick links on one editable dashboard with a mini-calendar, events column and weekly view. Track metrics across months, record timestamped moments, organize tasks into category boxes, monitor habit streaks with colored check‑ins, and add quick links for fast navigation."
 
     stats: {
-        downloads:  812
+        downloads:  1061
         updated_at: 1781182244000
     }
 }

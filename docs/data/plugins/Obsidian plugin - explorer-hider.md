@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/explorer-hider
 alt:
   - https://github.com/mara-li/obsidian-explorer-hider
-downloads: 4706
+downloads: 4802
 updated at: "2025-08-10T10:12:54Z"
 related to:
   - "[[GitHub - 807995133]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide files and folders from the Explorer and Bookmarks using persistent, editable CSS rules. Manage rules via right-click (exact-match for files, starts-with for folders), toggle visibility with the eye ribbon button, and save rules as a snippet or inject them directly."
 
     stats: {
-        downloads:  4706
+        downloads:  4802
         updated_at: 1754820774000
     }
 }

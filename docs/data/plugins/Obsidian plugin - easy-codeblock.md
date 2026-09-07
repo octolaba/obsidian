@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/easy-codeblock
 alt:
   - https://github.com/matse2005/obsidian-easy-codeblock
-downloads: 729
+downloads: 1065
 updated at: "2025-12-17T18:38:43Z"
 related to:
   - "[[GitHub - 1115386065]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert code blocks with an instant language picker that searches 200+ languages via fuzzy matching and pins your five most recent languages to the top. Wrap selected text automatically, mark favorites visually, and use hotkeys to insert highlighted or plain code blocks in seconds."
 
     stats: {
-        downloads:  729
+        downloads:  1065
         updated_at: 1765996723000
     }
 }

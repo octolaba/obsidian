@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/link-mention
 alt:
   - https://github.com/robcc/obsidian-link-mention-plugin
-downloads: 715
+downloads: 1127
 updated at: "2026-03-01T17:32:45Z"
 related to:
   - "[[GitHub - 1167253718]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render empty Markdown links (e.g., [](https://example.com)) as inline pills that display the page title and site favicon. Keep your Markdown unchanged, make pills clickable to open the URL, and provide Live Preview and Reading View support with Obsidian-side fetching and an in-memory cache for speed."
 
     stats: {
-        downloads:  715
+        downloads:  1127
         updated_at: 1772386365000
     }
 }

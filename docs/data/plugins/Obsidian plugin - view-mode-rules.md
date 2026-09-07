@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/view-mode-rules
 alt:
   - https://github.com/jochenbernard/obsidian-view-mode-rules
-downloads: 157
+downloads: 192
 updated at: "2026-04-24T08:55:25Z"
 related to:
   - "[[GitHub - 1217056190]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set a default view (Editing or Reading) for any note or folder from the file explorer without using frontmatter; folder rules apply to all contained notes, with the deepest folder winning. Use a global default as fallback and persist rules across renames and moves. Reapply rules automatically on navigation or workspace restore."
 
     stats: {
-        downloads:  157
+        downloads:  192
         updated_at: 1777020925000
     }
 }

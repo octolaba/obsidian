@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-sequence-hotkeys
 alt:
   - https://github.com/moolmanruan/obsidian-sequence-hotkeys
-downloads: 7557
+downloads: 7583
 updated at: "2023-10-18T22:13:47Z"
 related to:
   - "[[GitHub - 491227177]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Assign sequence-based hotkeys by chaining multiple chord inputs to trigger any Obsidian command. Search and manage sequences in the plugin options, include Enter or Escape in a sequence, and note sequences can conflict with default single-chord hotkeys and don't support alternate keyboard layouts."
 
     stats: {
-        downloads:  7557
+        downloads:  7583
         updated_at: 1697667227000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ztsd-vault-backup
 alt:
   - https://github.com/aplikofi/Obsidian-bckp-Plugin
-downloads: 48
+downloads: 57
 updated at: "2026-07-01T15:57:09Z"
 related to:
   - "[[GitHub - 1286121269]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create compressed, cryptographically verified backups of your vault using tar and Zstandard in pure JS/TS with no external binaries. Verify SHA-256 checksums and restore snapshots non-destructively into timestamped recovery folders, with configurable retention to prune old backups."
 
     stats: {
-        downloads:  48
+        downloads:  57
         updated_at: 1782921429000
     }
 }

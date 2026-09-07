@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/on-this-day-i
 alt:
   - https://github.com/benstuart0/on-this-day-i-obsidian
-downloads: 439
+downloads: 460
 updated at: "2025-05-15T17:53:15Z"
 related to:
   - "[[GitHub - 929251619]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert a customizable placeholder tag at the cursor to mark where AI-generated content should be placed. Generate \"Through the Years\" summaries by scanning past daily notes for the same date and inserting concise reflections generated via your OpenAI API key."
 
     stats: {
-        downloads:  439
+        downloads:  460
         updated_at: 1747331595000
     }
 }

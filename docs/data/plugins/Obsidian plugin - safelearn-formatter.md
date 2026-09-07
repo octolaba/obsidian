@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/safelearn-formatter
 alt:
   - https://github.com/unterrainerinformatik/safeLearn-Obsidian-plugin
-downloads: 196
+downloads: 203
 updated at: "2025-05-29T14:53:29Z"
 related to:
   - "[[GitHub - 992664821]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display visual formatting for SafeLearn Markdown tags, including Reveal.js fragments, role-based permission blocks, and multi-column side-by-side layouts. Mark role-specific (e.g., teacher) blocks and preview incremental fragments and side-by-side columns while editing; note the plugin is purely visual and does not enforce permissions."
 
     stats: {
-        downloads:  196
+        downloads:  203
         updated_at: 1748530409000
     }
 }

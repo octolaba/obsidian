@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/alias-picker
 alt:
   - https://github.com/rostunic/obsidian-alias-picker
-downloads: 1605
-updated at: "2026-07-20T16:18:50Z"
+downloads: 1726
+updated at: "2026-08-05T15:55:51Z"
 related to:
   - "[[GitHub - 782855863]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # Alias Picker
 
-Picks aliases or blocks of links, and updates backlinks automatically when an alias is renamed. Backlink search covers multiple files and exact aliases, and an alias overview shows the backlinks belonging to each alias.
+Adds a picker for inserting aliases or blocks of links. Backlinks are updated automatically when an alias is renamed, and backlink search covers multiple files and exact aliases. An alias overview shows which backlinks point at each alias.
 
 ```cue
 plugin: {
@@ -33,12 +33,12 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/alias-picker"
     github_url:  "https://github.com/rostunic/obsidian-alias-picker"
-    description: "Pick aliases or blocks of links."
+    description: "Your alias management companion: Pick aliases or blocks of links. Update backlinks when renaming aliases. Backlink search for multiple files and exact aliases. Alias overview to see alias backlinks."
     about:       "Pick aliases or blocks of links. Automatic update backlinks when renaming aliases. Backlink search for multiple files and exact aliases. Alias overview to see alias backlinks. Your alias management companion."
 
     stats: {
-        downloads:  1605
-        updated_at: 1784564330000
+        downloads:  1726
+        updated_at: 1785945351000
     }
 }
 ```

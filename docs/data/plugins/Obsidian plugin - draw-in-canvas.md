@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/draw-in-canvas
 alt:
   - https://github.com/xryul/draw-in-canvas
-downloads: 4492
+downloads: 6602
 updated at: "2026-06-04T15:38:01Z"
 related to:
   - "[[GitHub - 1245829740]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Draw, sketch, and handwrite directly on Obsidian Canvas files with mouse, touch, or stylus input and pressure sensitivity. Pick color, size, opacity and hardness; edit or multi-select strokes, undo/redo actions, and save drawings inside the .canvas file locally (visible only when enabled)."
 
     stats: {
-        downloads:  4492
+        downloads:  6602
         updated_at: 1780587481000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/opse-oracle
 alt:
   - https://github.com/snifer/opse-oracle-ttrpg
-downloads: 319
+downloads: 369
 updated at: "2026-05-23T08:59:02Z"
 related to:
   - "[[GitHub - 1211002092]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Play solo TTRPGs with the One Page Solo Engine v1.6 inside your vault, automating rolls, oracle queries, scene mechanics, and session tracking. Generate yes/no and magnitude oracles, plot hooks, NPCs, random events, and graph-based dungeon or hex exploration with persistent history and exportable Markdown/JSON."
 
     stats: {
-        downloads:  319
+        downloads:  369
         updated_at: 1779526742000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/poker
 alt:
   - https://github.com/maadhattah/obsidian-poker
-downloads: 4088
+downloads: 4124
 updated at: "2024-07-14T23:47:25Z"
 related to:
   - "[[GitHub - 656898255]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render and document poker hands inline using simple two-letter card codes (ranks AKQJT98765432X, suits dhscx) with X for unknown rank or suit. Insert multiple cards in one token and set a custom inline prefix (default pkr) to match your workflow."
 
     stats: {
-        downloads:  4088
+        downloads:  4124
         updated_at: 1721000845000
     }
 }

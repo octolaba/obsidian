@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/english-text-interpreter
 alt:
   - https://github.com/julioagh/english-text-interpreter
-downloads: 87
+downloads: 94
 updated at: "2026-05-15T20:56:11Z"
 related to:
   - "[[GitHub - 1240158453]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Interpret selected English text with a local LLM via Ollama, keeping all data on your machine. View a panel breaking down Meaning, Tone, Context and Intent, and produce interpretations in configurable languages like Spanish, French, German or Portuguese."
 
     stats: {
-        downloads:  87
+        downloads:  94
         updated_at: 1778878571000
     }
 }

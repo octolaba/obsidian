@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/linked-data-vocabularies
 alt:
   - https://github.com/kometenstaub/linked-data-vocabularies
-downloads: 5814
+downloads: 5832
 updated at: "2024-01-03T13:09:19Z"
 related to:
   - "[[GitHub - 409516924]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add Library of Congress Subject Headings as linked-data YAML fields to notes, including heading, URL, broader/narrower/related terms and LC classification. Search and insert results with the LCSH command, appending to frontmatter or inserting inline YAML for Dataview; generate data with the Linked Data Helper plugin."
 
     stats: {
-        downloads:  5814
+        downloads:  5832
         updated_at: 1704287359000
     }
 }

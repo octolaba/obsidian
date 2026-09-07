@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sets
 alt:
   - https://github.com/canna71/obsidian-sets
-downloads: 12005
+downloads: 12210
 updated at: "2024-02-15T17:35:10Z"
 related to:
   - "[[GitHub - 679889018]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Structure notes as typed records using Obsidian properties and organize data with Types and Collections. Query items by properties and visualize collections in Grid, Board, Gallery or List layouts, with quick GUI-based item creation."
 
     stats: {
-        downloads:  12005
+        downloads:  12210
         updated_at: 1708018510000
     }
 }

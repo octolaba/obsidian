@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/spotify-links
 alt:
   - https://github.com/cutaiar/obsidian-song-links
-downloads: 3427
+downloads: 3576
 updated at: "2024-06-06T23:58:33Z"
 related to:
   - "[[GitHub - 665217986]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert song links from Spotify directly into your notes. Connect Spotify and run the Insert song link command to add a link to the currently playing track for quick music referencing."
 
     stats: {
-        downloads:  3427
+        downloads:  3576
         updated_at: 1717718313000
     }
 }

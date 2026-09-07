@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/job-search-tracker
 alt:
   - https://github.com/wesswart77/obsidian-job-search
-downloads: 217
+downloads: 281
 updated at: "2026-05-24T20:05:50Z"
 related to:
   - "[[GitHub - 1248532019]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track job applications in Obsidian with company, role, location, salary range, source, status, contacts, and interview notes. Manage a Kanban pipeline sidebar to move applications through stages, add/update status and contacts, and auto-create interview-prep notes with company research, questions to ask, and answers to prepare."
 
     stats: {
-        downloads:  217
+        downloads:  281
         updated_at: 1779653150000
     }
 }

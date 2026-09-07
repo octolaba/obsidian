@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-dashing-cursor
 alt:
   - https://github.com/9r0x/obsidian-dashing-cursor
-downloads: 5140
+downloads: 5154
 updated at: "2022-10-14T14:38:28Z"
 related to:
   - "[[GitHub - 524854158]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Animate a dashing trail between cursor jumps while ignoring selection ranges for a cleaner effect. Keep the trail synced with page scrolling and rely on streamlined CSS animation for smooth, lightweight visuals."
 
     stats: {
-        downloads:  5140
+        downloads:  5154
         updated_at: 1665758308000
     }
 }

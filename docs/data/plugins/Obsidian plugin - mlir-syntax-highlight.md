@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mlir-syntax-highlight
 alt:
   - https://github.com/lewuathe/obsidian-mlir-syntax-highlight
-downloads: 10380
+downloads: 10428
 updated at: "2023-08-30T01:48:22Z"
 related to:
   - "[[GitHub - 666271547]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add MLIR syntax highlighting to code blocks in the editor. Use a focused fork of cm-editor-syntax-highlight to deliver simple, accurate MLIR highlighting."
 
     stats: {
-        downloads:  10380
+        downloads:  10428
         updated_at: 1693360102000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bible-sidecar-kr
 alt:
   - https://github.com/korthomasjeong/bible-sidecar-KR
-downloads: 107
+downloads: 134
 updated at: "2026-06-28T08:38:32Z"
 related to:
   - "[[GitHub - 1282795036]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open the Bible in Obsidian's sidebar with Korean book names and four translations: 개역한글, 개역개정, NIV, KJV. Search by book/chapter/verse using Korean or English names to jump and highlight verses, then click to copy formatted passages to the clipboard; load 개역개정 from a local JSON while other texts come from a public API."
 
     stats: {
-        downloads:  107
+        downloads:  134
         updated_at: 1782635912000
     }
 }

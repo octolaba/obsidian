@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markdown-nodegraph-view
 alt:
   - https://github.com/yonge123/obsidian-nodegraph-plugin
-downloads: 592
+downloads: 697
 updated at: "2026-03-11T13:41:07Z"
 related to:
   - "[[GitHub - 1177812991]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize links between Markdown files as an interactive force-directed graph. Open notes by clicking nodes, search nodes by filename, and preserve node positions and preferences across sessions. Auto-refresh the graph when files change and adjust physics and appearance with live controls."
 
     stats: {
-        downloads:  592
+        downloads:  697
         updated_at: 1773236467000
     }
 }

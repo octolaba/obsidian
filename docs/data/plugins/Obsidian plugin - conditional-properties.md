@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/conditional-properties
 alt:
   - https://github.com/diegoeis/obsidian-conditional-properties
-downloads: 4116
+downloads: 5180
 updated at: "2026-06-18T23:06:33Z"
 related to:
   - "[[GitHub - 1075432071]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Automate frontmatter with IF/THEN rules to set, modify, or remove properties and update titles dynamically. Apply conditions on frontmatter or titles, run rules vault-wide or on scoped note sets, schedule scans, and preserve note body content while processing locally."
 
     stats: {
-        downloads:  4116
+        downloads:  5180
         updated_at: 1781823993000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sidecard
 alt:
   - https://github.com/shuuul/obsidian-sidecard
-downloads: 99
+downloads: 140
 updated at: "2026-07-05T15:28:04Z"
 related to:
   - "[[GitHub - 1289903604]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep multiple notes, PDFs, and images visible in a Heptabase-style sidebar card panel while you write. Search and add vault files, drag editor tabs into cards, reorder, resize and pin them, preview content inline, and insert Markdown references to card sources."
 
     stats: {
-        downloads:  99
+        downloads:  140
         updated_at: 1783265284000
     }
 }

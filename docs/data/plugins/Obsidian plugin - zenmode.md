@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zenmode
 alt:
   - https://github.com/paperbenni/obsidian-zenmode
-downloads: 6893
+downloads: 7149
 updated at: "2026-05-29T13:39:12Z"
 related to:
   - "[[GitHub - 801128777]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide most Obsidian UI to focus on the current file or document, leaving a single button to restore the interface. Collapse and restore sidebars automatically, enable full-screen viewing, adjustable padding, hide properties or inline title, and use a draggable top bar with a device-aware exit button."
 
     stats: {
-        downloads:  6893
+        downloads:  7149
         updated_at: 1780061952000
     }
 }

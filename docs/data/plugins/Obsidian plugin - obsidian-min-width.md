@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-min-width
 alt:
   - https://github.com/doitian/obsidian-min-width
-downloads: 5241
+downloads: 5259
 updated at: "2022-10-13T12:05:39Z"
 related to:
   - "[[GitHub - 540495505]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set the minimum width for the active pane. Auto-resize the active pane and shrink other panes to preserve that width. Apply configurable defaults and per-view-type overrides, and add the CSS class min-width-plugin-active for custom styling."
 
     stats: {
-        downloads:  5241
+        downloads:  5259
         updated_at: 1665662739000
     }
 }

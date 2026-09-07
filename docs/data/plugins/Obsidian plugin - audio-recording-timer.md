@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/audio-recording-timer
 alt:
   - https://github.com/mssoftjp/obsidian-audio-recording-timer
-downloads: 129
-updated at: "2026-05-20T13:41:24Z"
+downloads: 166
+updated at: "2026-08-08T16:07:07Z"
 related to:
   - "[[GitHub - 1143358384]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Start Obsidian's core audio recorder with a countdown duration or a scheduled end time and auto-stop when time is up. Display remaining time in the status bar, use quick-add durations, and stop or extend recording while underway. Enable Obsidian's core Audio recorder to use the timer."
 
     stats: {
-        downloads:  129
-        updated_at: 1779284484000
+        downloads:  166
+        updated_at: 1786205227000
     }
 }
 ```

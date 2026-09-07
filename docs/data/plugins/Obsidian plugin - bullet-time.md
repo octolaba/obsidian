@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bullet-time
 alt:
   - https://github.com/novitcz/Bullet-Time
-downloads: 95
+downloads: 143
 updated at: "2026-07-04T20:42:08Z"
 related to:
   - "[[GitHub - 1286696987]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create minimal Gantt timelines or roadmap from bullet lists by chaining tasks top-to-bottom so each starts when the previous ends. Auto-schedule siblings, support workday or calendar math, duration shorthands (h/d/w), nested lanes→projects→subtasks, per-task colors... Don't hesitate to send me feedback or improvement requests !"
 
     stats: {
-        downloads:  95
+        downloads:  143
         updated_at: 1783197728000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/easy-link-to-daily-note
 alt:
   - https://github.com/kdnk/obsidian-easy-link-to-daily-note
-downloads: 197
+downloads: 213
 updated at: "2026-05-26T12:50:39Z"
 related to:
   - "[[GitHub - 972019311]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create unique timestamped notes (YYYY-MM-DD-HH-mm-ss) with a single click. Append a link to the new note at the bottom of the corresponding daily note to build and connect daily logs and Zettelkasten-style ideas."
 
     stats: {
-        downloads:  197
+        downloads:  213
         updated_at: 1779799839000
     }
 }

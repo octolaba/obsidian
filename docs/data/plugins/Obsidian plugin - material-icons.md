@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/material-icons
 alt:
   - https://github.com/gust4v0di4sc/Material-Icons-Obsidian
-downloads: 456
+downloads: 549
 updated at: "2026-03-13T13:46:08Z"
 related to:
   - "[[GitHub - 1180219431]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add Material Theme–style icons (like VS Code) to Obsidian's file explorer. Display distinctive icons for common file types and special folders — markdown, code (js/ts/py), images, json, css/html, pdf, zip, env, .git and folders like src, assets, images, docs, templates."
 
     stats: {
-        downloads:  456
+        downloads:  549
         updated_at: 1773409568000
     }
 }

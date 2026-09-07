@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quickly
 alt:
   - https://github.com/tmfelwu/obsidian-inbox
-downloads: 3776
+downloads: 3805
 updated at: "2023-04-21T19:08:05Z"
 related to:
   - "[[GitHub - 626303617]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a quick-capture modal via a shortcut to create new notes or jump to existing ones with title and body fields. Type to surface matching note paths, navigate results to open a note, or submit to create a new note with content; warn if a similar note already exists."
 
     stats: {
-        downloads:  3776
+        downloads:  3805
         updated_at: 1682104085000
     }
 }

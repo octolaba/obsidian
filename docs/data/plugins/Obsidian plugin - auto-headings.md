@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/auto-headings
 alt:
   - https://github.com/aarlert/obsidian-auto-headings
-downloads: 164
-updated at: "2026-07-18T09:27:20Z"
+downloads: 314
+updated at: "2026-08-10T11:19:56Z"
 related to:
   - "[[GitHub - 1286700394]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Number headings automatically and keep numbering correct as you edit, rename, or reorganize notes. Sync heading renames across your vault so [[note#heading]] links update in the same edit and avoid broken anchors. Apply per-folder or per-file numbering templates and whitelist headings to exclude from numbering."
 
     stats: {
-        downloads:  164
-        updated_at: 1784366840000
+        downloads:  314
+        updated_at: 1786360796000
     }
 }
 ```

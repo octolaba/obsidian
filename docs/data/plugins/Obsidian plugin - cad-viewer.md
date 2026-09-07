@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cad-viewer
 alt:
   - https://github.com/liamzy2021/Obsidian-CAD-DWG-DXF-viewer
-downloads: 52
+downloads: 149
 updated at: "2026-07-15T03:08:07Z"
 related to:
   - "[[GitHub - 1300109915]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview .dxf and .dwg CAD drawings directly inside notes with an embedded WebGL viewer that renders in-place and supports pan, zoom, and layer-aware rendering. Open DWG files via LibreDWG parsing and inspect drawings in-note without leaving Obsidian (desktop only)."
 
     stats: {
-        downloads:  52
+        downloads:  149
         updated_at: 1784084887000
     }
 }

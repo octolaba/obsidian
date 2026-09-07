@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/clip-link
 alt:
   - https://github.com/kanade2511/clip-link-obsidian
-downloads: 108
+downloads: 122
 updated at: "2026-06-28T02:39:16Z"
 related to:
   - "[[GitHub - 1282320977]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy text to clipboard with a single click using clip: links in your notes; clicking a clip: link copies its target instead of navigating. Display clip: links in cyan to distinguish them, intercept only clip: links while regular links navigate normally, and work in Reading View and Live Preview with no configuration."
 
     stats: {
-        downloads:  108
+        downloads:  122
         updated_at: 1782614356000
     }
 }

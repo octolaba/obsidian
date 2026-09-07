@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/clippermaster
 alt:
   - https://github.com/aqeja/ClipperMaster-for-Obsidian
-downloads: 2559
+downloads: 2658
 updated at: "2025-04-25T06:20:11Z"
 related to:
   - "[[GitHub - 948525410]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Send structured web captures from ClipperMaster Chrome to Obsidian with one click. Convert text, images, and links into Markdown and save via templates to keep notes organized. Create a seamless browser-to-vault workflow for building your information database."
 
     stats: {
-        downloads:  2559
+        downloads:  2658
         updated_at: 1745562011000
     }
 }

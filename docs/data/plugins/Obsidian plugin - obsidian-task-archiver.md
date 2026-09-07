@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-task-archiver
 alt:
   - https://github.com/ivan-lednev/obsidian-task-archiver
-downloads: 35700
+downloads: 36152
 updated at: "2023-09-05T08:19:42Z"
 related to:
   - "[[GitHub - 398229775]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Archive completed tasks from a note into an archive section or separate archive file, preserving heading and list hierarchies. Move or delete completed items, include nested tasks and sub-items, and group archived entries by date or append custom text."
 
     stats: {
-        downloads:  35700
+        downloads:  36152
         updated_at: 1693901982000
     }
 }

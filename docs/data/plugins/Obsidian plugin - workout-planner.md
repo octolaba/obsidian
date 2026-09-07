@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/workout-planner
 alt:
   - https://github.com/spatariurares/obsidian-workout-plugin
-downloads: 1259
+downloads: 1365
 updated at: "2026-03-29T18:59:49Z"
 related to:
   - "[[GitHub - 1014240944]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize workout logs with interactive charts, sortable tables, timers and a dashboard—see volume, weight, reps, duration, pace and heart rate trends. Store logs in a single CSV, track protocols and muscle maps, estimate session duration, and log workouts quickly with a touch-friendly modal."
 
     stats: {
-        downloads:  1259
+        downloads:  1365
         updated_at: 1774810789000
     }
 }

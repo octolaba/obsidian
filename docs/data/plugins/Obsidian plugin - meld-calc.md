@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/meld-calc
 alt:
   - https://github.com/meld-cp/obsidian-calc
-downloads: 13511
+downloads: 13561
 updated at: "2021-10-23T01:48:01Z"
 related to:
   - "[[GitHub - 367772639]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Evaluate math expressions directly in notes using fcal's parser with arithmetic, units, functions, constants, and variables. End an expression with '=' to replace it with the result, or leave off '=' to evaluate and copy the result to the clipboard; supports multiline and variable assignment."
 
     stats: {
-        downloads:  13511
+        downloads:  13561
         updated_at: 1634953681000
     }
 }

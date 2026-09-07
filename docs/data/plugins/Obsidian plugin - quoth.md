@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quoth
 alt:
   - https://github.com/erykwalder/quoth
-downloads: 7461
+downloads: 7492
 updated at: "2023-06-29T13:40:14Z"
 related to:
   - "[[GitHub - 382978362]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed precise excerpts from Markdown files by selecting single blocks or multiple text ranges and join them into a single quote. Inline embeds to align with surrounding content and automatically add source author and title. Copy reference code blocks for quick pasting into other notes."
 
     stats: {
-        downloads:  7461
+        downloads:  7492
         updated_at: 1688046014000
     }
 }

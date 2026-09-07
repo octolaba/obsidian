@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/advanced-search-ui
 alt:
   - https://github.com/pandanocturne/obsidian-advanced-search-ui
-downloads: 1856
+downloads: 2657
 updated at: "2026-05-25T15:46:00Z"
 related to:
   - "[[GitHub - 1195198517]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Build complex Obsidian search queries with a visual query builder using dropdowns and fields, including AND/OR/NOT logic, regex, and case-sensitive matching. Manage conditions and groups with add/remove controls, drag-and-drop ordering, copy/paste group structures, quick-pick files/tags/paths, open a floating search panel, and send queries to Graph view for color-grouped inspection."
 
     stats: {
-        downloads:  1856
+        downloads:  2657
         updated_at: 1779723960000
     }
 }

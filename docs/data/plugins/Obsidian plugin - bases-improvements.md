@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bases-improvements
 alt:
   - https://github.com/real1tyy/BasesImprovements
-downloads: 3518
+downloads: 3728
 updated at: "2026-01-07T18:44:02Z"
 related to:
   - "[[GitHub - 1107925576]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Inject a live search input above every Bases code block and automatically add file.name.contains(\"value\") filters to queries as you type. Filter base query results instantly for faster, in-note searching and refinement."
 
     stats: {
-        downloads:  3518
+        downloads:  3728
         updated_at: 1767811442000
     }
 }

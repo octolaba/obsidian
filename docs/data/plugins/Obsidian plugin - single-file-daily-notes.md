@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/single-file-daily-notes
 alt:
   - https://github.com/pranavmangal/obsidian-single-file-daily-notes
-downloads: 7600
+downloads: 7698
 updated at: "2026-05-16T11:22:56Z"
 related to:
   - "[[GitHub - 735452195]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and manage daily notes in a single Markdown file, with each day as a heading so entries stay outline-friendly. Auto-create today's entry and position the cursor for immediate editing; jump to or create other dates via the built-in calendar sidebar."
 
     stats: {
-        downloads:  7600
+        downloads:  7698
         updated_at: 1778930576000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/music-player
 alt:
   - https://github.com/tracingorigins/obsidian-music-player-plugin
-downloads: 588
-updated at: "2026-06-29T13:12:52Z"
+downloads: 790
+updated at: "2026-08-06T11:57:46Z"
 related to:
   - "[[GitHub - 1173275056]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Play local MP3/WAV/OGG/M4A/FLAC/AAC files in a sidebar with library browsing, playlists, favorites, queue and full playback controls including seek, speed and volume. Display embedded lyrics (LRC and word-by-word karaoke) and album art, sync lyrics to playback, and switch modes like sequential, loop, repeat-one or shuffle — lyrics read only from embedded metadata."
 
     stats: {
-        downloads:  588
-        updated_at: 1782738772000
+        downloads:  790
+        updated_at: 1786017466000
     }
 }
 ```

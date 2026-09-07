@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/borrax-html
 alt:
   - https://github.com/dogukansahil/Borrax-HTML
-downloads: 199
+downloads: 311
 updated at: "2026-06-21T12:15:31Z"
 related to:
   - "[[GitHub - 1275889337]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View .html and .htm files from your vault with working CSS, scripts and relative links rendered in a sandboxed frame. Open files in an isolated desktop webview or a mobile iframe with base injection so relative assets resolve; vault links open in Obsidian, external links in your browser, with adjustable zoom and folder H-badges."
 
     stats: {
-        downloads:  199
+        downloads:  311
         updated_at: 1782044131000
     }
 }

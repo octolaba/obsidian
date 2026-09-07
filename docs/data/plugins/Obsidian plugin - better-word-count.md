@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-word-count
 alt:
   - https://github.com/lukeleppan/better-word-count
-downloads: 595551
+downloads: 602379
 updated at: "2024-01-23T14:34:19Z"
 related to:
   - "[[GitHub - 311348730]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Replace the built-in word count with a counter that counts selected text or the entire file. Record vault-wide statistics and display words, characters, sentences, footnotes, Pandoc citations, file/page totals, and today's counts in a highly customizable status bar."
 
     stats: {
-        downloads:  595551
+        downloads:  602379
         updated_at: 1706020459000
     }
 }

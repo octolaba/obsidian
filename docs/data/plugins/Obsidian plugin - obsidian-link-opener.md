@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-link-opener
 alt:
   - https://github.com/zorazrr/obsidian-link-opener
-downloads: 5232
+downloads: 5253
 updated at: "2022-11-26T16:37:47Z"
 related to:
   - "[[GitHub - 567897090]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Choose how to open external links by selecting a preferred opener method or using a modal to pick per-link options. Adjust the link-opener modal's width and height to fit your workspace."
 
     stats: {
-        downloads:  5232
+        downloads:  5253
         updated_at: 1669480667000
     }
 }

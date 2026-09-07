@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graphic-organizer
 alt:
   - https://github.com/nickfreedom/obsidian-graphic-organizer
-downloads: 1280
+downloads: 1367
 updated at: "2026-03-06T15:44:07Z"
 related to:
   - "[[GitHub - 1048785207]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize your vault as an interactive vertical tree that shows folders and files with distinctive icons, supports drag-and-drop reorganization, and offers right-click context menus to open, create, or delete items. Navigate large vaults with lazy loading, real-time updates, zoom and pan controls, visual drop-target feedback, and large-folder warnings."
 
     stats: {
-        downloads:  1280
+        downloads:  1367
         updated_at: 1772811847000
     }
 }

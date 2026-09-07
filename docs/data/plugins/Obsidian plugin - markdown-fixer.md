@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/markdown-fixer
 alt:
   - https://github.com/muhammedhunaid/markdown-fixer
-downloads:
-updated at:
+downloads: 80
+updated at: "2026-07-24T23:05:52Z"
 related to:
   - "[[GitHub - 1310581496]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/muhammedhunaid/markdown-fixer"
     description: "Fixes invisible Unicode characters, box-drawing tables, spaced pipe tables, spaced code blocks, and trailing whitespace — on paste or on demand. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Clean messy Markdown automatically on paste or on demand via commands. Convert box-drawing tables to Markdown pipe tables, strip invisible Unicode, collapse excess table spacing, repair spaced code fences, trim trailing whitespace, and run individual fixers or a single fix-all pass that reports changes. Launch: https://x.com/muhammedhunaid/status/2081848080341647758"
+
+    stats: {
+        downloads:  80
+        updated_at: 1784934352000
+    }
 }
 ```
 

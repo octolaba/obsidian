@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-cursor-location-plugin
 alt:
   - https://github.com/spslater/obsidian-cursor-location-plugin
-downloads: 11565
+downloads: 11600
 updated at: "2025-10-01T05:17:34Z"
 related to:
   - "[[GitHub - 381850701]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display cursor position (character and line) in the status bar, list multiple cursor locations or condense to an \"N cursors\" label. Show selections as start, end, or full range and present position as percent-through-document with several verbosity modes. Work on desktop only."
 
     stats: {
-        downloads:  11565
+        downloads:  11600
         updated_at: 1759295854000
     }
 }

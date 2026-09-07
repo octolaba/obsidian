@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/lookout
 alt:
   - https://github.com/post-math/Lookout
-downloads: 230
-updated at: "2026-06-24T07:03:19Z"
+downloads: 403
+updated at: "2026-07-28T12:47:07Z"
 related to:
   - "[[GitHub - 1278000930]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Survey wide Mermaid diagrams and wide tables without squinting at a narrow horizontal scrollbar. Pan, zoom, fit to frame, or open diagrams full‑screen with an unobtrusive instrument toolbar; open tables full‑screen to view their full width and leave any table you're editing untouched."
 
     stats: {
-        downloads:  230
-        updated_at: 1782284599000
+        downloads:  403
+        updated_at: 1785242827000
     }
 }
 ```

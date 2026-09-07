@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dictava-sync
 alt:
   - https://github.com/dictava/obsidian-sync
-downloads: 66
+downloads: 75
 updated at: "2026-06-16T19:12:18Z"
 related to:
   - "[[GitHub - 1241776813]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync voice-note artifacts from Dictava into your Obsidian vault as structured notes (daily notes, blog drafts, meeting summaries). Pull pending deliveries manually or enable background auto-sync to fetch artifacts and mark them delivered using your Dictava API key. Keep vault contents local; only your API key and vault name are sent."
 
     stats: {
-        downloads:  66
+        downloads:  75
         updated_at: 1781637138000
     }
 }

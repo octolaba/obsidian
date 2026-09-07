@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vaultbox
 alt:
   - https://github.com/grumpydev/vaultbox
-downloads: 454
+downloads: 564
 updated at: "2026-07-13T20:06:16Z"
 related to:
   - "[[GitHub - 1240889837]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault directly with a chosen Dropbox folder on desktop and mobile without needing the Dropbox desktop client. Preview and simulate planned changes before applying them, run manual or automatic syncs, keep .obsidian ignored by default, and detect conflicts to pause for user decisions."
 
     stats: {
-        downloads:  454
+        downloads:  564
         updated_at: 1783973176000
     }
 }

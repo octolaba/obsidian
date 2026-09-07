@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/virt-folder
 alt:
   - https://github.com/gr0grig/obsidian-virt-folder
-downloads: 7699
+downloads: 8095
 updated at: "2026-07-11T09:02:30Z"
 related to:
   - "[[GitHub - 828091382]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and manage hierarchical virtual folders to navigate notes like a book table of contents. Drag, drop, create and delete notes via mouse, context menus or hotkeys; add files from the file explorer, pick emoji icons, create unique notes, and use Front Matter Title support with database optimizations."
 
     stats: {
-        downloads:  7699
+        downloads:  8095
         updated_at: 1783760550000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/line-commands
 alt:
   - https://github.com/charliecm/obsidian-line-commands
-downloads: 2593
-updated at: "2025-02-26T04:35:55Z"
+downloads: 2819
+updated at: "2026-08-09T20:01:03Z"
 related to:
   - "[[GitHub - 765048795]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Select, copy, cut, duplicate, and paste whole lines or current selections with dedicated commands. Paste above or below the cursor and cut lines without selecting for faster line editing on mobile and desktop."
 
     stats: {
-        downloads:  2593
-        updated_at: 1740544555000
+        downloads:  2819
+        updated_at: 1786305663000
     }
 }
 ```

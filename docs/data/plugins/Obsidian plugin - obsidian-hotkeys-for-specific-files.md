@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-hotkeys-for-specific-files
 alt:
   - https://github.com/vinzent03/obsidian-hotkeys-for-specific-files
-downloads: 32397
+downloads: 32851
 updated at: "2024-01-29T20:46:01Z"
 related to:
   - "[[GitHub - 340156672]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open specific files with custom hotkeys for instant access. Generate a command per designated file and assign shortcuts in Obsidian's hotkey settings. Open files in the Hover Editor when Hover Editor support is enabled."
 
     stats: {
-        downloads:  32397
+        downloads:  32851
         updated_at: 1706561161000
     }
 }

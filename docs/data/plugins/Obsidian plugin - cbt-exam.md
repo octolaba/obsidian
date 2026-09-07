@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cbt-exam
 alt:
   - https://github.com/nazdridoy/obsidian-cbt-exam
-downloads: 2027
+downloads: 2139
 updated at: "2026-07-11T18:57:58Z"
 related to:
   - "[[GitHub - 1148397736]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create interactive, timed exams directly from your Markdown notes using a simple, human-readable syntax. Run exams in a native workspace tab with a timer and navigator; support seven question types, adaptive study mode, exam history, mark-for-review, color-coded review, detailed results and quick retakes. Include full Markdown and LaTeX (MathJax) in questions and options."
 
     stats: {
-        downloads:  2027
+        downloads:  2139
         updated_at: 1783796278000
     }
 }

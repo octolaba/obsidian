@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chopro-viewer
 alt:
   - https://github.com/jheddings/obsidian-chopro
-downloads: 864
+downloads: 912
 updated at: "2026-05-13T20:27:33Z"
 related to:
   - "[[GitHub - 1007460304]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render ChordPro song sheets with precise chord-to-lyric alignment and frontmatter metadata display. Transpose entire files, normalize chord notation, and transclude songs or flow-controlled sections via [!chopro] callouts for dynamic setlists and practice sheets."
 
     stats: {
-        downloads:  864
+        downloads:  912
         updated_at: 1778704053000
     }
 }

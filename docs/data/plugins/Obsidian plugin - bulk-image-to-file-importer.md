@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/bulk-image-to-file-importer
 alt:
   - https://github.com/johnmcanearney/bulk-image-to-file-importer
-downloads: 16
-updated at: "2026-07-21T20:15:12Z"
+downloads: 40
+updated at: "2026-08-11T11:25:40Z"
 related to:
   - "[[GitHub - 1226610973]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Import images in bulk into your vault as individual files, create new image files from a template, or append multiple images to an existing note. This tool skips duplicate uploads by referencing existing files with the same name to avoid re-adding images."
 
     stats: {
-        downloads:  16
-        updated_at: 1784664912000
+        downloads:  40
+        updated_at: 1786447540000
     }
 }
 ```

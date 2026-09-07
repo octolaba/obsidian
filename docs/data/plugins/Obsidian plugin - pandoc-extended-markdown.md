@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pandoc-extended-markdown
 alt:
   - https://github.com/errortzy/obsidian-pandoc-extended-markdown
-downloads: 6325
+downloads: 6660
 updated at: "2026-07-13T08:10:34Z"
 related to:
   - "[[GitHub - 1040519158]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Pandoc Extended Markdown in Obsidian, including superscripts (^text^), subscripts (~text~), and escaped spaces across paragraphs, lists, and definition lists. Provide fancy lists (alpha, roman, hash auto-numbering), autocompletion and auto-renumbering, plus example lists with cross-references and live-preview rendering."
 
     stats: {
-        downloads:  6325
+        downloads:  6660
         updated_at: 1783930234000
     }
 }

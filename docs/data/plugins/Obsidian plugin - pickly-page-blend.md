@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pickly-page-blend
 alt:
   - https://github.com/dmitrichev/pickly-page-blend
-downloads: 3034
+downloads: 3041
 updated at: "2023-08-28T00:15:54Z"
 related to:
   - "[[GitHub - 679412193]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish Obsidian notes as sharable web pages with full Markdown support, automatic inclusion of linked notes and files, permanent links, and social media preview images. Generate article-to-video pages via Viqeo integration and set page meta tags from note properties for custom titles and descriptions."
 
     stats: {
-        downloads:  3034
+        downloads:  3041
         updated_at: 1693181754000
     }
 }

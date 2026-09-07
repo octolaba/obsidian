@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/transcription-audio
 alt:
   - https://github.com/cha-yh/transcription-audio-obsidian-plugin
-downloads: 1736
-updated at: "2026-06-03T10:29:11Z"
+downloads: 1796
+updated at: "2026-08-11T06:49:18Z"
 related to:
   - "[[GitHub - 1043348690]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Transcribe audio linked or embedded in the active note with Google Gemini and insert structured Markdown containing the full transcript and summary at your cursor. Display a right-hand progress panel showing filename, upload/API timings, Gemini prompt/output/token logs and a cancel button during processing."
 
     stats: {
-        downloads:  1736
-        updated_at: 1780482551000
+        downloads:  1796
+        updated_at: 1786430958000
     }
 }
 ```

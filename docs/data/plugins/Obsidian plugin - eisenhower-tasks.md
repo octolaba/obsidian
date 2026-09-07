@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/eisenhower-tasks
 alt:
   - https://github.com/bugrasitemkar/obsidian-eisenhower-tasks
-downloads: 120
+downloads: 136
 updated at: "2026-06-17T07:32:04Z"
 related to:
   - "[[GitHub - 1255836483]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize tasks using a colour-coded 2×2 Eisenhower Matrix labeled by urgency and importance. Create named sections, add and drag-and-drop tasks across quadrants, expand any quadrant to fullscreen, and archive completed items to Eisenhower Archive.md in your vault with persistent storage."
 
     stats: {
-        downloads:  120
+        downloads:  136
         updated_at: 1781681524000
     }
 }

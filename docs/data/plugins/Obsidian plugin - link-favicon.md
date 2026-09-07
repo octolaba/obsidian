@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/link-favicon
 alt:
   - https://github.com/joethei/obsidian-link-favicon
-downloads: 60323
+downloads: 62005
 updated at: "2026-05-12T18:00:15Z"
 related to:
   - "[[GitHub - 434869368]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display favicons for web links directly in notes without custom CSS, working with many community plugins (Admonition, RSS Reader, etc.). Choose from multiple icon providers, override icons or define icons for URI schemes, and disable per-link display with |nofavicon."
 
     stats: {
-        downloads:  60323
+        downloads:  62005
         updated_at: 1778608815000
     }
 }

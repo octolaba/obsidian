@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quote-share
 alt:
   - https://github.com/nguyenvanduocit/quote-share
-downloads: 4998
+downloads: 5096
 updated at: "2023-02-05T18:31:13Z"
 related to:
   - "[[GitHub - 577654160]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed any website directly into Obsidian notes to display live web content inline. Generate gradient images from text by dropping text onto the gradient and copy them to the clipboard for pasting into notes or Twitter."
 
     stats: {
-        downloads:  4998
+        downloads:  5096
         updated_at: 1675621873000
     }
 }

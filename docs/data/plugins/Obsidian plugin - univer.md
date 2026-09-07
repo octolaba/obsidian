@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/univer
 alt:
   - https://github.com/dream-num/obsidian-univer
-downloads: 28537
+downloads: 29320
 updated at: "2024-09-13T12:20:18Z"
 related to:
   - "[[GitHub - 766912259]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create spreadsheets and rich documents inside Obsidian with sheets offering cell styles, formulas, conditional formatting, data validation, and search/replace. Edit docs with lists, paragraph layouts, mixed text and images, and multi-column sections. Read and save xls, xlsm, and xlsx files and switch interface between English and Chinese."
 
     stats: {
-        downloads:  28537
+        downloads:  29320
         updated_at: 1726230018000
     }
 }

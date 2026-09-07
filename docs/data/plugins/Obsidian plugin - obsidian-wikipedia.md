@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-wikipedia
 alt:
   - https://github.com/jmilldotdev/obsidian-wikipedia
-downloads: 28869
+downloads: 29225
 updated at: "2021-10-16T13:37:46Z"
 related to:
   - "[[GitHub - 410118006]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert the first section of a Wikipedia article into the active note using the note title or a custom search term. Customize the extract with language selection, templates, paragraph-level templating, and optional bolding of the search term."
 
     stats: {
-        downloads:  28869
+        downloads:  29225
         updated_at: 1634391466000
     }
 }

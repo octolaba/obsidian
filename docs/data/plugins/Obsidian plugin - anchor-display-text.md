@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/anchor-display-text
 alt:
   - https://github.com/rca-umb/anchor-link-display-text
-downloads: 1758
+downloads: 1812
 updated at: "2026-01-06T20:35:44Z"
 related to:
   - "[[GitHub - 889712067]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set anchor link display text to match linked headings automatically, converting [[Title#Heading]] into [[Title#Heading|Heading]]. Choose display formats (heading, note+heading, order), control multi-heading behavior (show all/first/last), or use a file property instead of the note name."
 
     stats: {
-        downloads:  1758
+        downloads:  1812
         updated_at: 1767731744000
     }
 }

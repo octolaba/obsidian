@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/habits
 alt:
   - https://github.com/jamescliffordspratt/obsidian-habits
-downloads: 441
-updated at: "2026-07-17T11:35:51Z"
+downloads: 866
+updated at: "2026-08-10T12:18:28Z"
 related to:
   - "[[GitHub - 1286248704]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Build streaks and log daily habits as plain Markdown notes in your vault. Track with heatmaps, 30-day and 12-week charts, streaks, completion rates and printable PDFs. Open an inline dashboard or sidebar quick-log to mark habits and pause days without breaking streaks."
 
     stats: {
-        downloads:  441
-        updated_at: 1784288151000
+        downloads:  866
+        updated_at: 1786364308000
     }
 }
 ```

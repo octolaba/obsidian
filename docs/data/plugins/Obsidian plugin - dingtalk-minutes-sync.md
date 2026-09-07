@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/dingtalk-minutes-sync
 alt:
   - https://github.com/ylgkger/dingtalk-minutes-to-obsidian
-downloads:
-updated at:
+downloads: 31
+updated at: "2026-07-25T07:34:03Z"
 related to:
   - "[[GitHub - 1310948983]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/ylgkger/dingtalk-minutes-to-obsidian"
     description: "Sync DingTalk AI Minutes to Markdown using the locally authenticated dws CLI. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Sync DingTalk AI meeting records to Obsidian as Markdown, including AI summaries, keywords, todos, and optional verbatim transcripts. Name files by actual meeting start time, support initial sync ranges of 7/30/365 days, and use the locally logged-in DingTalk Workspace CLI to access meetings without storing passwords, cookies, or AppSecret (desktop only)."
+
+    stats: {
+        downloads:  31
+        updated_at: 1784964843000
+    }
 }
 ```
 

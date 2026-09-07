@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gtd-no-next-step
 alt:
   - https://github.com/saibotsivad/obsidian-gtd-no-next-step
-downloads: 4631
+downloads: 4652
 updated at: "2023-12-19T21:10:57Z"
 related to:
   - "[[GitHub - 670165564]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mark project files that lack a defined next actionable step with a red badge, and mark projects waiting on external triggers with a gray badge. Scan project folders and subfolders for task lines tagged #next-step or #waiting-for and display badges to highlight projects needing attention."
 
     stats: {
-        downloads:  4631
+        downloads:  4652
         updated_at: 1703020257000
     }
 }

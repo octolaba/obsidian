@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/target-pane
 alt:
   - https://github.com/mjsharkey/obsidian_target_pane
-downloads: 134
+downloads: 211
 updated at: "2026-06-29T03:56:58Z"
 related to:
   - "[[GitHub - 1281497078]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set a pane as the destination for note links so every [[wikilink]], Markdown link, or embedded-note link opens there instead of the pane you clicked from. Preserve in-page (#heading/^block) and external links; click replaces the target pane's active tab while Cmd/Ctrl-click opens a new tab, and the target persists across restarts and auto-disables if closed."
 
     stats: {
-        downloads:  134
+        downloads:  211
         updated_at: 1782705418000
     }
 }

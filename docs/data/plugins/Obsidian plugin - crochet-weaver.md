@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/crochet-weaver
 alt:
   - https://github.com/evanlyu/obsidian-crochet-weaver
-downloads: 17
-updated at: "2026-07-20T12:37:21Z"
+downloads: 69
+updated at: "2026-08-09T09:15:37Z"
 related to:
   - "[[GitHub - 1305575988]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render crochet stitch charts as themed SVGs from text patterns in Obsidian code blocks, supporting flat rows, concentric rounds, and spirals. Embed an interactive progress tool or read-only pattern list with row checklists, stitch counters, current-row highlighting, and local offline progress storage."
 
     stats: {
-        downloads:  17
-        updated_at: 1784551041000
+        downloads:  69
+        updated_at: 1786266937000
     }
 }
 ```

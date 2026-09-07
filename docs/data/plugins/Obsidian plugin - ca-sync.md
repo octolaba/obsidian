@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ca-sync
 alt:
   - https://github.com/bhavers/obsidian-ca
-downloads: 324
+downloads: 337
 updated at: "2024-10-28T18:05:26Z"
 related to:
   - "[[GitHub - 792432659]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync architectures from Cognitive Architect into Obsidian as Markdown notes with embedded images. Import selected architectures or all artifacts, preserve instances and interlink notes for local editing and integration; provide a Personal Token to access your models."
 
     stats: {
-        downloads:  324
+        downloads:  337
         updated_at: 1730138726000
     }
 }

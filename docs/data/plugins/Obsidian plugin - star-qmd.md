@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/star-qmd
 alt:
   - https://github.com/starhunt/star-qmd
-downloads: 144
+downloads: 185
 updated at: "2026-06-03T03:38:34Z"
 related to:
   - "[[GitHub - 1235212539]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run BM25, vector, or deep (query expansion + reranking) semantic search inside your vault via the qmd CLI. Use a sidebar or modal with per-scope commands, index/embedding status, history, and auto-suggestions on zero results. Preview, open, or copy results with highlighted matches."
 
     stats: {
-        downloads:  144
+        downloads:  185
         updated_at: 1780457914000
     }
 }

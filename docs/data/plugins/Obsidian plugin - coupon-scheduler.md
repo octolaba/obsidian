@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/coupon-scheduler
 alt:
   - https://github.com/vrytfmcat/coupon-scheduler
-downloads: 6
+downloads: 26
 updated at: "2026-07-23T11:10:27Z"
 related to:
   - "[[GitHub - 1309214763]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Plan and schedule coupons, groceries, shopping reminders, red packets and recurring activities on an offline Obsidian calendar. Organize cards into outings, groceries or trash; track validity, hours, locations, price and notes; and import/export JSON backups."
 
     stats: {
-        downloads:  6
+        downloads:  26
         updated_at: 1784805027000
     }
 }

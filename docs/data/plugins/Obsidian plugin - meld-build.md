@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/meld-build
 alt:
   - https://github.com/meld-cp/obsidian-build
-downloads: 4767
+downloads: 4785
 updated at: "2023-03-25T21:43:20Z"
 related to:
   - "[[GitHub - 584282310]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Write and execute sandboxed JavaScript inside notes to render templates, query DataView, and generate dynamic, runnable documents. Run code from Reading or Live Preview with the built-in Run toolbar or command. Use the API and examples to build games, invoices, and interactive UI prompts."
 
     stats: {
-        downloads:  4767
+        downloads:  4785
         updated_at: 1679780600000
     }
 }

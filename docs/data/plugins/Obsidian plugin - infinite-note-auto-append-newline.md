@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/infinite-note-auto-append-newline
 alt:
   - https://github.com/usero2/obsidian-plugins-infinite-note-auto-append-newline
-downloads: 93
+downloads: 105
 updated at: "2026-06-04T16:17:10Z"
 related to:
   - "[[GitHub - 1259530077]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Append empty lines to the end of notes to create a true infinite-scroll editor. Generate new lines automatically as you type or move the cursor, preserving selection and cursor position. Maintain a configurable buffer of trailing empty lines."
 
     stats: {
-        downloads:  93
+        downloads:  105
         updated_at: 1780589830000
     }
 }

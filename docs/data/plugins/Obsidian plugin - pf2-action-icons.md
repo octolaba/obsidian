@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pf2-action-icons
 alt:
   - https://github.com/thiagocoutinhor/pf2-action-icons
-downloads: 9943
+downloads: 10055
 updated at: "2024-11-04T13:08:07Z"
 related to:
   - "[[GitHub - 660300515]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Replace pf2 code blocks (e.g., pf2:2) with Pathfinder 2E action icons in preview and reading view. Render Action, Double Action, Triple Action, Free Action and Reaction icons inline, including inside Markdown-rendered statblocks."
 
     stats: {
-        downloads:  9943
+        downloads:  10055
         updated_at: 1730725687000
     }
 }

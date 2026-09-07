@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/unirate-currency
 alt:
   - https://github.com/unirate-api/obsidian-currency
-downloads: 114
+downloads: 126
 updated at: "2026-05-11T06:22:59Z"
 related to:
   - "[[GitHub - 1235237231]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert live or historical currency exchange rates directly into notes using inline code like usd:eur or usd:eur:100. Support 170+ currencies and major cryptocurrencies, provide daily history back to 1999 on Pro, offer modal insertion and selection conversion commands, and cache rates for 60 minutes."
 
     stats: {
-        downloads:  114
+        downloads:  126
         updated_at: 1778480579000
     }
 }

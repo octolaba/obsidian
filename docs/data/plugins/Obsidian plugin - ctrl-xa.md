@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ctrl-xa
 alt:
   - https://github.com/nbossard/obsidian-CtrlXA
-downloads: 1634
+downloads: 1644
 updated at: "2024-02-13T08:25:00Z"
 related to:
   - "[[GitHub - 731678444]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Cycle through predefined keyword lists (e.g., Monday→Tuesday, yes↔no, I→II) or automatically increment/decrement numbers and dates inline in your notes. Configure custom lists and assign hotkeys to cycle items up or down."
 
     stats: {
-        downloads:  1634
+        downloads:  1644
         updated_at: 1707812700000
     }
 }

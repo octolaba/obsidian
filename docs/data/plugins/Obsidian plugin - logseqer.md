@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/logseqer
 alt:
   - https://github.com/sisyphe42/obsidian-logseqer-plugin
-downloads: 237
+downloads: 279
 updated at: "2026-05-13T02:42:05Z"
 related to:
   - "[[GitHub - 1150764213]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bring Logseq-native workflows into Obsidian with real-time Logseq-style syntax validation, vault compatibility checks, bookmark sync, and journal tools. Validate bullet syntax in the status bar, check date formats and namespaces across your vault, sync Logseq favorites to Obsidian bookmarks, and auto-format new journal files."
 
     stats: {
-        downloads:  237
+        downloads:  279
         updated_at: 1778640125000
     }
 }

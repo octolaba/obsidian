@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/refresh-preview
 alt:
   - https://github.com/mnaoumov/obsidian-refresh-any-view
-downloads: 14305
-updated at: "2026-07-21T01:18:00Z"
+downloads: 15482
+updated at: "2026-08-08T19:17:16Z"
 related to:
   - "[[GitHub - 824351625]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Refresh any view without reopening it. Add a Refresh button and a \"Refresh Active View\" command to rerender preview, live preview, or other panes on demand, with optional auto-refresh on file changes or at set intervals."
 
     stats: {
-        downloads:  14305
-        updated_at: 1784596680000
+        downloads:  15482
+        updated_at: 1786216636000
     }
 }
 ```

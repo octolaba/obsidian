@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zettelkasten-llm-tools
 alt:
   - https://github.com/glovguy/obsidian-gpt-zettelkasten
-downloads: 7258
+downloads: 7296
 updated at: "2025-02-01T18:43:05Z"
 related to:
   - "[[GitHub - 637215762]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate embeddings and index notes to enable semantic search and find notes similar to the current file. Rewrite and split notes with a Copilot that suggests clearer titles, focused ideas, links, and tags. Batch-generate embeddings by filename patterns to index large sets of notes."
 
     stats: {
-        downloads:  7258
+        downloads:  7296
         updated_at: 1738435385000
     }
 }

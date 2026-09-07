@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jira-sync-dashboard
 alt:
   - https://github.com/nabheetcloud/Obsidian-Jira-Sync-Projects-Issues-Dashboard
-downloads: 22
+downloads: 45
 updated at: "2026-07-10T13:29:45Z"
 related to:
   - "[[GitHub - 1295648390]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mirror Jira projects into your vault as one Markdown note per issue, stored in project folders with YAML frontmatter. View a filterable KPI dashboard for completion, overdue items, workload by assignee, weekly productivity and bug accountability, with a local cache."
 
     stats: {
-        downloads:  22
+        downloads:  45
         updated_at: 1783690185000
     }
 }

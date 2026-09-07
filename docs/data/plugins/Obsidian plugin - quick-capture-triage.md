@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quick-capture-triage
 alt:
   - https://github.com/ghh-l-djl/obsidian-quick-capture-triage
-downloads: 81
+downloads: 92
 updated at: "2026-07-02T03:01:33Z"
 related to:
   - "[[GitHub - 1277875749]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a sidebar panel to triage notes synced into your vault's inbox folder by the Obsidian Inbox server. Save (保存) to strip the inbox tag and move notes to your organized folder, or Discard (丢弃) to send notes to Obsidian's trash; work only on local files with no network or git access."
 
     stats: {
-        downloads:  81
+        downloads:  92
         updated_at: 1782961293000
     }
 }

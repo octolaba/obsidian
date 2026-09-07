@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-reader
 alt:
   - https://github.com/lornezhang66/open-reader
-downloads: 143
+downloads: 246
 updated at: "2026-07-20T14:53:40Z"
 related to:
   - "[[GitHub - 1249862435]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Read selected text or entire Markdown notes aloud with a local ttsctl CLI for offline, local-first text-to-speech. Split long notes into chunks, strip YAML and Markdown formatting (optionally skip fenced code), generate and play WAV files inside Obsidian with a floating controller to pause, resume, stop, and manage output files. Run on Obsidian desktop only since the plugin calls a local CLI."
 
     stats: {
-        downloads:  143
+        downloads:  246
         updated_at: 1784559220000
     }
 }

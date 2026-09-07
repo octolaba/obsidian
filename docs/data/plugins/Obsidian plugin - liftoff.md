@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/liftoff
 alt:
   - https://github.com/hpasic/obsidian-liftoff
-downloads: 574
-updated at: "2026-06-09T08:36:12Z"
+downloads: 745
+updated at: "2026-07-30T08:42:53Z"
 related to:
   - "[[GitHub - 1188827199]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Track gym workouts in Obsidian with a mobile-first interface, logging sets, reps, weight, and RPE as plain Markdown files. Start workouts from templates or custom routines, use a searchable exercise library, and run auto-start rest and interval timers. View recent workout history at a glance."
 
     stats: {
-        downloads:  574
-        updated_at: 1780994172000
+        downloads:  745
+        updated_at: 1785400973000
     }
 }
 ```

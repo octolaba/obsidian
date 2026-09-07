@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/feynman-research-agent
 alt:
   - https://github.com/icarian-systems/feynman-research-agent
-downloads: 139
+downloads: 143
 updated at: "2026-05-23T21:05:37Z"
 related to:
   - "[[GitHub - 1244120646]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run a local research agent in Docker to analyze and query your vault using your Anthropic API key or OAuth login. Store API keys on your machine (plaintext at ~/.feynman/secrets.json) while the agent communicates over a token‑protected localhost loopback server."
 
     stats: {
-        downloads:  139
+        downloads:  143
         updated_at: 1779570337000
     }
 }

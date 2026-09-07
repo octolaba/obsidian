@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-metadata-stripper
 alt:
   - https://github.com/tiemio/Image-Metadata-Stripper
-downloads: 92
+downloads: 105
 updated at: "2026-03-01T14:04:20Z"
 related to:
   - "[[GitHub - 1163920776]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Strip privacy-sensitive metadata from images and PDFs as they enter your vault with automatic and manual controls. Run bulk stripping, toggle support per format, and preserve ICC color profiles if desired; processing runs locally and is irreversible."
 
     stats: {
-        downloads:  92
+        downloads:  105
         updated_at: 1772373860000
     }
 }

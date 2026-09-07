@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-script-runner
 alt:
   - https://github.com/jlb-jlb/vault-script-runner
-downloads: 74
+downloads: 86
 updated at: "2026-06-10T22:15:52Z"
 related to:
   - "[[GitHub - 1265429526]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run local scripts with prompted parameters from a version-tracked JSON catalog. Discover and download scripts on demand, track installed versions and updates, and execute configurable presets that expand template variables like {{vault}} and {{scriptPath}}. Desktop-only."
 
     stats: {
-        downloads:  74
+        downloads:  86
         updated_at: 1781129752000
     }
 }

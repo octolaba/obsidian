@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/imgur-tencent-cos
 alt:
   - https://github.com/bobostudio/obsidian-imgur-plugin
-downloads: 865
-updated at: "2026-04-06T03:23:47Z"
+downloads: 931
+updated at: "2026-08-10T01:57:10Z"
 related to:
   - "[[GitHub - 906115696]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Upload images and many file types (PDF, MP3, MP4, DOCX, ZIP) to Tencent COS from Obsidian via drag-and-drop or paste, auto-replace local links with cloud URLs and open a panel to preview, refresh, or delete uploads. Resize on hover, run local/online note backups, set link expiry, and test COS connection."
 
     stats: {
-        downloads:  865
-        updated_at: 1775445827000
+        downloads:  931
+        updated_at: 1786327030000
     }
 }
 ```

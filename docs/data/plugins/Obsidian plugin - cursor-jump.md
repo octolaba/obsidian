@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cursor-jump
 alt:
   - https://github.com/sangwon-j/obsidian-jump
-downloads: 1738
+downloads: 1752
 updated at: "2024-05-26T06:03:55Z"
 related to:
   - "[[GitHub - 797042666]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Jump between list items and headings at the same level, or traverse to upper and lower outline levels. Move the cursor with commands modeled on Excel's Ctrl+Arrow keys to navigate outlines and lists quickly."
 
     stats: {
-        downloads:  1738
+        downloads:  1752
         updated_at: 1716703435000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/anki-helper
 alt:
   - https://github.com/panatgithub/anki-helper
-downloads: 295
+downloads: 318
 updated at: "2026-05-11T11:30:48Z"
 related to:
   - "[[GitHub - 1033846876]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Pair with obsidian_to_anki to turn headings into Q/A cards, insert target deck entries, and add heading-level backlinks for quick jump-back to notes. Clean title characters, tidy list spacing, convert/restore custom cloze markers to Anki {{cN::…}}, scope by path, and copy regex for obsidian_to_anki; includes bilingual settings."
 
     stats: {
-        downloads:  295
+        downloads:  318
         updated_at: 1778499048000
     }
 }

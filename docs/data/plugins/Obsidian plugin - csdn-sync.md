@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/csdn-sync
 alt:
   - https://github.com/jul1en-lin/obsidian-plugin-csdnsync
-downloads: 60
+downloads: 71
 updated at: "2026-06-26T17:19:37Z"
 related to:
   - "[[GitHub - 1280831817]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open the active Obsidian note in the CSDN Markdown editor and auto-fill the title, Markdown body, and upload local images via a local bridge and companion Chrome extension. Use Obsidian desktop with Chrome signed into CSDN, then review and save or publish the draft manually in CSDN."
 
     stats: {
-        downloads:  60
+        downloads:  71
         updated_at: 1782494377000
     }
 }

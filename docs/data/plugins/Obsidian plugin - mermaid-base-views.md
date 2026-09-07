@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mermaid-base-views
 alt:
   - https://github.com/nitero/obsidian-mermaid-base-views
-downloads: 1617
+downloads: 1694
 updated at: "2026-05-22T17:46:23Z"
 related to:
   - "[[GitHub - 1104722919]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create dynamic mermaid diagrams and charts inside bases. Add Flowchart, Mindmap, Timeline, Sankey, Pie, XY and Quadrant views to visualize note links, timelines, flows and charts, and apply global, per-view or local Mermaid configs with grouping, sorting and filtering."
 
     stats: {
-        downloads:  1617
+        downloads:  1694
         updated_at: 1779471983000
     }
 }

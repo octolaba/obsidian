@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/workbooks
 alt:
   - https://github.com/canna71/obsidian-sheets
-downloads: 9552
+downloads: 9678
 updated at: "2023-09-23T07:20:46Z"
 related to:
   - "[[GitHub - 669857415]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit and manage tabular data directly inside Obsidian using embedded sheet code blocks or by linking external XLSX, XLS, and CSV files. Store sheets in the note or sync with external files, preserve formatting when saving to code blocks, and retain most formatting with XLSX while CSV stores data only."
 
     stats: {
-        downloads:  9552
+        downloads:  9678
         updated_at: 1695453646000
     }
 }

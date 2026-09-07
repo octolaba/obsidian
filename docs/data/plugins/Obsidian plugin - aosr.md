@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/aosr
 alt:
   - https://github.com/linanwx/aosr
-downloads: 15735
+downloads: 15807
 updated at: "2025-11-24T00:29:14Z"
 related to:
   - "[[GitHub - 522497537]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create spaced-repetition flashcards with rich media (audio), supporting single-line, multi-line, and cloze cards, minute-level review intervals, and an \"Explore Hard Cards\" mode. Review in a dedicated window or mobile-optimized interface, scan notes selectively with folder/file exclusions, and use a custom database path."
 
     stats: {
-        downloads:  15735
+        downloads:  15807
         updated_at: 1763944154000
     }
 }

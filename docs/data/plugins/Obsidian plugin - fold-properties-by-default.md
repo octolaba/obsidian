@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/fold-properties-by-default
 alt:
   - https://github.com/tbergeron/obsidian-fold-properties-by-default
-downloads: 9182
+downloads: 10304
 updated at: "2026-05-12T22:51:11Z"
 related to:
   - "[[GitHub - 919034145]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fold metadata and frontmatter properties by default. Detect open notes and toggle any unfolded metadata to folded so properties stay out of the way without hiding them. Leave newly created notes unfolded to allow entering metadata before folding."
 
     stats: {
-        downloads:  9182
+        downloads:  10304
         updated_at: 1778626271000
     }
 }

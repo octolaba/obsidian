@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gz-sync
 alt:
   - https://github.com/london-chen/gz-sync-obsidian
-downloads: 91
+downloads: 103
 updated at: "2026-06-03T02:48:17Z"
 related to:
   - "[[GitHub - 1257790409]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Obsidian Markdown to WeChat Official Account drafts and Feishu cloud documents with one command. Convert Markdown into WeChat-compatible HTML, upload images and cover, and create drafts in WeChat and Feishu; check drafts manually before publishing."
 
     stats: {
-        downloads:  91
+        downloads:  103
         updated_at: 1780454897000
     }
 }

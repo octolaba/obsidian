@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/waymark
 alt:
   - https://github.com/walktalkmeditate/pilgrim-obsidian
-downloads: 79
+downloads: 90
 updated at: "2026-06-02T00:18:22Z"
 related to:
   - "[[GitHub - 1256399635]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Yours is accurate but dense. Lead with the value, bullet the features, and close with the two real differentiators — the safe-edit guarantee and local-first: Waymark imports your Pilgrim (.pilgrim) exports and turns each walk into a Markdown note you own — the transcribed voice reflection becomes the searchable, linkable body of the note. Each note carries: • Namespaced waymark-* frontmatter (date, distance, pace, steps, moon phase, and more) — Dataview-friendly • Labeled waypoints as [[wiki-links]], a timeline, weather, and a \"Sky\" section (moon phase, planetary hour, season) • Embedded photos, plus an optional interactive route map (bring your own free Mapbox token) • Place backlinks via OpenStreetMap, so walks from the same area cluster in your graph • A generated dashboard with Dataview tables: all walks, full-moon walks, longest reflections Re-import is idempotent: existing notes update in place and anything you write outside the managed region is never overwritten."
 
     stats: {
-        downloads:  79
+        downloads:  90
         updated_at: 1780359502000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/scalosaurus
 alt:
   - https://github.com/polygonhunter/scalosaurus
-downloads: 101
-updated at: "2026-07-17T13:24:01Z"
+downloads: 170
+updated at: "2026-08-06T14:10:28Z"
 related to:
   - "[[GitHub - 1286852950]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Resize embedded vault images (local ![[...]] embeds) with drag handles in Live Preview and Reading Mode. Keep aspect ratio by default or resize freely; snap to the column edge to write responsive |100% sizing. Write the final size back into the wikilink on release as a single undo step."
 
     stats: {
-        downloads:  101
-        updated_at: 1784294641000
+        downloads:  170
+        updated_at: 1786025428000
     }
 }
 ```

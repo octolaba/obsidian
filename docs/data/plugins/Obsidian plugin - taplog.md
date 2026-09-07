@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/taplog
 alt:
   - https://github.com/ljrobinson/TapLog
-downloads: 106
+downloads: 117
 updated at: "2026-05-27T01:43:31Z"
 related to:
   - "[[GitHub - 1244614817]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "TapLog lets you create simple one-tap trackers inside your vault. Use it to track snacks, habits, cannabis use, symptoms, supplies, chores, or anything else you want to record quickly. Each tracker is a normal Markdown note. In Reading View, TapLog renders tappable buttons from the tracker configuration. When you tap a button, TapLog writes a timestamped row to a monthly CSV file under TapLog/Logs/. You can create built-in tracker templates, build custom trackers from settings, edit existing trackers without touching YAML, and keep the tracker note as the source of truth. TapLog can also generate tracker indexes, Markdown dashboards, active-tracker summaries, monthly rollups, and snack par/restock guidance. TapLog is designed for fast, low-friction logging on desktop and mobile without combining multiple plugins or building a fragile automation stack."
 
     stats: {
-        downloads:  106
+        downloads:  117
         updated_at: 1779846211000
     }
 }

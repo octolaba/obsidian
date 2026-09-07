@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/spider
 alt:
   - https://github.com/111pointer111/spider
-downloads: 218
+downloads: 276
 updated at: "2026-07-10T18:50:49Z"
 related to:
   - "[[GitHub - 1276984166]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Turn AI conversations into expandable, navigable knowledge maps with each AI response as a node and the current chat beside the map. Branch into deep-dive child chats with Tab, navigate parent/child relationships, collapse subtrees, and export linked Markdown, canvas, and JSON packages."
 
     stats: {
-        downloads:  218
+        downloads:  276
         updated_at: 1783709449000
     }
 }

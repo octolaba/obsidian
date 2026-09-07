@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-zoom
 alt:
   - https://github.com/vslinko/obsidian-zoom
-downloads: 110603
+downloads: 111220
 updated at: "2023-05-04T08:25:16Z"
 related to:
   - "[[GitHub - 370061481]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Focus on a heading or list by hiding everything except that section and its content. Exit the zoom to restore the full document view."
 
     stats: {
-        downloads:  110603
+        downloads:  111220
         updated_at: 1683188716000
     }
 }

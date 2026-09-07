@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/consolidate-to-pdf
 alt:
   - https://github.com/ohm-engineering/Obsidian-Consolidate-To-PDF
-downloads: 377
+downloads: 511
 updated at: "2026-05-28T13:56:57Z"
 related to:
   - "[[GitHub - 1206801357]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Consolidate all vault Markdown notes into a single export note and launch Obsidian's PDF export flow via a ribbon button or command. Include an optional cover page, linked table of contents, and page breaks between notes while preserving folder hierarchy and skipping .obsidian content."
 
     stats: {
-        downloads:  377
+        downloads:  511
         updated_at: 1779976617000
     }
 }

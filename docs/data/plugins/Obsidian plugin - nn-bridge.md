@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nn-bridge
 alt:
   - https://github.com/maws7140/nn-bridge
-downloads: 161
+downloads: 390
 updated at: "2026-06-12T13:02:38Z"
 related to:
   - "[[GitHub - 1263578697]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extend Notebook Navigator with visual hide toggles, layout overrides, pinned commands, and recents filtering to declutter the navigation pane. Create collapsible custom sections, render Markdown or Buttons in the sidebar, and override left-sidebar tab icons and buttons for a Notion-like navigation. Require Notebook Navigator to operate."
 
     stats: {
-        downloads:  161
+        downloads:  390
         updated_at: 1781269358000
     }
 }

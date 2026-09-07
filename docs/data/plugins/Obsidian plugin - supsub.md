@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/supsub
 alt:
   - https://github.com/wjgoarxiv/obsidian-supsub
-downloads: 15402
+downloads: 15644
 updated at: "2026-02-18T01:07:41Z"
 related to:
   - "[[GitHub - 641232668]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format selected text as superscript or subscript using <sup> and <sub> tags. Activate typing mode to type directly in superscript or subscript with a status-bar indicator, intelligently toggle or remove tags, and reveal popup buttons with a modifier key."
 
     stats: {
-        downloads:  15402
+        downloads:  15644
         updated_at: 1771376861000
     }
 }

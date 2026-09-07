@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/confluence-sync
 alt:
   - https://github.com/kerry/obsidian-confluence-sync
-downloads: 2688
+downloads: 2722
 updated at: "2024-03-01T03:03:54Z"
 related to:
   - "[[GitHub - 761150064]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Obsidian notes to Confluence pages by linking each note to a Confluence page ID. Preserve mappings across file moves by assigning a unique note ID so connections remain intact even if paths or titles change."
 
     stats: {
-        downloads:  2688
+        downloads:  2722
         updated_at: 1709262234000
     }
 }

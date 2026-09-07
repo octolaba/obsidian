@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tmp-maker
 alt:
   - https://github.com/maiananthan/tmp-maker
-downloads: 93
+downloads: 100
 updated at: "2026-05-16T12:46:28Z"
 related to:
   - "[[GitHub - 1131580789]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create date-stamped temporary notes for short-term use. Remove expired temp files automatically at startup or on demand via the command palette based on retention days."
 
     stats: {
-        downloads:  93
+        downloads:  100
         updated_at: 1778935588000
     }
 }

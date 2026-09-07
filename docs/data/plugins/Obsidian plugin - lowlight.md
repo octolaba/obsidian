@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lowlight
 alt:
   - https://github.com/stikypiston/lowlight
-downloads: 197
+downloads: 223
 updated at: "2025-11-18T14:34:10Z"
 related to:
   - "[[GitHub - 1099049098]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight selected text in multiple colours to visually organize notes. Choose and apply colours from the command palette and customize your colour palette in settings for quick, consistent markup."
 
     stats: {
-        downloads:  197
+        downloads:  223
         updated_at: 1763476450000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chinese-novel-assistant
 alt:
   - https://github.com/pingo8888/chinese-novel-assistant
-downloads: 3495
+downloads: 3972
 updated at: "2026-07-24T04:31:17Z"
 related to:
   - "[[GitHub - 1171524276]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage a local settings library with keyword highlighting and hover previews, add selections via right-click, and insert settings inline with //+ fuzzy search. Create floating inspiration notes, track accurate Chinese character counts and milestones, apply novel-style typography, and batch-fix punctuation, typos, and sensitive words."
 
     stats: {
-        downloads:  3495
+        downloads:  3972
         updated_at: 1784867477000
     }
 }

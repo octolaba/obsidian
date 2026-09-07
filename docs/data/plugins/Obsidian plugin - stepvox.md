@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/stepvox
 alt:
   - https://github.com/cheng-zi-qing/stepvox
-downloads: 95
+downloads: 106
 updated at: "2026-05-15T09:55:01Z"
 related to:
   - "[[GitHub - 1231926927]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Control Obsidian hands-free with a voice AI assistant that listens, acts on your vault, and replies aloud. Use a streamed mic→ASR→LLM→TTS pipeline to query, read, create, append, update, move, and open notes; run single-shot or multi-turn sessions with barge-in, and enable optional web search and multi-LLM providers."
 
     stats: {
-        downloads:  95
+        downloads:  106
         updated_at: 1778838901000
     }
 }

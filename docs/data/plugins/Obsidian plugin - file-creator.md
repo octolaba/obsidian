@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-creator
 alt:
   - https://github.com/dudethatserin/FileCreator
-downloads: 623
+downloads: 657
 updated at: "2026-05-29T04:15:09Z"
 related to:
   - "[[GitHub - 995040355]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create files from templates—Markdown, PDFs, Kanban boards, .base files, and Excalidraw drawings—directly in any vault folder and embed them into notes. Browse your folder tree, add dates to filenames, generate Kanban columns with sample tasks, and reuse Markdown/PDF/Excalidraw/base templates for consistent files."
 
     stats: {
-        downloads:  623
+        downloads:  657
         updated_at: 1780028109000
     }
 }

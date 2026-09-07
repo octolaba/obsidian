@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/import-todoist
 alt:
   - https://github.com/dukex/obsidian-import-todoist
-downloads: 607
+downloads: 621
 updated at: "2024-12-07T15:18:34Z"
 related to:
   - "[[GitHub - 899975813]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import all Todoist tasks into Obsidian and insert them at the current cursor position. Pair with the Tasks plugin to view and manage imported tasks inside your notes."
 
     stats: {
-        downloads:  607
+        downloads:  621
         updated_at: 1733584714000
     }
 }

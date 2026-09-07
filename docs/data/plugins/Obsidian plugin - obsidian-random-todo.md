@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-random-todo
 alt:
   - https://github.com/natiaris/obsidian-random-todo
-downloads: 5013
+downloads: 5034
 updated at: "2021-11-20T15:01:43Z"
 related to:
   - "[[GitHub - 389214653]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a random file that contains at least one todo mark, or jump directly to a random todo item at its position in the file. Display a status-bar counter of total todo items and choose file-based (files equal weight) or item-based (items equal weight) randomness. Set your todo pattern using a JavaScript regular expression to match custom marks."
 
     stats: {
-        downloads:  5013
+        downloads:  5034
         updated_at: 1637420503000
     }
 }

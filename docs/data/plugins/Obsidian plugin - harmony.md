@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/harmony
 alt:
   - https://github.com/yodavatar/Harmony
-downloads: 408
-updated at: "2026-06-04T13:35:05Z"
+downloads: 491
+updated at: "2026-08-03T10:00:08Z"
 related to:
   - "[[GitHub - 1218224938]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Harmony is an all-in-one modular plugin that brings professional productivity tools to your note-taking workspace. One task, multiple perspectives. The ultimate modular workspace. Instantly sync your data across Todo lists, Calendars, and Kanban views."
 
     stats: {
-        downloads:  408
-        updated_at: 1780580105000
+        downloads:  491
+        updated_at: 1785751208000
     }
 }
 ```

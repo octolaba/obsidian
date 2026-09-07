@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/double-colon-conceal
 alt:
   - https://github.com/msrch/obsidian-double-colon-conceal
-downloads: 6828
+downloads: 6867
 updated at: "2024-06-17T12:06:38Z"
 related to:
   - "[[GitHub - 593643671]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display double-colon inline fields (::) as a single colon (:) for cleaner, more natural reading. Conceal in Reading View and optionally in edit/live preview. Preserve visibility on the active line and in Source-mode selections; mark concealed colons with .cm-double-colon-conceal."
 
     stats: {
-        downloads:  6828
+        downloads:  6867
         updated_at: 1718625998000
     }
 }

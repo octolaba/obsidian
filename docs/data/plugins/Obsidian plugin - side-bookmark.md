@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/side-bookmark
 alt:
   - https://github.com/bcs1037/side-bookmark
-downloads: 444
+downloads: 485
 updated at: "2026-05-13T09:17:56Z"
 related to:
   - "[[GitHub - 1199012094]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse websites directly inside Obsidian's sidebar with a built-in web browser. Save and organize bookmarks into folders, reorder them via drag-and-drop, and open external links from notes in the sidebar instead of your system browser; bookmarks and settings persist in your vault."
 
     stats: {
-        downloads:  444
+        downloads:  485
         updated_at: 1778663876000
     }
 }

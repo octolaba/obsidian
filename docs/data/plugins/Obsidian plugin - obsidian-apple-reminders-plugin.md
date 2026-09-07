@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-apple-reminders-plugin
 alt:
   - https://github.com/urishiraval/obsidian-apple-reminders-plugin
-downloads: 15048
+downloads: 15290
 updated at: "2022-09-13T08:59:30Z"
 related to:
   - "[[GitHub - 310057118]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Apple Reminders into Obsidian via AppleScript. Display list contents, fetch uncompleted reminders by default, pull or create specific reminders and apply basic date and priority filters. Run only on Apple devices."
 
     stats: {
-        downloads:  15048
+        downloads:  15290
         updated_at: 1663059570000
     }
 }

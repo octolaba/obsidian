@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tab-navigator
 alt:
   - https://github.com/o02c/obsidian-tab-navigator
-downloads: 6965
+downloads: 6998
 updated at: "2025-12-28T14:26:36Z"
 related to:
   - "[[GitHub - 790056672]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search open tabs with fuzzy matching across file names, paths, frontmatter aliases and tags, then jump to the chosen tab instantly. Close duplicate tabs in bulk to tidy your workspace."
 
     stats: {
-        downloads:  6965
+        downloads:  6998
         updated_at: 1766931996000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/marp-slides-presenter
 alt:
   - https://github.com/cocoaai-it/ob-cocoa-marp
-downloads: 420
+downloads: 502
 updated at: "2026-05-27T10:43:18Z"
 related to:
   - "[[GitHub - 1168991780]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and present Marp Markdown slides inside Obsidian with live slide preview, fullscreen or popout presentation, and a presenter view showing current/next slides, speaker notes, and an elapsed timer. Toggle a built-in laser pointer during presentations and export slides to HTML, PDF, PNG, image-based PPTX or editable PPTX for PowerPoint."
 
     stats: {
-        downloads:  420
+        downloads:  502
         updated_at: 1779878598000
     }
 }

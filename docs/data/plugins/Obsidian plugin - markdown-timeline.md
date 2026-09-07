@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markdown-timeline
 alt:
   - https://github.com/recklyss/markdown-timeline
-downloads: 3607
+downloads: 3640
 updated at: "2025-08-28T03:14:17Z"
 related to:
   - "[[GitHub - 879641223]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create timelines from your Markdown notes, including BCE/CE dates using negative years. Customize date formats, choose ascending or descending order, search and filter events, and add new events directly from the timeline view."
 
     stats: {
-        downloads:  3607
+        downloads:  3640
         updated_at: 1756350857000
     }
 }

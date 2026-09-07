@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/emoji-tags-titler
 alt:
   - https://github.com/cyfine/EmoTagsTitler
-downloads: 4282
+downloads: 4296
 updated at: "2023-07-17T14:42:11Z"
 related to:
   - "[[GitHub - 666350073]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add emoji from emoji tags to note titles. Remove emoji from titles for notes with emoji tags and run batch add/remove across the vault using commands."
 
     stats: {
-        downloads:  4282
+        downloads:  4296
         updated_at: 1689604931000
     }
 }

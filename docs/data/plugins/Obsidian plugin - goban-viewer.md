@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/goban-viewer
 alt:
   - https://github.com/thek3nger/obsidian-goban
-downloads: 91
+downloads: 96
 updated at: "2026-05-15T12:38:12Z"
 related to:
   - "[[GitHub - 352597349]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Go/Baduk/Weiqi diagrams in notes using Sensei's Library diagram syntax. Write diagrams inside fenced goban code blocks to output lightweight SVG goban diagrams that display on desktop and mobile."
 
     stats: {
-        downloads:  91
+        downloads:  96
         updated_at: 1778848692000
     }
 }

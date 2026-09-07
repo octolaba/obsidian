@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/memos-plus
 alt:
   - https://github.com/nocodeuse-dev/memos-plus
-downloads: 453
-updated at: "2026-07-17T12:15:28Z"
+downloads: 638
+updated at: "2026-08-11T12:25:00Z"
 related to:
   - "[[GitHub - 1275616424]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Capture memos instantly and archive them directly into project files, tag pages, recent notes, or specific Markdown headings. Review and manage memos with timeline cards, calendar-style activity, search and tag filters, plus views for today, week, todo, pinned, starred, archived, random review and on-this-day. Store memos as local yearly Markdown files and keep data private with no accounts, telemetry, or network requests."
 
     stats: {
-        downloads:  453
-        updated_at: 1784290528000
+        downloads:  638
+        updated_at: 1786451100000
     }
 }
 ```

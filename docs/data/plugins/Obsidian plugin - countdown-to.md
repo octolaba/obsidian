@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/countdown-to
 alt:
   - https://github.com/guicattani/obsidian-countdown-to
-downloads: 2622
+downloads: 2737
 updated at: "2026-05-19T09:49:28Z"
 related to:
   - "[[GitHub - 945498594]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track time to deadlines, events, or milestones with visual progress bars that count down to exact dates and times (minutes & seconds) and update in real time. Create Line, Circle, SemiCircle or Square bars, customize info text and date formatting, and show completion messages."
 
     stats: {
-        downloads:  2622
+        downloads:  2737
         updated_at: 1779184168000
     }
 }

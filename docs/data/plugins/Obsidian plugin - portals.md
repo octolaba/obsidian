@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/portals
 alt:
   - https://github.com/samaraliwarsi/obsidian-portals
-downloads: 10017
+downloads: 11648
 updated at: "2026-07-03T10:35:09Z"
 related to:
   - "[[GitHub - 1165726457]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Portals plugin enhances file navigation in Obsidian by enabling users to pin any folder or tag as a customizable tab, a Portal into your selected folder trees. Users can add icons to Tabs, stacks, use background colors, gradients and rearrange Portals to suit their workflow. Portal tabs can be grouped multiple into collapsible stacks. A range of user preferences are available to visually enhance the explorer. Plugin comes with six visual styles and support for custom colors & icons from the Phosphor set packed into the plugin for offline usage. Plugin has features of multi-select, range-select, custom re-ordering of folder, tag spaces, recursive tag trees, tag grouping. Side Portal is a collapsible pane that offers features of context notes, trash, properties, recent files, bookmarks, journal and hidden items. The plugin is made to help single vaults that hold multiple subjects using folders or tags to separate navigation areas. Portals is fully offline, free and will always remain so."
 
     stats: {
-        downloads:  10017
+        downloads:  11648
         updated_at: 1783074909000
     }
 }

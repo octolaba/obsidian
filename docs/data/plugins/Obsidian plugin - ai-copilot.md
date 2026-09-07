@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-copilot
 alt:
   - https://github.com/alexjiaguo/obsidian-ai-copilot
-downloads: 607
+downloads: 738
 updated at: "2026-04-02T14:45:00Z"
 related to:
   - "[[GitHub - 1162261011]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with notes, selections, or your entire vault in a context-aware sidebar with multi-session tabs, project scoping, @mentions, and web search. Transform selected text (summarize, rewrite, expand, simplify, continue writing) and connect to OpenAI, Anthropic, Gemini, Groq or local Ollama models; extend via MCP servers and custom skills."
 
     stats: {
-        downloads:  607
+        downloads:  738
         updated_at: 1775141100000
     }
 }

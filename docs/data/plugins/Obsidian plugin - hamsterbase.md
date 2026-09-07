@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hamsterbase
 alt:
   - https://github.com/hamsterbase/obsidian-hamsterbase
-downloads: 3634
+downloads: 3685
 updated at: "2023-07-18T12:48:37Z"
 related to:
   - "[[GitHub - 600703582]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export highlights from HamsterBase into your Obsidian vault as Markdown files. Sync highlights via the HamsterBase API to save them into a chosen folder with a single command."
 
     stats: {
-        downloads:  3634
+        downloads:  3685
         updated_at: 1689684517000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markdownvault
 alt:
   - https://github.com/dhennessy/MarkdownVaultObsidianPlugin
-downloads: 81
+downloads: 88
 updated at: "2026-05-08T20:49:23Z"
 related to:
   - "[[GitHub - 1192527967]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish your Obsidian vault to Markdown Vault and generate a shareable link so others can download and view your notes in the Markdown Vault iOS app. Add optional password protection for restricted access."
 
     stats: {
-        downloads:  81
+        downloads:  88
         updated_at: 1778273363000
     }
 }

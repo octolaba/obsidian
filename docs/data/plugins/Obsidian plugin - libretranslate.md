@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/libretranslate
 alt:
   - https://github.com/p0shkar/LibreTranslate-for-Obsidian
-downloads: 60
+downloads: 89
 updated at: "2026-07-06T07:08:30Z"
 related to:
   - "[[GitHub - 1289285070]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Translate selected text or entire Markdown notes via a LibreTranslate-compatible server. Preserve Markdown structure where possible and protect callouts, links, code spans, and other markdown-sensitive content, with inline replacement or callout-based translation output."
 
     stats: {
-        downloads:  60
+        downloads:  89
         updated_at: 1783321710000
     }
 }

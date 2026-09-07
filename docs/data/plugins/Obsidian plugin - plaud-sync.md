@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/plaud-sync
 alt:
   - https://github.com/leonardsellem/plaud-sync-for-obsidian
-downloads: 2089
+downloads: 2335
 updated at: "2026-05-15T15:47:57Z"
 related to:
   - "[[GitHub - 1164258138]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Plaud voice recordings into Markdown notes inside your vault, including titles, dates, durations, AI summaries, key highlights, and full transcripts with speaker labels. Perform incremental, idempotent updates with secure token storage, automatic retries, trash filtering, and content hydration; note the plugin uses a reverse‑engineered Plaud API and may break without notice."
 
     stats: {
-        downloads:  2089
+        downloads:  2335
         updated_at: 1778860077000
     }
 }

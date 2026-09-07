@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/caldav-sync
 alt:
   - https://github.com/speze88/obsidian-caldav-sync
-downloads: 192
+downloads: 216
 updated at: "2026-03-12T19:31:23Z"
 related to:
   - "[[GitHub - 1173446240]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync markdown tasks bidirectionally with CalDAV VTODO servers (Nextcloud, SOGo, mailcow). Map calendars to tags to route tasks, push completions and pull remote title/status changes on file save. Store CalDAV UIDs in invisible HTML comments to keep notes readable."
 
     stats: {
-        downloads:  192
+        downloads:  216
         updated_at: 1773343883000
     }
 }

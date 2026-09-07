@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/select-to-note
 alt:
   - https://github.com/tyzzt/select2obsidian
-downloads: 186
+downloads: 211
 updated at: "2026-05-22T09:28:35Z"
 related to:
   - "[[GitHub - 1238492497]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Send selected web page content as Markdown into Obsidian using a Chromium browser extension paired with a local companion plugin. Append captures to the end of the active note or choose a target when no note is open."
 
     stats: {
-        downloads:  186
+        downloads:  211
         updated_at: 1779442115000
     }
 }

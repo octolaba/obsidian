@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/headless-mode
 alt:
   - https://github.com/powderfirm-ship-it/obsidian-headless-mode
-downloads: 132
+downloads: 192
 updated at: "2026-06-23T17:42:07Z"
 related to:
   - "[[GitHub - 1267070067]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run Obsidian headless to hide all windows and remove the macOS Dock icon while the app continues running as a menu bar/tray icon. Toggle headless from the tray menu or command palette, or start headless at launch, to let syncs, automations, and vault‑watching plugins run without Dock or window clutter."
 
     stats: {
-        downloads:  132
+        downloads:  192
         updated_at: 1782236527000
     }
 }

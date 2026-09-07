@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/improved-random-note
 alt:
   - https://github.com/shockthunder/improved-random-note
-downloads: 12901
+downloads: 13230
 updated at: "2024-12-13T22:56:04Z"
 related to:
   - "[[GitHub - 540919950]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a random note instantly without creating an intermediate search term. Launch it in a new panel and refine results by excluding folders or limiting to notes with a specific tag."
 
     stats: {
-        downloads:  12901
+        downloads:  13230
         updated_at: 1734130564000
     }
 }

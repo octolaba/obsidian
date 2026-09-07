@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/show-hidden-files
 alt:
   - https://github.com/witi42/obsidian-show-hidden-files
-downloads: 6007
+downloads: 7091
 updated at: "2026-04-15T20:33:08Z"
 related to:
   - "[[GitHub - 1195974238]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reveal hidden dotfiles and dotfolders and expose unsupported file types (e.g., .env, .gitignore, .json, .yml) directly in the Obsidian file explorer. Sync with Obsidian's native file-extension detection and fully revert visibility when the plugin is disabled."
 
     stats: {
-        downloads:  6007
+        downloads:  7091
         updated_at: 1776285188000
     }
 }

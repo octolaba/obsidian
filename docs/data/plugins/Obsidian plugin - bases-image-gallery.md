@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bases-image-gallery
 alt:
   - https://github.com/ghyatt/obsidian-bases-image-gallery
-downloads: 433
+downloads: 538
 updated at: "2026-06-14T15:26:14Z"
 related to:
   - "[[GitHub - 1268602012]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a zero-setup masonry image gallery in Obsidian using Bases, rendering images directly in the Base view. Filter images by folder or other criteria to build dynamic standalone or embedded galleries with minimal configuration."
 
     stats: {
-        downloads:  433
+        downloads:  538
         updated_at: 1781450774000
     }
 }

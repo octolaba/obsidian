@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/new-tab-plus
 alt:
   - https://github.com/raphlette/obsidian-new-tab-plus
-downloads: 13694
+downloads: 13948
 updated at: "2025-02-07T18:03:08Z"
 related to:
   - "[[GitHub - 769204501]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open Markdown files, graphs, canvases, images, audio, video, and PDFs in a new tab by default. Prevent duplicate tabs by focusing an already-open tab for a file or canvas when desired."
 
     stats: {
-        downloads:  13694
+        downloads:  13948
         updated_at: 1738951388000
     }
 }

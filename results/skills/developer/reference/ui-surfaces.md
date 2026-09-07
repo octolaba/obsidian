@@ -38,8 +38,8 @@ version marker either
 long-established and say so rather than inventing an `@since`. Individual *members* of those classes
 usually are dated, and those dates are cited below.
 
-Where a member is dated, this page states `@since` plus its tier at the pin — **stable (≤1.12.7)**
-or **insider-only (>1.12.7)** — measured against the stable release recorded in
+Where a member is dated, this page states `@since` plus its tier at the pin — **stable (≤1.13.7)**
+or **insider-only (>1.13.7)** — measured against the stable release recorded in
 (rel: desktop-releases.json:3).
 
 ## Surface chooser
@@ -173,8 +173,8 @@ modal that mutates plugin state directly is harder to test and harder to reuse.
 **`ConfirmationModal`** exists as a first-class confirm dialog — `addCheckbox`, `addButton`,
 `addCancelButton`, with buttons that "auto-close the modal on click unless the handler returns
 truthy" (api: obsidian.d.ts:1958-1963; api: obsidian.d.ts:1984; api: obsidian.d.ts:1994). It is
-`@since 1.13.0` (api: obsidian.d.ts:1961), **insider-only at pin** — never the default
-recommendation; build the confirm step from `Modal` instead.
+`@since 1.13.0` (api: obsidian.d.ts:1961), **stable at pin** — usable once `minAppVersion` is at
+1.13.0 or above; below that floor, build the confirm step from `Modal` instead.
 
 **`SuggestModal<T>`** gives a filtered list: implement `getSuggestions(query)`,
 `renderSuggestion(item, el)`, and `onChooseSuggestion(item, evt)` **Contract**

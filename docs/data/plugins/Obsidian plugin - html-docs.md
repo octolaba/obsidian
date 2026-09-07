@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/html-docs
 alt:
   - https://github.com/smcllns/obsidian-plugin-html-docs
-downloads: 1145
+downloads: 1357
 updated at: "2026-06-17T20:43:45Z"
 related to:
   - "[[GitHub - 1236817411]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bringing the unreasonable effectiveness of HTML to Obsidian. HTML is rendered in a sandboxed iframe and works across tabs, embeds, and canvas. JS can run inside the HTML for interactivity but the iframe is isolated from your other notes and Obsidian's own data. No other bells and whistles. Minimal, simple, one job."
 
     stats: {
-        downloads:  1145
+        downloads:  1357
         updated_at: 1781729025000
     }
 }

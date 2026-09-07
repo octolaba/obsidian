@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/giphy
 alt:
   - https://github.com/lucjager/giphy-plugin
-downloads: 2488
+downloads: 2564
 updated at: "2024-07-16T06:23:55Z"
 related to:
   - "[[GitHub - 822690978]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search and insert animated GIFs from Giphy directly into notes using keyword search or a random-GIF command. Preview GIFs before insertion and browse results in a modal."
 
     stats: {
-        downloads:  2488
+        downloads:  2564
         updated_at: 1721111035000
     }
 }

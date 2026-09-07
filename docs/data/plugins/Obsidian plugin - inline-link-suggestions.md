@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/inline-link-suggestions
 alt:
   - https://github.com/laughedelic/obsidian-inline-link-suggestions
-downloads: 88
-updated at: "2026-07-18T18:55:02Z"
+downloads: 146
+updated at: "2026-08-11T03:28:11Z"
 related to:
   - "[[GitHub - 1297947851]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Spot plain-text mentions of existing notes while you write and underline them with a subtle dotted line. Click or tap a suggestion to convert it into a [[wiki link]] (title or alias), preview the target on hover, link inline without leaving the editor, and run locally at vault scale."
 
     stats: {
-        downloads:  88
-        updated_at: 1784400902000
+        downloads:  146
+        updated_at: 1786418891000
     }
 }
 ```

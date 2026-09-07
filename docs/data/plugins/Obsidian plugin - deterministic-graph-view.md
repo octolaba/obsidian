@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/deterministic-graph-view
 alt:
   - https://github.com/jeantoledo/obsidian-deterministic-graph-view
-downloads: 299
+downloads: 362
 updated at: "2026-05-28T12:59:29Z"
 related to:
   - "[[GitHub - 1240683539]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render your vault's link graph with a deterministic breadth-first layout to keep node positions consistent across sessions. Click nodes to open notes in new tabs, get hover highlighting and automatic refresh on file or excluded-files changes, and customize node and edge colors. This plugin is in an early stage, so you may encounter bugs. Please provide feedback, and I'll address them as soon as possible. Feel free to collaborate as well; it's an open repository on GitHub. Let's build it together! https://github.com/jeantoledo/obsidian-deterministic-graph-view"
 
     stats: {
-        downloads:  299
+        downloads:  362
         updated_at: 1779973169000
     }
 }

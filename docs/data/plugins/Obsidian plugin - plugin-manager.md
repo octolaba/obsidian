@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/plugin-manager
 alt:
   - https://github.com/ohm-en/obsidian-plugin-manager
-downloads: 17274
+downloads: 17413
 updated at: "2023-06-09T17:25:25Z"
 related to:
   - "[[GitHub - 465340205]]"
@@ -36,7 +36,7 @@ plugin: {
     description: "Extend plugin management."
 
     stats: {
-        downloads:  17274
+        downloads:  17413
         updated_at: 1686331525000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cove
 alt:
   - https://github.com/real-fruit-snacks/Cove
-downloads: 248
+downloads: 291
 updated at: "2026-07-19T14:00:35Z"
 related to:
   - "[[GitHub - 1226023816]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage bookmarks as plain Markdown files with YAML frontmatter inside a vault folder, preserving portability and searchability without proprietary databases. Browse in Compact, Cards, Kanban or Tree views and auto-fetch title, description, image, favicon and reading time. Map items to real subfolders with drag-to-move, run health checks and perform bulk batch operations."
 
     stats: {
-        downloads:  248
+        downloads:  291
         updated_at: 1784469635000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-index
 alt:
   - https://github.com/rakushkatop/obsidian-auto-index
-downloads: 395
+downloads: 429
 updated at: "2025-12-21T01:51:00Z"
 related to:
   - "[[GitHub - 1120326357]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate and maintain index notes for chosen folders, listing files and subfolders recursively as a tree. Update indexes at configurable intervals and add folder labels and bolded names for clearer structure."
 
     stats: {
-        downloads:  395
+        downloads:  429
         updated_at: 1766281860000
     }
 }

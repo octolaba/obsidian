@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/lantern
 alt:
   - https://github.com/jokerwashere/obsidian-lantern
-downloads: 126
-updated at: "2026-07-13T14:35:34Z"
+downloads: 187
+updated at: "2026-08-06T05:34:25Z"
 related to:
   - "[[GitHub - 1279076680]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Turn a locally installed qmd index into fast vault search and a grounded, cited chat agent that answers from your notes using your local OpenAI-compatible LLM server. Search in hybrid, BM25, or vector modes with optional reranking and recent boosts; narrow results with scope tokens (#tag, folder:, within:, frontmatter), autocomplete tags/links, save searches, or include external qmd libraries."
 
     stats: {
-        downloads:  126
-        updated_at: 1783953334000
+        downloads:  187
+        updated_at: 1785994465000
     }
 }
 ```

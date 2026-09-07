@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-diary
 alt:
   - https://github.com/yaye-work/note-diary
-downloads: 43
+downloads: 75
 updated at: "2026-07-15T16:34:00Z"
 related to:
   - "[[GitHub - 1301361966]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse your vault on a calendar that places each note on its creation date and highlights days by how many notes you made."
 
     stats: {
-        downloads:  43
+        downloads:  75
         updated_at: 1784133240000
     }
 }

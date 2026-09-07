@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/just-share-please
 alt:
   - https://github.com/ellpeck/ObsidianJustSharePlease
-downloads: 5004
-updated at: "2026-01-15T13:12:46Z"
+downloads: 5062
+updated at: "2026-08-08T10:02:31Z"
 related to:
   - "[[GitHub - 658377586]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Share individual notes online via anonymized links. Keep your vault private while granting read-only access through anonymous URLs."
 
     stats: {
-        downloads:  5004
-        updated_at: 1768482766000
+        downloads:  5062
+        updated_at: 1786183351000
     }
 }
 ```

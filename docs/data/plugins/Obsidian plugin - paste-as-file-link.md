@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/paste-as-file-link
 alt:
   - https://github.com/mbedded/obsidian-paste-file-link
-downloads: 461
+downloads: 489
 updated at: "2026-05-14T08:20:25Z"
 related to:
   - "[[GitHub - 1015849648]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Paste clipboard text as a link to a note in your vault, turning the selected text into the link alias. Choose link syntax based on vault settings and prompt to pick the correct file when multiple matches exist; fall back to a normal paste if no file is found."
 
     stats: {
-        downloads:  461
+        downloads:  489
         updated_at: 1778746825000
     }
 }

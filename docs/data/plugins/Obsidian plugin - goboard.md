@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/goboard
 alt:
   - https://github.com/dsokolov/goboard
-downloads: 317
+downloads: 325
 updated at: "2026-05-27T07:40:30Z"
 related to:
   - "[[GitHub - 1069174770]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Go (Weiqi/Baduk) diagrams directly from markdown code blocks using goboard syntax. Draw configurable board sizes and place black or white stones with simple B/W position commands (e.g., B G7 W C3) to visualize game positions."
 
     stats: {
-        downloads:  317
+        downloads:  325
         updated_at: 1779867630000
     }
 }

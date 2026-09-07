@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notes-refresher
 alt:
   - https://github.com/connorpark24/refresher-plugin
-downloads: 724
+downloads: 741
 updated at: "2024-07-18T17:02:14Z"
 related to:
   - "[[GitHub - 820548924]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Summarize Markdown notes from a selected folder, including subfolders, using OpenAI's GPT-4. Display concise, review-ready summaries in a modal for quick note review."
 
     stats: {
-        downloads:  724
+        downloads:  741
         updated_at: 1721322134000
     }
 }

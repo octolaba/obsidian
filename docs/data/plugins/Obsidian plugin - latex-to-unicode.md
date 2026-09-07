@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/latex-to-unicode
 alt:
   - https://github.com/fjdu/obsidian-latex-unicode
-downloads: 4800
+downloads: 4822
 updated at: "2023-03-04T08:28:33Z"
 related to:
   - "[[GitHub - 609199565]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert simple LaTeX math and symbols into Unicode characters for use in notes. Enter LaTeX in the pop-up and insert converted superscripts, subscripts, fractions, arrows, set symbols and common operators."
 
     stats: {
-        downloads:  4800
+        downloads:  4822
         updated_at: 1677918513000
     }
 }

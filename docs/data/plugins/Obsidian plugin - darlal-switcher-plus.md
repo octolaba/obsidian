@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/darlal-switcher-plus
 alt:
   - https://github.com/darlal/obsidian-switcher-plus
-downloads: 411023
-updated at: "2026-07-18T13:20:16Z"
+downloads: 431072
+updated at: "2026-07-25T14:52:09Z"
 related to:
   - "[[GitHub - 287809576]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Find files by headings instead of filenames and locate symbols, canvas nodes, tags, links, embeddings or related files across your vault. Navigate between open editors, side panels, workspaces and vaults, run Obsidian commands, search bookmarks, and apply quick filters to narrow results and jump straight to the target."
 
     stats: {
-        downloads:  411023
-        updated_at: 1784380816000
+        downloads:  431072
+        updated_at: 1784991129000
     }
 }
 ```

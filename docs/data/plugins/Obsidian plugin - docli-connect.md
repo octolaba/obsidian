@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/docli-connect
 alt:
   - https://github.com/docli-ru/docli-connect
-downloads: 111
+downloads: 123
 updated at: "2026-07-17T18:57:54Z"
 related to:
   - "[[GitHub - 1273818002]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault with a docli.ru workspace — two-way, on desktop and mobile. Docli is a Russian ecosystem for Markdown documentation and sharing. Edit in Obsidian or in docli on the web; changes flow both ways. Publish notes and whole books and collaborate with your team — from the vault you already use. • Two-way sync, desktop and mobile • Free for personal accounts • Publish & share notes and books • Near-instant updates both ways • Conflict-safe: overlapping edits keep both copies, never a silent overwrite • Renames, moves and folders tracked, so links follow your notes • Image attachments sync with your notes • Selective sync — whole vault or just the folders you choose All data is hosted in Russia under Federal Law No. 152-FZ (\"On Personal Data\") — no foreign processors."
 
     stats: {
-        downloads:  111
+        downloads:  123
         updated_at: 1784314674000
     }
 }

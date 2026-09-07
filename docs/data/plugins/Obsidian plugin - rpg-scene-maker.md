@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rpg-scene-maker
 alt:
   - https://github.com/vegolas/obsidian-rpg-scene-maker
-downloads: 17
+downloads: 27
 updated at: "2026-07-19T16:49:17Z"
 related to:
   - "[[GitHub - 1305274187]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fire RPG scenes, events and sounds directly from session notes by writing compact inline tokens that render as clickable buttons. Display live art or emoji on buttons, use autocomplete for server scenes, view pulsing active-state highlights, and open a control panel in a pane while staying in Reading view or Live Preview."
 
     stats: {
-        downloads:  17
+        downloads:  27
         updated_at: 1784479757000
     }
 }

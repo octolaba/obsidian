@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/frontmatter-operator
 alt:
   - https://github.com/pssah4/frontmatter-operator
-downloads: 193
+downloads: 349
 updated at: "2026-07-02T07:11:24Z"
 related to:
   - "[[GitHub - 1281557971]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bulk-edit YAML frontmatter across your vault via an interactive spreadsheet view or a typed programmatic API. Filter notes by property conditions, preview live counts, and apply bulk actions (set, delete, rename, copy, merge, transform) with a snapshot of every change for easy undo. Generate missing fields such as descriptions, keywords, or MOC links directly from note content with your choice of LLM provider. Purpose-built for OKF (Open Knowledge Format) migration."
 
     stats: {
-        downloads:  193
+        downloads:  349
         updated_at: 1782976284000
     }
 }

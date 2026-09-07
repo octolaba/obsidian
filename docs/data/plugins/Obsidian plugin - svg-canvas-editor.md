@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/svg-canvas-editor
 alt:
   - https://github.com/sunxiaoqiqi/svg-editor
-downloads: 183
+downloads: 225
 updated at: "2026-06-05T11:33:54Z"
 related to:
   - "[[GitHub - 1260065020]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit SVG files inside Obsidian with a visual canvas and live source preview. Select elements from the canvas or layer tree, adjust attributes like fill, stroke, opacity, size and text, resize and drag items, reorder layers, and undo/redo changes; create a one-time .svg.bak backup on first save."
 
     stats: {
-        downloads:  183
+        downloads:  225
         updated_at: 1780659234000
     }
 }

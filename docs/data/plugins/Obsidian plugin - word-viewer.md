@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/word-viewer
 alt:
   - https://github.com/viggomeesters/obsidian-word-viewer
-downloads: 296
+downloads: 393
 updated at: "2026-06-14T08:22:31Z"
 related to:
   - "[[GitHub - 1263681181]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open .docx files in a read-only view inside Obsidian by parsing the OOXML package locally with no cloud conversion. Inspect metadata, headings, text, tables, comments, notes and media, with filters, package diagnostics and warnings for external relationships, macros, tracked changes, or encrypted/malformed files."
 
     stats: {
-        downloads:  296
+        downloads:  393
         updated_at: 1781425351000
     }
 }

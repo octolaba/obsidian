@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/negative-heading
 alt:
   - https://github.com/cyne-wulf/obsidian-negative-heading
-downloads: 404
+downloads: 426
 updated at: "2025-11-12T04:13:26Z"
 related to:
   - "[[GitHub - 1091418313]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Discord-style -# lines as compact, muted subheadings in Reading View, Live Preview, and Source Mode. Toggle -# with a smart command, keep inline Markdown formatting while dimming the -# token, skip code/math/inline code, and support list items."
 
     stats: {
-        downloads:  404
+        downloads:  426
         updated_at: 1762920806000
     }
 }

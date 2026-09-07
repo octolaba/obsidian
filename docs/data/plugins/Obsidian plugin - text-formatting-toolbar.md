@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/text-formatting-toolbar
 alt:
   - https://github.com/jsmorabito/obsidian-text-formatting-toolbar
-downloads: 640
+downloads: 1002
 updated at: "2026-07-17T14:26:52Z"
 related to:
   - "[[GitHub - 1268779844]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format highlighted text with a number of tools."
 
     stats: {
-        downloads:  640
+        downloads:  1002
         updated_at: 1784298412000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-pdf-translate
 alt:
   - https://github.com/vetrenar/Open-PDF-Translate
-downloads: 312
+downloads: 446
 updated at: "2026-06-03T10:21:27Z"
 related to:
   - "[[GitHub - 1125382506]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extract PDF text via the DOM text layer or an external Python (PyMuPDF) script and send it to translation providers or custom endpoints. Display translations as positioned overlays, store text and coordinates in per‑PDF .translations.md files with auto‑updated links, and export PDFs with embedded translations (requires Python+PyMuPDF)."
 
     stats: {
-        downloads:  312
+        downloads:  446
         updated_at: 1780482087000
     }
 }

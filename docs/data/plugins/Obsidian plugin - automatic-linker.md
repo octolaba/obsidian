@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/automatic-linker
 alt:
   - https://github.com/kdnk/obsidian-automatic-linker
-downloads: 11801
+downloads: 12984
 updated at: "2026-07-19T08:30:02Z"
 related to:
   - "[[GitHub - 925696679]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert plain-text file references into Obsidian wiki links automatically as you write or on save. Process selected text or your entire vault and support CJK plus optional case-insensitive matching. Resolve ambiguous or incorrect links with context-aware AI and local LLM support."
 
     stats: {
-        downloads:  11801
+        downloads:  12984
         updated_at: 1784449802000
     }
 }

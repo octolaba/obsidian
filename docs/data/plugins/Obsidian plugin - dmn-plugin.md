@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dmn-plugin
 alt:
   - https://github.com/joleaf/obsidian-dmn-plugin
-downloads: 3910
+downloads: 3940
 updated at: "2024-04-29T09:42:04Z"
 related to:
   - "[[GitHub - 573832131]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View DMN decision models interactively inside notes using a dmn-js–based viewer. Embed DMN files with a dmn code block to open DRDs or specific decision tables, control zoom and canvas size, and show a link to the source file."
 
     stats: {
-        downloads:  3910
+        downloads:  3940
         updated_at: 1714383724000
     }
 }

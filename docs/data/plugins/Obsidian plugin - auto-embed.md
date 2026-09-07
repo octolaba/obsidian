@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-embed
 alt:
   - https://github.com/gnoxnahte/obsidian-auto-embed
-downloads: 9903
+downloads: 10116
 updated at: "2024-12-24T05:02:16Z"
 related to:
   - "[[GitHub - 767949115]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed links directly in notes using Obsidian's embed syntax to display previews instead of raw iframes. Support popular sites like Imgur, CodePen, Steam, Reddit, TikTok, Spotify and SoundCloud, accept inline options for width/height or disabling embeds, and fallback to full-page embeds for unsupported sites."
 
     stats: {
-        downloads:  9903
+        downloads:  10116
         updated_at: 1735016536000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/custom-syntax-highlights
 alt:
   - https://github.com/outsiders17711/Obsidian-Custom-Syntax-Highlights
-downloads: 1258
+downloads: 1321
 updated at: "2025-11-19T09:34:35Z"
 related to:
   - "[[GitHub - 1055532705]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render files with custom extensions as syntax-highlighted code blocks in Reading view. Map extensions to any supported language and auto-switch configured files to Reading view for a clean, single-block display."
 
     stats: {
-        downloads:  1258
+        downloads:  1321
         updated_at: 1763544875000
     }
 }

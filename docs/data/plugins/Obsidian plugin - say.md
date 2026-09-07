@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/say
 alt:
   - https://github.com/1yx/obsidian-plugin-say
-downloads: 119
+downloads: 125
 updated at: "2026-05-16T06:29:22Z"
 related to:
   - "[[GitHub - 1219101894]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Read aloud a note's H1 heading when you hover over an internal link, falling back to the filename if no H1 exists. Configure system TTS (macOS say, Linux spd-say/espeak, Windows PowerShell) with selectable command, voice, speech rate, trigger delay, or supply a custom argument template for advanced control."
 
     stats: {
-        downloads:  119
+        downloads:  125
         updated_at: 1778912962000
     }
 }

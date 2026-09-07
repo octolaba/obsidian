@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/task-cockpit
 alt:
   - https://github.com/devidcode/obsidian-tasks-cockpit
-downloads: 72
-updated at: "2026-07-19T18:44:20Z"
+downloads: 122
+updated at: "2026-08-01T06:45:57Z"
 related to:
   - "[[GitHub - 1298290195]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Gather every open task with chosen tag(s) across your vault into a single, hand-orderable list grouped by three horizons (In progress, Upcoming, Later). Drag-and-drop to set a persistent custom order that survives edits, tick tasks to complete them in their source notes, track recurring rollovers, jump to the original note, and watch the list auto-refresh."
 
     stats: {
-        downloads:  72
-        updated_at: 1784486660000
+        downloads:  122
+        updated_at: 1785566757000
     }
 }
 ```

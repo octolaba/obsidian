@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/loupe
 alt:
   - https://github.com/casperkwok/obsidian-loupe
-downloads: 79
+downloads: 363
 updated at: "2026-07-21T11:38:54Z"
 related to:
   - "[[GitHub - 1307462700]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "显示并预览文件浏览器中默认隐藏的非原生格式，支持网页(沙箱 iframe)、表格(xlsx/ods/csv)多 sheet 视图、docx 转 HTML、json 格式化与 Prism 语法高亮的代码文件。按扩展名隔离注册以避免冲突，遇到被占用自动跳过；对大文件降级为纯文本，并提供在默认程序中打开以处理 PPT/epub/zip 等外部格式。"
 
     stats: {
-        downloads:  79
+        downloads:  363
         updated_at: 1784633934000
     }
 }

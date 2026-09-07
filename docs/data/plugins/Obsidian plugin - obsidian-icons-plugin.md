@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-icons-plugin
 alt:
   - https://github.com/visini/obsidian-icons-plugin
-downloads: 107837
+downloads: 108514
 updated at: "2021-02-17T10:23:49Z"
 related to:
   - "[[GitHub - 329612917]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert icons into notes using an inline icon picker and render them directly in Markdown. Pick from Remix Icon and Font Awesome collections and display chosen icons inline."
 
     stats: {
-        downloads:  107837
+        downloads:  108514
         updated_at: 1613557429000
     }
 }

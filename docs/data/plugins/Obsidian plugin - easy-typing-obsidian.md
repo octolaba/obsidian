@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/easy-typing-obsidian
 alt:
   - https://github.com/yaozhuwa/easy-typing-obsidian
-downloads: 324336
+downloads: 333813
 updated at: "2026-07-12T03:51:31Z"
 related to:
   - "[[GitHub - 365290416]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Improve typing with automatic CJK–Latin/digit spacing, auto full-width punctuation, and automatic pairing of CJK brackets and quotes. Use smart editing: Tab to jump out of pairs, Smart Backspace to clear empty list and quote lines, quick inline code via two middle dots, and a rule engine for custom text transformations."
 
     stats: {
-        downloads:  324336
+        downloads:  333813
         updated_at: 1783828291000
     }
 }

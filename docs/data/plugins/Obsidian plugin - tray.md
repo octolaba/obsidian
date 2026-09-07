@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tray
 alt:
   - https://github.com/dragonwocky/obsidian-tray
-downloads: 41408
+downloads: 42779
 updated at: "2023-09-04T11:27:53Z"
 related to:
   - "[[GitHub - 569478776]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Launch Obsidian on system startup and run it in the background to keep the app available without open windows. Add a tray/menubar icon and global hotkeys to toggle window focus, restore or hide windows, relaunch or close the vault, and create quick notes from anywhere."
 
     stats: {
-        downloads:  41408
+        downloads:  42779
         updated_at: 1693826873000
     }
 }

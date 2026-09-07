@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/spreadsheet-table
 alt:
   - https://github.com/q7jxb7yxdk-star/spreadsheet-table
-downloads: 178
+downloads: 366
 updated at: "2026-07-03T16:19:25Z"
 related to:
   - "[[GitHub - 1286689563]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit Markdown tables like a spreadsheet with table editing commands, formula calculation, and CSV export. Display calculated results in Live Preview and Reading Mode while keeping formulas as plain Markdown source. Use the right-sidebar toolbar and mobile-friendly layout to insert, move, delete, align, sort, and format rows and columns."
 
     stats: {
-        downloads:  178
+        downloads:  366
         updated_at: 1783095565000
     }
 }

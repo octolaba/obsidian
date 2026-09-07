@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/card-forge
 alt:
   - https://github.com/carlsverre/obsidian-card-forge
-downloads: 332
+downloads: 350
 updated at: "2026-03-08T23:49:26Z"
 related to:
   - "[[GitHub - 1058996826]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert notes into printable 2.5×3.5-inch poker cards and preview them with a dedicated preview command. Customize card content and appearance using frontmatter fields for card type, custom title, and additional CSS classes."
 
     stats: {
-        downloads:  332
+        downloads:  350
         updated_at: 1773013766000
     }
 }

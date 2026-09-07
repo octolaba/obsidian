@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cleaning-service
 alt:
   - https://github.com/dpvpro/obsidian-cleaning-service
-downloads: 203
+downloads: 221
 updated at: "2026-07-11T14:14:08Z"
 related to:
   - "[[GitHub - 1066677783]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Clean and prune your vault by finding and removing orphan attachments, empty files, empty directories, oversized files, and notes expired via a frontmatter date. Exclude files by Obsidian rules or custom patterns, run scans on demand or at startup, review results, and choose trash or permanent deletion."
 
     stats: {
-        downloads:  203
+        downloads:  221
         updated_at: 1783779248000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/messager
 alt:
   - https://github.com/xiaotianhu/obsidian-messager
-downloads: 8509
+downloads: 8712
 updated at: "2026-03-20T03:37:48Z"
 related to:
   - "[[GitHub - 820698209]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Receive messages sent via WeChat, HTTP API, or email through the Messager service and save them directly into your vault as notes. Register an account to use; access basic features for free and enable advanced functions with a paid plan."
 
     stats: {
-        downloads:  8509
+        downloads:  8712
         updated_at: 1773977868000
     }
 }

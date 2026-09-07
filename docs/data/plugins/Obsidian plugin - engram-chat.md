@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/engram-chat
 alt:
   - https://github.com/pixelanay/Engram
-downloads: 268
+downloads: 320
 updated at: "2026-07-06T15:11:00Z"
 related to:
   - "[[GitHub - 1209847115]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a persistent personal AI that remembers your projects, preferences, habits, and notes in a structured, auto-summarizing memory.md file. Invoke interactive slash commands, connect to cloud or local LLM providers, and restrict AI access with granular vault scoping for private, focused reasoning."
 
     stats: {
-        downloads:  268
+        downloads:  320
         updated_at: 1783350660000
     }
 }

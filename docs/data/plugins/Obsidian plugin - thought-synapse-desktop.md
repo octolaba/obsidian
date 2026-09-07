@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/thought-synapse-desktop
 alt:
   - https://github.com/liyaomingme/Obsidian-Thought-Synapse-Desktop
-downloads: 298
+downloads: 366
 updated at: "2026-07-03T07:16:38Z"
 related to:
   - "[[GitHub - 1262664183]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Explore your vault as an interactive 3D semantic network that visualizes term relationships across notes. Hover to highlight co-occurring words and click nodes to open a contextual modal listing matching notes with extracted sentence snippets for instant knowledge tracing."
 
     stats: {
-        downloads:  298
+        downloads:  366
         updated_at: 1783062998000
     }
 }

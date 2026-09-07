@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-idea-capture
 alt:
   - https://github.com/cjgtsc/obsidian-ai-idea-capture-plugin
-downloads: 242
+downloads: 366
 updated at: "2026-04-09T17:04:29Z"
 related to:
   - "[[GitHub - 1201210697]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture ideas from Telegram or Discord as text, voice, images, or links and convert them with AI (LLM, STT, vision, web search) into structured Markdown notes. Auto-archive sessions after inactivity, resume context across sessions, and keep keys/data local and AES-256 encrypted while sending content to your chosen AI providers."
 
     stats: {
-        downloads:  242
+        downloads:  366
         updated_at: 1775754269000
     }
 }

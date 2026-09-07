@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/feed-bases
 alt:
   - https://github.com/edrickleong/obsidian-feed-bases
-downloads: 34982
+downloads: 37283
 updated at: "2025-12-22T12:39:56Z"
 related to:
   - "[[GitHub - 1079299073]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display notes from your Bases in a scrollable, editable feed that shows each note's content inline. Edit notes directly with changes auto-saved to source files, sort by modified/created/name, and open notes or access actions via titles and context menus."
 
     stats: {
-        downloads:  34982
+        downloads:  37283
         updated_at: 1766407196000
     }
 }

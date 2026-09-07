@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/arcadia-connect
 alt:
   - https://github.com/arcadia-studio/obsidian-arcadia-connect
-downloads: 178
+downloads: 235
 updated at: "2026-06-10T19:47:43Z"
 related to:
   - "[[GitHub - 1193974020]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage relationships inside your vault with a personal CRM that links people via @-mentions, searchable people panel, and hover profile cards. Log calls, emails, meetings and notes; view a timeline; track deals on a Kanban pipeline with value totals and reminders; get AI-powered follow-up suggestions with your OpenAI or Anthropic key."
 
     stats: {
-        downloads:  178
+        downloads:  235
         updated_at: 1781120863000
     }
 }

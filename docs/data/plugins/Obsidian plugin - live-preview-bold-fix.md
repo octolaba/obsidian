@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/live-preview-bold-fix
 alt:
   - https://github.com/konoyo-014/obsidian-live-preview-bold-fix
-downloads: 150
+downloads: 163
 updated at: "2026-02-21T13:39:14Z"
 related to:
   - "[[GitHub - 1163342938]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Stabilize Live Preview rendering for bold text and math without changing markdown files. Fix inconsistent bold boundaries around punctuation and brackets (including mixed CJK/English) and align inline/block math previews with Obsidian's native math widget."
 
     stats: {
-        downloads:  150
+        downloads:  163
         updated_at: 1771681154000
     }
 }

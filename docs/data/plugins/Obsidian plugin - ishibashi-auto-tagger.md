@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ishibashi-auto-tagger
 alt:
   - https://github.com/ishibashi-c/ishibashi-auto-tagger
-downloads: 23
+downloads: 32
 updated at: "2026-07-10T02:36:38Z"
 related to:
   - "[[GitHub - 1289411698]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage frontmatter tags from folder paths and refresh folder-derived tags when notes are created, moved, or renamed while preserving manually added tags. Exclude templates and year folders, strip numeric ordering prefixes, add archive tags for configured folders, preview changes, repair duplicate tags, and run tagging or cleanup for a note, folder, or entire vault."
 
     stats: {
-        downloads:  23
+        downloads:  32
         updated_at: 1783650998000
     }
 }

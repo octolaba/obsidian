@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/custom-save
 alt:
   - https://github.com/hananoshikayomaru/obsidian-custom-save
-downloads: 3089
+downloads: 3104
 updated at: "2023-12-21T05:43:24Z"
 related to:
   - "[[GitHub - 721363473]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a custom save command and attach multiple callbacks to run when saving. Bind the command to your save hotkey to execute added actions alongside the normal save."
 
     stats: {
-        downloads:  3089
+        downloads:  3104
         updated_at: 1703137404000
     }
 }

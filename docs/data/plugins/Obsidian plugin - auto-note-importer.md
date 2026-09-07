@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/auto-note-importer
 alt:
   - https://github.com/uppinote20/obsidian-auto-note-importer
-downloads: 1936
-updated at: "2026-06-20T15:55:06Z"
+downloads: 2027
+updated at: "2026-08-07T12:49:06Z"
 related to:
   - "[[GitHub - 973054503]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync notes bidirectionally between your Obsidian vault and Airtable, SeaTable, or Supabase databases — point-and-click setup with no code required. Smart field mapping handles formulas, rollups, lookups, and computed columns; read-only fields are auto-detected so you never accidentally overwrite them. Generate safe filenames from any text/number/select column, and organize notes into subfolders based on a field value. Apply customizable {{fieldName}} templates with nested-property access. Run multiple sync configurations side-by-side (different bases, tables, or providers — even mix Airtable and Supabase in the same vault). Choose conflict resolution per config: manual, Obsidian wins, or remote wins. Sync on demand, on file change, or on a schedule. After pushing, the plugin can wait for the remote to recompute formulas before pulling values back. Frontmatter output is tuned for Obsidian Bases and Dataview. Desktop and mobile supported."
 
     stats: {
-        downloads:  1936
-        updated_at: 1781970906000
+        downloads:  2027
+        updated_at: 1786106946000
     }
 }
 ```

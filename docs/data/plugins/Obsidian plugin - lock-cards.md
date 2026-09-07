@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lock-cards
 alt:
   - https://github.com/erezak/obsidian-lock-cards
-downloads: 296
+downloads: 339
 updated at: "2026-01-02T17:03:57Z"
 related to:
   - "[[GitHub - 1125701811]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Lock selected Canvas cards to prevent moving and resizing. Mark locked cards visually and revert attempted moves or resizes; hold Shift to temporarily move locked cards."
 
     stats: {
-        downloads:  296
+        downloads:  339
         updated_at: 1767373437000
     }
 }

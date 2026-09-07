@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/snippets-manager
 alt:
   - https://github.com/ramandv/obsidian-snippets-manager
-downloads: 4586
+downloads: 5574
 updated at: "2026-05-13T01:16:38Z"
 related to:
   - "[[GitHub - 840657859]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage text snippets stored in Markdown files or folders (including subfolders) and insert them quickly using fuzzy search. Copy snippets to the clipboard or paste at the cursor, export Alfred-compatible JSON, import Awesome ChatGPT Prompts into your snippets, and process Templater tags before insertion."
 
     stats: {
-        downloads:  4586
+        downloads:  5574
         updated_at: 1778634998000
     }
 }

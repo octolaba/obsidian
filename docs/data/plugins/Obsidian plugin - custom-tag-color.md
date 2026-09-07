@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/custom-tag-color
 alt:
   - https://github.com/anandrajbaghel/obsidian-custom-tag-color
-downloads: 168
+downloads: 234
 updated at: "2026-06-22T07:16:21Z"
 related to:
   - "[[GitHub - 1276639463]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Assign custom colors to tags using regular-expression rules to match names, prefixes, numbers, dates, times, emojis, and more. Create ordered rules where the first match wins and auto-generate complementary background colors; edit or reset rules from the settings panel and use on desktop or mobile."
 
     stats: {
-        downloads:  168
+        downloads:  234
         updated_at: 1782112581000
     }
 }

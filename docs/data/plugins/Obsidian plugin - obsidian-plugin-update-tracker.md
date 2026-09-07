@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-plugin-update-tracker
 alt:
   - https://github.com/swar8080/obsidian-plugin-update-tracker
-downloads: 162437
+downloads: 164398
 updated at: "2025-05-30T21:52:38Z"
 related to:
   - "[[GitHub - 532663442]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track available plugin updates and show status in the status bar or mobile ribbon. View a list of updates, read release notes rendered as Markdown, inspect code diffs and version stats, install or ignore updates, and opt into beta releases."
 
     stats: {
-        downloads:  162437
+        downloads:  164398
         updated_at: 1748641958000
     }
 }

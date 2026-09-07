@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chew-it
 alt:
   - https://github.com/leweii/chew-it
-downloads: 162
+downloads: 181
 updated at: "2026-07-10T07:07:21Z"
 related to:
   - "[[GitHub - 1284912436]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Analyze the note you're viewing with an LLM and stream token-by-token Markdown results in a sidebar without modifying the original file. Select perspectives (Outline, Key concepts, Distill or custom roles) to run in parallel tabs, then regenerate or export results to a Markdown note or Canvas; works with Claude and OpenAI-compatible endpoints—bring your API key."
 
     stats: {
-        downloads:  162
+        downloads:  181
         updated_at: 1783667241000
     }
 }

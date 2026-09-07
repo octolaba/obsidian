@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pseudonymizer-tool
 alt:
   - https://github.com/core-hn/pseudobsidian-ization
-downloads: 154
+downloads: 169
 updated at: "2026-07-17T15:59:38Z"
 related to:
   - "[[GitHub - 1236088104]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Pseudonymize and correct interactional transcripts directly in Obsidian while preserving timestamps, speakers, metadata and dependent lines. Convert SRT, CHAT/CHA, Jefferson/ICOR Markdown and plain text into editable Markdown and review diffs before validating replacements. Apply structured JSON mappings across file, folder or vault and query Coulmont to propose sociologically matched first names."
 
     stats: {
-        downloads:  154
+        downloads:  169
         updated_at: 1784303978000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/markr
 alt:
   - https://github.com/visua1hue/obsidian-markr
-downloads: 167
-updated at: "2026-05-30T13:51:39Z"
+downloads: 224
+updated at: "2026-08-02T13:54:59Z"
 related to:
   - "[[GitHub - 1239475792]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render trigger-based list and task markers as colored badges, line tints, and Lucide icons in Live Preview and Reading View. Define 1–3 character triggers with built-in priorities (!, !!, !!!) or custom labels and colors, and use commands to apply, remove, or cycle markers while preserving theme backgrounds and exposing style variables."
 
     stats: {
-        downloads:  167
-        updated_at: 1780149099000
+        downloads:  224
+        updated_at: 1785678899000
     }
 }
 ```

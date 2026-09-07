@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/checkbox-auto-sort
 alt:
   - https://github.com/vin-cf/obsidian-checkbox-auto-sort
-downloads: 204
+downloads: 256
 updated at: "2026-06-13T08:07:03Z"
 related to:
   - "[[GitHub - 1040023448]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sort checked items to the bottom of their checkbox list automatically when you check them. Display a subtle divider between unchecked and checked groups, preserve indented child items with their parent, and reorder only the contiguous checkbox block containing the changed item in Editor or Reading mode."
 
     stats: {
-        downloads:  204
+        downloads:  256
         updated_at: 1781338023000
     }
 }

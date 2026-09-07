@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lumen-ai-assistant
 alt:
   - https://github.com/chinoryunqin/lumen-ai-assistant
-downloads: 168
+downloads: 261
 updated at: "2026-05-15T07:45:49Z"
 related to:
   - "[[GitHub - 1236735663]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "打开右侧悬浮 AI 助手面板，自动读取当前笔记或选区并保留多轮对话历史。执行总结、翻译、深度剖析、提取待办、续写与润色，并将结果一键替换选区、追加到末尾或覆写整篇笔记。"
 
     stats: {
-        downloads:  168
+        downloads:  261
         updated_at: 1778831149000
     }
 }

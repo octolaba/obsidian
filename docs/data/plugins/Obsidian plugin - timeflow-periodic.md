@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/timeflow-periodic
 alt:
   - https://github.com/smirnoffmg/obsidian-timeflow
-downloads: 175
+downloads: 203
 updated at: "2026-06-07T20:17:40Z"
 related to:
   - "[[GitHub - 1241364846]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform your Periodic Notes into an infinite vertical timeline that presents daily entries newest-first, with weekly and monthly cards and period markers. Display note cards with title and plain-text excerpts, show interactive gap cards to create missing days, and load older entries automatically while reflecting live vault changes."
 
     stats: {
-        downloads:  175
+        downloads:  203
         updated_at: 1780863460000
     }
 }

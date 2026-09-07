@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/omd-to-typst
 alt:
   - https://github.com/tisgoud/Obsidian-Omd2Typst
-downloads: 458
+downloads: 557
 updated at: "2026-07-20T22:21:38Z"
 related to:
   - "[[GitHub - 1246768269]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export Obsidian notes to Typst (.typ) source or produce typeset PDFs when Typst is installed. Add a structured cover page, revision/history page, auto-numbered table of contents, callout blocks, tables, images, and multilingual output for five languages. Run exports on desktop (macOS, Windows, Linux). Without Typst installed only exports .typ files."
 
     stats: {
-        downloads:  458
+        downloads:  557
         updated_at: 1784586098000
     }
 }

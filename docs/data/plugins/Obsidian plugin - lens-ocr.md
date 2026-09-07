@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lens-ocr
 alt:
   - https://github.com/erincayaz/obsidian-lens-ocr
-downloads: 113
+downloads: 141
 updated at: "2026-06-26T11:33:29Z"
 related to:
   - "[[GitHub - 1246022554]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Digitize handwritten notes and on-screen text with your operating system's native OCR (macOS Vision, Windows Media.Ocr) entirely offline. Process everything locally with no cloud, external servers, or bundled OCR models. Paste extracted text directly at the cursor in your active note."
 
     stats: {
-        downloads:  113
+        downloads:  141
         updated_at: 1782473609000
     }
 }

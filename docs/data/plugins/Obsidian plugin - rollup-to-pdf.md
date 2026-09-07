@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/rollup-to-pdf
 alt:
   - https://github.com/svm0n/obsidian-rollup-to-pdf
-downloads: 19
-updated at: "2026-07-18T05:46:47Z"
+downloads: 47
+updated at: "2026-07-25T14:30:21Z"
 related to:
   - "[[GitHub - 1304343484]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Compile a tree of wiki-linked notes into a single typeset PDF with a title page, table of contents, numbered sections, and styled callout boxes. Point at an index note to inline each line-leading → [[link]] as nested, numbered subsections recursively, flattening your outline into one export."
 
     stats: {
-        downloads:  19
-        updated_at: 1784353607000
+        downloads:  47
+        updated_at: 1784989821000
     }
 }
 ```

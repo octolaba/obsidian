@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-copy-search-url
 alt:
   - https://github.com/czottmann/obsidian-copy-search-url
-downloads: 5598
+downloads: 5631
 updated at: "2023-05-02T18:11:55Z"
 related to:
   - "[[GitHub - 533708652]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a \"Copy Search URL\" command to the search results context menu. Copy the Obsidian URL for the current search to the clipboard for easy bookmarking or sharing of predefined searches."
 
     stats: {
-        downloads:  5598
+        downloads:  5631
         updated_at: 1683051115000
     }
 }

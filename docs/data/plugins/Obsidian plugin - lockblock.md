@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/lockblock
 alt:
   - https://github.com/joshua-walls/lockblock
-downloads: 156
-updated at: "2026-07-20T20:14:15Z"
+downloads: 198
+updated at: "2026-08-05T15:55:45Z"
 related to:
   - "[[GitHub - 1273428440]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Encrypt fenced lockblock code blocks with a random vault key and store wrapped key material in secretStorage. Render sealed blocks as locked cards in reading view and reveal or copy plaintext on demand without writing it back to the note. Prevent edits to sealed ciphertext while the vault is locked and allow editing only when unlocked."
 
     stats: {
-        downloads:  156
-        updated_at: 1784578455000
+        downloads:  198
+        updated_at: 1785945345000
     }
 }
 ```

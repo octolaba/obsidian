@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zhongwen-reader
 alt:
   - https://github.com/natipt/obsidian-zhongwen-reader
-downloads: 882
+downloads: 947
 updated at: "2025-05-19T14:38:07Z"
 related to:
   - "[[GitHub - 962103885]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hover over Chinese text to display simplified and traditional characters, pinyin or bopomofo, plus CC-CEDICT definitions. Save hovered words and example sentences to a vocab list, browse words in a sidebar with HSK color highlighting, and export vocab as Markdown flashcards."
 
     stats: {
-        downloads:  882
+        downloads:  947
         updated_at: 1747665487000
     }
 }

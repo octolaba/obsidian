@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-cloze-review
 alt:
   - https://github.com/liufree/ai-cloze-review
-downloads: 121
+downloads: 139
 updated at: "2026-07-04T17:42:29Z"
 related to:
   - "[[GitHub - 1275349347]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate AI cloze deletions from Chinese or English notes with one click and adaptive density by length and difficulty. Review interactively with hidden answers, click-to-reveal placeholders, progress tracking, cached clozes that preserve your notes, and multi-API mobile support."
 
     stats: {
-        downloads:  121
+        downloads:  139
         updated_at: 1783186949000
     }
 }

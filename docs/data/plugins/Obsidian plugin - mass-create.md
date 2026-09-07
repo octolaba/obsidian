@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mass-create
 alt:
   - https://github.com/vellikhor/mass-create
-downloads: 1796
+downloads: 1905
 updated at: "2025-01-11T20:23:27Z"
 related to:
   - "[[GitHub - 882484974]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create multiple files and folders at once inside a chosen vault folder. Apply an existing file as a template to populate content across all new notes and trigger mass creation from a folder's right-click menu or the command palette."
 
     stats: {
-        downloads:  1796
+        downloads:  1905
         updated_at: 1736627007000
     }
 }

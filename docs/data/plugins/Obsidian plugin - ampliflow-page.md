@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ampliflow-page
 alt:
   - https://github.com/pbjorklund/obsidian-ampliflow-page
-downloads: 220
+downloads: 229
 updated at: "2024-11-08T12:37:41Z"
 related to:
   - "[[GitHub - 867090747]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish notes to AmpliFlow as Markdown pages with a single command. Authenticate with your AmpliFlow account and push the active note directly from Obsidian."
 
     stats: {
-        downloads:  220
+        downloads:  229
         updated_at: 1731069461000
     }
 }

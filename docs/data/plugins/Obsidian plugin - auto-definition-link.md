@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-definition-link
 alt:
   - https://github.com/nmcarp99/Obsidian-Auto-Definition-Link
-downloads: 2528
+downloads: 2554
 updated at: "2026-06-24T00:57:07Z"
 related to:
   - "[[GitHub - 740764580]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert block IDs into links to their definitions within the current folder while preserving capitalization, plurality, and dashes vs spaces. Offer optional inline suggestions or automatically create links when you type an interrupter like space or punctuation."
 
     stats: {
-        downloads:  2528
+        downloads:  2554
         updated_at: 1782262627000
     }
 }

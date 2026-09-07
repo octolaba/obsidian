@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notepic-oss
 alt:
   - https://github.com/luhui-dev/NotePic-OSS-Obsidian
-downloads: 87
+downloads: 97
 updated at: "2026-06-11T14:59:58Z"
 related to:
   - "[[GitHub - 1260347923]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scan and upload images referenced in the current note to Aliyun OSS, compress and deduplicate files, and rewrite links to public URLs. Open the image manager to preview thumbnails, filter and select images for upload, and skip changed references during uploads to avoid overwriting."
 
     stats: {
-        downloads:  87
+        downloads:  97
         updated_at: 1781189998000
     }
 }

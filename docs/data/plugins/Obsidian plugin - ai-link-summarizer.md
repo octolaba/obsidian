@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-link-summarizer
 alt:
   - https://github.com/laroy-sh/obsidian-ai-link-summarizer
-downloads: 185
+downloads: 216
 updated at: "2026-07-08T03:56:05Z"
 related to:
   - "[[GitHub - 1172877453]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Right-click a URL in the editor and run Summarize link to send the page to Gemini, OpenAI, or Claude and insert a concise summary before the detected link. Detect raw or Markdown links and add an editor context-menu action, with optional timestamped summaries."
 
     stats: {
-        downloads:  185
+        downloads:  216
         updated_at: 1783482965000
     }
 }

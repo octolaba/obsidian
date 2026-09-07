@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/keyword-highlighter
 alt:
   - https://github.com/marcel-goldammer/obsidian-keyword-highlighter
-downloads: 9432
+downloads: 9512
 updated at: "2024-05-05T07:45:26Z"
 related to:
   - "[[GitHub - 711126881]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight configured keywords in your notes with custom font and background colors for quick visual scanning. Add, edit, or remove keywords and choose case-sensitive or case-insensitive matching. Use default tags like TODO, ADD, FIXME or define regex patterns for advanced matching."
 
     stats: {
-        downloads:  9432
+        downloads:  9512
         updated_at: 1714895126000
     }
 }

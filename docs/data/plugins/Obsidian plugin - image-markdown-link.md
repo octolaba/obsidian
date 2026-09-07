@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-markdown-link
 alt:
   - https://github.com/ariayd/obsidian-image-markdown-link
-downloads: 175
+downloads: 213
 updated at: "2026-03-07T10:27:58Z"
 related to:
   - "[[GitHub - 1175129227]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert pasted Obsidian image links (e.g., ![[file.png]], [[path/file.png]], [](file.png)) into standard Markdown image syntax that points to raw.githubusercontent.com for outside-Obsidian rendering. Handle nested attachment folders and common image formats (png, jpg, jpeg, gif, webp, bmp, svg, avif) while leaving non-image wiki links untouched."
 
     stats: {
-        downloads:  175
+        downloads:  213
         updated_at: 1772879278000
     }
 }

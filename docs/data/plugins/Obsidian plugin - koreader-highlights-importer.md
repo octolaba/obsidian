@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/koreader-highlights-importer
 alt:
   - https://github.com/t5k6/obsidian-koreader-highlights
-downloads: 2784
+downloads: 3117
 updated at: "2026-04-24T16:56:49Z"
 related to:
   - "[[GitHub - 900840664]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import highlights and notes from KOReader into Obsidian by scanning .sdr directories and parsing Lua metadata to save structured Markdown files. Capture author/title/pages/keywords, organize highlights by chapter and page, handle duplicates, and render entries with customizable templates and optional reading statistics."
 
     stats: {
-        downloads:  2784
+        downloads:  3117
         updated_at: 1777049809000
     }
 }

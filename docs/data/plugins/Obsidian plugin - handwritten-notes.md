@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/handwritten-notes
 alt:
   - https://github.com/fbarrca/obsidian-handwritten-notes
-downloads: 50997
+downloads: 51756
 updated at: "2025-04-13T14:52:40Z"
 related to:
   - "[[GitHub - 673391620]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create stylus-based handwritten notes saved as PDFs for long-term compatibility and smooth handling of large notebooks. Annotate and edit those PDFs inside your vault and embed or reference them in Markdown; keep in mind mobile editing requires a compatible external PDF editor."
 
     stats: {
-        downloads:  50997
+        downloads:  51756
         updated_at: 1744555960000
     }
 }

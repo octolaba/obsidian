@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-toggle-meta-yaml-plugin
 alt:
   - https://github.com/hua03/obsidian-toggle-meta-yaml-plugin
-downloads: 8626
+downloads: 8644
 updated at: "2023-03-16T09:32:39Z"
 related to:
   - "[[GitHub - 561678797]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle visibility of YAML front matter in Markdown files. Reveal or hide the meta YAML block with a single command to switch quickly between metadata and content."
 
     stats: {
-        downloads:  8626
+        downloads:  8644
         updated_at: 1678959159000
     }
 }

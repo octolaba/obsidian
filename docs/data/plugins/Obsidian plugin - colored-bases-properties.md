@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/colored-bases-properties
 alt:
   - https://github.com/rafjaf/obsidian-colored-bases-properties
-downloads: 13231
+downloads: 14069
 updated at: "2026-05-16T13:56:51Z"
 related to:
   - "[[GitHub - 1027312655]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Color property values in Bases files, embedded bases, and markdown views, including multi-select pills, formula-rendered values, and inline tags. Generate consistent hash-based colors per value, toggle property-type coloring, customize colors with visual previews or hex/HSL entry, and apply real-time, performance-optimized updates."
 
     stats: {
-        downloads:  13231
+        downloads:  14069
         updated_at: 1778939811000
     }
 }

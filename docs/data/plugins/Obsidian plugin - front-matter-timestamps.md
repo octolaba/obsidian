@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/front-matter-timestamps
 alt:
   - https://github.com/pookhaosc1/obsidian-front-matter-timestamps
-downloads: 11419
+downloads: 12033
 updated at: "2026-06-27T12:22:50Z"
 related to:
   - "[[GitHub - 809872364]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add created and modified timestamps to a note's front matter. Keep the modified timestamp updated automatically to record last edits independent of file attributes that may change during syncing."
 
     stats: {
-        downloads:  11419
+        downloads:  12033
         updated_at: 1782562970000
     }
 }

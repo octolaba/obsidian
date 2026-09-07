@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/extended-markdown-syntax
 alt:
   - https://github.com/kotaindah55/extended-markdown-syntax
-downloads: 9127
+downloads: 9340
 updated at: "2025-04-18T15:24:16Z"
 related to:
   - "[[GitHub - 862721990]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add extended inline and block Markdown syntax for underline, spoiler, superscript, subscript, colored highlights, and custom spans. Edit formatted text directly with context-aware parsing that ignores codeblocks and codespans, use modified Pandoc-style fenced divs for blocks, and render in exported PDFs."
 
     stats: {
-        downloads:  9127
+        downloads:  9340
         updated_at: 1744989856000
     }
 }

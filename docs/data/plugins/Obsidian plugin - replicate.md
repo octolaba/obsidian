@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/replicate
 alt:
   - https://github.com/dsebastien/obsidian-replicate
-downloads: 448
-updated at: "2026-07-18T12:34:13Z"
+downloads: 499
+updated at: "2026-07-29T07:47:07Z"
 related to:
   - "[[GitHub - 844032658]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Generate images from selected text or a typed prompt using any Replicate.com model like Stable Diffusion or FLUX.1. Select model/version, send free-form JSON as model input, and optionally copy generated URLs or append markdown image embeds to the current note; images persist on Replicate for only one hour."
 
     stats: {
-        downloads:  448
-        updated_at: 1784378053000
+        downloads:  499
+        updated_at: 1785311227000
     }
 }
 ```

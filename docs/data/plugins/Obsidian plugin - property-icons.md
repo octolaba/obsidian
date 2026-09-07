@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/property-icons
 alt:
   - https://github.com/runnerback/property-icons
-downloads: 76
+downloads: 99
 updated at: "2026-07-07T11:24:25Z"
 related to:
   - "[[GitHub - 1290635870]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show badge icons before file names in the file explorer based on frontmatter property rules. Create multiple rule groups with AND/OR logic, display multiple built-in or custom icons per file, and update badges live as note properties change."
 
     stats: {
-        downloads:  76
+        downloads:  99
         updated_at: 1783423465000
     }
 }

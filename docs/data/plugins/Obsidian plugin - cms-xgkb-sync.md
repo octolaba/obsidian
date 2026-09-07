@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cms-xgkb-sync
 alt:
   - https://github.com/xgjk/obsidian-xgkb-sync
-downloads: 154
+downloads: 162
 updated at: "2026-06-16T01:32:13Z"
 related to:
   - "[[GitHub - 1228050059]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Obsidian notes with 玄关知识库 (XGKB) and keep changes bidirectional. Sync a specific folder or the whole vault and mirror edits across both systems."
 
     stats: {
-        downloads:  154
+        downloads:  162
         updated_at: 1781573533000
     }
 }

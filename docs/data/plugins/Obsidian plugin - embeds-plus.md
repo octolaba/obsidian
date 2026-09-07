@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/embeds-plus
 alt:
   - https://github.com/sz-1f/obsidian-embeds-plus
-downloads: 1579
+downloads: 1760
 updated at: "2026-06-26T13:10:13Z"
 related to:
   - "[[GitHub - 1209314192]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View and embed HTML (`.html`), MHTML (`.mhtml`/`.mht`), Web Archive (`.webarchive`), and Evernote export (`.enex`) files natively with full styling and inline preview support."
 
     stats: {
-        downloads:  1579
+        downloads:  1760
         updated_at: 1782479413000
     }
 }

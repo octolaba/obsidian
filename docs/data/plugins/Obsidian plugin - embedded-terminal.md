@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/embedded-terminal
 alt:
   - https://github.com/no4var2ye/ObsidianEmbeddedTerminal
-downloads: 44
+downloads: 72
 updated at: "2026-07-11T05:37:36Z"
 related to:
   - "[[GitHub - 1296976643]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed a native PTY terminal inside Obsidian to run interactive shells, Git commands, and other CLI tools directly in your workspace. Support real PTY (xterm.js + node-pty + Windows ConPTY), ANSI colors, cursor control, tab completion, and keep shell sessions running when the view is hidden."
 
     stats: {
-        downloads:  44
+        downloads:  72
         updated_at: 1783748256000
     }
 }

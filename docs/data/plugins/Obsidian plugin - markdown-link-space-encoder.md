@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markdown-link-space-encoder
 alt:
   - https://github.com/rkosova/obsidian-markdown-link-space-encoder
-downloads: 3915
+downloads: 3926
 updated at: "2023-07-21T11:44:06Z"
 related to:
   - "[[GitHub - 668832662]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Encode spaces in selected text to %20 for Markdown-style links so file paths resolve correctly. Select link text in Markdown view and run the command to convert spaces into URL-encoded %20."
 
     stats: {
-        downloads:  3915
+        downloads:  3926
         updated_at: 1689939846000
     }
 }

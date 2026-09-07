@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/readine-sync
 alt:
   - https://github.com/readineapp/readine-obsidian
-downloads: 60
+downloads: 68
 updated at: "2026-06-17T17:41:17Z"
 related to:
   - "[[GitHub - 1270409932]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Readine articles into your vault in one direction, preserving local edits so synced notes are never overwritten silently. Choose Markdown or HTML output, customize path and article templates, run manual or scheduled syncs, fetch attachments, control deletion and network policies, and monitor live progress with crash recovery."
 
     stats: {
-        downloads:  60
+        downloads:  68
         updated_at: 1781718077000
     }
 }

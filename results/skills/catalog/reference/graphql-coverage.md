@@ -87,16 +87,17 @@ localised `README.*.md` siblings — so the endpoint's choice is predictable eno
 | Measurement | Value |
 | --- | --- |
 | Cost of one batched repository metadata query | **1 point**, independent of batch size (measured 2026-08-06 at 10 and at 20 repositories per request) |
-| `nodeCount` | unmeasured for the current fragment — record on the first run |
+| `nodeCount` | **20 nodes per repository** for the current fragment (measured 2026-08-15: 400 for a full batch of 20, 380 for a 19-repository tail) |
 | Practical batch ceiling | 20 works; **40 fails** — the API answers HTTP 200 with an **empty body**, which the client turns into an explicit "reduce --batch-size" error rather than a parse crash |
-| README pass | one REST request per captured repository against the 5,000-per-hour REST budget — a projection, not yet a measured run |
+| README pass | one REST request per captured repository against the 5,000-per-hour REST budget |
 | Bulk scan, 2,820 repositories at batch 20 (2026-08-06) | 141 requests, **141 points** |
+| Update Run, 639 repositories at batch 20 (2026-08-15) | 32 requests, **32 points**, plus 638 REST `/readme` calls — the one repository GitHub answered `NOT_FOUND` has no README to ask for |
 | Hourly budgets | 5,000 GraphQL points; 5,000 REST requests |
 
-**Projection for a full catalog refresh** (6,707 repositories, batch 20): ≈ 336 metadata requests ≈
-**336 points**, far inside one hour's GraphQL budget — plus ≈ **6,707 REST readme requests**, which
+**Projection for a full catalog refresh** (7,278 repositories, batch 20): ≈ 364 metadata requests ≈
+**364 points**, far inside one hour's GraphQL budget — plus ≈ **7,278 REST readme requests**, which
 exceeds one REST hour and therefore spans budget windows; the state file's unchecked worklist
 items make the pause a resume, not a loss. The Directory remains the binding constraint for a full backfill:
-6,707 page captures at the default 1.5 s interval ≈ **2 h 50 m** sequential.
+7,278 page captures at the default 1.5 s interval ≈ **3 h 2 m** sequential.
 
 Every figure above is a dated observation of a mutable service, not a pinned fact.

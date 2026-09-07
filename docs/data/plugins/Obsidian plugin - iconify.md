@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/iconify
 alt:
   - https://github.com/moziar/Obsidian-Iconify
-downloads: 256
-updated at: "2026-05-12T16:34:58Z"
+downloads: 338
+updated at: "2026-08-05T07:59:45Z"
 related to:
   - "[[GitHub - 1043115491]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add custom icons to Obsidian using unique iconId identifiers and swap out default app icons. Integrate icons with plugins like Callout Manager, Commander and Better Properties, and restart Obsidian after adding new icons to ensure they load."
 
     stats: {
-        downloads:  256
-        updated_at: 1778603698000
+        downloads:  338
+        updated_at: 1785916785000
     }
 }
 ```

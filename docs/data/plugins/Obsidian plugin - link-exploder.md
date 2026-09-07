@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/link-exploder
 alt:
   - https://github.com/benhughes/obsidian-link-exploder
-downloads: 34729
+downloads: 35400
 updated at: "2023-07-15T18:45:17Z"
 related to:
   - "[[GitHub - 580927721]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a canvas from a note that embeds its outgoing links, incoming backlinks, and those linked notes to visualize topic connections. Save the new canvas to the vault root or a chosen destination, named after the source note."
 
     stats: {
-        downloads:  34729
+        downloads:  35400
         updated_at: 1689446717000
     }
 }

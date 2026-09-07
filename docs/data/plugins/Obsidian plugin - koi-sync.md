@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/koi-sync
 alt:
   - https://github.com/metagov/koi-obsidian-plugin
-downloads: 284
+downloads: 292
 updated at: "2026-04-09T21:57:58Z"
 related to:
   - "[[GitHub - 900669428]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync knowledge objects from a KOI-net Telescope node into your Obsidian vault by listening to RID events from a remote KOI-net server. Generate human-readable Markdown from raw JSON using a modifiable Handlebars template and keep notes updated automatically. Set the KOI API URL and API key to connect to a specific node."
 
     stats: {
-        downloads:  284
+        downloads:  292
         updated_at: 1775771878000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-mind-map
 alt:
   - https://github.com/lynchjames/obsidian-mind-map
-downloads: 860329
+downloads: 870078
 updated at: "2020-12-13T16:33:04Z"
 related to:
   - "[[GitHub - 318923131]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View Markdown notes as interactive mind maps rendered with Markmap. Pin the mind map pane to keep a map in place while browsing other notes, and copy the map as an SVG screenshot to your clipboard."
 
     stats: {
-        downloads:  860329
+        downloads:  870078
         updated_at: 1607877184000
     }
 }

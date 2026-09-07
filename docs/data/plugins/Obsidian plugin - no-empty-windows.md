@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/no-empty-windows
 alt:
   - https://github.com/popscallion/obsidian-no-empty-windows
-downloads: 4108
+downloads: 4141
 updated at: "2023-02-27T01:31:44Z"
 related to:
   - "[[GitHub - 603540179]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Close the focused tab or, when it's the last open tab, close the window while keeping the app running in the background for quicker relaunch. Respect pinned tabs by unpinning or closing them (toggleable) and cycle through tab groups and popouts until only one tab remains in the main window."
 
     stats: {
-        downloads:  4108
+        downloads:  4141
         updated_at: 1677461504000
     }
 }

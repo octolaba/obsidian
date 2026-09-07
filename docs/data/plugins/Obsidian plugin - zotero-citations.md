@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zotero-citations
 alt:
   - https://github.com/westerngua/obsidian-zotero-citations
-downloads: 860
+downloads: 1189
 updated at: "2026-06-05T10:33:56Z"
 related to:
   - "[[GitHub - 1223460052]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage Zotero citations in Obsidian and insert references via the Zotero picker or the plugin search with page/locator support. Toggle footnote or endnote modes, show Word-style superscript with hover preview and inline locator editing, generate a formatted bibliography, and export .docx via Pandoc while preserving footnotes/endnotes."
 
     stats: {
-        downloads:  860
+        downloads:  1189
         updated_at: 1780655636000
     }
 }

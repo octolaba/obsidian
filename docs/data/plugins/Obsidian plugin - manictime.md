@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/manictime
 alt:
   - https://github.com/manictime/manictime-obsidian
-downloads: 2217
+downloads: 2225
 updated at: "2023-12-05T10:16:24Z"
 related to:
   - "[[GitHub - 706587340]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Send the path of the active file to a locally installed ManicTime client. Display the current Obsidian note as ManicTime activity for accurate time tracking."
 
     stats: {
-        downloads:  2217
+        downloads:  2225
         updated_at: 1701771384000
     }
 }

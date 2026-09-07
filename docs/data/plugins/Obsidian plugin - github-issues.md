@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/github-issues
 alt:
   - https://github.com/lonoxx/obsidian-github-issues
-downloads: 1309
+downloads: 1374
 updated at: "2026-07-06T08:58:17Z"
 related to:
   - "[[GitHub - 1003410067]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track issues, pull requests, and GitHub Projects v2 from GitHub and GitLab (including self-hosted) inside your vault with Kanban project views and custom fields. Sync in the background, follow sub-issues, filter items, and generate Markdown notes with YAML metadata."
 
     stats: {
-        downloads:  1309
+        downloads:  1374
         updated_at: 1783328297000
     }
 }

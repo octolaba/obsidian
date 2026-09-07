@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/spotify-link
 alt:
   - https://github.com/studiowebux/obsidian-spotify-link
-downloads: 8197
-updated at: "2026-05-15T20:39:19Z"
+downloads: 8567
+updated at: "2026-08-04T23:26:42Z"
 related to:
   - "[[GitHub - 712683883]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Connect your Spotify account to embed the song or podcast you're currently listening to into a note. Insert the current track at the cursor or use a custom template to format entries. Fetch all tracks played today from the start of the day."
 
     stats: {
-        downloads:  8197
-        updated_at: 1778877559000
+        downloads:  8567
+        updated_at: 1785886002000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wielder
 alt:
   - https://github.com/victorb/obsidian-wielder
-downloads: 3828
+downloads: 3848
 updated at: "2022-06-22T19:51:16Z"
 related to:
   - "[[GitHub - 502416909]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run Clojure code blocks directly inside Obsidian notes and execute them block-by-block to build data pipelines alongside your markdown. Render Reagent React components and access the Obsidian API (window.app) to create interactive apps and manipulate your vault from within documents."
 
     stats: {
-        downloads:  3828
+        downloads:  3848
         updated_at: 1655927476000
     }
 }

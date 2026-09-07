@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/taskloops
 alt:
   - https://github.com/sahandps/TaskLoops
-downloads:
-updated at:
+downloads: 96
+updated at: "2026-07-26T11:18:21Z"
 related to:
   - "[[GitHub - 1311926957]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/sahandps/TaskLoops"
     description: "Collects tagged task lines from across your vault into a sidebar inbox, sorts them with the GTD method, and flags projects that have stalled. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Collect #task lines from across your vault into a sidebar inbox and find open loops you’ve committed to but not closed. Walk each item through a GTD clarify flow one question at a time, mark sorted lines with *(Handled)*, and append captures to a single inbox note. Notify when projects quietly stall while keeping state in the plugin data file."
+
+    stats: {
+        downloads:  96
+        updated_at: 1785064701000
+    }
 }
 ```
 

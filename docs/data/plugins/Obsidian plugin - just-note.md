@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/just-note
 alt:
   - https://github.com/rajalokan/obsidian-just-note-plugin
-downloads: 27
+downloads: 60
 updated at: "2026-07-21T17:11:51Z"
 related to:
   - "[[GitHub - 1307814354]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open any note in a focused, minimal pop-out window without tabs, sidebars, or the ribbon while preserving normal editing, links, metadata, and vault synchronization. Assign a persistent per-note color for the window and launch specific notes via Obsidian URI to create app-like macOS launchers."
 
     stats: {
-        downloads:  27
+        downloads:  60
         updated_at: 1784653911000
     }
 }

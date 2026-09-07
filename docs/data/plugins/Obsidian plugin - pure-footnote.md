@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pure-footnote
 alt:
   - https://github.com/hornatx/pure-footnote
-downloads: 176
+downloads: 228
 updated at: "2026-06-03T05:07:35Z"
 related to:
   - "[[GitHub - 1257884341]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage Markdown footnotes and custom inline hover notes in a dedicated sidebar outline. Jump to and highlight items based on cursor position, then edit entries inline with a draggable popup for quick renaming and content changes. Toggle a cleaner visual style and sort entries from the context menu."
 
     stats: {
-        downloads:  176
+        downloads:  228
         updated_at: 1780463255000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/2hop-links-plus
 alt:
   - https://github.com/l7cy/obsidian-2hop-links-plus
-downloads: 36710
+downloads: 38337
 updated at: "2023-10-16T02:12:45Z"
 related to:
   - "[[GitHub - 635145709]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display related notes up to two hops away in a card-based view with note previews to browse connections quickly. Adjust card width automatically, show richer previews including external images, sort and exclude links, open notes from the context menu, and display results in a separate pane."
 
     stats: {
-        downloads:  36710
+        downloads:  38337
         updated_at: 1697422365000
     }
 }

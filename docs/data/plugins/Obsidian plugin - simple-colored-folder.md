@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-colored-folder
 alt:
   - https://github.com/mara-li/obsidian-simple-colored-folder
-downloads: 13962
+downloads: 14651
 updated at: "2026-06-11T20:22:27Z"
 related to:
   - "[[GitHub - 894692589]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Color root-level folders with distinct colors and custom styles that update in real time and support light and dark themes. Customize each root folder’s color and style via Style Settings (Style Settings plugin required) and preserve styling when renaming folders."
 
     stats: {
-        downloads:  13962
+        downloads:  14651
         updated_at: 1781209347000
     }
 }

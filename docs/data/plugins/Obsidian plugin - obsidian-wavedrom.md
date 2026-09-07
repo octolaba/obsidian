@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-wavedrom
 alt:
   - https://github.com/kingsquirrel152/obsidian-wavedrom
-downloads: 5706
+downloads: 5767
 updated at: "2024-01-06T01:07:43Z"
 related to:
   - "[[GitHub - 379299458]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render WaveDrom code fences as timing diagrams directly in your notes. Display generated SVG diagrams inline for clear visualizations of digital signals."
 
     stats: {
-        downloads:  5706
+        downloads:  5767
         updated_at: 1704503263000
     }
 }

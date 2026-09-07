@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chess-study
 alt:
   - https://github.com/chrislicodes/obsidian-chess-study
-downloads: 7359
+downloads: 7406
 updated at: "2024-02-11T14:31:03Z"
 related to:
   - "[[GitHub - 637063697]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert a PGN viewer/editor into notes to view and edit chess games inline. Import PGNs or start a new game, add per-move comments and arrows, and persist annotations as JSON files in your vault for organized chess note-taking."
 
     stats: {
-        downloads:  7359
+        downloads:  7406
         updated_at: 1707661863000
     }
 }

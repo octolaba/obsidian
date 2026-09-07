@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/learnkit
 alt:
   - https://github.com/ctrlaltwill/learnkit
-downloads: 16634
+downloads: 19255
 updated at: "2026-06-24T06:48:43Z"
 related to:
   - "[[GitHub - 1132086156]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Obsidian is great for capturing knowledge. LearnKit is built to help you retain it. Instead of splitting your workflow across multiple study apps, LearnKit keeps learning inside your vault."
 
     stats: {
-        downloads:  16634
+        downloads:  19255
         updated_at: 1782283723000
     }
 }

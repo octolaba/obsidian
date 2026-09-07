@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-image-layouts
 alt:
   - https://github.com/vertis/obsidian-image-layouts
-downloads: 32945
+downloads: 33781
 updated at: "2026-07-07T09:17:37Z"
 related to:
   - "[[GitHub - 517250611]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Arrange images into curated layouts inside notes to craft visual stories. Support local wikilinks and remote URLs, show placeholders for missing images, hide extras, and provide masonry layouts, overlay text and captions, plus a simple carousel for galleries."
 
     stats: {
-        downloads:  32945
+        downloads:  33781
         updated_at: 1783415857000
     }
 }

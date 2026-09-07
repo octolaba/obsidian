@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/neighbourhood-graph
 alt:
   - https://github.com/agilesmagile/obsidian-neighbourhood-graph
-downloads: 303
+downloads: 452
 updated at: "2026-05-20T15:57:18Z"
 related to:
   - "[[GitHub - 1240247132]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize the active note's neighbourhood as an interactive force-directed graph in the right sidebar, highlighting the focus note and showing related notes, shared tags (diamond nodes), and backlinks. Hover to highlight direct and depth‑2 connections; click to recenter and double‑click to open a note."
 
     stats: {
-        downloads:  303
+        downloads:  452
         updated_at: 1779292638000
     }
 }

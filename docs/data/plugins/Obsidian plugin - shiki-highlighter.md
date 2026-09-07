@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/shiki-highlighter
 alt:
   - https://github.com/mprojectscode/obsidian-shiki-plugin
-downloads: 32794
+downloads: 33929
 updated at: "2026-04-27T12:26:21Z"
 related to:
   - "[[GitHub - 777333461]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Apply Shiki-powered syntax highlighting across reading, live preview, and edit modes for 100+ languages. Render rich code blocks with line numbers, titles, inline highlighting, line and diff highlighting, and use bundled or VS Code-compatible JSON themes for custom styling."
 
     stats: {
-        downloads:  32794
+        downloads:  33929
         updated_at: 1777292781000
     }
 }

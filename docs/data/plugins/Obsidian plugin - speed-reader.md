@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/speed-reader
 alt:
   - https://github.com/madhusudan-kulkarni/obsidian-speed-reader
-downloads: 1510
+downloads: 1582
 updated at: "2026-05-15T08:01:26Z"
 related to:
   - "[[GitHub - 1140448478]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Speed-read notes with RSVP by flashing one word at a time and highlighting the optimal recognition point (ORP) to improve focus and recognition. Adjust WPM live, use smart pauses at punctuation and long words, jump with a clickable progress bar, and limit reading to selections or focus mode."
 
     stats: {
-        downloads:  1510
+        downloads:  1582
         updated_at: 1778832086000
     }
 }

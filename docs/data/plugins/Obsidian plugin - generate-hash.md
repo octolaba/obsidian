@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/generate-hash
 alt:
   - https://github.com/zigahertz/obsidian-hash
-downloads: 846
+downloads: 865
 updated at: "2024-04-25T21:20:02Z"
 related to:
   - "[[GitHub - 788130348]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate cryptographically strong pseudorandom hashes for creating unique IDs directly in Obsidian. Run a single command to produce and insert or copy a hash with a selectable byte length."
 
     stats: {
-        downloads:  846
+        downloads:  865
         updated_at: 1714080002000
     }
 }

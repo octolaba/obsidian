@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/coin-memo
 alt:
   - https://github.com/fengshuzi/coin-memo
-downloads: 273
-updated at: "2026-07-20T12:46:48Z"
+downloads: 416
+updated at: "2026-08-10T08:49:24Z"
 related to:
   - "[[GitHub - 1131728384]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Parse and track expenses from Obsidian journal files, automatically extracting records and summarizing income, expenses, categories, and date-range statistics. Import screenshot bills via OCR for one-click parsing, copy recent entries into today, bulk-reclassify by keywords, and export reports to PDF or Markdown."
 
     stats: {
-        downloads:  273
-        updated_at: 1784551608000
+        downloads:  416
+        updated_at: 1786351764000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tolino-notes-import
 alt:
   - https://github.com/juergenbr/obsidian-tolino-notes-import
-downloads: 3547
+downloads: 3556
 updated at: "2024-01-03T16:42:45Z"
 related to:
   - "[[GitHub - 585944792]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import all notes, bookmarks, and text highlights from a Tolino e‑reader over USB into your vault. Group annotations from each book into a single Markdown note, save them to a chosen folder, and apply tags to imported notes."
 
     stats: {
-        downloads:  3547
+        downloads:  3556
         updated_at: 1704300165000
     }
 }

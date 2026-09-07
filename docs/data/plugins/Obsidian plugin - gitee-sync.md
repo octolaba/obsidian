@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gitee-sync
 alt:
   - https://github.com/ericquan8/obsidian-gitee-sync
-downloads: 166
+downloads: 396
 updated at: "2026-07-11T04:27:04Z"
 related to:
   - "[[GitHub - 1295038913]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault to a private Gitee or GitHub repository as plain Markdown files via the platform OpenAPI, with no server or git installation needed. Perform bidirectional, content-hash incremental sync with per-file commits, newest-modification conflict resolution, and full remote history for recovery."
 
     stats: {
-        downloads:  166
+        downloads:  396
         updated_at: 1783744024000
     }
 }

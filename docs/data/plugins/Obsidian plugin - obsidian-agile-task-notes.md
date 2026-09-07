@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-agile-task-notes
 alt:
   - https://github.com/boxthatbeat/obsidian-agile-task-notes
-downloads: 11505
+downloads: 11573
 updated at: "2026-04-10T14:57:00Z"
 related to:
   - "[[GitHub - 511926494]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import tasks from Jira or Azure DevOps into Obsidian. Generate a local Kanban board showing only your tasks and create individual task files to add notes and todo lists with customizable starter content."
 
     stats: {
-        downloads:  11505
+        downloads:  11573
         updated_at: 1775833020000
     }
 }

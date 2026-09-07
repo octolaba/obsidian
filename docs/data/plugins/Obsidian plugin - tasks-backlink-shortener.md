@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tasks-backlink-shortener
 alt:
   - https://github.com/vishae/tasks-backlink-shortener
-downloads: 39
+downloads: 66
 updated at: "2026-07-17T17:32:24Z"
 related to:
   - "[[GitHub - 1291209107]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Shorten Tasks plugin backlinks to show only the note name, stripping folder path, heading, and the .md extension. Limit changes to backlinks rendered by Tasks and make no other modifications."
 
     stats: {
-        downloads:  39
+        downloads:  66
         updated_at: 1784309544000
     }
 }

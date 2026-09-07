@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tokenz
 alt:
   - https://github.com/ferenk/obsidian-tokenz
-downloads: 944
+downloads: 956
 updated at: "2025-01-19T23:35:25Z"
 related to:
   - "[[GitHub - 844785786]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert icons, special characters, and frequently used snippets into notes using customizable short-code mappings. Choose from 1,800+ built-in emoji and classic smiley maps or create user-defined token maps in any format for fast, repeatable insertion."
 
     stats: {
-        downloads:  944
+        downloads:  956
         updated_at: 1737329725000
     }
 }

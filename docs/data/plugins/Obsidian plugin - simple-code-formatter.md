@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-code-formatter
 alt:
   - https://github.com/wiop93256/Simple-Code-Formmater
-downloads: 3869
+downloads: 3995
 updated at: "2024-12-13T06:07:37Z"
 related to:
   - "[[GitHub - 872771845]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format the code block under the cursor using language-specific formatters like Prettier, js-beautify, xml-formatter, and sqlformatter for languages such as JavaScript, TypeScript, Java, HTML, CSS, JSON, Markdown, YAML, SQL, and XML. Check code syntax with Prettier before formatting; switch to a js-beautify language to bypass strict syntax checks and still beautify malformed code."
 
     stats: {
-        downloads:  3869
+        downloads:  3995
         updated_at: 1734070057000
     }
 }

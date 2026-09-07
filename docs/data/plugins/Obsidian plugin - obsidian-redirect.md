@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-redirect
 alt:
   - https://github.com/jglev/obsidian-redirect
-downloads: 2117
+downloads: 2154
 updated at: "2022-09-04T12:25:02Z"
 related to:
   - "[[GitHub - 504928449]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage redirects and aliases for any file, including binary attachments, by adding redirect/redirects or alias/aliases entries in a note's YAML front matter. Insert redirected paths, search and link files with a suggestion panel (type r[ while editing), and open targets or their redirect origin from commands or the file context menu."
 
     stats: {
-        downloads:  2117
+        downloads:  2154
         updated_at: 1662294302000
     }
 }

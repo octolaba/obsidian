@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wave-analyzer
 alt:
   - https://github.com/zzigo/obsidian-waveanalyzer
-downloads: 90
+downloads: 106
 updated at: "2026-06-10T13:44:43Z"
 related to:
   - "[[GitHub - 1170138245]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview audio files as interactive waveforms and spectrograms directly inside notes by embedding them with a wa code block. Play, stop and seek with a draggable playhead, create loop regions, toggle spectral centroid and harmonicity overlays, and switch between six FFT resolutions."
 
     stats: {
-        downloads:  90
+        downloads:  106
         updated_at: 1781099083000
     }
 }

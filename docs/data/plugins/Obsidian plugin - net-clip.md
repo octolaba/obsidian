@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/net-clip
 alt:
   - https://github.com/hariiy-sys/Obsidian-NetClip
-downloads: 10780
+downloads: 11079
 updated at: "2026-02-01T10:21:37Z"
 related to:
   - "[[GitHub - 905272163]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Clip webpages into your vault as Markdown with title, content and metadata — author, thumbnail, date and reading time. Organize clips into folders/categories, browse pages inside Obsidian, search with autocomplete and filters, and process content with Google's Gemini AI using custom prompts, variables and live progress."
 
     stats: {
-        downloads:  10780
+        downloads:  11079
         updated_at: 1769941297000
     }
 }

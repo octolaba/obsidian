@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/definitions-detector
 alt:
   - https://github.com/rapphcd/definitions-detector
-downloads: 108
+downloads: 114
 updated at: "2026-05-21T20:14:18Z"
 related to:
   - "[[GitHub - 1244979187]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scan the active note for words that match definition notes and automatically replace them with links to those definition files stored in your definitions folder. Support nested definitions organized up to four subfolders."
 
     stats: {
-        downloads:  108
+        downloads:  114
         updated_at: 1779394458000
     }
 }

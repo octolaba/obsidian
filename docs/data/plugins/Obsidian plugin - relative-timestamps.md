@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/relative-timestamps
 alt:
   - https://github.com/agctute/relative-timestamps
-downloads: 978
+downloads: 1020
 updated at: "2024-06-19T11:08:43Z"
 related to:
   - "[[GitHub - 808512721]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert the current time and automatically display the elapsed time since a chosen reference timestamp to reveal gaps between entries. Set or reset the reference timestamp to now to update subsequent elapsed-time insertions."
 
     stats: {
-        downloads:  978
+        downloads:  1020
         updated_at: 1718795323000
     }
 }

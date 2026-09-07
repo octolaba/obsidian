@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/slogs-sync
 alt:
   - https://github.com/dimohy/obsidian-slogs-sync
-downloads: 70
+downloads: 78
 updated at: "2026-06-30T06:14:02Z"
 related to:
   - "[[GitHub - 1283914396]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault with the Slogs remote Vault API. Push, pull, or sync all files, map posts via frontmatter, optionally include attachments and .obsidian settings, and resolve conflicts with a modal to keep remote, keep local, or skip."
 
     stats: {
-        downloads:  70
+        downloads:  78
         updated_at: 1782800042000
     }
 }

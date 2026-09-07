@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/render-api
 alt:
   - https://github.com/caesarloo/render-api
-downloads: 164
+downloads: 234
 updated at: "2026-07-04T16:01:44Z"
 related to:
   - "[[GitHub - 1281809102]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Expose Dataview, Tasks, and full Markdown rendering from your vault via a local REST API, including Dataview DQL, DataviewJS, and file post-processor output. Run a lightweight desktop-only HTTP server (127.0.0.1) that returns HTML, plain text, or JSON with optional API-key auth and configurable CORS."
 
     stats: {
-        downloads:  164
+        downloads:  234
         updated_at: 1783180904000
     }
 }

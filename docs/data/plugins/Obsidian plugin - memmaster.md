@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/memmaster
 alt:
   - https://github.com/qoonmax/memmaster-obsidian-plugin
-downloads: 1967
-updated at: "2026-07-19T00:11:08Z"
+downloads: 2021
+updated at: "2026-07-28T14:07:23Z"
 related to:
   - "[[GitHub - 1089018131]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Flashcards, spaced repetition, and active recall for Obsidian. Turn notes into review cards, memorize knowledge, fight the forgetting curve, and study with an Anki-style workflow."
 
     stats: {
-        downloads:  1967
-        updated_at: 1784419868000
+        downloads:  2021
+        updated_at: 1785247643000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-acp
 alt:
   - https://github.com/genozhou/canvas-acp
-downloads: 122
+downloads: 133
 updated at: "2026-05-20T04:45:21Z"
 related to:
   - "[[GitHub - 1236124989]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Ask an ACP-compatible LLM about a selected canvas node and stream the agent response into a new text node, labeling the edge with your question. Include upstream context or combine all nodes in a group as context, and preview or edit the prompt (optionally keep or strip <think> blocks) before sending."
 
     stats: {
-        downloads:  122
+        downloads:  133
         updated_at: 1779252321000
     }
 }

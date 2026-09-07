@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-toolkit
 alt:
   - https://github.com/maksparker/canvas-toolkit
-downloads: 85
+downloads: 162
 updated at: "2026-07-12T13:41:43Z"
 related to:
   - "[[GitHub - 1298263252]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Canvas Toolkit adds practical customization tools to Obsidian Canvas. Create editable labels for cards, turn text cards into sticky notes, display groups as solid boards, and switch appearances across an entire Canvas. Set default styles for new cards and groups, add groups quickly from the Canvas toolbar, and use the same controls on desktop and mobile."
 
     stats: {
-        downloads:  85
+        downloads:  162
         updated_at: 1783863703000
     }
 }

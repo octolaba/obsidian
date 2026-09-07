@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/footlinks
 alt:
   - https://github.com/dahawong/obsidian-footlinks
-downloads: 12387
+downloads: 12575
 updated at: "2020-12-06T05:54:18Z"
 related to:
   - "[[GitHub - 317488981]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extract and list a note's links as footlinks separated from the main body by a configurable divider. Open the left-side Footlinks panel or run the Footlinks command to view and manage your note's footlinks."
 
     stats: {
-        downloads:  12387
+        downloads:  12575
         updated_at: 1607234058000
     }
 }

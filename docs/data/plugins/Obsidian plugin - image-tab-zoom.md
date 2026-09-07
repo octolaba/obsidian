@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-tab-zoom
 alt:
   - https://github.com/jochenbernard/obsidian-image-zoom
-downloads: 130
+downloads: 150
 updated at: "2026-05-23T11:41:53Z"
 related to:
   - "[[GitHub - 1218018942]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add pinch-to-zoom and modifier-scroll zoom to image files opened in their own Obsidian tabs on desktop and iOS. Pan by dragging when zoomed, keep the point under your cursor anchored during zoom, and double-click or double-tap to reset the view."
 
     stats: {
-        downloads:  130
+        downloads:  150
         updated_at: 1779536513000
     }
 }

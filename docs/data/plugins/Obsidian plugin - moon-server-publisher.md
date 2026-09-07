@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/moon-server-publisher
 alt:
   - https://github.com/dzoukr/MoonServerObsidianPlugin
-downloads: 2463
+downloads: 2471
 updated at: "2023-10-20T13:33:50Z"
 related to:
   - "[[GitHub - 696217331]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish notes to a Moon server instance and remove them when needed. Attach the returned Moon ID to the note as a metadata property and remove it on unpublish. Configure the server URL and optional API key/secret, then run Publish or Unpublish from the command palette or note context menu."
 
     stats: {
-        downloads:  2463
+        downloads:  2471
         updated_at: 1697808830000
     }
 }

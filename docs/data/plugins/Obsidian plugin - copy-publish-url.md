@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-publish-url
 alt:
   - https://github.com/kometenstaub/copy-publish-url
-downloads: 6611
+downloads: 6629
 updated at: "2023-04-29T18:20:51Z"
 related to:
   - "[[GitHub - 419078983]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy the URL of any note on your Obsidian Publish site. Open the current note on the published site in your browser and add an optional file-menu command to copy URLs. Open the note's Git commit history on GitHub (requires repository URL and branch)."
 
     stats: {
-        downloads:  6611
+        downloads:  6629
         updated_at: 1682792451000
     }
 }

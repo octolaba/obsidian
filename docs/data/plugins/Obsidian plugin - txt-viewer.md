@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/txt-viewer
 alt:
   - https://github.com/viggomeesters/obsidian-txt-viewer
-downloads: 526
+downloads: 739
 updated at: "2026-06-07T19:27:18Z"
 related to:
   - "[[GitHub - 1262264272]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Inspect .txt files in a dedicated read-only view with stable line numbers, line-ending warnings, file stats (lines, characters, bytes) and no write-back to disk. Search and navigate matches, apply a filter that shows only matching lines while preserving original line numbers, and safely view large files with rendering caps and automatic refresh; no network requests."
 
     stats: {
-        downloads:  526
+        downloads:  739
         updated_at: 1780860438000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/korean-movie-search
 alt:
   - https://github.com/younginshin115/korean-movie-search
-downloads: 81
+downloads: 89
 updated at: "2026-05-25T06:59:43Z"
 related to:
   - "[[GitHub - 1091684967]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fetch Korean movie metadata from KOBIS and TMDB using the filename and auto-fill the note frontmatter with title, cast, crew, genres, release info, and more. Include high-resolution posters and ratings, provide a Korean/English UI, and enable toggling or adding custom metadata fields."
 
     stats: {
-        downloads:  81
+        downloads:  89
         updated_at: 1779692383000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/moments
 alt:
   - https://github.com/mattmcmanus/obsidian-moments
-downloads: 2829
+downloads: 3469
 updated at: "2026-07-15T16:57:01Z"
 related to:
   - "[[GitHub - 1150161954]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View a unified timeline that collects dated headings, standalone dated notes, and files created or modified on each day into one chronological view. Insert inline dated headings in any note, include standalone moments, and reveal files touched that day to reconstruct everything you worked on for a selected date."
 
     stats: {
-        downloads:  2829
+        downloads:  3469
         updated_at: 1784134621000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/review-comments
 alt:
   - https://github.com/shotashirai1719/obsidian-review-comments
-downloads: 385
+downloads: 461
 updated at: "2026-05-18T07:36:14Z"
 related to:
   - "[[GitHub - 1238527028]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add Notion-style review comments by selecting text and clicking a floating button to insert inline CriticMarkup annotations. Store comments directly in Markdown so LLMs can read and apply edits, and use the side panel to browse, jump to, and resolve comments."
 
     stats: {
-        downloads:  385
+        downloads:  461
         updated_at: 1779089774000
     }
 }

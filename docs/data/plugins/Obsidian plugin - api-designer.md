@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/api-designer
 alt:
   - https://github.com/ruveydayilmaz/obsidian-api-designer-plugin
-downloads: 645
+downloads: 672
 updated at: "2026-06-21T14:42:56Z"
 related to:
   - "[[GitHub - 1052223341]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Design and document API endpoints visually inside your notes, including request and response bodies with named, typed properties. Add or remove fields instantly and save API schemas directly as Markdown. Customize the designer's color scheme and use a clean, responsive layout that adapts to your workspace."
 
     stats: {
-        downloads:  645
+        downloads:  672
         updated_at: 1782052976000
     }
 }

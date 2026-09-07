@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/fsrs
 alt:
   - https://github.com/evgene-kopylov/fsrs_plugin
-downloads: 1282
+downloads: 1470
 updated at: "2026-07-22T07:59:35Z"
 related to:
   - "[[GitHub - 1216292387]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn your notes into FSRS-based flashcards and schedule reviews using a modern spaced-repetition algorithm. Set retention targets, track progress with built-in statistics, and review via customizable SQL-like tables powered by a fast Rust/WASM engine with mobile support."
 
     stats: {
-        downloads:  1282
+        downloads:  1470
         updated_at: 1784707175000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/delete-checked-items
 alt:
   - https://github.com/wanja-l/delete-checked-items
-downloads: 124
+downloads: 132
 updated at: "2026-01-14T10:29:16Z"
 related to:
   - "[[GitHub - 1132997307]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Delete all checked checklist items in a note with a single action. Run the action from the command list or the file menu on desktop and mobile."
 
     stats: {
-        downloads:  124
+        downloads:  132
         updated_at: 1768386556000
     }
 }

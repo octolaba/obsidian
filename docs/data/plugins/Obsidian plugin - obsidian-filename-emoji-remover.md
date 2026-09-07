@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-filename-emoji-remover
 alt:
   - https://github.com/ytolun/obsidian-filename-emoji-remover
-downloads: 4282
+downloads: 4292
 updated at: "2022-05-01T15:26:55Z"
 related to:
   - "[[GitHub - 486118648]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Remove emojis from filenames across your vault and auto-strip emojis when notes are created or renamed. Scan and batch-clean existing files, and generate a safe random name if emoji removal would leave a filename empty."
 
     stats: {
-        downloads:  4282
+        downloads:  4292
         updated_at: 1651418815000
     }
 }

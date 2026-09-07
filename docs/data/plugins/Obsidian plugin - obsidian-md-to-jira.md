@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-md-to-jira
 alt:
   - https://github.com/muckmuck96/obsidian-md-to-jira
-downloads: 10470
+downloads: 10551
 updated at: "2026-05-15T14:16:52Z"
 related to:
   - "[[GitHub - 561707772]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert entire notes or selected text between Obsidian Markdown and Jira markup. Copy converted content to the clipboard for pasting into Jira, or convert Jira markup back into Markdown within the editor."
 
     stats: {
-        downloads:  10470
+        downloads:  10551
         updated_at: 1778854612000
     }
 }

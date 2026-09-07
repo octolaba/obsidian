@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gitlab-inbox
 alt:
   - https://github.com/srwildman/Obsidian-Gitlab-Inbox
-downloads: 115
+downloads: 123
 updated at: "2026-05-12T22:10:18Z"
 related to:
   - "[[GitHub - 1218426016]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display and manage your GitLab review queue, authored MRs, mentions, and todos in Obsidian via an auto-refreshing sidebar and clickable status-bar count. Write a persistent Tasks-compatible GitLab Inbox.md in your vault; check off or snooze items with action buttons, receive desktop notifications, and log completions to your daily note."
 
     stats: {
-        downloads:  115
+        downloads:  123
         updated_at: 1778623818000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ink-layer
 alt:
   - https://github.com/sirwanafifi/inkplane
-downloads: 118
+downloads: 282
 updated at: "2026-07-17T15:18:10Z"
 related to:
   - "[[GitHub - 1302705383]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Draw on an infinite, Apple Pencil–first canvas with pressure-aware ink, palm rejection, coalesced pointer sampling, and smooth pan/zoom. Save each sketch as a portable .inklayer JSON file in your vault so drawings move, sync, and back up with your notes. Embed read-only previews in any note, open the original canvas for edits, or export SVGs while keeping everything local and private."
 
     stats: {
-        downloads:  118
+        downloads:  282
         updated_at: 1784301490000
     }
 }

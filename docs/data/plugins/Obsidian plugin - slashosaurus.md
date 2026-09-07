@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/slashosaurus
 alt:
   - https://github.com/polygonhunter/slashosaurus
-downloads: 62
-updated at: "2026-07-17T13:01:36Z"
+downloads: 142
+updated at: "2026-07-27T08:30:06Z"
 related to:
   - "[[GitHub - 1303764129]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Open a Notion-style slash menu at your cursor and preview blocks before inserting them. Preview headings, colored callouts, quotes, code and math in your theme's colors, wrap selections into blocks, and insert content with the cursor placed to continue writing."
 
     stats: {
-        downloads:  62
-        updated_at: 1784293296000
+        downloads:  142
+        updated_at: 1785141006000
     }
 }
 ```

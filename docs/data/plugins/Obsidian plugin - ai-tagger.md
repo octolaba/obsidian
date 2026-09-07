@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-tagger
 alt:
   - https://github.com/lucagrippa/obsidian-ai-tagger
-downloads: 14298
+downloads: 14381
 updated at: "2024-12-27T20:07:41Z"
 related to:
   - "[[GitHub - 701546366]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate relevant tags by analyzing the open note and your existing tags with one click via supported LLMs. Suggest up to five previously used tags and up to three new tags, and apply tagging to single notes or batches of files/folders."
 
     stats: {
-        downloads:  14298
+        downloads:  14381
         updated_at: 1735330061000
     }
 }

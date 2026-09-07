@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/openyolo
 alt:
   - https://github.com/kamijoucen/obsidian-openyolo
-downloads: 2
-updated at: "2026-07-23T09:11:38Z"
+downloads: 146
+updated at: "2026-08-11T06:22:56Z"
 related to:
   - "[[GitHub - 1300290061]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # OpenYOLO
 
-OpenYOLO is a chat client for Obsidian powered by opencode through the Agent Client Protocol. It ships no agent or model logic of its own: models, tools, session history and memory are inherited from the existing opencode setup. The sidebar chat offers streaming output, tool-call cards with diff previews, plan and build modes, permission approvals, note-aware context attachments and slash commands.
+Provides a chat client that talks to opencode over the Agent Client Protocol, shipping no agent or model logic of its own: models, tools, session history and memory all come from the existing opencode setup. The sidebar carries streaming output, tool-call cards with diff previews, plan and build modes, permission approvals, note-aware context attachments and slash commands.
 
 ```cue
 plugin: {
@@ -33,12 +33,12 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/openyolo"
     github_url:  "https://github.com/kamijoucen/obsidian-openyolo"
-    description: "Obsidian chat client powered by opencode via the Agent Client Protocol (ACP). - This plugin has not been manually reviewed by Obsidian staff."
+    description: "A lightweight yet powerful ACP chat client, inheriting models, tools, and sessions from opencode. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "OpenYOLO is a lightweight AI chat client powered by opencode via the Agent Client Protocol (ACP). It ships no agent or model logic of its own — everything is inherited from your opencode setup: models, tools, session history, and memory. Chat in the sidebar with streaming output, tool-call cards with diff previews, plan/build modes, permission approvals, note-aware context attachments, and slash commands — all running on the backend you already trust."
 
     stats: {
-        downloads:  2
-        updated_at: 1784797898000
+        downloads:  146
+        updated_at: 1786429376000
     }
 }
 ```

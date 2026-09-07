@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wayback-linker
 alt:
   - https://github.com/real-fruit-snacks/wayback-linker
-downloads: 102
+downloads: 112
 updated at: "2026-07-10T02:08:39Z"
 related to:
   - "[[GitHub - 1273892676]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Archive external http and https links in the active note or across the entire vault using the Wayback Machine. Replace original links with archived snapshot URLs, send captures via Save Page Now, fall back to recent snapshots if needed, run cancelable vault-wide scans, and skip ignored domains."
 
     stats: {
-        downloads:  102
+        downloads:  112
         updated_at: 1783649319000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/sheet-plus
 alt:
   - https://github.com/ljcoder2015/obsidian-sheet-plus
-downloads: 180143
-updated at: "2026-07-22T05:49:56Z"
+downloads: 188763
+updated at: "2026-08-03T02:42:19Z"
 related to:
   - "[[GitHub - 796491205]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create full-featured spreadsheets inside your vault and embed them directly into notes. Link cells to other files, insert images, validate data with checkboxes, dropdowns and dates, customize fonts and number formats, and generate charts from sheet data. Add advanced features for REST API automation, XLSX import/export, embeddable chart links and Kanban views."
 
     stats: {
-        downloads:  180143
-        updated_at: 1784699396000
+        downloads:  188763
+        updated_at: 1785724939000
     }
 }
 ```

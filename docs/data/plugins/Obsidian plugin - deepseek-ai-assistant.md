@@ -12,8 +12,8 @@ tags:
 url: https://community.obsidian.md/plugins/deepseek-ai-assistant
 alt:
   - https://github.com/mali-i/deepseek-ai-assistant
-downloads: 6686
-updated at: "2026-05-26T12:20:59Z"
+downloads: 7281
+updated at: "2026-07-30T06:56:21Z"
 related to:
   - "[[GitHub - 960179977]]"
 remind me:
@@ -36,8 +36,8 @@ plugin: {
     about:       "Manage prompts and convert AI conversations into searchable, linkable knowledge assets for your Obsidian vault. Display prompts on a sidebar Timeline, retrieve past exchanges via keyword search and deep links, view asking-frequency heatmaps, and use OpenAI-format models with streaming and Markdown output."
 
     stats: {
-        downloads:  6686
-        updated_at: 1779798059000
+        downloads:  7281
+        updated_at: 1785394581000
     }
 }
 ```

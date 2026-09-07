@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/key-sequence
 alt:
   - https://github.com/wantchane/key-sequence-obsidian
-downloads: 41
+downloads: 54
 updated at: "2026-07-08T03:14:19Z"
 related to:
   - "[[GitHub - 1290657033]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Assign multi-key sequences to any Obsidian command, including commands from other plugins, letting you press a series (e.g., Ctrl+b then h) to trigger actions. Restrict sequences to Vim normal mode to avoid interfering with typing. Give sequences priority while a prefix is in progress to resolve hotkey clashes."
 
     stats: {
-        downloads:  41
+        downloads:  54
         updated_at: 1783480459000
     }
 }

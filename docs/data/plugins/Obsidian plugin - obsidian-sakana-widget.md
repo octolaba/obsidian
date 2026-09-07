@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-sakana-widget
 alt:
   - https://github.com/quorafind/obsidian-sakana-widget
-downloads: 5969
+downloads: 6062
 updated at: "2022-10-29T09:49:12Z"
 related to:
   - "[[GitHub - 538339077]]"
@@ -28,7 +28,7 @@ This plugin adds the Sakana! widget to the Obsidian workspace, an animated fish 
 plugin: {
     id:     "obsidian-sakana-widget"
     name:   "Sakana Widget"
-    author: "quorafind"
+    author: "Boninall"
     repo:   "quorafind/obsidian-sakana-widget"
 
     html_url:    "https://community.obsidian.md/plugins/obsidian-sakana-widget"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a Sakana! widget to your Obsidian workspace and interact with a cute fish while writing notes. Customize the widget by adding your own images for a personalized, animated companion that responds as you edit."
 
     stats: {
-        downloads:  5969
+        downloads:  6062
         updated_at: 1667036952000
     }
 }

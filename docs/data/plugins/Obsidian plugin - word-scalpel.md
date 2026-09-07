@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/word-scalpel
 alt:
   - https://github.com/grichshiran/obsidian-word-scalpel
-downloads: 67
+downloads: 76
 updated at: "2026-06-19T06:56:45Z"
 related to:
   - "[[GitHub - 1273995629]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fix Option/Alt+Backspace to delete one word at a time in Thai and Japanese by using the browser's Intl.Segmenter to find proper word boundaries. Preserve default deletion for space-delimited languages so English still deletes by spaces and punctuation."
 
     stats: {
-        downloads:  67
+        downloads:  76
         updated_at: 1781852205000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/prompt-flow
 alt:
   - https://github.com/ebullient/obsidian-prompt-flow
-downloads: 380
+downloads: 465
 updated at: "2026-06-16T17:26:05Z"
 related to:
   - "[[GitHub - 1064856402]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate AI content in Obsidian using local LLMs like Ollama or any OpenAI-compatible API, with named connections, model selection, and per-note prompt overrides. Insert generated text at the cursor on desktop or mobile, include [[wikilinks]] in prompts, and apply built-in or external content filters via a filter API."
 
     stats: {
-        downloads:  380
+        downloads:  465
         updated_at: 1781630765000
     }
 }

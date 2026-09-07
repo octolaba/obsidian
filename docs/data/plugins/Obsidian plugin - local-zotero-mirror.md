@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/local-zotero-mirror
 alt:
   - https://github.com/mappedinfo/local-zotero-mirror
-downloads: 261
+downloads: 326
 updated at: "2026-06-07T13:48:07Z"
 related to:
   - "[[GitHub - 1257180955]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Zotero collections, item metadata, and native notes into local Markdown, creating one canonical note per Zotero item. Regenerate collection index notes linking to canonical notes, preserve user-written sections outside managed blocks, migrate native notes into protected blocks, and open items or PDFs from Obsidian."
 
     stats: {
-        downloads:  261
+        downloads:  326
         updated_at: 1780840087000
     }
 }

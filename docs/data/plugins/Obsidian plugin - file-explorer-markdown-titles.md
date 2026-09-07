@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-explorer-markdown-titles
 alt:
   - https://github.com/dyldog/file-explorer-markdown-titles
-downloads: 6817
+downloads: 6839
 updated at: "2021-09-12T11:55:22Z"
 related to:
   - "[[GitHub - 394228817]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display the first Markdown header alongside filenames in the File Explorer sidebar. Replace graph view node titles with each note's Markdown title for clearer navigation."
 
     stats: {
-        downloads:  6817
+        downloads:  6839
         updated_at: 1631447722000
     }
 }

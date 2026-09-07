@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/workbuddian
 alt:
   - https://github.com/jiang198012/workbuddian
-downloads: 457
-updated at: "2026-07-21T13:07:32Z"
+downloads: 1834
+updated at: "2026-08-11T10:43:47Z"
 related to:
   - "[[GitHub - 1298306683]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Connect Obsidian to a local WorkBuddy/CodeBuddy CLI and open an in-app AI chat panel that streams responses with real stop-generation. Manage conversations with multiple tabs, rename, export, and full-text search; insert note references or selected text, attach files, and switch models and permissions from an in-chat toolbar."
 
     stats: {
-        downloads:  457
-        updated_at: 1784639252000
+        downloads:  1834
+        updated_at: 1786445027000
     }
 }
 ```

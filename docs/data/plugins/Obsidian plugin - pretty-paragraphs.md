@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pretty-paragraphs
 alt:
   - https://github.com/meljadyn/obsidian-pretty-paragraphs
-downloads: 67
+downloads: 384
 updated at: "2026-07-17T05:53:08Z"
 related to:
   - "[[GitHub - 1295719483]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Apply manuscript-style typography by replacing vertical paragraph spacing with 2em first-line indents for a book-like layout. Show the style in both Editor (Live Preview) and Reading views, with optional justification and folder whitelisting"
 
     stats: {
-        downloads:  67
+        downloads:  384
         updated_at: 1784267588000
     }
 }

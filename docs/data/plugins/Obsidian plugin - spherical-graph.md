@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/spherical-graph
 alt:
   - https://github.com/pavel-mik/obsidian-spherical-graph
-downloads:
-updated at:
+downloads: 185
+updated at: "2026-08-07T10:39:49Z"
 related to:
   - "[[GitHub - 1310072068]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # Spherical Graph
 
-The vault is rendered as a navigable globe: top-level folders become separated continents, notes become cities, links become roads, and tags orbit as satellites. A route finder highlights every shortest path between two distant notes, including equal-length alternatives. The map stays stable after generation, so search, filters, selection, rotation, zoom and theme changes never move existing cities; a first launch with no saved map indexes the vault and builds the globe, and later launches restore the same layout, pins and camera. The recorded inputs state that it runs locally on desktop with no account, API key, telemetry or note-content changes.
+Draws the vault as a navigable globe in which top-level folders become separated continents, notes become cities, links become roads and tags orbit as satellites. A Route Finder highlights every shortest path between distant notes, including equal alternatives, and layout, continents, pins and camera position are restored after a restart or through Obsidian Sync. Search, filters, selection, zoom-aware labels and roads, cloud atmosphere, fullscreen autorotation and worker-based processing keep it usable on larger vaults, with adaptive rendering and touch controls on Android phones and tablets. Everything runs locally, with no account, API key, telemetry or runtime network requests, and note content is not modified.
 
 ```cue
 plugin: {
@@ -33,8 +33,13 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/spherical-graph"
     github_url:  "https://github.com/pavel-mik/obsidian-spherical-graph"
-    description: "Explore your vault as a seamless graph laid out intrinsically on a sphere. - This plugin has not been manually reviewed by Obsidian staff."
-    about:       "Turn your Obsidian vault into a navigable world. Top-level folders become separated continents, notes become cities, links become roads, and tags orbit as silver satellites. Route Finder highlights every shortest path between distant ideas, including equal alternatives. The map stays stable after generation, so search, filters, selection, rotation, zoom, and theme changes never move your cities. On a first launch with no saved map, Spherical Graph indexes the vault and builds the globe automatically; later launches restore the same layout, continents, pins, and camera, including through Obsidian Sync. Task-oriented controls, pins, zoom-aware labels and roads, render-only filters, cloud atmosphere, fullscreen autorotation, and worker-based processing keep the globe useful in both small and large vaults. Everything runs locally on desktop with no account, API key, telemetry, runtime network requests, or note-content changes."
+    description: "Explore your vault as a living globe: folders become continents, notes become cities, links become roads, tags orbit as satellites, and Route Finder reveals paths between ideas. - This plugin has not been manually reviewed by Obsidian staff."
+    about:       "Turn your Obsidian vault into a navigable world. Top-level folders become separated continents, notes become cities, links become roads, and tags orbit as silver satellites. Route Finder highlights every shortest path between distant ideas, including equal alternatives. Spherical Graph restores the same layout, continents, pins, and camera after restart or through Obsidian Sync. Search, filters, selection, zoom-aware labels and roads, pins, cloud atmosphere, fullscreen autorotation, and worker-based processing keep the globe useful across vault sizes. Adaptive mobile rendering and touch controls preserve the core experience on Android phones and tablets, while heavier visual effects scale back automatically on smaller devices. Everything runs locally with no account, API key, telemetry, runtime network requests, or note-content changes."
+
+    stats: {
+        downloads:  185
+        updated_at: 1786099189000
+    }
 }
 ```
 

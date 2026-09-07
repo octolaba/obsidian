@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jw-timer-sidebar
 alt:
   - https://github.com/marckfp/jw-timer-obsidian
-downloads: 279
+downloads: 311
 updated at: "2026-05-15T11:27:18Z"
 related to:
   - "[[GitHub - 1217147152]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track JW congregation meetings with per-part stopwatches built from the week's programme fetched from wol.jw.org in your language. Show elapsed time, progress bars, scheduled end times, optional 1-minute advice timers, overtime alerts and a global meeting progress bar; navigate weeks, customize parts, and export text summaries."
 
     stats: {
-        downloads:  279
+        downloads:  311
         updated_at: 1778844438000
     }
 }

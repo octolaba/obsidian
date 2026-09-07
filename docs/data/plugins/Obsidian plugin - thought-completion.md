@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/thought-completion
 alt:
   - https://github.com/talhabw/obsidian-thought-completion
-downloads: 213
+downloads: 229
 updated at: "2026-02-01T10:01:55Z"
 related to:
   - "[[GitHub - 1146165215]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Suggest thought-provoking prompts inline as faded ghost text at your cursor to nudge idea development without writing for you. Analyze your context and offer multiple modes — Questions, Structural, Critical, Connector — with smart or manual triggers and a status bar indicator."
 
     stats: {
-        downloads:  213
+        downloads:  229
         updated_at: 1769940115000
     }
 }

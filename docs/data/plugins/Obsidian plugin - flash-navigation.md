@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/flash-navigation
 alt:
   - https://github.com/erl-koenig/obsidian-flash-navigation
-downloads: 2071
+downloads: 2131
 updated at: "2026-05-16T20:10:29Z"
 related to:
   - "[[GitHub - 989759122]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Jump to any visible text by typing characters to highlight exact matches and auto-assign jump labels. Press a single label key to jump to a location while a live status bar shows your query and styling keeps highlights precise and customizable."
 
     stats: {
-        downloads:  2071
+        downloads:  2131
         updated_at: 1778962229000
     }
 }

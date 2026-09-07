@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/calendarium
 alt:
   - https://github.com/javalent/calendarium
-downloads: 180114
+downloads: 184331
 updated at: "2025-09-27T00:50:23Z"
 related to:
   - "[[GitHub - 641540792]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create flexible fantasy and sci‑fi calendars for worldbuilding and fiction. Apply custom time systems across your vault to track dates and timelines consistently."
 
     stats: {
-        downloads:  180114
+        downloads:  184331
         updated_at: 1758934223000
     }
 }

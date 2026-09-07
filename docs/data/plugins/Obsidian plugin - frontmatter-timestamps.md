@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/frontmatter-timestamps
 alt:
   - https://github.com/jqml/frontmatter-timestamps
-downloads: 33
+downloads: 75
 updated at: "2026-07-17T19:28:03Z"
 related to:
   - "[[GitHub - 1300780206]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep created and updated YAML frontmatter timestamps synced with file creation and edits, add missing created values, and update modification timestamps after content changes. Configure timestamp modes and property names, ignore paths, preview or apply changes per-folder or vault-wide, perform safe renames and clean malformed datetime values."
 
     stats: {
-        downloads:  33
+        downloads:  75
         updated_at: 1784316483000
     }
 }

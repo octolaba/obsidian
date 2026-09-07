@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lore-graph
 alt:
   - https://github.com/bisiaux-dev/obsidian-lore-graph
-downloads: 187
+downloads: 216
 updated at: "2026-06-02T13:27:40Z"
 related to:
   - "[[GitHub - 1255910122]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide entire folders from Obsidian's graph to declutter the view while keeping contextual backlinks available. Hover a node to preview its hidden links, click to pin a reveal or cascade into linked hidden notes, and preserve original node positions and native rendering for revealed items."
 
     stats: {
-        downloads:  187
+        downloads:  216
         updated_at: 1780406860000
     }
 }

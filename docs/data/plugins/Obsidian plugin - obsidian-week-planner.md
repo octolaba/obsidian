@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-week-planner
 alt:
   - https://github.com/rwirdemann/obsidian-week-planner
-downloads: 11211
+downloads: 11256
 updated at: "2023-01-24T15:48:38Z"
 related to:
   - "[[GitHub - 532926376]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize todos into Inbox, Week, and Today documents and auto-create the folder structure for daily and weekly notes. Open current week, today, tomorrow, and yesterday notes; add new todos via a modal and move tasks between inbox, days, or any date."
 
     stats: {
-        downloads:  11211
+        downloads:  11256
         updated_at: 1674575318000
     }
 }

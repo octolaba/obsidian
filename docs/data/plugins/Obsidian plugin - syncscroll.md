@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/syncscroll
 alt:
   - https://github.com/omnbird/syncscroll
-downloads: 655
+downloads: 736
 updated at: "2026-02-10T12:48:09Z"
 related to:
   - "[[GitHub - 1151930568]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync scrolling between two side-by-side panes using percentage-based alignment for smooth comparisons. Triple-click any line to jump the other pane to the same line, maintain the offset during scrolling, and keep synchronization bidirectional."
 
     stats: {
-        downloads:  655
+        downloads:  736
         updated_at: 1770727689000
     }
 }

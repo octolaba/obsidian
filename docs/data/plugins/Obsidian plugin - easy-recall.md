@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/easy-recall
 alt:
   - https://github.com/genozhou/easy-recall
-downloads: 451
-updated at: "2026-07-17T10:56:30Z"
+downloads: 473
+updated at: "2026-08-09T14:45:04Z"
 related to:
   - "[[GitHub - 1167391022]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Start spaced repetition with zero setup using native Markdown cloze ==highlight== and ?question syntax. Organize decks with file-level #easy-recall/ tags and rate cards Again/Hard/Good with instant feedback that returns Again cards to the queue. Review in a modal or reuse an Obsidian tab on desktop and mobile, with interface language auto-matching Obsidian settings."
 
     stats: {
-        downloads:  451
-        updated_at: 1784285790000
+        downloads:  473
+        updated_at: 1786286704000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/protected-note
 alt:
   - https://github.com/mmiksaa/obsidian-protected-note
-downloads: 10053
+downloads: 10381
 updated at: "2026-06-27T02:20:45Z"
 related to:
   - "[[GitHub - 733145720]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Protect sensitive notes with a password and hide selected folders from other people. Encrypt files with optional AES, auto-lock Obsidian when idle, and toggle protection for chosen content."
 
     stats: {
-        downloads:  10053
+        downloads:  10381
         updated_at: 1782526845000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tegaki
 alt:
   - https://github.com/sdesuyo/obsidian-tegaki
-downloads: 99
+downloads: 104
 updated at: "2026-05-13T10:23:38Z"
 related to:
   - "[[GitHub - 1234529187]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert photos of handwriting, whiteboards, and slides into searchable Obsidian notes via AI Vision APIs. Capture printed text with layout and handwritten annotations with position (circles, arrows, margin notes). Append full OCR or extract handwriting-only to the current note."
 
     stats: {
-        downloads:  99
+        downloads:  104
         updated_at: 1778667818000
     }
 }

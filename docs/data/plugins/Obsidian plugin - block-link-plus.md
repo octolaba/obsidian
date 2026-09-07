@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/block-link-plus
 alt:
   - https://github.com/jasper-1024/block-link-plus
-downloads: 10270
+downloads: 13167
 updated at: "2026-06-25T11:29:53Z"
 related to:
   - "[[GitHub - 827407314]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create multi-line block references and copy links, embeds, or Obsidian URIs to blocks and headings with stable ^id ranges. Treat list items as Logseq-style outline blocks with hidden metadata and query/render them using blp-view (Dataview-backed). Open a continuous journal feed and edit embedded blocks inline."
 
     stats: {
-        downloads:  10270
+        downloads:  13167
         updated_at: 1782386993000
     }
 }

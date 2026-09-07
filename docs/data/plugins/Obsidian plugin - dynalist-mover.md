@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/dynalist-mover
 alt:
   - https://github.com/oneoffobject/dynalist-mover
-downloads: 350
-updated at: "2026-06-16T12:39:25Z"
+downloads: 403
+updated at: "2026-08-04T09:39:45Z"
 related to:
   - "[[GitHub - 1187780271]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Move multiple lines up or down together while keeping the selection so you can adjust position with repeated moves. Highlight selected blocks for clear visual feedback and move indented child items with their parent as a single block to preserve outline structure. Work with any text, not just lists."
 
     stats: {
-        downloads:  350
-        updated_at: 1781613565000
+        downloads:  403
+        updated_at: 1785836385000
     }
 }
 ```

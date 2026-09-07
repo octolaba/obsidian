@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/custom-font-loader
 alt:
   - https://github.com/pourmand1376/obsidian-custom-font
-downloads: 62181
+downloads: 65967
 updated at: "2026-06-12T13:58:55Z"
 related to:
   - "[[GitHub - 678868596]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Load custom fonts into Obsidian across all platforms using base64-encoded files so fonts work without OS installation. Support .woff, .ttf, .woff2 and .otf, preview and switch fonts, apply globally or per page, and convert fonts to base64 CSS with the web tool."
 
     stats: {
-        downloads:  62181
+        downloads:  65967
         updated_at: 1781272735000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/automation
 alt:
   - https://github.com/benature/obsidian-automation
-downloads: 5207
+downloads: 5279
 updated at: "2024-05-31T11:37:35Z"
 related to:
   - "[[GitHub - 778631986]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Trigger command-palette commands when specified Obsidian events occur. Link events to any available command to run actions automatically across your vault."
 
     stats: {
-        downloads:  5207
+        downloads:  5279
         updated_at: 1717155455000
     }
 }

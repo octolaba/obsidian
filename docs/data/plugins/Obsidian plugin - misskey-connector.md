@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/misskey-connector
 alt:
   - https://github.com/minimarimo3/Obsidian-plugin-for-Misskey
-downloads: 873
+downloads: 879
 updated at: "2024-04-05T08:21:44Z"
 related to:
   - "[[GitHub - 776761449]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed Misskey notes by converting Misskey URLs into quoted embeds in Markdown or HTML. Post the current line (including attached images/videos) to your Misskey account with options for tagging, file upload limits, and anonymized filenames; requires Misskey authentication."
 
     stats: {
-        downloads:  873
+        downloads:  879
         updated_at: 1712305304000
     }
 }

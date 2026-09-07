@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/windrose-md
 alt:
   - https://github.com/alas-poor-ophelia/windrose-md
-downloads: 438
-updated at: "2026-07-08T18:27:44Z"
+downloads: 880
+updated at: "2026-08-07T00:34:34Z"
 related to:
   - "[[GitHub - 1105061600]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Design TTRPG maps inside your Obsidian notes with grid or hex layouts. Draw dungeons and world maps, paint with image tiles, place objects and labels, add fog of war, and nest sub-maps while keeping everything linked to your notes. Work with touch on tablets or keyboard/mouse on desktop."
 
     stats: {
-        downloads:  438
-        updated_at: 1783535264000
+        downloads:  880
+        updated_at: 1786062874000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-voice-polish
 alt:
   - https://github.com/pangtouyu717/obsidian-ai-voice-polish
-downloads: 52
+downloads: 90
 updated at: "2026-07-18T10:08:41Z"
 related to:
   - "[[GitHub - 1303149191]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Record voice with a floating, movable recorder and transcribe mixed Chinese/English speech via multiple STT providers. Polish transcriptions with AI in formal, concise, casual or correction-only styles, then insert text at the cursor or create dated Markdown notes with embedded playable audio."
 
     stats: {
-        downloads:  52
+        downloads:  90
         updated_at: 1784369321000
     }
 }

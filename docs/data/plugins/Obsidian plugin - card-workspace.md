@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/card-workspace
 alt:
   - https://github.com/kenanlian/obsidian-card-workspace
-downloads: 263
-updated at: "2026-06-12T14:26:11Z"
+downloads: 319
+updated at: "2026-08-06T01:28:32Z"
 related to:
   - "[[GitHub - 1209949085]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Browse folder notes as a visual card stream in the sidebar or main editor leaf, showing titles and Markdown-stripped excerpt previews. Keep large folders smooth with virtualized scrolling, filter and search notes, and click cards to open files. Link File Explorer folder clicks to sync views."
 
     stats: {
-        downloads:  263
-        updated_at: 1781274371000
+        downloads:  319
+        updated_at: 1785979712000
     }
 }
 ```

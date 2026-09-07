@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-inline
 alt:
   - https://github.com/zackaryw/obsidian-image-inline
-downloads: 10270
+downloads: 10692
 updated at: "2026-05-01T01:01:36Z"
 related to:
   - "[[GitHub - 649106232]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Inline images in notes by pasting or dropping them, embedding small images as base64 while keeping large files as attachments. Resize large images automatically or save originals to the media folder, export or batch-convert images to base64, and run actions from context menus or the command palette."
 
     stats: {
-        downloads:  10270
+        downloads:  10692
         updated_at: 1777597296000
     }
 }

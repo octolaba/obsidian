@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/table-layout-helper
 alt:
   - https://github.com/xcloud-ai/table-layout-helper
-downloads: 52
+downloads: 145
 updated at: "2026-07-19T11:55:17Z"
 related to:
   - "[[GitHub - 1304757854]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Customize Markdown table layout, column widths, text wrapping, vertical alignment, overflow handling and sticky headers with visual controls and live preview. Replace handwritten CSS and apply zebra stripes, borders and max-height scrolling in both reading and live-preview views."
 
     stats: {
-        downloads:  52
+        downloads:  145
         updated_at: 1784462117000
     }
 }

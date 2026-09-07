@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/qiniu-image-uploader
 alt:
   - https://github.com/jianzs/obsidian-qiniu-image-uploader
-downloads: 3357
+downloads: 3372
 updated at: "2024-07-27T13:00:15Z"
 related to:
   - "[[GitHub - 695225154]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload images to Qiniu Cloud from Obsidian and insert remote URLs into your notes instead of saving files in the vault. Connect your Qiniu bucket and API keys to send images directly to your cloud storage."
 
     stats: {
-        downloads:  3357
+        downloads:  3372
         updated_at: 1722085215000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cite-wide
 alt:
   - https://github.com/lossless-group/cite-wide
-downloads: 95
+downloads: 104
 updated at: "2026-05-18T08:07:34Z"
 related to:
   - "[[GitHub - 1014803087]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage vault-wide citations by converting numeric footnotes into unique hex codes and logging each reference's metadata into a central base. Ensure consistent, reusable hex identifiers per source to keep citations stable across notes and exports. Handle inconsistent LLM output from Perplexity, Google, and Claude."
 
     stats: {
-        downloads:  95
+        downloads:  104
         updated_at: 1779091654000
     }
 }

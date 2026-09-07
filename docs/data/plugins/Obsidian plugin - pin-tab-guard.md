@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pin-tab-guard
 alt:
   - https://github.com/wildskyf/obsidian-pin-tab-guard
-downloads: 113
+downloads: 129
 updated at: "2026-03-23T12:54:08Z"
 related to:
   - "[[GitHub - 1189478794]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Protect pinned tabs from accidental closing or unpinning by blocking built-in close commands (Cmd/Ctrl+W, Close all other tabs, Close tab group) from affecting pinned notes. Preserve normal tab behavior elsewhere and allow context-menu closes to still work."
 
     stats: {
-        downloads:  113
+        downloads:  129
         updated_at: 1774270448000
     }
 }

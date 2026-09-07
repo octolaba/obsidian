@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/incremental-id
 alt:
   - https://github.com/adziok/obsidian-incremental-id
-downloads: 5339
+downloads: 5366
 updated at: "2024-01-06T12:57:28Z"
 related to:
   - "[[GitHub - 562491601]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate unique incremental IDs with customizable prefixes (e.g., DN-1, DN-2). Insert IDs via command or call them in templates and reuse the current ID where needed."
 
     stats: {
-        downloads:  5339
+        downloads:  5366
         updated_at: 1704545848000
     }
 }

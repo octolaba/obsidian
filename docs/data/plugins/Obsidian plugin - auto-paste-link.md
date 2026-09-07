@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-paste-link
 alt:
   - https://github.com/cnwenzhihong/Obsidian-auto-paste-link
-downloads: 177
+downloads: 257
 updated at: "2026-06-14T20:28:34Z"
 related to:
   - "[[GitHub - 1268538432]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format a single pasted URL into a Markdown link, image embed, or video embed. Auto-fill titles for supported sites like YouTube and Bilibili. Use selected text as link text and keep the cursor inside [] for immediate editing."
 
     stats: {
-        downloads:  177
+        downloads:  257
         updated_at: 1781468914000
     }
 }

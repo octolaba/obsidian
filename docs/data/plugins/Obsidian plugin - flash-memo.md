@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/flash-memo
 alt:
   - https://github.com/ydhawesome/flash-memo
-downloads: 101
+downloads: 110
 updated at: "2026-06-15T05:54:44Z"
 related to:
   - "[[GitHub - 1269722024]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture fleeting thoughts instantly from a dedicated sidebar panel. Save each memo as a standalone Markdown file in a memos/ folder with YAML date and tags; view memos in a timeline, search and filter in real time by content or tags, and sort by creation or modification time."
 
     stats: {
-        downloads:  101
+        downloads:  110
         updated_at: 1781502884000
     }
 }

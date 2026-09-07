@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-daily-stats
 alt:
   - https://github.com/dhruvik7/obsidian-daily-stats
-downloads: 24952
+downloads: 25179
 updated at: "2021-02-25T14:52:50Z"
 related to:
   - "[[GitHub - 338732802]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track today's word count in the bottom-right corner of Obsidian. View historical logs in a right-side panel presented as a contribution-style heatmap to monitor writing streaks and trends."
 
     stats: {
-        downloads:  24952
+        downloads:  25179
         updated_at: 1614264770000
     }
 }

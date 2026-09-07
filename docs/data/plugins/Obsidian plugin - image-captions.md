@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-captions
 alt:
   - https://github.com/alangrainger/obsidian-image-captions
-downloads: 59853
+downloads: 60547
 updated at: "2025-11-16T14:24:44Z"
 related to:
   - "[[GitHub - 585231014]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add captions to images by placing text in wiki-style or Markdown image syntax and render it beneath the image. Resize and align images with width and alignment parameters, include inline Markdown or links in captions, use % to insert the filename, and apply a regex to clean caption text."
 
     stats: {
-        downloads:  59853
+        downloads:  60547
         updated_at: 1763303084000
     }
 }

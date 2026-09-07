@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-uploader-for-note
 alt:
   - https://github.com/yy4382/obsidian-image-upload
-downloads: 524
+downloads: 539
 updated at: "2025-08-19T08:39:06Z"
 related to:
   - "[[GitHub - 877568635]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload local images in the current note to S3 or a custom JS uploader and replace Markdown image links with the uploaded URLs. Remove local image files from the vault when they are only referenced in that note to keep the vault clean."
 
     stats: {
-        downloads:  524
+        downloads:  539
         updated_at: 1755592746000
     }
 }

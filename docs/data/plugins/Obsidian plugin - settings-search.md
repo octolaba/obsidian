@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/settings-search
 alt:
   - https://github.com/javalent/settings-search
-downloads: 216657
+downloads: 220607
 updated at: "2023-10-05T12:36:24Z"
 related to:
   - "[[GitHub - 457375296]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add global search to Obsidian settings to quickly find and jump to specific options. Use keyboard navigation (arrow keys + Enter) to move through results and open a setting, and let plugin authors register dynamic settings via addResources(), removeResources(), and removeTabResources()."
 
     stats: {
-        downloads:  216657
+        downloads:  220607
         updated_at: 1696509384000
     }
 }

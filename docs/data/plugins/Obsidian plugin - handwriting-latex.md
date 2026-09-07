@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/handwriting-latex
 alt:
   - https://github.com/chongcyrus/handwriting-latex
-downloads: 181
+downloads: 313
 updated at: "2026-06-30T16:30:43Z"
 related to:
   - "[[GitHub - 1276476902]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Draw formulas or import images and convert them to LaTeX using OCR. Crop precisely, use an infinite touch-friendly canvas with zoom/pan/rotate, and insert results as inline, display, or raw LaTeX; choose from multiple backends including free SimpleTex, Mathpix, GPT-4o Vision or custom APIs."
 
     stats: {
-        downloads:  181
+        downloads:  313
         updated_at: 1782837043000
     }
 }

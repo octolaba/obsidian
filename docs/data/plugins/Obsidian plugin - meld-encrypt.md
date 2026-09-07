@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/meld-encrypt
 alt:
   - https://github.com/meld-cp/obsidian-encrypt
-downloads: 176562
+downloads: 179246
 updated at: "2025-07-12T12:51:32Z"
 related to:
   - "[[GitHub - 339832022]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Encrypt and decrypt entire notes or selected text directly in your Obsidian vault. Keep decrypted content in memory only so nothing is written to disk or synced. Note that passwords are not stored and cannot be recovered if forgotten."
 
     stats: {
-        downloads:  176562
+        downloads:  179246
         updated_at: 1752324692000
     }
 }

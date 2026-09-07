@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/archive-viewer
 alt:
   - https://github.com/viggomeesters/obsidian-archive-viewer
-downloads: 144
+downloads: 195
 updated at: "2026-06-08T06:54:07Z"
 related to:
   - "[[GitHub - 1262621417]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Inspect .zip archives inside your vault without extracting files by viewing a folder/file tree and a detailed table of ZIP central-directory metadata (path, type, size, compressed size, modified date, compression method, warnings). Filter by path or extension, refresh after external changes, flag suspicious entries (path traversal, absolute/hidden paths, encrypted entries, huge uncompressed sizes, odd compression ratios), and cap listings at 2,000 entries to keep the view responsive and read-only."
 
     stats: {
-        downloads:  144
+        downloads:  195
         updated_at: 1780901647000
     }
 }

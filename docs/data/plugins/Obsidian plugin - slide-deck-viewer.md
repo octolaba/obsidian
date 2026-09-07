@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/slide-deck-viewer
 alt:
   - https://github.com/viggomeesters/obsidian-slide-deck-viewer
-downloads: 289
+downloads: 336
 updated at: "2026-06-14T13:19:43Z"
 related to:
   - "[[GitHub - 1263643446]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open .pptx slide decks in a read-only inspection view inside Obsidian. Inspect slide text, speaker notes, media references, and package diagnostics by parsing the OOXML package locally, with filters and warnings for external links, macros, large or malformed decks."
 
     stats: {
-        downloads:  289
+        downloads:  336
         updated_at: 1781443183000
     }
 }

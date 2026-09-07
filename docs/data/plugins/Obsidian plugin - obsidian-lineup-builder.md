@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-lineup-builder
 alt:
   - https://github.com/james-fallon/obsidian-lineup-builder
-downloads: 3676
+downloads: 3698
 updated at: "2021-11-21T03:00:52Z"
 related to:
   - "[[GitHub - 419145242]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Build football lineups in Obsidian by defining a lineup codeblock with a formation and an ordered list of players. Render SVG pitch visuals in Preview mode using Wikimedia-sourced images repositioned per formation and labeled with player names."
 
     stats: {
-        downloads:  3676
+        downloads:  3698
         updated_at: 1637463652000
     }
 }

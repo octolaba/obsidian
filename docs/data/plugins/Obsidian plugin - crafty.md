@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/crafty
 alt:
   - https://github.com/liolle/Crafty
-downloads: 2807
+downloads: 2898
 updated at: "2026-06-24T06:36:27Z"
 related to:
   - "[[GitHub - 743308997]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Attach tooltips to each canvas node and navigate seamlessly between nodes. Search, sort, and filter node titles, and use commands or hotkeys to move between nodes or toggle the sidebar."
 
     stats: {
-        downloads:  2807
+        downloads:  2898
         updated_at: 1782282987000
     }
 }

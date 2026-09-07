@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/hydrate
 alt:
   - https://github.com/hydrateagent/hydrate
-downloads: 919
-updated at: "2026-07-21T13:21:55Z"
+downloads: 994
+updated at: "2026-08-07T21:50:43Z"
 related to:
   - "[[GitHub - 974982934]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Chat with your notes using AI to get contextual answers, summaries, and discover hidden connections across your vault. Search by meaning, generate outlines and content, and synthesize research to overcome writer's block and refine ideas. Create an account and subscribe to access AI features; connects to remote AI services and collects anonymous analytics."
 
     stats: {
-        downloads:  919
-        updated_at: 1784640115000
+        downloads:  994
+        updated_at: 1786139443000
     }
 }
 ```

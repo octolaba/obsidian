@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/memoria
 alt:
   - https://github.com/i-iooi-i/obsidian-memoria
-downloads: 2575
-updated at: "2026-07-08T15:52:37Z"
+downloads: 3180
+updated at: "2026-08-10T07:35:57Z"
 related to:
   - "[[GitHub - 1224899298]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Capture quick memos as plain Markdown stored in YYYY.md files with time-stamped entries so notes remain readable and grep-able outside Obsidian. Browse a waterfall timeline with pinned items, heatmap sidebar, tag/keyword search and data reports like a 365-day heatmap, monthly charts, top tags and an annual calendar view."
 
     stats: {
-        downloads:  2575
-        updated_at: 1783525957000
+        downloads:  3180
+        updated_at: 1786347357000
     }
 }
 ```

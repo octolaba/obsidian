@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/spherical-knowledge-graph
 alt:
   - https://github.com/ironmind15/spherical-knowledge-graph
-downloads: 22
-updated at: "2026-07-23T06:29:12Z"
+downloads: 139
+updated at: "2026-07-31T05:05:47Z"
 related to:
   - "[[GitHub - 1309483953]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Visualize your vault as a rotatable pseudo‑3D sphere that auto-updates from links and metadata without modifying files. Inspect link direction, type and strength; hover edges for context, find shortest knowledge paths, audit orphans and weak notes, and open nodes in their source notes."
 
     stats: {
-        downloads:  22
-        updated_at: 1784788152000
+        downloads:  139
+        updated_at: 1785474347000
     }
 }
 ```

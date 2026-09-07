@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/order-list
 alt:
   - https://github.com/lizard-heart/obsidian-order-list-plugin
-downloads: 4095
+downloads: 4107
 updated at: "2023-01-15T17:46:47Z"
 related to:
   - "[[GitHub - 541208624]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Order the selected list by the number at the end of each line, working with plain lines or bullet points. Preserve bullets and indentation, move sub-items with their parent, and sort correctly even when trailing numbers are non-integers (fractions or decimals)."
 
     stats: {
-        downloads:  4095
+        downloads:  4107
         updated_at: 1673804807000
     }
 }

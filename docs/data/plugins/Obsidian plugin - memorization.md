@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/memorization
 alt:
   - https://github.com/nwindian/Memorization-Plugin
-downloads: 4965
+downloads: 4979
 updated at: "2023-06-22T16:24:42Z"
 related to:
   - "[[GitHub - 651225229]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Study tagged notes with a SuperMemo-2 spaced repetition engine (Anki-style). Generate flashcards from a tag, review cards in sequence, and optionally create or remove memorization notes as you go."
 
     stats: {
-        downloads:  4965
+        downloads:  4979
         updated_at: 1687451082000
     }
 }

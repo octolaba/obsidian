@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/flashcard-learning
 alt:
   - https://github.com/gaetanmuck/obsidian-flashcard-learning
-downloads: 6020
+downloads: 6033
 updated at: "2024-08-13T11:17:18Z"
 related to:
   - "[[GitHub - 611306635]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and manage flashcards with clear expectation descriptions so each prompt shows exactly what's expected on the answer. Review cards multiple times per day or pause and resume long sessions without losing progress. Show unknown cards every session and reduce frequency for well-known cards while adding new cards after reviews."
 
     stats: {
-        downloads:  6020
+        downloads:  6033
         updated_at: 1723547838000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-autolink
 alt:
   - https://github.com/abgmgp/obsidian-simple-autolink
-downloads: 410
+downloads: 599
 updated at: "2026-06-10T16:09:39Z"
 related to:
   - "[[GitHub - 1261121966]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert matching words into wiki links as you edit, using smart, case-insensitive matching that respects word boundaries and optional base-word (plural) mapping. Skip code blocks, inline code, frontmatter and math, and optionally skip headings and tables. Map multiple aliases with a masterlist that backfills frontmatter, restrict scanning with include/exclude folders, and run on desktop and mobile."
 
     stats: {
-        downloads:  410
+        downloads:  599
         updated_at: 1781107779000
     }
 }

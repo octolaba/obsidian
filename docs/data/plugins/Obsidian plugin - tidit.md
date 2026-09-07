@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/tidit
 alt:
   - https://github.com/codingthings-com/tidit-obsidian
-downloads: 1260
+downloads: 1281
 updated at: "2026-02-23T06:14:30Z"
 related to:
   - "[[GitHub - 936960201]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Insert timestamps into notes as you type or on demand at the cursor position. Customize datetime formats using Day.js format tokens and trigger quick inserts via the Obsidian command palette."
 
     stats: {
-        downloads:  1260
+        downloads:  1281
         updated_at: 1771827270000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ical-task-sync
 alt:
   - https://github.com/skyleret/obsidian-ical-task-sync
-downloads: 116
+downloads: 123
 updated at: "2026-06-01T00:10:21Z"
 related to:
   - "[[GitHub - 1199516085]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync iCal events into a Tasks header as Markdown checkboxes with optional links and date tags. Keep manual tasks and indented sub-tasks intact, prevent duplicate re-adds with a local manifest, and fetch events directly from any iCal URL."
 
     stats: {
-        downloads:  116
+        downloads:  123
         updated_at: 1780272621000
     }
 }

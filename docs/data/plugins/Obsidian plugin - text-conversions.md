@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/text-conversions
 alt:
   - https://github.com/ironsigma/obsidian-text-conversions
-downloads: 3490
+downloads: 3506
 updated at: "2023-09-05T21:59:06Z"
 related to:
   - "[[GitHub - 687709702]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert selected text between cases; encode/decode with ROT13, Base64, or URL; strip non-alphanumeric characters (except spaces); and adjust spaces, underscores, or dashes. Generate hashtags, add spaces between characters, reverse text or words, and convert between comma-separated items and lists."
 
     stats: {
-        downloads:  3490
+        downloads:  3506
         updated_at: 1693951146000
     }
 }

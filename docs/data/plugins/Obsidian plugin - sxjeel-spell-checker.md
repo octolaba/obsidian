@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sxjeel-spell-checker
 alt:
   - https://github.com/sajee05/sxjeel-spell-checker
-downloads: 223
+downloads: 318
 updated at: "2026-06-01T20:58:45Z"
 related to:
   - "[[GitHub - 1256423087]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Catch typos instantly with an offline, fast spell checker that scans only the words visible on screen to avoid lag and battery drain. Right-click underlined words to see top suggestions and replace them with one click. Add dictionary files or personal words to stop flagging specialized terms."
 
     stats: {
-        downloads:  223
+        downloads:  318
         updated_at: 1780347525000
     }
 }

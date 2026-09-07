@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/getlava
 alt:
   - https://github.com/itipo/lava-plugin
-downloads: 9
-updated at: "2026-07-21T17:08:55Z"
+downloads: 53
+updated at: "2026-08-09T12:25:13Z"
 related to:
   - "[[GitHub - 1303102912]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Chat with AI models directly inside your vault and store conversations alongside your notes. Mention notes with @ to include their content in assistant responses while keeping the assistant read-only to your files."
 
     stats: {
-        downloads:  9
-        updated_at: 1784653735000
+        downloads:  53
+        updated_at: 1786278313000
     }
 }
 ```

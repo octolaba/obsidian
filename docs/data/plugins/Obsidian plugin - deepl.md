@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/deepl
 alt:
   - https://github.com/friebetill/obsidian-deepl
-downloads: 21576
+downloads: 21932
 updated at: "2024-02-15T06:51:39Z"
 related to:
   - "[[GitHub - 559629591]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Translate selected text in Obsidian with DeepL, choosing source and target languages via a suggestion modal. Replace or append translations to the selection and use a DeepL API key; note that texts are sent to DeepL for processing."
 
     stats: {
-        downloads:  21576
+        downloads:  21932
         updated_at: 1707979899000
     }
 }

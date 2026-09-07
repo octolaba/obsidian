@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/social-archiver
 alt:
   - https://github.com/hyungyunlim/obsidian-social-archiver-releases
-downloads: 27549
-updated at: "2026-07-22T03:53:13Z"
+downloads: 29843
+updated at: "2026-08-09T01:19:17Z"
 related to:
   - "[[GitHub - 1094039231]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Archive social media posts into your Obsidian vault as formatted Markdown notes, preserving media, transcripts, and metadata for permanent, searchable storage. Browse a timeline view, run background processing with live progress, optionally publish public timelines, and keep data local by default."
 
     stats: {
-        downloads:  27549
-        updated_at: 1784692393000
+        downloads:  29843
+        updated_at: 1786238357000
     }
 }
 ```

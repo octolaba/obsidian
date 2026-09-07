@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-prominent-starred-files
 alt:
   - https://github.com/javalent/prominent-files
-downloads: 11210
+downloads: 11256
 updated at: "2023-04-26T13:10:28Z"
 related to:
   - "[[GitHub - 351164958]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight bookmarked files in the Obsidian File Explorer to make important notes more prominent and easier to find. Requires the Files and Bookmarks core plugins."
 
     stats: {
-        downloads:  11210
+        downloads:  11256
         updated_at: 1682514628000
     }
 }

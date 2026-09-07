@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/omni-viewer
 alt:
   - https://github.com/battlecook/omni-viewer-obsidian
-downloads: 337
-updated at: "2026-07-22T20:14:09Z"
+downloads: 1054
+updated at: "2026-08-07T12:26:17Z"
 related to:
   - "[[GitHub - 1241418680]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "View and edit dozens of file types directly inside Obsidian—archives, audio, video, images, spreadsheets, PDFs, GIS, automotive logs, and many data formats. Use a waveform/spectrogram audio player, image editor with filters/annotations, PDF editor (annotate/merge/save), CSV editor that writes back, content-signature rerouting, and file sharing."
 
     stats: {
-        downloads:  337
-        updated_at: 1784751249000
+        downloads:  1054
+        updated_at: 1786105577000
     }
 }
 ```

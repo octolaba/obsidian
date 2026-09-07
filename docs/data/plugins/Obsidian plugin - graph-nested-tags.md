@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graph-nested-tags
 alt:
   - https://github.com/drpilman/obsidian-graph-nested-tags
-downloads: 19354
+downloads: 19578
 updated at: "2025-06-25T14:56:42Z"
 related to:
   - "[[GitHub - 685274222]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Link nested tags in the graph view by connecting sub-tags to their parent tags. Render hierarchical tag relationships so nested tags appear as connected nodes in Obsidian's graph."
 
     stats: {
-        downloads:  19354
+        downloads:  19578
         updated_at: 1750863402000
     }
 }

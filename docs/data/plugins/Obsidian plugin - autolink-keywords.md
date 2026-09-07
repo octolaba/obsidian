@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/autolink-keywords
 alt:
   - https://github.com/polygonhunter/linkosaurus
-downloads: 908
-updated at: "2026-07-23T10:37:01Z"
+downloads: 1730
+updated at: "2026-08-04T12:25:00Z"
 related to:
   - "[[GitHub - 1247565373]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create wikilinks automatically as you type, dictate, or paste to keep your writing flow uninterrupted on desktop and mobile. Recognize multi-word keywords, frontmatter aliases and alias-mapping (///), and scan your vault to turn note titles and aliases into instant wikilinks."
 
     stats: {
-        downloads:  908
-        updated_at: 1784803021000
+        downloads:  1730
+        updated_at: 1785846300000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bibdesk-integration
 alt:
   - https://github.com/alberti42/obsidian-bibdesk-integration
-downloads: 1016
+downloads: 1230
 updated at: "2026-02-21T20:17:26Z"
 related to:
   - "[[GitHub - 844583473]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Integrate BibTeX libraries with PDF++ to manage and open PDFs linked to bibliography entries directly from Obsidian. Parse large external BibTeX files on a background thread for instant UI responsiveness, watch for file changes, and resolve BibDesk macOS bookmarks to access files after renaming or moving."
 
     stats: {
-        downloads:  1016
+        downloads:  1230
         updated_at: 1771705046000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/todoist-text
 alt:
   - https://github.com/wesmoncrief/obsidian-todoist-text
-downloads: 17456
+downloads: 17532
 updated at: "2026-04-01T15:16:33Z"
 related to:
   - "[[GitHub - 455953329]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert Todoist tasks as Markdown checkboxes by replacing configurable keywords with filtered task lists, either manually or automatically. Toggle a checkbox to complete the task in Todoist and update the file, and map multiple keywords to different filters for templates or projects."
 
     stats: {
-        downloads:  17456
+        downloads:  17532
         updated_at: 1775056593000
     }
 }

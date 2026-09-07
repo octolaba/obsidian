@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mrj-text-expand
 alt:
   - https://github.com/mrjackphil/obsidian-text-expand
-downloads: 37764
+downloads: 38343
 updated at: "2025-04-04T15:05:39Z"
 related to:
   - "[[GitHub - 307895327]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search files with Obsidian search and paste the results directly into your note using expander code blocks. Customize output with eta or legacy templates and access file data via the it object (it.current, it.files, frontmatter, links, headings, etc.)."
 
     stats: {
-        downloads:  37764
+        downloads:  38343
         updated_at: 1743779139000
     }
 }

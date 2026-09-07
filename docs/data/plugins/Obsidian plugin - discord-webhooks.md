@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/discord-webhooks
 alt:
   - https://github.com/ratokuzmanic/obsidian-discord-webhooks
-downloads: 316
+downloads: 349
 updated at: "2026-06-06T12:35:16Z"
 related to:
   - "[[GitHub - 1109935691]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save multiple Discord webhooks for reuse and pick a default to send selected text directly from the editor or preview. Create, edit, and send preset messages (including rich embed JSON) through any saved webhook and expose one-command-per-message commands for quick sending."
 
     stats: {
-        downloads:  316
+        downloads:  349
         updated_at: 1780749316000
     }
 }

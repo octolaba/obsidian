@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-status
 alt:
   - https://github.com/devonthesofa/obsidian-note-status
-downloads: 4255
+downloads: 4353
 updated at: "2026-06-04T17:46:03Z"
 related to:
   - "[[GitHub - 959875601]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track the lifecycle of files in your vault with customizable statuses that work on both Markdown and non‑Markdown files. Show and change statuses from the status bar, editor toolbar, explorer, and commands; use templates, multi‑status workflows, explorer icons, and dashboards for vault‑wide visibility and quick actions."
 
     stats: {
-        downloads:  4255
+        downloads:  4353
         updated_at: 1780595163000
     }
 }

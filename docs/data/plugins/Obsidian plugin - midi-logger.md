@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/midi-logger
 alt:
   - https://github.com/maybe-hello-world/midi-logger
-downloads: 1083
+downloads: 1117
 updated at: "2024-06-06T00:48:10Z"
 related to:
   - "[[GitHub - 807978706]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture live MIDI input and insert played notes directly into the editor. Output notes as raw MIDI codes, scientific pitch notation, or ABC notation, and render ABC output with the ABC Music Notation plugin."
 
     stats: {
-        downloads:  1083
+        downloads:  1117
         updated_at: 1717634890000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/music-code-blocks
 alt:
   - https://github.com/abcjs-music/obsidian-plugin-abcjs
-downloads: 30863
+downloads: 31680
 updated at: "2026-06-19T06:28:02Z"
 related to:
   - "[[GitHub - 314821681]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render ABC music notation from abc code blocks with the abcjs library, including multi-voice scores, tablature, clefs, swing feel and MIDI playback. Pass inline JSON at the top of code blocks to customize rendering options."
 
     stats: {
-        downloads:  30863
+        downloads:  31680
         updated_at: 1781850482000
     }
 }

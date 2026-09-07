@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ctrl-scroll-zoom
 alt:
   - https://github.com/hata-suriiken/obsidian-ctrl-scroll-zoom
-downloads: 817
+downloads: 1365
 updated at: "2026-07-20T09:42:34Z"
 related to:
   - "[[GitHub - 1268665940]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Zoom the entire Obsidian window with Ctrl + mouse wheel or trackpad pinch, scaling UI and note text together. Persist zoom levels across restarts, show a clickable status-bar percentage to reset, and provide commands to zoom in, out, or reset."
 
     stats: {
-        downloads:  817
+        downloads:  1365
         updated_at: 1784540554000
     }
 }

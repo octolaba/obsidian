@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/bojubot
 alt:
   - https://github.com/scottkirvan/BojuBot
-downloads: 7396
-updated at: "2026-07-16T03:36:56Z"
+downloads: 8194
+updated at: "2026-07-27T07:18:10Z"
 related to:
   - "[[GitHub - 1170157734]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Turn Obsidian into a tool that reaches beyond PKM, notetaking, storage, and organization. Safely extend it to match how you think, and what you do. You're in control and everything happens using regular, conversational language — write, plan, build custom commands, even develop Obsidian plugins — without leaving Obsidian."
 
     stats: {
-        downloads:  7396
-        updated_at: 1784173016000
+        downloads:  8194
+        updated_at: 1785136690000
     }
 }
 ```

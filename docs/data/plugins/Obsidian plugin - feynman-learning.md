@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/feynman-learning
 alt:
   - https://github.com/jialingxiao/obsidian-feynman-learning
-downloads: 454
+downloads: 624
 updated at: "2026-05-18T10:18:17Z"
 related to:
   - "[[GitHub - 1231500338]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Learn with the Feynman Technique through a guided four-step workflow that uses AI to create simple explanations, expose gaps, and refine understanding. Extract and queue concepts, run AI quizzes, get three-dimension scoring and targeted weak-point drills, and track mastery with spaced repetition and a dashboard."
 
     stats: {
-        downloads:  454
+        downloads:  624
         updated_at: 1779099497000
     }
 }

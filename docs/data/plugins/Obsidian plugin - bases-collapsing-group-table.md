@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bases-collapsing-group-table
 alt:
   - https://github.com/ghyatt/bases-collapsing-group-table
-downloads: 876
+downloads: 1014
 updated at: "2026-07-02T22:20:06Z"
 related to:
   - "[[GitHub - 1274396050]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn grouped Bases Table or Card results into a collapsible tree with foldable group headers and inline row editing. Support nested slash-delimited categories or multiple groupBy properties, accordion mode, expand/collapse-all controls, and preserve Base view columns, sorting and filtering, and badge properties on Card view. Makes it its easy to handle MOCs and media library notes."
 
     stats: {
-        downloads:  876
+        downloads:  1014
         updated_at: 1783030806000
     }
 }

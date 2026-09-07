@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/aside
 alt:
   - https://github.com/vicky469/aside
-downloads: 1191
-updated at: "2026-07-23T06:16:39Z"
+downloads: 1404
+updated at: "2026-08-01T14:24:40Z"
 related to:
   - "[[GitHub - 1209902924]]"
 remind me:
@@ -36,8 +36,8 @@ plugin: {
     description: "Side comments for humans and agents. - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  1191
-        updated_at: 1784787399000
+        downloads:  1404
+        updated_at: 1785594280000
     }
 }
 ```

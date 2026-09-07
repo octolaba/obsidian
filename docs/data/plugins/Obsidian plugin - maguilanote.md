@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/maguilanote
 alt:
   - https://github.com/is-cout/maguilanote-obsidian
-downloads: 245
+downloads: 644
 updated at: "2026-07-12T22:55:38Z"
 related to:
   - "[[GitHub - 1292153952]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create Milanote-style visual boards in your Obsidian vault on an infinite canvas with notes, images, links, files, to-dos and nested boards. Draw and sketch, connect cards with arrows or smart-routed lines, record audio and transcribe with OpenAI Whisper, and save each board as a local .board file."
 
     stats: {
-        downloads:  245
+        downloads:  644
         updated_at: 1783896938000
     }
 }

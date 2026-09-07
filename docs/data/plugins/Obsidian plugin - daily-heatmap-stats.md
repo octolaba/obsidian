@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-heatmap-stats
 alt:
   - https://github.com/xsixteen/obsidian-daily-heatmap
-downloads: 306
+downloads: 592
 updated at: "2026-05-22T15:15:53Z"
 related to:
   - "[[GitHub - 1148510577]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track today's word count live in the bottom-right corner and view a GitHub-style contribution heatmap in the right panel. Set a daily writing goal and review your total words across the past year."
 
     stats: {
-        downloads:  306
+        downloads:  592
         updated_at: 1779462953000
     }
 }

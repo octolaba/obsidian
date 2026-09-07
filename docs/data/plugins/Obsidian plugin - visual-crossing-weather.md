@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/visual-crossing-weather
 alt:
   - https://github.com/willasm/vc-weather
-downloads: 8059
+downloads: 8203
 updated at: "2026-07-07T03:31:38Z"
 related to:
   - "[[GitHub - 854367867]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Get weather data for up to five locations from Visual Crossing, including current conditions, forecasts, and alerts. Display weather in the status bar with customizable template strings and CSS, cycle two templates, and insert detailed weather tables or modals into notes and daily templates."
 
     stats: {
-        downloads:  8059
+        downloads:  8203
         updated_at: 1783395098000
     }
 }

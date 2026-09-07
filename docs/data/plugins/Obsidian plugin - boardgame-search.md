@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/boardgame-search
 alt:
   - https://github.com/marlon154/boardgame-search
-downloads: 1193
+downloads: 1225
 updated at: "2026-02-16T20:52:53Z"
 related to:
   - "[[GitHub - 902294512]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search and import games from BoardGameGeek into your vault, creating entries with metadata, categories, mechanics and cover images in multiple resolutions. Track play sessions with players, winners, playtime and notes, and customize file and image settings. Add a BoardGameGeek API key to enable the plugin."
 
     stats: {
-        downloads:  1193
+        downloads:  1225
         updated_at: 1771275173000
     }
 }

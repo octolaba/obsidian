@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/heic-viewer
 alt:
   - https://github.com/kiaraorq/heic-viewer
-downloads: 592
+downloads: 798
 updated at: "2026-07-11T07:57:49Z"
 related to:
   - "[[GitHub - 1243742008]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert HEIC and HEIF images to JPEG on the fly using a WebAssembly decoder and render them inline so embeds display like standard images. Load and decode images lazily as you scroll to avoid freezes, and perform all conversions locally in memory with no uploads or disk cache."
 
     stats: {
-        downloads:  592
+        downloads:  798
         updated_at: 1783756669000
     }
 }

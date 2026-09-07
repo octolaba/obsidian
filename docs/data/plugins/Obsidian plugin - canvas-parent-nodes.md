@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-parent-nodes
 alt:
   - https://github.com/tommyroy776/obsidian-canvas-parent-nodes
-downloads: 90
+downloads: 102
 updated at: "2026-07-02T01:53:56Z"
 related to:
   - "[[GitHub - 1170373585]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display all parent nodes for the current Canvas in a right-hand sidebar and click node titles to jump to their parent nodes. Adjust the visible node title length in settings for cleaner lists."
 
     stats: {
-        downloads:  90
+        downloads:  102
         updated_at: 1782957236000
     }
 }

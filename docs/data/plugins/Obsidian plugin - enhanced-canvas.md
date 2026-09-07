@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/enhanced-canvas
 alt:
   - https://github.com/robertttbs/obsidian-enhanced-canvas
-downloads: 17069
+downloads: 20410
 updated at: "2026-06-18T00:46:40Z"
 related to:
   - "[[GitHub - 915230259]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Split nodes by headings to turn a note into a hierarchical Canvas tree, and send notes to a Canvas to add a canvas property and set a selected Canvas for quick batch adds. Auto-resize nodes as you edit, add edge properties named after the canvas file, and click .canvas links to focus and zoom the linked node."
 
     stats: {
-        downloads:  17069
+        downloads:  20410
         updated_at: 1781743600000
     }
 }

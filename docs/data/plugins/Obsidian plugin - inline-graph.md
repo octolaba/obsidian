@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/inline-graph
 alt:
   - https://github.com/svm0n/obsidian-inline-graph
-downloads: 20
+downloads: 37
 updated at: "2026-07-18T04:29:51Z"
 related to:
   - "[[GitHub - 1304591542]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render interactive, force-directed node graphs inline from a simple gr fenced code block. Display animated, draggable, labeled and colored nodes with hover tooltips, support directed or undirected edges, and apply theme-aware styling that works on mobile with zero dependencies."
 
     stats: {
-        downloads:  20
+        downloads:  37
         updated_at: 1784348991000
     }
 }

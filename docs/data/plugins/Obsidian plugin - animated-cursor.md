@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/animated-cursor
 alt:
   - https://github.com/kotaindah55/animated-cursor
-downloads: 5465
-updated at: "2025-07-21T11:33:21Z"
+downloads: 6059
+updated at: "2026-07-25T12:42:52Z"
 related to:
   - "[[GitHub - 958574927]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add smooth movement and blink animations to the Obsidian cursor, preserving native behavior for consistent multi-cursor, hover-preview, and canvas support."
 
     stats: {
-        downloads:  5465
-        updated_at: 1753097601000
+        downloads:  6059
+        updated_at: 1784983372000
     }
 }
 ```

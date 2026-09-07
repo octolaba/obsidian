@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-note-plus
 alt:
   - https://github.com/o1xhack/obsidian-daily-note-plus
-downloads: 144
+downloads: 217
 updated at: "2026-07-17T01:02:26Z"
 related to:
   - "[[GitHub - 1237302737]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create missing daily notes across a selected date range without opening each day. Use your configured Daily Notes/Periodic Notes folder, format, and template and detect nested paths (e.g. YYYY/MM/DD or YYYY/YYYY.MM.DD) to backfill only truly missing dates with optional startup automation."
 
     stats: {
-        downloads:  144
+        downloads:  217
         updated_at: 1784250146000
     }
 }

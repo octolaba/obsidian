@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/asciinema-player
 alt:
   - https://github.com/deeplook/obsidian-asciinema-player
-downloads: 343
+downloads: 358
 updated at: "2026-05-16T11:00:51Z"
 related to:
   - "[[GitHub - 1073466630]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed Asciinema terminal recordings (.cast) into Markdown notes and render them with an interactive player UI. Play local or remote casts with in-note playback controls and seek support for replaying demos."
 
     stats: {
-        downloads:  343
+        downloads:  358
         updated_at: 1778929251000
     }
 }

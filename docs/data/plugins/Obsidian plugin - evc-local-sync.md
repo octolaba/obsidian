@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/evc-local-sync
 alt:
   - https://github.com/entire-vc/evc-local-sync-plugin
-downloads: 917
+downloads: 981
 updated at: "2026-06-29T22:43:58Z"
 related to:
   - "[[GitHub - 1145961573]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Local Sync keeps a chosen vault folder and an external project's documentation folder (for example a repository's docs directory) continuously mirrored in both directions, on your own machine, with no cloud account required. It is built for AI-assisted coding workflows. When a coding assistant such as Cursor, Claude Code, or Copilot writes or edits documentation inside a project, those changes appear in your notes automatically; when you refine specifications in your notes, the project's docs are updated in step. This stops documentation from drifting out of date and removes the manual copy-paste that usually keeps the two in sync. Sync is local-first and bidirectional: files move directly between the two folders on disk, so it works offline and your content never leaves your device. You choose which folders are paired, and edits on either side propagate to the other."
 
     stats: {
-        downloads:  917
+        downloads:  981
         updated_at: 1782773038000
     }
 }

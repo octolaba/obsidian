@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-sidebar
 alt:
   - https://github.com/0xatrilla/AI-Sidebar
-downloads: 184
+downloads: 192
 updated at: "2026-04-29T14:47:49Z"
 related to:
   - "[[GitHub - 1224527331]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a right-sidebar AI assistant panel to Obsidian. Connect local CLI agents or OpenAI-compatible and OAuth providers, pull relevant vault context (active note, selection, links, backlinks, Bases files, search matches), run slash-command skills, keep optional conversation memory, and control vault write actions with Read/Confirm/Full modes."
 
     stats: {
-        downloads:  184
+        downloads:  192
         updated_at: 1777474069000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/airtable-tabula
 alt:
   - https://github.com/mehulg/airtable-tabula
-downloads: 77
+downloads: 155
 updated at: "2026-07-11T16:51:34Z"
 related to:
   - "[[GitHub - 1297529355]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Airtable Tabula gives you airtable-style tables inside Obsidian without leaving your vault. Import a CSV or Excel file and get a working table in one step, or create one from scratch. Edit like a small database: typed columns, colored single/multi selects, search, filters, sorting, grouping, and a compact query bar when you want to move fast. Everything stays local as plain JSON (.tabula files), so it works offline and plays nice with git. Already using Airtable? You can optionally link a table and pull/push with a personal access token. Sync is opt-in, the plugin is useful on its own. Built for people who want structured data next to their notes, not another cloud tab."
 
     stats: {
-        downloads:  77
+        downloads:  155
         updated_at: 1783788694000
     }
 }

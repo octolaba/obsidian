@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-simple-mention
 alt:
   - https://github.com/der-tobi/obsidian-simple-mention
-downloads: 6329
+downloads: 6349
 updated at: "2023-05-24T19:16:38Z"
 related to:
   - "[[GitHub - 472930683]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight mentions while you write and suggest existing matches using a customizable trigger prefix (default @), ignoring code blocks. Open a side pane to list all occurrences and jump to the corresponding line in the note. Color-code your personal mentions separately and filter mentions by phrase."
 
     stats: {
-        downloads:  6329
+        downloads:  6349
         updated_at: 1684955798000
     }
 }

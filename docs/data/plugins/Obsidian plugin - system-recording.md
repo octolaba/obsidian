@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/system-recording
 alt:
   - https://github.com/yut0takagi/obsidian-system-recording
-downloads: 138
+downloads: 153
 updated at: "2026-06-18T05:51:46Z"
 related to:
   - "[[GitHub - 1202692083]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Record macOS system audio (Zoom/Meet/Teams) and microphone simultaneously and save M4A (AAC) files directly into your Vault. Control recordings from a ribbon button or command palette, view elapsed time in the status bar, and auto-insert a link to the file into the current note upon completion."
 
     stats: {
-        downloads:  138
+        downloads:  153
         updated_at: 1781761906000
     }
 }

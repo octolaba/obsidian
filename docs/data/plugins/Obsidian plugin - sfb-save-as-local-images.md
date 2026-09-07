@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sfb-save-as-local-images
 alt:
   - https://github.com/saltyfireball/obsidian-save-as-local-images
-downloads: 535
+downloads: 676
 updated at: "2026-05-18T18:10:47Z"
 related to:
   - "[[GitHub - 1182564106]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Download remote images in the current note and save them to your vault's attachment folder organized by the note's path. Rewrite Markdown, HTML, and wiki embed URLs to local files with unique ID filenames and content-type–based extensions, and report progress plus individual download errors."
 
     stats: {
-        downloads:  535
+        downloads:  676
         updated_at: 1779127847000
     }
 }

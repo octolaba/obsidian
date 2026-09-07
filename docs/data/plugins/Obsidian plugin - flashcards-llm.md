@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/flashcards-llm
 alt:
   - https://github.com/crybot/obsidian-flashcards-llm
-downloads: 8567
+downloads: 8615
 updated at: "2025-07-07T15:24:52Z"
 related to:
   - "[[GitHub - 645740486]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate flashcards from any note or selection using OpenAI models, including GPT-3.5, GPT-4 and reasoning models. Customize prompts, quantity, separators and tags, and append flashcards inline or as blockquoted entries for easy review and spaced repetition."
 
     stats: {
-        downloads:  8567
+        downloads:  8615
         updated_at: 1751901892000
     }
 }

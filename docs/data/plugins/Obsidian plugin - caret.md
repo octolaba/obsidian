@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/caret
 alt:
   - https://github.com/jcollingj/caret
-downloads: 8807
+downloads: 8962
 updated at: "2025-10-23T14:32:31Z"
 related to:
   - "[[GitHub - 797804133]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bring LLMs into your Obsidian vault with chat and an AI Canvas, saving all generated content as local Markdown files. Chat with context from other notes and run local or remote models via Caret OP (supports Ollama, OpenAI, Anthropic, Groq, OpenRouter, and custom models)."
 
     stats: {
-        downloads:  8807
+        downloads:  8962
         updated_at: 1761229951000
     }
 }

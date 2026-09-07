@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/swipe-words
 alt:
   - https://github.com/leafchage/swipe-words
-downloads: 20
-updated at: "2026-07-22T06:05:13Z"
+downloads: 63
+updated at: "2026-07-31T11:27:51Z"
 related to:
   - "[[GitHub - 1233994133]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Turn a folder of notes into Tinder-style flashcards and swipe or tap through them. Flip cards to reveal answers and rate Again / Hard / Good / Easy to schedule reviews with SM-2 spaced repetition while the plugin records due, interval, and ease in frontmatter."
 
     stats: {
-        downloads:  20
-        updated_at: 1784700313000
+        downloads:  63
+        updated_at: 1785497271000
     }
 }
 ```

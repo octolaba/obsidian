@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bamboo
 alt:
   - https://github.com/aaaaalexis/obsidian-bamboo
-downloads: 136
+downloads: 155
 updated at: "2026-02-21T11:34:46Z"
 related to:
   - "[[GitHub - 1163194303]]"
@@ -36,7 +36,7 @@ plugin: {
     description: "Enable proper word selection for Chinese, Japanese, and Korean (CJK) text. - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  136
+        downloads:  155
         updated_at: 1771673686000
     }
 }

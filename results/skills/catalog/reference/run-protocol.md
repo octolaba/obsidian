@@ -106,6 +106,12 @@ notes moved. Reconciliation therefore covers `Dump` and `Drop`.
    queued exactly when the note is missing or a recorded input — About *or* the upstream
    `description` — moved. Evidence and the queue land in the cache. `--dry-run` prints the
    selection and its planned cost and issues no request.
+
+   **The "ordinary refresh rotation" this selection defers to does not exist yet.** Capture visits
+   what the pin diff and the standing lines name, and nothing else; no stage revisits an entity whose
+   index row has not moved. Every mention of rotation here and in the skill describes intended
+   behaviour. Until it is built, About, screenshot verdicts and README shas age silently, and their
+   age is not measured.
 3. **Agent pass.** Subagents receive the recorded inputs for a batch and return one body per
    queued task into a bodies file. They never touch disk or the state file.
 4. **Render** (`--stage render`) — offline and mechanical, and the one path that writes a note.
@@ -166,10 +172,11 @@ notes moved. Reconciliation therefore covers `Dump` and `Drop`.
 The human reviews the working-tree diff — notes, state file, receipt — and commits. The agent
 never commits.
 
-The archive-aware gate is the target contract, not current script capability: the gate still scans
-only the live class homes under `--catalog-root`, so it cannot yet prove archive closure,
-live/archive coverage, or the recorded bytes of an archived note. The move itself is the archive
-step's, never a hand edit.
+Given `--archive-root` the gate scans both homes: it proves live-and-archive coverage in each
+direction, closes every archived component, and checks each archived note's bytes against the sha256
+its move recorded in a receipt. Given `--catalog-root` alone it prints `coverage: not checked` rather
+than guessing, because an index row whose note was archived and one whose note was never written are
+indistinguishable from the live tree. The move itself is the archive step's, never a hand edit.
 
 Repository loss is not inferred from a single ambiguous request. A known repository first misses
 in the normal GraphQL `owner/name` capture, then REST `GET /repositories/{databaseId}` decides in
@@ -212,6 +219,11 @@ for 1 point. At 40 the API answers HTTP 200 with an empty body, which the client
 captured repository — decision 3.8) and counts against the separate
 5,000-per-hour REST budget, so a full-catalog refresh spans budget windows; the worklist's
 unchecked items make the pause a resume, not a loss.
+
+**Measured, 2026-08-15.** One Update Run over a catalog of 14,554 live notes spent 32 batched
+GraphQL requests (32 points, 639 repositories), 638 REST `/readme` calls, 700 Directory pages and 40
+screenshot probes — 740 requests against the Directory host in total. 5,935 existing notes were
+point-edited offline in the same run with no request attributable to any of them.
 
 Repository capture is lookup-first: a repository already in the catalog costs no call. A
 **template migration is the exception**, because the note's data block is rendered from the

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/one-file
 alt:
   - https://github.com/rcanand/obsidian-one-file
-downloads: 105
+downloads: 175
 updated at: "2026-06-29T22:57:56Z"
 related to:
   - "[[GitHub - 1284420492]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit any Markdown file on your computer from inside Obsidian and write changes directly to the original file, avoiding duplicates or syncing. Create persistent vault links that mirror original disk paths for instant reopening, open files via a native picker or path, and toggle a distraction-free focus mode that hides sidebars, tabs, ribbon, and status bar. Use on desktop only."
 
     stats: {
-        downloads:  105
+        downloads:  175
         updated_at: 1782773876000
     }
 }

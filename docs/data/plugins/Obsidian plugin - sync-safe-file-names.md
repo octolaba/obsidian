@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sync-safe-file-names
 alt:
   - https://github.com/j-maas/sync-safe-file-names
-downloads: 678
+downloads: 718
 updated at: "2026-05-14T08:20:22Z"
 related to:
   - "[[GitHub - 1038510595]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Rename files to only use sync-safe characters by replacing unsafe characters with hyphens, e.g., \"Invalid?.md\" → \"Invalid-.md\". Sanitize newly created or renamed files automatically and generate a report of unsafe filenames before applying changes; never overwrite existing files."
 
     stats: {
-        downloads:  678
+        downloads:  718
         updated_at: 1778746822000
     }
 }

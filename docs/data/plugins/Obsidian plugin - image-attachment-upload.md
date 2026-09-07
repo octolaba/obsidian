@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-attachment-upload
 alt:
   - https://github.com/rocketbang/obsidian-image-attachment-upload
-downloads: 36
+downloads: 60
 updated at: "2026-07-11T04:26:15Z"
 related to:
   - "[[GitHub - 1296982782]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Pick an image from your device and upload it directly to a Cloudflare R2 bucket with on-device signing for desktop and mobile. Insert the uploaded file as an inline Markdown embed or set it as the note's image frontmatter property, using path templates and short random suffixes to avoid collisions."
 
     stats: {
-        downloads:  36
+        downloads:  60
         updated_at: 1783743975000
     }
 }

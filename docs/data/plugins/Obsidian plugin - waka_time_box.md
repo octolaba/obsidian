@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/waka_time_box
 alt:
   - https://github.com/simonla/obsidian_waka_box
-downloads: 4003
+downloads: 4013
 updated at: "2023-08-16T17:43:24Z"
 related to:
   - "[[GitHub - 677762666]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display WakaTime coding stats at the top of your daily notes. Fetch stats hourly by default and refresh the existing entry instead of inserting duplicates; force an immediate refresh from the command palette."
 
     stats: {
-        downloads:  4003
+        downloads:  4013
         updated_at: 1692207804000
     }
 }

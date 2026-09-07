@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/editor-width-slider
 alt:
   - https://github.com/mugishomp/obsidian-editor-width-slider
-downloads: 80361
+downloads: 82697
 updated at: "2023-10-18T09:49:22Z"
 related to:
   - "[[GitHub - 666525851]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Adjust editor line width with a simple status bar slider for real-time control. Set per-file widths by adding an editor-width field (0–100) in a note’s YAML frontmatter to apply a percentage of the viewport width."
 
     stats: {
-        downloads:  80361
+        downloads:  82697
         updated_at: 1697622562000
     }
 }

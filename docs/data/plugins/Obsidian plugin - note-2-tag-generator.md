@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-2-tag-generator
 alt:
   - https://github.com/augustin7698/note-2-tag-generator
-downloads: 2633
+downloads: 2646
 updated at: "2024-07-17T08:23:15Z"
 related to:
   - "[[GitHub - 829884357]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate tags from a note's full content with no setup required. Add generated tags automatically to the current note, remove similar duplicates, support multiple languages, and process content without storing note data."
 
     stats: {
-        downloads:  2633
+        downloads:  2646
         updated_at: 1721204595000
     }
 }

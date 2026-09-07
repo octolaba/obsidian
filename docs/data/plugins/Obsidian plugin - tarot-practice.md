@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tarot-practice
 alt:
   - https://github.com/w8s/obsidian-tarot-practice
-downloads: 428
+downloads: 464
 updated at: "2026-06-04T00:01:34Z"
 related to:
   - "[[GitHub - 1131927665]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Draw daily or inline readings seeded by your intention and the exact moment to make each draw feel participatory. Manage multi-decks (tarot, runes, Lenormand, I Ching, playing cards or custom), display card images, create and share built or custom spreads, track draw history with stats, and export readings as JSON/CSV."
 
     stats: {
-        downloads:  428
+        downloads:  464
         updated_at: 1780531294000
     }
 }

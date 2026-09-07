@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/book-reader
 alt:
   - https://github.com/ununnamed/book-reader
-downloads:
-updated at:
+downloads: 81
+updated at: "2026-07-24T15:59:59Z"
 related to:
   - "[[GitHub - 1278187744]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/ununnamed/book-reader"
     description: "Read books with ease: scroll-position memory, remaining reading time, and book progress bars. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Read books in Obsidian with scroll-position memory and automatic progress tracking. Show remaining reading time and real-time progress percentage in the status bar, and insert visual book progress bars inside notes."
+
+    stats: {
+        downloads:  81
+        updated_at: 1784908799000
+    }
 }
 ```
 

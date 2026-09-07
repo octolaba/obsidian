@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/deadline-countdown
 alt:
   - https://github.com/hotandcold245/Deadline-Countdown
-downloads: 161
+downloads: 190
 updated at: "2026-05-13T12:11:30Z"
 related to:
   - "[[GitHub - 1161878899]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set and track deadlines from the sidebar with live countdown timers, repeat scheduling, and advance visual warnings. Organize deadlines by category, collapse lists, and let repeating items roll forward while expired non-repeating items show \"Deadline passed\"."
 
     stats: {
-        downloads:  161
+        downloads:  190
         updated_at: 1778674290000
     }
 }

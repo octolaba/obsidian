@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/completed-area
 alt:
   - https://github.com/dahawong/obsidian-completed-area
-downloads: 9116
+downloads: 9292
 updated at: "2020-12-10T05:09:50Z"
 related to:
   - "[[GitHub - 319204255]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle a to-do to move completed items into a separate \"Completed\" section within the note. Trigger via the left-sidebar icon or a shortcut to keep finished tasks grouped and out of your main list."
 
     stats: {
-        downloads:  9116
+        downloads:  9292
         updated_at: 1607576990000
     }
 }

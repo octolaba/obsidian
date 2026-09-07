@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-card-merger
 alt:
   - https://github.com/teddycatdeath/canvas-card-merger
-downloads: 130
+downloads: 179
 updated at: "2026-06-18T06:42:09Z"
 related to:
   - "[[GitHub - 1270011514]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Merge an open Canvas into a single structured Markdown note with one command. Convert cards into ordered text blocks following arrows or top-to-bottom/left-to-right, turn groups into headings with nested cards, embed files/images and write links as URLs while auto-incrementing filenames to avoid overwriting."
 
     stats: {
-        downloads:  130
+        downloads:  179
         updated_at: 1781764929000
     }
 }

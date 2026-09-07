@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/life-calendar
 alt:
   - https://github.com/paulobsf/obsidian-life-calendar
-downloads: 217
+downloads: 252
 updated at: "2026-05-13T10:01:53Z"
 related to:
   - "[[GitHub - 1228019158]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render a life‑in‑weeks calendar with one 52-square row per year showing completed weeks, the current week, and remaining weeks to your planning horizon. Add and filter planning phases and categories, display dated event markers from notes or inline configs, and open linked event notes."
 
     stats: {
-        downloads:  217
+        downloads:  252
         updated_at: 1778666513000
     }
 }

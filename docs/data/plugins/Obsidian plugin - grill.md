@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/grill
 alt:
   - https://github.com/theadamdanielsson/grill
-downloads: 36
-updated at: "2026-07-23T09:37:17Z"
+downloads: 289
+updated at: "2026-08-09T13:18:35Z"
 related to:
   - "[[GitHub - 1308049672]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # Grill
 
-Creates quiz questions from notes, grades the answers and follows up on what was answered wrongly. Reviews are scheduled with FSRS-4.5 and mastery is tracked in the knowledge graph. It runs against Anthropic, OpenAI, Gemini or DeepSeek models, or against local Ollama models, which is how the description says it works offline with no API key.
+Creates quiz questions from notes and schedules their review with the FSRS-4.5 algorithm, tracking mastery in a knowledge graph. Question generation can run against Anthropic, OpenAI, Gemini or DeepSeek models, or a local Ollama model.
 
 ```cue
 plugin: {
@@ -33,12 +33,12 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/grill"
     github_url:  "https://github.com/theadamdanielsson/grill"
-    description: "AI active recall, grades your answers and hunts the things you get wrong. Works offline with no API key. - This plugin has not been manually reviewed by Obsidian staff."
+    description: "Fill In Your AI-powered Knowledge Graph - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Create quiz questions from your notes. Schedule reviews with FSRS-4.5, tracks mastery in your knowledge graph, and run with Anthropic, OpenAI, Gemini, DeepSeek or local Ollama models."
 
     stats: {
-        downloads:  36
-        updated_at: 1784799437000
+        downloads:  289
+        updated_at: 1786281515000
     }
 }
 ```

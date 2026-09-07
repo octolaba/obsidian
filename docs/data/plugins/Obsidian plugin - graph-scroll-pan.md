@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graph-scroll-pan
 alt:
   - https://github.com/junghyunbak/graph-scroll-pan
-downloads: 144
+downloads: 169
 updated at: "2026-06-27T07:37:15Z"
 related to:
   - "[[GitHub - 1278677944]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Pan the graph view with scroll or a two-finger trackpad swipe instead of zooming. Keep zoom centered on the cursor and trigger zoom via pinch or Cmd/Ctrl+scroll, with optional +/− zoom buttons; works in global and local graph views."
 
     stats: {
-        downloads:  144
+        downloads:  169
         updated_at: 1782545835000
     }
 }

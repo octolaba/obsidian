@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-html-select
 alt:
   - https://github.com/isaiascope/smart-html-select-plugin
-downloads: 640
+downloads: 670
 updated at: "2024-05-27T14:16:02Z"
 related to:
   - "[[GitHub - 799828133]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert configurable HTML select elements into your notes with custom-numbered options. Make selection changes permanent by updating the Markdown dynamically whenever the select value changes in view mode."
 
     stats: {
-        downloads:  640
+        downloads:  670
         updated_at: 1716819362000
     }
 }

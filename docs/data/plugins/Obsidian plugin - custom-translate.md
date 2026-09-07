@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/custom-translate
 alt:
   - https://github.com/liwbcraft/custom-translate
-downloads: 123
+downloads: 134
 updated at: "2026-05-18T14:19:40Z"
 related to:
   - "[[GitHub - 1228930818]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Translate selected text locally using a LibreTranslate server and get instant bilingual results. Build and manage a personal vocabulary with part of speech, definitions, examples, synonyms, antonyms, tags, frequency, CEFR level, UK/US phonetics, plus import/export, search and sorting."
 
     stats: {
-        downloads:  123
+        downloads:  134
         updated_at: 1779113980000
     }
 }

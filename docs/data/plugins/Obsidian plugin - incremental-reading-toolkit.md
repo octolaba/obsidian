@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/incremental-reading-toolkit
 alt:
   - https://github.com/kja140/incremental-reading
-downloads: 77
-updated at: "2026-07-19T03:19:35Z"
+downloads: 137
+updated at: "2026-08-07T10:36:43Z"
 related to:
   - "[[GitHub - 1251180409]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Schedule and prioritize long readings in a queue with A‑Factor topic spacing and PDF navigation. Extract passages from PDFs, notes, or images into linked extracts and export Spaced Repetition markdown flashcards; desktop-only Sioyek integration. Huge thanks to obsidian://show-plugin?id=obsidian-spaced-repetition for its use as a dependency in this plugin."
 
     stats: {
-        downloads:  77
-        updated_at: 1784431175000
+        downloads:  137
+        updated_at: 1786099003000
     }
 }
 ```

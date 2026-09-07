@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-companion
 alt:
   - https://github.com/kowshik24/obsidian-ai-assistant
-downloads: 510
+downloads: 525
 updated at: "2025-12-11T19:08:12Z"
 related to:
   - "[[GitHub - 1070714323]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Ask questions and get context-aware responses from OpenAI models directly inside Obsidian using the /ai command. Add pages as context to improve relevance and insert AI responses into your current note with a single click."
 
     stats: {
-        downloads:  510
+        downloads:  525
         updated_at: 1765480092000
     }
 }

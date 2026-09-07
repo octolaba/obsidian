@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/line-capitalizer
 alt:
   - https://github.com/daniti/obsidian-line-capitalizer
-downloads: 227
+downloads: 266
 updated at: "2025-12-01T16:14:28Z"
 related to:
   - "[[GitHub - 1107783566]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capitalize the first letter of each line in edit mode as you type. Preserve cursor position while detecting the first letter (skipping leading spaces and special characters) and support Unicode characters in real time."
 
     stats: {
-        downloads:  227
+        downloads:  266
         updated_at: 1764605668000
     }
 }

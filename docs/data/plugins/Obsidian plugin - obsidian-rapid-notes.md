@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-rapid-notes
 alt:
   - https://github.com/valteriomon/obsidian-rapid-notes
-downloads: 7563
+downloads: 7593
 updated at: "2025-06-24T22:01:25Z"
 related to:
   - "[[GitHub - 560194422]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Place notes into specific folders at creation using configurable filename prefixes and trigger creation from the editor (select text or inside [[links]]) or via commands. Add optional prefixes to filenames, create nested folders from slashes, and open existing files or create numbered duplicates on name collisions."
 
     stats: {
-        downloads:  7563
+        downloads:  7593
         updated_at: 1750802485000
     }
 }

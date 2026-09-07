@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jenn-bridge
 alt:
   - https://github.com/kazantsev-v/obsidian-jenn-bridge
-downloads: 19
+downloads: 34
 updated at: "2026-07-17T07:18:41Z"
 related to:
   - "[[GitHub - 1303179315]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Receive notes over a secure WebSocket from Jenn Core and create or append Markdown files with title, tags, and folder. Search the vault, browse folders and the vault tree, and monitor a color-coded connection status with auto-reconnect for reliable delivery."
 
     stats: {
-        downloads:  19
+        downloads:  34
         updated_at: 1784272721000
     }
 }

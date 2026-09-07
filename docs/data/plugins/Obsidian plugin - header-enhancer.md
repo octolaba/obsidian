@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/header-enhancer
 alt:
   - https://github.com/hobeedzc/obsidian-header-enhancer-plugin
-downloads: 10704
+downloads: 11369
 updated at: "2026-06-16T14:34:05Z"
 related to:
   - "[[GitHub - 654520856]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Auto-number Markdown headers hierarchically and update numbers in real time vault-wide. Rewrite [[file#header]] links automatically and batch-update backlinks when headings change. Apply per-file YAML defaults and customize header/title fonts with live preview."
 
     stats: {
-        downloads:  10704
+        downloads:  11369
         updated_at: 1781620445000
     }
 }

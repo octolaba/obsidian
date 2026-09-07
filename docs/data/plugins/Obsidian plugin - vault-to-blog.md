@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-to-blog
 alt:
   - https://github.com/barkstone2/vault-to-blog
-downloads: 1151
+downloads: 1196
 updated at: "2026-02-15T17:04:43Z"
 related to:
   - "[[GitHub - 832461656]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish a selected vault folder to a GitHub Pages blog from Obsidian, pushing only the chosen directory's contents to a public GitHub Pages repository. Present an Obsidian-style blog layout with left sidebar and file explorer, home routing, draggable sidebar, keyword and tag search, and basic Markdown view."
 
     stats: {
-        downloads:  1151
+        downloads:  1196
         updated_at: 1771175083000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/drag-out
 alt:
   - https://github.com/xwberry/obsidian-drag-out
-downloads: 166
+downloads: 208
 updated at: "2026-04-25T07:13:50Z"
 related to:
   - "[[GitHub - 1220606964]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Drag files from Obsidian's file explorer to other apps using native OS drag-and-drop to send the actual on-disk files instead of obsidian:// URLs. Hold a modifier key while dragging to expose real file paths for uploads, email, chat, or file managers; normal drag behavior remains when the modifier isn't held. Use on desktop; experimental and primarily tested on Windows."
 
     stats: {
-        downloads:  166
+        downloads:  208
         updated_at: 1777101230000
     }
 }

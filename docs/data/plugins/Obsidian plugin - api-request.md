@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/api-request
 alt:
   - https://github.com/rooyca/obsidian-api-request
-downloads: 16878
-updated at: "2026-06-30T21:42:31Z"
+downloads: 17296
+updated at: "2026-08-02T01:53:51Z"
 related to:
   - "[[GitHub - 635577046]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Make API requests directly within notes and insert responses into code blocks for inline viewing. Protect requests and outputs with URL/path validation, directory traversal defenses, safe JSONPath evaluation, and XSS prevention."
 
     stats: {
-        downloads:  16878
-        updated_at: 1782855751000
+        downloads:  17296
+        updated_at: 1785635631000
     }
 }
 ```

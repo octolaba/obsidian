@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/literature-flow
 alt:
   - https://github.com/michellegdyason/obsidian-literature-flow
-downloads: 232
+downloads: 276
 updated at: "2026-06-20T11:53:17Z"
 related to:
   - "[[GitHub - 1260704430]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Discover open-access research and manage references inside Obsidian with online search via Semantic Scholar or OpenAlex. View cited and citing works in a sidebar, insert or create reference details, and explore a literature graph mapping citation relationships."
 
     stats: {
-        downloads:  232
+        downloads:  276
         updated_at: 1781956397000
     }
 }

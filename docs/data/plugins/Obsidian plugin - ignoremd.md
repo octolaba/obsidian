@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ignoremd
 alt:
   - https://github.com/zhanpeng329-arch/obsidian-CodeIndentation
-downloads: 109
+downloads: 117
 updated at: "2026-05-20T10:21:53Z"
 related to:
   - "[[GitHub - 1233846827]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a compact Md hover button that opens a formatting panel for headings, bold, italic, highlight, quotes, unordered/ordered/task lists, inline code, code blocks, and links. Apply common Markdown formats without typing syntax and keep everything local with no telemetry, network calls, or background tasks."
 
     stats: {
-        downloads:  109
+        downloads:  117
         updated_at: 1779272513000
     }
 }

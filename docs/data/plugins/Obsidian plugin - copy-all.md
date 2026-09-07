@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-all
 alt:
   - https://github.com/eliasfloreteng/obsidian-copy-all
-downloads: 115
+downloads: 126
 updated at: "2026-03-26T09:23:51Z"
 related to:
   - "[[GitHub - 1192469692]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy the entire contents of the active note to the clipboard as Markdown. Prepend the filename (without .md) as a top-level # heading when needed and assign the command to the mobile pull-down for one-tap access."
 
     stats: {
-        downloads:  115
+        downloads:  126
         updated_at: 1774517031000
     }
 }

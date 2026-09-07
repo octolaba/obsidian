@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/htmlto-link
 alt:
   - https://github.com/licc168/obsidian-htmlto-link
-downloads: 18
-updated at: "2026-07-22T13:58:35Z"
+downloads: 89
+updated at: "2026-08-10T09:02:49Z"
 related to:
   - "[[GitHub - 1308346102]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Share any Obsidian note as a styled webpage and copy the public link instantly via htmlto.link. Pick from 30+ templates and multiple theme variants, choose card widths (360–800px), remove shared links, write share_link/share_updated to frontmatter, and use a self-hostable API base URL."
 
     stats: {
-        downloads:  18
-        updated_at: 1784728715000
+        downloads:  89
+        updated_at: 1786352569000
     }
 }
 ```

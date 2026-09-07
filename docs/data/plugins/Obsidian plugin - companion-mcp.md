@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/companion-mcp
 alt:
   - https://github.com/yama662607/obsidian-companion-mcp
-downloads: 350
+downloads: 382
 updated at: "2026-03-25T18:00:12Z"
 related to:
   - "[[GitHub - 1182340996]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Provide vault-wide semantic search and real-time editor context via a Model Context Protocol, enabling high-precision multilingual search across Japanese, English, and 100+ languages. Keep embeddings and indexes local and expose precise Markdown CRUD, frontmatter management, and machine-readable edit handoffs for agent workflows."
 
     stats: {
-        downloads:  350
+        downloads:  382
         updated_at: 1774461612000
     }
 }

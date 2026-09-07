@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gate-calculator
 alt:
   - https://github.com/anandrajbaghel/gate-calculator
-downloads: 15
+downloads: 32
 updated at: "2026-07-16T17:37:10Z"
 related to:
   - "[[GitHub - 1303036254]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a floating, draggable scientific calculator inside Obsidian for fast, offline calculations without leaving your notes. Use over 50 functions — trigonometric (degree/radian), hyperbolic, logarithms (including arbitrary base), powers/roots, factorial, memory and full keyboard input."
 
     stats: {
-        downloads:  15
+        downloads:  32
         updated_at: 1784223430000
     }
 }

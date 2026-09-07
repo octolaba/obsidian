@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/break-page
 alt:
   - https://github.com/corentin-godefroy/Obsidian-BreakPage
-downloads: 16831
+downloads: 17094
 updated at: "2024-02-15T03:35:31Z"
 related to:
   - "[[GitHub - 757811604]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert manual page breaks into notes for PDF exports using a configurable hotkey or the /break command. Type the shortcut where you want a new PDF page to begin. Preserve note content while controlling exported page layout."
 
     stats: {
-        downloads:  16831
+        downloads:  17094
         updated_at: 1707968131000
     }
 }

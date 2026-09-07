@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pdf-scroll-lock
 alt:
   - https://github.com/divyanshu9821/pdf-scroll-lock
-downloads: 100
+downloads: 110
 updated at: "2025-10-30T10:34:43Z"
 related to:
   - "[[GitHub - 1085964630]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Lock embedded PDFs by default to prevent accidental scrolling while reading notes. Provide a per-embed toolbar toggle to enable or disable scrolling and keep specified page views intact."
 
     stats: {
-        downloads:  100
+        downloads:  110
         updated_at: 1761820483000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/saloon
 alt:
   - https://github.com/collierking/saloon-obsidian
-downloads: 98
+downloads: 103
 updated at: "2025-12-16T02:15:48Z"
 related to:
   - "[[GitHub - 1116347966]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Obsidian notes into structured, AI-enabled wikis, OWL ontologies, and Anki flashcards stored in a local, synced SQLite database. Extract technical terms and definitions with a local LLM, review and approve extractions, and auto-generate glossary pages with context and knowledge triples."
 
     stats: {
-        downloads:  98
+        downloads:  103
         updated_at: 1765851348000
     }
 }

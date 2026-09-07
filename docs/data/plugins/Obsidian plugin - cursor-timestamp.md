@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cursor-timestamp
 alt:
   - https://github.com/orjanhesjedal/cursor-timestamp
-downloads: 111
+downloads: 140
 updated at: "2026-06-18T22:45:14Z"
 related to:
   - "[[GitHub - 1273751452]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert a configurable, timezone-aware date and time stamp at the cursor, or use separate date and time commands for quick partial stamps. Pin an IANA time zone and prepend a name for consistent team timestamps across locales; preview formats and add optional time-zone labels, Markdown emphasis, and inline colour."
 
     stats: {
-        downloads:  111
+        downloads:  140
         updated_at: 1781822714000
     }
 }

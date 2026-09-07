@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/course-module-loader
 alt:
   - https://github.com/quintsmart/obsidian-course-module-loader
-downloads: 671
+downloads: 682
 updated at: "2025-06-12T07:20:44Z"
 related to:
   - "[[GitHub - 977058901]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Download course ZIP files from a direct URL (including Dropbox direct links) into your vault. Unzip content into a chosen folder, auto-create subfolders, skip files that already exist, and ignore macOS metadata like __MACOSX and .DS_Store."
 
     stats: {
-        downloads:  671
+        downloads:  682
         updated_at: 1749712844000
     }
 }

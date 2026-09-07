@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/youtube-summarizer
 alt:
   - https://github.com/ozdemir08/youtube-video-summarizer
-downloads: 6674
+downloads: 6706
 updated at: "2024-02-14T11:52:13Z"
 related to:
   - "[[GitHub - 729687974]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Download YouTube transcripts and use OpenAI's ChatGPT-3.5 to extract key points into a concise summary. Chunk long transcripts and output clean, ready-to-save Obsidian notes for quick review and knowledge capture."
 
     stats: {
-        downloads:  6674
+        downloads:  6706
         updated_at: 1707911533000
     }
 }

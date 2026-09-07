@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/netease-sync
 alt:
   - https://github.com/miaoche2-cell/obsidian-netease-sync
-downloads: 12
+downloads: 19
 updated at: "2026-07-13T13:57:31Z"
 related to:
   - "[[GitHub - 1297873144]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync NetEase Cloud Music plays and Discogs collections into Obsidian as individual Markdown notes — one note per song and one per record — including metadata, timestamped lyrics and tracklists without downloading audio. Pull metadata from local NetEase cache, Last.fm and Discogs API, render via a swappable template, deduplicate by service IDs, keep tokens local and perform no uploads; desktop only."
 
     stats: {
-        downloads:  12
+        downloads:  19
         updated_at: 1783951051000
     }
 }

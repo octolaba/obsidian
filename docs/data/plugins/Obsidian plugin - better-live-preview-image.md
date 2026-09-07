@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/better-live-preview-image
 alt:
   - https://github.com/ydd0729/better-live-preview-image
-downloads: 585
-updated at: "2026-06-03T22:34:54Z"
+downloads: 891
+updated at: "2026-08-10T15:52:46Z"
 related to:
   - "[[GitHub - 1249321027]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Edit image Markdown directly in Live Preview to keep notes portable and readable. Align images left, center, or right from the context menu or commands, and resize using the lower-right handle while the image’s Markdown link stays visible."
 
     stats: {
-        downloads:  585
-        updated_at: 1780526094000
+        downloads:  891
+        updated_at: 1786377166000
     }
 }
 ```

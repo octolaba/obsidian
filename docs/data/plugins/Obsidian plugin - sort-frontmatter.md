@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sort-frontmatter
 alt:
   - https://github.com/mariomui/obsidian-sort-frontmatter
-downloads: 2884
+downloads: 2896
 updated at: "2023-12-01T00:30:12Z"
 related to:
   - "[[GitHub - 709740850]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sort frontmatter properties alphabetically across objects, arrays, and nested structures up to five levels deep. Apply to the current note to standardize and tidy YAML metadata."
 
     stats: {
-        downloads:  2884
+        downloads:  2896
         updated_at: 1701390612000
     }
 }

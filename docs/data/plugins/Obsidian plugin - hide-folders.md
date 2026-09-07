@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hide-folders
 alt:
   - https://github.com/jonasdoesthings/obsidian-hide-folders
-downloads: 40054
+downloads: 41419
 updated at: "2026-06-02T17:47:56Z"
 related to:
   - "[[GitHub - 565970120]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide configured folders in the file explorer to declutter your vault. Configure exact names or startsWith/endsWith patterns, then toggle visibility with a sidebar button or the command palette."
 
     stats: {
-        downloads:  40054
+        downloads:  41419
         updated_at: 1780422476000
     }
 }

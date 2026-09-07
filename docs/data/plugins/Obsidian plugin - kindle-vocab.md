@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kindle-vocab
 alt:
   - https://github.com/bao-tg/kindle-vocab
-downloads: 262
+downloads: 353
 updated at: "2025-08-16T13:41:23Z"
 related to:
   - "[[GitHub - 973111314]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Kindle vocabulary lookups (vocab.db) and convert them into structured, interactive Markdown notes for review in Obsidian. Attach CSV dictionaries, mark words learned with checkboxes, track learning statistics like percent learned, and sort or prioritize unlearned items for focused study."
 
     stats: {
-        downloads:  262
+        downloads:  353
         updated_at: 1755351683000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/uri-converter
 alt:
   - https://github.com/wenlzhang/obsidian-uri-converter
-downloads: 640
+downloads: 716
 updated at: "2025-06-27T15:43:32Z"
 related to:
   - "[[GitHub - 886161938]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Obsidian URIs and Advanced URIs into internal Obsidian links, handling note, heading, and block links as well as Markdown-format and pure URI forms. Preserve bidirectional links and automate conversion of pasted or imported links from external apps like Todoist to keep notes navigable."
 
     stats: {
-        downloads:  640
+        downloads:  716
         updated_at: 1751039012000
     }
 }

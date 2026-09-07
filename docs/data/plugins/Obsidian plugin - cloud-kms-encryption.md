@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cloud-kms-encryption
 alt:
   - https://github.com/viktoruj/obsidian-cloud-kms
-downloads: 87
+downloads: 92
 updated at: "2026-05-12T21:23:03Z"
 related to:
   - "[[GitHub - 1233621395]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Encrypt secret markdown blocks and binary files with AWS KMS envelope encryption so only ciphertext lives on disk and in remote storage. Decrypt content locally in memory using your AWS identity for transparent reads and writes in Obsidian, while preserving nested code fences inside secret blocks."
 
     stats: {
-        downloads:  87
+        downloads:  92
         updated_at: 1778620983000
     }
 }

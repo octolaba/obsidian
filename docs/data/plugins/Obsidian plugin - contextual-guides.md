@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/contextual-guides
 alt:
   - https://github.com/chalas-ch/obsidian-contextual-guides
-downloads: 220
+downloads: 260
 updated at: "2026-07-02T17:04:05Z"
 related to:
   - "[[GitHub - 1249125649]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a contextual guide in a right sidebar by matching tags, location, or properties in the active note. Define multiple rules that render a chosen guide note when all required rules are met, and show an empty state or configuration warning if no match or guide is found."
 
     stats: {
-        downloads:  220
+        downloads:  260
         updated_at: 1783011845000
     }
 }

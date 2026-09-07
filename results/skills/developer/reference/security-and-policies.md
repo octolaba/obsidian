@@ -293,7 +293,7 @@ Bundling requirements (single `main.js`, externals) are owned by the project-set
 
 ## Handling secrets
 
-`SecretStorage` is `@since` **1.11.4** (api: obsidian.d.ts:5633) — **stable at pin (≤1.12.7)**. The
+`SecretStorage` is `@since` **1.11.4** (api: obsidian.d.ts:5633) — **stable at pin (≤1.13.7)**. The
 API mechanics and the storage chooser are owned by the vault-and-metadata reference; the rules below
 are the security half.
 

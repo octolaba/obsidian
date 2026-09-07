@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-jump-to-date-plugin
 alt:
   - https://github.com/tfthacker/obsidian42-jump-to-date
-downloads: 20962
+downloads: 21612
 updated at: "2026-03-28T15:18:35Z"
 related to:
   - "[[GitHub - 396012902]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a popup calendar or enter a natural-language date to jump directly to a Daily Note. Access daily notes instantly from the ribbon or a quick date form."
 
     stats: {
-        downloads:  20962
+        downloads:  21612
         updated_at: 1774711115000
     }
 }

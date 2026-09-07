@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/section-meter
 alt:
   - https://github.com/martinowong/obsidian-section-meter
-downloads: 274
-updated at: "2026-07-22T14:55:07Z"
+downloads: 494
+updated at: "2026-08-08T15:39:55Z"
 related to:
   - "[[GitHub - 1258265891]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Show reading-time, word, and character badges beside Markdown headings and the note title in the editor. Count readable prose per section (excluding frontmatter, code blocks, inline code, embeds, comments, and HTML), include nested subheadings in parent counts, and display whole-note and selected-text stats with minute-and-second timing based on adjustable reading speed."
 
     stats: {
-        downloads:  274
-        updated_at: 1784732107000
+        downloads:  494
+        updated_at: 1786203595000
     }
 }
 ```

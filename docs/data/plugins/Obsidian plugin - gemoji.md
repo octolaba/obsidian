@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gemoji
 alt:
   - https://github.com/tofrankie/obsidian-plugin-gemoji
-downloads: 94
+downloads: 105
 updated at: "2026-06-06T14:44:48Z"
 related to:
   - "[[GitHub - 1258615238]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render emoji shortcodes like :smile:, :rocket:, :+1: and :white_check_mark: as Unicode emoji in Obsidian Reading mode."
 
     stats: {
-        downloads:  94
+        downloads:  105
         updated_at: 1780757088000
     }
 }

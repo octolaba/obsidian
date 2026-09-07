@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mark-open-files
 alt:
   - https://github.com/gasparschott/obsidian-mark-open-files
-downloads: 1950
+downloads: 1992
 updated at: "2026-05-31T21:10:32Z"
 related to:
   - "[[GitHub - 957642067]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mark open files in the File Explorer with a visible marker for every open instance. Click a marker to activate its tab, and place markers before or after filenames or align them to the left or right of the explorer."
 
     stats: {
-        downloads:  1950
+        downloads:  1992
         updated_at: 1780261832000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quick-capture
 alt:
   - https://github.com/zhengxn1/quick-capture
-downloads: 33
+downloads: 93
 updated at: "2026-07-17T03:36:03Z"
 related to:
   - "[[GitHub - 1303444895]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Send text and links from iPhone or Android straight to Obsidian on your Mac or Windows without installing Obsidian on the phone. Queue submissions in your personal Cloudflare Worker with AES-256-GCM encryption, append them to daily Markdown files, and auto-sync to Obsidian when the desktop app runs."
 
     stats: {
-        downloads:  33
+        downloads:  93
         updated_at: 1784259363000
     }
 }

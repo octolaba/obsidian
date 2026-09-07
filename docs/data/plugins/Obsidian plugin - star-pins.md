@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/star-pins
 alt:
   - https://github.com/brightwav3/Star-Pins
-downloads: 156
+downloads: 184
 updated at: "2026-06-17T01:02:00Z"
 related to:
   - "[[GitHub - 1266695168]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Pin important notes, files, or searches for quick access. Create a central list of starred items and jump back to key content instantly."
 
     stats: {
-        downloads:  156
+        downloads:  184
         updated_at: 1781658120000
     }
 }

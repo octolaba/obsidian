@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/ogenda
 alt:
   - https://github.com/jiang198012/ogenda
-downloads: 22
-updated at: "2026-07-22T08:16:23Z"
+downloads: 222
+updated at: "2026-08-09T13:18:30Z"
 related to:
   - "[[GitHub - 1306586929]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add a two-way CalDAV/iCloud calendar and agenda panel to Obsidian. Store events as monthly Markdown notes and sync bi-directionally, merging remote changes safely. Browse List/Day/Week/Month/Stats views, edit events (categories, attendees, recurrence), and use a mobile-friendly English/Chinese UI."
 
     stats: {
-        downloads:  22
-        updated_at: 1784708183000
+        downloads:  222
+        updated_at: 1786281510000
     }
 }
 ```

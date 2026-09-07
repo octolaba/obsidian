@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/extended-properties
 alt:
   - https://github.com/electroluminescent/obsidian-extended-properties
-downloads: 295
-updated at: "2026-07-20T20:25:57Z"
+downloads: 681
+updated at: "2026-08-08T20:09:04Z"
 related to:
   - "[[GitHub - 1266344701]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Organize and edit note metadata in a fully arrangeable, data-driven sidebar that works on desktop and mobile. Define custom layouts per note Type via frontmatter and build rich, sectioned property panels with extensible modules."
 
     stats: {
-        downloads:  295
-        updated_at: 1784579157000
+        downloads:  681
+        updated_at: 1786219744000
     }
 }
 ```

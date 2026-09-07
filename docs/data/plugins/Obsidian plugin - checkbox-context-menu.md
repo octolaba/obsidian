@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/checkbox-context-menu
 alt:
   - https://github.com/carbongo/checkbox-context-menu
-downloads: 92
+downloads: 168
 updated at: "2026-07-14T05:21:05Z"
 related to:
   - "[[GitHub - 1298657637]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a right-click context menu to any task checkbox to switch between states (unchecked, done, half-done, deferred, scheduled, important, cancelled) or any custom states you define. Cycle states with a command and apply theme-adaptive colors and glyphs so statuses are visible in editor/Live Preview and Reading mode (right-click on desktop, long-press on mobile)."
 
     stats: {
-        downloads:  92
+        downloads:  168
         updated_at: 1784006465000
     }
 }

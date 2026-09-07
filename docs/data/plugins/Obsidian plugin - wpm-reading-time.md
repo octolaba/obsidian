@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wpm-reading-time
 alt:
   - https://github.com/santiyounger/wpm-reading-time
-downloads: 476
+downloads: 515
 updated at: "2026-05-22T20:22:22Z"
 related to:
   - "[[GitHub - 1087443402]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Calculate accurate reading-time estimates for any selected text using personalized WPM presets. View word count, current speed, and live timing, and switch between silent, speaking, or presentation presets to plan podcasts, videos, and talks."
 
     stats: {
-        downloads:  476
+        downloads:  515
         updated_at: 1779481342000
     }
 }

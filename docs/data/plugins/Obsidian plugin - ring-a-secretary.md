@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ring-a-secretary
 alt:
   - https://github.com/vrtmrz/ring-a-secretary
-downloads: 4467
+downloads: 4521
 updated at: "2023-06-20T08:38:59Z"
 related to:
   - "[[GitHub - 614250168]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with ChatGPT inside Obsidian and save conversations as searchable, resumable code-block dialogues. Start new dialogues from the command palette and create fresh threads to limit token usage for long consultations. Requires a ChatGPT API key."
 
     stats: {
-        downloads:  4467
+        downloads:  4521
         updated_at: 1687250339000
     }
 }

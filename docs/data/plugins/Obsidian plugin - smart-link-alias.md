@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-link-alias
 alt:
   - https://github.com/vpcano/obsidian-smart-link-alias
-downloads: 821
+downloads: 843
 updated at: "2024-12-26T13:09:10Z"
 related to:
   - "[[GitHub - 901247688]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Define custom display titles in a note's YAML (full-title and short-title) to control how links render. Choose short, full, or long in link aliases to show an abbreviation, the full title, or both."
 
     stats: {
-        downloads:  821
+        downloads:  843
         updated_at: 1735218550000
     }
 }

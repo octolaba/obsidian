@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/english-learning-assistant
 alt:
   - https://github.com/liuba1223/obsidian-english-assistant
-downloads: 267
+downloads: 332
 updated at: "2026-05-29T03:07:09Z"
 related to:
   - "[[GitHub - 1186809506]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Improve English writing with AI-driven grammar, spelling, and punctuation checks plus explanatory feedback and rewrite suggestions. Look up words offline via ECDICT/CSV, practice shadowing with real-time typing alignment and grammar-aware highlighting, visualize sentence structure with Mermaid trees, track writing progress, and auto-save vocabulary, grammar notes, and mistake logs."
 
     stats: {
-        downloads:  267
+        downloads:  332
         updated_at: 1780024029000
     }
 }

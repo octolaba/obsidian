@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/scribe
 alt:
   - https://github.com/mikodin/obsidian-scribe
-downloads: 17511
+downloads: 18083
 updated at: "2026-07-15T19:37:54Z"
 related to:
   - "[[GitHub - 876820463]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Record voice notes and convert them into transcriptions, summaries, and structured Obsidian pages with progressive saving and pause/resume. Ask questions mid-recording to insert answers, apply custom prompt templates, and auto-generate Mermaid charts and multilingual outputs."
 
     stats: {
-        downloads:  17511
+        downloads:  18083
         updated_at: 1784144274000
     }
 }

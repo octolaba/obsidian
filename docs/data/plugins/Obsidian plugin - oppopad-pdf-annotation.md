@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/oppopad-pdf-annotation
 alt:
   - https://github.com/decai335335-debug/oppopad-pdf-annotation
-downloads: 1
-updated at: "2026-07-24T05:25:44Z"
+downloads: 98
+updated at: "2026-07-26T19:54:10Z"
 related to:
   - "[[GitHub - 1310659216]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Annotate PDFs on Android tablets with stylus-first input: write with a stylus, scroll with one finger, and pinch to zoom. Draw pressure- and tilt-sensitive strokes, toggle pen/eraser with the stylus button, auto-save annotations, and export burned-in PDFs or Markdown/DOCX."
 
     stats: {
-        downloads:  1
-        updated_at: 1784870744000
+        downloads:  98
+        updated_at: 1785095650000
     }
 }
 ```

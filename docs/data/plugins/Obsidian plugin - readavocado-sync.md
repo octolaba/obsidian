@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/readavocado-sync
 alt:
   - https://github.com/innneang/obsidian-readavocado-sync
-downloads: 3457
+downloads: 3467
 updated at: "2022-10-03T17:37:23Z"
 related to:
   - "[[GitHub - 545034562]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Readavocado highlights into your Obsidian vault automatically using your Readavocado token, importing new highlights as notes whenever Obsidian opens. Trigger a manual sync in the plugin settings to pull updates on demand."
 
     stats: {
-        downloads:  3457
+        downloads:  3467
         updated_at: 1664818643000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/right-click-tools
 alt:
   - https://github.com/z0lw/obsidian-right-click-tools
-downloads: 104
-updated at: "2026-05-29T10:01:45Z"
+downloads: 157
+updated at: "2026-07-30T02:37:41Z"
 related to:
   - "[[GitHub - 1035270006]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add right-click actions to the file explorer for quick file and folder management. Create today's date folder (YYYY-MM-DD) with automatic numeric increments when a name exists, and move selected files or folders to a configurable destination folder."
 
     stats: {
-        downloads:  104
-        updated_at: 1780048905000
+        downloads:  157
+        updated_at: 1785379061000
     }
 }
 ```

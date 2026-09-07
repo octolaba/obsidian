@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vibe-rpg
 alt:
   - https://github.com/darkkross-tech/Life-RPG-1.5
-downloads: 368
+downloads: 472
 updated at: "2026-06-05T06:32:18Z"
 related to:
   - "[[GitHub - 1259759076]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn daily habits, water intake, rewards, XP, inventory, and wallet records into a compact RPG dashboard. Show hero profile, level, class, avatar, quests, reward shop, calendar, and a sidebar with daily progress. Keep data local with no network requests or telemetry."
 
     stats: {
-        downloads:  368
+        downloads:  472
         updated_at: 1780641138000
     }
 }

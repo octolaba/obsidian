@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/scrambling-title-animations
 alt:
   - https://github.com/dvorakdwarf/scrambling-title-animations
-downloads: 1257
+downloads: 1278
 updated at: "2024-08-19T03:06:14Z"
 related to:
   - "[[GitHub - 844302150]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Animate note titles with scrambling and reveal effects when opening notes. Apply multiple visually appealing scramble styles to create dynamic, cinematic title transitions."
 
     stats: {
-        downloads:  1257
+        downloads:  1278
         updated_at: 1724036774000
     }
 }

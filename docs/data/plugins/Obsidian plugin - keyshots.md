@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/keyshots
 alt:
   - https://github.com/krazymanj/obsidian-keyshots
-downloads: 16704
+downloads: 17213
 updated at: "2026-06-21T00:18:38Z"
 related to:
   - "[[GitHub - 578341223]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add classic IDE hotkeys from Visual Studio Code, JetBrains and Visual Studio to Obsidian for familiar editor commands. Perform line and selection actions like move, duplicate, insert, join/split, sort, change case, encode/decode URIs, and toggle line numbers or readable line length."
 
     stats: {
-        downloads:  16704
+        downloads:  17213
         updated_at: 1782001118000
     }
 }

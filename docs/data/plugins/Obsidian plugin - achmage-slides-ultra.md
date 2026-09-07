@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/achmage-slides-ultra
 alt:
   - https://github.com/laguna821/achmage-slides-ultra
-downloads: 163
-updated at: "2026-07-01T13:37:31Z"
+downloads: 245
+updated at: "2026-08-04T16:04:16Z"
 related to:
   - "[[GitHub - 1281248026]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Turn Markdown notes into layout-aware 1920×1080 slide decks with a live side-pane preview powered by Marp. Auto-select grids and balanced columns from headings and lists, guarantee overflow-free slides with automatic pagination/shrinking, and export self-contained HTML with bundled fonts for offline playback."
 
     stats: {
-        downloads:  163
-        updated_at: 1782913051000
+        downloads:  245
+        updated_at: 1785859456000
     }
 }
 ```

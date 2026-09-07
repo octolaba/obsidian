@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lark-doc
 alt:
   - https://github.com/oneeme/obsidian-lark-doc
-downloads: 241
+downloads: 290
 updated at: "2026-07-12T05:06:45Z"
 related to:
   - "[[GitHub - 1241194422]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect local Obsidian notes to Lark/Feishu cloud documents and keep lightweight .lark.md proxy files that open the remote document inside an Obsidian WebView. Create or link documents from URLs, sync remote titles to rename local files with collision-safe indexed suffixes, and maintain a Lark Documents.base index for browsing linked notes."
 
     stats: {
-        downloads:  241
+        downloads:  290
         updated_at: 1783832805000
     }
 }

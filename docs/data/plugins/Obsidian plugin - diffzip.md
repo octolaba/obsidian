@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/diffzip
 alt:
   - https://github.com/vrtmrz/diffzip
-downloads: 12928
-updated at: "2026-07-15T07:04:51Z"
+downloads: 13437
+updated at: "2026-08-11T03:30:20Z"
 related to:
   - "[[GitHub - 736483110]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create differential ZIP backups of modified vault files and generate a backupinfo.md manifest. Trigger automatic backups on launch, store archives inside the vault, on desktop folders or S3, split large archives, and restore individual files from chosen backups. Lightweight synchronisation is also available."
 
     stats: {
-        downloads:  12928
-        updated_at: 1784099091000
+        downloads:  13437
+        updated_at: 1786419020000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/checkers-hider
 alt:
   - https://github.com/mr-asa/obsidian-checkers-hider
-downloads: 132
+downloads: 157
 updated at: "2026-05-29T14:49:58Z"
 related to:
   - "[[GitHub - 1253200512]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide completed and custom-status checklist items in Obsidian without changing your notes. Toggle hiding from the command palette, status-bar icon, or optional ribbon; configure single-character markers to hide or keep, optionally hide nested bullets, and show all checkboxes while editing. Disable hiding per page with an inline or frontmatter tag."
 
     stats: {
-        downloads:  132
+        downloads:  157
         updated_at: 1780066198000
     }
 }

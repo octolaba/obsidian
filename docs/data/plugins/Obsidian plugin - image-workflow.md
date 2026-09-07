@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-workflow
 alt:
   - https://github.com/1spread/image-workflow
-downloads: 397
+downloads: 443
 updated at: "2026-06-16T14:57:24Z"
 related to:
   - "[[GitHub - 1156285687]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open images in a fullscreen overlay with mouse-wheel zoom and easy dismiss. Copy or download images, export selections as plain markdown plus rich HTML with images embedded as base64 for inline pasting into Gmail, Google Docs, and Slack, and paste back into Obsidian to restore original embeds without base64 bloat."
 
     stats: {
-        downloads:  397
+        downloads:  443
         updated_at: 1781621844000
     }
 }

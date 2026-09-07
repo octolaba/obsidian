@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/table-of-content
 alt:
   - https://github.com/secum3r/table-of-content
-downloads: 166
-updated at: "2026-06-30T12:30:32Z"
+downloads: 296
+updated at: "2026-08-04T11:54:30Z"
 related to:
   - "[[GitHub - 1285020242]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Insert a nested, clickable table of contents at the top of the active note built from its headings. Configure maximum heading depth, update the TOC in place when rerun, and ignore headings inside fenced code blocks."
 
     stats: {
-        downloads:  166
-        updated_at: 1782822632000
+        downloads:  296
+        updated_at: 1785844470000
     }
 }
 ```

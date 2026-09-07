@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/neogdsync
 alt:
   - https://github.com/martinlegend/neogdsync
-downloads: 1144
-updated at: "2026-07-13T09:22:45Z"
+downloads: 1318
+updated at: "2026-08-06T16:21:47Z"
 related to:
   - "[[GitHub - 1208755141]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync your Obsidian vault with Google Drive using smart, path-indexed sync that uploads only changed files and detects conflicts. Force push or pull changes, save Drive copies as conflict files to avoid silent overwrites, keep optional Drive revisions, apply glob excludes, and trigger syncs via an obsidian:// URI."
 
     stats: {
-        downloads:  1144
-        updated_at: 1783934565000
+        downloads:  1318
+        updated_at: 1786033307000
     }
 }
 ```

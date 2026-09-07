@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/marco-polo
 alt:
   - https://github.com/crufi/obsidian-marco-polo
-downloads: 41
+downloads: 59
 updated at: "2026-07-09T11:45:23Z"
 related to:
   - "[[GitHub - 1282988259]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Easier to use than to describe. Just start typing: `/path/to/something` and you'll get a clickable link with autocomplete as you type. These also work: `~/something_in_your_home_dir` `$SOME_SHELL_VARIABLE/file.txt` (if optional shell variable expansion is on) `/path/to/some/directory/` Configurable color for valid paths; bad paths show up in red until corrected. Autocomplete dropdown: up/down to browse, Enter/Tab to accept, Esc to dismiss. Directories sort first. Command \"Marco Polo: Insert local path…\" opens a drill-down picker and inserts it as a backtick span. Per-link override: append #open or #reveal inside the backticks to override the default file action: `/click/to/open/this/file#open` `/click/to/show/containing/directory/of/file.txt#reveal` `/click/for/default/behavior/for/this/file` Needs file system access to validate paths and identify subfolders, but Marco Polo will never read your files or write anything."
 
     stats: {
-        downloads:  41
+        downloads:  59
         updated_at: 1783597523000
     }
 }

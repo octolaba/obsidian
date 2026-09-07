@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-version-history-diff
 alt:
   - https://github.com/kometenstaub/obsidian-version-history-diff
-downloads: 49657
+downloads: 50471
 updated at: "2026-06-15T17:20:32Z"
 related to:
   - "[[GitHub - 468062397]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display diffs of Sync, File Recovery, and Git version histories for the active file, with line-by-line or side-by-side comparison modes. Open any version in a modal rendered as Markdown or plain text, copy Git hashes, and overwrite the file with the selected revision; enable color-blind mode."
 
     stats: {
-        downloads:  49657
+        downloads:  50471
         updated_at: 1781544032000
     }
 }

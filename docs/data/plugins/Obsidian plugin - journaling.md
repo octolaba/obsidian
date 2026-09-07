@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/journaling
 alt:
   - https://github.com/ordeeper/obsidian-journaling-plugin
-downloads: 9107
+downloads: 9337
 updated at: "2024-12-24T18:22:45Z"
 related to:
   - "[[GitHub - 844259079]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View daily notes in a continuous journal-like format similar to Logseq. Consolidate dated notes from multiple folders, set custom date formats and journal filename, filter by newest or oldest, and configure update intervals."
 
     stats: {
-        downloads:  9107
+        downloads:  9337
         updated_at: 1735064565000
     }
 }

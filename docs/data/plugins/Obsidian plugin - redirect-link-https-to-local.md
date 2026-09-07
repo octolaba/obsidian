@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/redirect-link-https-to-local
 alt:
   - https://github.com/iamjjanga-ouo/obsidian-link
-downloads: 96
+downloads: 106
 updated at: "2026-01-08T13:37:44Z"
 related to:
   - "[[GitHub - 1127744048]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Obsidian obsidian:// links into standard HTTPS redirect URLs for compatibility with Slack, Notion, and web platforms. Generate and copy shareable links with proper URL encoding, customizable redirect domains, cross-platform support, and toast confirmation."
 
     stats: {
-        downloads:  96
+        downloads:  106
         updated_at: 1767879464000
     }
 }

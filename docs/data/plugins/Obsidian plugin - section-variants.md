@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/section-variants
 alt:
   - https://github.com/gabrielbacha/Obsidian-Section-Variants
-downloads: 9
+downloads: 38
 updated at: "2026-07-22T18:52:47Z"
 related to:
   - "[[GitHub - 1307709656]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage parallel versions of a Markdown section inline, switching and comparing labeled variants without splitting content across notes. Create, rename, copy, hide or delete variants; toggle columns or stacked views, apply labels across a note, and copy a variant's raw Markdown for reuse."
 
     stats: {
-        downloads:  9
+        downloads:  38
         updated_at: 1784746367000
     }
 }

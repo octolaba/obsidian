@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/biblens
 alt:
   - https://github.com/marekpola/obsidian-biblens
-downloads: 133
+downloads: 161
 updated at: "2026-03-11T17:11:46Z"
 related to:
   - "[[GitHub - 1171969711]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Detect Bible references in your Markdown notes and show verse text as a hover preview in the editor, Live Preview and Reading View. Insert verse text after a reference or replace a reference with a blockquote, and use downloadable translations and language packs to work fully offline."
 
     stats: {
-        downloads:  133
+        downloads:  161
         updated_at: 1773249106000
     }
 }

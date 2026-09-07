@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/the-dm-compendium
 alt:
   - https://github.com/guykahalani/the-dm-compendium
-downloads: 868
+downloads: 1082
 updated at: "2026-07-15T21:10:49Z"
 related to:
   - "[[GitHub - 1220381002]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search and insert Dungeons & Dragons 5e monsters, spells, and items into your notes. Generate YAML statblocks compatible with Obsidian TTRPG plugins, render inline spell and item cards in reading view, and cache selected compendium data for fast searches."
 
     stats: {
-        downloads:  868
+        downloads:  1082
         updated_at: 1784149849000
     }
 }

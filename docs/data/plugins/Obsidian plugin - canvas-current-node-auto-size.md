@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-current-node-auto-size
 alt:
   - https://github.com/laplacede/obsidian-canvas-node-autosize
-downloads: 273
+downloads: 404
 updated at: "2026-06-24T05:16:46Z"
 related to:
   - "[[GitHub - 1273117873]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Automatically resize the width and height of the Canvas text node you are currently editing. The plugin measures rendered Markdown for accurate sizing of text, callouts, tables, lists, and code blocks, includes CJK-friendly spacing, and leaves neighboring nodes untouched."
 
     stats: {
-        downloads:  273
+        downloads:  404
         updated_at: 1782278206000
     }
 }

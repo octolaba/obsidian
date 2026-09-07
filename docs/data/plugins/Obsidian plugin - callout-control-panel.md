@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/callout-control-panel
 alt:
   - https://github.com/jv209/callout-control-panel
-downloads: 4115
+downloads: 5961
 updated at: "2026-07-09T01:59:30Z"
 related to:
   - "[[GitHub - 1158899782]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert any callout via a single modal or hotkey, choosing built-in, theme, snippet-defined, or custom types with title, collapse state, and smart Markdown insertion. Detect callout types from themes and CSS snippets live, and create, edit, import/export custom types with icons and colors."
 
     stats: {
-        downloads:  4115
+        downloads:  5961
         updated_at: 1783562370000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-backlinks
 alt:
   - https://github.com/vladb-evs/obsidian-folder-backlink
-downloads: 66
+downloads: 131
 updated at: "2026-07-09T03:56:02Z"
 related to:
   - "[[GitHub - 1293706505]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Link to folders with wiki links ending in a slash and view every note that references a folder in a dedicated backlinks sidebar. Insert folder links via a fuzzy picker or file-explorer actions, click links to reveal folders or open their backlinks, and display folder links as resolved in reading mode."
 
     stats: {
-        downloads:  66
+        downloads:  131
         updated_at: 1783569362000
     }
 }

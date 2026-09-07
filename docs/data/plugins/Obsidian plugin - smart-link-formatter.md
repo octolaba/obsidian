@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-link-formatter
 alt:
   - https://github.com/ccmdi/smart-link-formatter
-downloads: 2047
+downloads: 2118
 updated at: "2026-05-13T19:06:52Z"
 related to:
   - "[[GitHub - 983040482]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format pasted links with metadata for YouTube, Twitter/X, Reddit, YouTube Music, GitHub, image links and regular URLs, making the first [] the clickable link. Use variables (title, url, channel, duration, views, upload_date, description, timestamp), date formats, regex replacements and domain blacklists to customize output."
 
     stats: {
-        downloads:  2047
+        downloads:  2118
         updated_at: 1778699212000
     }
 }

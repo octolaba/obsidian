@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/mdshare
 alt:
   - https://github.com/urbanmorph/obsidian-mdshare
-downloads: 243
+downloads: 262
 updated at: "2026-05-23T07:41:03Z"
 related to:
   - "[[GitHub - 1201080437]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Share Markdown files or selected text to mdshare.live instantly without signing in. Upload content to generate a shareable link with the admin URL copied to your clipboard; shared documents expire after 90 days."
 
     stats: {
-        downloads:  243
+        downloads:  262
         updated_at: 1779522063000
     }
 }

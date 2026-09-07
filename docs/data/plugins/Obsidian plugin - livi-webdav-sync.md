@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/livi-webdav-sync
 alt:
   - https://github.com/lunarwatcher/obsidian-webdav-sync
-downloads: 588
-updated at: "2026-07-06T03:50:12Z"
+downloads: 800
+updated at: "2026-07-30T23:04:57Z"
 related to:
   - "[[GitHub - 1042932266]]"
 remind me:
@@ -36,8 +36,8 @@ plugin: {
     description: "Simple, manually-controlled WebDAV sync plugin - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  588
-        updated_at: 1783309812000
+        downloads:  800
+        updated_at: 1785452697000
     }
 }
 ```

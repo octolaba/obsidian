@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/highmagician-any-task
 alt:
   - https://github.com/highmagician/obsidian-any-task
-downloads: 112
+downloads: 129
 updated at: "2026-03-06T10:06:24Z"
 related to:
   - "[[GitHub - 1173340150]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render any task marker as theme-aware, interactive checkboxes so characters like /, >, !, or - become visual, clickable icons that match your theme. Maintain broad theme compatibility with built-in CSS fixes and run out-of-the-box for fast, lightweight performance on large task lists."
 
     stats: {
-        downloads:  112
+        downloads:  129
         updated_at: 1772791584000
     }
 }

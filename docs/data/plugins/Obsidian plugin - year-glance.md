@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/year-glance
 alt:
   - https://github.com/yy/obsidian-year-glance
-downloads: 151
+downloads: 168
 updated at: "2026-07-13T15:32:26Z"
 related to:
   - "[[GitHub - 1126481891]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a full-year calendar with events marked by colored category indicators and spanning bars for multi-day events. Choose compact or expanded views with 3x4 or single-row month layouts and an optional today marker for quick annual planning."
 
     stats: {
-        downloads:  151
+        downloads:  168
         updated_at: 1783956746000
     }
 }

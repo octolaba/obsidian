@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/imagefull
 alt:
   - https://github.com/bkindler/imagefull
-downloads: 219
+downloads: 260
 updated at: "2026-04-17T09:33:39Z"
 related to:
   - "[[GitHub - 1213348163]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open embedded images in a fullscreen, minimal overlay with gesture-based zoom and pan. Double-click or double-tap to open/close, pinch or use a trackpad to zoom up to 10×, and drag or two-finger swipe to pan in reading view and live preview on desktop and mobile."
 
     stats: {
-        downloads:  219
+        downloads:  260
         updated_at: 1776418419000
     }
 }

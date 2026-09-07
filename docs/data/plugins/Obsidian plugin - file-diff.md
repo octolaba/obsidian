@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-diff
 alt:
   - https://github.com/friebetill/obsidian-file-diff
-downloads: 19836
+downloads: 20274
 updated at: "2025-08-24T00:58:17Z"
 related to:
   - "[[GitHub - 593482928]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Compare the active file with another file and view inline differences. Compare and merge changes between files and apply merges as needed. Find Syncthing sync conflicts across your vault and step through each conflict to merge them sequentially."
 
     stats: {
-        downloads:  19836
+        downloads:  20274
         updated_at: 1755997097000
     }
 }

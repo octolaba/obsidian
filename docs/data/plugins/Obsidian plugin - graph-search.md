@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graph-search
 alt:
   - https://github.com/scottschroeder/obsidian-graph-search
-downloads: 121
+downloads: 130
 updated at: "2026-02-05T18:09:26Z"
 related to:
   - "[[GitHub - 1144786199]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Rank notes by graph proximity while combining title and body relevance to surface results related to specific notes or people. Filter by tags and paths and bias results toward one or more \"near\" notes, with adjustable scoring and falloff to tune relevance."
 
     stats: {
-        downloads:  121
+        downloads:  130
         updated_at: 1770314966000
     }
 }

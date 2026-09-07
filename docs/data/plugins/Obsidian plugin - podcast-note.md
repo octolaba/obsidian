@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/podcast-note
 alt:
   - https://github.com/marcjulianschwarz/obsidian-podcast-note
-downloads: 9290
+downloads: 9319
 updated at: "2026-03-30T20:06:51Z"
 related to:
   - "[[GitHub - 400195719]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create podcast notes from a single episode URL and auto-fetch title, image, description, and metadata. Use custom templates to style generated notes and batch-create linked notes from selected episode links across popular podcast services."
 
     stats: {
-        downloads:  9290
+        downloads:  9319
         updated_at: 1774901211000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cjk-cross-search
 alt:
   - https://github.com/sai1047976/obsidian-cjk-cross-search
-downloads: 91
+downloads: 97
 updated at: "2026-05-07T17:08:32Z"
 related to:
   - "[[GitHub - 1232174750]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bridge Simplified and Traditional Chinese in Obsidian global search by rewriting queries to include variant forms (e.g., 萬維鋼 ↔ 万维钢). Pause rewrites during IME composition, apply OpenCC Taiwan or Basic mappings for common Mainland/Taiwan variants, and handle both typed and programmatic searches on desktop and mobile."
 
     stats: {
-        downloads:  91
+        downloads:  97
         updated_at: 1778173712000
     }
 }

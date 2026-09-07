@@ -392,7 +392,7 @@ operational rules for it.
 ## The `legacy` flag
 
 Community theme entries carry `name`, `author`, `repo`, `screenshot`, `modes`, and an optional
-`legacy` boolean **Observed** (rel: community-css-themes.json:2-9). At this pin 17 of 650 entries
+`legacy` boolean **Observed** (rel: community-css-themes.json:2-9). At this pin 17 of 684 entries
 set it **Observed** (rel: community-css-themes.json:8). Reproduce inside the `rel` checkout:
 
 ```sh

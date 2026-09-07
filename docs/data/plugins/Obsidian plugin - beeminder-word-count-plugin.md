@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/beeminder-word-count-plugin
 alt:
   - https://github.com/kenzan100/beeminder-obsidian-word-count
-downloads: 4358
+downloads: 4377
 updated at: "2021-05-09T22:00:26Z"
 related to:
   - "[[GitHub - 363487558]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Send the selected text's word count from the active editor to a Beeminder goal. Count only the active selection to avoid duplicate reporting and submit the value to your Beeminder account using your goal name and auth token."
 
     stats: {
-        downloads:  4358
+        downloads:  4377
         updated_at: 1620597626000
     }
 }

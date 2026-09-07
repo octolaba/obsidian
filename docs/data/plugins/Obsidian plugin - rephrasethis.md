@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rephrasethis
 alt:
   - https://github.com/grp06/RephraseThis
-downloads: 145
+downloads: 228
 updated at: "2026-06-24T21:34:40Z"
 related to:
   - "[[GitHub - 1279582836]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Polish selected text directly in the editor and replace it in place with reviewed rephrase suggestions. Cycle through alternate suggestions with the keyboard and use Ollama, OpenAI, OpenRouter or any OpenAI-compatible chat API for generation."
 
     stats: {
-        downloads:  145
+        downloads:  228
         updated_at: 1782336880000
     }
 }

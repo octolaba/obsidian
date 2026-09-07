@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/workout-logger
 alt:
   - https://github.com/viscosenpai/obsidian-workout-logger
-downloads: 98
+downloads: 119
 updated at: "2026-06-10T13:46:34Z"
 related to:
   - "[[GitHub - 1199719357]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Log daily strength and cardio workouts in Dataview-compatible inline metadata, recording multiple sets with weight, reps, RPE, calculated volume and estimated 1RM, plus cardio entries with speed, incline, duration and calories. Visualize progress in a sidebar dashboard with charts for body metrics, calories and per-exercise performance; autocomplete and auto-create exercise notes; supports English, Japanese, Chinese and Korean."
 
     stats: {
-        downloads:  98
+        downloads:  119
         updated_at: 1781099194000
     }
 }

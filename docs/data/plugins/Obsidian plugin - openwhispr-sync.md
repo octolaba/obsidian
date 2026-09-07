@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/openwhispr-sync
 alt:
   - https://github.com/samkawsarani/OpenWhispr-to-Obsidian
-downloads: 21
+downloads: 42
 updated at: "2026-07-19T05:54:23Z"
 related to:
   - "[[GitHub - 1305432672]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync OpenWhispr notes, including speaker-labeled meeting transcripts, into an Obsidian vault using the official OpenWhispr CLI. Select which sections to import, organize files by date or folder, preserve rich frontmatter, and deduplicate or update notes in place."
 
     stats: {
-        downloads:  21
+        downloads:  42
         updated_at: 1784440463000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/empty-tab
 alt:
   - https://github.com/waldemar-one/obsidian-empty-tab
-downloads: 34
+downloads: 44
 updated at: "2026-07-03T10:05:08Z"
 related to:
   - "[[GitHub - 1288122674]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a Command Palette command to replace the current tab with Obsidian's empty view. Clear the tab's content while keeping the tab open and history intact; no files are read, written, or deleted."
 
     stats: {
-        downloads:  34
+        downloads:  44
         updated_at: 1783073108000
     }
 }

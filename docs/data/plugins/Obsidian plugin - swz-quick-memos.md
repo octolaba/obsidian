@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/swz-quick-memos
 alt:
   - https://github.com/weblogicjava/swz-quick-memos
-downloads: 232
-updated at: "2026-07-19T08:32:26Z"
+downloads: 360
+updated at: "2026-08-03T00:39:51Z"
 related to:
   - "[[GitHub - 1275827138]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Capture quick notes, ideas and todos as plain Markdown in a per-day yyyy-MM-dd-quick-memos.md file under a Quick Memo section. Open a fast overview panel to add, edit, delete, copy block links and toggle todo checkboxes that sync back to Markdown. Search and filter by type, tag or keyword, view a three-month activity heatmap, and rebuild the index from Markdown."
 
     stats: {
-        downloads:  232
-        updated_at: 1784449946000
+        downloads:  360
+        updated_at: 1785717591000
     }
 }
 ```

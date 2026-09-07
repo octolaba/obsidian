@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-search
 alt:
   - https://github.com/razeghi71/obsidian-image-search
-downloads: 1940
+downloads: 1977
 updated at: "2026-02-03T20:41:39Z"
 related to:
   - "[[GitHub - 786895792]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search the web for images via the Brave Search API directly inside Obsidian. Preview results and insert selected images into your current note; requires a Brave Search API key."
 
     stats: {
-        downloads:  1940
+        downloads:  1977
         updated_at: 1770151299000
     }
 }

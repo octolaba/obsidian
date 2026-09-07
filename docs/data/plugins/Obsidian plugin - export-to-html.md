@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/export-to-html
 alt:
   - https://github.com/kalvn/obsidian-export-to-html
-downloads: 8842
+downloads: 9187
 updated at: "2026-05-12T20:09:08Z"
 related to:
   - "[[GitHub - 865017132]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export note content as HTML to the clipboard or as a downloadable HTML file. Preserve formatting and embed images as base64 so exported HTML retains visual fidelity when pasted or opened elsewhere."
 
     stats: {
-        downloads:  8842
+        downloads:  9187
         updated_at: 1778616548000
     }
 }

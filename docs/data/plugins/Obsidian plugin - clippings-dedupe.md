@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/clippings-dedupe
 alt:
   - https://github.com/somasekimoto/obsidian-clippings-dedupe
-downloads: 19
+downloads: 40
 updated at: "2026-07-16T16:37:27Z"
 related to:
   - "[[GitHub - 1301887586]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Merge duplicate highlights appended by the Obsidian Web Clipper by matching quoted text and preserve all comments under each quote. Consolidate appended highlight sections into the main highlights area, fold appended sections back, and save a backup snapshot before rewriting; run automatically after a clip or trigger manually."
 
     stats: {
-        downloads:  19
+        downloads:  40
         updated_at: 1784219847000
     }
 }

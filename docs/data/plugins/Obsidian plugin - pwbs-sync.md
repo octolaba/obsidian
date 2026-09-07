@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pwbs-sync
 alt:
   - https://github.com/sauremilk/obsidian-pwbs-sync
-downloads: 84
+downloads: 93
 updated at: "2026-03-16T14:02:59Z"
 related to:
   - "[[GitHub - 1183317714]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault with an AI engine to deliver context-aware briefings when you need them. Get morning summaries, meeting prep from calendar and notes, and on-demand project briefings in the sidebar, with Google Calendar, Notion and Zoom connections and source references."
 
     stats: {
-        downloads:  84
+        downloads:  93
         updated_at: 1773669779000
     }
 }

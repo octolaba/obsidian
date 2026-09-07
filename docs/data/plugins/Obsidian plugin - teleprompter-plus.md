@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/teleprompter-plus
 alt:
   - https://github.com/juracyamerico/obsidian-teleprompter-plus
-downloads: 406
+downloads: 452
 updated at: "2026-07-21T16:59:36Z"
 related to:
   - "[[GitHub - 1125850354]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a distraction-free teleprompter in Obsidian with eyeline guide, adjustable speed and font size, real-time position tracking, and hierarchical section navigation. Control playback from a mobile remote or external clients and integrate Stream Deck via WebSocket for 55+ real-time actions and visual feedback."
 
     stats: {
-        downloads:  406
+        downloads:  452
         updated_at: 1784653176000
     }
 }

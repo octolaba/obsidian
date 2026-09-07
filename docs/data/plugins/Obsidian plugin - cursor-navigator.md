@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cursor-navigator
 alt:
   - https://github.com/malelestudyhome/cursor-navigator
-downloads: 139
+downloads: 208
 updated at: "2026-06-23T13:10:29Z"
 related to:
   - "[[GitHub - 1277592099]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Remember and restore cursor and scroll positions for every note to resume editing exactly where you left off. Navigate a global, deduplicated cursor history across notes with VS Code–style back/forward (Alt+← / Alt+→), track tab switches and link jumps, and auto-clean invalid entries."
 
     stats: {
-        downloads:  139
+        downloads:  208
         updated_at: 1782220229000
     }
 }

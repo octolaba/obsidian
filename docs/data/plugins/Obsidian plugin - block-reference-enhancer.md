@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/block-reference-enhancer
 alt:
   - https://github.com/msjsc001/obsidian-block-reference-enhancer
-downloads: 336
-updated at: "2026-07-06T08:01:21Z"
+downloads: 487
+updated at: "2026-07-30T05:11:37Z"
 related to:
   - "[[GitHub - 1063101179]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Bring Logseq-style UUID block references, block embeds, and outlines to Obsidian. Render ((uuid)) references and {{embed ((uuid))}} transclusions in Live Preview and Reading Mode with full child blocks, backlinks, source navigation, autocomplete, reference badges, property hiding, and local indexing for large Markdown vaults. Designed for Logseq-to-Obsidian migration, with optional page-property and YAML frontmatter sync while preserving original Markdown."
 
     stats: {
-        downloads:  336
-        updated_at: 1783324881000
+        downloads:  487
+        updated_at: 1785388297000
     }
 }
 ```

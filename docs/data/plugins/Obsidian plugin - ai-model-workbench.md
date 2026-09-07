@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-model-workbench
 alt:
   - https://github.com/flash555588/ai-model-workbench
-downloads: 262
+downloads: 284
 updated at: "2026-07-12T15:31:50Z"
 related to:
   - "[[GitHub - 1231680323]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View 3D assets in Obsidian with direct rendering of GLB/GLTF, STL, OBJ, PLY and SPLAT, plus optional local conversion for CAD, FBX and other exchange formats. Annotate parts with depth-aware pins and labels, arrange multiple models in a grid, capture snapshots, and generate linked Markdown knowledge notes for desktop and mobile with English and Simplified Chinese."
 
     stats: {
-        downloads:  262
+        downloads:  284
         updated_at: 1783870310000
     }
 }

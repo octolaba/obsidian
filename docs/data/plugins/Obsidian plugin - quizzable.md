@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quizzable
 alt:
   - https://github.com/monapdx/Quizzable
-downloads: 14
+downloads: 56
 updated at: "2026-07-21T14:44:28Z"
 related to:
   - "[[GitHub - 1307781140]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and play interactive quizzes inside Obsidian notes using a simple YAML block. Use seven question types, two play modes, instant scoring with partial credit and per-question feedback, retry anytime and optional progress saving; works fully offline and stays self-contained."
 
     stats: {
-        downloads:  14
+        downloads:  56
         updated_at: 1784645068000
     }
 }

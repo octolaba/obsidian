@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-pilot
 alt:
   - https://github.com/lowshot31/note-pilot
-downloads: 180
+downloads: 233
 updated at: "2026-06-07T23:02:31Z"
 related to:
   - "[[GitHub - 1261881519]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add an AI work panel to Obsidian to ask a model about the active note or selected text and connect to major providers or local endpoints. Turn write requests into reviewed vault actions—create, append, or modify Markdown files—and apply changes only after you inspect and confirm them."
 
     stats: {
-        downloads:  180
+        downloads:  233
         updated_at: 1780873351000
     }
 }

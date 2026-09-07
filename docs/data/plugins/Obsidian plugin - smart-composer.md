@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-composer
 alt:
   - https://github.com/glowingjade/obsidian-smart-composer
-downloads: 165299
+downloads: 168136
 updated at: "2026-01-26T09:53:20Z"
 related to:
   - "[[GitHub - 871077977]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Compose with AI using notes from your vault as context to generate, edit, and expand content directly in Obsidian. Connect to OpenAI, Google Gemini, Anthropic Claude, GPT-5.2 and other models, and link external tools and data via the Model Context Protocol."
 
     stats: {
-        downloads:  165299
+        downloads:  168136
         updated_at: 1769421200000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/codex-narrative-engine
 alt:
   - https://github.com/djinnmind/codex-narrative-engine
-downloads: 345
+downloads: 415
 updated at: "2026-05-12T20:58:58Z"
 related to:
   - "[[GitHub - 1197985870]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Index your campaign notes by frontmatter to build a live entity index with smart [[wiki-link]] autocomplete and hover summaries. Detect dead links and logical state conflicts, view warnings, and create or rename entities with references updated automatically. Use your own AI key to chat with Lore Chat, expand stubs, and generate NPCs, locations, items and other lore grounded in your vault."
 
     stats: {
-        downloads:  345
+        downloads:  415
         updated_at: 1778619538000
     }
 }

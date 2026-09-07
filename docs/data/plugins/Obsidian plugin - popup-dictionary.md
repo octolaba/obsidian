@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/popup-dictionary
 alt:
   - https://github.com/ntsiris/obsidian-popup-dictionary
-downloads: 214
+downloads: 313
 updated at: "2026-06-21T20:36:41Z"
 related to:
   - "[[GitHub - 1276100734]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show word definitions in a compact popup by selecting text or holding a modifier key and hovering; move into the popup to scroll or follow links. Fetch definitions from Wiktionary across many languages, detect word boundaries in scripts without spaces, and link back to the source."
 
     stats: {
-        downloads:  214
+        downloads:  313
         updated_at: 1782074201000
     }
 }

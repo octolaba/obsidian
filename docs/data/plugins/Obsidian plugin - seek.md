@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/seek
 alt:
   - https://github.com/ryan-manor/Obsidian-Seek
-downloads: 780
-updated at: "2026-07-17T21:33:48Z"
+downloads: 1208
+updated at: "2026-08-03T15:29:31Z"
 related to:
   - "[[GitHub - 1277465280]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Seek brings cutting edge hybrid search to Obsidian. It combines semantic embeddings, with keyword ranking and fuses them into a single, relevance-ranked result list. You get the right note whether you remember the wording or just the idea, without complex configuration or setup. Everything runs locally and inside Obsidian with no external APIs and no local servers."
 
     stats: {
-        downloads:  780
-        updated_at: 1784324028000
+        downloads:  1208
+        updated_at: 1785770971000
     }
 }
 ```

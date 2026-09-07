@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/skeletal
 alt:
   - https://github.com/monapdx/obsidian-skeletal
-downloads: 47
+downloads: 64
 updated at: "2026-07-17T10:03:14Z"
 related to:
   - "[[GitHub - 1303727802]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse a searchable library of 47 configurable Markdown templates across categories, favorites, and recent items. Customize template fields, preview raw or rendered output, then insert or copy Markdown at the cursor; maintain managed task progress bars that recalc from checkbox changes without rewriting the rest of the note."
 
     stats: {
-        downloads:  47
+        downloads:  64
         updated_at: 1784282594000
     }
 }

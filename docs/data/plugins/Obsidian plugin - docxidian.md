@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/docxidian
 alt:
   - https://github.com/kpaede/docxidian
-downloads: 958
+downloads: 1201
 updated at: "2026-05-20T19:40:07Z"
 related to:
   - "[[GitHub - 1243401679]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Open .docx files directly inside Obsidian and edit them in-place, saving changes back to the original vault file. Embed read-only .docx documents in notes using ![[filename.docx]] for inline viewing."
 
     stats: {
-        downloads:  958
+        downloads:  1201
         updated_at: 1779306007000
     }
 }

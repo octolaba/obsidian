@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/history-today
 alt:
   - https://github.com/yaob1990/obsidian-history-today
-downloads: 743
+downloads: 752
 updated at: "2024-11-17T14:11:39Z"
 related to:
   - "[[GitHub - 878713475]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display historical events that happened on this day by pulling dates from your notes. Filter which folders to include and set the display language; events use the note's metadata date when available or fall back to file ctime."
 
     stats: {
-        downloads:  743
+        downloads:  752
         updated_at: 1731852699000
     }
 }

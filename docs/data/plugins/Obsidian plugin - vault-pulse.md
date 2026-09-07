@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-pulse
 alt:
   - https://github.com/stefmf/vault-pulse
-downloads: 148
+downloads: 196
 updated at: "2026-05-18T21:19:53Z"
 related to:
   - "[[GitHub - 1209932560]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a GitHub-style 53×7 activity heatmap for the last year in a collapsible right sidebar and click any day to list the files edited that day. Use adaptive quantile colors and five palettes, view a 30-day sparkline, filter by folder or tag, and track streak milestones and lifetime best."
 
     stats: {
-        downloads:  148
+        downloads:  196
         updated_at: 1779139193000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markcalc
 alt:
   - https://github.com/levis-code/markcalc
-downloads: 166
+downloads: 206
 updated at: "2026-06-08T21:24:08Z"
 related to:
   - "[[GitHub - 1263326114]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Compute spreadsheet-style formulas directly inside Markdown tables and write results as plain Markdown so values stay readable, versionable and usable outside Obsidian. Reference tables across notes with auto-recalculation, embed in-note functions and get context-aware autocomplete for formulas."
 
     stats: {
-        downloads:  166
+        downloads:  206
         updated_at: 1780953848000
     }
 }

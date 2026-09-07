@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/stardust-importer
 alt:
   - https://github.com/sonophage/stardust-importer
-downloads: 77
+downloads: 149
 updated at: "2026-06-15T22:48:19Z"
 related to:
   - "[[GitHub - 1270547076]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import watched movies from Trakt and reconstruct full-album listens from Last.fm scrobbles using session detection into notes via your Templater templates. Create Movies - <title> and Albums - <title> notes with TMDB and MusicBrainz metadata, mark re-watches and relistens, and flag low-confidence album matches for review."
 
     stats: {
-        downloads:  77
+        downloads:  149
         updated_at: 1781563699000
     }
 }

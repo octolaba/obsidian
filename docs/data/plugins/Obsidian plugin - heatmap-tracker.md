@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/heatmap-tracker
 alt:
   - https://github.com/mokkiebear/heatmap-tracker
-downloads: 39909
-updated at: "2026-07-23T15:47:36Z"
+downloads: 43206
+updated at: "2026-08-04T08:32:11Z"
 related to:
   - "[[GitHub - 894154619]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create interactive yearly heatmaps to track and visualize numeric or boolean frontmatter data across daily notes. Use Dataview to pull and aggregate multiple properties, customize display, and insert heatmaps via an interactive modal for habit tracking, project progress, or trend analysis."
 
     stats: {
-        downloads:  39909
-        updated_at: 1784821656000
+        downloads:  43206
+        updated_at: 1785832331000
     }
 }
 ```

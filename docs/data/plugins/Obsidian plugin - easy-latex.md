@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/easy-latex
 alt:
   - https://github.com/wmwby/obsidian-easy-latex
-downloads: 219
+downloads: 292
 updated at: "2026-06-09T15:40:40Z"
 related to:
   - "[[GitHub - 1255662123]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Get intelligent LaTeX auto-completion inside math zones ($...$, $$...$$, and LaTeX code blocks) with a searchable list of 200+ commands and prefix or description filtering. Match Chinese, English, Japanese and Korean math keywords without a backslash to commands, and generate LaTeX formulas from natural-language descriptions via any OpenAI-compatible API."
 
     stats: {
-        downloads:  219
+        downloads:  292
         updated_at: 1781019640000
     }
 }

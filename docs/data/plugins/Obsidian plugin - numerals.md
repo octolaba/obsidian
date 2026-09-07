@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/numerals
 alt:
   - https://github.com/gtg922r/obsidian-numerals
-downloads: 65215
+downloads: 66975
 updated at: "2026-05-19T06:34:42Z"
 related to:
   - "[[GitHub - 552234230]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Calculate advanced expressions inside math code blocks with units, currencies, variables, math functions, constants, and base conversions. Display evaluated results inline with TeX-style rendering or syntax highlighting, get auto-complete and comments (#), mark key outputs with => and compute sums with @sum/@total or reuse @prev."
 
     stats: {
-        downloads:  65215
+        downloads:  66975
         updated_at: 1779172482000
     }
 }

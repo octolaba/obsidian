@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vox
 alt:
   - https://github.com/vincentbavitz/obsidian-vox
-downloads: 7403
+downloads: 7475
 updated at: "2026-06-11T20:19:51Z"
 related to:
   - "[[GitHub - 647071781]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transcribe voice notes into searchable Markdown files with frontmatter, tags and automatic categorization. Watch an unprocessed folder, queue new audio for remote transcription (English-tuned, 100 transcriptions/day), and save completed notes to your vault."
 
     stats: {
-        downloads:  7403
+        downloads:  7475
         updated_at: 1781209191000
     }
 }

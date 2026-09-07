@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-metadata
 alt:
   - https://github.com/wenlzhang/obsidian-copy-metadata
-downloads: 3516
+downloads: 3618
 updated at: "2026-03-28T08:45:31Z"
 related to:
   - "[[GitHub - 686336381]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy metadata to the clipboard and append the note's creation timestamp to the active file name to add Zettelkasten-style timestamps. Speed up renaming and migrating quick mobile notes when moving them to desktop."
 
     stats: {
-        downloads:  3516
+        downloads:  3618
         updated_at: 1774687531000
     }
 }

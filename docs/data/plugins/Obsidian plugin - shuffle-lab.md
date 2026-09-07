@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/shuffle-lab
 alt:
   - https://github.com/mars-marcelyn/Shuffle-Lab
-downloads: 91
+downloads: 102
 updated at: "2026-06-18T18:03:01Z"
 related to:
   - "[[GitHub - 1267688818]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run fullscreen randomized image slideshows from any vault folder for drawing practice, presentations, or reference. Set per-image durations and looping, show an optional intro markdown slide, view a live session timer, and log sessions to prioritize unseen images next time."
 
     stats: {
-        downloads:  91
+        downloads:  102
         updated_at: 1781805781000
     }
 }

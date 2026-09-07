@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/mood-calendar
 alt:
   - https://github.com/github-xzhi/obsidian-mood-calendar
-downloads: 13
-updated at: "2026-07-20T16:48:28Z"
+downloads: 147
+updated at: "2026-08-03T16:42:49Z"
 related to:
   - "[[GitHub - 1306548453]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Display a sidebar calendar with each day's mood emoji read from note frontmatter and embed it in any note. Create or update daily notes with a one-click mood picker, hover-edit mood values, and keep the calendar synced to the active file via daily-notes integration."
 
     stats: {
-        downloads:  13
-        updated_at: 1784566108000
+        downloads:  147
+        updated_at: 1785775369000
     }
 }
 ```

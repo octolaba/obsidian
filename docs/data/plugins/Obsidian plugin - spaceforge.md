@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/spaceforge
 alt:
   - https://github.com/dralkh/spaceforge
-downloads: 1487
+downloads: 1521
 updated at: "2026-05-21T06:54:48Z"
 related to:
   - "[[GitHub - 1029439772]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn notes into intelligent flashcards and schedule reviews with FSRS or enhanced SM-2 spaced repetition. Generate AI-powered multiple-choice quizzes from notes and review upcoming items in a dedicated sidebar. Use the integrated Pomodoro timer to run focused study sessions and track progress."
 
     stats: {
-        downloads:  1487
+        downloads:  1521
         updated_at: 1779346488000
     }
 }

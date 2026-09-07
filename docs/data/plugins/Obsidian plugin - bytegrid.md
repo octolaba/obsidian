@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bytegrid
 alt:
   - https://github.com/waaraawa/ByteGrid
-downloads: 179
+downloads: 198
 updated at: "2026-06-17T01:24:59Z"
 related to:
   - "[[GitHub - 1069213703]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize binary data and C-struct memory layouts from YAML definitions as interactive, byte-accurate SVG diagrams. Display bitfield-level detail, automatic color-coded fields, byte- or bit-layout modes and flexible legends to document protocols, file formats, and reverse-engineering tasks."
 
     stats: {
-        downloads:  179
+        downloads:  198
         updated_at: 1781659499000
     }
 }

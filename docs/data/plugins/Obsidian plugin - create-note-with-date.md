@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/create-note-with-date
 alt:
   - https://github.com/kargnas/obsidian-create-note-with-date
-downloads: 416
+downloads: 441
 updated at: "2025-05-30T17:52:41Z"
 related to:
   - "[[GitHub - 966288072]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a new note named YYYY-MM-DD.md in the current directory to capture today's journal, meeting notes, or any date-based entry. Open the new note automatically for immediate editing and support seven languages with smart system-language detection. Keep workflow lightweight with no external dependencies."
 
     stats: {
-        downloads:  416
+        downloads:  441
         updated_at: 1748627561000
     }
 }

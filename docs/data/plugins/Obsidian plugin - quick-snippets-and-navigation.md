@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quick-snippets-and-navigation
 alt:
   - https://github.com/ieviev/obsidian-keyboard-shortcuts
-downloads: 8009
+downloads: 8040
 updated at: "2025-03-01T17:15:44Z"
 related to:
   - "[[GitHub - 521015648]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Navigate headings and empty lines with keyboard commands and select entire heading blocks while editing. Copy code blocks quickly—pick from a searchable list or copy the next block nearest the cursor. Insert preset code blocks or callouts with the cursor positioned for immediate editing and search notes by tag via Quick Switcher extensions."
 
     stats: {
-        downloads:  8009
+        downloads:  8040
         updated_at: 1740849344000
     }
 }

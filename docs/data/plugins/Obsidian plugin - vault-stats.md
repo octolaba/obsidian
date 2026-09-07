@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-stats
 alt:
   - https://github.com/blueheron786/obsidian-stats-plugin
-downloads: 1300
+downloads: 1375
 updated at: "2025-07-01T00:36:54Z"
 related to:
   - "[[GitHub - 1005273503]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show vault statistics and recent edits directly inside notes or scripts. Call showStats() to return a markdown summary of note count, word count, links, and tags, or call showLastModifiedNotes(numItems, excludeFolder) to return a markdown list of the most recently modified notes with optional item count and folder exclusion."
 
     stats: {
-        downloads:  1300
+        downloads:  1375
         updated_at: 1751330214000
     }
 }

@@ -59,7 +59,7 @@ Emission rules (`scripts/datablock.mjs`), all deterministic, because the gate re
   what disarms CUE's `\(` interpolation.
 - Integers and booleans are raw; lists are inline (`["dark", "light"]`).
 - An absent optional value is **omitted**, never written as `null` — `about` when the Directory
-  carries none, `stats` for the 73 ids without a stats entry, `legacy` unless the index row carries
+  carries none, `stats` for the 19 ids without a stats entry, `legacy` unless the index row carries
   the rare key, `license`, `homepage`, `language`, `description`, and `readme` for a repository with
   no README.
 
@@ -145,7 +145,7 @@ against the note's own H1; a note whose first two aliases are not `name` then `n
 | `tags` | template | `type/bookmark`, `bookmark/obsidian`, `obsidian/plugin` |
 | `url` | derived | `https://community.obsidian.md/plugins/{id}` |
 | `alt` | derived | `https://github.com/{repo}` |
-| `downloads` | Plugin Stats | raw integer; **empty while the id has no stats entry** (73 at the pin) |
+| `downloads` | Plugin Stats | raw integer; **empty while the id has no stats entry** (19 at the pin) |
 | `updated at` | Plugin Stats | epoch ms → ISO 8601 UTC; empty while absent |
 | `related to` | derived | `[[GitHub - {numeric id}]]`, bare, machine-guaranteed; human additions preserved |
 | `remind me` | human | never written |
@@ -172,9 +172,11 @@ against the note's own H1; a note whose first two aliases are not `name` then `n
 | Data block | captured | the `theme` record, filled, below the embed; overwritten on refresh |
 
 The screenshot embed is `![{name} screenshot](https://raw.githubusercontent.com/{repo}/HEAD/{path})`
-with each path segment URL-encoded — eleven pinned paths carry spaces or other URL-hostile
-characters, for example `preview_Blue Topaz.png` → `preview_Blue%20Topaz.png`. An address that
-answers 404 omits the embed and records the lane.
+with each path segment URL-encoded — 12 pinned paths carry spaces or other URL-hostile characters,
+for example `preview_Blue Topaz.png` → `preview_Blue%20Topaz.png`. Encoding is not repair: a path
+whose *trailing* space survives into `…/screenshot.png%20` derives an address that answers 404, and
+two rows at this pin are in exactly that state. An address that answers 404 omits the embed and
+records the lane.
 
 Themes have no stats source, so no download or update properties exist. A theme rename that changes
 the slug is removal plus addition and is queued for the owner (rename-suspect); a rename that keeps

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tasting-notes
 alt:
   - https://github.com/wesswart77/obsidian-tasting-notes
-downloads: 95
+downloads: 105
 updated at: "2026-05-24T20:06:45Z"
 related to:
   - "[[GitHub - 1248533057]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Log wine, whisky, beer and other tasting notes with producer, vintage, nose, palate, finish, ratings and cellar status. Record wine-specific fields (colour, grape varieties) and whisky details (distillery, age, ABV, cask), mark bottles as in cellar with quantity and purchase date, and browse notes in a rating-sorted tasting sidebar with All/Wine/Whisky tabs."
 
     stats: {
-        downloads:  95
+        downloads:  105
         updated_at: 1779653205000
     }
 }

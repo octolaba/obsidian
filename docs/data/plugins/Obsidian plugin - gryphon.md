@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/gryphon
 alt:
   - https://github.com/polleoai/gryphon
-downloads: 378
-updated at: "2026-07-07T04:24:47Z"
+downloads: 446
+updated at: "2026-08-02T17:18:55Z"
 related to:
   - "[[GitHub - 1220958450]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Chat with Claude inside Obsidian, read and edit vault files, and run tools via a lightweight reactive chat surface using the Anthropic API or an optional local Claude CLI. Keep vault access safe with built-in guardrails that require approval for dangerous files/commands, show edit diffs, and stream responses inline."
 
     stats: {
-        downloads:  378
-        updated_at: 1783398287000
+        downloads:  446
+        updated_at: 1785691135000
     }
 }
 ```

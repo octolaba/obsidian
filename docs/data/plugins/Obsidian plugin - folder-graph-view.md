@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-graph-view
 alt:
   - https://github.com/codaloc/FolderGraph
-downloads: 557
+downloads: 709
 updated at: "2026-05-28T13:15:47Z"
 related to:
   - "[[GitHub - 1250680130]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "This plugin will modify your existing obsidian graph view to add named nodes for the parent folders of every node and links between them creating a tree structure."
 
     stats: {
-        downloads:  557
+        downloads:  709
         updated_at: 1779974147000
     }
 }

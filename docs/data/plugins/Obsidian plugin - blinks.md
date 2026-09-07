@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/blinks
 alt:
   - https://github.com/diagonalcounty/blinks
-downloads: 52
+downloads: 74
 updated at: "2026-07-11T22:10:16Z"
 related to:
   - "[[GitHub - 1297813293]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Blinks makes linking to a specific paragraph feel like something a human would design—not a scavenger hunt ending in #^fa5d4c. The problem Obsidian’s file picker is great. Everything after that is awkward. You remember the words (“Chrissy delivered beds,” “the problem,” “reunion rocks”), not a random block id. Native block search is token-y, opaque ids are painful in git, and the usual flow—pick a note, get stuck with ]], back up, type #^—breaks your train of thought. What Blinks does 1. Pick a note the normal way with [[ (Tab or click—yes, even when Obsidian closes the link with ]]). 2. Move before the closing brackets and type ^^. 3. Search that note by phrase. Results show section context + a short preview. 4. Pick a block. Blinks inserts a real Obsidian block link with a readable id, e.g. [[Note#^current-people-bios-have|bios]] and writes ^current-people-bios-have on the target line if it isn’t there yet. Those are standard #^ block links.. don't worry. ;-)"
 
     stats: {
-        downloads:  52
+        downloads:  74
         updated_at: 1783807816000
     }
 }

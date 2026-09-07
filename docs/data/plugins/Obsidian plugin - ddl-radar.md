@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ddl-radar
 alt:
   - https://github.com/yzyhhhstudy/paper-deadlines
-downloads: 35
+downloads: 46
 updated at: "2026-07-06T05:20:14Z"
 related to:
   - "[[GitHub - 1287864233]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track submission deadlines for ~70 CS conferences across 16 areas with live countdowns, alias-aware search, and calendar export. Star favorites, get abstract-deadline warnings and browser notifications, view 5-year patterns, timeline or kanban board, and share filtered URLs."
 
     stats: {
-        downloads:  35
+        downloads:  46
         updated_at: 1783315214000
     }
 }

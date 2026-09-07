@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tab-swap
 alt:
   - https://github.com/masaki39/tab-swap
-downloads: 201
+downloads: 206
 updated at: "2026-05-21T06:53:23Z"
 related to:
   - "[[GitHub - 1117162316]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Swap active editor tabs left or right with a single command. Assign custom hotkeys to swap tabs or jump to previous/next tabs for faster tab management."
 
     stats: {
-        downloads:  201
+        downloads:  206
         updated_at: 1779346403000
     }
 }

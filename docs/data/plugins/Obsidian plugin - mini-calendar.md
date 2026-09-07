@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mini-calendar
 alt:
   - https://github.com/rancelee233/Mini-Calendar
-downloads: 212
+downloads: 264
 updated at: "2026-06-25T01:50:46Z"
 related to:
   - "[[GitHub - 1276660572]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a compact one-week calendar directly under the File Explorer while keeping the folder tree scrollable above. Navigate weeks, jump to today, and click dates to open or create Daily Notes, with dots showing existing notes and unfinished tasks. Respect Daily Notes folder, filename format, and templates."
 
     stats: {
-        downloads:  212
+        downloads:  264
         updated_at: 1782352246000
     }
 }

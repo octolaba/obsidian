@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/habit-heatmap-calendar
 alt:
   - https://github.com/alt-forge/Habit-Heatmap-Calendar
-downloads: 157
+downloads: 203
 updated at: "2026-06-14T07:17:23Z"
 related to:
   - "[[GitHub - 1262014345]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track habits with a compact heatmap calendar showing daily completed, missed, or untracked days. Add unlimited habits, view yearly statistics and switch years, storing all data in a single JSON file without creating notes."
 
     stats: {
-        downloads:  157
+        downloads:  203
         updated_at: 1781421443000
     }
 }

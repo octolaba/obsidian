@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cevent-planner
 alt:
   - https://github.com/abdur-nur-porag/CEvent-Planner
-downloads: 196
+downloads: 229
 updated at: "2026-07-05T04:48:34Z"
 related to:
   - "[[GitHub - 1245856915]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Plan events and tasks inside your Markdown notes and display them in a live calendar, day list, or all-tasks dashboard. Scan your vault for events, set per-event alarms and recurring rules, drag-and-drop to reschedule with automatic Markdown updates, and assign colors, icons, and tags."
 
     stats: {
-        downloads:  196
+        downloads:  229
         updated_at: 1783226914000
     }
 }

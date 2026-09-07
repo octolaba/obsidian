@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-folder-collapse
 alt:
   - https://github.com/dariocasciato/obsidian-auto-folder-collapse
-downloads: 6750
+downloads: 7078
 updated at: "2025-12-23T16:50:00Z"
 related to:
   - "[[GitHub - 830009443]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Collapse child folders automatically when you collapse a parent to keep the file explorer organized and clutter-free. Create an accordion-style sidebar by collapsing unrelated folders on expand to keep focus on the active branch."
 
     stats: {
-        downloads:  6750
+        downloads:  7078
         updated_at: 1766508600000
     }
 }

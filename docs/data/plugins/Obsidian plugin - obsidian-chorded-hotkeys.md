@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-chorded-hotkeys
 alt:
   - https://github.com/treymeyers/obsidian-chorded-hotkeys
-downloads: 4977
+downloads: 4995
 updated at: "2023-10-30T01:53:02Z"
 related to:
   - "[[GitHub - 559301975]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Trigger text insertion, paste file or template content (Templater supported), or execute commands using simultaneous key chords. Create chords of 2–4 keys whose order doesn't matter and assign each chord to a text, file, template, or command action."
 
     stats: {
-        downloads:  4977
+        downloads:  4995
         updated_at: 1698630782000
     }
 }

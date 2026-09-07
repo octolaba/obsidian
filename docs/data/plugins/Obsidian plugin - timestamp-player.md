@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/timestamp-player
 alt:
   - https://github.com/zhoulianglen/obsidian-timestamp-player
-downloads: 246
+downloads: 290
 updated at: "2026-05-21T13:42:18Z"
 related to:
   - "[[GitHub - 1181986352]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed audio players in notes and convert speaker-line or inline MM:SS timestamps into clickable seek buttons. Toggle play/pause, auto-highlight the current timestamp as audio plays, and partition multiple recordings so each file controls timestamps in its section."
 
     stats: {
-        downloads:  246
+        downloads:  290
         updated_at: 1779370938000
     }
 }

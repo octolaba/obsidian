@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/url-name-extractor
 alt:
   - https://github.com/valenzine/obsidian-url-name-extractor
-downloads: 243
+downloads: 268
 updated at: "2026-05-16T14:15:32Z"
 related to:
   - "[[GitHub - 1120453021]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Name raw URLs in selected text by fetching page titles and inserting readable link text, with site-specific extraction and fallbacks to Archive.org and Microlink for bot-protected pages. Detect URLs using a liberal, configurable regex and apply a progressive request strategy to minimize anti-bot triggers while providing clear error messages and graceful degradation."
 
     stats: {
-        downloads:  243
+        downloads:  268
         updated_at: 1778940932000
     }
 }

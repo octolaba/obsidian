@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/to-word
 alt:
   - https://github.com/pixerojan/obsidian-toword
-downloads: 5087
+downloads: 6153
 updated at: "2026-06-15T14:11:32Z"
 related to:
   - "[[GitHub - 1071318938]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export Markdown notes to Microsoft Word (DOCX) with full text styling, preserved headings, lists, tables, images, hyperlinks, and VS Code–style syntax highlighting for code. Save DOCX files directly into your vault for seamless access on desktop, iPhone, and Android, with proper table formatting and multiple page size options."
 
     stats: {
-        downloads:  5087
+        downloads:  6153
         updated_at: 1781532692000
     }
 }

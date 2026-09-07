@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/goban-sgf
 alt:
   - https://github.com/stinsonzhao/obsidian-plugin-goban-sgf
-downloads: 1468
+downloads: 1520
 updated at: "2024-04-08T08:36:49Z"
 related to:
   - "[[GitHub - 745440810]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage and study Go game records in Obsidian using SGF files with a Sabaki-inspired interface. Play through variations, add comments and markers, import/export SGF, render SGF code blocks, and display partial boards for life-and-death problems."
 
     stats: {
-        downloads:  1468
+        downloads:  1520
         updated_at: 1712565409000
     }
 }

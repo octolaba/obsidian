@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/claude-code-skills
 alt:
   - https://github.com/p3nguln5/obsidian-claude-code-skills
-downloads: 1117
+downloads: 1489
 updated at: "2026-05-15T23:18:06Z"
 related to:
   - "[[GitHub - 1168186247]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect your notes to the Claude Code CLI. Highlight text, right-click to run a Claude skill and stream AI responses into a persistent side panel. Preserve multi-turn context, open a freeform chat, and export full conversations as vault notes."
 
     stats: {
-        downloads:  1117
+        downloads:  1489
         updated_at: 1778887086000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-autopilot
 alt:
   - https://github.com/echore/vault-autopilot
-downloads: 18
+downloads: 26
 updated at: "2026-07-19T01:31:53Z"
 related to:
   - "[[GitHub - 1298821830]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save screenshots and video clips from Obsidian Visual Clipper as structured notes, storing images in organized subfolders. Merge clips from the same video into one note with added sections and return an obsidian:// link to the created or updated note."
 
     stats: {
-        downloads:  18
+        downloads:  26
         updated_at: 1784424713000
     }
 }

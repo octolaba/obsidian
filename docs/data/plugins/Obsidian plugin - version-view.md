@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/version-view
 alt:
   - https://github.com/maoqingwei/obsidian-version-view
-downloads: 441
+downloads: 494
 updated at: "2026-05-28T03:54:51Z"
 related to:
   - "[[GitHub - 1243080991]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save file snapshots with optional names and descriptions and restore any version with one click. Compare versions side-by-side with line-numbered diffs highlighting additions and deletions, compare any two versions or with the current note, toggle fullscreen and filter to show only changed lines."
 
     stats: {
-        downloads:  441
+        downloads:  494
         updated_at: 1779940491000
     }
 }

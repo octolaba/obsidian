@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/ostracon-ob
 alt:
   - https://github.com/temsys-shen/ostracon-ob
-downloads: 72
-updated at: "2026-07-23T19:37:30Z"
+downloads: 493
+updated at: "2026-08-10T01:18:41Z"
 related to:
   - "[[GitHub - 1289900716]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Connect Obsidian to MarginNote over a local WebSocket and approve devices on first connection. Import MarginNote cards, Markdown/HTML and Canvas content into your vault and browse or filter them in a right-side panel; send Obsidian notes to MarginNote or export rendered vault documents as PDFs into a MarginNote study set."
 
     stats: {
-        downloads:  72
-        updated_at: 1784835450000
+        downloads:  493
+        updated_at: 1786324721000
     }
 }
 ```

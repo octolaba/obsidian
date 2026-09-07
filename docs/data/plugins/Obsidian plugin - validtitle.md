@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/validtitle
 alt:
   - https://github.com/sajee05/obsidian-ValidTitle
-downloads: 45
+downloads: 69
 updated at: "2026-07-08T17:13:12Z"
 related to:
   - "[[GitHub - 1291337303]]"
@@ -36,7 +36,7 @@ plugin: {
     description: "Automatically prevents 'File name cannot contain...' errors by safely sanitizing illegal characters in wikilinks. - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  45
+        downloads:  69
         updated_at: 1783530792000
     }
 }

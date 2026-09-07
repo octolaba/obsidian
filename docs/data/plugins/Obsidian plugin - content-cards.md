@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/content-cards
 alt:
   - https://github.com/liqms/obsidian-content-cards
-downloads: 6289
+downloads: 6426
 updated at: "2026-04-07T12:17:47Z"
 related to:
   - "[[GitHub - 907719072]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert content cards in Markdown to create timelines (vertical/horizontal), highlight blocks, target cards, book/music/movie info, photo albums, business cards, countdowns, content subfields, SWOT and BCG matrices. Run on Obsidian Mobile and support English/Chinese, local images, custom codeblock languages and colored cards."
 
     stats: {
-        downloads:  6289
+        downloads:  6426
         updated_at: 1775564267000
     }
 }

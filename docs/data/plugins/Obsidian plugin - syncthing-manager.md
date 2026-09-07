@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/syncthing-manager
 alt:
   - https://github.com/gustjose/obsidian-syncthing-manager
-downloads: 4451
+downloads: 5312
 updated at: "2026-07-20T14:55:39Z"
 related to:
   - "[[GitHub - 1102121373]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Control and monitor Syncthing from inside Obsidian with real-time file status, sync progress, connected device views, and visual sync icons on tabs. Resolve .sync-conflict files with a side-by-side diff, manage .stignore, pause or resume folders, and restore previous file versions."
 
     stats: {
-        downloads:  4451
+        downloads:  5312
         updated_at: 1784559339000
     }
 }

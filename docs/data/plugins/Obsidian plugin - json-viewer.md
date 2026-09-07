@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/json-viewer
 alt:
   - https://github.com/viggomeesters/obsidian-json-viewer
-downloads: 1143
+downloads: 1635
 updated at: "2026-06-07T06:08:37Z"
 related to:
   - "[[GitHub - 1261772783]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse .json, .jsonl, and .ndjson files in a dedicated read-only Obsidian view that shows objects, arrays, strings, numbers, booleans, nulls, and per-line parse errors. Filter by key, value, or JSON Pointer and navigate large structures with a right-side outline, expand/collapse controls, and copy raw JSON or JSON Pointer paths. Parse JSONL record-by-record and safely preview very large files."
 
     stats: {
-        downloads:  1143
+        downloads:  1635
         updated_at: 1780812517000
     }
 }

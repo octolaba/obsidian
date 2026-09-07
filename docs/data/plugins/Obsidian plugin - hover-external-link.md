@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hover-external-link
 alt:
   - https://github.com/jamiebrynes7/obsidian-hover-external-link
-downloads: 7757
+downloads: 7792
 updated at: "2021-08-23T21:34:05Z"
 related to:
   - "[[GitHub - 399251941]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show hover URL previews for external links in preview mode. Display lightweight tooltips only when link text differs from its URL so plain URL links remain unchanged."
 
     stats: {
-        downloads:  7757
+        downloads:  7792
         updated_at: 1629754445000
     }
 }

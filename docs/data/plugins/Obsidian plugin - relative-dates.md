@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/relative-dates
 alt:
   - https://github.com/munckenh/obsidian-relative-dates
-downloads: 182
+downloads: 246
 updated at: "2026-05-15T01:37:35Z"
 related to:
   - "[[GitHub - 1035942375]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert date references in task lists into color-coded relative date elements. Customize the prefix and colors to highlight overdue, today, tomorrow, this week, and future dates."
 
     stats: {
-        downloads:  182
+        downloads:  246
         updated_at: 1778809055000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ishistory-cms
 alt:
   - https://github.com/dr-ishaan/astro-cms-obsidian-plugin
-downloads: 78
+downloads: 86
 updated at: "2026-06-11T02:59:13Z"
 related to:
   - "[[GitHub - 1252265475]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage your Astro site's content from inside Obsidian with a dashboard that lists posts and organizes types like articles, profiles, and events. Validate frontmatter, see inline errors in a quick-validate sidebar, and mark drafts individually or in bulk as pre-flight ready for deployment."
 
     stats: {
-        downloads:  78
+        downloads:  86
         updated_at: 1781146753000
     }
 }

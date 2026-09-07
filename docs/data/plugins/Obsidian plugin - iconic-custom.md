@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/iconic-custom
 alt:
   - https://github.com/christianlempa/obsidian-iconic
-downloads: 311
+downloads: 587
 updated at: "2026-07-01T14:40:45Z"
 related to:
   - "[[GitHub - 1285873677]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Customize Obsidian UI icons with 1,700+ Lucide icons, 1,900+ emojis, plus Simple Icons and Devicons for brands and developer tools. Swap icons on tabs, files, folders, bookmarks, tags, properties, ribbons, title bar and window controls with a click; icons register with Obsidian's icon system for colorization and rules."
 
     stats: {
-        downloads:  311
+        downloads:  587
         updated_at: 1782916845000
     }
 }

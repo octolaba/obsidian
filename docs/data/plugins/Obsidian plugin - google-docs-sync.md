@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/google-docs-sync
 alt:
   - https://github.com/kwanum/obsidian-docs-sync
-downloads: 13
+downloads: 107
 updated at: "2026-07-19T16:02:29Z"
 related to:
   - "[[GitHub - 1265938756]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish a single Obsidian note as a Google Doc and keep it in two-way sync so collaborators can edit without leaving Obsidian. Push local changes, pull remote edits, and mark conflicting edits with inline merge markers instead of silently overwriting."
 
     stats: {
-        downloads:  13
+        downloads:  107
         updated_at: 1784476949000
     }
 }

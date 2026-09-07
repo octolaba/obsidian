@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/native-pdf-handwriting
 alt:
   - https://github.com/marsluay/native-pdf-handwriting
-downloads: 158
-updated at: "2026-07-22T01:02:02Z"
+downloads: 489
+updated at: "2026-08-07T02:57:00Z"
 related to:
   - "[[GitHub - 1298810993]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Handwrite on PDFs with a stylus or mouse inside Obsidian using pen, graphite pencil, circular eraser, lasso tools, and a compact Draw toolbar. Store annotations as vault sidecars so originals stay untouched, export annotated PDFs when needed, and work entirely locally with opt-in Draw mode, autosave, recovery, and save/export/select commands."
 
     stats: {
-        downloads:  158
-        updated_at: 1784682122000
+        downloads:  489
+        updated_at: 1786071420000
     }
 }
 ```

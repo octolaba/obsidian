@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-with
 alt:
   - https://github.com/phibr0/obsidian-open-with
-downloads: 10768
+downloads: 10845
 updated at: "2023-08-08T08:00:40Z"
 related to:
   - "[[GitHub - 398603650]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open notes in other apps directly from Obsidian via commands. Launch any installed program to view or edit selected notes or folders with a single command."
 
     stats: {
-        downloads:  10768
+        downloads:  10845
         updated_at: 1691481640000
     }
 }

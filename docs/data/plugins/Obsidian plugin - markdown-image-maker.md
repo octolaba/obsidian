@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markdown-image-maker
 alt:
   - https://github.com/sunxiaoqiqi/markdown-image-maker
-downloads: 92
+downloads: 118
 updated at: "2026-06-09T05:03:58Z"
 related to:
   - "[[GitHub - 1263586736]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export Markdown files or selected editor text as styled, paginated images with live previews. Save images to the vault root, current file folder, attachment folder, or a custom folder and optionally insert Obsidian image links back into the source note. Use a local converter backend and run on Obsidian desktop only."
 
     stats: {
-        downloads:  92
+        downloads:  118
         updated_at: 1780981438000
     }
 }

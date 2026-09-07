@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-refactor-plus
 alt:
   - https://github.com/aonosota/note-refactor-plus
-downloads: 614
+downloads: 990
 updated at: "2026-07-04T21:09:04Z"
 related to:
   - "[[GitHub - 1268688656]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extract selected text or entire heading sections into new notes using configurable profiles for filename rules, destination folders, templates, and frontmatter. Split notes by heading level or from the cursor, run Templater on new files, undo the last extract, and trigger operations from the command palette, hotkeys, or editor context menu."
 
     stats: {
-        downloads:  614
+        downloads:  990
         updated_at: 1783199344000
     }
 }

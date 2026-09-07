@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/audio-pluglist
 alt:
   - https://github.com/ragetrip/audio-pluglist
-downloads: 1115
+downloads: 1238
 updated at: "2026-01-26T23:56:53Z"
 related to:
   - "[[GitHub - 1041184560]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create playlists from vault folders or external links and auto-index supported audio files. Control playback from a tab view or compact footer mini-player with shuffle, repeat, fade-out stop, EQ presets, and hotkey support. Play mp3, wav, m4a, flac, ogg, and aac files."
 
     stats: {
-        downloads:  1115
+        downloads:  1238
         updated_at: 1769471813000
     }
 }

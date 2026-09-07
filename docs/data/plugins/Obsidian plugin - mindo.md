@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mindo
 alt:
   - https://github.com/therofli/Mindo
-downloads: 135
+downloads: 161
 updated at: "2026-05-17T04:41:01Z"
 related to:
   - "[[GitHub - 1235484698]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with the active note and search your vault and the web using a local-first AI companion. Create and edit Markdown notes, run local STT/TTS voice workflows, attach files, and manage a structured Mindo Wiki memory with source-backed references and an optional Rust sidecar for faster search and RAG."
 
     stats: {
-        downloads:  135
+        downloads:  161
         updated_at: 1778992861000
     }
 }

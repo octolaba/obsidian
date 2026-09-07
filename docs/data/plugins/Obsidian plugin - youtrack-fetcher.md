@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/youtrack-fetcher
 alt:
   - https://github.com/forketyfork/obsidian-youtrack-fetcher
-downloads: 454
-updated at: "2026-05-18T09:28:13Z"
+downloads: 542
+updated at: "2026-08-03T09:18:11Z"
 related to:
   - "[[GitHub - 966004279]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Fetch YouTrack issues by ID, URL, or search query and create structured Markdown notes in your vault. Use customizable templates with ${field} placeholders (including arbitrarily nested fields) and import issues from paginated search results."
 
     stats: {
-        downloads:  454
-        updated_at: 1779096493000
+        downloads:  542
+        updated_at: 1785748691000
     }
 }
 ```

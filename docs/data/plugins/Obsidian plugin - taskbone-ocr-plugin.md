@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/taskbone-ocr-plugin
 alt:
   - https://github.com/schlundd/obsidian-ocr-plugin
-downloads: 26889
+downloads: 27093
 updated at: "2024-09-11T17:59:00Z"
 related to:
   - "[[GitHub - 372173711]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Obsidian and Todoist bidirectionally, automatically create links between tasks and notes, and maintain compatibility with the Tasks plugin. Extract text from images via built-in OCR, apply templates to format output, and insert annotations or image content directly into notes."
 
     stats: {
-        downloads:  26889
+        downloads:  27093
         updated_at: 1726077540000
     }
 }

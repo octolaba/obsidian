@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/the-scripture-injector
 alt:
   - https://github.com/jarchitect1/The-Scripture-Injector
-downloads: 112
+downloads: 119
 updated at: "2025-12-12T01:07:47Z"
 related to:
   - "[[GitHub - 1114150793]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert Bible verses directly into notes from the command palette with support for ESV and NET translations. Format passages as quote callouts with a Bible icon and accept single verses, ranges, entire chapters, and common book abbreviations."
 
     stats: {
-        downloads:  112
+        downloads:  119
         updated_at: 1765501667000
     }
 }

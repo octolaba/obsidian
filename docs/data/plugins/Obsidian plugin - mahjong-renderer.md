@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mahjong-renderer
 alt:
   - https://github.com/h-sphere/obsidian-mahjong-renderer
-downloads: 259
+downloads: 268
 updated at: "2024-08-10T12:41:42Z"
 related to:
   - "[[GitHub - 833866111]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Mahjong hands from mahjong notation (e.g., 123m456p789s11z) into inline tile graphics when placed in a mahjong code block. Display rotated tiles ('), kans (\"), support red five (0) and multiline layouts for discards, with light and dark themes."
 
     stats: {
-        downloads:  259
+        downloads:  268
         updated_at: 1723293702000
     }
 }

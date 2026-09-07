@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dualyze-structure
 alt:
   - https://github.com/dualyze-ai/obsidian-dualyze-structure
-downloads: 151
+downloads: 167
 updated at: "2026-06-13T09:47:09Z"
 related to:
   - "[[GitHub - 1264838966]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Split long notes into structured subnotes by converting each H2 section into its own note while keeping H3+ headings nested inside their parent. Add a parent: [[Source Note]] frontmatter link, rewrite the original as a clean structure index of links, and generate an MOC with Mermaid visual knowledge maps."
 
     stats: {
-        downloads:  151
+        downloads:  167
         updated_at: 1781344029000
     }
 }

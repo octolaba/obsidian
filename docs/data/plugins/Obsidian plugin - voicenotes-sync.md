@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/voicenotes-sync
 alt:
   - https://github.com/voicenotes-community/voicenotes-sync
-downloads: 12932
+downloads: 13140
 updated at: "2026-04-20T07:24:48Z"
 related to:
   - "[[GitHub - 797049443]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Voicenotes web and mobile entries into your vault as Markdown notes, embedding AI-generated summaries and actions as note sections. Convert detected TODOs into Markdown todos and download associated audio files. Save to a custom directory with configurable sync frequency and optional server deletion."
 
     stats: {
-        downloads:  12932
+        downloads:  13140
         updated_at: 1776669888000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-random-note
 alt:
   - https://github.com/erichalldev/obsidian-smart-random-note
-downloads: 82095
+downloads: 82903
 updated at: "2021-07-08T13:35:54Z"
 related to:
   - "[[GitHub - 313668247]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open random notes from your vault, current search results, or a selected tag to jump to unexpected content. Insert a link at the cursor to a random note from search results or run a command that mirrors Obsidian's core random-note behavior."
 
     stats: {
-        downloads:  82095
+        downloads:  82903
         updated_at: 1625751354000
     }
 }

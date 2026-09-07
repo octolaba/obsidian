@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/yearly-diary-comparator
 alt:
   - https://github.com/kiitosu/yearly-diary-comparator
-downloads: 305
+downloads: 314
 updated at: "2025-05-20T09:03:33Z"
 related to:
   - "[[GitHub - 986677010]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Compare daily notes across years in a calendar view by displaying entries for the same date side by side. Extract diary summaries from a headline in each daily note to populate columns and spot changes, trends, and personal growth year over year."
 
     stats: {
-        downloads:  305
+        downloads:  314
         updated_at: 1747731813000
     }
 }

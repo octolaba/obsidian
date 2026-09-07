@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/github-wiki-sync
 alt:
   - https://github.com/benpm/obsidian_github_wiki
-downloads: 134
+downloads: 144
 updated at: "2026-05-15T22:57:00Z"
 related to:
   - "[[GitHub - 1226833482]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync an Obsidian vault with a GitHub Wiki and edit wiki pages directly from Obsidian. Map top-level files in a designated wiki folder to GitHub wiki pages and push or pull changes to the wiki repository."
 
     stats: {
-        downloads:  134
+        downloads:  144
         updated_at: 1778885820000
     }
 }

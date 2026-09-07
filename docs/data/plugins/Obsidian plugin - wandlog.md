@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/wandlog
 alt:
   - https://github.com/yuffiee/obsidian-wandlog
-downloads: 78
-updated at: "2026-06-14T14:20:49Z"
+downloads: 110
+updated at: "2026-08-10T03:48:18Z"
 related to:
   - "[[GitHub - 1269064188]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Track daily writing with a GitHub-style heatmap that shows word counts and links to the corresponding daily note. Discover random list items from your vault and manage unchecked tasks from scanned folders — all in one compact sidebar view."
 
     stats: {
-        downloads:  78
-        updated_at: 1781446849000
+        downloads:  110
+        updated_at: 1786333698000
     }
 }
 ```

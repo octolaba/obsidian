@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/whisperer
 alt:
   - https://github.com/falcion/Whisperer.md
-downloads: 1842
+downloads: 1890
 updated at: "2025-05-14T12:17:03Z"
 related to:
   - "[[GitHub - 912231394]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Attach music to vaults and individual notes to set an atmosphere or working mood. Play and manage flexible audio accompaniment per file or across your vault directly inside Obsidian."
 
     stats: {
-        downloads:  1842
+        downloads:  1890
         updated_at: 1747225023000
     }
 }

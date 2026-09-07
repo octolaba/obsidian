@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-screwdriver
 alt:
   - https://github.com/vrtmrz/obsidian-screwdriver
-downloads: 5090
+downloads: 5122
 updated at: "2026-07-14T01:21:40Z"
 related to:
   - "[[GitHub - 470081186]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Dump files from specified directories using filters and ignore rules and export them into a single Markdown file. Put dumped files into any path inside your vault (including hidden directories); note the export can be very large, so exclude it from other plugin processing."
 
     stats: {
-        downloads:  5090
+        downloads:  5122
         updated_at: 1783992100000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hotkeysplus-obsidian
 alt:
   - https://github.com/argenos/hotkeysplus-obsidian
-downloads: 98037
+downloads: 98553
 updated at: "2021-12-08T22:03:01Z"
 related to:
   - "[[GitHub - 307501518]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add handy keyboard shortcuts for common editing actions in Obsidian. Toggle checkmarks, switch between ordered and unordered lists, toggle blockquotes and link embeds, copy lines up or down, insert or clear lines, and more."
 
     stats: {
-        downloads:  98037
+        downloads:  98553
         updated_at: 1639000981000
     }
 }

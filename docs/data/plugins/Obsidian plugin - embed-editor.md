@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/embed-editor
 alt:
   - https://github.com/xmisio72/obsidian-embed-editor
-downloads: 788
+downloads: 943
 updated at: "2026-03-27T15:49:55Z"
 related to:
   - "[[GitHub - 1193806097]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Click any transcluded embed to open a floating editor and edit its source inline; saving updates the source file and all embeds instantly. Work with full-note, heading and block transclusions, show a source-style editor with line numbers and theme-aware styling, and include a CSS snippet for seamless, native-looking embeds."
 
     stats: {
-        downloads:  788
+        downloads:  943
         updated_at: 1774626595000
     }
 }

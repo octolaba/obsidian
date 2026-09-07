@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/draw-integration
 alt:
   - https://github.com/evolutiontrash/draw_integration
-downloads: 157
+downloads: 174
 updated at: "2026-06-11T03:11:20Z"
 related to:
   - "[[GitHub - 1249384087]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and open drawing projects from standard Obsidian image links like ![[path/to/image.png]]. Edit in your external drawing app and export the result as a PNG saved directly into your vault."
 
     stats: {
-        downloads:  157
+        downloads:  174
         updated_at: 1781147480000
     }
 }

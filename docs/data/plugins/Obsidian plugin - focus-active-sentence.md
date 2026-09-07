@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/focus-active-sentence
 alt:
   - https://github.com/artisticat1/focus-active-sentence
-downloads: 7505
+downloads: 7551
 updated at: "2023-03-11T18:35:43Z"
 related to:
   - "[[GitHub - 612612072]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight only the active sentence and dim the rest of the document to reduce visual clutter. Remove focus while scrolling and restore it when you move the cursor or start typing."
 
     stats: {
-        downloads:  7505
+        downloads:  7551
         updated_at: 1678559743000
     }
 }

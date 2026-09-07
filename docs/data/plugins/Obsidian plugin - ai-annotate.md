@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-annotate
 alt:
   - https://github.com/sds-mode/ai-annotate
-downloads: 127
+downloads: 142
 updated at: "2026-04-06T18:23:10Z"
 related to:
   - "[[GitHub - 1203004821]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Annotate selections or insert inline natural-language instructions to generate LLM-powered edit suggestions. Review, accept, or reject proposals in a track-changes interface via your local Claude CLI — no API keys required."
 
     stats: {
-        downloads:  127
+        downloads:  142
         updated_at: 1775499790000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/paragraph-copy
 alt:
   - https://github.com/chaosnino/obsidian-paragraph-copy
-downloads: 88
+downloads: 96
 updated at: "2026-01-16T01:50:01Z"
 related to:
   - "[[GitHub - 1133954624]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add copy buttons to paragraphs that match custom regular expressions. Target any text blocks with regex patterns for one-click copying."
 
     stats: {
-        downloads:  88
+        downloads:  96
         updated_at: 1768528201000
     }
 }

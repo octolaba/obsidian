@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/illuminator
 alt:
   - https://github.com/tiezjin/illuminator
-downloads: 173
-updated at: "2026-05-18T01:28:47Z"
+downloads: 222
+updated at: "2026-07-26T13:13:58Z"
 related to:
   - "[[GitHub - 1167589588]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Make white backgrounds transparent and convert images into compact WebP when you paste or right-click an image, auto-updating the image link in your notes. Process images entirely locally in a Web Worker for privacy; changes overwrite the original file, so keep backups and prefer use in Light Mode."
 
     stats: {
-        downloads:  173
-        updated_at: 1779067727000
+        downloads:  222
+        updated_at: 1785071638000
     }
 }
 ```

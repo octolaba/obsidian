@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/memories
 alt:
   - https://github.com/dimflix/obsidian-memories
-downloads: 1310
+downloads: 1368
 updated at: "2026-01-31T08:55:53Z"
 related to:
   - "[[GitHub - 1088127396]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display media files as interactive galleries inside notes with a fullscreen lightbox, slideshows, zoomable images, and support for images, video, and audio. Manage large collections with a responsive grid, lazy loading, multiple source folders, flexible sorting, random slideshow mode, and a built-in file manager."
 
     stats: {
-        downloads:  1310
+        downloads:  1368
         updated_at: 1769849753000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mini-notes
 alt:
   - https://github.com/rknastenka/obsidian-mini-notes
-downloads: 6599
+downloads: 7311
 updated at: "2026-07-15T20:26:13Z"
 related to:
   - "[[GitHub - 1139352870]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture quick thoughts and display them in a Google Keep-style card view for fast review. Pin, tag, color, and reorder cards; filter by tag, folder, color, or type; work with your theme and on iOS & Android."
 
     stats: {
-        downloads:  6599
+        downloads:  7311
         updated_at: 1784147173000
     }
 }

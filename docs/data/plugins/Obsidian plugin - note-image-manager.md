@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-image-manager
 alt:
   - https://github.com/dxshelley/obsidian-image-manager
-downloads: 168
+downloads: 267
 updated at: "2026-07-02T12:17:57Z"
 related to:
   - "[[GitHub - 1278089819]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage note images in Obsidian: import pasted or external images into a managed folder, convert formats (including AVIF), compress, rename, and apply lightweight edits. Run batch operations, open galleries, clean orphan files, sync moves/renames, and recover actions with persistent history and undo/redo."
 
     stats: {
-        downloads:  168
+        downloads:  267
         updated_at: 1782994677000
     }
 }

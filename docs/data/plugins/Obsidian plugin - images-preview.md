@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/images-preview
 alt:
   - https://github.com/hitctc/obsidian-images-preview
-downloads: 201
+downloads: 243
 updated at: "2026-03-23T15:57:42Z"
 related to:
   - "[[GitHub - 1180977303]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open images in floating previews with zoom, drag, crop and double-click fit/1:1; use wheel or touch gestures and copy filenames from the preview. Pin multiple images for side-by-side comparison or use Normal mode for a single focused overlay, and browse with a thumbnail gallery or previous/next."
 
     stats: {
-        downloads:  201
+        downloads:  243
         updated_at: 1774281462000
     }
 }

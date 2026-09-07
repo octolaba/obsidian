@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copyparty-uploader
 alt:
   - https://github.com/r3quisitevariety/copyparty-obsidian
-downloads: 89
+downloads: 96
 updated at: "2026-05-25T22:24:17Z"
 related to:
   - "[[GitHub - 1249506240]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload pasted or dropped media and files to your self-hosted Copyparty server, inserting remote embeds or links so files never enter your vault. Migrate local attachments in the current note and rewrite links, handling images, video, audio, PDFs and other file types with appropriate embeds."
 
     stats: {
-        downloads:  89
+        downloads:  96
         updated_at: 1779747857000
     }
 }

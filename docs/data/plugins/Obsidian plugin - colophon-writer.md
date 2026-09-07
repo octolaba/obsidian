@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/colophon-writer
 alt:
   - https://github.com/davidgolding/obsidian-colophon
-downloads: 609
+downloads: 670
 updated at: "2026-07-01T15:45:46Z"
 related to:
   - "[[GitHub - 1099980330]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Compose long-form manuscripts and screenplays in a typographically refined, distraction-free canvas with a word-processor feel. Preserve footnotes, comments, and precise layout using a custom editor and .colophon file format, and switch between Manuscript and Script modes for industry-standard formatting."
 
     stats: {
-        downloads:  609
+        downloads:  670
         updated_at: 1782920746000
     }
 }

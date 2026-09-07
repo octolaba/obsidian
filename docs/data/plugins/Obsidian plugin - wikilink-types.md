@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wikilink-types
 alt:
   - https://github.com/penfieldlabs/obsidian-wikilink-types
-downloads: 3046
+downloads: 3344
 updated at: "2026-05-19T23:02:32Z"
 related to:
   - "[[GitHub - 1186587910]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add typed relationships to wikilinks by typing @ in a link alias and picking a relationship from the autocomplete. Sync selections into YAML frontmatter on save so Dataview, Graph Link Types, Breadcrumbs, and other tools can consume them. Allow multiple types per link while keeping display text readable."
 
     stats: {
-        downloads:  3046
+        downloads:  3344
         updated_at: 1779231752000
     }
 }

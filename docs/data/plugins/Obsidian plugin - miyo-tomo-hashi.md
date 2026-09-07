@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/miyo-tomo-hashi
 alt:
   - https://github.com/mmomm-org/miyo-tomo-hashi
-downloads: 201
-updated at: "2026-07-13T07:49:24Z"
+downloads: 229
+updated at: "2026-07-27T16:57:56Z"
 related to:
   - "[[GitHub - 1224321756]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Attach a live Tomo terminal to Obsidian to chat with Claude Code, interact directly in-terminal, and inject file references from the file menu. Execute Tomo instruction.json batches to preview and apply idempotent vault edits with run logs, background/auto-run modes, and safe re-runs that resume after interruptions. Tomo is in heavy development.. not feature complete yet, but can be found at https://github.com/MMoMM-org/miyo-tomo"
 
     stats: {
-        downloads:  201
-        updated_at: 1783928964000
+        downloads:  229
+        updated_at: 1785171476000
     }
 }
 ```

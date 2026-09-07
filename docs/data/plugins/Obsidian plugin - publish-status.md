@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/publish-status
 alt:
   - https://github.com/toki1703/publish-status
-downloads: 70
+downloads: 77
 updated at: "2026-06-17T22:29:05Z"
 related to:
   - "[[GitHub - 1271571226]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display Obsidian Publish sync status next to filenames in the file explorer with VSCode Git-style one-letter colored badges: A (green) Added, M (yellow) Modified, D (red) Deleted. Update statuses automatically on startup, when switching or editing files, and refresh manually via command."
 
     stats: {
-        downloads:  70
+        downloads:  77
         updated_at: 1781735345000
     }
 }

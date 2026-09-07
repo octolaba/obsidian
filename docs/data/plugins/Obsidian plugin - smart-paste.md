@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-paste
 alt:
   - https://github.com/konstantinosgkilas/smart-paste
-downloads: 537
+downloads: 669
 updated at: "2026-03-27T17:50:45Z"
 related to:
   - "[[GitHub - 1193773670]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert pasted rich content into clean Markdown, preserving headings, lists, tables, images, and code blocks with language detection. Replace bare URLs with titled Markdown links, strip common tracking parameters and Amazon ref paths, normalize whitespace, and skip transformations inside code fences or YAML frontmatter."
 
     stats: {
-        downloads:  537
+        downloads:  669
         updated_at: 1774633845000
     }
 }

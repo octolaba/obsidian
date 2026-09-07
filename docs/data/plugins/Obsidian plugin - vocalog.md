@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/vocalog
 alt:
   - https://github.com/reflector-li/Vocalog
-downloads:
-updated at:
+downloads: 38
+updated at: "2026-07-25T10:46:02Z"
 related to:
   - "[[GitHub - 1174085400]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/reflector-li/Vocalog"
     description: "Automatically transcribe audio recordings and generate structured daily notes with AI summaries. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Transcribe audio recordings automatically and generate AI-powered summaries and structured notes using speech-to-text and chat-style models. Write summaries into daily notes, process recordings by date range or file selection, and pick dates with a calendar interface."
+
+    stats: {
+        downloads:  38
+        updated_at: 1784976362000
+    }
 }
 ```
 

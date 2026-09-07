@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-image-hotkey
 alt:
   - https://github.com/aliir74/copy-image-hotkey
-downloads: 158
+downloads: 179
 updated at: "2026-05-02T01:25:53Z"
 related to:
   - "[[GitHub - 1226834891]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy the actual image file to your clipboard with Cmd/Ctrl+C when an image embed is selected in Obsidian. Paste the image into other apps intact; supports PNG, JPG/JPEG, GIF, BMP, TIFF, WebP and SVG."
 
     stats: {
-        downloads:  158
+        downloads:  179
         updated_at: 1777685153000
     }
 }

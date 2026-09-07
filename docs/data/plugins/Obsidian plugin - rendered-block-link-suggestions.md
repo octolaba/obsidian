@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rendered-block-link-suggestions
 alt:
   - https://github.com/ryotaushio/obsidian-rendered-block-link-suggestions
-downloads: 8822
+downloads: 9085
 updated at: "2023-12-14T10:26:13Z"
 related to:
   - "[[GitHub - 728686457]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Markdown in block-link suggestions to preview formatted blocks and embedded content while typing. Maintain Obsidian's suggestion workflow while showing rendered previews to make it easier to identify the right block."
 
     stats: {
-        downloads:  8822
+        downloads:  9085
         updated_at: 1702549573000
     }
 }

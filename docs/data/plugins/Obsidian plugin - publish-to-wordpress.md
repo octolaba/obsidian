@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/publish-to-wordpress
 alt:
   - https://github.com/devidcode/obsidian-publish-to-wordpress
-downloads: 126
+downloads: 185
 updated at: "2026-06-28T15:37:21Z"
 related to:
   - "[[GitHub - 1283108559]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish the active Obsidian note as a WordPress draft via the REST API or a custom webhook. Convert Markdown to HTML, set the title from frontmatter or filename, attach a featured image from frontmatter or the first embedded image, and send the note with a ribbon icon or command."
 
     stats: {
-        downloads:  126
+        downloads:  185
         updated_at: 1782661041000
     }
 }

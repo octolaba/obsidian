@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/slurp
 alt:
   - https://github.com/inhumantsar/slurp
-downloads: 23819
-updated at: "2026-07-18T02:15:43Z"
+downloads: 25265
+updated at: "2026-07-30T00:52:22Z"
 related to:
   - "[[GitHub - 775271952]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Save webpages to Obsidian as clean, readable Markdown files by stripping ads, scripts and layout clutter. Extract metadata into frontmatter—tags, excerpt, author, site, dates, permalink and page type—and slurp via the command palette, bookmarklets or mobile share; opt to import only frontmatter."
 
     stats: {
-        downloads:  23819
-        updated_at: 1784340943000
+        downloads:  25265
+        updated_at: 1785372742000
     }
 }
 ```

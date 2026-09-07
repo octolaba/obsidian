@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/create-folder-notes-with-dropdown
 alt:
   - https://github.com/sturdyshawn/Create-folder-notes-with-dropdown
-downloads: 785
+downloads: 798
 updated at: "2024-12-02T01:51:31Z"
 related to:
   - "[[GitHub - 889754370]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create folder notes from a dropdown and auto-create missing folders up to three levels deep. Pick a folder path and filename from the menu to quickly generate and organize new Markdown files in your vault."
 
     stats: {
-        downloads:  785
+        downloads:  798
         updated_at: 1733104291000
     }
 }

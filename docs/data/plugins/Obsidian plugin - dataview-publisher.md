@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dataview-publisher
 alt:
   - https://github.com/udus122/dataview-publisher
-downloads: 12016
+downloads: 12244
 updated at: "2024-11-16T09:02:32Z"
 related to:
   - "[[GitHub - 812814718]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Output Markdown from Dataview queries and keep query results up to date inside your notes. Publish the generated Markdown for sharing or static export."
 
     stats: {
-        downloads:  12016
+        downloads:  12244
         updated_at: 1731747752000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-actions
 alt:
   - https://github.com/maoxiaoke/obsidian-image-actions
-downloads: 94
+downloads: 113
 updated at: "2026-06-16T11:44:36Z"
 related to:
   - "[[GitHub - 1270936186]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy any image to the clipboard, reveal local images in your system file explorer, or open remote images in your browser from a hover toolbar on images. Use in Reading view and Live Preview; images are re‑encoded as PNG when copied, and touch‑and‑hold on mobile copies an image."
 
     stats: {
-        downloads:  94
+        downloads:  113
         updated_at: 1781610276000
     }
 }

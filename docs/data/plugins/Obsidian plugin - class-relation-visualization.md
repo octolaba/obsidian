@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/class-relation-visualization
 alt:
   - https://github.com/cold-dragon7/Obsidian-Class-Relation-Visualization
-downloads: 379
+downloads: 393
 updated at: "2024-11-12T14:54:23Z"
 related to:
   - "[[GitHub - 869924323]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize classes and their inheritance, composition, and aggregation relationships from specially formatted class files. Hover over a class to show its comment and highlight related nodes in an interactive relation view."
 
     stats: {
-        downloads:  379
+        downloads:  393
         updated_at: 1731423263000
     }
 }

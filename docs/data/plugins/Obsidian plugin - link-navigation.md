@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/link-navigation
 alt:
   - https://github.com/xryul/link-navigation
-downloads: 2389
+downloads: 2438
 updated at: "2025-02-16T00:51:43Z"
 related to:
   - "[[GitHub - 853599730]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Navigate back and forth through internal links up to N levels deep and display a hierarchical view of link connections, including links from Canvas files. Reveal where notes are embedded or referenced with fast cached scanning for near‑instant link lookup and traversal."
 
     stats: {
-        downloads:  2389
+        downloads:  2438
         updated_at: 1739667103000
     }
 }

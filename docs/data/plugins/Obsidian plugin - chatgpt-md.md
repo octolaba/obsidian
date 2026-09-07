@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chatgpt-md
 alt:
   - https://github.com/bramses/chatgpt-md
-downloads: 123764
+downloads: 129698
 updated at: "2026-07-22T18:21:57Z"
 related to:
   - "[[GitHub - 609550340]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with ChatGPT, OpenRouter, or local LLMs (Ollama/LM Studio) from any note for drafting, editing, summarizing, and conversation. Create agent personas as Markdown files or auto-generate them with the AI Wizard, and use privacy-first tool calling so the AI asks before accessing your vault or the web."
 
     stats: {
-        downloads:  123764
+        downloads:  129698
         updated_at: 1784744517000
     }
 }

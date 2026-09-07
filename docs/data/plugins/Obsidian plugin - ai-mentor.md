@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-mentor
 alt:
   - https://github.com/clementpoiret/ai-mentor
-downloads: 6786
+downloads: 6813
 updated at: "2024-09-06T14:48:48Z"
 related to:
   - "[[GitHub - 619215356]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Receive writing guidance and formatting help from Alfred, an AI mentor that explains selected text, redacts bullet lists, and corrects or improves your notes. Connect to OpenAI or Perplexity APIs to use GPT‑4 Turbo, Llama2, Mixtral 8x7b or web‑sourced pplx-*b-online models for up‑to‑date answers."
 
     stats: {
-        downloads:  6786
+        downloads:  6813
         updated_at: 1725634128000
     }
 }

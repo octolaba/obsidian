@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/epub-reader-plus
 alt:
   - https://github.com/ikarikr/obsidian-epub-reader-plus
-downloads: 19
+downloads: 180
 updated at: "2026-07-23T06:35:41Z"
 related to:
   - "[[GitHub - 1308644992]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open .epub files from your vault in a centered, paginated reader with responsive reflow and theme-aware background. Turn pages with the mouse wheel and navigate with a compact table of contents and modern controls. Preserve publisher styles and retain per-book reading progress; font-size changes anchor visible text before reflowing."
 
     stats: {
-        downloads:  19
+        downloads:  180
         updated_at: 1784788541000
     }
 }

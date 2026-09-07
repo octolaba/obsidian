@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/avatar
 alt:
   - https://github.com/maradotwebp/obsidian-avatar
-downloads: 12306
+downloads: 12420
 updated at: "2025-06-25T18:42:31Z"
 related to:
   - "[[GitHub - 615761221]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a compact avatar component showing an image alongside a Markdown description via an avatar codeblock. Edit the image in live preview or update the YAML in source to provide a path/URL, side, size, and objectPosition for precise layout."
 
     stats: {
-        downloads:  12306
+        downloads:  12420
         updated_at: 1750876951000
     }
 }

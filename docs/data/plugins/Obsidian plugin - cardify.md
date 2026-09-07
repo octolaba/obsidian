@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cardify
 alt:
   - https://github.com/joshuakto/obsidian-cardify
-downloads: 5604
+downloads: 5626
 updated at: "2024-02-27T03:16:43Z"
 related to:
   - "[[GitHub - 688844621]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Split the active note into separate cards using a chosen separator and create a new Markdown file for each chunk while preserving frontmatter. Assign and insert internal links when missing, name pages by position or extracted comments, and store created files in a folder for easy drag-and-drop onto Canvas."
 
     stats: {
-        downloads:  5604
+        downloads:  5626
         updated_at: 1709003803000
     }
 }

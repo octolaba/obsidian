@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-ai-buddy
 alt:
   - https://github.com/enygma/vault-ai-buddy
-downloads: 147
+downloads: 152
 updated at: "2026-05-13T14:50:22Z"
 related to:
   - "[[GitHub - 1231985909]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bring an AI assistant into your vault via a sidebar that searches your notes for context and answers questions from your content. Edit the active note, manage files and folders, connect to MCP servers (like GitHub) for repo and issue queries, save remembered items, and run multiple chat tabs."
 
     stats: {
-        downloads:  147
+        downloads:  152
         updated_at: 1778683822000
     }
 }

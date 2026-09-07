@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/select-word
 alt:
   - https://github.com/connorespino/ObsidianSelectWord
-downloads: 531
+downloads: 543
 updated at: "2024-04-26T02:52:53Z"
 related to:
   - "[[GitHub - 792097574]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Select the word nearest the editor caret with a single command. Quickly highlight the word under or closest to the cursor for fast editing or replacement."
 
     stats: {
-        downloads:  531
+        downloads:  543
         updated_at: 1714099973000
     }
 }

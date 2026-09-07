@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/pocket-bird
 alt:
   - https://github.com/idreesinc/PB-Obsidian-Releases
-downloads: 3046
-updated at: "2026-05-13T02:53:16Z"
+downloads: 3373
+updated at: "2026-07-28T03:17:43Z"
 related to:
   - "[[GitHub - 1097301233]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Pocket Bird adds a pet bird to your notes! Watch a little pixel art bird fly around your screen as you write your notes! Catch feathers to unlock new birds, collect little hats scattered across webpages, and use cute sticky notes to keep track of your thoughts! Open-source, made with love, and vibe code free!"
 
     stats: {
-        downloads:  3046
-        updated_at: 1778640796000
+        downloads:  3373
+        updated_at: 1785208663000
     }
 }
 ```

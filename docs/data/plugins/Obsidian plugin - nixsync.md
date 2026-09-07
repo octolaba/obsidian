@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nixsync
 alt:
   - https://github.com/rowmayne/nixsync
-downloads: 109
+downloads: 128
 updated at: "2026-04-21T14:48:10Z"
 related to:
   - "[[GitHub - 1216953414]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export vault settings and plugin data to a single .nix manifest capturing app, appearance, hotkeys, core and community plugin manifests and settings. Import a .nix file to write config and plugin data into .obsidian/ and restore your setup. Generate an optional NixOS activation script to apply exports system-wide; plugin JS files are not included, so plugins must be installed separately."
 
     stats: {
-        downloads:  109
+        downloads:  128
         updated_at: 1776782890000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/weixin-mp-publisher
 alt:
   - https://github.com/skyue/obsidian-weixin-mp-publisher
-downloads: 135
-updated at: "2026-06-29T15:11:17Z"
+downloads: 194
+updated at: "2026-07-29T12:23:24Z"
 related to:
   - "[[GitHub - 1282461586]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Publish Obsidian notes to your WeChat Official Account directly from your vault. Convert Markdown into WeChat-ready article layout and post without leaving Obsidian."
 
     stats: {
-        downloads:  135
-        updated_at: 1782745877000
+        downloads:  194
+        updated_at: 1785327804000
     }
 }
 ```

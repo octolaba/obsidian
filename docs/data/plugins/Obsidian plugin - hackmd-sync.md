@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hackmd-sync
 alt:
   - https://github.com/thor314/hackmd-obsidian
-downloads: 2443
+downloads: 2476
 updated at: "2026-03-03T08:02:44Z"
 related to:
   - "[[GitHub - 880026919]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync notes between Obsidian and HackMD. Push and pull contents with conflict detection based on last sync, create remote copies when needed, use force push/pull to overwrite, and copy or delete the remote note URL."
 
     stats: {
-        downloads:  2443
+        downloads:  2476
         updated_at: 1772524964000
     }
 }

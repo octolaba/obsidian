@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/claude-sync
 alt:
   - https://github.com/gbanjos/claude-sync-obsidian
-downloads: 317
+downloads: 376
 updated at: "2026-05-06T20:58:00Z"
 related to:
   - "[[GitHub - 1231311932]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Claude chat Markdown files from a watched folder into your vault and preserve original subfolder structure. Configure watch and destination folders, delete source files after import if desired, and trigger manual syncs via command or ribbon."
 
     stats: {
-        downloads:  317
+        downloads:  376
         updated_at: 1778101080000
     }
 }

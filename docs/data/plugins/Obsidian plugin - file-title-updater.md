@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-title-updater
 alt:
   - https://github.com/wenlzhang/obsidian-file-title-updater
-downloads: 4582
+downloads: 4701
 updated at: "2026-03-28T09:19:51Z"
 related to:
   - "[[GitHub - 943433940]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync titles across filename, frontmatter title, and first-level heading by choosing any of them as the source. Run targeted commands on individual files or apply recursive bulk sync to folders and subfolders and select which title locations to update."
 
     stats: {
-        downloads:  4582
+        downloads:  4701
         updated_at: 1774689591000
     }
 }

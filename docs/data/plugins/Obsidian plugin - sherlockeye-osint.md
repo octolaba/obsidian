@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sherlockeye-osint
 alt:
   - https://github.com/p1ngul1n0/obsidian-sherlockeye-plugin
-downloads: 179
+downloads: 218
 updated at: "2026-05-20T20:27:57Z"
 related to:
   - "[[GitHub - 1235800559]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Explore Obsidian plugin development with a TypeScript sample that adds a ribbon icon (shows a Notice), an \"Open modal (simple)\" command, a settings tab, and global click and interval logging to the console. Use it as a template to learn basic API usage, UI elements, and event handling."
 
     stats: {
-        downloads:  179
+        downloads:  218
         updated_at: 1779308877000
     }
 }

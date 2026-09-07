@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ingester
 alt:
   - https://github.com/shadielfares/ingester
-downloads: 124
+downloads: 141
 updated at: "2026-04-23T06:09:26Z"
 related to:
   - "[[GitHub - 1208895364]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Watch a folder for new clippings and invoke Claude Code's /ingest skill to convert saved articles into your wiki knowledge graph. Open tmux and run claude /ingest on new files so processing occurs outside Obsidian; requires Claude CLI and tmux."
 
     stats: {
-        downloads:  124
+        downloads:  141
         updated_at: 1776924566000
     }
 }

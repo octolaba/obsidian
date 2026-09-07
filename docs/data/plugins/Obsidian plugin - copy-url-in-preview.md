@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/copy-url-in-preview
 alt:
   - https://github.com/nomarcub/obsidian-copy-url-in-preview
-downloads: 74082
-updated at: "2026-05-19T20:51:43Z"
+downloads: 76571
+updated at: "2026-08-01T07:22:30Z"
 related to:
   - "[[GitHub - 385695737]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add context menus to images and the canvas with actions like copy image to clipboard, copy URL, open in default app, show in system explorer, reveal in file tree, open in new tab, and rename. Enable most actions on mobile (tested on Android); online embeds only support copy to clipboard."
 
     stats: {
-        downloads:  74082
-        updated_at: 1779223903000
+        downloads:  76571
+        updated_at: 1785568950000
     }
 }
 ```

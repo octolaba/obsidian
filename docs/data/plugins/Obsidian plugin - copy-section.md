@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-section
 alt:
   - https://github.com/skztr/obsidian-plugin-section-copy
-downloads: 2631
+downloads: 2701
 updated at: "2026-01-09T01:47:58Z"
 related to:
   - "[[GitHub - 857107327]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a copy button to header lines to copy the entire section as raw Markdown up to the next header of the same level. Omit %%comments%% or tag-only lines, include all sub-sections or stop at the next header, and pick which header levels show the button."
 
     stats: {
-        downloads:  2631
+        downloads:  2701
         updated_at: 1767923278000
     }
 }

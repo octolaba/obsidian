@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/map-of-content
 alt:
   - https://github.com/robin-haupt-1/Obsidian-Map-of-Content
-downloads: 42198
+downloads: 42455
 updated at: "2023-09-23T12:11:26Z"
 related to:
   - "[[GitHub - 384646552]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display the shortest path(s) from a chosen central note to the open note and list its descendants. Update automatically as you switch notes, show all equal-length alternative paths so notes can appear in multiple contexts, and render the map in a side pane beside the editor."
 
     stats: {
-        downloads:  42198
+        downloads:  42455
         updated_at: 1695471086000
     }
 }

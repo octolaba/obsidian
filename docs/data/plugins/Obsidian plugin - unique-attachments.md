@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/unique-attachments
 alt:
   - https://github.com/dy-sh/obsidian-unique-attachments
-downloads: 14146
+downloads: 14283
 updated at: "2026-04-22T12:52:12Z"
 related to:
   - "[[GitHub - 347434104]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Rename attachments to content-based MD5 filenames so identical files get the same name and different content gets unique names. Update links across notes, optionally delete duplicate files in the same folder, and restrict renaming to linked or active attachments."
 
     stats: {
-        downloads:  14146
+        downloads:  14283
         updated_at: 1776862332000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/languagetool
 alt:
   - https://github.com/wrenger/obsidian-languagetool
-downloads: 42445
+downloads: 43747
 updated at: "2026-05-26T22:25:52Z"
 related to:
   - "[[GitHub - 757760488]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Check grammar, spelling, and style in Obsidian using LanguageTool and get in-line suggestions with corrections, synonyms, and mother-tongue support. Toggle automatic checking, disable specific rules via tooltips, and set note-specific language options. Self-host LanguageTool to keep checks local."
 
     stats: {
-        downloads:  42445
+        downloads:  43747
         updated_at: 1779834352000
     }
 }

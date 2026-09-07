@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/eisenhower-matrix-blocks
 alt:
   - https://github.com/angusk97/obsidian-eisenhower-matrix-blocks
-downloads: 2
-updated at: "2026-07-23T07:39:51Z"
+downloads: 97
+updated at: "2026-08-10T03:20:05Z"
 related to:
   - "[[GitHub - 1308601219]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Insert independent four-quadrant Eisenhower task boards anywhere in a note and edit tasks directly inside the rendered matrix. Store tasks, quadrants, order, and completion times as Markdown so each matrix keeps a per-note, filterable completion history that travels with the file."
 
     stats: {
-        downloads:  2
-        updated_at: 1784792391000
+        downloads:  97
+        updated_at: 1786332005000
     }
 }
 ```

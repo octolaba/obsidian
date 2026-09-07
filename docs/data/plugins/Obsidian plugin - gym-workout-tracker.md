@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/gym-workout-tracker
 alt:
   - https://github.com/piero24/obsidian-gym-tracker
-downloads: 250
-updated at: "2026-07-19T23:53:50Z"
+downloads: 404
+updated at: "2026-07-31T20:34:35Z"
 related to:
   - "[[GitHub - 1286443405]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Track workouts on a monthly calendar, start or edit sessions by clicking dates, and spot workout days via indicator dots. Create reusable templates and pick from 1,300+ exercises with GIF demos and thumbnails; auto-fill last-session numbers, auto-save edits, and keep all data in a single local file with kg/lbs conversion."
 
     stats: {
-        downloads:  250
-        updated_at: 1784505230000
+        downloads:  404
+        updated_at: 1785530075000
     }
 }
 ```

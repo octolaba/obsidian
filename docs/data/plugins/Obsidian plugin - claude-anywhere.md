@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/claude-anywhere
 alt:
   - https://github.com/derek-larson14/obsidian-claude-anywhere
-downloads: 1624
+downloads: 1772
 updated at: "2026-05-17T01:57:40Z"
 related to:
   - "[[GitHub - 1137097377]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Access your Mac's Claude Code from phone or tablet and edit files across your Mac — notes, code repos, and config files. Run your Claude skills and full terminal commands (Git, npm, scripts), and resume conversations with /resume to pick up where you left off."
 
     stats: {
-        downloads:  1624
+        downloads:  1772
         updated_at: 1778983060000
     }
 }

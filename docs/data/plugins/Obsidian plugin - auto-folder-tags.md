@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-folder-tags
 alt:
   - https://github.com/gansxx/auto-folder-tags
-downloads: 158
+downloads: 200
 updated at: "2026-06-04T09:12:12Z"
 related to:
   - "[[GitHub - 1258518677]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Apply configured tags to new notes by injecting frontmatter tags when files are created. Apply those tags to all markdown files in the current folder on demand while avoiding duplicate tags."
 
     stats: {
-        downloads:  158
+        downloads:  200
         updated_at: 1780564332000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/corduroy
 alt:
   - https://github.com/gabbywelson/obsidian-corduroy
-downloads: 109
+downloads: 136
 updated at: "2026-06-01T12:37:50Z"
 related to:
   - "[[GitHub - 1256039328]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search for a place and insert its coordinates and formatted address directly into the current note's frontmatter. Write latitude/longitude as a coordinates list compatible with map plugins so notes appear on maps immediately using live Google Places autocomplete."
 
     stats: {
-        downloads:  109
+        downloads:  136
         updated_at: 1780317470000
     }
 }

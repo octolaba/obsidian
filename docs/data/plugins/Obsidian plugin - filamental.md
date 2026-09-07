@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/filamental
 alt:
   - https://github.com/scottnine/obsidian-filamental
-downloads: 143
+downloads: 186
 updated at: "2026-06-25T12:16:06Z"
 related to:
   - "[[GitHub - 1275946988]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Explore your vault as a living 3D knowledge graph. Full physics simulation, type-coloured nodes, and live sync with the Filamental desktop app."
 
     stats: {
-        downloads:  143
+        downloads:  186
         updated_at: 1782389766000
     }
 }

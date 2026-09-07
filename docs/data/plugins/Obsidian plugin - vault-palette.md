@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-palette
 alt:
   - https://github.com/dejandj79/vault-palette
-downloads: 202
+downloads: 236
 updated at: "2026-05-19T20:28:00Z"
 related to:
   - "[[GitHub - 1243894330]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Style folders, files, and tags across your vault with per-item background, border and text colors plus bold, italic and opacity. Right-click any file or folder in the file explorer to customize appearance, apply folder styles to subfolders or files, save presets, use stable rainbow filenames, and assign per-tag backgrounds with a shared tag text color."
 
     stats: {
-        downloads:  202
+        downloads:  236
         updated_at: 1779222480000
     }
 }

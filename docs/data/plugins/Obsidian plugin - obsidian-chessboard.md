@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-chessboard
 alt:
   - https://github.com/thek3nger/obsidian-chessboard
-downloads: 11179
-updated at: "2026-06-24T20:07:25Z"
+downloads: 11408
+updated at: "2026-08-05T13:58:16Z"
 related to:
   - "[[GitHub - 337385121]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render Chess FEN positions as static SVG chessboards directly in preview and in HTML/PDF exports. Add annotations—arrows, highlights, shapes and icons—and set board orientation for clear, export-friendly diagrams."
 
     stats: {
-        downloads:  11179
-        updated_at: 1782331645000
+        downloads:  11408
+        updated_at: 1785938296000
     }
 }
 ```

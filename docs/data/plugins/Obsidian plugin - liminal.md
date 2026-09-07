@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/liminal
 alt:
   - https://github.com/napard-web/liminal-plugin
-downloads: 189
+downloads: 202
 updated at: "2026-06-30T18:53:59Z"
 related to:
   - "[[GitHub - 1239060848]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate structured notes from raw text or YouTube transcripts using your Anthropic Claude API key. Suggest relevant tags, propose up to three semantically related [[wikilinks]], run free-form instructions on notes, and search your vault by meaning rather than keywords."
 
     stats: {
-        downloads:  189
+        downloads:  202
         updated_at: 1782845639000
     }
 }

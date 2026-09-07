@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/infostacker
 alt:
   - https://github.com/taskscape/InfostackerPlugin
-downloads: 771
-updated at: "2026-07-21T19:59:52Z"
+downloads: 818
+updated at: "2026-08-07T09:28:02Z"
 related to:
   - "[[GitHub - 803752164]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Publish notes and attachments to a remote server and edit or delete them directly from Obsidian. Share generated links so recipients can view notes and attachments as HTML; free server storage with a daily limit of 100 published notes."
 
     stats: {
-        downloads:  771
-        updated_at: 1784663992000
+        downloads:  818
+        updated_at: 1786094882000
     }
 }
 ```

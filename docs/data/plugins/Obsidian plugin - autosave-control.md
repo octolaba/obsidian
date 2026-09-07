@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/autosave-control
 alt:
   - https://github.com/mihasm/obsidian-autosave-control
-downloads: 3900
-updated at: "2026-07-07T08:19:23Z"
+downloads: 4462
+updated at: "2026-07-26T17:27:22Z"
 related to:
   - "[[GitHub - 861878927]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Control how Obsidian saves files by delaying per-file autosaves until edits stop, disabling autosave entirely, or deferring workspace layout writes to reduce sync conflicts, excessive writes, and battery use. Shows current save state in the status bar using a customizable colored dot."
 
     stats: {
-        downloads:  3900
-        updated_at: 1783412363000
+        downloads:  4462
+        updated_at: 1785086842000
     }
 }
 ```

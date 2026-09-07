@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/previous-river
 alt:
   - https://github.com/ongaeshi/previous-river
-downloads: 1750
+downloads: 1822
 updated at: "2026-05-29T12:09:53Z"
 related to:
   - "[[GitHub - 1086448686]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Navigate between notes using the previous frontmatter property or backlinks. Jump to previous, next, first, or last notes in a chain, choose between multiple candidates via a suggestion modal, insert notes into a backlink sequence, or detach the current note from the sequence."
 
     stats: {
-        downloads:  1750
+        downloads:  1822
         updated_at: 1780056593000
     }
 }

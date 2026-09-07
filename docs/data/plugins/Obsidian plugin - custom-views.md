@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/custom-views
 alt:
   - https://github.com/anupchavan/obsidian-custom-views
-downloads: 1937
+downloads: 2278
 updated at: "2026-06-26T14:24:16Z"
 related to:
   - "[[GitHub - 1123776560]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create custom HTML views for notes using templates and file-based filter rules. Match notes by file properties, frontmatter, or tags and combine conditions with AND/OR/NOR. Transform fields with filter chains and render note content as Markdown to build card views, dashboards, or tailored displays."
 
     stats: {
-        downloads:  1937
+        downloads:  2278
         updated_at: 1782483856000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/workout-tracker
 alt:
   - https://github.com/wanabeunique/obsidian-workout-tracker
-downloads: 3421
+downloads: 3514
 updated at: "2025-05-02T06:01:11Z"
 related to:
   - "[[GitHub - 871879639]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Log workouts, track progress over time, and view detailed statistics for each exercise. Organize muscle groups and exercises, record sets, reps and weight, and visualize consistency and intensity with a heatmap."
 
     stats: {
-        downloads:  3421
+        downloads:  3514
         updated_at: 1746165671000
     }
 }

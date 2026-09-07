@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wiki-to-note
 alt:
   - https://github.com/commandjoo/WikiToNote
-downloads: 252
+downloads: 321
 updated at: "2026-06-29T18:21:21Z"
 related to:
   - "[[GitHub - 953467696]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Wikipedia articles into Obsidian as Markdown notes for offline reading, editing, and linking. Keep conversions simple — ideal for quick captures rather than exact replicas."
 
     stats: {
-        downloads:  252
+        downloads:  321
         updated_at: 1782757281000
     }
 }

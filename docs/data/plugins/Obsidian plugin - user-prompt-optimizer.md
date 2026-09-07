@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/user-prompt-optimizer
 alt:
   - https://github.com/chuanqq/user-prompt-optimizer
-downloads: 17
-updated at: "2026-07-19T09:44:41Z"
+downloads: 65
+updated at: "2026-08-08T06:51:42Z"
 related to:
   - "[[GitHub - 1305020821]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Select a prompt and refine it with an LLM, streaming the optimized text back into your selection character by character. Choose template or lite optimization, preserve code, JSON, URLs and examples, and monitor progress with in-editor banners, a status ribbon and request logs while using OpenAI- or Anthropic-compatible providers."
 
     stats: {
-        downloads:  17
-        updated_at: 1784454281000
+        downloads:  65
+        updated_at: 1786171902000
     }
 }
 ```

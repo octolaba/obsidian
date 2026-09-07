@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gestion-de-epicas
 alt:
   - https://github.com/leozymandyas/gestion-de-epicas
-downloads: 104
+downloads: 116
 updated at: "2026-06-24T06:52:41Z"
 related to:
   - "[[GitHub - 1270287469]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Gestiona épicas, historias, sprints, tareas, pendientes y roadmap como notas Markdown organizadas dentro de tu vault. Almacena cada elemento en archivos .md portables con frontmatter y carpetas automáticas para trazabilidad; interfaz en español (solo Obsidian Desktop)."
 
     stats: {
-        downloads:  104
+        downloads:  116
         updated_at: 1782283961000
     }
 }

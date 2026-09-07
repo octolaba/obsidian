@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zotero-cite-links
 alt:
   - https://github.com/jpeacock29/zotero-cite-links
-downloads: 121
+downloads: 199
 updated at: "2026-06-21T20:23:42Z"
 related to:
   - "[[GitHub - 1272868610]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open Pandoc-style @citekey links directly in Zotero at the cited page, using annotation-aware page-label offsetting. Cmd/Ctrl-click or run the Open citation at cursor command to jump to the PDF resolved via your local Zotero with Better BibTeX — no data leaves your machine."
 
     stats: {
-        downloads:  121
+        downloads:  199
         updated_at: 1782073422000
     }
 }

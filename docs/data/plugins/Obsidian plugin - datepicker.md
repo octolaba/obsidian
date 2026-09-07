@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/datepicker
 alt:
   - https://github.com/joycode-hub/datepicker-plugin
-downloads: 9703
+downloads: 10010
 updated at: "2025-07-20T15:29:01Z"
 related to:
   - "[[GitHub - 821214411]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert and edit dates and times anywhere in your Markdown notes using a clickable calendar button or an automatic picker when date text is selected. Use commands to add new dates or date-times, edit existing ones, and jump to previous or next date/time for quick adjustments."
 
     stats: {
-        downloads:  9703
+        downloads:  10010
         updated_at: 1753025341000
     }
 }

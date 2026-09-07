@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-tree-alternative
 alt:
   - https://github.com/ozntel/file-tree-alternative
-downloads: 342416
+downloads: 345218
 updated at: "2024-06-22T18:50:37Z"
 related to:
   - "[[GitHub - 374393616]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Separate folders and file lists into independent panes or enable an Evernote-style combined view. Show note/file counts, focus into folders, expand/collapse or split views horizontally/vertically, exclude paths, list files from subfolders, and remember folder state across sessions."
 
     stats: {
-        downloads:  342416
+        downloads:  345218
         updated_at: 1719082237000
     }
 }

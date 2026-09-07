@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/noveler-a-storyline-expansion
 alt:
   - https://github.com/dylancomas/noveler-a-storyline-expansion
-downloads: 162
+downloads: 414
 updated at: "2026-07-18T15:59:34Z"
 related to:
   - "[[GitHub - 1298354919]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a dedicated manuscript editor inside Obsidian with page layout controls, focus writing mode, and built-in formatting tools tailored for long-form fiction. Route StoryLine scenes, export formatted manuscripts, and connect to Antidote for grammar and style checks."
 
     stats: {
-        downloads:  162
+        downloads:  414
         updated_at: 1784390374000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vim-scrolling
 alt:
   - https://github.com/xlongfeng/obsidian-vim-scrolling
-downloads: 274
+downloads: 326
 updated at: "2026-07-06T02:23:09Z"
 related to:
   - "[[GitHub - 1235056635]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add vim-style scrolling to reading mode when Obsidian's vim key bindings are enabled. Intercept j, k, Ctrl+D, Ctrl+U, gg and G to scroll instantly (line, half-page, top/bottom) and realign the editor cursor when switching back to source mode."
 
     stats: {
-        downloads:  274
+        downloads:  326
         updated_at: 1783304589000
     }
 }

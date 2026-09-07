@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-connect
 alt:
   - https://github.com/camadkins/obsidian-canvas-connect
-downloads: 4052
+downloads: 4299
 updated at: "2026-06-08T02:55:00Z"
 related to:
   - "[[GitHub - 986048410]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Adjust connection anchors in Canvas as you move nodes, automatically choosing the most logical side (top, right, bottom, left) to keep lines tidy. Optimize all connections across the active or all open canvases with a single command and show subtle visual highlights when connections change."
 
     stats: {
-        downloads:  4052
+        downloads:  4299
         updated_at: 1780887300000
     }
 }

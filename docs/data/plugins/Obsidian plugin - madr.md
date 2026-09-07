@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/madr
 alt:
   - https://github.com/vanerp/obsidian-madr
-downloads: 29
+downloads: 38
 updated at: "2026-07-08T19:58:33Z"
 related to:
   - "[[GitHub - 1293723351]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Author MADR-format architecture decision records as plain Markdown notes with rendered templates for each new record. Open the sidebar ADR panel to create records and view a live checklist that flags missing sections and leftover template placeholders. Keep all reads and writes local to your vault — no network calls."
 
     stats: {
-        downloads:  29
+        downloads:  38
         updated_at: 1783540713000
     }
 }

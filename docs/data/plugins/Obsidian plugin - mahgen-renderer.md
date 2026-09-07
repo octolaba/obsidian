@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mahgen-renderer
 alt:
   - https://github.com/michaelfw-ui/mahgen-renderer
-downloads: 337
+downloads: 362
 updated at: "2026-03-05T14:14:57Z"
 related to:
   - "[[GitHub - 903397470]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render mahgen-format Mahjong hands, draws, discards and rivers directly inside Obsidian notes, supporting inline and block displays and Nankiru mode. Parse optional furigana syntax and render ruby readings in Live Preview and reading view."
 
     stats: {
-        downloads:  337
+        downloads:  362
         updated_at: 1772720097000
     }
 }

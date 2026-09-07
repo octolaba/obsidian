@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/status-words
 alt:
   - https://github.com/zimabx/status-words
-downloads: 41
+downloads: 67
 updated at: "2026-07-07T02:14:48Z"
 related to:
   - "[[GitHub - 1291625758]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display customizable word and character counts in status bar. Show current line, paragraph, whole-note and selection stats, include file name, cursor position and total lines via templates, and pick counting modes (count spaces/punctuation/newlines, ignore whitespace, letters/numbers only, or visible characters)."
 
     stats: {
-        downloads:  41
+        downloads:  67
         updated_at: 1783390488000
     }
 }

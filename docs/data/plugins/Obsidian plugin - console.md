@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/console
 alt:
   - https://github.com/dellermann/obsidian-console
-downloads: 5654
+downloads: 5742
 updated at: "2024-02-05T10:07:57Z"
 related to:
   - "[[GitHub - 578124842]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render console commands and their output as styled blocks in your notes. Use fenced code blocks marked \"console\" to show prompts, commands, and resulting output clearly."
 
     stats: {
-        downloads:  5654
+        downloads:  5742
         updated_at: 1707127677000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/xlsx-viewer
 alt:
   - https://github.com/viggomeesters/obsidian-xlsx-viewer
-downloads: 1437
+downloads: 2019
 updated at: "2026-06-07T19:36:06Z"
 related to:
   - "[[GitHub - 1262268743]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open .xlsx files inside Obsidian as read-only workbook tables with sheet tabs and sticky column letters and row numbers. View cell values (including cached/formatted formula results), search across cells, see sheet/row/column counts, and render up to 10,000 rows for quick inspection."
 
     stats: {
-        downloads:  1437
+        downloads:  2019
         updated_at: 1780860966000
     }
 }

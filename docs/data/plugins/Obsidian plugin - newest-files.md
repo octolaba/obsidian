@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/newest-files
 alt:
   - https://github.com/viggomeesters/obsidian-newest-files
-downloads: 91
+downloads: 106
 updated at: "2026-06-14T13:54:49Z"
 related to:
   - "[[GitHub - 1267083762]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "List newest files in a compact sidebar view, including attachments and non‑Markdown items, with optional timestamps, filenames, and subtle extension labels. Track a first-seen index (backfilled from created or modified timestamps) and update live on file create, delete, rename, and modify."
 
     stats: {
-        downloads:  91
+        downloads:  106
         updated_at: 1781445289000
     }
 }

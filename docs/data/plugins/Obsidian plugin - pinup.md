@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pinup
 alt:
   - https://github.com/pilafdob/Pinup
-downloads: 78
+downloads: 124
 updated at: "2026-07-12T21:57:27Z"
 related to:
   - "[[GitHub - 1297576800]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add two focused pinning modes to the File Explorer without modifying files, folders, note content, or frontmatter. Pin moves an item above its unpinned siblings inside the same folder; Pin up places an item on a compact shelf below the File Explorer toolbar while keeping its tree entry. Keep multiple pins in a deterministic order."
 
     stats: {
-        downloads:  78
+        downloads:  124
         updated_at: 1783893447000
     }
 }

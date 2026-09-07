@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bindery
 alt:
   - https://github.com/evdboom/Bindery
-downloads: 165
+downloads: 185
 updated at: "2026-07-23T21:32:44Z"
 related to:
   - "[[GitHub - 1197158708]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format Markdown books with smart typography — curly quotes, em-dashes, ellipses and smart apostrophes, plus chapter merging for clean manuscript output. Export to multiple formats and connect to an MCP server for full-text search and AI assistant integration."
 
     stats: {
-        downloads:  165
+        downloads:  185
         updated_at: 1784842364000
     }
 }

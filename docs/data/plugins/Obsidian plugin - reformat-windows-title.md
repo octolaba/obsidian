@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/reformat-windows-title
 alt:
   - https://github.com/zhao414/obsidian-reformat-windows-title
-downloads:
-updated at:
+downloads: 162
+updated at: "2026-08-06T04:10:39Z"
 related to:
   - "[[GitHub - 1277622439]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/zhao414/obsidian-reformat-windows-title"
     description: "Customize the window title format by reordering vault name and file name. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Reformat Windows Title lets you customize how the Obsidian window title appears on the Windows taskbar. When multiple vaults are open, putting the vault name first makes it easier to identify the right window at a glance."
+
+    stats: {
+        downloads:  162
+        updated_at: 1785989439000
+    }
 }
 ```
 

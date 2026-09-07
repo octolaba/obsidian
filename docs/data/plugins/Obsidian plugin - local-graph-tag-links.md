@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/local-graph-tag-links
 alt:
   - https://github.com/lumyo/obsidian-local-graph-tag-links
-downloads: 629
+downloads: 843
 updated at: "2026-05-16T06:49:22Z"
 related to:
   - "[[GitHub - 1175118834]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "This plugin improves the local graph view by properly displaying connections between notes that share the same tags, even when those relationships are normally omitted by Obsidian’s built-in graph. It effectively treats shared tags as first-class graph connections, making it much easier to explore related ideas, navigate knowledge clusters, and uncover hidden links across your vault without manually creating explicit note-to-note links."
 
     stats: {
-        downloads:  629
+        downloads:  843
         updated_at: 1778914162000
     }
 }

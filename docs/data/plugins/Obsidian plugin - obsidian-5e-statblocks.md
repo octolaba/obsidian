@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-5e-statblocks
 alt:
   - https://github.com/obsidian-ttrpg-community/fantasy-statblocks
-downloads: 315907
+downloads: 319459
 updated at: "2026-01-21T15:45:47Z"
 related to:
   - "[[GitHub - 368616692]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create, manage and view a Fantasy Bestiary in Obsidian with structured statblocks for tabletop RPGs. Store statblocks as Markdown for local, searchable, and linkable notes, with layouts for D&D 5e, Pathfinder 2e, 13th Age and other systems."
 
     stats: {
-        downloads:  315907
+        downloads:  319459
         updated_at: 1769010347000
     }
 }

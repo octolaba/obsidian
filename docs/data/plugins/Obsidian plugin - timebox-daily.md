@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/timebox-daily
 alt:
   - https://github.com/rvzenteno/O-Timebox-Daily
-downloads: 206
-updated at: "2026-06-04T15:37:33Z"
+downloads: 267
+updated at: "2026-07-25T20:07:47Z"
 related to:
   - "[[GitHub - 1154624603]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create structured daily TimeBox notes with clear morning, afternoon, and evening time blocks. Roll unfinished tasks forward automatically and record completed items. Maintain a persistent brain dump and open today’s TimeBox on startup for quick access."
 
     stats: {
-        downloads:  206
-        updated_at: 1780587453000
+        downloads:  267
+        updated_at: 1785010067000
     }
 }
 ```

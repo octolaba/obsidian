@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/typing-transformer-obsidian
 alt:
   - https://github.com/aptend/typing-transformer-obsidian
-downloads: 12624
+downloads: 12794
 updated at: "2025-12-04T02:47:53Z"
 related to:
   - "[[GitHub - 443701340]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform typing with flexible, rule-based auto-formatting that applies input conversion, deletion, and selection rules as you type. Insert auto-pairs, expand abbreviations, convert character widths, adjust spacing between languages and symbols, and control cursor placement for precise edits."
 
     stats: {
-        downloads:  12624
+        downloads:  12794
         updated_at: 1764816473000
     }
 }

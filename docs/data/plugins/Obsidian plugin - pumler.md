@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pumler
 alt:
   - https://github.com/pumler/plugin-obsidian
-downloads: 247
+downloads: 298
 updated at: "2026-05-02T23:21:36Z"
 related to:
   - "[[GitHub - 1226540931]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render PlantUML, Structurizr DSL, and Mermaid diagrams from pumler fenced code blocks by sending source to the Pumler API and inserting returned SVGs into your notes. Configure per-diagram light/dark/auto themes, use debounced rendering with on-disk caching of the 30 most recent SVGs, and preview diagrams via a collapsible summary row and a zoomable modal."
 
     stats: {
-        downloads:  247
+        downloads:  298
         updated_at: 1777764096000
     }
 }

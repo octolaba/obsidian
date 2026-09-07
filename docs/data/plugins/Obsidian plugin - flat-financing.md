@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/flat-financing
 alt:
   - https://github.com/pranjulsingh/obsidian-accounting
-downloads: 1004
+downloads: 1156
 updated at: "2026-07-01T18:53:17Z"
 related to:
   - "[[GitHub - 1126227755]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage personal finances inside Obsidian with Beancount integration, tracking expenses, income, and date-wise net worth flows. View interactive dashboards, summaries, and transaction lists with advanced filtering, multi-column sorting, privacy mode, live editing, and CSV/PDF export."
 
     stats: {
-        downloads:  1004
+        downloads:  1156
         updated_at: 1782931997000
     }
 }

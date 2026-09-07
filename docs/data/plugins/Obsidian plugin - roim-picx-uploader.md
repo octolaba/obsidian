@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/roim-picx-uploader
 alt:
   - https://github.com/xjain03/roim-picx-uploader
-downloads: 13
+downloads: 20
 updated at: "2026-07-12T10:22:02Z"
 related to:
   - "[[GitHub - 1298138057]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Auto-upload images to Roim PicX from Obsidian and replace external image URLs in notes with PicX links. Support Web Clipper, detect new or pasted/dragged images, handle Markdown, HTML and reference formats, skip badges/shields, decode camo URLs, and copy PicX links to the clipboard after upload."
 
     stats: {
-        downloads:  13
+        downloads:  20
         updated_at: 1783851722000
     }
 }

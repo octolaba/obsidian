@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/weekly-review-linker
 alt:
   - https://github.com/adityakhowalgithub/weekly-review-notes-linker
-downloads: 894
+downloads: 905
 updated at: "2024-05-06T16:04:16Z"
 related to:
   - "[[GitHub - 795783018]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a weekly index file that links every note created during the past week. Keep periodic notes connected in your graph without opening each file, enabling quick navigation and review of your weekly activity."
 
     stats: {
-        downloads:  894
+        downloads:  905
         updated_at: 1715011456000
     }
 }

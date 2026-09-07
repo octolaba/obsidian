@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/recording-transcript-player
 alt:
   - https://github.com/galeas/recording-transcript-player
-downloads: 121
+downloads: 135
 updated at: "2026-05-15T16:08:27Z"
 related to:
   - "[[GitHub - 1239798261]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open audio files alongside synchronized sibling transcripts (SRT, VTT, DOTe JSON) and show the native audio player above a clickable transcript. Highlight active subtitles during playback, click timestamps to seek, search the transcript with inline highlights and navigate matches, and resume playback from saved positions."
 
     stats: {
-        downloads:  121
+        downloads:  135
         updated_at: 1778861307000
     }
 }

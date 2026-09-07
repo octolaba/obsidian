@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/local-any-files
 alt:
   - https://github.com/shermantsang/obsidian-local-any-files
-downloads: 2314
+downloads: 2380
 updated at: "2025-01-18T04:08:30Z"
 related to:
   - "[[GitHub - 895951542]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extract external links from notes, download linked files into your vault, and replace remote URLs with local paths. Support a wide range of file types, display real-time progress and detailed logs, and run operations per file, folder, or entire vault."
 
     stats: {
-        downloads:  2314
+        downloads:  2380
         updated_at: 1737173310000
     }
 }

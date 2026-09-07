@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/frontmatter-input
 alt:
   - https://github.com/scottgrayart/Frontmatter-input
-downloads: 126
+downloads: 149
 updated at: "2026-05-28T11:18:46Z"
 related to:
   - "[[GitHub - 1069417546]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage frontmatter tags with interactive nested checkbox and radio lists. Define hierarchical tags as parent/child/grandchild entries and embed lists in templates or notes; selections automatically update frontmatter and reveal child lists when parents are selected. Prevent duplicate tags and auto-remove child tags when parents are unchecked, with optional vertical or horizontal layouts."
 
     stats: {
-        downloads:  126
+        downloads:  149
         updated_at: 1779967126000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/ttrpg-tools-time
 alt:
   - https://github.com/jareika/ttrpg-tools-time
-downloads: 2116
-updated at: "2026-07-02T17:53:00Z"
+downloads: 2924
+updated at: "2026-08-10T15:42:14Z"
 related to:
   - "[[GitHub - 1220792709]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Fantasy calender early release with missing features."
 
     stats: {
-        downloads:  2116
-        updated_at: 1783014780000
+        downloads:  2924
+        updated_at: 1786376534000
     }
 }
 ```

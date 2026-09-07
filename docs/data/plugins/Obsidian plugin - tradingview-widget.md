@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tradingview-widget
 alt:
   - https://github.com/themanuelml/obsidian-tradeview
-downloads: 409
+downloads: 532
 updated at: "2026-06-14T02:35:26Z"
 related to:
   - "[[GitHub - 1249982324]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a customizable stock view in Obsidian to browse live market data using TradingView's embeddable widgets. Switch among charts, heatmaps, tickers, single quotes, and symbol summaries; work on desktop only and load widgets from TradingView's servers (internet required)."
 
     stats: {
-        downloads:  409
+        downloads:  532
         updated_at: 1781404526000
     }
 }

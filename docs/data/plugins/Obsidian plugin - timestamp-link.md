@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/timestamp-link
 alt:
   - https://github.com/wenlzhang/obsidian-timestamp-link
-downloads: 3262
+downloads: 3299
 updated at: "2026-03-28T08:38:33Z"
 related to:
   - "[[GitHub - 714002392]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy timestamped links to notes, headings, and blocks to record when connections were made and inserted. Add dual timestamps to block links to track creation and insertion times and reveal the chronological context of your note network."
 
     stats: {
-        downloads:  3262
+        downloads:  3299
         updated_at: 1774687113000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/efficient-word-count
 alt:
   - https://github.com/blueheron786/obsidian-efficient-word-count
-downloads: 526
+downloads: 540
 updated at: "2025-06-19T21:34:08Z"
 related to:
   - "[[GitHub - 1005162887]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Calculate and cache word counts for all Markdown files in your vault, updating in real time as files are created, modified, renamed, or deleted and excluding configurable folders. Persist cache to disk for fast startup and access counts programmatically via the global API (window.wordCountCache.get(path) and .total())."
 
     stats: {
-        downloads:  526
+        downloads:  540
         updated_at: 1750368848000
     }
 }

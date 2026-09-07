@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/slick-mermaid
 alt:
   - https://github.com/pasevin/obsidian-slick-mermaid
-downloads: 630
+downloads: 843
 updated at: "2026-07-01T16:21:21Z"
 related to:
   - "[[GitHub - 1234435205]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Style Mermaid diagrams to match Obsidian's native theme and typography. Map Obsidian CSS variables to Mermaid so diagrams adapt to light/dark mode, use subdued fills, thin strokes and readable labels, disable theme SVG invert filters, normalize unquoted labels and escaped newlines, and provide a larger pan/zoom dialog for complex graphs."
 
     stats: {
-        downloads:  630
+        downloads:  843
         updated_at: 1782922881000
     }
 }

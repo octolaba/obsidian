@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cyrillic-non-latin-tags
 alt:
   - https://github.com/javatutor-ru/obsidian-cyrillic-non-latin-tags
-downloads: 74
+downloads: 82
 updated at: "2026-06-09T15:52:28Z"
 related to:
   - "[[GitHub - 1257182061]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "The plugin adds CSS classes to tags containing non-Latin characters in Editing view, giving a generic \"cm-tag-non-latin\" class and a personal \"cm-tag-[tag_name]\" class for targeted styling. Leaves Latin tags unchanged and collapses nested tag slashes (\"/\") into concatenated class names for compatibility."
 
     stats: {
-        downloads:  74
+        downloads:  82
         updated_at: 1781020348000
     }
 }

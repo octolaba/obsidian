@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/github-stars-manager
 alt:
   - https://github.com/embersparks/obsidian-github-stars-manager
-downloads: 131
+downloads: 152
 updated at: "2026-06-03T08:36:01Z"
 related to:
   - "[[GitHub - 1024631924]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage and view starred GitHub repositories directly inside Obsidian with multi-account support, custom tags, local notes, and manual or automatic sync. Search and filter by name, description, language or tags (supports fuzzy and regex), sort by multiple fields, and switch between card and liquid-glass themes with a responsive waterfall layout."
 
     stats: {
-        downloads:  131
+        downloads:  152
         updated_at: 1780475761000
     }
 }

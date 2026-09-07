@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/create-folder-at-note-location
 alt:
   - https://github.com/josteniok/create-folder-at-note-location
-downloads: 165
+downloads: 207
 updated at: "2026-05-25T16:02:54Z"
 related to:
   - "[[GitHub - 1146314252]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a folder at the current note's location with a single command. Optionally create a file inside the new folder with the same name to serve as a folder note."
 
     stats: {
-        downloads:  165
+        downloads:  207
         updated_at: 1779724974000
     }
 }

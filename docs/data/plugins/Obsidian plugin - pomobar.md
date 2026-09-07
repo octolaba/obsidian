@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pomobar
 alt:
   - https://github.com/semanticdata/obsidian-pomodoro
-downloads: 4013
+downloads: 4100
 updated at: "2025-12-29T18:34:34Z"
 related to:
   - "[[GitHub - 921501728]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Stay focused with a minimalist Pomodoro timer in the status bar that shows session state and swaps icons when running. Get optional audio alerts, auto-progress through work/break cycles, and control timers with simple clicks or assignable keyboard commands."
 
     stats: {
-        downloads:  4013
+        downloads:  4100
         updated_at: 1767033274000
     }
 }

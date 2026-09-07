@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chartspark
 alt:
   - https://github.com/pooyash1998/chartspark
-downloads: 154
+downloads: 194
 updated at: "2026-04-26T13:00:57Z"
 related to:
   - "[[GitHub - 1124938253]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn Obsidian tables, checkbox lists, or key:value blocks into live, auto-refreshing charts in seconds. Choose from Bar, Line, Pie, Doughnut, Radar, and Polar Area; swap axes, aggregate checkbox data across a vault or folder, export PNG, and keep charts theme-aware."
 
     stats: {
-        downloads:  154
+        downloads:  194
         updated_at: 1777208457000
     }
 }

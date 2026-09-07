@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/spellcheck-toggler
 alt:
   - https://github.com/julzerinos/spellcheck-toggler-obsidian-plugin
-downloads: 6728
+downloads: 6847
 updated at: "2026-03-01T15:03:59Z"
 related to:
   - "[[GitHub - 761277596]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle spellcheck for specific block types (external/internal links, HTML comments, block quotes, emphasis/italic, strong/bold) to remove distracting red underlines in edit view. Control each option globally or per-file via frontmatter overrides and choose always/frontmatter/never behaviors."
 
     stats: {
-        downloads:  6728
+        downloads:  6847
         updated_at: 1772377439000
     }
 }

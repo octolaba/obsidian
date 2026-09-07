@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/paste-quote
 alt:
   - https://github.com/brokensandals/obsidian-paste-quote-plugin
-downloads: 365
+downloads: 389
 updated at: "2025-02-21T21:22:36Z"
 related to:
   - "[[GitHub - 926688949]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format and cite quotes pasted from the clipboard, producing block or inline quotes and normalizing internal quotes. Convert Kindle highlights into Pandoc-style citations by matching titles to a note's front matter references or falling back to title/page metadata. Paste Better CSL YAML into front matter and insert Pandoc citations from referenced items."
 
     stats: {
-        downloads:  365
+        downloads:  389
         updated_at: 1740172956000
     }
 }

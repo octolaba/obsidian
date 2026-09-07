@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folderer
 alt:
   - https://github.com/alvaromateo/folderer
-downloads: 167
+downloads: 293
 updated at: "2026-05-31T16:07:32Z"
 related to:
   - "[[GitHub - 1227096801]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Watch vault folders and run rules when Markdown files are created, renamed, or moved. Attach multiple rules per folder with triggers, condition groups (All/Any/None) and conditions on filename, path or frontmatter (contains, starts with, ends with, regex, exists); chain actions like prepend or append text and reorder rules to control execution."
 
     stats: {
-        downloads:  167
+        downloads:  293
         updated_at: 1780243652000
     }
 }

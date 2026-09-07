@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/max-sync
 alt:
   - https://github.com/vicstu/obsidian_max_sync
-downloads: 14
+downloads: 23
 updated at: "2026-07-16T19:22:52Z"
 related to:
   - "[[GitHub - 1302625604]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync messages from MAX messenger into your Obsidian vault by fetching new messages from a companion sync server and appending them to a target note with an optional template. Save media attachments into your vault for local access on Obsidian Desktop."
 
     stats: {
-        downloads:  14
+        downloads:  23
         updated_at: 1784229772000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cut-the-fluff
 alt:
   - https://github.com/adamfletcher/obsidian-cut-the-fluff
-downloads: 790
+downloads: 833
 updated at: "2026-05-12T20:12:55Z"
 related to:
   - "[[GitHub - 959949660]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Identify and mark unnecessary words and phrases—weak qualifiers, clichés, jargon, wordy constructions and redundancies—to make writing clearer and more concise. Process all checks locally for privacy, enable built-in rulesets or add custom phrases and exceptions, and choose display styles or apply a fluff CSS class for custom formatting."
 
     stats: {
-        downloads:  790
+        downloads:  833
         updated_at: 1778616775000
     }
 }

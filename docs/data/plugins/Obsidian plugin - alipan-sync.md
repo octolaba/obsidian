@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/alipan-sync
 alt:
   - https://github.com/nowszhao/obsidian-alipan-sync
-downloads: 505
+downloads: 623
 updated at: "2026-07-15T15:58:06Z"
 related to:
   - "[[GitHub - 1208647571]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync notes bidirectionally with Alipan (Aliyun Drive) via OAuth, using incremental transfers and a loose mode for large vaults. Browse remote files, track progress, skip oversized files, and auto-merge conflicts with character-level diffs or timestamp rules, plus detailed logs."
 
     stats: {
-        downloads:  505
+        downloads:  623
         updated_at: 1784131086000
     }
 }

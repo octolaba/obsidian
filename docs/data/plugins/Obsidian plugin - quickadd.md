@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/quickadd
 alt:
   - https://github.com/chhoumann/quickadd
-downloads: 1935782
-updated at: "2026-07-11T15:26:45Z"
+downloads: 1985541
+updated at: "2026-08-10T08:52:50Z"
 related to:
   - "[[GitHub - 375389266]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create templated notes, capture content into predefined files, and chain actions with macros to automate multi-step workflows. Organize choices into folders (multis) and inject dynamic values into filenames and content using QuickAdd's template syntax like {{DATE}}."
 
     stats: {
-        downloads:  1935782
-        updated_at: 1783783605000
+        downloads:  1985541
+        updated_at: 1786351970000
     }
 }
 ```

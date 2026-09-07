@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-file-cleaner
 alt:
   - https://github.com/johnsonhong997/obsidian-file-cleaner
-downloads: 27805
+downloads: 28096
 updated at: "2022-04-01T12:49:05Z"
 related to:
   - "[[GitHub - 467812689]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Clean empty files (zero bytes or only whitespace) and locate unused attachments — jpg, jpeg, png, gif, svg, pdf — across your vault. Delete or move found items to system or Obsidian trash to tidy and reclaim space."
 
     stats: {
-        downloads:  27805
+        downloads:  28096
         updated_at: 1648817345000
     }
 }

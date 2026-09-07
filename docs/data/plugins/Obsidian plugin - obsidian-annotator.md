@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-annotator
 alt:
   - https://github.com/elias-sundqvist/obsidian-annotator
-downloads: 586043
+downloads: 589785
 updated at: "2024-01-08T10:44:21Z"
 related to:
   - "[[GitHub - 399882592]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open and annotate PDF and EPUB files in Obsidian and save annotations to a local Markdown file instead of the web. Select text to create highlights and notes and keep annotations linked to vault or external documents."
 
     stats: {
-        downloads:  586043
+        downloads:  589785
         updated_at: 1704710661000
     }
 }

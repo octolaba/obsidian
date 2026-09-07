@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/meridian-clock
 alt:
   - https://github.com/morpheusxu/meridian-clock
-downloads: 56
+downloads: 68
 updated at: "2026-06-25T08:47:34Z"
 related to:
   - "[[GitHub - 1240326690]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display customizable analog and digital clocks in your sidebar to track local time or other timezones. Show up to four clocks in a 2x2 grid, add custom IANA timezones with automatic DST, and tweak dial styles, colors, typography, second-hand movement, and save appearance presets."
 
     stats: {
-        downloads:  56
+        downloads:  68
         updated_at: 1782377254000
     }
 }

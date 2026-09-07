@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/pimate
 alt:
   - https://github.com/gorazenxu/pimate
-downloads: 393
-updated at: "2026-07-10T18:39:38Z"
+downloads: 504
+updated at: "2026-08-06T01:55:44Z"
 related to:
   - "[[GitHub - 1257370846]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Embed Pi Coding Agent as an AI collaborator inside Obsidian to chat, read and edit vault files, and run commands without leaving the app. Attach files with @, send editor selections for inline edits and diff previews, manage multiple conversation tabs, and use multiple providers and multimodal models."
 
     stats: {
-        downloads:  393
-        updated_at: 1783708778000
+        downloads:  504
+        updated_at: 1785981344000
     }
 }
 ```

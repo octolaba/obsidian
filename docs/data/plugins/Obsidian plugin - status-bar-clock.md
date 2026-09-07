@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/status-bar-clock
 alt:
   - https://github.com/marty331/status-bar-clock-obsidian
-downloads: 1407
+downloads: 1688
 updated at: "2026-01-28T03:17:00Z"
 related to:
   - "[[GitHub - 1087283985]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a live clock in Obsidian's status bar, visible even in full-screen. Toggle seconds to switch between hour:minute AM/PM and hour:minute:second AM/PM with per-second updates."
 
     stats: {
-        downloads:  1407
+        downloads:  1688
         updated_at: 1769570220000
     }
 }

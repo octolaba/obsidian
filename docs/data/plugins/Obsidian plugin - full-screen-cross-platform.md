@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/full-screen-cross-platform
 alt:
   - https://github.com/donkeypacific/obsidian-full-screen-cross-platform-plugin
-downloads: 5454
+downloads: 5538
 updated at: "2024-10-25T13:31:18Z"
 related to:
   - "[[GitHub - 745860924]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Enter fullscreen focus across all platforms to maximize reading space, especially on mobile. Toggle with double-click/tap or use the Full screen command, and enable command-only mode to avoid accidental triggers."
 
     stats: {
-        downloads:  5454
+        downloads:  5538
         updated_at: 1729863078000
     }
 }

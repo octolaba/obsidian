@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/postfix
 alt:
   - https://github.com/bhagyas/obsidian-postfix-plugin
-downloads: 3276
+downloads: 3290
 updated at: "2023-09-13T07:29:37Z"
 related to:
   - "[[GitHub - 655225220]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert the current line into Markdown by typing a dot-suffix postfix and pressing space. Use templates like .#, .##, .### for headings, .-, .+ for unordered lists, .> for blockquotes, and .[ ]/. [x] for task items to quickly format text."
 
     stats: {
-        downloads:  3276
+        downloads:  3290
         updated_at: 1694590177000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-editor-shortcuts
 alt:
   - https://github.com/timhor/obsidian-editor-shortcuts
-downloads: 51905
+downloads: 52379
 updated at: "2023-05-24T13:50:22Z"
 related to:
   - "[[GitHub - 409937906]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add common code-editor keyboard shortcuts to Obsidian for inserting, duplicating, deleting and joining lines, multi-cursor editing, and selecting occurrences. Keep familiar code-editor commands available inside Markdown notes to speed up editing and navigation."
 
     stats: {
-        downloads:  51905
+        downloads:  52379
         updated_at: 1684936222000
     }
 }

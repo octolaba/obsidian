@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kandyban
 alt:
   - https://github.com/dseaman/Kandyban
-downloads: 350
+downloads: 424
 updated at: "2026-06-09T19:41:06Z"
 related to:
   - "[[GitHub - 1249241454]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View and manage Markdown project items as a non-destructive Kanban board and sortable list in Obsidian that reads bold-key fields (e.g., **Status:**, **Milestone:**) from files. Drag cards between columns, edit enums inline, search and filter, and save changes while preserving all other file content and annotations."
 
     stats: {
-        downloads:  350
+        downloads:  424
         updated_at: 1781034066000
     }
 }

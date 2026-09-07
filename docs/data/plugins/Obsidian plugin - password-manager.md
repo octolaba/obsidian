@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/password-manager
 alt:
   - https://github.com/pandanocturne/obsidian-password-manager
-downloads: 448
+downloads: 568
 updated at: "2026-05-25T14:51:11Z"
 related to:
   - "[[GitHub - 1221326716]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage accounts, passwords, and links inside your vault with a three-column interface and JSON-based storage. Encrypt data locally, search and group entries, backup/restore or import/export JSON/Markdown, auto-export to a Markdown file, and recover deleted items from a recycle bin."
 
     stats: {
-        downloads:  448
+        downloads:  568
         updated_at: 1779720671000
     }
 }

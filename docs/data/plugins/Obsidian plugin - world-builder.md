@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/world-builder
 alt:
   - https://github.com/wesswart77/obsidian-world-builder
-downloads: 749
+downloads: 1069
 updated at: "2026-05-24T20:07:10Z"
 related to:
   - "[[GitHub - 1248532274]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Build and manage a fiction world's characters, locations, factions, lore entries, and timeline events using structured fields for names, roles, descriptions, relationships, goals, and secrets. View and navigate entries in a World sidebar with tabbed access across all entry types."
 
     stats: {
-        downloads:  749
+        downloads:  1069
         updated_at: 1779653230000
     }
 }

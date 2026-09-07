@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/make-md
 alt:
   - https://github.com/make-md/makemd
-downloads: 840678
+downloads: 852286
 updated at: "2026-07-09T04:50:46Z"
 related to:
   - "[[GitHub - 566160213]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize and personalize your notes without code using lists, tables, calendars and boards to create custom views with filters, sorting and grouping. Build databases with two-way relations, formulas and rollups, and compose dashboards, trackers and workspaces visually."
 
     stats: {
-        downloads:  840678
+        downloads:  852286
         updated_at: 1783572646000
     }
 }

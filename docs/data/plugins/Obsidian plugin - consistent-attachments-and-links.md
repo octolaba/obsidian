@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/consistent-attachments-and-links
 alt:
   - https://github.com/dy-sh/obsidian-consistent-attachments-and-links
-downloads: 129862
-updated at: "2026-07-22T04:01:24Z"
+downloads: 135767
+updated at: "2026-08-08T17:27:45Z"
 related to:
   - "[[GitHub - 346830363]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Reorganize your vault to store attachments alongside their notes and convert links to strict Markdown relative paths for compatibility with other editors and GitHub. Move or remove attachments when notes are moved or deleted to keep your file layout consistent and portable."
 
     stats: {
-        downloads:  129862
-        updated_at: 1784692884000
+        downloads:  135767
+        updated_at: 1786210065000
     }
 }
 ```

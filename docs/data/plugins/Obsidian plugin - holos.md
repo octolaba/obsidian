@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/holos
 alt:
   - https://github.com/caasion/holos
-downloads: 507
-updated at: "2026-06-11T23:43:39Z"
+downloads: 589
+updated at: "2026-07-27T15:31:11Z"
 related to:
   - "[[GitHub - 1034709872]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Connect long-term goals to daily tasks using Tracks, Projects, and a Planning Grid that maps days to life areas. Edit everything as plain Markdown, add tasks and time labels in each cell, drag-and-drop items across days, and see time commitments tallied automatically."
 
     stats: {
-        downloads:  507
-        updated_at: 1781221419000
+        downloads:  589
+        updated_at: 1785166271000
     }
 }
 ```

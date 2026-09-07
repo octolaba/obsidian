@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-chucker
 alt:
   - https://github.com/kenlim/file-chucker-plugin
-downloads: 4843
+downloads: 4876
 updated at: "2023-01-02T22:25:43Z"
 related to:
   - "[[GitHub - 579060604]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move notes from your inbox quickly by selecting or creating a destination folder with a single command. Use fuzzy search and autocomplete to pick or create folders, then move files and optionally auto-open the next note for fast processing."
 
     stats: {
-        downloads:  4843
+        downloads:  4876
         updated_at: 1672698343000
     }
 }

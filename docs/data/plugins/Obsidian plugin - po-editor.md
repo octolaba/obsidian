@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/po-editor
 alt:
   - https://github.com/kodaskills/obsidian-po-editor
-downloads: 90
+downloads: 98
 updated at: "2026-05-27T09:11:21Z"
 related to:
   - "[[GitHub - 1217210136]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit PO/Gettext translation files in Obsidian with a dual-mode grid and raw text editor, live syntax highlighting, and full plural-form support. Validate entries and flag conflicts or fuzzy/obsolete items, filter by status or context, manage related PO files, and convert or export to XLIFF, ARB, JSON, YAML, or ICU formats."
 
     stats: {
-        downloads:  90
+        downloads:  98
         updated_at: 1779873081000
     }
 }

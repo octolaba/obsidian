@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/task-center
 alt:
   - https://github.com/correctroadh/obsidian-task-center
-downloads: 919
-updated at: "2026-06-26T08:57:34Z"
+downloads: 1056
+updated at: "2026-08-09T04:59:17Z"
 related to:
   - "[[GitHub - 1219533670]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Task Center turns Obsidian into a practical task command center built on top of Obsidian Tasks markdown. It adds Today, Week, Month, Completed, and Unscheduled views so you can plan work visually without leaving your vault. Drag tasks between dates, nest tasks under parent tasks, abandon tasks without deleting markdown, and review completed work with estimate vs actual summaries. Quick Add lets you capture tasks in natural language, including English and Chinese dates like “tomorrow”, “today”, “今天”, and “周六”. Task Center keeps your source of truth in plain markdown and preserves Obsidian Tasks metadata, tags, and inline fields. It also includes an AI-friendly CLI for agents and automation. Install the companion AI skill with: `npx skills add CorrectRoadH/obsidian-task-center` Use it when you want an AI agent to list, add, schedule, complete, or review tasks through stable Obsidian Task Center commands."
 
     stats: {
-        downloads:  919
-        updated_at: 1782464254000
+        downloads:  1056
+        updated_at: 1786251557000
     }
 }
 ```

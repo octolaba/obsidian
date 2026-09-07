@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/grappling-hook
 alt:
   - https://github.com/chrisgrieser/grappling-hook
-downloads: 9902
+downloads: 9938
 updated at: "2026-05-13T13:15:07Z"
 related to:
   - "[[GitHub - 586902046]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Switch notes quickly with commands to cycle bookmarked files by last-modified, toggle the alternate note, and cycle across all tabs and splits. Cycle alphabetically through files in the current folder and open the first external URL found in a note. Copy selected text into the last-modified bookmark when using the bookmark cycler."
 
     stats: {
-        downloads:  9902
+        downloads:  9938
         updated_at: 1778678107000
     }
 }

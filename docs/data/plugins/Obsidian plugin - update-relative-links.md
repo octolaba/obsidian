@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/update-relative-links
 alt:
   - https://github.com/val3344/obsidian-update-relative-links
-downloads: 7719
+downloads: 7955
 updated at: "2025-10-18T11:38:57Z"
 related to:
   - "[[GitHub - 538981016]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Update relative Markdown links automatically when files move, fixing links inside moved files and in other notes that reference them. Run a command to batch-fix relative links across the vault. Use Markdown link syntax (disable wiki-style [[links]]) for proper operation."
 
     stats: {
-        downloads:  7719
+        downloads:  7955
         updated_at: 1760787537000
     }
 }

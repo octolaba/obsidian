@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/file-explorer-reload
 alt:
   - https://github.com/mnaoumov/obsidian-file-explorer-reload
-downloads: 4843
-updated at: "2026-07-21T01:02:11Z"
+downloads: 5298
+updated at: "2026-08-08T18:15:05Z"
 related to:
   - "[[GitHub - 729922003]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Reload the File Explorer to sync its listings with the filesystem after external bulk moves, copies, or deletes without restarting Obsidian. Use commands or context-menu options to reload a folder or reload recursively, or call reloadDirectory(directoryPath, isRecursive) programmatically."
 
     stats: {
-        downloads:  4843
-        updated_at: 1784595731000
+        downloads:  5298
+        updated_at: 1786212905000
     }
 }
 ```

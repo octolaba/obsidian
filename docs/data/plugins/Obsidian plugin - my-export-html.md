@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/my-export-html
 alt:
   - https://github.com/justwsh/obsidianExportHTML
-downloads: 157
+downloads: 173
 updated at: "2026-03-07T05:44:57Z"
 related to:
   - "[[GitHub - 1174415384]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export Obsidian notes to a single, professional HTML file with embedded images and an automatic hierarchical table of contents. Preview exports online, render LaTeX math via KaTeX, and include code blocks with line numbers and one-click copy. Right-click to export and choose the save location."
 
     stats: {
-        downloads:  157
+        downloads:  173
         updated_at: 1772862297000
     }
 }

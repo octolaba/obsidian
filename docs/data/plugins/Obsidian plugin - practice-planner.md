@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/practice-planner
 alt:
   - https://github.com/pdriggett/practice-planner
-downloads: 166
+downloads: 187
 updated at: "2026-06-20T17:56:28Z"
 related to:
   - "[[GitHub - 1269499365]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Plan and track weekly music practice in a single markdown note per week, with a goals section, a skills × days tracking table, and daily note sections. Open or create any week's plan from the Command Palette and jump to previous/next weeks; store notes by the week's start year and week number."
 
     stats: {
-        downloads:  166
+        downloads:  187
         updated_at: 1781978188000
     }
 }

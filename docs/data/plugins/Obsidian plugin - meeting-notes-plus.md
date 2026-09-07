@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/meeting-notes-plus
 alt:
   - https://github.com/wesswart77/obsidian-meeting-notes
-downloads: 150
+downloads: 181
 updated at: "2026-05-24T20:30:56Z"
 related to:
   - "[[GitHub - 1248531871]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create structured meeting notes with a New Meeting modal to capture title, date, attendees, type, and agenda. Organize notes into frontmatter plus Agenda/Notes/Decisions/Action Items, mark action items with checkboxes and @owner, extract unchecked actions to a master Actions note, and view recent meetings in a sidebar with titles, dates, attendee and action counts."
 
     stats: {
-        downloads:  150
+        downloads:  181
         updated_at: 1779654656000
     }
 }

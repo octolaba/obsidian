@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/ling-sync
 alt:
   - https://github.com/zavixai/ling-sync-obsidian
-downloads: 28
-updated at: "2026-07-17T13:34:32Z"
+downloads: 69
+updated at: "2026-07-30T05:52:57Z"
 related to:
   - "[[GitHub - 1303934890]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync selected Markdown notes from Obsidian to Ling via the provider‑neutral Notes Integration API with whole‑vault or folder manifests and mobile-safe operation. Pair via obsidian://ling-sync and keep credentials in SecretStorage and device state in vault-local app storage; use debounced batched updates, strict server cursors, idempotent retries and startup reconciliation for reliable single-writer sync. Require Obsidian 1.11.4+ and run on desktop and mobile."
 
     stats: {
-        downloads:  28
-        updated_at: 1784295272000
+        downloads:  69
+        updated_at: 1785390777000
     }
 }
 ```

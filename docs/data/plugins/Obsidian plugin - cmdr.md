@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/cmdr
 alt:
   - https://github.com/jsmorabito/obsidian-commander
-downloads: 580109
-updated at: "2026-07-11T18:31:34Z"
+downloads: 618778
+updated at: "2026-08-06T16:24:28Z"
 related to:
   - "[[GitHub - 484165496]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add commands to different parts of the Obsidian interface, with custom placement and device-specific visibility for Sync users. Edit, reorder, hide, or remove commands — including those added by Obsidian or other plugins — to tailor your UI."
 
     stats: {
-        downloads:  580109
-        updated_at: 1783794694000
+        downloads:  618778
+        updated_at: 1786033468000
     }
 }
 ```

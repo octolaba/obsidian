@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/safi-site-audit
 alt:
   - https://github.com/abdulkader-safi/obsidian-safi-site-audit-plugins
-downloads: 84
-updated at: "2026-06-30T11:34:12Z"
+downloads: 124
+updated at: "2026-07-27T14:44:53Z"
 related to:
   - "[[GitHub - 1283148330]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Run website audits from inside your vault and crawl multiple pages. Save each audit as a self-contained Markdown note and view overall scores, category breakdowns, per-page issues and rich report data in a built-in dashboard; add PageSpeed Insights to include Core Web Vitals and accessibility checks."
 
     stats: {
-        downloads:  84
-        updated_at: 1782819252000
+        downloads:  124
+        updated_at: 1785163493000
     }
 }
 ```

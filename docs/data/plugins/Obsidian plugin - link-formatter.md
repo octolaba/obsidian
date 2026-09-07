@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/link-formatter
 alt:
   - https://github.com/dilantha/link-formatter
-downloads: 474
+downloads: 483
 updated at: "2024-12-10T12:09:08Z"
 related to:
   - "[[GitHub - 896020936]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format a block of links into a clean Markdown unordered list. Convert pasted bookmarks or raw URLs into tidy bullet entries that preserve link text and targets for easy note organization."
 
     stats: {
-        downloads:  474
+        downloads:  483
         updated_at: 1733832548000
     }
 }

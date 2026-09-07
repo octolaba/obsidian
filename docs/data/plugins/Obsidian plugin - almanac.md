@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/almanac
 alt:
   - https://github.com/myeongsoyi/obsidian-almanac
-downloads: 134
+downloads: 155
 updated at: "2026-06-23T15:27:05Z"
 related to:
   - "[[GitHub - 1273270135]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a full calendar (month/week) and a compact sidebar to view and navigate daily notes, meetings, and events in your vault. Create and edit events, meeting notes, and daily pages with templates, quick commands, drag-and-drop scheduling, and a time-grid week view."
 
     stats: {
-        downloads:  134
+        downloads:  155
         updated_at: 1782228425000
     }
 }

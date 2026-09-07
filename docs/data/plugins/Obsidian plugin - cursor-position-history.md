@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cursor-position-history
 alt:
   - https://github.com/fgubler/obsidian-cursor-position-history
-downloads: 2801
+downloads: 2872
 updated at: "2025-02-27T07:55:35Z"
 related to:
   - "[[GitHub - 928887084]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Remember exact cursor positions in files and restore your place when switching or reopening notes. Track cursor history across files and jump back or forward through positions using shortcuts."
 
     stats: {
-        downloads:  2801
+        downloads:  2872
         updated_at: 1740642935000
     }
 }

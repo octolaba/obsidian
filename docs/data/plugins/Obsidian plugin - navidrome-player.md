@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/navidrome-player
 alt:
   - https://github.com/bencurrie42/navidrome-player-for-obsidian
-downloads: 37
-updated at: "2026-07-22T15:24:44Z"
+downloads: 115
+updated at: "2026-07-29T01:17:09Z"
 related to:
   - "[[GitHub - 1275592648]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Play your Navidrome/Subsonic library from a docked sidebar player that spins cover art like a vinyl record or displays a square mode. Browse albums, artists and playlists, search across artists/albums/songs, stream saved internet radio with now-playing info, and shuffle or use vibes mode for random queues."
 
     stats: {
-        downloads:  37
-        updated_at: 1784733884000
+        downloads:  115
+        updated_at: 1785287829000
     }
 }
 ```

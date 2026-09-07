@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sync-lastfm
 alt:
   - https://github.com/jaival-11/lastfm-obsidian-plugin
-downloads: 35
+downloads: 77
 updated at: "2026-07-22T07:43:44Z"
 related to:
   - "[[GitHub - 1304634544]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Last.fm scrobbles, artists, albums and cover art into Markdown notes with structured metadata ready for Base. Perform incremental syncs, generate artist and album notes with playcounts and covers, auto-link tracks to artist/album notes, adjust and re-stamp timezones, and backfill history via the Last.fm API."
 
     stats: {
-        downloads:  35
+        downloads:  77
         updated_at: 1784706224000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/coach
 alt:
   - https://github.com/ekrizdis367/obsidian-coach
-downloads: 156
-updated at: "2026-05-20T01:12:26Z"
+downloads: 223
+updated at: "2026-08-05T18:58:28Z"
 related to:
   - "[[GitHub - 1227577248]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Build workout routines, log sets and meals, and track body measurements and progress over time — all saved as plain Markdown. View break timers, supersets, drop/to-failure handling, auto-tracked session duration, instant personal-record badges, and detailed analytics."
 
     stats: {
-        downloads:  156
-        updated_at: 1779239546000
+        downloads:  223
+        updated_at: 1785956308000
     }
 }
 ```

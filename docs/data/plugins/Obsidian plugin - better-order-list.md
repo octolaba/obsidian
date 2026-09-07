@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-order-list
 alt:
   - https://github.com/quorafind/Obsidian-Better-Order-List
-downloads: 2243
+downloads: 2277
 updated at: "2024-01-12T12:15:38Z"
 related to:
   - "[[GitHub - 730552114]]"
@@ -28,7 +28,7 @@ Better Order List recognizes ordered lists written with markers other than the p
 plugin: {
     id:     "better-order-list"
     name:   "Better Order List"
-    author: "quorafind"
+    author: "Boninall"
     repo:   "quorafind/Obsidian-Better-Order-List"
 
     html_url:    "https://community.obsidian.md/plugins/better-order-list"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Recognize and render ordered lists written with numbered parentheses like (1). (2). (3). or East Asian markers like 一、二、三、. Preserve sequence and formatting in editor and preview so numbered lists display properly."
 
     stats: {
-        downloads:  2243
+        downloads:  2277
         updated_at: 1705061738000
     }
 }

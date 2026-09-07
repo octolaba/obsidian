@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/details-markdown
 alt:
   - https://github.com/nickolay-kondratyev/obsidian-plugin-collapsible-details
-downloads: 33
+downloads: 105
 updated at: "2026-07-22T15:58:04Z"
 related to:
   - "[[GitHub - 1305045225]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Markdown inside native HTML <details>/<summary> blocks in Reading view. Preserve headings, lists, tables, internal links, embeds and code fences so folded content displays exactly like regular Markdown; leave malformed or unclosed blocks untouched. Keep Live Preview behavior unchanged until support is added."
 
     stats: {
-        downloads:  33
+        downloads:  105
         updated_at: 1784735884000
     }
 }

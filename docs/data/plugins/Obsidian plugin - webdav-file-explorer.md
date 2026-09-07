@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/webdav-file-explorer
 alt:
   - https://github.com/red0orange/obsidian-webdav-file-explorer
-downloads: 5500
+downloads: 5514
 updated at: "2025-01-11T17:21:30Z"
 related to:
   - "[[GitHub - 673429488]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse and reference files on any WebDAV-compatible cloud or network storage using a collapsible file tree. Create mirrored Markdown file trees in your vault to document and link to remote files for easy retrieval."
 
     stats: {
-        downloads:  5500
+        downloads:  5514
         updated_at: 1736616090000
     }
 }

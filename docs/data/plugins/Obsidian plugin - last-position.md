@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/last-position
 alt:
   - https://github.com/saktawdi/obsidian-last-position
-downloads: 1695
+downloads: 1808
 updated at: "2026-07-15T17:16:16Z"
 related to:
   - "[[GitHub - 921226416]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save and restore each note's scroll position automatically so reopening a file jumps back to where you left off. Display current position in the status bar and offer configurable save intervals, retry attempts, data import/export, optional automatic cleanup, and multilingual support."
 
     stats: {
-        downloads:  1695
+        downloads:  1808
         updated_at: 1784135776000
     }
 }

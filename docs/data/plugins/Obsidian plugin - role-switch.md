@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/role-switch
 alt:
   - https://github.com/zafrem/obsidian-role-switch
-downloads: 729
+downloads: 797
 updated at: "2026-02-11T06:54:54Z"
 related to:
   - "[[GitHub - 1055263547]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Switch between custom work roles with intentional transitions, visual cues, and session locks to prevent task-jumping and support deep focus. Define colored, letter-icon roles, track time with live timers and historical analytics, and view stats in a mobile-friendly dashboard."
 
     stats: {
-        downloads:  729
+        downloads:  797
         updated_at: 1770792894000
     }
 }

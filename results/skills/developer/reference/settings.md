@@ -28,20 +28,23 @@ section. Declarations and JSDoc are **Contract**; the sample tab is an **Observe
 
 **The single most important fact on this page.** The declarative settings API —
 `getSettingDefinitions()` and everything built on it — is `@since` **1.13.0** **Contract**
-(api: obsidian.d.ts:5157; api: obsidian.d.ts:5159), and 1.13.0 is above the stable app at this pin,
-1.12.7 (rel: desktop-releases.json:3). The docs say so in the page's own admonition: the API
+(api: obsidian.d.ts:5157; api: obsidian.d.ts:5159), and 1.13.0 is at or below the stable app at this
+pin, 1.13.7 (rel: desktop-releases.json:3). The docs still carry the older admonition: the API
 "requires Obsidian 1.13.0, which is currently in an insider build" **Contract**
 (docs: en/Plugins/User interface/Settings.md:7-8; docs: en/Plugins/Guides/Migrate to declarative settings.md:10-11).
+**Inference:** that sentence describes an earlier moment than the mirror does — the docs pin is older
+than the release pin — so tier from the mirror and treat the docs wording as stale.
 
-So every declarative feature below is **insider-only at pin (>1.12.7)**. The imperative `display()`
-path is **stable at pin (≤1.12.7)** and remains the default recommendation unless the user has
-decided to ship `minAppVersion: "1.13.0"` and accept the consequence.
+So every declarative feature below is **stable at pin (≤1.13.7)**, and so is the imperative
+`display()` path. What separates them is no longer availability but the install floor: the
+declarative API needs `minAppVersion: "1.13.0"`, which locks out every user who has not updated that
+far.
 
 ## Choosing an API
 
 | Situation | Path | Why |
 |---|---|---|
-| New plugin, users on the stable channel | Imperative `display()` | The only path that runs on 1.12.7 |
+| New plugin that cannot require a recent app | Imperative `display()` | Runs at any `minAppVersion`; the declarative path needs 1.13.0 |
 | Plugin already shipping, `minAppVersion` < 1.13.0 | Dual support (Path B) if you want the new API at all | Keeps existing users working |
 | You are prepared to require 1.13.0 | Declarative only (Path A) | Simplest code, smallest surface |
 | Nothing about the new API helps you | Change nothing | "The new API is opt-in" **Contract** (docs: en/Plugins/Guides/Migrate to declarative settings.md:100) |
@@ -51,12 +54,13 @@ The upstream decision table keys entirely off `minAppVersion` **Contract**
 can", with Path B reserved for "an existing user base on Obsidian < 1.13.0 that you can't drop"
 **Contract** (docs: en/Plugins/Guides/Migrate to declarative settings.md:102).
 
-**Recommendation:** at this pin, read that preference through the availability tier. Path A means
-bumping `minAppVersion` to `"1.13.0"` **Contract**
-(docs: en/Plugins/Guides/Migrate to declarative settings.md:110), which shuts out every user on the
-stable release — `minAppVersion` is a hard install gate, a fact owned by the
-mobile-and-compatibility reference. Recommend imperative or Path B by default, and Path A only when
-the user states that an insider-only audience is acceptable.
+**Recommendation:** at this pin the availability tier no longer decides this — both paths run on the
+stable app. What Path A still costs is the bump of `minAppVersion` to `"1.13.0"` **Contract**
+(docs: en/Plugins/Guides/Migrate to declarative settings.md:110), a hard install gate for everyone
+below that floor — a fact owned by the mobile-and-compatibility reference. So follow the upstream
+preference: Path A when the user can drop pre-1.13.0 installs, Path B when an existing user base
+makes that unacceptable. How much of the installed base lags the stable release is **Unverified** —
+nothing in the pinned tree measures it.
 
 ## The persistence model
 
@@ -76,7 +80,7 @@ This part is identical under both APIs and has been stable since 0.9.7.
 - The official template implements exactly this, with a widening cast on the loaded data
   **Observed** (sample: src/main.ts:91-97).
 - `Plugin.settings` exists as a declared, untyped field — "Assign loaded data here in `onload`.
-  Declare a concrete type on your subclass to type it" **Contract** `@since 1.13.0`, insider-only at
+  Declare a concrete type on your subclass to type it" **Contract** `@since 1.13.0`, stable at
   pin (api: obsidian.d.ts:4914-4919). Assigning `this.settings` on your own subclass is what plugins
   have always done; the base-class declaration is what the 1.13 machinery reads.
 - `onExternalSettingsChange()` fires when `data.json` "is modified on disk externally from
@@ -110,7 +114,7 @@ never an HTML heading element — see [copy rules](#settings-copy-rules).
 Override `getSettingDefinitions()` and return an array; "Obsidian handles rendering, search
 indexing, persistence, and validation" **Contract**
 (docs: en/Plugins/Guides/Migrate to declarative settings.md:6). All of the following are
-`@since 1.13.0`, **insider-only at pin**.
+`@since 1.13.0`, **stable at pin** behind a `minAppVersion` of 1.13.0.
 
 - A definition's `control.key` names a property on `this.plugin.settings`; Obsidian "reads the
   current value, writes changes back, and calls `saveData()` automatically. No `onChange` plumbing
@@ -220,7 +224,7 @@ are owned by the performance reference.
 Override `getControlValue(key)` and `setControlValue(key, value)` when settings do not live on
 `this.plugin.settings` — a Svelte store, a reactive proxy, an immutable update mechanism
 **Contract** (docs: en/Plugins/User interface/Settings.md:358; api: obsidian.d.ts:5161-5173), all
-`@since 1.13.0`, insider-only at pin.
+`@since 1.13.0`, stable at pin.
 
 **The trap:** "Overriding `setControlValue` replaces the default write path, including the automatic
 `saveData()` call. Persist the value yourself, and return the promise (or make the method `async`)

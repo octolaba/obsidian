@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/learning-system
 alt:
   - https://github.com/jady21a/obsidian-learning-system
-downloads: 179
+downloads: 219
 updated at: "2026-05-23T17:55:35Z"
 related to:
   - "[[GitHub - 1115674905]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn Obsidian notes into a long-term, reviewable learning system. Extract memorable content into Q&A and Cloze cards, add annotations, run spaced-repetition–style reviews with reminders, and track progress with learning analytics and a progressive leveling path."
 
     stats: {
-        downloads:  179
+        downloads:  219
         updated_at: 1779558935000
     }
 }

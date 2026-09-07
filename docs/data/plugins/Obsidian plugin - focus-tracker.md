@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/focus-tracker
 alt:
   - https://github.com/jeetsukumaran/obsidian-focus-tracker
-downloads: 1394
+downloads: 1656
 updated at: "2026-03-02T06:33:43Z"
 related to:
   - "[[GitHub - 796531032]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track activity, progress, and attention across your notes with a visual timeline that reveals patterns, gaps, and consistency over time. Review past focus to spot successes and gaps, plan future attention to align with goals, and monitor engagement across projects and habits."
 
     stats: {
-        downloads:  1394
+        downloads:  1656
         updated_at: 1772433223000
     }
 }

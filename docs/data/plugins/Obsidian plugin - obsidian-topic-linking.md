@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-topic-linking
 alt:
   - https://github.com/liammagee/obsidian-topic-linking
-downloads: 24797
+downloads: 25041
 updated at: "2024-04-24T02:38:40Z"
 related to:
   - "[[GitHub - 442029934]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extract PDF content and convert web links into Markdown notes to make documents searchable and searchable across your vault. Generate human-readable bibliographies from Zotero exports and discover common topics across PDFs and bookmarks by creating topic notes that link to source documents."
 
     stats: {
-        downloads:  24797
+        downloads:  25041
         updated_at: 1713926320000
     }
 }

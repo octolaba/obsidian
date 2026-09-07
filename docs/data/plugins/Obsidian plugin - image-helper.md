@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-helper
 alt:
   - https://github.com/byfun/obsidian-image-helper
-downloads: 2342
+downloads: 2352
 updated at: "2023-12-12T02:07:24Z"
 related to:
   - "[[GitHub - 726965478]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open an image's context menu in reading view to convert it to JPEG, WebP, or PNG. Select a format to convert images directly from the preview context menu."
 
     stats: {
-        downloads:  2342
+        downloads:  2352
         updated_at: 1702346844000
     }
 }

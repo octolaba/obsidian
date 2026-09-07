@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markmap-to-csv
 alt:
   - https://github.com/pj4316/markmap-to-csv-obsidian
-downloads: 1840
+downloads: 1877
 updated at: "2024-03-01T23:08:22Z"
 related to:
   - "[[GitHub - 760420138]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert markmap-style Markdown into CSV files. Parse headings up to level 2 and convert lists under H2 into CSV rows ready for spreadsheet import."
 
     stats: {
-        downloads:  1840
+        downloads:  1877
         updated_at: 1709334502000
     }
 }

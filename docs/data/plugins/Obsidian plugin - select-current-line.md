@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/select-current-line
 alt:
   - https://github.com/gokulk16/select-current-line-plugin
-downloads: 4589
+downloads: 4634
 updated at: "2023-04-11T16:56:24Z"
 related to:
   - "[[GitHub - 626522759]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Select the current line by pressing Esc, highlighting from the start to the end of the line. Change the hotkey to a different key combination or invoke the same command on mobile."
 
     stats: {
-        downloads:  4589
+        downloads:  4634
         updated_at: 1681232184000
     }
 }

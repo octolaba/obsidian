@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-aggregator
 alt:
   - https://github.com/seraphli/obsidian-aggregator
-downloads: 5044
+downloads: 5065
 updated at: "2025-04-03T22:22:35Z"
 related to:
   - "[[GitHub - 569444251]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Gather content from notes using user-defined regular expressions and render summaries with Handlebars templates. Extract blocks, tagged items, or generate stat tables across files or folders and sort results by fields. Preview and embed aggregated output inline."
 
     stats: {
-        downloads:  5044
+        downloads:  5065
         updated_at: 1743718955000
     }
 }

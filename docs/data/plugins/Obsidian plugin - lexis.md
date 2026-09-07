@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/lexis
 alt:
   - https://github.com/heptazero/obsidian-lexis
-downloads: 187
-updated at: "2026-07-23T02:22:31Z"
+downloads: 293
+updated at: "2026-08-11T10:17:42Z"
 related to:
   - "[[GitHub - 1278574420]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Treat note titles in a folder as a word bank with alias support and create word notes from selected text. Highlight bank words in reading and preview, show hover definitions, auto-collect example occurrences, and run FSRS spaced-repetition cards (word→context and cloze) with progress saved to frontmatter. Display bidirectional relations (synonyms, roots, look-alikes) and a review heatmap to guide study."
 
     stats: {
-        downloads:  187
-        updated_at: 1784773351000
+        downloads:  293
+        updated_at: 1786443462000
     }
 }
 ```

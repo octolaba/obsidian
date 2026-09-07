@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-atomizer
 alt:
   - https://github.com/binxly/Atomizer
-downloads: 676
+downloads: 694
 updated at: "2025-03-18T18:00:34Z"
 related to:
   - "[[GitHub - 898739415]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Atomize large notes into concise atomic notes using the OpenAI API to extract key insights and ideas. Add frontmatter with date and custom tags to each generated note. Send note content to OpenAI for processing; an OpenAI API key is required."
 
     stats: {
-        downloads:  676
+        downloads:  694
         updated_at: 1742320834000
     }
 }

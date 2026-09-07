@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/export-graph-view
 alt:
   - https://github.com/seantiz/obsidian_egv_plugin
-downloads: 8995
+downloads: 9327
 updated at: "2025-08-21T20:13:45Z"
 related to:
   - "[[GitHub - 936910287]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export Obsidian Graph View snapshots to portable Mermaid (.mmd) or GraphViz (.dot) formats. Choose single-parent or full-graph focus and map relationships by tags, links, or folders, then open in any Mermaid or GraphViz tool for sharing and analysis."
 
     stats: {
-        downloads:  8995
+        downloads:  9327
         updated_at: 1755807225000
     }
 }

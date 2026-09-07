@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/readwise-reading-tracker
 alt:
   - https://github.com/free-solo-lab/obsidian-readwise-tracker
-downloads: 139
-updated at: "2026-07-11T07:35:33Z"
+downloads: 162
+updated at: "2026-08-11T19:32:43Z"
 related to:
   - "[[GitHub - 1244366787]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync reading documents from Readwise and Reader and track reading progress in your vault. Display an Obsidian-native dashboard with a heatmap, current and completed books, highlight navigation, and reading timelines for books, EPUBs and PDFs. Create linked highlight notes and clean inbox notes with book, source and date properties while keeping data local."
 
     stats: {
-        downloads:  139
-        updated_at: 1783755333000
+        downloads:  162
+        updated_at: 1786476763000
     }
 }
 ```

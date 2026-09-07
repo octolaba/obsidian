@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/random-note-plus
 alt:
   - https://github.com/wogong/obsidian-random-plus
-downloads: 131
+downloads: 142
 updated at: "2026-05-16T01:18:40Z"
 related to:
   - "[[GitHub - 1186749671]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a random note from your vault while excluding specific folders to refine selection. Use a ribbon icon or command to trigger the picker and receive a notice if no eligible notes remain."
 
     stats: {
-        downloads:  131
+        downloads:  142
         updated_at: 1778894320000
     }
 }

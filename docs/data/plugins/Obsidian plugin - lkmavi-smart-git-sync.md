@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lkmavi-smart-git-sync
 alt:
   - https://github.com/lkmavi/smart-git-sync
-downloads: 135
+downloads: 172
 updated at: "2026-06-27T17:33:19Z"
 related to:
   - "[[GitHub - 1280200897]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your vault with a Git remote, committing and pushing after every save (debounced) and running git pull --rebase before pushes to keep changes conflict-safe. Perform periodic background pulls, trigger immediate pulls via a local webhook, use the action menu for quick controls, or pause syncing temporarily."
 
     stats: {
-        downloads:  135
+        downloads:  172
         updated_at: 1782581599000
     }
 }

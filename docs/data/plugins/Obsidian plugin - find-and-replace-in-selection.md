@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/find-and-replace-in-selection
 alt:
   - https://github.com/dy-sh/obsidian-find-and-replace-in-selection
-downloads: 23009
+downloads: 23396
 updated at: "2026-04-22T12:52:14Z"
 related to:
   - "[[GitHub - 349774013]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Find and replace text only within a selected region or the current line using plain text or regular expressions. Replace all matches inside the selection to update headings, strip formatting, or transform embeds in-place."
 
     stats: {
-        downloads:  23009
+        downloads:  23396
         updated_at: 1776862334000
     }
 }

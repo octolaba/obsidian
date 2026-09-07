@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/source-mode-inline-images
 alt:
   - https://github.com/hiforrest/source-mode-inline-images
-downloads: 152
+downloads: 184
 updated at: "2026-06-12T08:29:36Z"
 related to:
   - "[[GitHub - 1259383630]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render image previews directly below Obsidian image embeds in Source mode, honoring width syntax like ![[image.png|300]]. Display a clear message when the image file is missing and leave Live Preview and Reading View unchanged."
 
     stats: {
-        downloads:  152
+        downloads:  184
         updated_at: 1781252976000
     }
 }

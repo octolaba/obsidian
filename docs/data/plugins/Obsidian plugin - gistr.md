@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gistr
 alt:
   - https://github.com/aetherinox/obsidian-gistr
-downloads: 2067
+downloads: 2077
 updated at: "2025-06-25T02:37:46Z"
 related to:
   - "[[GitHub - 760225083]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create, convert, and update notes as GitHub Gists or OpenGist snippets from Obsidian, with line numbers, syntax highlighting, save-as public or secret options, and manual or autosave modes. Embed fully functional websites into notes in codeblock or website mode with adjustable frame size, CSS overrides, themes, fast caching, and the option to open embedded gists in your browser."
 
     stats: {
-        downloads:  2067
+        downloads:  2077
         updated_at: 1750819066000
     }
 }

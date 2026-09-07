@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-citations
 alt:
   - https://github.com/masaki39/simple-citations
-downloads: 6509
+downloads: 6851
 updated at: "2026-05-21T11:44:16Z"
 related to:
   - "[[GitHub - 786429524]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import literature notes from Zotero via Better BibTeX exports into your vault and generate linked Obsidian notes ready for queries and review. Auto-add or update notes from the bibliography and export manuscripts with citations to DOCX using Pandoc/Citeproc and CSL styles."
 
     stats: {
-        downloads:  6509
+        downloads:  6851
         updated_at: 1779363856000
     }
 }

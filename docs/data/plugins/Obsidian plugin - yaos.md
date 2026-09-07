@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/yaos
 alt:
   - https://github.com/kavinsood/yaos
-downloads: 28959
+downloads: 31158
 updated at: "2026-04-16T17:49:23Z"
 related to:
   - "[[GitHub - 1159323258]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault in real time across devices via a Cloudflare Worker, eliminating conflicted copies and delayed file sync. Store attachments and enable point-in-time backups with optional Cloudflare R2. Setup doesn't require a database, or the terminal!"
 
     stats: {
-        downloads:  28959
+        downloads:  31158
         updated_at: 1776361763000
     }
 }

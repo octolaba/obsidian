@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-asciimath
 alt:
   - https://github.com/widcardw/obsidian-asciimath
-downloads: 9480
+downloads: 9518
 updated at: "2026-04-02T15:50:21Z"
 related to:
   - "[[GitHub - 563208957]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Write math with AsciiMath in Obsidian and render it via dollar-sign blocks or asciimath code fences for inline and display equations. Insert symbols, convert AsciiMath to LaTeX, and migrate or mix with existing LaTeX notes for compatibility."
 
     stats: {
-        downloads:  9480
+        downloads:  9518
         updated_at: 1775145021000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/icon-palette
 alt:
   - https://github.com/ckelsoe/obsidian-icon-palette
-downloads: 115
-updated at: "2026-07-06T00:00:23Z"
+downloads: 252
+updated at: "2026-08-11T14:47:49Z"
 related to:
   - "[[GitHub - 1287691535]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Set custom icons and colors across files, folders, tabs, tags, properties, bookmarks and UI commands using 1,700+ Lucide icons, 1,900+ emojis, Simple Icons and Devicon. Apply nine theme colors or any RGB, reuse recent/pinned combos, and automate icons with rules matching name, path, tags, properties or dates."
 
     stats: {
-        downloads:  115
-        updated_at: 1783296023000
+        downloads:  252
+        updated_at: 1786459669000
     }
 }
 ```

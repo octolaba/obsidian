@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/encrypted-datasafe-notes
 alt:
   - https://github.com/xauravww/obsidian-encrypted-datasafe-notes
-downloads: 178
+downloads: 218
 updated at: "2026-07-11T06:13:35Z"
 related to:
   - "[[GitHub - 1245574145]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Encrypt Markdown files on disk with AES using a password and toggle vault lock from a dynamic ribbon icon or status bar indicator. Lock automatically on window blur or after idle, encrypt/decrypt single files from the file explorer or bulk-lock a protected folder, and scan or repair double-encrypted files with built-in recovery tools."
 
     stats: {
-        downloads:  178
+        downloads:  218
         updated_at: 1783750415000
     }
 }

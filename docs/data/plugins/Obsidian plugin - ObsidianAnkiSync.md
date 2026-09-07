@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ObsidianAnkiSync
 alt:
   - https://github.com/debanjandhar12/Obsidian-Anki-Sync
-downloads: 11725
+downloads: 11868
 updated at: "2021-11-29T18:38:43Z"
 related to:
   - "[[GitHub - 371666807]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create flashcards in Obsidian using a markup-based syntax and sync them to Anki via sync blocks that create, update, and delete cards. Render Markdown math, code, images and tables; support cloze deletions inside LaTeX and code or via highlights/clozeblock; auto-backup decks and target decks per file or block."
 
     stats: {
-        downloads:  11725
+        downloads:  11868
         updated_at: 1638211123000
     }
 }

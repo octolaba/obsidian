@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chat-bubble-theme
 alt:
   - https://github.com/kevinyuan/obsidian-chat-bubble-theme
-downloads: 192
+downloads: 232
 updated at: "2026-05-15T14:46:12Z"
 related to:
   - "[[GitHub - 1152434797]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Style Obsidian with four color presets (Lavender, Warm, Ocean, Forest), chat-bubble callouts with optional emoji indicators, rounded tables, and customizable code blocks and colors. Inject chat callouts (> [!chat-r]/[!chat-l]) as virtual headings into the Outline (including Quiet Outline), keep the Outline sticky when focus moves to non-editor views, and present a multi-language settings UI."
 
     stats: {
-        downloads:  192
+        downloads:  232
         updated_at: 1778856372000
     }
 }

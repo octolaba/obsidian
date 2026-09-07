@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/newtab
 alt:
   - https://github.com/mmomm-org/obsidian-newtab
-downloads: 268
+downloads: 308
 updated at: "2026-07-01T13:02:17Z"
 related to:
   - "[[GitHub - 1264903681]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Replace the empty new-tab view with a customizable dashboard showing seasonal or custom backgrounds, a 12/24 clock, time-aware greeting, online or custom quotes, quick search, bookmarks, and five recent files. Import BeautiTab settings or pick Unsplash/local/URL backgrounds and toggle each element individually."
 
     stats: {
-        downloads:  268
+        downloads:  308
         updated_at: 1782910937000
     }
 }

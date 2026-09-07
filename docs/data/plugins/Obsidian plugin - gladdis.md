@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gladdis
 alt:
   - https://github.com/aurelienstebe/Gladdis
-downloads: 4086
+downloads: 4108
 updated at: "2025-02-11T15:38:16Z"
 related to:
   - "[[GitHub - 608325644]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn any open Markdown file into a conversational window and append streaming LLM responses directly into the note. Transcribe audio, load text, PDFs, web pages and images for LLM processing, and name system prompts to create distinct personalities."
 
     stats: {
-        downloads:  4086
+        downloads:  4108
         updated_at: 1739288296000
     }
 }

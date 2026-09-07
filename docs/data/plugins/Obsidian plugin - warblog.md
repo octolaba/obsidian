@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/warblog
 alt:
   - https://github.com/wrsrsh/warblog
-downloads: 78
+downloads: 83
 updated at: "2026-02-17T04:07:27Z"
 related to:
   - "[[GitHub - 1159283400]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit Astro blog posts as .mdx files directly in Obsidian within a designated vault folder. Publish changes with a single command that commits and pushes updates to your site's git repository, protected by a password."
 
     stats: {
-        downloads:  78
+        downloads:  83
         updated_at: 1771301247000
     }
 }

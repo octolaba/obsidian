@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/foldercanvas
 alt:
   - https://github.com/nancyel/obsidian-foldercanvas-plugin
-downloads: 3078
+downloads: 3157
 updated at: "2025-07-01T07:31:32Z"
 related to:
   - "[[GitHub - 886531874]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate a Canvas view from a folder's first-level Markdown files and save it as a .canvas file in the parent folder, auto-incrementing filenames to avoid conflicts. Ignore nested folders and display node content narrowed to a selected heading when available. Watch a folder to keep the latest Canvas file synced with changes."
 
     stats: {
-        downloads:  3078
+        downloads:  3157
         updated_at: 1751355092000
     }
 }

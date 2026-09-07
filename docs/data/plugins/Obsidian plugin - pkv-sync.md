@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pkv-sync
 alt:
   - https://github.com/cyberkurry/pkv-sync-plugin
-downloads: 111
+downloads: 122
 updated at: "2026-06-16T16:14:01Z"
 related to:
   - "[[GitHub - 1265373833]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your vaults across devices via a self-hosted, Git-backed PKV Sync server. Keep per-file commit history with diffs and restores, perform three-way merges with resolvable .conflict files, use vault-level rollback, sync multi-user/multi-vault setups with sub-second propagation, and get read-only git clone access, a built-in MCP server, and an admin web UI."
 
     stats: {
-        downloads:  111
+        downloads:  122
         updated_at: 1781626441000
     }
 }

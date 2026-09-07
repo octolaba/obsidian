@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-new-note-button
 alt:
   - https://github.com/wuhup/obsidian-folder-new-note-button
-downloads: 559
+downloads: 604
 updated at: "2026-01-01T16:16:33Z"
 related to:
   - "[[GitHub - 1102611778]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a subtle \"+\" button to every folder in the Files view to create a new note by hovering or focusing the folder title. Create a uniquely named Markdown file and select its title for immediate renaming; support inline or header titles and keep the button mobile-friendly across multiple explorer panes."
 
     stats: {
-        downloads:  559
+        downloads:  604
         updated_at: 1767284193000
     }
 }

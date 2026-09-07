@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/expander
 alt:
   - https://github.com/dsebastien/obsidian-expander
-downloads: 210
-updated at: "2026-07-17T07:38:49Z"
+downloads: 317
+updated at: "2026-07-29T07:44:32Z"
 related to:
   - "[[GitHub - 1142225878]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Replace variables across your vault using HTML comment markers and key–value pairs, inserting static or dynamic values with function expressions like now().format(\"YYYY-MM-DD\"). Control update modes (auto, manual, once, once-and-eject), filter folders, run replacements via commands or editor buttons, and view mode badges."
 
     stats: {
-        downloads:  210
-        updated_at: 1784273929000
+        downloads:  317
+        updated_at: 1785311072000
     }
 }
 ```

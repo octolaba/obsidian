@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/permanent-ink
 alt:
   - https://github.com/thdngan/permanent-ink
-downloads: 98
+downloads: 126
 updated at: "2026-05-18T22:45:01Z"
 related to:
   - "[[GitHub - 1213594765]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preserve every edit by converting Backspace and Delete into strikethroughs so deleted words remain visible as crossed-out text. Enable a write-forward restricted mode that forces new text to the end, blocks undo and cut, supports inline highlights, and provides annotation-aware cursor navigation."
 
     stats: {
-        downloads:  98
+        downloads:  126
         updated_at: 1779144301000
     }
 }

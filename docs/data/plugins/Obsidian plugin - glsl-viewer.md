@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/glsl-viewer
 alt:
   - https://github.com/iy0yi/obsidian_glslviewer
-downloads: 442
+downloads: 461
 updated at: "2026-02-24T13:43:50Z"
 related to:
   - "[[GitHub - 998115547]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview GLSL shaders in Obsidian with Shadertoy-compatible syntax for easy porting. Load vault images as iChannel textures, browse textures visually, and apply templates to write minimal shader code. Generate thumbnails, set canvas aspect and autoplay, and hide or show code."
 
     stats: {
-        downloads:  442
+        downloads:  461
         updated_at: 1771940630000
     }
 }

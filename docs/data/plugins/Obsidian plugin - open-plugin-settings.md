@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-plugin-settings
 alt:
   - https://github.com/mara-li/obsidian-open-settings
-downloads: 7707
+downloads: 7815
 updated at: "2026-01-13T11:50:40Z"
 related to:
   - "[[GitHub - 616521938]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create commands to open any plugin's settings directly from the command palette. Manage the commands list by adding plugins, refreshing deleted entries, disabling commands for disabled plugins, and opening unregistered plugins via search."
 
     stats: {
-        downloads:  7707
+        downloads:  7815
         updated_at: 1768305040000
     }
 }

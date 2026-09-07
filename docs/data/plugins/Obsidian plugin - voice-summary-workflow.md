@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/voice-summary-workflow
 alt:
   - https://github.com/roar-jar/obsidian-voice-workflow
-downloads: 81
+downloads: 93
 updated at: "2026-06-26T04:54:32Z"
 related to:
   - "[[GitHub - 1187671648]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Record audio in a right-hand sidebar, transcribe live, and save template-based summaries to the top of your note. Archive audio and full transcripts at the note bottom, add meeting metadata to frontmatter, and use multiple STT and LLM providers for transcription, translation, and summarization."
 
     stats: {
-        downloads:  81
+        downloads:  93
         updated_at: 1782449672000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/trellis
 alt:
   - https://github.com/cocapls/obsidian-trellis
-downloads: 80
+downloads: 110
 updated at: "2026-07-08T09:51:46Z"
 related to:
   - "[[GitHub - 1282972501]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync hierarchical location tags into a filename prefix and keep the tag as the source of truth, rewriting filenames via Obsidian's link-safe rename so wikilinks remain intact. Cascade tag renames across subtrees, inspect tags in a collapsible sidebar tree, and bootstrap existing vaults with a dry-run and undo."
 
     stats: {
-        downloads:  80
+        downloads:  110
         updated_at: 1783504306000
     }
 }

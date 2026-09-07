@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/remember-cursor-position
 alt:
   - https://github.com/dy-sh/obsidian-remember-cursor-position
-downloads: 170453
+downloads: 176415
 updated at: "2026-07-15T03:00:44Z"
 related to:
   - "[[GitHub - 346472849]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Restore cursor position, scroll, and text selection for each note when switching between notes, following links, or returning to previous views. Store editor state to a file so positions persist across sessions and work in both edit and preview modes."
 
     stats: {
-        downloads:  170453
+        downloads:  176415
         updated_at: 1784084444000
     }
 }

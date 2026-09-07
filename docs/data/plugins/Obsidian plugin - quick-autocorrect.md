@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quick-autocorrect
 alt:
   - https://github.com/bakedsoups/quick-autocorrect
-downloads: 610
+downloads: 846
 updated at: "2026-06-05T18:40:09Z"
 related to:
   - "[[GitHub - 1260655574]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scan the current note for spelling and grammar and display all auto correct suggestions in a Google Docs-style list for quick, one-click corrections. Send note text to a LanguageTool endpoint you choose (public, local, or custom) to get suggestions while keeping control over where your data is processed."
 
     stats: {
-        downloads:  610
+        downloads:  846
         updated_at: 1780684809000
     }
 }

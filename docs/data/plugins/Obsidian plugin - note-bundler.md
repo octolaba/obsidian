@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-bundler
 alt:
   - https://github.com/jrockwar/note-bundler
-downloads: 206
+downloads: 219
 updated at: "2026-02-16T15:45:24Z"
 related to:
   - "[[GitHub - 1146814955]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export filtered Obsidian notes into consolidated Markdown bundles for LLM context, documentation, or curated collections. Create tag- and directory-based include/exclude filters with regex and combine rules using AND/OR logic. Schedule manual or automatic exports (minute/hour/day) with vault-relative or desktop absolute output paths and device-specific configs."
 
     stats: {
-        downloads:  206
+        downloads:  219
         updated_at: 1771256724000
     }
 }

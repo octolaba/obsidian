@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/llm-workspace
 alt:
   - https://github.com/ofalvai/obsidian-llm-workspace
-downloads: 2193
+downloads: 2208
 updated at: "2025-06-15T16:01:33Z"
 related to:
   - "[[GitHub - 737586580]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create LLM workspaces as notes that link related files and open side-by-side. Index workspace content by chunking and computing embeddings to power grounded, debuggable LLM chats and exploratory question generation. Chat with single notes or curated source sets and customize models and prompts."
 
     stats: {
-        downloads:  2193
+        downloads:  2208
         updated_at: 1750003293000
     }
 }

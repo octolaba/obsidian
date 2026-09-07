@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-paste-to-current-indentation
 alt:
   - https://github.com/jglev/obsidian-paste-mode
-downloads: 11304
+downloads: 11572
 updated at: "2023-04-16T19:00:03Z"
 related to:
   - "[[GitHub - 385380021]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Control paste behavior with eight modes that honor cursor indentation: plain text, blockquote, Markdown-converted text, fenced code block, and passthrough. Show the active mode in the status bar and switch modes from the status-bar menu or Command Palette."
 
     stats: {
-        downloads:  11304
+        downloads:  11572
         updated_at: 1681671603000
     }
 }

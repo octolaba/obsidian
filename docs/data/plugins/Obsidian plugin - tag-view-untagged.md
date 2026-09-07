@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tag-view-untagged
 alt:
   - https://github.com/joaq33/obsidian-tag-view-untagged
-downloads: 266
+downloads: 281
 updated at: "2026-01-22T07:47:48Z"
 related to:
   - "[[GitHub - 1139598444]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add an untagged files indicator to the Tags pane with multiple display styles (gauge, pill, header badge, nav badge, list item). Open a fast browser modal to view, search, and open all untagged notes. Keep the untagged count synced live as files or tags change."
 
     stats: {
-        downloads:  266
+        downloads:  281
         updated_at: 1769068068000
     }
 }

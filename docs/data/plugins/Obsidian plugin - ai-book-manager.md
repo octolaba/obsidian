@@ -4,7 +4,7 @@ xid:
   - ai-book-manager
 aliases:
   - ai-book-manager
-  - AI Book Manager
+  - AI Knowledge Manager
   - cyk111/ai-book-manager
 tags:
   - type/bookmark
@@ -13,21 +13,21 @@ tags:
 url: https://community.obsidian.md/plugins/ai-book-manager
 alt:
   - https://github.com/cyk111/ai-book-manager
-downloads: 49
-updated at: "2026-07-13T05:42:01Z"
+downloads: 108
+updated at: "2026-07-30T06:04:58Z"
 related to:
   - "[[GitHub - 1298811238]]"
 remind me:
 ---
 
-# AI Book Manager
+# AI Knowledge Manager
 
 AI Book Manager scans local PDF, EPUB and TXT libraries to parse metadata, deduplicate files and extract text. AI models classify books and generate tags, highlights are imported from WeChat and Apple Books, and cross-linked notes form a wiki-style knowledge graph. Books are distilled into structured skill files and summarized on demand.
 
 ```cue
 plugin: {
     id:     "ai-book-manager"
-    name:   "AI Book Manager"
+    name:   "AI Knowledge Manager"
     author: "cyk111"
     repo:   "cyk111/ai-book-manager"
 
@@ -37,8 +37,8 @@ plugin: {
     about:       "Scan local PDF/EPUB/TXT libraries to parse metadata, deduplicate files, and extract text. Auto-classify books and generate tags with AI models, import highlights from WeChat and Apple Books, and build a wiki-style knowledge graph with cross-linked notes. Distill books into structured AI Skill files and generate summaries on demand."
 
     stats: {
-        downloads:  49
-        updated_at: 1783921321000
+        downloads:  108
+        updated_at: 1785391498000
     }
 }
 ```

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/movielog
 alt:
   - https://github.com/zzditto/MovieLog
-downloads: 212
-updated at: "2026-06-13T07:41:16Z"
+downloads: 247
+updated at: "2026-07-28T10:43:13Z"
 related to:
   - "[[GitHub - 1243114509]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Record movie and TV viewing history with TMDB metadata, generating structured Markdown notes that include poster, rating, synopsis, and release info. Track TV seasons and episode progress, add personal fields for review, score, platform and status, and browse entries in a visual card-wall grid."
 
     stats: {
-        downloads:  212
-        updated_at: 1781336476000
+        downloads:  247
+        updated_at: 1785235393000
     }
 }
 ```

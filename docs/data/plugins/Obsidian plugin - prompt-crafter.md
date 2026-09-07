@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/prompt-crafter
 alt:
   - https://github.com/fabricehong/obsidian-prompt-crafter-plugin
-downloads: 774
+downloads: 847
 updated at: "2024-11-02T11:04:58Z"
 related to:
   - "[[GitHub - 873797612]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create modular, reusable prompts in Obsidian using pc code blocks and {{mustache}} placeholders. Define placeholder values in frontmatter, resolve linked note content and section anchors, and expand nested pc blocks to produce ready-to-copy prompts for LLMs."
 
     stats: {
-        downloads:  774
+        downloads:  847
         updated_at: 1730545498000
     }
 }

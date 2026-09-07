@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quick-open
 alt:
   - https://github.com/itsonlyjames/obsidian-quick-select
-downloads: 3134
+downloads: 4308
 updated at: "2026-05-12T22:40:12Z"
 related to:
   - "[[GitHub - 828974506]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open items in any Obsidian modal by pressing Mod+number to jump to files, run commands, select tags, or pick suggestions. Use across the quick switcher, command palette, slash commands, search, tags and aliases for instant, keyboard-driven selection."
 
     stats: {
-        downloads:  3134
+        downloads:  4308
         updated_at: 1778625612000
     }
 }

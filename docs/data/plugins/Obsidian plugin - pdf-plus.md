@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pdf-plus
 alt:
   - https://github.com/ryotaushio/obsidian-pdf-plus
-downloads: 632905
+downloads: 686626
 updated at: "2025-08-30T02:32:18Z"
 related to:
   - "[[GitHub - 733037966]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Annotate PDFs by turning backlinks or text-selection links into highlight annotations, or embed annotations directly into PDF files for outside visibility. Improve the built-in PDF viewer and store sidenotes as plain Markdown across your vault so annotations remain readable and portable."
 
     stats: {
-        downloads:  632905
+        downloads:  686626
         updated_at: 1756521138000
     }
 }

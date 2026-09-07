@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-gantt
 alt:
   - https://github.com/nhannht/obsidian-smart-gantt
-downloads: 10036
+downloads: 10383
 updated at: "2026-07-20T16:23:19Z"
 related to:
   - "[[GitHub - 784698676]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate interactive Gantt charts from tasks across your vault by parsing plain-language dates, Tasks-style emoji dates, and Dataview due fields without special syntax. Drag bars or resize edges to update dates in your notes, zoom Day/Week/Month/Quarter, and jump to task locations."
 
     stats: {
-        downloads:  10036
+        downloads:  10383
         updated_at: 1784564599000
     }
 }

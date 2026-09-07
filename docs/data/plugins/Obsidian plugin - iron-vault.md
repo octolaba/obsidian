@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/iron-vault
 alt:
   - https://github.com/iron-vault-plugin/iron-vault
-downloads: 18005
+downloads: 18426
 updated at: "2026-06-11T16:33:06Z"
 related to:
   - "[[GitHub - 695304400]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Play Ironsworn, Starforged and related rulesets inside Obsidian using datasworn-formatted data. Use interactive blocks, commands and a right-side sidebar to make moves, manage entities and progress tracks, run multiple campaigns, and play locally or online with others via modal links."
 
     stats: {
-        downloads:  18005
+        downloads:  18426
         updated_at: 1781195586000
     }
 }

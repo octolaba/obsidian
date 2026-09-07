@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/link-card-preview
 alt:
   - https://github.com/groundfic/link-card-preview
-downloads: 707
-updated at: "2026-07-19T09:26:51Z"
+downloads: 1059
+updated at: "2026-08-10T19:47:18Z"
 related to:
   - "[[GitHub - 1267339140]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Turn bare URLs into Apple-style rich link cards with adaptive layouts, dominant-color tinting, and offline image caching. Render cards in Reading view, Live Preview, and Canvas, preserve native link nodes for portability, and reveal raw URLs for editing without breaking selection or layout."
 
     stats: {
-        downloads:  707
-        updated_at: 1784453211000
+        downloads:  1059
+        updated_at: 1786391238000
     }
 }
 ```

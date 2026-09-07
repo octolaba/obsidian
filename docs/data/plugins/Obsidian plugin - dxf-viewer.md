@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dxf-viewer
 alt:
   - https://github.com/eweinhoffer/dxf-viewer
-downloads: 159
+downloads: 180
 updated at: "2026-05-13T21:16:23Z"
 related to:
   - "[[GitHub - 1167668782]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View DXF drawings in a dedicated Obsidian view and embed them inline in notes for reading-mode rendering. Pan, zoom, and measure vertex distances, curve centers, and circle/arc diameters with automatic unit detection and manual override."
 
     stats: {
-        downloads:  159
+        downloads:  180
         updated_at: 1778706983000
     }
 }

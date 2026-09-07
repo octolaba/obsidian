@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/voice-to-text
 alt:
   - https://github.com/satosprod/voice-to-text
-downloads: 58
+downloads: 81
 updated at: "2026-07-02T05:54:07Z"
 related to:
   - "[[GitHub - 1283005777]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transcribe speech to text with push-to-talk: hold a hotkey, speak, release, and insert the transcription at the cursor. Switch between Deepgram Nova 2 and Groq Whisper, record optional WAV files, and write daily activity logs into your vault."
 
     stats: {
-        downloads:  58
+        downloads:  81
         updated_at: 1782971647000
     }
 }

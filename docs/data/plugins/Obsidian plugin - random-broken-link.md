@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/random-broken-link
 alt:
   - https://github.com/jantatesa/obsidian-open-random-broken-link
-downloads: 407
+downloads: 431
 updated at: "2025-11-02T09:01:51Z"
 related to:
   - "[[GitHub - 981199914]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a random broken link in your vault to surface missing notes and knowledge gaps. Jump through unresolved links to create or repair target files and close holes in your graph."
 
     stats: {
-        downloads:  407
+        downloads:  431
         updated_at: 1762074111000
     }
 }

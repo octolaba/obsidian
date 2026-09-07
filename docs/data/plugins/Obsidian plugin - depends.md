@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/depends
 alt:
   - https://github.com/arugyani/depends
-downloads: 95
+downloads: 101
 updated at: "2026-04-29T23:46:46Z"
 related to:
   - "[[GitHub - 1225028827]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage file relationships by id in frontmatter and automatically create two managed sections for upstream and downstream links. Write real [[wikilinks]] from ids so the Obsidian graph updates and links survive file renames; headings and bullet lists appear or disappear as relationships change."
 
     stats: {
-        downloads:  95
+        downloads:  101
         updated_at: 1777506406000
     }
 }

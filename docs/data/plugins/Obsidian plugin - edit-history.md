@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/edit-history
 alt:
   - https://github.com/antoniotejada/obsidian-edit-history
-downloads: 20043
+downloads: 20512
 updated at: "2025-08-04T08:50:12Z"
 related to:
   - "[[GitHub - 655139059]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save every note edit to a per-file, per-vault history file for later diffing or copying. Browse edits by calendar or timeline, view side-by-side or inline diffs with prev/next or keyboard navigation, and manage storage with compressed diffs, limits, and selective file/path rules while allowing external access."
 
     stats: {
-        downloads:  20043
+        downloads:  20512
         updated_at: 1754297412000
     }
 }

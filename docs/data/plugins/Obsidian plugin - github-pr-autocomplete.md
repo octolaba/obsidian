@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/github-pr-autocomplete
 alt:
   - https://github.com/andrewyx/Github-PR-Autocomplete
-downloads: 89
+downloads: 95
 updated at: "2026-05-22T21:13:30Z"
 related to:
   - "[[GitHub - 1246023656]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert links to GitHub issues and pull requests with an inline autocomplete suggester triggered by a character (default @), letting you search open issues/PRs or jump to a number. Suggestions work with both issue number or fuzzy search by title."
 
     stats: {
-        downloads:  89
+        downloads:  95
         updated_at: 1779484410000
     }
 }

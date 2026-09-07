@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/yaml-viewer
 alt:
   - https://github.com/viggomeesters/obsidian-yaml-viewer
-downloads: 515
+downloads: 765
 updated at: "2026-06-06T08:18:46Z"
 related to:
   - "[[GitHub - 1261058022]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse .yaml/.yml files in a structured, read-only tree alongside a raw source pane with syntax highlighting and line numbers. Filter by key, value or YAML path, use the outline for quick navigation, expand/collapse nodes, and copy node paths or raw YAML."
 
     stats: {
-        downloads:  515
+        downloads:  765
         updated_at: 1780733926000
     }
 }

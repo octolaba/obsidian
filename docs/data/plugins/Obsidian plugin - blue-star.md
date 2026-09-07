@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/blue-star
 alt:
   - https://github.com/lio5n/blue-star
-downloads: 931
+downloads: 952
 updated at: "2024-12-05T11:00:02Z"
 related to:
   - "[[GitHub - 808832973]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create Anki flashcards from Obsidian notes using built-in parsing modes, headings, sections, custom delimiters, or regex. Filter sources by directory or tags, choose to add or update cards, and push results to Anki via AnkiConnect."
 
     stats: {
-        downloads:  931
+        downloads:  952
         updated_at: 1733396402000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/qmd-as-md-obsidian
 alt:
   - https://github.com/danieltomasz/qmd-as-md-obsidian
-downloads: 10680
+downloads: 10939
 updated at: "2026-05-21T10:48:13Z"
 related to:
   - "[[GitHub - 498511703]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Quarto support for Obsidian. Open .qmd files in Obsidian’s normal Markdown editor, preview or render the active file, and keep your writing workflow inside the vault. Use one source file to produce academic manuscripts, PDFs, DOCX files, HTML pages, or reveal.js slides, depending on the format declared in your Quarto YAML. PDF preview/render can be opened in Obsidian. Includes a sidebar outline for .qmd headings, optional dedicated editors for .yml and .lua files, commands for creating new Quarto files from presets, support for user templates, and a Lua filter that converts Obsidian callouts into native Quarto callouts. Works well with Zotero citation workflows through Better BibTeX and Obsidian citation plugins. Requires Quarto installed locally and available on PATH."
 
     stats: {
-        downloads:  10680
+        downloads:  10939
         updated_at: 1779360493000
     }
 }

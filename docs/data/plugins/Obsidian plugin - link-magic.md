@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/link-magic
 alt:
   - https://github.com/andyreifman/LinkMagic
-downloads: 1422
+downloads: 1440
 updated at: "2025-09-04T15:23:58Z"
 related to:
   - "[[GitHub - 777819835]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Define custom regex patterns to detect text and automatically insert links as you type in edit mode. Configure URL templates with capture groups to convert matches into clickable links."
 
     stats: {
-        downloads:  1422
+        downloads:  1440
         updated_at: 1756999438000
     }
 }

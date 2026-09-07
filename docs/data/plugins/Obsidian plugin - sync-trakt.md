@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/sync-trakt
 alt:
   - https://github.com/o1xhack/obsidian-sync-trakt
-downloads: 310
-updated at: "2026-07-20T20:45:25Z"
+downloads: 389
+updated at: "2026-08-03T19:58:42Z"
 related to:
   - "[[GitHub - 1234243527]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync your Trakt.tv watch history into a localized Markdown library with per-episode timestamps and TMDB metadata in 15+ languages. Preserve English originals in *_original_* frontmatter and pick from bundled note templates while injecting chronologically sorted watch events into Daily Notes. Perform fast, quiet incremental syncs that only rewrite changed notes to avoid churning your vault."
 
     stats: {
-        downloads:  310
-        updated_at: 1784580325000
+        downloads:  389
+        updated_at: 1785787122000
     }
 }
 ```

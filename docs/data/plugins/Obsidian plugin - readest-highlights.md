@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/readest-highlights
 alt:
   - https://github.com/polybjorn/obsidian-readest-highlights
-downloads: 285
-updated at: "2026-07-17T10:47:05Z"
+downloads: 712
+updated at: "2026-08-08T18:33:53Z"
 related to:
   - "[[GitHub - 1217273195]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Highlights land either as one note per book or appended to the note you have open, with optional frontmatter and a configurable filename template. Re-syncing updates the highlight block while leaving your own edits intact."
 
     stats: {
-        downloads:  285
-        updated_at: 1784285225000
+        downloads:  712
+        updated_at: 1786214033000
     }
 }
 ```

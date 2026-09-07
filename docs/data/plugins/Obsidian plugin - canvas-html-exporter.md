@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-html-exporter
 alt:
   - https://github.com/hkohlhoff/canvas-html-exporter
-downloads: 319
-updated at: "2026-05-16T12:46:12Z"
+downloads: 483
+updated at: "2026-08-01T14:06:23Z"
 related to:
   - "[[GitHub - 1215945419]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Export an Obsidian canvas as interactive HTML for any browser while preserving layout, node styling, groups, connections, labels, and markers. Output a package folder or a single self-contained HTML with rendered Markdown, media, LaTeX, code highlighting, rewritten links, and zoom/minimap."
 
     stats: {
-        downloads:  319
-        updated_at: 1778935572000
+        downloads:  483
+        updated_at: 1785593183000
     }
 }
 ```

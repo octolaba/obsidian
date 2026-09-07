@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/html-page-viewer
 alt:
   - https://github.com/viggomeesters/obsidian-html-page-viewer
-downloads: 556
+downloads: 826
 updated at: "2026-06-07T16:02:38Z"
 related to:
   - "[[GitHub - 1261883157]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open .html and .htm files as rendered pages inside Obsidian. Switch to a source view with lightweight HTML syntax highlighting and line numbers, and use the toolbar to refresh or toggle scripts per tab (scripts off by default). Render pages in a sandboxed iframe that blocks forms, popups, top-level navigation and never writes to files."
 
     stats: {
-        downloads:  556
+        downloads:  826
         updated_at: 1780848158000
     }
 }

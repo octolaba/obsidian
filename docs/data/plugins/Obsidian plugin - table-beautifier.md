@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/table-beautifier
 alt:
   - https://github.com/vesan/obsidian-table-beautifier
-downloads: 255
+downloads: 311
 updated at: "2026-04-26T16:42:45Z"
 related to:
   - "[[GitHub - 1210067294]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert ASCII and Unicode box-drawing tables into clean Markdown tables. Pad columns for visual alignment and wrap code-like identifiers (PascalCase, snake_case, dot.notation) in backticks; handle terminal output from Docker, psql, MySQL, Claude Code and other CLI tools."
 
     stats: {
-        downloads:  255
+        downloads:  311
         updated_at: 1777221765000
     }
 }

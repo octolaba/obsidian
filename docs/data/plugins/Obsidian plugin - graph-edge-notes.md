@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graph-edge-notes
 alt:
   - https://github.com/li-zane/obsidian-graph-edge-notes
-downloads: 487
+downloads: 529
 updated at: "2026-03-26T16:45:24Z"
 related to:
   - "[[GitHub - 1192510564]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render short relationship labels on graph-view edges by reading relations from note frontmatter and show optional detail on hover with a configurable label color. Add relations for the current note via a command, view an optional debug panel and log, and require that linked notes already create the graph edges being annotated."
 
     stats: {
-        downloads:  487
+        downloads:  529
         updated_at: 1774543524000
     }
 }

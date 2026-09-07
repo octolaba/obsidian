@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/gemini-helper
 alt:
   - https://github.com/takeshy/obsidian-gemini-helper
-downloads: 12931
-updated at: "2026-07-22T22:45:48Z"
+downloads: 14874
+updated at: "2026-08-10T09:47:21Z"
 related to:
   - "[[GitHub - 1113677374]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Gemini Helper integrates Google Gemini with Obsidian for AI chat, vault-aware note operations, semantic search/RAG, workflow automation, and OKF knowledge bundles that act as an LLM wiki — a built-in bundle even answers questions about the plugin itself. It supports streaming chat, file attachments, slash commands, safe AI-proposed edits, web search, reusable agent skills, MCP workflow steps, usage tracking, encryption, edit history, and image generation. Dashboards arrange Bases views, files, web pages, kanban boards, timelines, and workflow output in a drag-and-resize widget grid; the File widget reads Markdown, PDF, and EPUB with text-anchored reading memos and \"Ask AI\" on any selection. Everything works on both desktop and mobile. The plugin is free and open source; a Gemini API key from Google AI Studio is required."
 
     stats: {
-        downloads:  12931
-        updated_at: 1784760348000
+        downloads:  14874
+        updated_at: 1786355241000
     }
 }
 ```

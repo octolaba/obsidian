@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/third-party-sync
 alt:
   - https://github.com/nightfall-yl/obsidian-third-party-sync
-downloads: 500
-updated at: "2026-06-22T05:45:50Z"
+downloads: 805
+updated at: "2026-07-30T09:26:01Z"
 related to:
   - "[[GitHub - 1213084096]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync your vault with S3, WebDAV, or OneDrive using end-to-end AES-256-GCM encryption with per-file random IVs and built-in integrity checks. Use bidirectional or incremental sync, auto-sync, conflict handling and modification-ratio protection; backup your vault before switching to this unofficial fork."
 
     stats: {
-        downloads:  500
-        updated_at: 1782107150000
+        downloads:  805
+        updated_at: 1785403561000
     }
 }
 ```

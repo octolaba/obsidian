@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/chess-tree
 alt:
   - https://github.com/west-shell/obsidian-chess-tree
-downloads: 336
-updated at: "2026-07-23T04:34:32Z"
+downloads: 463
+updated at: "2026-08-10T13:54:21Z"
 related to:
   - "[[GitHub - 1257331324]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render and play chess games from FEN and PGN inside Obsidian with an interactive, draggable board and full chess rules (castling, en passant, promotions, repetition and 50‑move detection). Manage branching variations with a tree view, edit FEN visually, add annotations/marks, and save changes back to the source file."
 
     stats: {
-        downloads:  336
-        updated_at: 1784781272000
+        downloads:  463
+        updated_at: 1786370061000
     }
 }
 ```

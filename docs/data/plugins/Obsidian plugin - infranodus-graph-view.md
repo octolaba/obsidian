@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/infranodus-graph-view
 alt:
   - https://github.com/noduslabs/infranodus-obsidian-plugin
-downloads: 27474
-updated at: "2026-05-28T14:43:10Z"
+downloads: 29250
+updated at: "2026-08-04T14:07:21Z"
 related to:
   - "[[GitHub - 833144120]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Visualize your Obsidian vault as an interactive knowledge graph that maps concepts, backlinks, topical clusters and idea connections. Identify key topics and gaps, and generate new ideas and research questions with the built-in AI to bridge those gaps."
 
     stats: {
-        downloads:  27474
-        updated_at: 1779979390000
+        downloads:  29250
+        updated_at: 1785852441000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/password-audit
 alt:
   - https://github.com/0xprashanthsec/password-audit
-downloads: 578
+downloads: 590
 updated at: "2024-11-19T04:30:37Z"
 related to:
   - "[[GitHub - 889125544]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Audit passwords for strength and breach exposure using Have I Been Pwned and receive clear, actionable feedback. Generate strong passwords with adjustable length and copy them to the clipboard with a single click."
 
     stats: {
-        downloads:  578
+        downloads:  590
         updated_at: 1731990637000
     }
 }

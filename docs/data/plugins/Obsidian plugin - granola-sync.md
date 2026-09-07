@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/granola-sync
 alt:
   - https://github.com/tomelliot/obsidian-granola-sync
-downloads: 11495
-updated at: "2026-06-24T23:21:31Z"
+downloads: 12311
+updated at: "2026-08-07T17:32:28Z"
 related to:
   - "[[GitHub - 1031762119]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "The most robust and easiest to use plugin to sync notes and transcripts from Granola into your Obsidian vault. Choose destinations (daily notes, folders), include private notes, create automatic bidirectional links between notes and transcripts, and run periodic syncs."
 
     stats: {
-        downloads:  11495
-        updated_at: 1782343291000
+        downloads:  12311
+        updated_at: 1786123948000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/yt-summarizer
 alt:
   - https://github.com/ardakalayci/ytsummarizer
-downloads: 1224
+downloads: 1249
 updated at: "2025-03-18T12:50:25Z"
 related to:
   - "[[GitHub - 943891935]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fetch YouTube transcripts and generate concise summaries using OpenAI GPT models. View transcripts in a sidebar or create new notes with interactive timestamps that jump to specific video points. Support multiple languages, configurable timestamp frequency, and choose the OpenAI model for summaries."
 
     stats: {
-        downloads:  1224
+        downloads:  1249
         updated_at: 1742302225000
     }
 }

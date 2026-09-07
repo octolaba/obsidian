@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/taskweaver
 alt:
   - https://github.com/hcyt/taskweaver
-downloads: 163
+downloads: 195
 updated at: "2026-02-07T01:49:41Z"
 related to:
   - "[[GitHub - 1151136033]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Weave scattered TODOs into a unified Kanban-style view across your vault, using a sidebar list and switchable board layouts. Manage expandable sub-tasks with progress tracking, priorities and due-date badges; drag-and-drop between customizable columns (dated/overdue/tag), set WIP limits, pin/archive tasks and jump to source notes."
 
     stats: {
-        downloads:  163
+        downloads:  195
         updated_at: 1770428981000
     }
 }

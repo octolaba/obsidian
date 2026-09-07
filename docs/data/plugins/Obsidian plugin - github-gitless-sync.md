@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/github-gitless-sync
 alt:
   - https://github.com/silvanocerza/github-gitless-sync
-downloads: 15663
+downloads: 16555
 updated at: "2025-05-22T17:51:01Z"
 related to:
   - "[[GitHub - 912360614]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync an Obsidian vault with a GitHub repository without using git. Support desktop and mobile, sync multiple vaults automatically or manually, and inspect conflicts with a built-in conflict resolution view."
 
     stats: {
-        downloads:  15663
+        downloads:  16555
         updated_at: 1747936261000
     }
 }

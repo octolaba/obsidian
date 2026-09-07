@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/arena-manager
 alt:
   - https://github.com/javierarce/arena-manager
-downloads: 797
+downloads: 828
 updated at: "2026-05-31T10:10:34Z"
 related to:
   - "[[GitHub - 819252548]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish notes to Are.na and pull blocks from channels into Obsidian as individual notes. Push the current note to an Are.na block, import blocks by channel, ID, or URL, and open blocks on the Are.na site. Download attachments and add frontmatter metadata when importing blocks."
 
     stats: {
-        downloads:  797
+        downloads:  828
         updated_at: 1780222234000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/inline-checkbox-groups
 alt:
   - https://github.com/bwya77/Inline-Checkbox-Groups
-downloads: 2336
+downloads: 2443
 updated at: "2025-02-18T17:32:04Z"
 related to:
   - "[[GitHub - 920198592]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create multiple checkboxes on a single line using a customizable separator for compact task groups and progress trackers. Strike through the group's text automatically when all items are checked and see updates immediately in both edit and preview modes."
 
     stats: {
-        downloads:  2336
+        downloads:  2443
         updated_at: 1739899924000
     }
 }

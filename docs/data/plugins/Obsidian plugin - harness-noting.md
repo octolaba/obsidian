@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/harness-noting
 alt:
   - https://github.com/textcat/harness-noting
-downloads: 316
+downloads: 335
 updated at: "2026-04-30T05:53:36Z"
 related to:
   - "[[GitHub - 1225258897]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Validate notes against scoped rules for files, folders, tags, filename patterns, headings, and frontmatter properties using equals, contains, and regex checks. Run checks from Obsidian or the command line with JSON output and failure exit codes, inspect folder structures and required files, and copy readable conclusions for AI-assisted fixes."
 
     stats: {
-        downloads:  316
+        downloads:  335
         updated_at: 1777528416000
     }
 }

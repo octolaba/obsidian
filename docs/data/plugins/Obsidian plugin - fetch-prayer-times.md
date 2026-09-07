@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/fetch-prayer-times
 alt:
   - https://github.com/eccys/obsidian-prayer-times
-downloads: 363
+downloads: 375
 updated at: "2025-03-14T22:25:18Z"
 related to:
   - "[[GitHub - 893108825]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fetch daily prayer times in Obsidian from the Aladhan API and display local and UTC times with customizable date formatting. Choose a city or auto-detect location, select which prayers to show, and set update triggers plus 12/24-hour time formats."
 
     stats: {
-        downloads:  363
+        downloads:  375
         updated_at: 1741991118000
     }
 }

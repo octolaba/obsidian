@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hierarchy
 alt:
   - https://github.com/kdnk/obsidian-hierarchy
-downloads: 1277
+downloads: 1299
 updated at: "2026-05-27T14:05:18Z"
 related to:
   - "[[GitHub - 856313829]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize the folder hierarchy of the current note in a collapsible view below the editor and in the backlinks panel. Customize tab and backlink titles to show full paths or just file names and keep titles updated automatically."
 
     stats: {
-        downloads:  1277
+        downloads:  1299
         updated_at: 1779890718000
     }
 }

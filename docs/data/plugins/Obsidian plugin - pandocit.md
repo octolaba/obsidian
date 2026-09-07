@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pandocit
 alt:
   - https://github.com/atelier-recherche/pandocit
-downloads: 413
+downloads: 481
 updated at: "2026-07-06T09:40:21Z"
 related to:
   - "[[GitHub - 1207878348]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a sidebar list of formatted references for each Pandoc citation key ([@key]) found in the active note. Convert bibliography files via Pandoc WASM to render CSL-styled citations without a local Pandoc install. Integrate Zotero libraries and run on desktop and mobile."
 
     stats: {
-        downloads:  413
+        downloads:  481
         updated_at: 1783330821000
     }
 }

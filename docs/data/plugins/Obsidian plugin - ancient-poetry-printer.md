@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ancient-poetry-printer
 alt:
   - https://github.com/fenmirs/ob-extends-gwsc
-downloads: 16
+downloads: 29
 updated at: "2026-07-17T10:04:28Z"
 related to:
   - "[[GitHub - 1303694270]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and edit classical Chinese poems and prose using a form-based .sc editor and render them into typeset HTML. Add per-character pinyin, choose vertical or centered layouts, preview formatting, and export standalone HTML files."
 
     stats: {
-        downloads:  16
+        downloads:  29
         updated_at: 1784282668000
     }
 }

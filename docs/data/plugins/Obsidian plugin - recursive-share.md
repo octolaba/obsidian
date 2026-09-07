@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/recursive-share
 alt:
   - https://github.com/bloeckchengrafik/obsidian-recursive-share
-downloads: 74
+downloads: 81
 updated at: "2026-06-04T10:07:18Z"
 related to:
   - "[[GitHub - 977748978]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create shareable links for individual notes that include embedded images, drawings, and linked attachments. Manage access via a backend service and generate public or controlled links for easy external viewing."
 
     stats: {
-        downloads:  74
+        downloads:  81
         updated_at: 1780567638000
     }
 }

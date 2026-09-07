@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-fold
 alt:
   - https://github.com/shenfan19/smart-fold
-downloads: 208
+downloads: 235
 updated at: "2026-03-06T16:58:08Z"
 related to:
   - "[[GitHub - 1172669064]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Control Markdown heading folding with precise, lightweight tools. Toggle individual H1–H6 levels, apply Smart Fold to collapse leaf-node sections, increase or decrease global fold depth, auto-fold on file open, and add ribbon icons for quick access."
 
     stats: {
-        downloads:  208
+        downloads:  235
         updated_at: 1772816288000
     }
 }

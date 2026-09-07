@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/solo-rpg-toolkit
 alt:
   - https://github.com/alexkurowski/solo-toolkit
-downloads: 33782
+downloads: 34698
 updated at: "2026-04-07T10:17:15Z"
 related to:
   - "[[GitHub - 796150993]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Roll dice quickly with clickable die icons. Draw cards from built-in or custom decks (image files or URLs), including standard, joker, and oracle decks with rotation and flip options. Generate random words and custom table rolls with templates for solo GM emulation."
 
     stats: {
-        downloads:  33782
+        downloads:  34698
         updated_at: 1775557035000
     }
 }

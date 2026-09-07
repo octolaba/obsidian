@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/video-notes
 alt:
   - https://github.com/rekby/obsidian-video-notes
-downloads: 248
+downloads: 306
 updated at: "2026-04-12T16:58:31Z"
 related to:
   - "[[GitHub - 1208532993]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Play any video file from your vault in a dedicated panel and insert human-readable timestamp links that open the panel and jump (and pause) to the exact second. Capture PNG screenshots saved to your attachments with matching timestamp links, apply a pre-roll offset, and use playback controls for precise seeking."
 
     stats: {
-        downloads:  248
+        downloads:  306
         updated_at: 1776013111000
     }
 }

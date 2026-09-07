@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mi-agrupacion
 alt:
   - https://github.com/jaliriogbarrios19/mi-agrupacion
-downloads: 175
+downloads: 183
 updated at: "2026-06-22T22:15:52Z"
 related to:
   - "[[GitHub - 1264496565]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Registra actividades comunitarias, visitas y el proceso educativo de tu agrupación Bahá'í desde un dashboard con accesos rápidos. Guarda visitas con sector, ciclo, visitados, maestros, oración, campaña y fotos; lleva clases, círculos y asistentes con maestros autocompletables. Genera reportes KPI, por sector y campaña y sincroniza datos entre miembros vía Supabase."
 
     stats: {
-        downloads:  175
+        downloads:  183
         updated_at: 1782166552000
     }
 }

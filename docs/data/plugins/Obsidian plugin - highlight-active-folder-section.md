@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/highlight-active-folder-section
 alt:
   - https://github.com/justanotherjurastudent/highlight-active-folder-section
-downloads: 5101
+downloads: 5751
 updated at: "2025-11-04T19:20:30Z"
 related to:
   - "[[GitHub - 844485651]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight the folder container containing the active note in the file explorer. Customize background and title colors and tweak title and filename styles with hover and drag effects, including optional root-folder highlighting. Scroll the file explorer to the active file and collapse all other folders to keep only the direct path open."
 
     stats: {
-        downloads:  5101
+        downloads:  5751
         updated_at: 1762284030000
     }
 }

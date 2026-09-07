@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-article
 alt:
   - https://github.com/javajiang/article_ai
-downloads: 153
+downloads: 379
 updated at: "2026-07-12T08:07:03Z"
 related to:
   - "[[GitHub - 1298094827]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extract article writing styles from single or multiple reference notes and save them to a style library. Generate new articles in a chosen style and save outputs to a generated-drafts folder for consistent, style-matched content."
 
     stats: {
-        downloads:  153
+        downloads:  379
         updated_at: 1783843623000
     }
 }

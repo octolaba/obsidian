@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/paste-polish
 alt:
   - https://github.com/riverise/obsidian-paste-polish
-downloads: 167
+downloads: 210
 updated at: "2026-03-13T10:41:37Z"
 related to:
   - "[[GitHub - 1180463138]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Polish pasted Markdown by removing excessive blank lines while preserving tables, dividers, code blocks, and callouts. Choose gradual one-step reductions to refine spacing step-by-step or use aggressive cleanup to collapse consecutive blank lines into a single line in Edit Mode."
 
     stats: {
-        downloads:  167
+        downloads:  210
         updated_at: 1773398497000
     }
 }

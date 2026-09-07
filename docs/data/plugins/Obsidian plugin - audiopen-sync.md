@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/audiopen-sync
 alt:
   - https://github.com/jonashaefele/audiopen-obsidian
-downloads: 579
+downloads: 606
 updated at: "2024-12-23T22:13:30Z"
 related to:
   - "[[GitHub - 797110356]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Obsidian with AudioPen and VoiceNotes to transcribe audio files and insert transcripts directly into your notes. Use webhook-driven updates and custom templates with variables like {title}, {body}, {orig_transcript}, {id}, and {date_created} to create or append formatted transcripts."
 
     stats: {
-        downloads:  579
+        downloads:  606
         updated_at: 1734992010000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quickclip-capture
 alt:
   - https://github.com/vipsyvipul/QuickClip-Capture-Plugin
-downloads: 60
+downloads: 69
 updated at: "2026-06-07T04:49:30Z"
 related to:
   - "[[GitHub - 1249045737]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render and manage clips from QuickClip Capture as reading-view cards for highlights, full pages, tweets, PDFs, videos (with timestamp chips), and images. Browse and filter clips in a Clip Manager, edit tags/notes inline, open source files at the clip, and delete entries."
 
     stats: {
-        downloads:  60
+        downloads:  69
         updated_at: 1780807770000
     }
 }

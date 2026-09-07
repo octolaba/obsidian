@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/journal-folder
 alt:
   - https://github.com/chfourie/obsidian-journal-folder
-downloads: 3266
-updated at: "2026-06-16T08:29:05Z"
+downloads: 3362
+updated at: "2026-08-09T09:08:18Z"
 related to:
   - "[[GitHub - 821239132]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Use any folder in your vault as a journal by following fixed filename formats for daily, weekly, monthly, and yearly notes to maintain multiple, separate journals (project, client, etc.). Render structured journal headers via a code-block processor and do not use the vault root as a journal folder."
 
     stats: {
-        downloads:  3266
-        updated_at: 1781598545000
+        downloads:  3362
+        updated_at: 1786266498000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/deep-sit
 alt:
   - https://github.com/bassio/obsidian-deepsit
-downloads: 94
+downloads: 259
 updated at: "2026-07-13T09:49:48Z"
 related to:
   - "[[GitHub - 1019994539]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Cite and reference items from your Zotero library directly inside Obsidian notes. Insert citations, bibliographies and linked annotations as you write, working with Zotero and Better BibTeX running in the background."
 
     stats: {
-        downloads:  94
+        downloads:  259
         updated_at: 1783936188000
     }
 }

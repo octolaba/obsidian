@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/waveform-player
 alt:
   - https://github.com/zhouhua/obsidian-waveform-player
-downloads: 1411
+downloads: 1446
 updated at: "2025-03-20T10:19:30Z"
 related to:
   - "[[GitHub - 930772342]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display audio files with a sleek waveform player and attractive controls for visual scrubbing and playback. Support audio attachments (MP3, WAV, etc.) and Obsidian's recorded audio, replacing default previews with the waveform player automatically."
 
     stats: {
-        downloads:  1411
+        downloads:  1446
         updated_at: 1742465970000
     }
 }

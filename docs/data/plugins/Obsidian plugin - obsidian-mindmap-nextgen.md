@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-mindmap-nextgen
 alt:
   - https://github.com/james-tindal/obsidian-mindmap-nextgen
-downloads: 113961
+downloads: 116912
 updated at: "2026-04-14T17:26:05Z"
 related to:
   - "[[GitHub - 564508785]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View Markdown notes as interactive Markmap mindmaps, supporting pinned or unpinned maps and embedded markmap code blocks. Copy screenshots, collapse nodes, render checkboxes and LaTeX, and apply per-node styling, syntax highlighting, and frontmatter-controlled colors."
 
     stats: {
-        downloads:  113961
+        downloads:  116912
         updated_at: 1776187565000
     }
 }

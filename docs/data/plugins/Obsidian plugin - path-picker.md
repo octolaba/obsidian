@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/path-picker
 alt:
   - https://github.com/u-ways/obsidian-path-picker
-downloads: 107
+downloads: 120
 updated at: "2026-06-29T15:06:51Z"
 related to:
   - "[[GitHub - 1278304215]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fuzzy-find files or directories under a chosen root from inside Obsidian, preview results, then insert the path at the cursor or open the entry in Obsidian or your OS's default app. Preview a directory tree or file head with syntax highlighting and adjust the split; operate entirely inside Obsidian with no external binaries."
 
     stats: {
-        downloads:  107
+        downloads:  120
         updated_at: 1782745611000
     }
 }

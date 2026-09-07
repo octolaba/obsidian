@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cliplet
 alt:
   - https://github.com/namikaze-40p/obsidian-cliplet
-downloads: 3021
+downloads: 5122
 updated at: "2026-06-15T12:04:25Z"
 related to:
   - "[[GitHub - 964894819]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep a separate clipboard and snippet library inside Obsidian with history and quick paste to avoid overwriting your system clipboard. Choose per-device IndexedDB or vault-synced data.json storage (syncs across devices), with encryption at rest and offline access."
 
     stats: {
-        downloads:  3021
+        downloads:  5122
         updated_at: 1781525065000
     }
 }

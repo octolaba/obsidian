@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/system3-relay
 alt:
   - https://github.com/no-instructions/Relay
-downloads: 174960
-updated at: "2026-05-20T20:26:22Z"
+downloads: 180155
+updated at: "2026-08-04T04:25:35Z"
 related to:
   - "[[GitHub - 811057740]]"
 remind me:
@@ -28,7 +28,7 @@ Supports real-time collaboration with live cursors and CRDT-backed syncing over 
 plugin: {
     id:     "system3-relay"
     name:   "Relay"
-    author: "no-instructions"
+    author: "Relay.md"
     repo:   "no-instructions/Relay"
 
     html_url:    "https://community.obsidian.md/plugins/system3-relay"
@@ -37,8 +37,8 @@ plugin: {
     about:       "Collaborate in real time with live cursors and CRDT-backed syncing across designated folders. Edit offline and merge changes automatically when you reconnect; share folders and manage collaborator access with share keys."
 
     stats: {
-        downloads:  174960
-        updated_at: 1779308782000
+        downloads:  180155
+        updated_at: 1785817535000
     }
 }
 ```

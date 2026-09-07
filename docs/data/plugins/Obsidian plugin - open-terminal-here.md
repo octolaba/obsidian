@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-terminal-here
 alt:
   - https://github.com/ryofeeee/obsidian-open-terminal-here
-downloads: 257
+downloads: 307
 updated at: "2026-05-16T10:08:23Z"
 related to:
   - "[[GitHub - 1214297754]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a terminal at the current file's directory with one click or a command. Use editor or explorer context menus, the command palette, or an optional ribbon button to launch your preferred terminal (Terminal, iTerm, PowerShell, Windows Terminal, etc.)."
 
     stats: {
-        downloads:  257
+        downloads:  307
         updated_at: 1778926103000
     }
 }

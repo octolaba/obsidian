@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/save-history
 alt:
   - https://github.com/sevoni/save-history
-downloads: 611
+downloads: 1177
 updated at: "2026-07-05T06:12:35Z"
 related to:
   - "[[GitHub - 1273255140]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save manual snapshots of files and restore previous versions with one click, with an automatic pre-restore backup. Preview and diff versions, group and label snapshots by day/week/month/year, choose a custom snapshot folder, and require confirmation before deleting. Supports autosave at a configurable interval and on tab close, per-file custom settings for autosave interval and max versions, snapshot export and import, image embedding in previews."
 
     stats: {
-        downloads:  611
+        downloads:  1177
         updated_at: 1783231955000
     }
 }

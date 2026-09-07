@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/anything-as-md
 alt:
   - https://github.com/sec-ml/obsidian-anything-as-md
-downloads: 1310
+downloads: 1547
 updated at: "2026-06-01T19:05:07Z"
 related to:
   - "[[GitHub - 1165124521]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Recognise custom file extensions as Markdown and render their Markdown syntax in Obsidian. Extension list configured in settings. Optional (experimental) feature forces these files to be treated as native .md file for visibility, search and custom plugin processing (labelled as experimental as it overrides Obsidian's built-in file handling). Configurable file extensions, but for the sake of findability: mdx, svx, rmd, qmd, mdown, mkdn, mkd, mdwn, mdtxt, mdtext, myst, markua."
 
     stats: {
-        downloads:  1310
+        downloads:  1547
         updated_at: 1780340707000
     }
 }

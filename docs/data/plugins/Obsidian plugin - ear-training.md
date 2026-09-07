@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ear-training
 alt:
   - https://github.com/shiwer/ear-training-obsidian-plugin
-downloads: 1450
+downloads: 1458
 updated at: "2024-05-26T10:55:03Z"
 related to:
   - "[[GitHub - 720148058]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Train your musical ear with interactive interval and chord exercises inside Obsidian. Practice melodic and harmonic patterns, receive immediate feedback on mistakes, and save results to Markdown files to track your progress."
 
     stats: {
-        downloads:  1450
+        downloads:  1458
         updated_at: 1716720903000
     }
 }

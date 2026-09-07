@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-by-tags-distributor
 alt:
   - https://github.com/revotale/obsidian-folder-by-tags-distributor
-downloads: 2278
+downloads: 2360
 updated at: "2024-04-10T13:15:06Z"
 related to:
   - "[[GitHub - 781496482]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move notes into existing folders by matching their tags to folder names. Search folder names from the vault root for tag similarity and relocate notes accordingly without creating new folders. Place notes with no matching directory in the vault root."
 
     stats: {
-        downloads:  2278
+        downloads:  2360
         updated_at: 1712754906000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kitty
 alt:
   - https://github.com/amilleah/obsidian-kitty-plugin
-downloads: 118
+downloads: 141
 updated at: "2025-12-30T17:13:40Z"
 related to:
   - "[[GitHub - 1123807895]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a small animated desktop pet that roams, sits, and naps across your notes. Drag and place sprites, keep their position across relaunches, and import or edit pixel-art spritesheets to create custom companions."
 
     stats: {
-        downloads:  118
+        downloads:  141
         updated_at: 1767114820000
     }
 }

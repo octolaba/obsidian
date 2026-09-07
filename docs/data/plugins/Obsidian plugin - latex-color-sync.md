@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/latex-color-sync
 alt:
   - https://github.com/lunevoilee/obsidian-latex-color-sync
-downloads: 113
+downloads: 121
 updated at: "2026-04-14T20:44:56Z"
 related to:
   - "[[GitHub - 1210755733]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync LaTeX formula colors with surrounding text in source mode by rewriting formulas to \\textcolor{#RRGGBB}{...}. Auto-sync on newline insertion or run commands to update the current line, selection, or entire document."
 
     stats: {
-        downloads:  113
+        downloads:  121
         updated_at: 1776199496000
     }
 }

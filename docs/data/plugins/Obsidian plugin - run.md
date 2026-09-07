@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/run
 alt:
   - https://github.com/hananoshikayomaru/obsidian-run
-downloads: 3493
+downloads: 3508
 updated at: "2023-11-21T01:33:02Z"
 related to:
   - "[[GitHub - 698305013]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate Markdown from inline expressions, JavaScript code blocks, or Dataview queries directly in your notes. Update content between run start/end tags, access file and page variables, and include optional run metadata like update time and errors."
 
     stats: {
-        downloads:  3493
+        downloads:  3508
         updated_at: 1700530382000
     }
 }

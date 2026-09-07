@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/custom-sort
 alt:
   - https://github.com/sebastianmc/obsidian-custom-sort
-downloads: 191734
+downloads: 197357
 updated at: "2025-07-24T21:54:37Z"
 related to:
   - "[[GitHub - 500851279]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Arrange notes and folders in Obsidian's File Explorer by drag-and-drop or detailed config-driven rules. Define per-folder or group orders in frontmatter, mix manual and automatic sorting, and order by numbers, dates, Roman numerals, wildcards, or metadata with inheritance and grouping."
 
     stats: {
-        downloads:  191734
+        downloads:  197357
         updated_at: 1753394077000
     }
 }

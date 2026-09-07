@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bp-wiki-starter
 alt:
   - https://github.com/michael-uplive021/bp-wiki-starter
-downloads: 199
+downloads: 210
 updated at: "2026-06-24T07:53:50Z"
 related to:
   - "[[GitHub - 1239358327]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create bilingual (English/中文) starter vaults with 12 ready-made templates covering PARA, Zettelkasten, GTD, Digital Garden, LYT+MOC, Evergreen Notes, Inbox, Daily, INKAPA, Cornell, MOC Navigation, and Progressive Formalization. Install a starter guide, template selector, and edition comparison inside a BP-Wiki Starter folder and outline Free, Pro Runtime, and Custom Implementation editions."
 
     stats: {
-        downloads:  199
+        downloads:  210
         updated_at: 1782287630000
     }
 }

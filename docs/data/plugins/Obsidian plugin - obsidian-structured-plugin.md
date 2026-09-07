@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-structured-plugin
 alt:
   - https://github.com/dobrovolsky/obsidian-structure
-downloads: 6709
+downloads: 6721
 updated at: "2024-01-27T10:25:03Z"
 related to:
   - "[[GitHub - 396278812]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Build hierarchical note structures using dot-separated names (e.g., aws, aws.ec2, aws.ec2.security-groups). Navigate and list parent or child notes, open parent notes, rename notes correctly, and create new notes in root or the current file’s folder."
 
     stats: {
-        downloads:  6709
+        downloads:  6721
         updated_at: 1706351103000
     }
 }

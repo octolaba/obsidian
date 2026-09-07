@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/type-chinese-like-english
 alt:
   - https://github.com/hwenyi/obsidian-type-chinese-like-english
-downloads: 560
+downloads: 607
 updated at: "2025-02-25T14:08:30Z"
 related to:
   - "[[GitHub - 907683754]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert pinyin typed in English mode into Chinese characters and LaTeX math directly in-place. Use an AI language model to turn natural-language math descriptions into LaTeX and replace the current line with the generated result."
 
     stats: {
-        downloads:  560
+        downloads:  607
         updated_at: 1740492510000
     }
 }

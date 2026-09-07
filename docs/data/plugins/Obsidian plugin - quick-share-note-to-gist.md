@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quick-share-note-to-gist
 alt:
   - https://github.com/chaintng/quick-share-note-to-gist
-downloads: 482
+downloads: 506
 updated at: "2026-07-04T10:53:58Z"
 related to:
   - "[[GitHub - 883798698]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish notes to secret, shareable GitHub Gists and upload embedded images to Imgur, automatically replacing image links in the published note. Copy the gist URL to your clipboard for fast sharing and optionally include frontmatter in the published file."
 
     stats: {
-        downloads:  482
+        downloads:  506
         updated_at: 1783162438000
     }
 }

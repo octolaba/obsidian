@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/fast-note-sync
 alt:
   - https://github.com/haierkeys/obsidian-fast-note-sync
-downloads: 81598
+downloads: 104892
 updated at: "2026-07-20T08:58:26Z"
 related to:
   - "[[GitHub - 950909551]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Real-time synchronization keeps your vaults consistent and accessible across servers, mobile devices, and the web, so you can pick up where you left off on any platform. Share vaults with individuals or teams for seamless collaboration, and connect to external tools via REST and MCP integrations to centralize notes, documents, and context into a personal AI knowledge base. Built-in version history preserves edits and enables rollback; a recycle bin makes it easy to recover deleted items; and cloud-based attachment previews let you view documents, images, and other media without downloading. Server-side features include vault backups, vault mirroring for high availability and disaster recovery, and automatic sync-to-Git for external version control and collaboration. Together, these capabilities keep your personal knowledge data current, recoverable, and easily integrable into downstream workflows."
 
     stats: {
-        downloads:  81598
+        downloads:  104892
         updated_at: 1784537906000
     }
 }

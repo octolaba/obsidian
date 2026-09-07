@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/reverse-prompter
 alt:
   - https://github.com/ryanhalliday/obsidian-reverse-prompter
-downloads: 1445
+downloads: 1464
 updated at: "2024-08-25T05:26:03Z"
 related to:
   - "[[GitHub - 756795787]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate AI-driven writing prompts via ChatGPT from a selection or from the cursor up to the previous header or horizontal rule. Ask reader-style questions to spark ideas, tease out missing details, and overcome writer's block."
 
     stats: {
-        downloads:  1445
+        downloads:  1464
         updated_at: 1724563563000
     }
 }

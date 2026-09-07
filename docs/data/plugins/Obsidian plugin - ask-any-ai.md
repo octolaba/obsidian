@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ask-any-ai
 alt:
   - https://github.com/ibatura/obsidian-ask-any-ai
-downloads: 68
+downloads: 101
 updated at: "2026-07-06T20:39:58Z"
 related to:
   - "[[GitHub - 1225993693]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run any LLM inside your notes by selecting text and inserting AI responses in-place. Expand [[wikilinks]] into linked content, apply inline or template system prompts from a prompts folder, choose insertion position (after, replace, or end), and connect to multiple providers (Copilot, Claude, Gemini, local CLIs)."
 
     stats: {
-        downloads:  68
+        downloads:  101
         updated_at: 1783370398000
     }
 }

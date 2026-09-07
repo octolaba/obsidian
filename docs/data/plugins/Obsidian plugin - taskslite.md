@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/taskslite
 alt:
   - https://github.com/sunnyyylin/obsidian-tasklite
-downloads: 170
+downloads: 194
 updated at: "2026-07-08T12:56:33Z"
 related to:
   - "[[GitHub - 1240700895]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage tree-aware Markdown tasks with Tasks-compatible emoji metadata for dates, recurrence, priority, assignee and IDs. Toggle tasks with cascade/bubble behavior, auto-create recurring occurrences with done/cancel dates, intercept Live Preview checkboxes, detect external checkbox changes, and treat entire files as frontmatter tasks or exclude files via tasks: ignore."
 
     stats: {
-        downloads:  170
+        downloads:  194
         updated_at: 1783515393000
     }
 }

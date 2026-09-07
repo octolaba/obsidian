@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/code-snippet-manager
 alt:
   - https://github.com/jingmengzhiyue/obsidian-code-snippet-manager
-downloads: 71
+downloads: 109
 updated at: "2026-07-13T12:13:43Z"
 related to:
   - "[[GitHub - 1292409361]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Collect and organize reusable code snippets in Markdown files, keeping your vault as the single source of truth. Search and filter indexed snippets by keyword, language, tag, or project; copy or insert code, open the original block, format SQL/JavaScript/TypeScript, and request AI explanations with common-secret redaction."
 
     stats: {
-        downloads:  71
+        downloads:  109
         updated_at: 1783944823000
     }
 }

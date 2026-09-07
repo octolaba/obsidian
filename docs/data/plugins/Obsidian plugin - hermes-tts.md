@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hermes-tts
 alt:
   - https://github.com/thematthiasleitner/hermes-tts
-downloads: 1189
+downloads: 1295
 updated at: "2026-02-20T14:07:27Z"
 related to:
   - "[[GitHub - 1162625282]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert any Obsidian Markdown note into lightweight MP3 speech and prepend a timestamped metadata callout with an embedded audio link. Select from multiple TTS providers with dropdown voice choices and optional speaking-style prompts; output is normalized to MP3 and built for mobile-compatible runtimes."
 
     stats: {
-        downloads:  1189
+        downloads:  1295
         updated_at: 1771596447000
     }
 }

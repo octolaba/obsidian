@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/publish-note-to-mowen
 alt:
   - https://github.com/zhusilence/obsidian-mowen-plugin
-downloads: 466
+downloads: 503
 updated at: "2026-06-14T06:14:01Z"
 related to:
   - "[[GitHub - 994238326]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish notes from Obsidian to Mowen with one click, converting Markdown to Mowen rich text, uploading linked images and turning internal [[links]] into embedded notes. Generate titles, tags, and summaries with an LLM assistant and write Mowen IDs and metadata back to frontmatter while setting privacy and sharing before posting."
 
     stats: {
-        downloads:  466
+        downloads:  503
         updated_at: 1781417641000
     }
 }

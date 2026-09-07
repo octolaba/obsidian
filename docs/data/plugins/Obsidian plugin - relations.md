@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/relations
 alt:
   - https://github.com/obsidian-ttrpg-community/Relations
-downloads: 8973
-updated at: "2026-06-27T21:30:15Z"
+downloads: 11299
+updated at: "2026-07-26T02:02:15Z"
 related to:
   - "[[GitHub - 1230739148]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Visualize relationships between notes via frontmatter-defined connections, with portraits, typed line styles, and a focused family view. Embed graphs inside callouts and infoboxes to map casts, factions, genealogies, or TTRPG NPC networks."
 
     stats: {
-        downloads:  8973
-        updated_at: 1782595815000
+        downloads:  11299
+        updated_at: 1785031335000
     }
 }
 ```

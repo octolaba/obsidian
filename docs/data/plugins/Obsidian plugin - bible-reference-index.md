@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/bible-reference-index
 alt:
   - https://github.com/thenights20/obsidian-bible-reference-index
-downloads:
-updated at:
+downloads: 107
+updated at: "2026-08-02T02:17:56Z"
 related to:
   - "[[GitHub - 1311577307]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/thenights20/obsidian-bible-reference-index"
     description: "Creates a lightweight index of Bible references and related notes. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Index biblical references stored in note properties with a lightweight, responsive menu of all 66 books in biblical order. Search by reference, sermon name or subfolder, jump to related notes via internal links, and get automatic updates, per-device book selection and progressive rendering for large vaults."
+
+    stats: {
+        downloads:  107
+        updated_at: 1785637076000
+    }
 }
 ```
 

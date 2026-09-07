@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/arcadia-toolbar
 alt:
   - https://github.com/arcadia-studio/obsidian-arcadia-toolbar
-downloads: 180
+downloads: 222
 updated at: "2026-06-10T19:47:36Z"
 related to:
   - "[[GitHub - 1193974098]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a Word-style tabbed ribbon to Obsidian with 10 tabs (Home, Insert, Format, Tables, Links, Media, Canvas, View, Tools, More) for quick access to formatting, insert and table tools. Pin a OneNote-style Table of Contents sidebar that updates as you edit. Premium adds a Theology tab with scripture hover popups and commentary lookup, plus an AI prompt row (bring your own API key)."
 
     stats: {
-        downloads:  180
+        downloads:  222
         updated_at: 1781120856000
     }
 }

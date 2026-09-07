@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-note-template
 alt:
   - https://github.com/kdnk/obsidian-daily-note-template
-downloads: 119
+downloads: 140
 updated at: "2026-06-10T03:35:13Z"
 related to:
   - "[[GitHub - 1258283878]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Expand <% dnt... %> expressions inside existing daily notes, using Daily Notes settings to locate each note and the note path's date to evaluate expressions. Evaluate functions like today(), yesterday(), addDays/addWeeks/addMonths/addYears and format(...) immediately for visible notes without creating missing notes or applying full daily-note templates."
 
     stats: {
-        downloads:  119
+        downloads:  140
         updated_at: 1781062513000
     }
 }

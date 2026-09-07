@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/create-note-list
 alt:
   - https://github.com/andrewheekin/obsidian-create-note-list
-downloads: 1961
+downloads: 2087
 updated at: "2024-05-08T13:28:43Z"
 related to:
   - "[[GitHub - 782649888]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a bulleted list of notes from the current note's parent folder at the cursor position. List files, folder notes, or both; sort A–Z or Z–A and optionally include only notes whose titles start with YYYY-MM-DD for quick tables of contents."
 
     stats: {
-        downloads:  1961
+        downloads:  2087
         updated_at: 1715174923000
     }
 }

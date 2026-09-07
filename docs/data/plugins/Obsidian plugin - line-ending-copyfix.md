@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/line-ending-copyfix
 alt:
   - https://github.com/kiwijanus/obsidian-line-ending-copyfix
-downloads: 336
+downloads: 358
 updated at: "2025-10-14T10:16:04Z"
 related to:
   - "[[GitHub - 1018774014]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Unix-style LF (\\n) to Windows CRLF (\\r\\n) when copying text on Windows to preserve formatting in apps that expect CRLF. Apply conversion to manual selections, code-block copy buttons, current-line copies and pop-out windows without modifying your .md files."
 
     stats: {
-        downloads:  336
+        downloads:  358
         updated_at: 1760436964000
     }
 }

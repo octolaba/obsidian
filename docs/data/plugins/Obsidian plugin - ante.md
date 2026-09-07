@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ante
 alt:
   - https://github.com/antigmalabs/ante-obsidian
-downloads: 154
+downloads: 163
 updated at: "2026-06-14T12:19:50Z"
 related to:
   - "[[GitHub - 1184793840]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Integrate a local Ante runtime into Obsidian to add note-aware editing, diff review, interactive sidebars, and chat-driven workflows. Use an editorial AI assistant that runs locally to review changes, suggest edits, and guide interactive note workflows."
 
     stats: {
-        downloads:  154
+        downloads:  163
         updated_at: 1781439590000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tab-rotator
 alt:
   - https://github.com/autohub7/obsidian-tab-rotator
-downloads: 3544
+downloads: 3553
 updated at: "2023-04-08T04:38:54Z"
 related to:
   - "[[GitHub - 615930743]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Rotate open tabs automatically to the left or right at a configurable interval. Start, stop, and reverse rotation, and apply it to a single split or all splits in the main window."
 
     stats: {
-        downloads:  3544
+        downloads:  3553
         updated_at: 1680928734000
     }
 }

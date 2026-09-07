@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/git-history-reviewer
 alt:
   - https://github.com/timdommett/Obsidian-Git-History-Reviewer
-downloads: 114
+downloads: 133
 updated at: "2026-06-21T11:22:57Z"
 related to:
   - "[[GitHub - 1275067276]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Walk through every commit in your vault's Git history and view dark-mode diffs with per-file collapse, line numbers, rename detection, and add/remove highlighting. Tick off changed files and approve commits with filters for All / Needs review / Approved, auto-advance, and bulk-approve by date. Store approval state outside tracked files to avoid infinite commit loops."
 
     stats: {
-        downloads:  114
+        downloads:  133
         updated_at: 1782040977000
     }
 }

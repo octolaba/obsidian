@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/spell-picker
 alt:
   - https://github.com/szynszyl320/spell-picker-obsidian
-downloads: 47
+downloads: 101
 updated at: "2026-07-12T08:13:45Z"
 related to:
   - "[[GitHub - 1290059922]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Filter and browse D&D 5e spells by name, level, or class to assemble character spell lists quickly. Use tag-based or separate input searches to narrow results and view all options in one place without jumping between tabs."
 
     stats: {
-        downloads:  47
+        downloads:  101
         updated_at: 1783844025000
     }
 }

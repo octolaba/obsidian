@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/epub-reader-highlighter
 alt:
   - https://github.com/okkio-31mon/epub-reader-highlighter
-downloads: 398
+downloads: 611
 updated at: "2026-07-07T04:52:09Z"
 related to:
   - "[[GitHub - 1277140416]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Read EPUB files directly inside Obsidian with scroll or paginated views and adjustable reading themes. Highlight text in multiple colors, attach notes to highlights, browse or jump to highlights in a panel, and export all highlights (page, text, note) to a Markdown note."
 
     stats: {
-        downloads:  398
+        downloads:  611
         updated_at: 1783399929000
     }
 }

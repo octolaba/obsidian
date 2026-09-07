@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tpsreport-sync
 alt:
   - https://github.com/augmentableai/tpsreport-obsidian-sync
-downloads: 74
+downloads: 83
 updated at: "2026-06-23T22:39:21Z"
 related to:
   - "[[GitHub - 1274941988]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect Obsidian to TPSReport and publish or sync local Markdown folders, nested notes, frontmatter metadata and images. Pull report updates into your vault, preserve node_id for ID-first reconciliation, create conflict copies, and select destinations or enable RAG indexing."
 
     stats: {
-        downloads:  74
+        downloads:  83
         updated_at: 1782254361000
     }
 }

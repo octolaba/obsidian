@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/semantic-json
 alt:
   - https://github.com/syntaxasspiral/semantic-json
-downloads: 201
+downloads: 235
 updated at: "2026-01-22T13:39:28Z"
 related to:
   - "[[GitHub - 1128156425]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Compile Canvas layouts into deterministic, spec-compliant JSON that preserves position, containment, color taxonomy, and directionality. Auto-import/export with format detection, auto-compile on save, optional LLM semantic ID assignment, CLI for batch processing, and Git-friendly diffs for stable, legible JSON."
 
     stats: {
-        downloads:  201
+        downloads:  235
         updated_at: 1769089168000
     }
 }

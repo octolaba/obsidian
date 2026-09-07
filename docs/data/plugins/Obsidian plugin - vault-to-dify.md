@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-to-dify
 alt:
   - https://github.com/beatsad/Vault2Dify
-downloads: 165
+downloads: 232
 updated at: "2026-06-15T06:12:49Z"
 related to:
   - "[[GitHub - 1269140826]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync selected Obsidian Markdown notes to one or more Dify knowledge bases by mapping folders, individual files, or the entire vault. Support manual or automatic sync on create, modify, and rename events, point to any Dify service URL, keep separate records per KB and file path, and avoid deleting remote documents."
 
     stats: {
-        downloads:  165
+        downloads:  232
         updated_at: 1781503969000
     }
 }

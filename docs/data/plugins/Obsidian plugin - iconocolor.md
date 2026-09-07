@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/iconocolor
 alt:
   - https://github.com/gavinpicard/iconocolor
-downloads: 991
+downloads: 1145
 updated at: "2026-05-12T20:25:16Z"
 related to:
   - "[[GitHub - 1120786055]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Customize folder icons and colors in the file explorer using SVG/PNG/URL icons or Lucide icon search. Create palettes and auto-color root folders, apply HSL/lightness transformations, inherit and interpolate child colors with gradients, and save profiles and default icon rules for consistent theming."
 
     stats: {
-        downloads:  991
+        downloads:  1145
         updated_at: 1778617516000
     }
 }

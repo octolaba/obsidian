@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jira-ticket-data-fetcher
 alt:
   - https://github.com/ghostdrift/JiraTicketObsidianPlugin
-downloads: 80
+downloads: 90
 updated at: "2026-06-27T05:22:24Z"
 related to:
   - "[[GitHub - 1227386484]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fetch Jira issue fields into note frontmatter using the note basename as the issue key. Map Jira fields to frontmatter keys and build note aliases from mapped values using customizable templates. Insert the Jira issue URL into note content when needed."
 
     stats: {
-        downloads:  80
+        downloads:  90
         updated_at: 1782537744000
     }
 }

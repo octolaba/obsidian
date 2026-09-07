@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/investment-tracker
 alt:
   - https://github.com/joelam2023/investment-tracker
-downloads: 35
+downloads: 66
 updated at: "2026-07-15T10:31:54Z"
 related to:
   - "[[GitHub - 1298410203]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Investment Tracker is a private, local-first portfolio management tool for Obsidian. Record account-level contributions, withdrawals, and valuations; calculate XIRR, cumulative profit, yearly returns, and monthly Modified Dietz returns; and compare the same cash flows with the S&P 500 Price Index. Investment records are encrypted with AES-256-GCM and stored in your own vault. No developer backend, account, telemetry, analytics, ads, or automatic portfolio upload. Optional automatic benchmark mode requests only public market and exchange-rate series from FRED. User-created JSON and CSV exports are plaintext, and any sync is controlled by the vault sync service you choose. It does not connect to brokerages or track live holdings."
 
     stats: {
-        downloads:  35
+        downloads:  66
         updated_at: 1784111514000
     }
 }

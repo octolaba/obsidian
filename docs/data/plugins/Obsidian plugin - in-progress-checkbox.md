@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/in-progress-checkbox
 alt:
   - https://github.com/jyuukun/obsidian-in-progress-checkbox
-downloads: 124
+downloads: 144
 updated at: "2026-01-14T10:03:34Z"
 related to:
   - "[[GitHub - 1131584264]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add an \"in progress\" state ([/]) to task checkboxes in Obsidian. Use Shift+Click to mark in-progress, click unchecked or in-progress to mark complete, and click completed to uncheck; works in both Reading and Live Preview."
 
     stats: {
-        downloads:  124
+        downloads:  144
         updated_at: 1768385014000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/status-pilot
 alt:
   - https://github.com/tahayigitmelek/status-pilot
-downloads: 130
+downloads: 154
 updated at: "2026-06-30T17:54:34Z"
 related to:
   - "[[GitHub - 1280608097]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage note workflow metadata in YAML frontmatter and edit status, priority, and level from a central dashboard. Filter, sort, and update notes via table dropdowns, run quick commands from the Command Palette, or use an optional rendered-note panel to view and change metadata."
 
     stats: {
-        downloads:  130
+        downloads:  154
         updated_at: 1782842074000
     }
 }

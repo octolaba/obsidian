@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sillage
 alt:
   - https://github.com/j3f3h/sillage
-downloads: 129
+downloads: 161
 updated at: "2026-06-05T11:10:48Z"
 related to:
   - "[[GitHub - 1257628945]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run the Mistral Vibe CLI from Obsidian (desktop only) to add a streamed chat sidebar with stop/copy/insert controls, persistent resumable sessions, and per-turn cost/duration telemetry. Apply note commands—Summarize, Extract Tasks-format action items, Rewrite or Translate selections—and auto-register local skill files as commands."
 
     stats: {
-        downloads:  129
+        downloads:  161
         updated_at: 1780657848000
     }
 }

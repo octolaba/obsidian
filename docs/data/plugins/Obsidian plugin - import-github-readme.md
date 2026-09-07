@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/import-github-readme
 alt:
   - https://github.com/chasebank87/import-github-readme
-downloads: 1104
+downloads: 1128
 updated at: "2024-06-29T07:53:01Z"
 related to:
   - "[[GitHub - 820827070]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fetch a GitHub repository README and insert it into the current note. Convert embedded HTML to Markdown, remove unnecessary tags and empty lines, and convert relative image URLs to absolute links for correct rendering."
 
     stats: {
-        downloads:  1104
+        downloads:  1128
         updated_at: 1719647581000
     }
 }

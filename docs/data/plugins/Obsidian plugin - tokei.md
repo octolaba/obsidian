@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tokei
 alt:
   - https://github.com/ms3056/Tokei
-downloads: 5388
+downloads: 5416
 updated at: "2025-12-21T04:46:03Z"
 related to:
   - "[[GitHub - 656077991]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a movable clock panel with multiple timezones and live updates. Add zones by numeric UTC offsets or IANA IDs; IANA zones handle DST and the smart search matches partial names. Leave names blank to use selectable label styles and tweak appearance with provided CSS snippets."
 
     stats: {
-        downloads:  5388
+        downloads:  5416
         updated_at: 1766292363000
     }
 }

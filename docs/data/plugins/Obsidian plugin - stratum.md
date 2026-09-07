@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/stratum
 alt:
   - https://github.com/sprice/stratum-obsidian
-downloads: 587
+downloads: 849
 updated at: "2026-04-11T18:59:15Z"
 related to:
   - "[[GitHub - 1183838705]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create structured literature notes from your Zotero library in Obsidian with readable filenames and frontmatter. Sync annotations and color‑grouped highlights with deep Zotero links, import libraries or collections, preserve content below [!stratum], and auto-manage pandoc citations with OpenAlex metadata."
 
     stats: {
-        downloads:  587
+        downloads:  849
         updated_at: 1775933955000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tasks-cleaner
 alt:
   - https://github.com/lowitea/obsidian-tasks-cleaner
-downloads: 916
+downloads: 951
 updated at: "2025-05-04T12:38:49Z"
 related to:
   - "[[GitHub - 965623997]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Remove old completed tasks from your Markdown notes using a customizable regular expression that captures completion dates. Delete tasks older than a set number of days and remove indented description lines, with optional filename filtering and a confirmation modal summarizing removals."
 
     stats: {
-        downloads:  916
+        downloads:  951
         updated_at: 1746362329000
     }
 }

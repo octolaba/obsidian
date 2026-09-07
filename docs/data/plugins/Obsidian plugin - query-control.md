@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/query-control
 alt:
   - https://github.com/yuanzhixiang/obsidian-query-control
-downloads: 236
+downloads: 352
 updated at: "2026-07-03T23:44:20Z"
 related to:
   - "[[GitHub - 1194933114]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a control bar to embedded queries in Live Preview and Reading modes with actions to collapse, show context, sort, hide title or results, render Markdown, and copy results. Set default behavior in settings or override per query with an extended query syntax."
 
     stats: {
-        downloads:  236
+        downloads:  352
         updated_at: 1783122260000
     }
 }

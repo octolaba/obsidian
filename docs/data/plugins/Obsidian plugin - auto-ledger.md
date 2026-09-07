@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-ledger
 alt:
   - https://github.com/s945134636-spec/auto-ledger
-downloads: 54
+downloads: 83
 updated at: "2026-07-06T07:22:52Z"
 related to:
   - "[[GitHub - 1290722242]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn local Markdown transaction logs into an offline finance dashboard inside Obsidian. Append one Markdown line per transaction and review monthly income, expenses, recent records, category rankings, member distribution, and low-confidence items. Keep all data local with no network access or telemetry."
 
     stats: {
-        downloads:  54
+        downloads:  83
         updated_at: 1783322572000
     }
 }

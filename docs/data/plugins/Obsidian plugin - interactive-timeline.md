@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/interactive-timeline
 alt:
   - https://github.com/tulgardinc/obsidian-interactive-timeline
-downloads: 228
+downloads: 247
 updated at: "2026-02-18T18:51:36Z"
 related to:
   - "[[GitHub - 1153157033]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View notes on an infinite timeline canvas with smooth pan/zoom and dates from 20 billion BCE to 20 billion CE. Select, drag-and-drop, and resize cards across layers; color-code via frontmatter, undo/redo actions, and create multiple folder-scoped timelines."
 
     stats: {
-        downloads:  228
+        downloads:  247
         updated_at: 1771440696000
     }
 }

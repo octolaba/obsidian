@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-dice-roller
 alt:
   - https://github.com/yeeshue99/SimpleDiceRoller
-downloads: 6716
+downloads: 6756
 updated at: "2022-06-24T04:20:43Z"
 related to:
   - "[[GitHub - 499247707]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scan the active note for dice formulas like 1d10+2d6+4 and simulate randomized rolls or compute their averages. Display results and show an alert when no dice are found."
 
     stats: {
-        downloads:  6716
+        downloads:  6756
         updated_at: 1656044443000
     }
 }

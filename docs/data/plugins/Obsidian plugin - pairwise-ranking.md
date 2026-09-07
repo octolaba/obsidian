@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pairwise-ranking
 alt:
   - https://github.com/sxxgrc/obsidian-pairwise-ranking
-downloads: 83
+downloads: 88
 updated at: "2026-03-01T22:04:19Z"
 related to:
   - "[[GitHub - 1169837893]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert new items into a ranked note by answering pairwise comparisons that place each line in its correct position. Use an O(log n) binary insertion algorithm to compare the new item against existing lines, with interactive operation on both desktop and mobile."
 
     stats: {
-        downloads:  83
+        downloads:  88
         updated_at: 1772402659000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/format-with-prettier
 alt:
   - https://github.com/alexgavrusev/obsidian-format-with-prettier
-downloads: 6075
+downloads: 6171
 updated at: "2026-06-17T19:10:05Z"
 related to:
   - "[[GitHub - 737845109]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format files in your Obsidian vault with Prettier to keep Markdown and supported files consistently styled. Enable format-on-save or run the Format Current File command, and control formatting with a prettierrc.json placed at the vault root."
 
     stats: {
-        downloads:  6075
+        downloads:  6171
         updated_at: 1781723405000
     }
 }

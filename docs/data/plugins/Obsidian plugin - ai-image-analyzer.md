@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/ai-image-analyzer
 alt:
   - https://github.com/swaggeroo/obsidian-ai-image-analyzer
-downloads: 36996
-updated at: "2026-05-08T17:19:12Z"
+downloads: 39448
+updated at: "2026-07-25T18:59:29Z"
 related to:
   - "[[GitHub - 820120628]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Analyze images in Obsidian with your Ollama instance to extract keyword lists from JPG, JPEG, PNG and WEBP files. Cache and sync analysis results for faster lookups and integrate outcomes into OmniSearch for indexed searching."
 
     stats: {
-        downloads:  36996
-        updated_at: 1778260752000
+        downloads:  39448
+        updated_at: 1785005969000
     }
 }
 ```

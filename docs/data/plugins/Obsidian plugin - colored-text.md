@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/colored-text
 alt:
   - https://github.com/erincayaz/obsidian-colored-text
-downloads: 265276
+downloads: 269945
 updated at: "2025-10-05T10:36:37Z"
 related to:
   - "[[GitHub - 631996171]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add colored text to notes using reusable color slots displayed in the status bar. Switch slots, pick from favorites or a palette, and apply, remove, or highlight selected text with hotkeys or right-click."
 
     stats: {
-        downloads:  265276
+        downloads:  269945
         updated_at: 1759660597000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/cloudatlas-o-am
 alt:
   - https://github.com/open-horizon-labs/obsidian-am
-downloads: 2677
-updated at: "2024-04-09T01:53:56Z"
+downloads: 2756
+updated at: "2026-07-26T22:49:16Z"
 related to:
   - "[[GitHub - 733988442]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync Amazing Marvin categories, projects, and tasks into Obsidian as matching folders, folder-notes, and markdown checklists with nested subtasks and parent wiki links. Create Amazing Marvin tasks from Obsidian using Marvin shorthand and open deep links back to Marvin. Import runs unidirectionally and replaces previously synced folders and notes on each sync."
 
     stats: {
-        downloads:  2677
-        updated_at: 1712627636000
+        downloads:  2756
+        updated_at: 1785106156000
     }
 }
 ```

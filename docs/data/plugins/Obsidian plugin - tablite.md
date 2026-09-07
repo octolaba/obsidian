@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/tablite
 alt:
   - https://github.com/laofahai/obsidian-tablite
-downloads: 1265
-updated at: "2026-06-30T10:03:53Z"
+downloads: 1952
+updated at: "2026-08-01T00:38:45Z"
 related to:
   - "[[GitHub - 1179403825]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Edit CSV/TSV files directly in your vault with an Excel-like table editor that supports inline cell editing, virtual scrolling for large files, and full undo/redo history. Sort and filter by column, auto-detect delimiters, encodings and header rows, search across all cells, and manage columns (hide, reorder, freeze, resize) with Excel-compatible export."
 
     stats: {
-        downloads:  1265
-        updated_at: 1782813833000
+        downloads:  1952
+        updated_at: 1785544725000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/silicon
 alt:
   - https://github.com/deepfates/silicon
-downloads: 5215
+downloads: 5236
 updated at: "2023-05-23T22:21:22Z"
 related to:
   - "[[GitHub - 580147701]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect notes using OpenAI text embeddings and show semantically related notes in a right-hand panel. Provide an OpenAI API key to generate embeddings and surface relevant content across your vault."
 
     stats: {
-        downloads:  5215
+        downloads:  5236
         updated_at: 1684880482000
     }
 }

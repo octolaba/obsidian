@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/base-view-switcher
 alt:
   - https://github.com/hornatx/base-view-switcher
-downloads: 229
+downloads: 266
 updated at: "2026-05-27T11:58:34Z"
 related to:
   - "[[GitHub - 1246662195]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "添加根据 .base 文件 frontmatter 中命名视图生成的自定义视图切换按钮，支持仅图标或图标+名称两种显示模式。隐藏工具栏不需元素、添加始终显示的“主页”按钮，并为每个 .base 文件提供独立配置、图标选择与拖拽排序。"
 
     stats: {
-        downloads:  229
+        downloads:  266
         updated_at: 1779883114000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/reveal-folded
 alt:
   - https://github.com/d7sd6u/obsidian-reveal-folded
-downloads: 1435
+downloads: 1489
 updated at: "2025-05-28T21:59:09Z"
 related to:
   - "[[GitHub - 937938966]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reveal the current file in the file explorer while collapsing all other tree items. Enable auto-reveal on desktop to refocus the active file as you move around your vault."
 
     stats: {
-        downloads:  1435
+        downloads:  1489
         updated_at: 1748469549000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wallet-blockies
 alt:
   - https://github.com/geeknees/obsidian-blockie
-downloads: 74
+downloads: 79
 updated at: "2026-04-26T16:21:56Z"
 related to:
   - "[[GitHub - 1221738573]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display deterministic inline blockie identicons beside Ethereum-style wallet addresses in notes. Detect addresses matching 0x plus 40 hexadecimal characters in Live Preview and Reading mode, and append a blockie while keeping the original address text readable and copyable."
 
     stats: {
-        downloads:  74
+        downloads:  79
         updated_at: 1777220516000
     }
 }

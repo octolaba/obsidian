@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bring-to-front
 alt:
   - https://github.com/rockbenben/bring-obsidian-to-front
-downloads: 152
+downloads: 189
 updated at: "2026-07-22T14:34:21Z"
 related to:
   - "[[GitHub - 1061102979]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bring Obsidian to the foreground automatically when a modal or notice appears while the app is in the background. Filter triggers by keywords or DOM scope and set a cooldown to avoid repeated focus events; works on Windows, macOS, and Linux."
 
     stats: {
-        downloads:  152
+        downloads:  189
         updated_at: 1784730861000
     }
 }

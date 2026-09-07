@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/parallel-reader
 alt:
   - https://github.com/fancive/obsidian-parallel-reader
-downloads: 291
-updated at: "2026-06-16T02:09:32Z"
+downloads: 332
+updated at: "2026-08-01T03:14:29Z"
 related to:
   - "[[GitHub - 1221282584]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Read in a split view with your original note on the left and AI-generated summary cards on the right, synced to your scroll and highlighted as you navigate. Generate adaptive, topic-aware summaries with streaming output from 20+ LLM providers, keep cached, richly rendered cards you can edit, export, or jump back to the source."
 
     stats: {
-        downloads:  291
-        updated_at: 1781575772000
+        downloads:  332
+        updated_at: 1785554069000
     }
 }
 ```

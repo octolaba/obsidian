@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/pivi
 alt:
   - https://github.com/shuuul/obsidian-pivi
-downloads: 247
-updated at: "2026-07-23T16:32:27Z"
+downloads: 418
+updated at: "2026-08-10T09:53:49Z"
 related to:
   - "[[GitHub - 1247570734]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Embed a Pi AI agent into your vault for sidebar multi-tab chat with streaming responses and file-aware context. Edit inline with selection-aware rewrites, use Obsidian-native read/write/search tools that understand wikilinks and frontmatter, manage vault-local skills and sessions, and require confirmation for writes."
 
     stats: {
-        downloads:  247
-        updated_at: 1784824347000
+        downloads:  418
+        updated_at: 1786355629000
     }
 }
 ```

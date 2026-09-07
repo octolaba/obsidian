@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/colorful-folders
 alt:
   - https://github.com/rohitnahar-offical/colorful-folders-obsidian
-downloads: 4921
-updated at: "2026-07-15T08:27:37Z"
+downloads: 6610
+updated at: "2026-08-10T13:40:58Z"
 related to:
   - "[[GitHub - 1194498369]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Colorize the sidebar with hierarchical folder palettes, smart icons, tags, your Graph View and glowing connector lines for clear visual wayfinding and themed looks. Hide files or folders with a one-click privacy dashboard and Ghost Mode, and add rich Markdown divider popovers plus precise icon positioning for tidy navigation."
 
     stats: {
-        downloads:  4921
-        updated_at: 1784104057000
+        downloads:  6610
+        updated_at: 1786369258000
     }
 }
 ```

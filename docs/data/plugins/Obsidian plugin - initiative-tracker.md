@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/initiative-tracker
 alt:
   - https://github.com/obsidian-ttrpg-community/initiative-tracker
-downloads: 155588
+downloads: 157288
 updated at: "2026-04-12T22:27:18Z"
 related to:
   - "[[GitHub - 379353867]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track initiative and turn order for tabletop RPG combat. Add creatures or NPCs by name, dice roll, or bestiary entry; manage HP, AC and status, group duplicates, calculate XP, sort by initiative, and run multiple encounters in a single code block."
 
     stats: {
-        downloads:  155588
+        downloads:  157288
         updated_at: 1776032838000
     }
 }

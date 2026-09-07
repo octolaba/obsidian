@@ -19,7 +19,7 @@ decision people skip — whether to build at all.
 ## How to use these guides
 
 Each guide gives a decision rule, then the evidence behind it. Availability is stated for every API
-as `@since <app version>` plus its tier at this pin: **stable** at or below 1.12.7, or
+as `@since <app version>` plus its tier at this pin: **stable** at or below 1.13.7, or
 **insider-only** above it. That distinction is not decoration — a plugin whose `minAppVersion` is at
 or below the stable release cannot use an insider-only API at all.
 
@@ -238,7 +238,7 @@ Run this list before writing code. Every item is cheaper now than after release.
 
 ## Version-gate summary
 
-Every gate a chooser above depends on, in one place. Tier is measured against stable 1.12.7 at this
+Every gate a chooser above depends on, in one place. Tier is measured against stable 1.13.7 at this
 pin (rel: desktop-releases.json:3).
 
 | Capability | `@since` | Tier at pin |
@@ -251,15 +251,17 @@ pin (rel: desktop-releases.json:3).
 | `registerBasesView` | 1.10.0 (api: obsidian.d.ts:5007) | stable |
 | `SecretStorage` | 1.11.4 (api: obsidian.d.ts:5633) | stable |
 | `registerCliHandler` | 1.12.2 (api: obsidian.d.ts:5046) | stable |
-| Declarative settings (`getSettingDefinitions`) | 1.13.0 (api: obsidian.d.ts:5157) | **insider-only** (docs: en/Plugins/User interface/Settings.md:8) |
-| `Plugin.settings` field | 1.13.0 (api: obsidian.d.ts:4917) | **insider-only** |
+| Declarative settings (`getSettingDefinitions`) | 1.13.0 (api: obsidian.d.ts:5157) | stable |
+| `Plugin.settings` field | 1.13.0 (api: obsidian.d.ts:4917) | stable |
 
-For anything insider-only, the default recommendation is the pre-1.13 imperative path, or the
-documented dual-support pattern that keeps `display()` alongside `getSettingDefinitions()` **Contract**
-(docs: en/Plugins/Guides/Migrate to declarative settings.md:98-100). Choosing the 1.13-only path
-means bumping `minAppVersion` to `1.13.0` **Contract**
-(docs: en/Plugins/Guides/Migrate to declarative settings.md:110) and shutting out every user on the
-stable channel at this pin.
+Nothing in this table is insider-only at this pin. The pinned docs still call the 1.13.0 settings API
+"currently in an insider build" (docs: en/Plugins/User interface/Settings.md:8) — **Inference:** that
+sentence describes an earlier moment than the mirror does, so tier from the mirror. What a 1.13 API
+still costs is the floor: taking the 1.13-only path means bumping `minAppVersion` to `1.13.0` **Contract**
+(docs: en/Plugins/Guides/Migrate to declarative settings.md:110) and shutting out everyone below it.
+The documented dual-support pattern keeps `display()` alongside `getSettingDefinitions()` when that
+floor is unacceptable **Contract**
+(docs: en/Plugins/Guides/Migrate to declarative settings.md:98-100).
 
 ## Known gaps
 

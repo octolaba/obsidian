@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/agentage-memory
 alt:
   - https://github.com/agentage/obsidian-sync
-downloads: 322
-updated at: "2026-06-21T12:08:12Z"
+downloads: 476
+updated at: "2026-08-03T07:34:54Z"
 related to:
   - "[[GitHub - 1249594461]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Keep writing in Obsidian, and let the AI tools you already use pick up where you left off. Ask Claude, ChatGPT, or Cursor about any note in your vault without pasting it in first. Agentage Sync keeps your vault in two-way sync with a hosted memory, so any MCP client can read and write your notes. Your notes stay plain Markdown you own and can export anytime. Sync runs over Git, a status indicator shows the current state, and concurrent edits merge safely. A real conflict is flagged in a note, never dropped silently. You choose which memory your vault syncs to. Please note: - An account is required. Sign in once with OAuth; the token lives in Obsidian's encrypted storage, never in your notes. - This connects over the network to Agentage's hosted service (EU-based). - Desktop only for now. - Up to 100 MB of memory is included."
 
     stats: {
-        downloads:  322
-        updated_at: 1782043692000
+        downloads:  476
+        updated_at: 1785742494000
     }
 }
 ```

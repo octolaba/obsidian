@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markdown-columns
 alt:
   - https://github.com/peterczegledy/Obsidian-markdown-columns
-downloads: 73
+downloads: 133
 updated at: "2026-07-15T18:02:52Z"
 related to:
   - "[[GitHub - 1301054195]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create responsive multi-column layouts directly in Markdown using a columns block. Render unlimited columns with full Markdown support — including code blocks, callouts, tables, lists, images, and links — without writing HTML."
 
     stats: {
-        downloads:  73
+        downloads:  133
         updated_at: 1784138572000
     }
 }

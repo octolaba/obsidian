@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-task-progress-bar
 alt:
   - https://github.com/taskgenius/taskgenius-plugin
-downloads: 148529
+downloads: 155338
 updated at: "2025-12-11T02:28:23Z"
 related to:
   - "[[GitHub - 500712238]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform Obsidian into a task manager with list, kanban, calendar and Gantt views. Manage recurring tasks, multi-stage workflows, habits and priorities with quick capture, advanced filters and saved queries. Track progress and unlock achievements with gamified milestones."
 
     stats: {
-        downloads:  148529
+        downloads:  155338
         updated_at: 1765420103000
     }
 }

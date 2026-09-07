@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/testing-vault
 alt:
   - https://github.com/pedersen/obsidian-testing-vault
-downloads: 4072
+downloads: 4100
 updated at: "2023-03-28T14:40:50Z"
 related to:
   - "[[GitHub - 588233303]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate randomized test content and entire test vaults filled with Lorem Ipsum notes to exercise plugins, renderers, or analytics. Create single notes or batches of interconnected notes (up to 10,000), or wipe the entire vault instantly — deletion is immediate and destructive, so do not run in a vault you care about."
 
     stats: {
-        downloads:  4072
+        downloads:  4100
         updated_at: 1680014450000
     }
 }

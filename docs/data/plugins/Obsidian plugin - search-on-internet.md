@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/search-on-internet
 alt:
   - https://github.com/hemile/obsidian-search-on-internet
-downloads: 30342
+downloads: 30676
 updated at: "2021-06-23T16:35:28Z"
 related to:
   - "[[GitHub - 330366210]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search selected text on external websites like Google or Wikipedia inside Obsidian using an iframe, or open results in your default browser. Add custom sites and trigger searches from selections, note titles, or links via context menus (right-click may be broken in recent Obsidian releases)."
 
     stats: {
-        downloads:  30342
+        downloads:  30676
         updated_at: 1624466128000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ara
 alt:
   - https://github.com/aaa-mvc/ara
-downloads: 141
+downloads: 233
 updated at: "2026-06-20T01:07:51Z"
 related to:
   - "[[GitHub - 1274132827]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Rename the active file inline by clicking it again in the file explorer, matching Windows File Explorer behavior. Prevent accidental renames with a smart cooldown that ignores quick double-clicks."
 
     stats: {
-        downloads:  141
+        downloads:  233
         updated_at: 1781917671000
     }
 }

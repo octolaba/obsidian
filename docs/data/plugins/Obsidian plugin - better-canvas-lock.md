@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-canvas-lock
 alt:
   - https://github.com/mara-li/obsidian-better-canvas-lock
-downloads: 5707
+downloads: 5769
 updated at: "2024-05-26T09:13:41Z"
 related to:
   - "[[GitHub - 685387433]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Lock the canvas view to prevent accidental zooming, drag-and-drop, and scrolling. Patch the canvas lock to apply automatically when switching canvases and temporarily re-enable dragging/scrolling while a canvas card is focused."
 
     stats: {
-        downloads:  5707
+        downloads:  5769
         updated_at: 1716714821000
     }
 }

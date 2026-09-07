@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/workflowy-style-outline
 alt:
   - https://github.com/springrain1/workflowy-style-outline
-downloads: 234
-updated at: "2026-06-09T06:07:49Z"
+downloads: 323
+updated at: "2026-08-10T05:05:16Z"
 related to:
   - "[[GitHub - 1243657882]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Transform Markdown notes into a Workflowy-style outline editor with block-level editing, drag-and-drop reordering, collapse/expand, zoom focus, multi-selection, and real-time search. Preserve native Obsidian Markdown with a zero-interference architecture and a reliable save queue for real-time sync, atomic undo/redo, and mobile support."
 
     stats: {
-        downloads:  234
-        updated_at: 1780985269000
+        downloads:  323
+        updated_at: 1786338316000
     }
 }
 ```

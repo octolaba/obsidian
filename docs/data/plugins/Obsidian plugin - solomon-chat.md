@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/solomon-chat
 alt:
   - https://github.com/westb-dev/Solomon-Chat
-downloads: 20
+downloads: 36
 updated at: "2026-07-19T16:30:54Z"
 related to:
   - "[[GitHub - 1298770431]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn any Obsidian note into a private text conversation with a wiser version of yourself for self-distanced journaling. Write back-and-forth like a chat with an older self, mentor, or chosen persona to clarify thinking, surface honest insights, and keep an ongoing record."
 
     stats: {
-        downloads:  20
+        downloads:  36
         updated_at: 1784478654000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pia-viewer
 alt:
   - https://github.com/dldisud/obsidian-pia-viewer
-downloads: 846
+downloads: 859
 updated at: "2024-07-28T22:46:07Z"
 related to:
   - "[[GitHub - 825897242]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Apply Munpia and Novelpia novel typesetting templates to notes for accurate web-novel layout and comfortable reading in Obsidian. Request additional platform styles to add more formatting presets."
 
     stats: {
-        downloads:  846
+        downloads:  859
         updated_at: 1722206767000
     }
 }

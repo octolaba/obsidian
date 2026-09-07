@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/em-dash-replace
 alt:
   - https://github.com/jefrry/obsidian-em-dash-replace
-downloads: 304
+downloads: 360
 updated at: "2026-01-22T13:48:05Z"
 related to:
   - "[[GitHub - 1139056666]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Replace consecutive double dashes (--) with an em dash (—) automatically as you type. Preserve code formatting by skipping replacements inside code blocks and inline code, and run on desktop and mobile."
 
     stats: {
-        downloads:  304
+        downloads:  360
         updated_at: 1769089685000
     }
 }

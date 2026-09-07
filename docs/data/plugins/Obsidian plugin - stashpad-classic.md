@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/stashpad-classic
 alt:
   - https://github.com/grub-basket/SP-Classic
-downloads: 72
-updated at: "2026-07-14T04:37:59Z"
+downloads: 116
+updated at: "2026-08-03T06:45:16Z"
 related to:
   - "[[GitHub - 1283792236]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "This version is a fork of the latest plugin, Stashpad, so that everyone who isn't on the Insider builds can use it. Capture notes in a chat-style composer that stacks entries and supports split-on-newlines. Organize content as an outliner with arbitrarily deep nesting and drill in/out to focus on subtrees. Export notes to Open Knowledge Format (OKF) for LLMs and agents. This version is supposed to work on the latest stable version of Obsidian and doesn't have the same encryption features for simplicity."
 
     stats: {
-        downloads:  72
-        updated_at: 1784003879000
+        downloads:  116
+        updated_at: 1785739516000
     }
 }
 ```

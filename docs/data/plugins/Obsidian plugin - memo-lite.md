@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/memo-lite
 alt:
   - https://github.com/artemislin/memo-lite
-downloads: 22
+downloads: 39
 updated at: "2026-07-15T11:13:18Z"
 related to:
   - "[[GitHub - 1243576708]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture fleeting notes quickly and organize them with tags, instant search, pins, and in-place editing. Save memos as plain Markdown files in your vault, review habits with a GitHub-style activity heatmap, export memos as styled PNG cards, or create standalone note files using File Flow. UI currently Chinese-only."
 
     stats: {
-        downloads:  22
+        downloads:  39
         updated_at: 1784113998000
     }
 }

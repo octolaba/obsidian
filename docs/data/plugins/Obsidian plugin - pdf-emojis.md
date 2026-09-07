@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pdf-emojis
 alt:
   - https://github.com/mmarusiak/pdf-emojis-plugin
-downloads: 1206
+downloads: 1236
 updated at: "2026-05-18T19:26:45Z"
 related to:
   - "[[GitHub - 931019287]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export notes as PDFs while preserving emojis in headings, bold text, and inline content. Maintain emoji appearance across exports so visual cues and emphasis remain intact in the generated PDFs."
 
     stats: {
-        downloads:  1206
+        downloads:  1236
         updated_at: 1779132405000
     }
 }

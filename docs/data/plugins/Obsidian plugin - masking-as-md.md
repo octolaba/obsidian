@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/masking-as-md
 alt:
   - https://github.com/ahseyg/Masking-as-MD
-downloads: 482
+downloads: 712
 updated at: "2026-06-22T09:22:56Z"
 related to:
   - "[[GitHub - 1275976104]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open, view, and edit non‑Markdown files (py, js, html, css, json, txt and more) directly in your vault without converting them to Markdown. Use a CodeMirror 6 editor with syntax highlighting, optional line numbers, word wrap and adjustable font size; changes save only when you explicitly save."
 
     stats: {
-        downloads:  482
+        downloads:  712
         updated_at: 1782120176000
     }
 }

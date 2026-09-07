@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/letterboxd-rss-sync
 alt:
   - https://github.com/fleker/letterboxd-for-obsidian
-downloads: 1880
+downloads: 2123
 updated at: "2026-06-01T23:22:41Z"
 related to:
   - "[[GitHub - 782314178]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Letterboxd diary into Obsidian via public RSS feeds, importing recent entries into a single Markdown file as a bulleted list with date-specific backlinks. Merge new diary entries going forward; each fetch pulls up to the last 50 items."
 
     stats: {
-        downloads:  1880
+        downloads:  2123
         updated_at: 1780356161000
     }
 }

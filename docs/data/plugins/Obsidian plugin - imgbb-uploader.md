@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/imgbb-uploader
 alt:
   - https://github.com/jordanhandy/obsidian-imgbb-uploader
-downloads: 470
+downloads: 497
 updated at: "2024-09-08T13:31:02Z"
 related to:
   - "[[GitHub - 819649194]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload images pasted or dragged into Obsidian directly to your ImgBB account to keep them out of your vault. Store your ImgBB API key encrypted and enable auto-upload on paste/drag-drop with optional timed deletion of hosted images."
 
     stats: {
-        downloads:  470
+        downloads:  497
         updated_at: 1725802262000
     }
 }

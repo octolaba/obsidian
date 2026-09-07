@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/multiplatform-highlights-import
 alt:
   - https://github.com/wwwkieran/obsidian-multiplatform-highlights-import
-downloads: 445
+downloads: 456
 updated at: "2024-06-24T22:58:08Z"
 related to:
   - "[[GitHub - 807237480]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import highlights and annotations from Kobo and Apple Books into Obsidian. Reconcile books by ISBN or title and consolidate all highlights into a single standardized note per book across platforms."
 
     stats: {
-        downloads:  445
+        downloads:  456
         updated_at: 1719269888000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tag-index
 alt:
   - https://github.com/wenlzhang/obsidian-tag-index
-downloads: 4235
+downloads: 4288
 updated at: "2025-10-03T22:01:01Z"
 related to:
   - "[[GitHub - 952971564]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a curated index of your most important tags separate from the default tag pane. Display nested tags in a tree, reorder via drag-and-drop, sort tags and notes independently, and click any tag to view notes and the exact lines where tags appear with jump and hover preview."
 
     stats: {
-        downloads:  4235
+        downloads:  4288
         updated_at: 1759528861000
     }
 }

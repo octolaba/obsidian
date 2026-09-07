@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/commando-command-repeater
 alt:
   - https://github.com/qaptor/Commando
-downloads: 3617
+downloads: 3628
 updated at: "2023-02-22T05:58:49Z"
 related to:
   - "[[GitHub - 604920503]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Repeat any command from a dedicated Commando Palette and have it iterate a specified number of times from a single invocation. Use a Vim numeric prefix or explicit count and set default or per-invocation delays to control pacing. Test commands first before running bulk iterations."
 
     stats: {
-        downloads:  3617
+        downloads:  3628
         updated_at: 1677045529000
     }
 }

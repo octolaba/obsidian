@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-day-nav
 alt:
   - https://github.com/antoineart/obsidian-daily-day-nav
-downloads: 116
+downloads: 127
 updated at: "2026-06-04T06:35:08Z"
 related to:
   - "[[GitHub - 1251085426]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Navigate to the previous or next calendar daily note and auto-create it from your Daily notes template if missing. Jump by calendar day across empty days to move through your journal without manual note creation."
 
     stats: {
-        downloads:  116
+        downloads:  127
         updated_at: 1780554908000
     }
 }

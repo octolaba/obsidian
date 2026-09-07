@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/multistate-checkboxes
 alt:
   - https://github.com/evgene-kopylov/obsidian-multistate-checkboxes
-downloads: 43
-updated at: "2026-07-15T09:45:00Z"
+downloads: 107
+updated at: "2026-08-07T00:14:48Z"
 related to:
   - "[[GitHub - 1301064919]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add 20 theme-independent checkbox states with embedded SVG icons and CSS-variable colors that adapt to any theme. Cycle states in order from Reading view or Live Preview with a command, and customize which states, icons, and colors appear."
 
     stats: {
-        downloads:  43
-        updated_at: 1784108700000
+        downloads:  107
+        updated_at: 1786061688000
     }
 }
 ```

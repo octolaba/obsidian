@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/outlook-teams-calendar
 alt:
   - https://github.com/nabheetcloud/Obsidian-Outlook-Mail-Chats-Calendar-Plugin
-downloads: 253
+downloads: 480
 updated at: "2026-07-04T02:58:08Z"
 related to:
   - "[[GitHub - 1288715909]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Microsoft 365 mail, calendar and Teams into your Obsidian vault via one Azure app with incremental, read-only PKCE auth. Create a Markdown note per email, event or conversation with metadata; keep thread/conversation indexes and show upcoming meetings in a sidebar. Run on desktop only."
 
     stats: {
-        downloads:  253
+        downloads:  480
         updated_at: 1783133888000
     }
 }

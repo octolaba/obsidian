@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/advanced-note-composer
 alt:
   - https://github.com/mnaoumov/obsidian-advanced-note-composer
-downloads: 7855
-updated at: "2026-07-21T22:15:11Z"
+downloads: 8852
+updated at: "2026-08-10T16:28:35Z"
 related to:
   - "[[GitHub - 951022118]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Fix relative links when merging or extracting notes so links are adjusted and remain valid. Replace or remove invalid filename characters and optionally add the original invalid title to aliases in frontmatter for quick access. Treat titles containing '/' as nested paths when splitting headings into files."
 
     stats: {
-        downloads:  7855
-        updated_at: 1784672111000
+        downloads:  8852
+        updated_at: 1786379315000
     }
 }
 ```

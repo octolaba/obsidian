@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/square
 alt:
   - https://github.com/jiaoyingxing/square
-downloads: 388
+downloads: 510
 updated at: "2026-07-23T17:54:03Z"
 related to:
   - "[[GitHub - 1238876540]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track daily habits with a grid of tappable squares that write entries straight to corresponding Markdown notes in your vault. Record counts, text, dates and attachments, review progress in week/month/ranking views, and keep all records local without reminders, points or social features."
 
     stats: {
-        downloads:  388
+        downloads:  510
         updated_at: 1784829243000
     }
 }

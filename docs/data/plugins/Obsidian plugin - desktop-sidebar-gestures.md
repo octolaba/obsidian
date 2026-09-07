@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/desktop-sidebar-gestures
 alt:
   - https://github.com/nth-chile/obsidian-desktop-sidebar-gestures
-downloads: 92
+downloads: 105
 updated at: "2026-05-26T19:06:54Z"
 related to:
   - "[[GitHub - 1249262949]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add horizontal desktop swipe gestures to toggle Obsidian sidebars. Swipe right to close the right sidebar or, if closed and the left has content, open the left; swipe left to close the left or open the right, and empty/unavailable sidebars won't open."
 
     stats: {
-        downloads:  92
+        downloads:  105
         updated_at: 1779822414000
     }
 }

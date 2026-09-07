@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/diff-patch-viewer
 alt:
   - https://github.com/viggomeesters/obsidian-diff-patch-viewer
-downloads: 79
+downloads: 96
 updated at: "2026-06-14T08:12:57Z"
 related to:
   - "[[GitHub - 1267740814]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View .diff and .patch files in a read-only Obsidian pane with highlights for additions and deletions. Show file lists, per-file stats and hunk headers; fall back to raw read-only text when no unified diff hunk is detected."
 
     stats: {
-        downloads:  79
+        downloads:  96
         updated_at: 1781424777000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/review-builder
 alt:
   - https://github.com/mlevison/obsidian-review-builder
-downloads: 624
+downloads: 680
 updated at: "2026-05-15T16:58:48Z"
 related to:
   - "[[GitHub - 1066668986]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Consolidate daily and weekly notes into single review files (quarterly_days.md and quarterly_weeks.md) to view a complete period overview and spot patterns. Build weekly or quarterly reviews that compile relevant notes (weekly includes the prior week's review) and only modify files the plugin creates in a temp folder."
 
     stats: {
-        downloads:  624
+        downloads:  680
         updated_at: 1778864328000
     }
 }

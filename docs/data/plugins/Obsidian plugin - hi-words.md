@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hi-words
 alt:
   - https://github.com/catmuse/HiWords
-downloads: 11501
+downloads: 12182
 updated at: "2026-06-07T15:52:32Z"
 related to:
   - "[[GitHub - 1026959839]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage vocabulary books on Canvas and arrange draggable vocabulary cards with colored nodes to track difficulty and mastery. Highlight learning words across notes and PDFs; view instant Markdown-formatted definitions on hover, mark words as mastered, hear pronunciation, and get AI-assisted explanations. Sync highlights automatically."
 
     stats: {
-        downloads:  11501
+        downloads:  12182
         updated_at: 1780847552000
     }
 }

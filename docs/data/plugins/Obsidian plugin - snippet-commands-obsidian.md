@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/snippet-commands-obsidian
 alt:
   - https://github.com/deathau/snippet-commands-obsidian
-downloads: 8064
+downloads: 8120
 updated at: "2021-10-12T06:45:18Z"
 related to:
   - "[[GitHub - 414393579]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Expose all CSS snippets as commands in the command palette and assign hotkeys to toggle them. Reload updated snippets on demand with a dedicated \"Reload all snippet commands\" action."
 
     stats: {
-        downloads:  8064
+        downloads:  8120
         updated_at: 1634021118000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-decay
 alt:
   - https://github.com/newo-j/note-decay
-downloads: 89
+downloads: 105
 updated at: "2026-06-26T23:26:32Z"
 related to:
   - "[[GitHub - 1281408948]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Review notes with SM-2 spaced-repetition and grade with Again/Hard/Good/Easy to schedule the next review. Color-code the file explorer, folders, and graph by overdue status, seed existing notes from file dates, and write review metadata (last_reviewed, sr_due, sr_interval, sr_ease, sr_reps, sr_lapses) to frontmatter."
 
     stats: {
-        downloads:  89
+        downloads:  105
         updated_at: 1782516392000
     }
 }

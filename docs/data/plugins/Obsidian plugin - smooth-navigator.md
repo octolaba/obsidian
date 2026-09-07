@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smooth-navigator
 alt:
   - https://github.com/gasparschott/smooth-navigator
-downloads: 1170
+downloads: 1389
 updated at: "2026-05-31T21:17:52Z"
 related to:
   - "[[GitHub - 949673030]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Cycle through open tabs, leaves, and tab groups with wrap-around next/previous commands. Bind shortcuts to jump between workspace roots, sidebars, and splits, go to first/last or most-recent leaf, and navigate only among already-open files without searching."
 
     stats: {
-        downloads:  1170
+        downloads:  1389
         updated_at: 1780262272000
     }
 }

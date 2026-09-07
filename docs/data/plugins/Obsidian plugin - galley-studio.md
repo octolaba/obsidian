@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/galley-studio
 alt:
   - https://github.com/kinrochen/Galley-Studio
-downloads: 34
+downloads: 57
 updated at: "2026-07-17T08:58:45Z"
 related to:
   - "[[GitHub - 1302568124]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Markdown into editable, publish-ready HTML using OpenAI-compatible models or local Codex/Claude CLIs, applying built-in layout Skills and theme components for WeChat-style article formatting. Preview sandboxed HTML, edit visually or in source with syntax highlighting, track generation dialogs and history, and copy or export final HTML from Obsidian."
 
     stats: {
-        downloads:  34
+        downloads:  57
         updated_at: 1784278725000
     }
 }

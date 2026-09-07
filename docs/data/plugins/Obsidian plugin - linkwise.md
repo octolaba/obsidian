@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/linkwise
 alt:
   - https://github.com/linkwiseapp/obsidian-linkwise
-downloads: 21
+downloads: 33
 updated at: "2026-07-17T11:58:21Z"
 related to:
   - "[[GitHub - 1300160180]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync saved links, AI summaries, highlights, and collections from Linkwise into your vault as clean Markdown notes. Keep content up to date with a one-way, incremental, local-first sync that never overwrites your manual note."
 
     stats: {
-        downloads:  21
+        downloads:  33
         updated_at: 1784289501000
     }
 }

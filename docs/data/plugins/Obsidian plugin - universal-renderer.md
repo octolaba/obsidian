@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/universal-renderer
 alt:
   - https://github.com/dgudim/obsidian-universal-renderer
-downloads: 1098
+downloads: 1156
 updated at: "2024-04-16T18:57:37Z"
 related to:
   - "[[GitHub - 623837771]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render diagrams and generate dynamic SVGs directly in Obsidian using native system executables for faster, local rendering. Support Graphviz (dot), LaTeX, ditaa, blockdiag, AsciiDoc, PlantUML, Typst and special types like refgraph and dynamic-svg. Create fenced code blocks with the diagram language to embed diagrams inline."
 
     stats: {
-        downloads:  1098
+        downloads:  1156
         updated_at: 1713293857000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/orion
 alt:
   - https://github.com/thive-n/Orion
-downloads: 82
+downloads: 99
 updated at: "2026-07-02T11:40:50Z"
 related to:
   - "[[GitHub - 1268719717]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Provide proactive assistance across your vault by monitoring context and surfacing relevant notes, links, and suggested next steps. Highlight connections, surface actions, and keep your knowledge organized and up to date."
 
     stats: {
-        downloads:  82
+        downloads:  99
         updated_at: 1782992450000
     }
 }

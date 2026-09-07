@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/colorful-stickynotes
 alt:
   - https://github.com/pandanocturne/obsidian-colorful-stickynotes
-downloads: 589
+downloads: 702
 updated at: "2026-07-12T04:39:53Z"
 related to:
   - "[[GitHub - 1233693293]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create floating, color-coded sticky-note windows that mirror Markdown files and sit above the main editor. Assign colors via frontmatter, browse and filter notes in a grid with sorting and adjustable card sizes, save and restore window layouts, snap and group windows by drag, and resume sessions at startup."
 
     stats: {
-        downloads:  589
+        downloads:  702
         updated_at: 1783831193000
     }
 }

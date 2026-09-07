@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-checklist-reset
 alt:
   - https://github.com/lhansford/obsidian-checklist-reset
-downloads: 16388
+downloads: 16578
 updated at: "2026-02-27T06:18:31Z"
 related to:
   - "[[GitHub - 577991093]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reset all checklists in the current Markdown or Canvas file with commands to uncheck or check every item. Reset selected checklist items in editor mode and optionally strip matching text from checklist lines when resetting to remove item metadata."
 
     stats: {
-        downloads:  16388
+        downloads:  16578
         updated_at: 1772173111000
     }
 }

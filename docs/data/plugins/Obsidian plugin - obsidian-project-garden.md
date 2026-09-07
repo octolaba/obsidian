@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-project-garden
 alt:
   - https://github.com/bgoosman/obsidian-project-garden
-downloads: 7381
+downloads: 7419
 updated at: "2022-12-05T22:28:41Z"
 related to:
   - "[[GitHub - 573984950]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View all project notes as cards in a single dashboard and see each project's tasks at a glance. Add notes to a Projects folder and include tasks inside those notes to have tasks appear on the corresponding project cards."
 
     stats: {
-        downloads:  7381
+        downloads:  7419
         updated_at: 1670279321000
     }
 }

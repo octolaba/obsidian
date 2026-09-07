@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/christmas
 alt:
   - https://github.com/matse2005/Obsidian-Christmas
-downloads: 268
+downloads: 275
 updated at: "2025-11-27T21:54:55Z"
 related to:
   - "[[GitHub - 907807161]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show a live countdown of days until Christmas in Obsidian via a status-bar button and a command. Customize the target date and display style, and control when the status button appears before Christmas."
 
     stats: {
-        downloads:  268
+        downloads:  275
         updated_at: 1764280495000
     }
 }

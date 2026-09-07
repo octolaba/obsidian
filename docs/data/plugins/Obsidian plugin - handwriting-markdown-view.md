@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/handwriting-markdown-view
 alt:
   - https://github.com/decai335335-debug/handwriting-markdown-view
-downloads: 1
+downloads: 55
 updated at: "2026-07-24T05:33:50Z"
 related to:
   - "[[GitHub - 1310662477]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Annotate rendered Markdown with a vector handwriting layer that separates pen and touch, captures pressure/tilt and smooth strokes, and provides pen, highlighter, move and erase tools. Auto-save strokes per note as JSON with generated SVG preview and re-anchor ink to Markdown blocks when text changes."
 
     stats: {
-        downloads:  1
+        downloads:  55
         updated_at: 1784871230000
     }
 }

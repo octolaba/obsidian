@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/better-embedded-canvas
 alt:
   - https://github.com/kotaindah55/better-embedded-canvas
-downloads:
-updated at:
+downloads: 3133
+updated at: "2026-08-02T03:42:25Z"
 related to:
   - "[[GitHub - 1246432302]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/kotaindah55/better-embedded-canvas"
     description: "Give your embedded canvas better display and interactivity. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Display embedded canvases with the same canvas view styling and enable panning and zooming for full navigation. Adjust embedded canvas height inline in notes and view canvases in both preview and canvas modes; open the canvas file to edit its contents."
+
+    stats: {
+        downloads:  3133
+        updated_at: 1785642145000
+    }
 }
 ```
 

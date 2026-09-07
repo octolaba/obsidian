@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/local-audio-plus
 alt:
   - https://github.com/aohan237/obsidian-local-audio-plus
-downloads: 95
+downloads: 107
 updated at: "2026-06-16T09:12:13Z"
 related to:
   - "[[GitHub - 1239581397]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scan local audio links in your vault and insert transcripts directly into notes. Transcribe via OpenAI, Tencent Cloud, or iFlytek with optional speaker diarization and selectable models, sending the selected audio to your configured provider."
 
     stats: {
-        downloads:  95
+        downloads:  107
         updated_at: 1781601133000
     }
 }

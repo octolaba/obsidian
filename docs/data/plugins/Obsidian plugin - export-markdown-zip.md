@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/export-markdown-zip
 alt:
   - https://github.com/padane22-spec/obsidian-export-markdown-zip
-downloads: 282
+downloads: 345
 updated at: "2026-05-19T08:16:02Z"
 related to:
   - "[[GitHub - 1179413736]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export a Markdown note as a self-contained ZIP containing the note, its recursively linked Markdown files, and local attachments (images, PDFs, audio, etc.). Rewrite internal Obsidian links to standard relative Markdown paths and preserve vault-relative structure inside a top-level folder so everything works after extraction. Trigger exports from the command palette or the file context menu."
 
     stats: {
-        downloads:  282
+        downloads:  345
         updated_at: 1779178562000
     }
 }

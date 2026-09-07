@@ -30,7 +30,7 @@ Composed is a paper-like light theme with a LaTeX-inspired hierarchy and consist
 ```cue
 theme: {
     name:   "Composed"
-    author: "Zijie Wang"
+    author: "zjie-wang"
     repo:   "zjie-wang/obsidian-composed"
     slug:   "composed"
 

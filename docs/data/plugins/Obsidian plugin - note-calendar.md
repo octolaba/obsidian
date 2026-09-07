@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/note-calendar
 alt:
   - https://github.com/is-ming/obsidian-note-calendar
-downloads: 799
-updated at: "2026-07-15T02:05:35Z"
+downloads: 974
+updated at: "2026-08-07T02:06:11Z"
 related to:
   - "[[GitHub - 1168999094]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Display an interactive calendar showing Gregorian and lunar dates, holidays, workday adjustments, and solar terms with month and year views. Manage linked notes with new/update indicators and auto-refresh, and create daily, weekly, quarterly, or yearly date-based notes directly from the calendar."
 
     stats: {
-        downloads:  799
-        updated_at: 1784081135000
+        downloads:  974
+        updated_at: 1786068371000
     }
 }
 ```

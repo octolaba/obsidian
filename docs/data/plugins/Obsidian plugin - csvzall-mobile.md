@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/csvzall-mobile
 alt:
   - https://github.com/vincentlaucsb/obsidian-csvzall-mobile
-downloads: 51
+downloads: 70
 updated at: "2026-07-03T06:43:49Z"
 related to:
   - "[[GitHub - 1282439980]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "This is a mobile-friendly version of the csvzall desktop plugin. It allows editing and viewing using a fast WebAssembly version of the desktop CLI. Note: While desktop generated charts and Markdown tables are visible on mobile without any special plugins, the mobile-version only supports editing and viewing."
 
     stats: {
-        downloads:  51
+        downloads:  70
         updated_at: 1783061029000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/book-search-plus
 alt:
   - https://github.com/curtismchale/obsidian-book-search-plus
-downloads: 5328
-updated at: "2026-05-12T17:44:05Z"
+downloads: 6500
+updated at: "2026-08-11T04:46:56Z"
 related to:
   - "[[GitHub - 1213686413]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Search books by title, author, publisher, or ISBN using the Google Books API and create prefilled book notes in your vault. Display optional cover images in search results to identify books at a glance."
 
     stats: {
-        downloads:  5328
-        updated_at: 1778607845000
+        downloads:  6500
+        updated_at: 1786423616000
     }
 }
 ```

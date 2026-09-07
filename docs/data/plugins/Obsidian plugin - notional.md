@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notional
 alt:
   - https://github.com/bryanbans/Notional
-downloads: 330
+downloads: 535
 updated at: "2026-06-22T03:19:36Z"
 related to:
   - "[[GitHub - 1273869432]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "The missing bridge between Obsidian and Notion. Draft in Obsidian, then push polished, fully-formatted pages to Notion in one click — wiki-links become page mentions, nested structure is preserved, and conflict-aware Push/Pull never overwrites your work silently. One-click connect keeps your credentials on your device. Includes a dockable Sync panel with per-side change tracking, explicit conflict resolution, folder upload, and optional automatic sync."
 
     stats: {
-        downloads:  330
+        downloads:  535
         updated_at: 1782098376000
     }
 }

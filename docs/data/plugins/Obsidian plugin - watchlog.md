@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/watchlog
 alt:
   - https://github.com/shynkro/watchlog-obsidian-plugin
-downloads: 1040
-updated at: "2026-07-06T00:32:09Z"
+downloads: 1908
+updated at: "2026-08-11T11:14:43Z"
 related to:
   - "[[GitHub - 1221785410]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Track anime, movies, and TV shows in Obsidian with episode-level progress, watchlists, groups, pins, fuzzy search, and embeddable widgets. View per-type progress, time watched/remaining, suggestions, and schedule recurring release alerts with countdowns."
 
     stats: {
-        downloads:  1040
-        updated_at: 1783297929000
+        downloads:  1908
+        updated_at: 1786446883000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/yandex-tracker-issue
 alt:
   - https://github.com/cubieprog/Obsidian-Yandex-Tracker-Issue
-downloads: 205
+downloads: 213
 updated at: "2025-09-06T05:48:26Z"
 related to:
   - "[[GitHub - 1017214484]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display Yandex Tracker issues, boards, queues, sprints, users and projects inside Obsidian as tables or Gantt charts. Use code blocks and queries (yt-issue, yt-gantt, yt-issue-query, yt-gantt-query, yt-boards, yt-queues) to render live Tracker data in notes."
 
     stats: {
-        downloads:  205
+        downloads:  213
         updated_at: 1757137706000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lunar-calendar
 alt:
   - https://github.com/whg555/lunar-calendar
-downloads: 1804
+downloads: 1844
 updated at: "2024-05-19T11:08:38Z"
 related to:
   - "[[GitHub - 693451742]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show lunar (农历) dates in a clean monthly calendar view. Adapt to light and dark themes for consistent appearance."
 
     stats: {
-        downloads:  1804
+        downloads:  1844
         updated_at: 1716116918000
     }
 }

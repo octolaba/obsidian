@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/convert-base64-to-png
 alt:
   - https://github.com/nykkolin/obsidian-convert-base64-to-png
-downloads: 1371
+downloads: 1429
 updated at: "2025-04-30T11:55:47Z"
 related to:
   - "[[GitHub - 964435296]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert base64-encoded images in your notes into local PNG files to shrink markdown size and improve portability. Detect base64 images automatically and save decoded PNGs to a chosen folder while updating links in your notes. Process the current file or the entire vault and enable automatic conversion on paste."
 
     stats: {
-        downloads:  1371
+        downloads:  1429
         updated_at: 1746014147000
     }
 }

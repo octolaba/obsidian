@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tasknotes-project-colors
 alt:
   - https://github.com/minorchange/obsidian-tasknotes-project-colors
-downloads: 1296
+downloads: 1490
 updated at: "2026-03-04T20:36:48Z"
 related to:
   - "[[GitHub - 1163476686]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Color TaskNotes task cards by project with automatically assigned hues. Assign distinct background tints and colored left borders per project using a hash of the project name, with light/dark theme support across kanban, task list, and agenda views."
 
     stats: {
-        downloads:  1296
+        downloads:  1490
         updated_at: 1772656608000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/codex-session-archive
 alt:
   - https://github.com/nicklennonliu/obsidian-codex-session-archive
-downloads: 120
+downloads: 159
 updated at: "2026-06-30T12:45:06Z"
 related to:
   - "[[GitHub - 1283044169]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export local Codex JSONL session logs to Markdown notes in your vault, grouped by workdir/project and enriched with frontmatter (session id, project, cwd, source path, tags). Extract data:image;base64 images to a media/ folder and write image links that handle spaces; skip already-exported sessions unless overwritten. Desktop-only."
 
     stats: {
-        downloads:  120
+        downloads:  159
         updated_at: 1782823506000
     }
 }

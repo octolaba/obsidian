@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/budget-app
 alt:
   - https://github.com/ruanpienaarcode/budget-vault
-downloads: 42
-updated at: "2026-07-21T19:45:57Z"
+downloads: 524
+updated at: "2026-08-11T19:34:49Z"
 related to:
   - "[[GitHub - 1306989729]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage your personal budget inside your Obsidian vault with a dashboard, transaction browser, and category budgets, all stored as plain Markdown files (one file per account per month). Keep data local with zero network requests and sync via your own cloud so records stay private and portable."
 
     stats: {
-        downloads:  42
-        updated_at: 1784663157000
+        downloads:  524
+        updated_at: 1786476889000
     }
 }
 ```

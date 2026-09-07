@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/moving-note
 alt:
   - https://github.com/zhou-yusen/Moving-Note
-downloads: 128
+downloads: 163
 updated at: "2026-06-13T13:39:48Z"
 related to:
   - "[[GitHub - 1268268167]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Synchronize your Obsidian vault across desktop and Android using system Git on desktop and the GitHub API on mobile. Enable automatic commits and pushes on desktop, pull and push via API on Android without local Git, use one‑click or scheduled sync, and generate conflict hint files."
 
     stats: {
-        downloads:  128
+        downloads:  163
         updated_at: 1781357988000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/my-thesaurus
 alt:
   - https://github.com/mara-li/obsidian-my-thesaurus
-downloads: 822
+downloads: 857
 updated at: "2025-02-27T11:24:11Z"
 related to:
   - "[[GitHub - 904802136]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add tags automatically from a thesaurus stored as a CSV or Markdown table. Scan note title, body and properties for exact phrase matches (case-insensitive, no truncation; accent sensitivity configurable) and apply tags based on term–synonym mappings, supporting multiple synonyms and many-to-many associations."
 
     stats: {
-        downloads:  822
+        downloads:  857
         updated_at: 1740655451000
     }
 }

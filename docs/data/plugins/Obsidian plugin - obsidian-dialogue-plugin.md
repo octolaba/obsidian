@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-dialogue-plugin
 alt:
   - https://github.com/holubj/obsidian-dialogue-plugin
-downloads: 22672
+downloads: 22789
 updated at: "2022-05-21T10:34:49Z"
 related to:
   - "[[GitHub - 432433327]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create formatted left/right dialogues directly in Markdown by prefixing lines with < or > to place messages. Set participant names, control title rendering, and adjust message/comment widths with inline parameters to customize dialogue appearance."
 
     stats: {
-        downloads:  22672
+        downloads:  22789
         updated_at: 1653129289000
     }
 }

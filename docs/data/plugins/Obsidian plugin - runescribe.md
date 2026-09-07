@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/runescribe
 alt:
   - https://github.com/imhlq/obsidian-runescribe
-downloads: 103
+downloads: 113
 updated at: "2026-05-28T07:27:08Z"
 related to:
   - "[[GitHub - 1252093359]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Count English and CJK writing units for the current note, a folder, or the whole vault, with separate and combined totals. View word-frequency tables for English words and CJK terms, export frequency data as CSV, and open a sidebar dashboard for file, folder, or vault statistics."
 
     stats: {
-        downloads:  103
+        downloads:  113
         updated_at: 1779953228000
     }
 }

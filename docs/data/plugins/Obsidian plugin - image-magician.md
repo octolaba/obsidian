@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-magician
 alt:
   - https://github.com/luxmargos/obsidian-image-magician-plugin
-downloads: 4555
+downloads: 4593
 updated at: "2024-05-15T10:36:47Z"
 related to:
   - "[[GitHub - 738439074]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview and embed over 100 image formats, including PSD via a dedicated engine, directly inside Obsidian without external apps. Use Markdown and <img> links with smart path detection, and export or auto-export images to PNG, JPG, or WebP with optional resizing."
 
     stats: {
-        downloads:  4555
+        downloads:  4593
         updated_at: 1715769407000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/a-plugins
 alt:
   - https://github.com/jiaoyingxing/a-plugins
-downloads: 289
-updated at: "2026-07-21T15:21:28Z"
+downloads: 466
+updated at: "2026-07-28T15:26:06Z"
 related to:
   - "[[GitHub - 1227720948]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage community plugins' startup timing from a lightweight one‑page list. Delay nonessential plugins to cut Obsidian startup load and disable unused plugins. Record simple plugin load times to guide decisions and support both mobile and desktop."
 
     stats: {
-        downloads:  289
-        updated_at: 1784647288000
+        downloads:  466
+        updated_at: 1785252366000
     }
 }
 ```

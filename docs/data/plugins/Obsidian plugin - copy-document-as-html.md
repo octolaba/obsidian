@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-document-as-html
 alt:
   - https://github.com/mvdkwast/obsidian-copy-as-html
-downloads: 40021
+downloads: 40577
 updated at: "2024-06-30T15:06:46Z"
 related to:
   - "[[GitHub - 559329686]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy the current document or selection as HTML to the clipboard for pasting into HTML-aware apps like Gmail. Preserve images, PlantUML, Diagrams, Excalidraw, Mermaid and Dataview content and apply customizable styling; choose whether to embed external assets or convert SVGs to bitmaps for compatibility."
 
     stats: {
-        downloads:  40021
+        downloads:  40577
         updated_at: 1719760006000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kai-command-center
 alt:
   - https://github.com/jayp89/kai-command-center
-downloads: 144
+downloads: 162
 updated at: "2026-05-16T23:33:32Z"
 related to:
   - "[[GitHub - 1240973992]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Parse daily notes stored in 00 Human/10 Daily Notes/YYYY-MM-DD.md to build an at-a-glance command center showing ONE Thing, tasks, schedule, metrics, wins, blockers and an activity heatmap. Capture quick entries to inbox, review a 30-day metrics table and color-coded timeline, and get live refresh after vault changes."
 
     stats: {
-        downloads:  144
+        downloads:  162
         updated_at: 1778974412000
     }
 }

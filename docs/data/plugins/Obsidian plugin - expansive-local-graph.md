@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/expansive-local-graph
 alt:
   - https://github.com/kolpa4/Expansive-local-graph
-downloads: 112
+downloads: 166
 updated at: "2026-07-07T11:00:23Z"
 related to:
   - "[[GitHub - 1292169105]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Expand local graph branches beyond Obsidian's native depth limit by manually expanding nodes on demand. Render additional linked notes as overlay nodes that stay attached across redraws and dragging, support nested expansions, and highlight expanded roots with colored rings and branch colors."
 
     stats: {
-        downloads:  112
+        downloads:  166
         updated_at: 1783422023000
     }
 }

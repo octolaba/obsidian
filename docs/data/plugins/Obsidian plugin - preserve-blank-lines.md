@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/preserve-blank-lines
 alt:
   - https://github.com/ivanohe73/obsidian-preserve-blank-lines
-downloads: 220
+downloads: 271
 updated at: "2026-05-14T18:34:59Z"
 related to:
   - "[[GitHub - 1239070348]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preserve consecutive blank lines in reading mode so visual spacing matches your source exactly. Render each preserved blank line as a stylable div (.preserve-blank-line) so you can adjust spacing with CSS."
 
     stats: {
-        downloads:  220
+        downloads:  271
         updated_at: 1778783699000
     }
 }

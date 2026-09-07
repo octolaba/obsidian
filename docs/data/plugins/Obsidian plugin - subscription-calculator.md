@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/subscription-calculator
 alt:
   - https://github.com/citrusrenegade/subscription-calculator-obsidian
-downloads: 179
+downloads: 244
 updated at: "2026-07-20T18:58:26Z"
 related to:
   - "[[GitHub - 1271533880]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track recurring subscriptions in your vault with name, price, currency, billing period and icon, and toggle active or paused without deleting. View yearly totals and approximate monthly costs by currency, manage entries in a dedicated view, and keep all data stored locally."
 
     stats: {
-        downloads:  179
+        downloads:  244
         updated_at: 1784573906000
     }
 }

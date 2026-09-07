@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/slash-commander
 alt:
   - https://github.com/alephpiece/obsidian-slash-commander
-downloads: 62131
+downloads: 65804
 updated at: "2026-06-24T14:09:48Z"
 related to:
   - "[[GitHub - 720487697]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and manage a customizable slash-command menu in Obsidian with configurable triggers, per-command trigger modes, and command groups. Drag-and-drop to reorder entries, assign multiple triggers, and restrict activation to the start of a line to control when commands appear."
 
     stats: {
-        downloads:  62131
+        downloads:  65804
         updated_at: 1782310188000
     }
 }

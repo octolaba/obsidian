@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/replace-em-dash
 alt:
   - https://github.com/joaonoturno/Em-dash-plugin
-downloads: 152
+downloads: 193
 updated at: "2026-02-24T14:26:34Z"
 related to:
   - "[[GitHub - 1165669372]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Replace two consecutive hyphens with an em dash as you type. Convert punctuation inline without interrupting your editing flow."
 
     stats: {
-        downloads:  152
+        downloads:  193
         updated_at: 1771943194000
     }
 }

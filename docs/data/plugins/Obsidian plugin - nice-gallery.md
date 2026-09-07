@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nice-gallery
 alt:
   - https://github.com/konfetigr/obsidian-nice-gallery
-downloads: 235
+downloads: 264
 updated at: "2026-01-04T04:07:20Z"
 related to:
   - "[[GitHub - 1127140980]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create responsive image galleries inside any note using simple markdown code blocks that pull attachments already in the note. View images in a full-screen, touch-friendly viewer with zoom, pan, swipe navigation and adaptive layouts for desktop and mobile."
 
     stats: {
-        downloads:  235
+        downloads:  264
         updated_at: 1767499640000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/nextcloud-sync
 alt:
   - https://github.com/siosig/obsidian-nextcloudsync
-downloads: 3975
-updated at: "2026-07-22T06:03:03Z"
+downloads: 6606
+updated at: "2026-08-07T13:13:15Z"
 related to:
   - "[[GitHub - 1262599623]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync your Obsidian vault with Nextcloud bidirectionally using Nextcloud's APIs for checksums, file IDs, locking and chunked uploads for safe, accurate sync. Preserve renames, recover from trash, browse version history and fall back to WebDAV when needed."
 
     stats: {
-        downloads:  3975
-        updated_at: 1784700183000
+        downloads:  6606
+        updated_at: 1786108395000
     }
 }
 ```

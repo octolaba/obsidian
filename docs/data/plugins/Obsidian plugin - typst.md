@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/typst
 alt:
   - https://github.com/fenjalien/obsidian-typst
-downloads: 12856
+downloads: 13091
 updated at: "2024-03-19T01:31:23Z"
 related to:
   - "[[GitHub - 618440185]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Typst code blocks and optional math blocks as PNG, SVG, or PDF images using Typst compiled to WASM, keeping paths relative to your vault. Manage packages from @preview and @local with automatic downloads, and prepend reusable preambles for consistent styling and imports."
 
     stats: {
-        downloads:  12856
+        downloads:  13091
         updated_at: 1710811883000
     }
 }

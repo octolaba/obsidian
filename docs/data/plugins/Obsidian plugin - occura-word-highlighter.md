@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/occura-word-highlighter
 alt:
   - https://github.com/krusty84/obsidian-occura-plugin
-downloads: 12500
+downloads: 12652
 updated at: "2026-07-13T20:13:16Z"
 related to:
   - "[[GitHub - 864919628]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight all occurrences of a double-clicked word or selected text and display the match count. Create colored word classes, use case-insensitive selection, auto-highlight keywords, convert occurrences to tags, and set permanent highlights for persistent visual tracking."
 
     stats: {
-        downloads:  12500
+        downloads:  12652
         updated_at: 1783973596000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-in-ide
 alt:
   - https://github.com/carlstedt1/open-in-ide
-downloads: 103
+downloads: 114
 updated at: "2026-01-02T14:54:32Z"
 related to:
   - "[[GitHub - 1087627808]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open the current vault file in your IDE of choice, including .md, .base, .canvas and other file types. Reuse or spawn Cursor windows, optionally focus a configured .code-workspace, and jump to the exact file and cursor position (requires Cursor CLI)."
 
     stats: {
-        downloads:  103
+        downloads:  114
         updated_at: 1767365672000
     }
 }

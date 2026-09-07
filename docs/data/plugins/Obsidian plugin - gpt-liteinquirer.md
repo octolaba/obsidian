@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gpt-liteinquirer
 alt:
   - https://github.com/ittuann/obsidian-gpt-liteinquirer-plugin
-downloads: 5482
+downloads: 5501
 updated at: "2023-05-08T02:17:29Z"
 related to:
   - "[[GitHub - 621618912]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with ChatGPT inside Obsidian using a lightweight, non-intrusive interface. Generate ideas, draft and enrich content, query the current document as a knowledge base, and insert or copy AI responses directly into your notes."
 
     stats: {
-        downloads:  5482
+        downloads:  5501
         updated_at: 1683512249000
     }
 }

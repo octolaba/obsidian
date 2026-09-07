@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/arbor-family-tree
 alt:
   - https://github.com/disparatedan/arbor
-downloads: 466
+downloads: 572
 updated at: "2026-03-29T08:43:19Z"
 related to:
   - "[[GitHub - 1184366637]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Build and visualize a family tree from Markdown notes in your Obsidian vault using a navigable SVG diagram rooted on any person. Export interactive HTML or GEDCOM, import people from CSV, toggle horizontal/vertical layouts and sibling filters, and preserve theme-aware colors and session state."
 
     stats: {
-        downloads:  466
+        downloads:  572
         updated_at: 1774773799000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/git-viewer
 alt:
   - https://github.com/viggomeesters/obsidian-git-viewer
-downloads: 118
+downloads: 163
 updated at: "2026-06-09T13:29:19Z"
 related to:
   - "[[GitHub - 1262651689]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View Git status in a compact Obsidian sidebar and open vault files directly. Commit only selected files using a temporary Git index and required message to avoid touching unrelated staged changes. Run locally via the git CLI; no pull/push/branch management."
 
     stats: {
-        downloads:  118
+        downloads:  163
         updated_at: 1781011759000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/find-orphaned-images
 alt:
   - https://github.com/josmarcristello/Obsidian-Find-Orphaned-Images
-downloads: 38103
+downloads: 39544
 updated at: "2026-07-15T23:44:35Z"
 related to:
   - "[[GitHub - 847085867]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scan your vault for images not linked in any note and generate a report listing orphaned files with image previews or links. Delete orphaned images in bulk or individually and access the tools from a sidebar button or commands."
 
     stats: {
-        downloads:  38103
+        downloads:  39544
         updated_at: 1784159075000
     }
 }

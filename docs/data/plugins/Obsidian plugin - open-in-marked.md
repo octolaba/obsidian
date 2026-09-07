@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/open-in-marked
 alt:
   - https://github.com/ttscoff/Marked3-obsidian
-downloads:
-updated at:
+downloads: 393
+updated at: "2026-07-25T08:27:30Z"
 related to:
   - "[[GitHub - 1183045715]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/ttscoff/Marked3-obsidian"
     description: "Open the current note or vault in Marked 3. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Open the current note or monitor the entire vault in Marked 3 on macOS. Read absolute file paths and launch Marked via its URL handler so previews update automatically (≈2s delay) and follow the most recently modified file when monitoring."
+
+    stats: {
+        downloads:  393
+        updated_at: 1784968050000
+    }
 }
 ```
 

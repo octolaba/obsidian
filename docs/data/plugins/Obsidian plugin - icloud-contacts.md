@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/icloud-contacts
 alt:
   - https://github.com/trulsaa/obsidian-icloud-contacts
-downloads: 4837
+downloads: 4918
 updated at: "2025-12-25T20:55:26Z"
 related to:
   - "[[GitHub - 729806385]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync iCloud contacts to a folder in your vault as individual Markdown files with contact details stored in frontmatter. Create or update each contact's title and properties (name, organization, telephone, email, birthday, social profiles) while leaving any extra file content untouched. Limit sync to selected groups or target a Nextcloud address book URL."
 
     stats: {
-        downloads:  4837
+        downloads:  4918
         updated_at: 1766696126000
     }
 }

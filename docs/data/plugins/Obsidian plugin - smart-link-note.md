@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-link-note
 alt:
   - https://github.com/whiteblack1858/smart-link-note
-downloads: 130
+downloads: 156
 updated at: "2026-06-03T10:00:12Z"
 related to:
   - "[[GitHub - 1257984497]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create new notes linked bidirectionally to the active file and automatically append backlinks to both notes. Copy wiki-style [[Note Title]] links to the clipboard from the active note or via the file explorer context menu. Insert [[]] at the cursor and trigger Obsidian's link autocomplete for fast linking."
 
     stats: {
-        downloads:  130
+        downloads:  156
         updated_at: 1780480812000
     }
 }

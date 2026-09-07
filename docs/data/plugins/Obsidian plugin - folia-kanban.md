@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folia-kanban
 alt:
   - https://github.com/stavarengo/folia-kanban
-downloads: 211
+downloads: 261
 updated at: "2026-06-24T22:26:47Z"
 related to:
   - "[[GitHub - 1269975665]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize Kanban boards using plain Markdown files, with each card stored as a regular .md note. Drag cards to reorder or change status, create nested subcards, add comments and automatic history, and persist position and metadata without any database or hidden state."
 
     stats: {
-        downloads:  211
+        downloads:  261
         updated_at: 1782340007000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/insert-arknights-url-banner
 alt:
   - https://github.com/rerurate514/insert_ArknightsURL_banners
-downloads: 210
+downloads: 217
 updated at: "2025-07-14T08:50:16Z"
 related to:
   - "[[GitHub - 996143343]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Select an image from an Arknights gallery and insert its network URL into the active note's banner property. Display the banner with a banner-rendering community plugin. Expect slow image loading."
 
     stats: {
-        downloads:  210
+        downloads:  217
         updated_at: 1752483016000
     }
 }

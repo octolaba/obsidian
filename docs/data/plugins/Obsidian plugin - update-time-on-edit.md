@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/update-time-on-edit
 alt:
   - https://github.com/beaussan/update-time-on-edit-obsidian
-downloads: 74645
+downloads: 75505
 updated at: "2024-01-11T12:35:10Z"
 related to:
   - "[[GitHub - 358609766]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Update file metadata on save with the file's last-modified time and creation time. Keep keys (default \"updated\" and \"created\") synced with the file system, support customizable date formats or Unix timestamps, ignore specified folders, and work on mobile and desktop."
 
     stats: {
-        downloads:  74645
+        downloads:  75505
         updated_at: 1704976510000
     }
 }

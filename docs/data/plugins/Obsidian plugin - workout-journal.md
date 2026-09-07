@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/workout-journal
 alt:
   - https://github.com/i-am-rudi/workout-journal
-downloads: 265
+downloads: 345
 updated at: "2026-06-29T16:11:04Z"
 related to:
   - "[[GitHub - 1219669693]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track workouts and log sets, reps, weights, duration, and distances with interactive sessions and a built-in rest timer. Create reusable routines, workout plans and an exercise library; store workouts in YAML frontmatter and view statistics and progress with mobile support."
 
     stats: {
-        downloads:  265
+        downloads:  345
         updated_at: 1782749464000
     }
 }

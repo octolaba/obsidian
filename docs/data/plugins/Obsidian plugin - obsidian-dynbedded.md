@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-dynbedded
 alt:
   - https://github.com/mmomm-org/obsidian-dynbedded
-downloads: 5817
-updated at: "2026-07-01T13:13:19Z"
+downloads: 5948
+updated at: "2026-07-28T14:56:36Z"
 related to:
   - "[[GitHub - 559683993]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Embed notes, templates and snippets and run their dynamic content in the context of the current note, including specific headers. Substitute parts of note names and headers with Moment.js date formats and apply offsets (ISO8601 or day counts) to target dated notes or sections."
 
     stats: {
-        downloads:  5817
-        updated_at: 1782911599000
+        downloads:  5948
+        updated_at: 1785250596000
     }
 }
 ```

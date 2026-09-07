@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/theme-padd
 alt:
   - https://github.com/jalad25/theme-padd
-downloads: 230
+downloads: 272
 updated at: "2026-06-18T05:48:25Z"
 related to:
   - "[[GitHub - 1250044989]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Modify theme palettes, animations, decorations, and density through per-theme settings panels that provide color, text, number, toggle, and select controls. Preview changes live, persist customizations across theme updates, auto-discover theme specs from theme releases, and show readable error reports."
 
     stats: {
-        downloads:  230
+        downloads:  272
         updated_at: 1781761705000
     }
 }

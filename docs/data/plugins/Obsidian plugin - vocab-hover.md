@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vocab-hover
 alt:
   - https://github.com/chingchen0119/obsidian-vocab-hover
-downloads: 162
+downloads: 188
 updated at: "2026-04-18T05:00:30Z"
 related to:
   - "[[GitHub - 1214049727]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add hover tooltips to any word or phrase and save them inline as {word::tooltip} for quick translations, definitions, or annotations. View tooltips by hovering in Reading View, customize highlight appearance, and generate an auto-updating vocabulary list that links back to source notes."
 
     stats: {
-        downloads:  162
+        downloads:  188
         updated_at: 1776488430000
     }
 }

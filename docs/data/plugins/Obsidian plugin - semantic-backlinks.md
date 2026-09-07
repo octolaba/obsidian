@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/semantic-backlinks
 alt:
   - https://github.com/brightwav3/semantic-backlinks
-downloads: 196
+downloads: 253
 updated at: "2026-06-09T18:44:42Z"
 related to:
   - "[[GitHub - 1263963094]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Suggest note links as you type using fast lexical matching and semantic search via local Ollama or LM Studio embeddings or the OpenAI API. Show an inline suggestion popup for quick [[Note]] insertion and a Related Notes sidebar of semantically similar notes with live auto-indexing."
 
     stats: {
-        downloads:  196
+        downloads:  253
         updated_at: 1781030682000
     }
 }

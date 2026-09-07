@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tutu-emoji-toolbar
 alt:
   - https://github.com/tinswangtao-web/tutu-emoji-toolbar
-downloads: 57
+downloads: 78
 updated at: "2026-06-24T03:44:12Z"
 related to:
   - "[[GitHub - 1276642074]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search and insert emojis into your editor with a quick, searchable picker that uses fuzzy and semantic matching. Choose skin tones, access recently used emoji, and preview or insert with optional Twitter-style formatting."
 
     stats: {
-        downloads:  57
+        downloads:  78
         updated_at: 1782272652000
     }
 }

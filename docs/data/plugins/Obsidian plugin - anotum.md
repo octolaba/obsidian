@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/anotum
 alt:
   - https://github.com/anotum/obsidian-anotum
-downloads: 96
+downloads: 109
 updated at: "2026-05-14T18:06:46Z"
 related to:
   - "[[GitHub - 1229245708]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Anotum highlights into Obsidian as searchable Markdown notes, including block IDs and metadata for easy linking. Customize note output with flexible templates and variables to shape how highlights, notes, chapters and colors are captured. Connect an active Anotum account or trial to pull highlights and run automatic or manual syncs."
 
     stats: {
-        downloads:  96
+        downloads:  109
         updated_at: 1778782006000
     }
 }

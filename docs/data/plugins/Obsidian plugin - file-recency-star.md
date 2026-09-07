@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-recency-star
 alt:
   - https://github.com/songkeeh/obsidianstar
-downloads: 105
+downloads: 115
 updated at: "2026-05-23T10:45:13Z"
 related to:
   - "[[GitHub - 1247135753]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mark recently created and modified files in the file explorer with configurable markers and title styling. Set independent time thresholds for new vs modified files, pick icon, color and position, toggle icons or use title-only labels, and auto-switch Korean/English labels."
 
     stats: {
-        downloads:  105
+        downloads:  115
         updated_at: 1779533113000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-editors
 alt:
   - https://github.com/4source/open-editors-obsidian-plugin
-downloads: 951
+downloads: 970
 updated at: "2026-03-16T13:16:18Z"
 related to:
   - "[[GitHub - 897278840]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a hierarchical view of open windows, groups, tabs, and editors to manage open files at a glance. Close all editors in a window or group at once and switch quickly between editors."
 
     stats: {
-        downloads:  951
+        downloads:  970
         updated_at: 1773666978000
     }
 }

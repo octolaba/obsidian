@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graph-search-sync
 alt:
   - https://github.com/aldaw/graph-search-sync
-downloads: 146
+downloads: 199
 updated at: "2026-07-17T05:32:50Z"
 related to:
   - "[[GitHub - 1291237116]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync global search with graph views in real time, applying your query — including tag:, path:, and file: operators — to every open graph with a short debounce. Highlight corresponding nodes by hovering search results, and apply the current query to graphs opened later or optionally to local graph views."
 
     stats: {
-        downloads:  146
+        downloads:  199
         updated_at: 1784266370000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/readlog
 alt:
   - https://github.com/mrcnkobu/readlog
-downloads: 107
+downloads: 145
 updated at: "2026-06-29T12:14:22Z"
 related to:
   - "[[GitHub - 1283073690]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track books in plain Markdown with one note per book, frontmatter-backed metadata, manual covers, and unit-based progress (pages, loc, percent). Append reading sessions to a vault-native reading log and add compact session lines to book and daily notes; import Kindle highlights/notes from My Clippings.txt with conservative matching and deduplicated clips."
 
     stats: {
-        downloads:  107
+        downloads:  145
         updated_at: 1782735262000
     }
 }

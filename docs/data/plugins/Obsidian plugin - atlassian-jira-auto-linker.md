@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/atlassian-jira-auto-linker
 alt:
   - https://github.com/kovah/obsidian-jira-auto-linker
-downloads: 187
+downloads: 217
 updated at: "2026-05-13T21:50:47Z"
 related to:
   - "[[GitHub - 935072701]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Atlassian Jira issue IDs into clickable links when viewing notes. Register project keys and your Jira site URL to automatically link issue references to their Jira pages."
 
     stats: {
-        downloads:  187
+        downloads:  217
         updated_at: 1778709047000
     }
 }

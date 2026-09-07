@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kohi
 alt:
   - https://github.com/chiahsien/obsidian-kohi
-downloads: 131
+downloads: 151
 updated at: "2026-05-13T22:50:12Z"
 related to:
   - "[[GitHub - 1221699047]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import highlights and notes from KOReader devices into Obsidian as one Markdown note per book. Auto-detect KOReader storage modes, parse Lua-serialized annotations, use Nunjucks templates for customizable output, pick books via fuzzy search, sanitize filenames, and handle re-import overwrites predictably."
 
     stats: {
-        downloads:  131
+        downloads:  151
         updated_at: 1778712612000
     }
 }

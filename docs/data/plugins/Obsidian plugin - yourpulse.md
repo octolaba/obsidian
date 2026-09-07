@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/yourpulse
 alt:
   - https://github.com/jsifalda/obsipulse-plugin
-downloads: 4252
+downloads: 4515
 updated at: "2026-01-02T12:24:17Z"
 related to:
   - "[[GitHub - 798320734]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track daily word counts across your vault and visualize writing activity with a GitHub-style contribution graph and streaks. Share selected notes and publish a public profile with Dataview rendering and resolved internal links. Protect privacy with Private Mode to keep data inside your vault."
 
     stats: {
-        downloads:  4252
+        downloads:  4515
         updated_at: 1767356657000
     }
 }

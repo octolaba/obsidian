@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cortex-chat
 alt:
   - https://github.com/xhydros/Cortex-Chat
-downloads: 360
+downloads: 461
 updated at: "2026-05-26T17:52:16Z"
 related to:
   - "[[GitHub - 1235622538]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with Codex (only Oauth available) like an assistant in a sidebar using vault context, outgoing links, @ references and extracted text from Markdown notes and PDFs. Store session history, shared _cortex memory, outbox files and backups locally and switch between read-only Planner/Copilot or action-oriented Execute modes. Run on Obsidian desktop only."
 
     stats: {
-        downloads:  360
+        downloads:  461
         updated_at: 1779817936000
     }
 }

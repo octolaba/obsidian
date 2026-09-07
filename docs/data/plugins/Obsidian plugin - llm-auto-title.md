@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/llm-auto-title
 alt:
   - https://github.com/slow-coding/obsidian-llm-auto-title
-downloads: 73
+downloads: 133
 updated at: "2026-07-10T17:06:03Z"
 related to:
   - "[[GitHub - 1295012676]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate note titles with a local LLM (default LMStudio) or any OpenAI-compatible server and rename files so backlinks update automatically. Batch-rename timestamped notes, run titling on demand, customize the system prompt and patterns, and run on desktop vaults that can reach a local server."
 
     stats: {
-        downloads:  73
+        downloads:  133
         updated_at: 1783703163000
     }
 }

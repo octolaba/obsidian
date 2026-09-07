@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/more-vim
 alt:
   - https://github.com/colinlienard/obsidian-more-vim
-downloads: 261
+downloads: 300
 updated at: "2026-05-17T12:13:42Z"
 related to:
   - "[[GitHub - 1234506487]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add missing Vim behaviors to Obsidian: surround operations (ys, ds, cs, visual S), multi-cursor motions, Mod-D to select and add the next match, scrolloff for cursor context, and unnamed-register syncing with the system clipboard. Preserve Markdown list continuation with o and open internal/external links with gd/gx."
 
     stats: {
-        downloads:  261
+        downloads:  300
         updated_at: 1779020022000
     }
 }

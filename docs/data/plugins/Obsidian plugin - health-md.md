@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/health-md
 alt:
   - https://github.com/codybontecou/health-md-visualizations
-downloads: 2795
+downloads: 3468
 updated at: "2026-07-17T16:13:42Z"
 related to:
   - "[[GitHub - 1205479626]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render interactive Apple Health visualizations directly in your notes from local JSON, CSV, Markdown frontmatter, or Obsidian Bases (YAML) data files. Drop a fenced code block or run the insert command to embed an interactive canvas chart that reads health export files from your vault."
 
     stats: {
-        downloads:  2795
+        downloads:  3468
         updated_at: 1784304822000
     }
 }

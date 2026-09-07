@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/underpowered-files
 alt:
   - https://github.com/llem00n/underpowered-files
-downloads: 100
+downloads: 108
 updated at: "2026-01-20T17:14:21Z"
 related to:
   - "[[GitHub - 1137830663]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Style files and folders in the file explorer with bold, italic, and strikethrough effects. Enable cascade on folders to apply styles to all children, override or disable inherited styles per item, toggle styles from the context menu, and keep styles tracked when files are moved or renamed."
 
     stats: {
-        downloads:  100
+        downloads:  108
         updated_at: 1768929261000
     }
 }

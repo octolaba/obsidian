@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/typing-speed
 alt:
   - https://github.com/supercip971/obsidian-typing-speed
-downloads: 13280
+downloads: 13367
 updated at: "2024-10-27T17:03:31Z"
 related to:
   - "[[GitHub - 479466815]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display current typing speed in the status bar. Switch the display between cps (characters/sec), cpm (characters/min) or wpm (words/min) for real-time feedback while you type."
 
     stats: {
-        downloads:  13280
+        downloads:  13367
         updated_at: 1730048611000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-dictionary-plugin
 alt:
   - https://github.com/phibr0/obsidian-dictionary
-downloads: 220436
+downloads: 223395
 updated at: "2022-11-15T19:32:54Z"
 related to:
   - "[[GitHub - 366783424]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a Dictionary sidebar for instant word definitions and a synonym popover for inline lookups. Support many languages and provide experimental offline dictionaries for English and Chinese. Select which lookup APIs to trust to keep lookups private."
 
     stats: {
-        downloads:  220436
+        downloads:  223395
         updated_at: 1668540774000
     }
 }

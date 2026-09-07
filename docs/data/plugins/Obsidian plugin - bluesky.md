@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bluesky
 alt:
   - https://github.com/eharris128/obsidian-bluesky
-downloads: 976
+downloads: 1002
 updated at: "2026-06-22T18:31:41Z"
 related to:
   - "[[GitHub - 884495457]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Post to Bluesky from inside Obsidian using a dedicated tab or by selecting text. Compose posts or threads, open the Bluesky tab from the sidebar or command palette, and post directly to your Bluesky account."
 
     stats: {
-        downloads:  976
+        downloads:  1002
         updated_at: 1782153101000
     }
 }

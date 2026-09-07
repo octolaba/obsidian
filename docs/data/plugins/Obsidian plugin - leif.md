@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/leif
 alt:
   - https://github.com/ttusk/leif
-downloads: 38
-updated at: "2026-07-22T12:18:39Z"
+downloads: 81
+updated at: "2026-07-28T21:55:13Z"
 related to:
   - "[[GitHub - 1266671980]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Organize estudos para concursos em uma estrutura clara com concursos, matérias, assuntos do edital, cadernos de questões e sessões de estudo. Veja o que estudar hoje, registre sessões concluídas e acompanhe o progresso por matéria direto no Obsidian."
 
     stats: {
-        downloads:  38
-        updated_at: 1784722719000
+        downloads:  81
+        updated_at: 1785275713000
     }
 }
 ```

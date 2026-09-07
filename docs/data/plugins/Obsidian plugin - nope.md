@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nope
 alt:
   - https://github.com/mriwan/obsidian-nope
-downloads: 355
+downloads: 374
 updated at: "2026-07-17T13:43:07Z"
 related to:
   - "[[GitHub - 1239582258]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export Obsidian notes to publication-ready PDFs using a Docker-based Pandoc/LaTeX pipeline without requiring a local TeX distribution. Custom branding, transclusions and cross-references. Author with modular notes and embed chapters, theorems, tables, diagrams and glossary entries while preserving numbering, cross-references and citation handling."
 
     stats: {
-        downloads:  355
+        downloads:  374
         updated_at: 1784295787000
     }
 }

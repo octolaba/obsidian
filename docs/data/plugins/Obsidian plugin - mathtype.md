@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mathtype
 alt:
   - https://github.com/slateblua/mathtype
-downloads: 1570
+downloads: 1604
 updated at: "2025-03-20T09:28:11Z"
 related to:
   - "[[GitHub - 937560867]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert natural language into MathJax mathematical expressions using inline autocompletion. Trigger the autocompletion and type an English description to receive fast suggestions for symbols, functions, and complex equations."
 
     stats: {
-        downloads:  1570
+        downloads:  1604
         updated_at: 1742462891000
     }
 }

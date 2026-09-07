@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/screenwriter
 alt:
   - https://github.com/wesswart77/obsidian-screenwriter
-downloads: 319
+downloads: 406
 updated at: "2026-05-24T20:06:27Z"
 related to:
   - "[[GitHub - 1248532416]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a screenplay project with five prestructured files: Treatment, Outline, Characters, Beat Sheet (Blake Snyder's 15 beats), and Notes. Add character entries and scene cards, and browse projects in a sidebar that shows format, status, and scene counts."
 
     stats: {
-        downloads:  319
+        downloads:  406
         updated_at: 1779653187000
     }
 }

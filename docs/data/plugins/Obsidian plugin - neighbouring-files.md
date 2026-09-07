@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/neighbouring-files
 alt:
   - https://github.com/fabianuntermoser/obsidian-neighbouring-files-plugin
-downloads: 7091
+downloads: 7379
 updated at: "2026-07-15T17:13:21Z"
 related to:
   - "[[GitHub - 632638758]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Navigate between neighbouring notes in your vault with commands to jump to next/previous files, move up/down folders, or loop within a folder. Sort by name, creation or modification date and limit or expand which file types are included in navigation."
 
     stats: {
-        downloads:  7091
+        downloads:  7379
         updated_at: 1784135601000
     }
 }

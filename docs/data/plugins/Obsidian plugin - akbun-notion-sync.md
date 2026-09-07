@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/akbun-notion-sync
 alt:
   - https://github.com/choisungwook/obsidian-plugins
-downloads: 36
+downloads: 62
 updated at: "2026-07-19T05:47:33Z"
 related to:
   - "[[GitHub - 1301783515]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync every Markdown note in your vault to Notion as child pages under a chosen parent page. Hash notes with SHA-256 to detect new, changed, or deleted files and create, update, or archive Notion pages; throttle API calls and show progress. Authenticate via integration token or OAuth with credentials stored outside the vault for safety."
 
     stats: {
-        downloads:  36
+        downloads:  62
         updated_at: 1784440053000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/advanced-line-numbers
 alt:
   - https://github.com/anamaydev/advanced-line-numbers
-downloads: 884
+downloads: 1028
 updated at: "2026-07-15T23:03:12Z"
 related to:
   - "[[GitHub - 1175251183]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add customizable line numbers to the editor with Absolute, Relative, or Hybrid modes for vim-style navigation. Highlight the active line, gutter, or line number and display cursor position (Ln X, Col Y) in the status bar."
 
     stats: {
-        downloads:  884
+        downloads:  1028
         updated_at: 1784156592000
     }
 }

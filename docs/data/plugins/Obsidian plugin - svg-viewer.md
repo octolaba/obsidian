@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/svg-viewer
 alt:
   - https://github.com/konstantinosgkilas/Obsidian-SVG-Viewer
-downloads: 809
+downloads: 1006
 updated at: "2026-03-27T12:32:45Z"
 related to:
   - "[[GitHub - 1193473392]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render inline SVG code fences as live graphics in Reading View and Live Preview. Sanitize SVG to remove scripts, event handlers, dangerous URIs, and optionally block external resources before rendering. Click a graphic to view or copy its raw SVG source and show an optional SVG badge."
 
     stats: {
-        downloads:  809
+        downloads:  1006
         updated_at: 1774614765000
     }
 }

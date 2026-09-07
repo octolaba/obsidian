@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/journal-utils
 alt:
   - https://github.com/sagersmith8/obsidian-journal-utils
-downloads: 64
+downloads: 81
 updated at: "2026-07-14T23:38:21Z"
 related to:
   - "[[GitHub - 1300761358]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert person and location wikilinks quickly from a mobile picker with create-new, group conversion, and ghost handling. Auto-maintain people: and locations: frontmatter lists, expand groups into their members, and surface unresolved ghost links for review or profile creation."
 
     stats: {
-        downloads:  64
+        downloads:  81
         updated_at: 1784072301000
     }
 }

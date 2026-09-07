@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-file-to-clipboard
 alt:
   - https://github.com/ezxabi/copy-file-to-clipboard
-downloads: 51
+downloads: 74
 updated at: "2026-07-06T16:10:12Z"
 related to:
   - "[[GitHub - 1291223973]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a Copy to clipboard option to the file explorer context menu to copy files in the most useful format. Copy text files as plain text, images as PNG image data ready to paste, or place the raw file on the clipboard and configure behavior per file type."
 
     stats: {
-        downloads:  51
+        downloads:  74
         updated_at: 1783354212000
     }
 }

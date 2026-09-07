@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/apkcore-tts
 alt:
   - https://github.com/apkcore/apkcore-tts-plugin
-downloads: 229
+downloads: 334
 updated at: "2026-06-25T09:30:28Z"
 related to:
   - "[[GitHub - 1280038339]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Read selected text or entire documents using either the browser-native Web Speech API or Microsoft Edge TTS. Choose from multiple Chinese voices, adjust speech rate and max length, and control playback with a floating stop button, pause/resume commands and keyboard shortcuts."
 
     stats: {
-        downloads:  229
+        downloads:  334
         updated_at: 1782379828000
     }
 }

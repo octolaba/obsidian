@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/qiuqiu
 alt:
   - https://github.com/ayoyoqiu/obsidian-sakana-qiuqiu
-downloads: 118
+downloads: 145
 updated at: "2026-06-11T14:31:21Z"
 related to:
   - "[[GitHub - 1265276624]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a cute Qiuqiu widget to your Obsidian workspace. Play with four characters (qiuqiu, taotao, qiuqiu2, qiuqiu3), drag to swing, and use the controller to switch characters or toggle auto mode. Enable custom widgets via settings."
 
     stats: {
-        downloads:  118
+        downloads:  145
         updated_at: 1781188281000
     }
 }

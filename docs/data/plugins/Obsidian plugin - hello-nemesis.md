@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hello-nemesis
 alt:
   - https://github.com/adiguno/hello-nemesis
-downloads: 415
+downloads: 434
 updated at: "2025-02-20T15:11:01Z"
 related to:
   - "[[GitHub - 925272192]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Challenge your ideas with a friendly intellectual nemesis that reviews note content and points out logical flaws and hidden assumptions. Suggest alternative perspectives, pose thought-provoking questions, and deliver constructive, supportive criticism to sharpen your arguments."
 
     stats: {
-        downloads:  415
+        downloads:  434
         updated_at: 1740064261000
     }
 }

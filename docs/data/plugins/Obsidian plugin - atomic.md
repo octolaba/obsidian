@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/atomic
 alt:
   - https://github.com/kenforthewin/obsidian-atomic
-downloads: 374
+downloads: 438
 updated at: "2026-05-13T00:45:39Z"
 related to:
   - "[[GitHub - 1209871776]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn your vault into a semantically connected, AI-augmented knowledge graph by syncing notes to an Atomic server. Search by meaning with hybrid keyword+vector results and snippets, surface similar notes in a sidebar, generate LLM-synthesized wiki articles with citations, chat via an agentic RAG assistant, and explore a spatial knowledge-graph canvas."
 
     stats: {
-        downloads:  374
+        downloads:  438
         updated_at: 1778633139000
     }
 }

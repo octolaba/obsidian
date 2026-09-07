@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/link-with-alias
 alt:
   - https://github.com/pvojtechovsky/obsidian-link-with-alias
-downloads: 10987
+downloads: 11044
 updated at: "2025-02-25T16:23:22Z"
 related to:
   - "[[GitHub - 641493856]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create links that add the link's display text into the target note's front-matter aliases and preserve that display text against Obsidian's autocompletion. Create or update target notes automatically, add aliases for existing links, and toggle the display text alias of the last edited link."
 
     stats: {
-        downloads:  10987
+        downloads:  11044
         updated_at: 1740500602000
     }
 }

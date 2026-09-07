@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/peerdraft
 alt:
   - https://github.com/peerdraft/obsidian-plugin
-downloads: 18107
+downloads: 18404
 updated at: "2026-07-04T16:40:53Z"
 related to:
   - "[[GitHub - 721102588]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Collaborate instantly on Obsidian notes and folders with real-time editing, visible collaborator cursors, notifications, and folder sync. Start end-to-end encrypted ad-hoc (fleeting) sessions without an account, or create persistent shared vaults for asynchronous/offline editing and a Web Editor (persistent shares require an optional paid plan)."
 
     stats: {
-        downloads:  18107
+        downloads:  18404
         updated_at: 1783183253000
     }
 }

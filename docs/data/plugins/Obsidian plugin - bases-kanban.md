@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bases-kanban
 alt:
   - https://github.com/kotserge/obsidian-kanban
-downloads: 676
+downloads: 741
 updated at: "2026-06-04T12:08:22Z"
 related to:
   - "[[GitHub - 1202659646]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display your Bases query as a live Kanban board with one column per group-by value and cards representing notes. Drag and drop cards to update the group-by frontmatter value, click to open notes, and keep all data in standard Markdown frontmatter."
 
     stats: {
-        downloads:  676
+        downloads:  741
         updated_at: 1780574902000
     }
 }

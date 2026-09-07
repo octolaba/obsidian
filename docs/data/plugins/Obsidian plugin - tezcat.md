@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tezcat
 alt:
   - https://github.com/mmargenot/tezcat
-downloads: 572
+downloads: 585
 updated at: "2025-10-17T21:55:03Z"
 related to:
   - "[[GitHub - 1025723566]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Index your notes with AI embeddings and surface related notes and blocks as you write, acting like a remembrance agent to improve creative recall. Insert matching content or links and open parent pages; use vector or hybrid vector+full-text search with local Ollama or OpenAI embeddings."
 
     stats: {
-        downloads:  572
+        downloads:  585
         updated_at: 1760738103000
     }
 }

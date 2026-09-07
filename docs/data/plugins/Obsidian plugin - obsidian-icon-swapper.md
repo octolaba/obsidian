@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-icon-swapper
 alt:
   - https://github.com/mgmeyers/obsidian-icon-swapper
-downloads: 9792
+downloads: 9817
 updated at: "2021-12-15T20:19:32Z"
 related to:
   - "[[GitHub - 356352704]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Replace Obsidian UI icons with custom SVG files. Export and import icon configuration files to save, share, or restore setups. Try the included Boxicons example to test replacements."
 
     stats: {
-        downloads:  9792
+        downloads:  9817
         updated_at: 1639599572000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mcp-rest
 alt:
   - https://github.com/swarogan/obsidian-mcp-rest
-downloads: 2031
+downloads: 2207
 updated at: "2026-03-13T21:45:32Z"
 related to:
   - "[[GitHub - 1178086717]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Expose Obsidian vault operations through a lightweight MCP server that wraps the Obsidian REST API and can run standalone or as an Obsidian plugin with a settings UI. Perform full vault CRUD, search, templates and active-file operations; auto-discover prompt templates; apply precise PATCH v3 edits (headings, blocks, frontmatter) with search-replace; preserve UTF-8 and convert HTML to Markdown on web fetch."
 
     stats: {
-        downloads:  2031
+        downloads:  2207
         updated_at: 1773438332000
     }
 }

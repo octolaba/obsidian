@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/files-progress
 alt:
   - https://github.com/sonna-io/obsidian-files-progress
-downloads: 48
+downloads: 74
 updated at: "2026-07-16T20:33:21Z"
 related to:
   - "[[GitHub - 1289361917]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show a tiny horizontal progress bar under each Markdown file in the file explorer to indicate note fullness relative to a target character count. Render bars inside native rows with theme-aware colors (red→yellow→green, optional purple for overflow) and update live as files change."
 
     stats: {
-        downloads:  48
+        downloads:  74
         updated_at: 1784234001000
     }
 }

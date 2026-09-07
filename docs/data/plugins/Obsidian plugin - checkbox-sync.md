@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/checkbox-sync
 alt:
   - https://github.com/groldsf/obsidian_check_plugin
-downloads: 2576
+downloads: 2634
 updated at: "2025-08-08T10:18:15Z"
 related to:
   - "[[GitHub - 925478855]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync checkbox states across nested lists. Update parent checkboxes from child states and optionally cascade parent changes to children, with configurable sync direction, symbol interpretation, support for ordered/unordered lists, and respect for indentation-based hierarchies."
 
     stats: {
-        downloads:  2576
+        downloads:  2634
         updated_at: 1754648295000
     }
 }

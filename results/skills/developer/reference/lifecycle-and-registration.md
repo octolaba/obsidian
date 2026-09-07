@@ -41,9 +41,9 @@ Two version tools ship in the API:
 **Recommendation.** When `requireApiVersion` is independently known to exist at your target floor,
 use it to guard an optional API whose `@since` is newer; otherwise raise `minAppVersion` or choose a
 dated fallback. State both numbers when you recommend an API. Every table below carries
-`@since` plus its tier at this pin — *stable* at or below 1.12.7, *insider-only* above it. A few
+`@since` plus its tier at this pin — *stable* at or below 1.13.7, *insider-only* above it. A few
 members carry no version tag at all; those are written **untagged, availability unknown**. Their
-declaration proves presence in the 1.13.2 typings, not compatibility with 1.12.7. Establish a lower
+declaration proves presence in the 1.13.2 typings, not compatibility with 1.13.7. Establish a lower
 floor from another pinned official source or runtime verification before recommending one there;
 this applies to `requireApiVersion` itself as well as to the API it guards. The deferred-view guide
 establishes its intended `1.7.2` guard scenario, but not an arbitrary earlier floor
@@ -117,7 +117,7 @@ start.
 
 **`Plugin.settings`.** A `settings?: unknown` field exists — "Assign loaded data here in `onload`.
 Declare a concrete type on your subclass to type it" **Contract** (api: obsidian.d.ts:4913-4919) —
-@1.13.0, **insider-only at pin**. Persistence and settings tabs belong to the settings reference;
+@1.13.0, **stable at pin**. Persistence and settings tabs belong to the settings reference;
 `loadData`/`saveData` themselves are @0.9.7, stable (api: obsidian.d.ts:5056; api: obsidian.d.ts:5064).
 
 ## Component, the teardown machine

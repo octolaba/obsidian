@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/time-log
 alt:
   - https://github.com/eddie/obsidian-time-log
-downloads: 768
+downloads: 843
 updated at: "2026-07-03T10:12:07Z"
 related to:
   - "[[GitHub - 789346150]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep a running project log in a single Markdown note with dated headings that match your Daily Note format (falls back to ISO YYYY-MM-DD). Insert bold, time-prefixed bullet entries automatically, jump to the latest dated section, and view a context-aware status bar showing logging activity."
 
     stats: {
-        downloads:  768
+        downloads:  843
         updated_at: 1783073527000
     }
 }

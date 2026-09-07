@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mdx
 alt:
   - https://github.com/yulei-chen/obsidian-mdx
-downloads: 4958
+downloads: 5021
 updated at: "2023-08-16T12:47:51Z"
 related to:
   - "[[GitHub - 652218436]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview MDX files directly inside Obsidian, rendering Markdown and embedded JSX together. Render Code Hike interactive code walkthroughs and examples within your notes."
 
     stats: {
-        downloads:  4958
+        downloads:  5021
         updated_at: 1692190071000
     }
 }

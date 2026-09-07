@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/timemd-visualizor
 alt:
   - https://github.com/codybontecou/timemd-visualizer
-downloads: 197
+downloads: 215
 updated at: "2026-07-07T12:11:48Z"
 related to:
   - "[[GitHub - 1208754012]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize time.md exports inside Obsidian and recreate Overview, Trends, Calendar, Details, Apps & Categories, Projects, Web History, Reports, and Input Tracking views for in-place analysis. Auto-detect JSON, CSV, Markdown and Obsidian export formats and render cursor heatmaps, typing intensity, session tables, aggregated app/category stats, and exportable daily/weekly reports."
 
     stats: {
-        downloads:  197
+        downloads:  215
         updated_at: 1783426308000
     }
 }

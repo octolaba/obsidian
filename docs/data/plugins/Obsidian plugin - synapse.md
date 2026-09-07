@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/synapse
 alt:
   - https://github.com/dustinkeeton/obsidian-synapse
-downloads: 411
+downloads: 484
 updated at: "2026-07-15T09:46:59Z"
 related to:
   - "[[GitHub - 1180351546]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Automate elaboration and organization of your vault by generating AI-backed expansions, summaries, and recursive topic trees for stub or incomplete notes. Transcribe audio and video into searchable text, enrich notes with tags, internal links, and references, and review or accept each proposed change before anything is written."
 
     stats: {
-        downloads:  411
+        downloads:  484
         updated_at: 1784108819000
     }
 }

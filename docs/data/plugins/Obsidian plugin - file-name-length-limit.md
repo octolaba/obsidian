@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-name-length-limit
 alt:
   - https://github.com/dmitrievdmitriya/obsidian-file-name-length-limit
-downloads: 46
+downloads: 91
 updated at: "2026-07-19T19:00:41Z"
 related to:
   - "[[GitHub - 766311719]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Prevent sync failures by flagging filenames and paths that violate Windows, Linux, Android, or iOS filesystem rules. Check per-name length in UTF-16 and UTF-8, full path length, forbidden characters, reserved names, trailing dots/spaces, and case-only collisions, and report affected platforms."
 
     stats: {
-        downloads:  46
+        downloads:  91
         updated_at: 1784487641000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/smart-related-notes
 alt:
   - https://github.com/saiki77/smart-related-notes
-downloads: 1757
-updated at: "2026-07-06T11:25:14Z"
+downloads: 4681
+updated at: "2026-07-28T12:53:53Z"
 related to:
   - "[[GitHub - 1279363171]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Surface notes most semantically similar to the one you're reading in a left-sidebar panel to browse your vault by meaning instead of folders. Run a compact multilingual embedding model locally (one-time download, cached) to rank notes offline and show clickable cards with snippets and similarity scores."
 
     stats: {
-        downloads:  1757
-        updated_at: 1783337114000
+        downloads:  4681
+        updated_at: 1785243233000
     }
 }
 ```

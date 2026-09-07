@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/spoiler
 alt:
   - https://github.com/patruusbarba/ObsidianSpoilerPlugin
-downloads: 233
+downloads: 329
 updated at: "2026-06-15T23:37:19Z"
 related to:
   - "[[GitHub - 1270489028]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide and reveal sensitive text with a single click. Select text and click the left-ribbon Spoiler button to wrap it in a collapsible spoiler callout that preserves any Markdown. Click the button again on a spoiler to unwrap it back to plain text."
 
     stats: {
-        downloads:  233
+        downloads:  329
         updated_at: 1781566639000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-livesync
 alt:
   - https://github.com/vrtmrz/obsidian-livesync
-downloads: 813786
-updated at: "2026-07-16T13:35:39Z"
+downloads: 856989
+updated at: "2026-08-09T15:32:45Z"
 related to:
   - "[[GitHub - 416356262]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync vaults securely to self-hosted servers (CouchDB, S3, MinIO) or via WebRTC peer-to-peer. This allows you to run the application on multiple devices whilst keeping NDAs and research secrets within the designated secure area. Resolve conflicts with automatic merges for simple edits and protect data with end-to-end encryption. Keep settings, snippets, themes and plugins in sync and do not expect compatibility with Obsidian Sync."
 
     stats: {
-        downloads:  813786
-        updated_at: 1784208939000
+        downloads:  856989
+        updated_at: 1786289565000
     }
 }
 ```

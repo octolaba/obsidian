@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/editing-mode-hotkey
 alt:
   - https://github.com/signynt/obsidian-editing-mode-hotkey
-downloads: 757
+downloads: 783
 updated at: "2026-05-21T12:27:34Z"
 related to:
   - "[[GitHub - 857888632]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle the editing mode between Source and Live Preview and apply the change to all open editors. Use the command or hotkey to switch instantly (default: Cmd/Ctrl+Shift+E)."
 
     stats: {
-        downloads:  757
+        downloads:  783
         updated_at: 1779366454000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vim-mode-status
 alt:
   - https://github.com/penyt/vim-mode-status
-downloads: 390
+downloads: 483
 updated at: "2026-06-21T16:32:54Z"
 related to:
   - "[[GitHub - 1141328274]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display the current Vim mode (Normal, Insert, Visual, Replace, Command) in Obsidian's status bar in real time. Color-code modes with customizable background colors. Choose full or short labels (e.g., NORMAL or N) to save status bar space."
 
     stats: {
-        downloads:  390
+        downloads:  483
         updated_at: 1782059574000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-to-tag
 alt:
   - https://github.com/merijnvervoorn/obsidian-folder-to-tag
-downloads: 156
+downloads: 308
 updated at: "2026-06-18T22:15:44Z"
 related to:
   - "[[GitHub - 1089479932]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Tag notes based on their folder path by adding folder-derived tags to each note's frontmatter. Update tags automatically when notes move or are renamed, preserve all other frontmatter fields, and configure folder depth and tag formatting with optional prefix or suffix."
 
     stats: {
-        downloads:  156
+        downloads:  308
         updated_at: 1781820944000
     }
 }

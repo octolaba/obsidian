@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/customjs
 alt:
   - https://github.com/saml-dev/obsidian-custom-js
-downloads: 65685
+downloads: 68545
 updated at: "2024-06-07T01:04:57Z"
 related to:
   - "[[GitHub - 395444944]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Write and load custom JavaScript classes and call them from any JS context in Obsidian, including dataviewjs and templater. Load scripts from files or folders, register invocable and startup scripts, and access instances via the global customJS object; each file must contain exactly one class."
 
     stats: {
-        downloads:  65685
+        downloads:  68545
         updated_at: 1717722297000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pocket-sync
 alt:
   - https://github.com/maclean-d/obsidian-pocket
-downloads: 1202
+downloads: 1624
 updated at: "2026-05-28T17:19:12Z"
 related to:
   - "[[GitHub - 1194154338]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Pocket AI conversations and daily highlights into Markdown notes with summaries, action items, transcripts, and Pocket metadata as Obsidian properties. Keep imported content in a managed block so you can add your own notes around it, and run auto, startup, or manual sync with customizable folders and filename templates."
 
     stats: {
-        downloads:  1202
+        downloads:  1624
         updated_at: 1779988752000
     }
 }

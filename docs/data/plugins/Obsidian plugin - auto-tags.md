@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-tags
 alt:
   - https://github.com/li-xiu-qi/obsidian-auto-tags
-downloads: 119
+downloads: 130
 updated at: "2025-11-29T19:42:07Z"
 related to:
   - "[[GitHub - 1106668455]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate relevant tags for notes using large language models that analyze the current file and your vault's tag history. Append tags to frontmatter, return up to five previously used tags plus up to three new suggestions, and run on single files or recursively across folders for batch tagging."
 
     stats: {
-        downloads:  119
+        downloads:  130
         updated_at: 1764445327000
     }
 }

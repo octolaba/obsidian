@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-recall
 alt:
   - https://github.com/florianwoelki/obsidian-better-recall
-downloads: 3907
+downloads: 4081
 updated at: "2026-04-28T06:50:50Z"
 related to:
   - "[[GitHub - 820308629]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create Anki-style decks and cards inside Obsidian and run spaced-repetition review sessions directly in your vault. Use Anki or FSRS algorithms to schedule reviews and adjust timings and multipliers per deck."
 
     stats: {
-        downloads:  3907
+        downloads:  4081
         updated_at: 1777359050000
     }
 }

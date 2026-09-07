@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quackblocks
 alt:
   - https://github.com/yllucsyeoj/quackblocks
-downloads: 109
+downloads: 121
 updated at: "2026-05-14T12:31:41Z"
 related to:
   - "[[GitHub - 1231563950]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run SQL queries inside Obsidian using DuckDB WASM and query local Parquet files directly from your vault. Render results as formatted inline HTML tables or SVG charts (bar, line, area, dot, heatmap, box, waffle and more) that export reliably to PDF."
 
     stats: {
-        downloads:  109
+        downloads:  121
         updated_at: 1778761901000
     }
 }

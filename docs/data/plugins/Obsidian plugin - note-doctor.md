@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-doctor
 alt:
   - https://github.com/mrdanrave/Note-Doctor
-downloads: 426
+downloads: 720
 updated at: "2026-07-06T07:32:55Z"
 related to:
   - "[[GitHub - 1275306131]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Tag new notes with a plaster tag and present them in a stacked, swipeable patient queue for quick triage. Mark notes healed to remove the tag, skip, or open for full review using a clean, keyboard-driven interface."
 
     stats: {
-        downloads:  426
+        downloads:  720
         updated_at: 1783323175000
     }
 }

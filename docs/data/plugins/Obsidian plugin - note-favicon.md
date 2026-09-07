@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-favicon
 alt:
   - https://github.com/mdklab/note-favicon
-downloads: 1141
+downloads: 1173
 updated at: "2025-04-04T11:42:50Z"
 related to:
   - "[[GitHub - 878015639]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display favicons next to note titles in the file explorer using a URL or base64 image specified in a note's frontmatter. Update icons in real time as frontmatter metadata is added, modified, or removed."
 
     stats: {
-        downloads:  1141
+        downloads:  1173
         updated_at: 1743766970000
     }
 }

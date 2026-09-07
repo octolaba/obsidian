@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/memos-ai-sync-plus
 alt:
   - https://github.com/erbanku/obsidian-memos-ai-sync
-downloads: 86
+downloads: 89
 updated at: "2026-06-01T07:02:16Z"
 related to:
   - "[[GitHub - 1221445935]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Memos v0.21 and earlier notes into your Obsidian vault via the classic REST API, preserving content and metadata. Download and embed attachments in the vault, and generate optional AI summaries, tags, and weekly digests with manual or scheduled syncs."
 
     stats: {
-        downloads:  86
+        downloads:  89
         updated_at: 1780297336000
     }
 }

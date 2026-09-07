@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/digitalgarden
 alt:
   - https://github.com/oleeskild/obsidian-digital-garden
-downloads: 84418
-updated at: "2026-07-21T12:08:56Z"
+downloads: 86466
+updated at: "2026-08-10T19:55:00Z"
 related to:
   - "[[GitHub - 459278150]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Convert your Obsidian vault into a customizable digital garden website. Publish only notes marked dg-publish: true, keep private notes local, and share Markdown content, embedded media (images, PDFs, Excalidraw), backlinks, graphs, live search, and themeable styling."
 
     stats: {
-        downloads:  84418
-        updated_at: 1784635736000
+        downloads:  86466
+        updated_at: 1786391700000
     }
 }
 ```

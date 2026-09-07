@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gtd-workflow
 alt:
   - https://github.com/tiancaijb/obsidian-gtd
-downloads: 134
+downloads: 184
 updated at: "2026-07-15T00:56:49Z"
 related to:
   - "[[GitHub - 1281903070]]"
@@ -28,7 +28,7 @@ Arranges notes into a GTD folder structure of Inbox, Next Actions, Waiting, Some
 plugin: {
     id:     "gtd-workflow"
     name:   "GTD Workflow"
-    author: "tiancaijb"
+    author: "Tim Cole"
     repo:   "tiancaijb/obsidian-gtd"
 
     html_url:    "https://community.obsidian.md/plugins/gtd-workflow"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize notes into a GTD folder structure (Inbox, Next Actions, Waiting, Someday, Projects) using Markdown checkboxes and org-style metadata. Capture tasks quickly, track time with CLOCK records and a built-in Pomodoro, and display Agenda, 24-hour Timeline, and time statistics with CSV export. Set inline priorities and adjust task indentation; support Chinese and English metadata."
 
     stats: {
-        downloads:  134
+        downloads:  184
         updated_at: 1784077009000
     }
 }

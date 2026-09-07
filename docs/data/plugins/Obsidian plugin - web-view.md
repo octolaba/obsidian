@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/web-view
 alt:
   - https://github.com/canserhat77/obsidian-web-view
-downloads: 275
+downloads: 383
 updated at: "2026-06-04T13:32:20Z"
 related to:
   - "[[GitHub - 1259349450]]"
@@ -36,7 +36,7 @@ plugin: {
     description: "Opens HTTP/HTTPS links inside Obsidian as web pages in new tabs using an embedded browser. - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  275
+        downloads:  383
         updated_at: 1780579940000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-strikethrough-task
 alt:
   - https://github.com/nomekuma/auto-strikethrough-task-obsidian-pluggin
-downloads: 881
+downloads: 916
 updated at: "2024-10-08T15:20:45Z"
 related to:
   - "[[GitHub - 856938602]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Apply strikethrough to task text when you check tasks and remove it when you uncheck them. Update task formatting in real time as you edit task lists across your notes."
 
     stats: {
-        downloads:  881
+        downloads:  916
         updated_at: 1728400845000
     }
 }

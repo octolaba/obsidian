@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/player-facing-notes
 alt:
   - https://github.com/obsidian-ttrpg-community/player-facing-notes
-downloads: 167
+downloads: 228
 updated at: "2026-06-10T02:37:52Z"
 related to:
   - "[[GitHub - 1264442040]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Flag paragraphs, callouts, code fences, headings or whole notes as player-facing and generate publish-ready copies that contain only flagged content with markers removed. Sync those copies into a mirror folder that preserves folder structure and prunes stale files while keeping all unflagged material private."
 
     stats: {
-        downloads:  167
+        downloads:  228
         updated_at: 1781059072000
     }
 }

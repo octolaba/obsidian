@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-kit
 alt:
   - https://github.com/yaye-work/canvas-kit
-downloads: 816
+downloads: 1584
 updated at: "2026-07-11T05:51:49Z"
 related to:
   - "[[GitHub - 1281234504]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "A complete re-vamp of the obsidian's canvas experience. Great for canvas-first, non-linear notetaking workflow. Draw, quickly add new or existing notes, drag to make sections. To complete the package, a *local search tool* inside your canvas helping you navigate around your notes inside of a canvas."
 
     stats: {
-        downloads:  816
+        downloads:  1584
         updated_at: 1783749109000
     }
 }

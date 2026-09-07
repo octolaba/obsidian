@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/timelines-revamped
 alt:
   - https://github.com/seanlowe/obsidian-timelines
-downloads: 20556
+downloads: 20836
 updated at: "2024-12-03T23:36:40Z"
 related to:
   - "[[GitHub - 666034783]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate chronological timelines from notes that include specific tags, and display them in vertical or horizontal layouts. Format dates with custom patterns, connect events with arrows, and organize events into reorderable groups and subgroups."
 
     stats: {
-        downloads:  20556
+        downloads:  20836
         updated_at: 1733269000000
     }
 }

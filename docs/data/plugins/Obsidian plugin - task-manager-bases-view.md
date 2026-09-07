@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/task-manager-bases-view
 alt:
   - https://github.com/vastea/obsidian-task-manager-bases-view
-downloads: 489
-updated at: "2026-07-22T03:34:47Z"
+downloads: 634
+updated at: "2026-07-28T02:05:44Z"
 related to:
   - "[[GitHub - 1263098163]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render Kanban and Timeline views over your Bases queries, plus a weekly-log Calendar built from your daily notes. Drag cards to change status or archive, drag timeline bars to reschedule, and create or delete calendar log blocks. It owns no data model and hard-codes no field names — grouping, filtering and dates come from your Bases setup, and edits write back to your own note properties, so your Markdown stays the single source of truth."
 
     stats: {
-        downloads:  489
-        updated_at: 1784691287000
+        downloads:  634
+        updated_at: 1785204344000
     }
 }
 ```

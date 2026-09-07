@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notice-logger
 alt:
   - https://github.com/gapmiss/notice-logger
-downloads: 2187
+downloads: 3092
 updated at: "2026-07-17T22:21:11Z"
 related to:
   - "[[GitHub - 775658413]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Log all Obsidian notices to the developer console with an optional prefix and timestamp for easier debugging. Use quick commands to enable or disable logging."
 
     stats: {
-        downloads:  2187
+        downloads:  3092
         updated_at: 1784326871000
     }
 }

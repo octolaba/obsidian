@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-as-gallery
 alt:
   - https://github.com/usero2/obsidian-plugins-folder-as-gallery
-downloads: 410
+downloads: 661
 updated at: "2026-07-07T18:18:16Z"
 related to:
   - "[[GitHub - 1261346362]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View any folder as a responsive media gallery in a new tab, displaying image thumbnails and hover-to-play video previews. Open galleries from an icon beside folders, preview markdown notes using the first image or a text snippet, and navigate with breadcrumb titles and a live search."
 
     stats: {
-        downloads:  410
+        downloads:  661
         updated_at: 1783448296000
     }
 }

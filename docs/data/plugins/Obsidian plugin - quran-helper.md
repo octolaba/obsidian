@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quran-helper
 alt:
   - https://github.com/ammarcodes/obsidian-quran-helper-plugin
-downloads: 1752
+downloads: 1793
 updated at: "2026-05-14T06:48:46Z"
 related to:
   - "[[GitHub - 815055125]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "أدرج آيات القرآن والسور وصفحات المصحف مباشرة في ملاحظات Obsidian بصيغ Callout أو Blockquote أو مدمج داخل الفقرة. ابحث بسرعة بمطابقة جزئية مع دعم التطبيع العربي والبحث بالأرقام واعمل بالكامل دون اتصال؛ أدخل مدمجًا فورًا بالضغط Mod+Enter."
 
     stats: {
-        downloads:  1752
+        downloads:  1793
         updated_at: 1778741326000
     }
 }

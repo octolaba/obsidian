@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/strava-periodic-note-sync
 alt:
   - https://github.com/jamesjarvis/obsidian-strava-periodic-sync
-downloads: 30
+downloads: 40
 updated at: "2026-07-17T20:57:51Z"
 related to:
   - "[[GitHub - 1145474832]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Strava activities to Periodic or Daily Notes using OAuth2 authentication and secure credential storage. Add an Activities section showing emoji, pace/speed, distance, duration and elevation; update frontmatter metrics (running_distance_m, cycling_distance_m, walking_distance_m, etc.) and backfill up to 90 days."
 
     stats: {
-        downloads:  30
+        downloads:  40
         updated_at: 1784321871000
     }
 }

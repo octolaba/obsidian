@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/most-used
 alt:
   - https://github.com/levi-ivel/MostUsed
-downloads: 1214
+downloads: 1228
 updated at: "2026-04-20T09:14:17Z"
 related to:
   - "[[GitHub - 794562996]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display the 100 most common words across your vault in an interactive graph for quick insight into word usage. Exclude words, set the scanning scope, and view or copy the full word list with options to export as .txt or .json after generating the graph."
 
     stats: {
-        downloads:  1214
+        downloads:  1228
         updated_at: 1776676457000
     }
 }

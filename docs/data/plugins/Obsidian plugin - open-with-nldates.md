@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-with-nldates
 alt:
   - https://github.com/charliecm/obsidian-open-with-nldates
-downloads: 1286
+downloads: 1299
 updated at: "2024-10-17T05:39:40Z"
 related to:
   - "[[GitHub - 874001402]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open daily notes by typing natural-language dates instead of searching the calendar or file names. Use the Natural Language Dates plugin to parse phrases like \"next Friday\" or \"3 days from now\" and jump directly to past or future daily notes."
 
     stats: {
-        downloads:  1286
+        downloads:  1299
         updated_at: 1729143580000
     }
 }

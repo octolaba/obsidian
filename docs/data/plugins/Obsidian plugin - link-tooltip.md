@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/link-tooltip
 alt:
   - https://github.com/brunoribeiro2k/obsidian-link-tooltip
-downloads: 109
+downloads: 130
 updated at: "2026-06-26T21:26:18Z"
 related to:
   - "[[GitHub - 1258310322]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show the destination of hovered Markdown links and aliased wikilinks in Live Preview and source mode, including external URLs and internal note targets. Display a small floating tooltip near the cursor by extracting the link target from CodeMirror’s syntax tree so hidden destinations become visible."
 
     stats: {
-        downloads:  109
+        downloads:  130
         updated_at: 1782509178000
     }
 }

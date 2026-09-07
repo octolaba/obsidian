@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/uncertainty-calc
 alt:
   - https://github.com/masoudmim/obsidian-uncertainty-calc
-downloads: 44
+downloads: 58
 updated at: "2026-07-01T00:06:41Z"
 related to:
   - "[[GitHub - 1285552984]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Propagate measurement uncertainty through your notes using spreadsheet-style calc blocks. Assign measured quantities with ±, track correlations and significant figures, compute expanded uncertainty and an uncertainty budget, and run optional Monte Carlo propagation for full distribution results."
 
     stats: {
-        downloads:  44
+        downloads:  58
         updated_at: 1782864401000
     }
 }

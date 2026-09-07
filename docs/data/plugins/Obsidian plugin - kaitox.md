@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kaitox
 alt:
   - https://github.com/kuangjiajia/kaitox-obsidian
-downloads: 47
+downloads: 60
 updated at: "2026-07-13T13:16:04Z"
 related to:
   - "[[GitHub - 1294581976]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync the active note to X as an Article draft. Send formatted Markdown through a local relay and browser extension to create and update Article drafts on X."
 
     stats: {
-        downloads:  47
+        downloads:  60
         updated_at: 1783948564000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/caption-numbering
 alt:
   - https://github.com/zhangyitong625-zjuchem/Caption-Numbering-Obsidian
-downloads: 56
+downloads: 91
 updated at: "2026-07-04T04:15:04Z"
 related to:
   - "[[GitHub - 1287477766]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Number figure, table, and algorithm captions written as sixth-level headings (######) using customizable tag-based counters and optional chapter-prefix numbering. Sync renumbered headings with [[#caption]] wikilinks, suggest tags as you type, support per-document front-matter, run optional timer-based auto-numbering, and remove numbers with one click."
 
     stats: {
-        downloads:  56
+        downloads:  91
         updated_at: 1783138504000
     }
 }

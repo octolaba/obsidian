@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/inscribe
 alt:
   - https://github.com/ahmetildirim/obsidian-inscribe
-downloads: 2240
+downloads: 2305
 updated at: "2026-04-11T19:59:09Z"
 related to:
   - "[[GitHub - 910927607]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate AI-powered inline autocompletions as you type and accept or reject suggestions with TAB. Connect to Ollama, Gemini, Grok or OpenAI-compatible providers, customize system and user prompts with context templates (e.g. {{pre_cursor}}), and assign per-path profiles to switch or disable completions for specific notes."
 
     stats: {
-        downloads:  2240
+        downloads:  2305
         updated_at: 1775937549000
     }
 }

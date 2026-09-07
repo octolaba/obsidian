@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/workspace-clock
 alt:
   - https://github.com/toyotathief/obsidian-workspace-clock
-downloads: 236
+downloads: 344
 updated at: "2026-07-03T15:48:13Z"
 related to:
   - "[[GitHub - 1274850157]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "A small clock that lives in Obsidian's left-sidebar header. Click it for a pomodoro timer or switch it to a stopwatch, a monthly calendar wired to your daily notes, and one-click way to drop timestamps and labeled, time-tracked sessions straight into your notes. Adopts whatever theme you're using (light or dark, sharp or rounded) Optional accent override in settings takes a custom color or one of six gradient colorways. The theme-native default stays unless changed."
 
     stats: {
-        downloads:  236
+        downloads:  344
         updated_at: 1783093693000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tickban
 alt:
   - https://github.com/mashx43/obsidian-tickban
-downloads: 174
+downloads: 201
 updated at: "2026-06-09T10:16:24Z"
 related to:
   - "[[GitHub - 1220520617]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Collect tasks from across your vault and organize checkbox items into a Kanban board, auto-mapping [ ], [/], and [x] into TODO, DOING, and DONE columns. Drag and drop or use card menus to update status, jump to the original note, and show tags and file paths."
 
     stats: {
-        downloads:  174
+        downloads:  201
         updated_at: 1781000184000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/crumbs-obsidian
 alt:
   - https://github.com/tgrosinger/crumbs-obsidian
-downloads: 7040
+downloads: 7300
 updated at: "2026-05-27T21:25:09Z"
 related to:
   - "[[GitHub - 565944994]]"
@@ -28,7 +28,7 @@ Adds breadcrumb navigation to Obsidian. A clickable trail of parent folders and 
 plugin: {
     id:     "crumbs-obsidian"
     name:   "Crumbs"
-    author: "tgrosinger"
+    author: "Tony Grosinger"
     repo:   "tgrosinger/crumbs-obsidian"
 
     html_url:    "https://community.obsidian.md/plugins/crumbs-obsidian"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add breadcrumb navigation to Obsidian. Show a clickable trail of parent folders and notes for quick navigation and context."
 
     stats: {
-        downloads:  7040
+        downloads:  7300
         updated_at: 1779917109000
     }
 }

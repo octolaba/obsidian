@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dream-journal
 alt:
   - https://github.com/eharris128/obsidian-dream-journal
-downloads: 115
+downloads: 130
 updated at: "2026-06-08T15:41:37Z"
 related to:
   - "[[GitHub - 892803220]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Record and analyze dreams directly in Obsidian, saving each entry as a Markdown file in your vault. Capture titles, descriptions and emotions via an emotion wheel, then view and manage dream entries and track experiences over time with mobile support."
 
     stats: {
-        downloads:  115
+        downloads:  130
         updated_at: 1780933297000
     }
 }

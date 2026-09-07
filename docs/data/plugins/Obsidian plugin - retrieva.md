@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/retrieva
 alt:
   - https://github.com/daichi-629/obsidian-retrieva
-downloads: 57
-updated at: "2026-07-22T13:50:10Z"
+downloads: 93
+updated at: "2026-07-25T16:57:28Z"
 related to:
   - "[[GitHub - 1308799861]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Schedule reviews with FSRS while keeping questions, answers, IDs, and review history in ordinary Markdown files. Rebuild all card state from your vault without an external database, select decks by tag with nested counts, skip cards for a session, manage suspended cards, and create forward or linked front/back pairs."
 
     stats: {
-        downloads:  57
-        updated_at: 1784728210000
+        downloads:  93
+        updated_at: 1784998648000
     }
 }
 ```

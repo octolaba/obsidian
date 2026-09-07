@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/sansconverter
 alt:
   - https://github.com/kosperun/obsidian-sansconverter
-downloads: 82
-updated at: "2026-05-16T21:19:46Z"
+downloads: 101
+updated at: "2026-08-03T01:36:07Z"
 related to:
   - "[[GitHub - 1226815361]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Convert selected text between IAST, Balaram (legacy), Harvard‑Kyoto, Velthius, and Ukrainian (Cyrillic) Sanskrit transliteration. Replace the selection with the converted text via the command palette for quick in‑vault conversions."
 
     stats: {
-        downloads:  82
-        updated_at: 1778966386000
+        downloads:  101
+        updated_at: 1785720967000
     }
 }
 ```

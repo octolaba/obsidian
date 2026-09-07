@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tag-many
 alt:
   - https://github.com/joshua-martius/tagmany
-downloads: 6794
+downloads: 6829
 updated at: "2023-08-31T07:18:36Z"
 related to:
   - "[[GitHub - 671014267]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add the same tag(s) to multiple notes in a folder at once. Right-click a folder, choose \"Tag all Notes in this Folder\", enter comma-separated tags and optionally include subfolders to apply tags recursively. Note that tagging the root directory and canvases is not supported yet."
 
     stats: {
-        downloads:  6794
+        downloads:  6829
         updated_at: 1693466316000
     }
 }

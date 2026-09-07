@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/photopea-editor
 alt:
   - https://github.com/karmatoast40340/photopea-editor
-downloads: 1013
+downloads: 1034
 updated at: "2024-12-10T14:20:53Z"
 related to:
   - "[[GitHub - 899245265]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit PNG, JPG, and JPEG images directly inside Obsidian by embedding the Photopea web editor in the same panel and replacing the default image viewer. Save edits in Photopea and re-import the updated file manually into your vault."
 
     stats: {
-        downloads:  1013
+        downloads:  1034
         updated_at: 1733840453000
     }
 }

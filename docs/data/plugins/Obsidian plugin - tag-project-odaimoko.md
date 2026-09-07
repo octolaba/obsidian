@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tag-project-odaimoko
 alt:
   - https://github.com/odaimoko/tag-project
-downloads: 9703
+downloads: 9737
 updated at: "2025-08-13T04:47:39Z"
 related to:
   - "[[GitHub - 703599810]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Tag tasks anywhere and manage them on a single project page using Dataview-powered workflows. Create projects and subprojects with tags and frontmatter, assign tasks to reusable workflows, and track progress from one Manage Page."
 
     stats: {
-        downloads:  9703
+        downloads:  9737
         updated_at: 1755060459000
     }
 }

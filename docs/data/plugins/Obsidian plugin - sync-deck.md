@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/sync-deck
 alt:
   - https://github.com/ismailivanov/sync-deck
-downloads: 74
-updated at: "2026-07-16T02:44:06Z"
+downloads: 112
+updated at: "2026-07-29T00:49:10Z"
 related to:
   - "[[GitHub - 1289594429]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync your Obsidian vault across devices and with teammates using Google sign‑in, keeping files and folders updated with real‑time sync and live presence. Manage multiple synced vaults, choose what to sync, and recover shared files when leaving a vault. Keep Task Deck boards synchronized and see who’s on each card."
 
     stats: {
-        downloads:  74
-        updated_at: 1784169846000
+        downloads:  112
+        updated_at: 1785286150000
     }
 }
 ```

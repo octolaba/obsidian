@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/jdb-command
 alt:
   - https://github.com/c8vzn4ym5g-ai/jdb-command
-downloads: 24
-updated at: "2026-07-23T12:09:26Z"
+downloads: 53
+updated at: "2026-07-23T15:06:20Z"
 related to:
   - "[[GitHub - 1307586908]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Turn a jdb-command code block into a mobile-first command center for Jason's Digital Brain inside Obsidian. Dictate or type an instruction, attach photos, audio, PDFs, documents or Markdown, preview and remove selections, then submit to save the command and attachments in inbox/commands with a persistent receipt. Keep data local; never send vault content to third parties."
 
     stats: {
-        downloads:  24
-        updated_at: 1784808566000
+        downloads:  53
+        updated_at: 1784819180000
     }
 }
 ```

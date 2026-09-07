@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/runsh
 alt:
   - https://github.com/deedone/obsidian-runsh
-downloads: 974
+downloads: 1044
 updated at: "2025-01-22T14:26:05Z"
 related to:
   - "[[GitHub - 920615340]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run shell commands from Obsidian and launch development environments or any scripts with clickable buttons created by adding a runsh code block to a note. Verify commands before running; the plugin provides no security protections."
 
     stats: {
-        downloads:  974
+        downloads:  1044
         updated_at: 1737555965000
     }
 }

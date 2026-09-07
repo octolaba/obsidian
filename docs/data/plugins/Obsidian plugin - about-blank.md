@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/about-blank
 alt:
   - https://github.com/ai-jani/about-blank
-downloads: 1063
+downloads: 1136
 updated at: "2025-07-15T15:15:39Z"
 related to:
   - "[[GitHub - 952250062]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Customize the empty file view by adding actions to open files or run commands and hide default messages and buttons. Group actions (including nested groups), set icons, require confirmation before execution, and register actions as commands for quick access."
 
     stats: {
-        downloads:  1063
+        downloads:  1136
         updated_at: 1752592539000
     }
 }

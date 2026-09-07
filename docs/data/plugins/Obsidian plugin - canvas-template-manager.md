@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-template-manager
 alt:
   - https://github.com/phillip383/obsidian-canvas-template-manager
-downloads: 76
+downloads: 113
 updated at: "2026-07-07T13:18:59Z"
 related to:
   - "[[GitHub - 1287527720]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Duplicate canvas templates visually and reuse them across your vault. Automatically add tags by defining a rule that uses a card's level-one title as the tag name."
 
     stats: {
-        downloads:  76
+        downloads:  113
         updated_at: 1783430339000
     }
 }

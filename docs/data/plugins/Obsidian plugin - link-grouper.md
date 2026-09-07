@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/link-grouper
 alt:
   - https://github.com/eluisjonathann/obsidian-link-grouper
-downloads: 112
+downloads: 148
 updated at: "2026-06-22T22:15:56Z"
 related to:
   - "[[GitHub - 1277353675]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Group all files linked or embedded in the active note into a new sibling folder named after the note. Handle naming collisions by appending incremental numbers and update links across the vault to preserve link integrity when files are moved."
 
     stats: {
-        downloads:  112
+        downloads:  148
         updated_at: 1782166556000
     }
 }

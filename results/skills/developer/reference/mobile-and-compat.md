@@ -27,7 +27,7 @@ beyond a documented sentence is Unverified. How to *test* on mobile belongs to t
 reference; this file owns the *contracts*.
 
 Citation aliases: `api`, `docs`, `sample`, `theme`, `rel`, `help` — defined in the skill's Sources
-section. Every API named states its `@since` and its tier at this pin: **stable** at or below 1.12.7,
+section. Every API named states its `@since` and its tier at this pin: **stable** at or below 1.13.7,
 **insider-only** above it.
 
 ## `isDesktopOnly`: the install gate

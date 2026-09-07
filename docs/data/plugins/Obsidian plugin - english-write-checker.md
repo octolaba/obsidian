@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/english-write-checker
 alt:
   - https://github.com/julioagh/english-write-checker
-downloads: 108
+downloads: 125
 updated at: "2026-05-15T21:21:11Z"
 related to:
   - "[[GitHub - 1231234239]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Analyze English writing in real time using a local LLM via Ollama and receive grammar and style suggestions inline. Highlight grammar errors with red underlines and style upgrades with blue, show clickable suggestion chips with hover explanations, accept fixes with one click, and keep all processing local."
 
     stats: {
-        downloads:  108
+        downloads:  125
         updated_at: 1778880071000
     }
 }

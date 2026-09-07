@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/key-value-list
 alt:
   - https://github.com/christianwannerstedt/obsidian-key-value-list
-downloads: 6420
+downloads: 6502
 updated at: "2026-07-05T22:19:28Z"
 related to:
   - "[[GitHub - 706401257]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format Markdown lists that use a delimiter (\":\" by default) into aligned key-value rows with fixed-width keys. Wrap long values, apply alternating row shading for readability, and preserve formatting like bold, links and tags."
 
     stats: {
-        downloads:  6420
+        downloads:  6502
         updated_at: 1783289968000
     }
 }

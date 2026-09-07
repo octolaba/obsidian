@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/perplexed
 alt:
   - https://github.com/lossless-group/perplexed-plugin
-downloads: 655
+downloads: 754
 updated at: "2026-07-06T19:42:37Z"
 related to:
   - "[[GitHub - 1016978927]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate AI-written, source-cited content and research in Obsidian with Perplexity, Anthropic, Perplexica or local LM Studio. Stream results in real time, run deep research across many sources, and send only prompts you invoke—no automatic uploads or telemetry."
 
     stats: {
-        downloads:  655
+        downloads:  754
         updated_at: 1783366957000
     }
 }

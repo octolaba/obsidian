@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/logically
 alt:
   - https://github.com/afforai/obsidian-logically-plugin
-downloads: 3023
+downloads: 3282
 updated at: "2026-06-02T12:37:50Z"
 related to:
   - "[[GitHub - 1121417769]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Conduct citation-backed research inside Obsidian with inline citations and source tables. Use Semantic Scholar, Google, or Document Retrieval modes to search your vault and the web, run OpenAI, Anthropic, or Gemini models, and insert chat output directly into notes."
 
     stats: {
-        downloads:  3023
+        downloads:  3282
         updated_at: 1780403870000
     }
 }

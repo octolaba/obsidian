@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vaultcrypt
 alt:
   - https://github.com/romejoe/VaultCrypt
-downloads: 241
+downloads: 280
 updated at: "2026-04-06T18:24:01Z"
 related to:
   - "[[GitHub - 1191777345]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Store secrets in KeePass-compatible (.kdbx) databases inside your vault. Reference secrets inline with {{vc:profileId/...#Field}} tokens that render as masked, interactive chips and never expose plaintext. Copy values to clipboard with auto-clear, lock/unlock profiles per session, and use Argon2id key derivation."
 
     stats: {
-        downloads:  241
+        downloads:  280
         updated_at: 1775499841000
     }
 }

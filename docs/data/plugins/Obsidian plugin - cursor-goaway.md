@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/cursor-goaway
 alt:
   - https://github.com/liuxingyu521/obsidian-plugin-cursor-goaway
-downloads: 25381
+downloads: 25853
 updated at: "2025-12-03T10:08:11Z"
 related to:
   - "[[GitHub - 715148130]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Hide the editor cursor briefly when opening a Markdown file to prevent the cursor from affecting the first line’s display. Restore focus and place the cursor at the start of the first line by pressing ArrowDown; applies once per file open or switch."
 
     stats: {
-        downloads:  25381
+        downloads:  25853
         updated_at: 1764756491000
     }
 }

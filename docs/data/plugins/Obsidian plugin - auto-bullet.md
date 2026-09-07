@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-bullet
 alt:
   - https://github.com/takitsuba/obsidian-auto-bullet
-downloads: 2001
+downloads: 2045
 updated at: "2025-06-26T14:54:11Z"
 related to:
   - "[[GitHub - 947767914]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert \"- \" automatically when you type a space or tab at the start of a line to create bullet points. Toggle the feature on/off and control behavior separately for half-width spaces, full-width spaces, and tabs."
 
     stats: {
-        downloads:  2001
+        downloads:  2045
         updated_at: 1750949651000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/metadata-extractor
 alt:
   - https://github.com/kometenstaub/metadata-extractor
-downloads: 26713
+downloads: 26939
 updated at: "2022-12-20T12:15:36Z"
 related to:
   - "[[GitHub - 406423191]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export Obsidian vault metadata to JSON files on disk. Write tag indexes and per-note metadata (tags, headings, links, backlinks, frontmatter) as separate JSON exports and schedule them for third-party apps to consume."
 
     stats: {
-        downloads:  26713
+        downloads:  26939
         updated_at: 1671538536000
     }
 }

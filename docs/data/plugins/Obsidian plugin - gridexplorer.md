@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/gridexplorer
 alt:
   - https://github.com/devon22/obsidian-gridexplorer
-downloads: 46819
-updated at: "2026-07-23T08:15:56Z"
+downloads: 48539
+updated at: "2026-07-31T18:22:51Z"
 related to:
   - "[[GitHub - 928977152]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Browse and manage notes, folders, and attachments in a highly configurable grid layout. Easily filter and view content using multiple modes, including folders, bookmarks, search, backlinks, outgoing links, recent files, random selection, and custom Dataview queries. You can directly preview images, video, audio, PDFs, and Canvas files right from the grid, and apply global or per-folder sorting for fast and intuitive navigation."
 
     stats: {
-        downloads:  46819
-        updated_at: 1784794556000
+        downloads:  48539
+        updated_at: 1785522171000
     }
 }
 ```

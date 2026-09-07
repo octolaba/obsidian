@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/spotify-control
 alt:
   - https://github.com/caezium/obsidian-spotify-control
-downloads:
-updated at:
+downloads: 888
+updated at: "2026-07-24T07:33:58Z"
 related to:
   - "[[GitHub - 1246985776]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/caezium/obsidian-spotify-control"
     description: "Control Spotify from your notes. Now-playing sidebar with hover controls, time-synced lyrics via LRCLIB, queue, search, transport hotkeys, and insert-track-into-note. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Control Spotify playback and display a now-playing sidebar with album art, transport controls, seek bar, volume, and device picker. Show time-synced lyrics with clickable timestamps, browse and jump the upcoming queue, search tracks/albums/playlists, and insert track metadata or Spotify URIs into notes. Display works on Free; playback control requires Premium."
+
+    stats: {
+        downloads:  888
+        updated_at: 1784878438000
+    }
 }
 ```
 

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/image-embedder
 alt:
   - https://github.com/sky150/obsidian-image-embedder
-downloads: 2104
-updated at: "2026-07-17T15:52:07Z"
+downloads: 2260
+updated at: "2026-07-25T12:08:42Z"
 related to:
   - "[[GitHub - 954907532]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Download and embed images from pasted URLs into your vault, saving files to a configurable attachment folder with customizable filename formats and optional timestamps. Customize filename placeholders, enable confirmation before embedding, display saved file paths, and insert markdown links to the embedded images."
 
     stats: {
-        downloads:  2104
-        updated_at: 1784303527000
+        downloads:  2260
+        updated_at: 1784981322000
     }
 }
 ```

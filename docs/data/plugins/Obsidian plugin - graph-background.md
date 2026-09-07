@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graph-background
 alt:
   - https://github.com/jk-cpu-jpg/Graph-Background
-downloads: 214
+downloads: 320
 updated at: "2026-06-30T01:11:26Z"
 related to:
   - "[[GitHub - 1282714605]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Customize backgrounds for Obsidian's global and local graph views with a solid color, linear/radial gradient, or image—no theme switching or CSS needed. Use a vault file or external URL, pick fit (cover/contain/repeat/center), add dim/blur overlays for readable nodes, and see changes live on desktop and mobile."
 
     stats: {
-        downloads:  214
+        downloads:  320
         updated_at: 1782781886000
     }
 }

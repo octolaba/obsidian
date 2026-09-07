@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/md-image-caption
 alt:
   - https://github.com/hananoshikayomaru/obsidian-image-caption
-downloads: 3275
+downloads: 3298
 updated at: "2023-11-21T03:46:37Z"
 related to:
   - "[[GitHub - 700964882]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate Markdown-based captions and wrap external-image links in <figure> and <figcaption> using simple inline commands. Insert or replace figure elements and add optional lightbox grouping for Obsidian Publish and any Markdown editor. Use external image URLs only."
 
     stats: {
-        downloads:  3275
+        downloads:  3298
         updated_at: 1700538397000
     }
 }

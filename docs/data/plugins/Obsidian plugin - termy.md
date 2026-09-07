@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/termy
 alt:
   - https://github.com/zyphrzero/Termy
-downloads: 8121
+downloads: 9540
 updated at: "2026-05-16T15:24:41Z"
 related to:
   - "[[GitHub - 1143084840]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run terminal sessions inside the editor with a bundled Rust PTY backend and xterm.js front-end. Supports cmd, PowerShell, PowerShell Core, WSL, Git Bash, bash, zsh, and custom shells. Split panes, multi-session, search, copy/paste, prompt navigation, and font sizing match a real terminal. Reusable workflows combine terminal commands, editor commands, and external links into one launcher. Drag files into a session, click file references in output to open them in your vault, and hand off the active-note context to local AI CLIs (Claude Code, Codex, OpenCode, Gemini). No Node.js, node-pty, or build toolchain required."
 
     stats: {
-        downloads:  8121
+        downloads:  9540
         updated_at: 1778945081000
     }
 }

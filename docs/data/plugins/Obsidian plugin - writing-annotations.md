@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/writing-annotations
 alt:
   - https://github.com/hornatx/writing-annotations
-downloads: 340
+downloads: 383
 updated at: "2026-06-03T12:54:20Z"
 related to:
   - "[[GitHub - 1246260336]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "添加文本标注并执行简易替换。记录小说大纲和灵感片段，保存并管理版本历史。"
 
     stats: {
-        downloads:  340
+        downloads:  383
         updated_at: 1780491260000
     }
 }

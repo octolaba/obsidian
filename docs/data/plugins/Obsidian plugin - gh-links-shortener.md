@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gh-links-shortener
 alt:
   - https://github.com/dbarnett/obsidian-gh-links-shortener
-downloads: 343
+downloads: 356
 updated at: "2025-08-19T04:17:43Z"
 related to:
   - "[[GitHub - 1039869166]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Shorten pasted GitHub URLs into concise repo/ref titles. Capture pasted text and set the link title to a compact GitHub reference (e.g., EnterpriseQualityCoding/FizzBuzzEnterpriseEdition#1) for repositories, issues, pull requests, and other GitHub pages."
 
     stats: {
-        downloads:  343
+        downloads:  356
         updated_at: 1755577063000
     }
 }

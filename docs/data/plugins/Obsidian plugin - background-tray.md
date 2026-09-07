@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/background-tray
 alt:
   - https://github.com/synaphi/background-tray
-downloads: 578
+downloads: 1026
 updated at: "2026-06-26T01:10:47Z"
 related to:
   - "[[GitHub - 1273925322]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep Obsidian running in the system tray when you close the window instead of quitting. Use the tray icon to toggle show/hide, open the menu for Show/Hide, Relaunch, or Quit completely, and restore the existing window when relaunching. Set a custom tray icon and tooltip that can include the vault name."
 
     stats: {
-        downloads:  578
+        downloads:  1026
         updated_at: 1782436247000
     }
 }

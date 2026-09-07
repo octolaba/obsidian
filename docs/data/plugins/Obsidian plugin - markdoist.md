@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markdoist
 alt:
   - https://github.com/0ximst1ll/markdoist
-downloads: 177
+downloads: 211
 updated at: "2026-05-19T09:18:03Z"
 related to:
   - "[[GitHub - 1134345915]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage Todoist tasks from plain-text Markdown checkboxes and sync changes both ways with Todoist. Keep edits local with a persistent offline queue and background sync, binding lines with a sync tag that receives a todoist_id marker. Render Todoist filters as task lists in Obsidian code blocks and set due dates or projects with simple inline markers."
 
     stats: {
-        downloads:  177
+        downloads:  211
         updated_at: 1779182283000
     }
 }

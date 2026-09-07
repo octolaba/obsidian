@@ -32,8 +32,8 @@
       "otherKeys": {
         "state": "ignored",
         "valueShape": "integer",
-        "rationale": "Per-release download counters. Per-version download series are out of catalog scope (§10), and their churn is an explicitly ignored Update Run event (§6.3.3). The key is the upstream GitHub release tag, not a version number: at the pin 75,020 of 75,052 such keys are semver-shaped with an optional `v` prefix and 32 are arbitrary tag names (`publish`, `build/main.js`, `全功能支持`, a bare UUID). Modelling them as a semver pattern would have made 32 ordinary rows look like schema drift, so the manifest models the *value* shape and treats the key as opaque.",
-        "regressionAnchor": { "releaseKeys": 75052, "semverShaped": 75020, "otherShaped": 32 }
+        "rationale": "Per-release download counters. Per-version download series are out of catalog scope (§10), and their churn is an explicitly ignored Update Run event (§6.3.3). The key is the upstream GitHub release tag, not a version number: at the pin 81,901 of 81,941 such keys are semver-shaped with an optional `v` prefix and 40 are arbitrary tag names (`publish`, `build/main.js`, `全功能支持`, a bare UUID). Modelling them as a semver pattern would have made 40 ordinary rows look like schema drift, so the manifest models the *value* shape and treats the key as opaque.",
+        "regressionAnchor": { "releaseKeys": 81941, "semverShaped": 81901, "otherShaped": 40 }
       }
     },
     "community-plugins-removed.json": {

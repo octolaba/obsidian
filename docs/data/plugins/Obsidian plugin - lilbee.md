@@ -12,8 +12,8 @@ tags:
 url: https://community.obsidian.md/plugins/lilbee
 alt:
   - https://github.com/tobocop2/obsidian-lilbee
-downloads: 747
-updated at: "2026-07-23T17:57:41Z"
+downloads: 913
+updated at: "2026-08-10T07:36:53Z"
 related to:
   - "[[GitHub - 1182240855]]"
 remind me:
@@ -36,8 +36,8 @@ plugin: {
     about:       "lilbee turns your Obsidian vault into a private, local AI knowledge base: a search engine and native LLM manager with a web crawler built in. It runs its own local models for you (browse a catalog, pull one, run it on your GPU), with no separate app and no account. Point it at your files, or crawl a web page or a docs site into your vault, then ask it anything and get answers grounded in your notes, PDFs, ebooks, code, and scanned pages, each with a citation you click to the exact source line. That's local RAG, with semantic and keyword search. Everything stays on your computer; cloud models (OpenAI, Claude, Gemini) are opt-in, per role. Already use Ollama or LM Studio? Point lilbee at them and your models appear in the same pickers. What you can do: - Run local LLMs with no setup: browse a catalog, pull a model, lilbee runs it. - Crawl a page or a whole docs site into your vault and cite it offline. - Search 150+ file types with OCR, and build a linked wiki from what you index."
 
     stats: {
-        downloads:  747
-        updated_at: 1784829461000
+        downloads:  913
+        updated_at: 1786347413000
     }
 }
 ```

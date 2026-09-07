@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/eleven-labs
 alt:
   - https://github.com/veritas1/eleven-labs-obsidian-plugin
-downloads: 5878
+downloads: 5945
 updated at: "2023-12-07T16:55:35Z"
 related to:
   - "[[GitHub - 679871539]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create text-to-speech audio from highlighted note text using Eleven Labs voices and models. Choose a voice and model, generate audio in the background, and save audio files directly into your vault. Receive a notification when generation completes."
 
     stats: {
-        downloads:  5878
+        downloads:  5945
         updated_at: 1701968135000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/basecraft
 alt:
   - https://github.com/cexyz01/obsidian-basecraft
-downloads: 96
+downloads: 135
 updated at: "2026-07-20T20:21:50Z"
 related to:
   - "[[GitHub - 1229166463]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a Pivot view to any .base file to cross-tabulate notes by row/column properties and aggregations. Use Count and Sum (free) or Pro avg/min/max/median/distinct; click cells to open notes, apply heatmaps or percentages, and export CSV/Excel."
 
     stats: {
-        downloads:  96
+        downloads:  135
         updated_at: 1784578910000
     }
 }

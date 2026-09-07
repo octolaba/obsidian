@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/idorecall
 alt:
   - https://github.com/idorecall/idorecall
-downloads: 2802
+downloads: 2812
 updated at: "2023-10-27T08:27:26Z"
 related to:
   - "[[GitHub - 674631165]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create spaced-repetition flashcards (recalls) linked to exact locations in your Obsidian notes. Practice recalls and open the source note with the linked text highlighted to refresh context when you struggle to remember."
 
     stats: {
-        downloads:  2802
+        downloads:  2812
         updated_at: 1698395246000
     }
 }

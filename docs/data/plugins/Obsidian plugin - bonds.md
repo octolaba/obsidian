@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bonds
 alt:
   - https://github.com/zakiruz/synapse
-downloads: 42
+downloads: 58
 updated at: "2026-07-04T19:14:53Z"
 related to:
   - "[[GitHub - 1286551127]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Make links first-class citizens by turning connections into standalone bond notes that hold content, type, and history. Render bonds automatically in both endpoint notes so relationship-specific information lives in one place and appears where it's relevant."
 
     stats: {
-        downloads:  42
+        downloads:  58
         updated_at: 1783192493000
     }
 }

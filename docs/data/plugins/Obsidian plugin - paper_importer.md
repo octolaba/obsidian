@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/paper_importer
 alt:
   - https://github.com/chenzhekl/obsidian_paper_importer
-downloads: 4785
+downloads: 5124
 updated at: "2025-11-24T07:57:33Z"
 related to:
   - "[[GitHub - 886648923]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import papers from arXiv into your vault by entering an arXiv ID or URL, downloading metadata and optionally the PDF. Create customizable note templates with variables like paper_id, title, authors, date, abstract, comments and pdf_link, and save outputs to configurable folders."
 
     stats: {
-        downloads:  4785
+        downloads:  5124
         updated_at: 1763971053000
     }
 }

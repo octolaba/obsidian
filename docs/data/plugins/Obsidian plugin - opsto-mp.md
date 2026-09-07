@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/opsto-mp
 alt:
   - https://github.com/eatmelonsec/OpsToMP
-downloads: 215
+downloads: 251
 updated at: "2025-12-30T10:18:51Z"
 related to:
   - "[[GitHub - 1124842598]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Obsidian Markdown to WeChat Official Account–compatible HTML and preview rendered output in real time inside Obsidian. Upload drafts or publish directly, auto-upload local images, apply WeChat styling, filter dangerous tags with XSS protection, and manage drafts and posts."
 
     stats: {
-        downloads:  215
+        downloads:  251
         updated_at: 1767089931000
     }
 }

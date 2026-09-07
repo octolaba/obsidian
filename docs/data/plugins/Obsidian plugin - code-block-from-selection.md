@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/code-block-from-selection
 alt:
   - https://github.com/dy-sh/obsidian-code-block-from-selection
-downloads: 12859
+downloads: 12948
 updated at: "2026-04-22T12:52:12Z"
 related to:
   - "[[GitHub - 346422491]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Wrap selected text or the current line in a fenced Markdown code block with a single command. Specify one or many languages in settings and assign hotkeys for quick insertion."
 
     stats: {
-        downloads:  12859
+        downloads:  12948
         updated_at: 1776862332000
     }
 }

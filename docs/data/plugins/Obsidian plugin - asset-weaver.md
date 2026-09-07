@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/asset-weaver
 alt:
   - https://github.com/0xkz1/obsidian-asset-weaver
-downloads: 118
+downloads: 158
 updated at: "2026-05-15T19:52:40Z"
 related to:
   - "[[GitHub - 1234921251]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scan your vault for untagged images and generate structured markdown sidecar files using a local Vision-Language Model. Create YAML frontmatter with title, category, keywords and a short description, and list backlinks to notes that reference each image while keeping all processing local for privacy."
 
     stats: {
-        downloads:  118
+        downloads:  158
         updated_at: 1778874760000
     }
 }

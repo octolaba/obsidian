@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/github-publish
 alt:
   - https://github.com/oilandrust/obsidian-github-publish
-downloads: 160
+downloads: 205
 updated at: "2026-07-23T11:40:43Z"
 related to:
   - "[[GitHub - 1282982223]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish your vault in minutes, without the learning curve of typical free solutions. The plugin uses Quartz as a rendering engine and GitHub Pages for hosting, and does all the configuration setup for you. Just authenticate with your GitHub Account, then choose the folder you want to publish and the site name, and click 'Publish'. That's it!"
 
     stats: {
-        downloads:  160
+        downloads:  205
         updated_at: 1784806843000
     }
 }

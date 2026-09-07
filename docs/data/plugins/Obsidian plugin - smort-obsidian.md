@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smort-obsidian
 alt:
   - https://github.com/smortapp/obsidian-smort
-downloads: 3854
+downloads: 3862
 updated at: "2022-04-06T04:18:49Z"
 related to:
   - "[[GitHub - 472988665]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Smort.io articles as Markdown and paste them directly into your vault. Convert article highlights to Markdown in a single color; highlights spanning bold/italic/blockquote sections may be split into multiple entries."
 
     stats: {
-        downloads:  3854
+        downloads:  3862
         updated_at: 1649218729000
     }
 }

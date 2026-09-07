@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/slide-note
 alt:
   - https://github.com/phantom1003/obsidian-slide-note
-downloads: 12086
+downloads: 12148
 updated at: "2025-03-05T11:55:24Z"
 related to:
   - "[[GitHub - 628668629]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Take plaintext class notes bound to specific slide pages and render slides alongside your graphic annotations. Use per-file frontmatter to control rendering, handle large slide decks efficiently, and auto-rerender when the source PDF changes."
 
     stats: {
-        downloads:  12086
+        downloads:  12148
         updated_at: 1741175724000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/file-commander
 alt:
   - https://github.com/fengshuzi/file-commander
-downloads: 828
-updated at: "2026-07-12T12:44:23Z"
+downloads: 1920
+updated at: "2026-08-05T01:26:44Z"
 related to:
   - "[[GitHub - 1132750234]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage large sets of notes with batch selection, deletion, moving, tagging, tag replacement, and frontmatter property renaming. Rename embedded images sequentially, convert image links to relative or minimal paths, and find broken or unreferenced images, empty, untagged, or isolated notes. Filter and sort files, view selection counts, and run quick right-click actions."
 
     stats: {
-        downloads:  828
-        updated_at: 1783860263000
+        downloads:  1920
+        updated_at: 1785893204000
     }
 }
 ```

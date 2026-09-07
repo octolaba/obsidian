@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/side-note
 alt:
   - https://github.com/mofukuru/SideNote
-downloads: 6290
+downloads: 6891
 updated at: "2026-07-15T15:39:00Z"
 related to:
   - "[[GitHub - 1035428700]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add comments to selected text and view them in a dedicated side pane or split pane without cluttering your note. Highlight commented text, track annotations as text moves using hash-based matching, jump to locations by clicking items, and manage orphaned or moved comments."
 
     stats: {
-        downloads:  6290
+        downloads:  6891
         updated_at: 1784129940000
     }
 }

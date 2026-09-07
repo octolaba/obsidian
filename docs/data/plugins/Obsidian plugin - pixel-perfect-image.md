@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pixel-perfect-image
 alt:
   - https://github.com/johansan/pixel-perfect-image
-downloads: 21456
+downloads: 22986
 updated at: "2026-07-13T11:18:55Z"
 related to:
   - "[[GitHub - 912848672]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage images inside notes with right-click controls to view filename and dimensions, resize to exact pixels or preset percentages, and perform file actions like copy to clipboard, rename, or reveal in Finder/Explorer. Open images in system viewers and quickly resize via mousewheel with original-dimension-aware scaling. Handle both wikilinks and standard Markdown image links."
 
     stats: {
-        downloads:  21456
+        downloads:  22986
         updated_at: 1783941535000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/xhs-longform
 alt:
   - https://github.com/zhy9495/obsidian-xhs-longform
-downloads: 42
-updated at: "2026-07-17T17:28:42Z"
+downloads: 143
+updated at: "2026-07-24T07:32:20Z"
 related to:
   - "[[GitHub - 1303727357]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Turn the active Markdown note into a paginated set of 3:4 image cards for Xiaohongshu. Preview pages inside Obsidian, adjust title, subheading, and body font sizes to control page count, and export every page as PNG. The document filename becomes the card title, while H1 and H2 headings create visual section headings. Three OFL-licensed Chinese fonts are included for consistent results across desktop systems. You can also use compatible fonts already installed on your computer or import your own TTF, OTF, WOFF, or WOFF2 files. Rendering and export stay local; the plugin has no analytics and makes no network requests."
 
     stats: {
-        downloads:  42
-        updated_at: 1784309322000
+        downloads:  143
+        updated_at: 1784878340000
     }
 }
 ```

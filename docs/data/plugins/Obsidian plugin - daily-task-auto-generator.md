@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-task-auto-generator
 alt:
   - https://github.com/maigamo/Daily-Task-Auto-Generator
-downloads: 939
+downloads: 968
 updated at: "2025-06-23T03:05:22Z"
 related to:
   - "[[GitHub - 967162056]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Auto-generate daily task notes on a schedule and populate them with customizable templates using variables like date, time, and progress for daily or workday-only routines. Track completion rates for the previous day and organize notes into year/month folders with desktop and mobile support."
 
     stats: {
-        downloads:  939
+        downloads:  968
         updated_at: 1750647922000
     }
 }

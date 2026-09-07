@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ribbon-divider
 alt:
   - https://github.com/andrewmcgivery/obsidian-ribbon-divider
-downloads: 8335
+downloads: 8771
 updated at: "2024-03-26T20:46:10Z"
 related to:
   - "[[GitHub - 730010895]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add draggable dividers to the Obsidian ribbon to space and group icons. Customize divider appearance with CSS and target individual dividers using their unique class IDs."
 
     stats: {
-        downloads:  8335
+        downloads:  8771
         updated_at: 1711485970000
     }
 }

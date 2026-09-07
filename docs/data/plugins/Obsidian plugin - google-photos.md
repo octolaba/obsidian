@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/google-photos
 alt:
   - https://github.com/alangrainger/obsidian-google-photos
-downloads: 17179
+downloads: 17268
 updated at: "2025-07-02T01:28:28Z"
 related to:
   - "[[GitHub - 580034148]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert photos from Google Photos into your notes using the official Google Photos Picker API. Download thumbnails locally and generate markdown image links with customizable templates and filenames. Link back to original photos and save images into configurable locations for flexible file organization."
 
     stats: {
-        downloads:  17179
+        downloads:  17268
         updated_at: 1751419708000
     }
 }

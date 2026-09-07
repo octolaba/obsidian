@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zj-html-studio
 alt:
   - https://github.com/aidenxu-1/zj-html-studio
-downloads: 64
+downloads: 97
 updated at: "2026-07-17T15:17:16Z"
 related to:
   - "[[GitHub - 1301136354]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open local .html and .htm files in native Obsidian tabs without rewriting them. Preview scoped local images, styles, scripts, fonts, and media; use safe read-only or trusted compatibility mode; inspect source, zoom, search within pages, reload affected previews, diagnose missing resources, open short-lived browser sessions, and embed HTML in Markdown with custom width and height. Desktop only. No telemetry or developer-operated service."
 
     stats: {
-        downloads:  64
+        downloads:  97
         updated_at: 1784301436000
     }
 }

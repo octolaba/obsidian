@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/d2-obsidian
 alt:
   - https://github.com/terrastruct/d2-obsidian
-downloads: 18429
+downloads: 18655
 updated at: "2023-12-01T22:52:55Z"
 related to:
   - "[[GitHub - 570408958]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render D2 fenced code blocks into inline diagrams using your local d2 installation. Support multiple layout engines and themes, sketch mode, padding and max height, and refresh renders automatically as diagrams change."
 
     stats: {
-        downloads:  18429
+        downloads:  18655
         updated_at: 1701471175000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/town-forge
 alt:
   - https://github.com/obsidian-ttrpg-community/Town-Forge
-downloads: 1462
-updated at: "2026-07-11T05:03:28Z"
+downloads: 1980
+updated at: "2026-08-05T12:14:20Z"
 related to:
   - "[[GitHub - 1251200672]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Generate procedural fantasy maps for tabletop RPGs from a seed and a few choices, rendering terrain, rivers, coasts, lakes, mountains, forests, roads, landmarks, and settlements from hamlet to metropolis in a polished cartographic style. Embed maps with a town-forge code block or use the live preview to tweak, then insert as an image, save a PNG, or export interactive pinned maps and notes to TTRPG Tools; the same seed always reproduces the same map."
 
     stats: {
-        downloads:  1462
-        updated_at: 1783746208000
+        downloads:  1980
+        updated_at: 1785932060000
     }
 }
 ```

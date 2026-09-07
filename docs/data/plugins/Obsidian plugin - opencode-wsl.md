@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/opencode-wsl
 alt:
   - https://github.com/emmet24/obsidian-opencode-wsl
-downloads: 184
+downloads: 299
 updated at: "2026-07-08T06:18:31Z"
 related to:
   - "[[GitHub - 1290885452]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed OpenCode web UI in the Obsidian sidebar via WSL. Instead of a PTY bridge (xterm.js + node-pty), this plugin starts 'opencode serve' inside WSL and embeds the web UI in an iframe — no extra dependencies, just a clean HTTP bridge between Windows and WSL. Features: Web UI embedded in sidebar, auto-start server (configurable), lifecycle management (starts with panel, stops with Obsidian, no lingering processes), WSL-native PATH resolution, automatic vault directory, health check, taskkill cleanup. Requirements: Windows 10/11 + WSL2, OpenCode CLI in WSL, Obsidian v1.7.2+. Privacy: Local only (127.0.0.1), no telemetry, no external connections."
 
     stats: {
-        downloads:  184
+        downloads:  299
         updated_at: 1783491511000
     }
 }

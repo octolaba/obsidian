@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nextcloud-link-fixer
 alt:
   - https://github.com/kfreon/nextcloud-link-fixer
-downloads: 1081
+downloads: 1117
 updated at: "2024-04-02T11:21:21Z"
 related to:
   - "[[GitHub - 780893953]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fix wiki-style links that Nextcloud Text escapes (e.g. \\[\\[note\\]\\]) by restoring proper [[note]] syntax. Run the fix-wiki-links command for manual correction or let it automatically repair links when opening files."
 
     stats: {
-        downloads:  1081
+        downloads:  1117
         updated_at: 1712056881000
     }
 }

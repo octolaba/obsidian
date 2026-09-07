@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/agent-file-pane
 alt:
   - https://github.com/philphilphil/obsidian-agent-file-pane
-downloads: 175
+downloads: 191
 updated at: "2026-05-17T08:19:42Z"
 related to:
   - "[[GitHub - 1241252679]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide AI instruction files (e.g., AGENTS.md, CLAUDE.md) from the file explorer and list them in a right-side pane that mirrors your folder tree."
 
     stats: {
-        downloads:  175
+        downloads:  191
         updated_at: 1779005982000
     }
 }

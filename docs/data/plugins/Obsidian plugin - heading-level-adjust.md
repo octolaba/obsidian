@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/heading-level-adjust
 alt:
   - https://github.com/obcdian/obsidian-heading-level-adjust
-downloads: 194
+downloads: 240
 updated at: "2026-04-20T03:34:27Z"
 related to:
   - "[[GitHub - 1215567448]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Adjust Markdown heading levels in a selection or current line with promote, demote, or a custom delta while preventing levels below # or above ######. Clean notes by removing horizontal rules and collapsing multiple blank lines, and apply adjustment+clean as a single command to a selection or whole file."
 
     stats: {
-        downloads:  194
+        downloads:  240
         updated_at: 1776656067000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/joplin-server-sync
 alt:
   - https://github.com/yanqingwang/obsidian-joplin-server-sync
-downloads:
-updated at:
+downloads: 84
+updated at: "2026-08-10T17:03:21Z"
 related to:
   - "[[GitHub - 1311523600]]"
 remind me:
@@ -34,6 +34,11 @@ plugin: {
     html_url:    "https://community.obsidian.md/plugins/joplin-server-sync"
     github_url:  "https://github.com/yanqingwang/obsidian-joplin-server-sync"
     description: "Sync Obsidian vault with Joplin Server — bidirectional, attachments, tags, links. - This plugin has not been manually reviewed by Obsidian staff."
+
+    stats: {
+        downloads:  84
+        updated_at: 1786381401000
+    }
 }
 ```
 

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/readwise-mirror
 alt:
   - https://github.com/jsonmartin/readwise-mirror
-downloads: 15244
+downloads: 15827
 updated at: "2026-07-13T16:50:38Z"
 related to:
   - "[[GitHub - 364097461]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mirror your Readwise library into Obsidian by automatically downloading highlights and notes as Markdown files and performing incremental syncs. Keep internal links and frontmatter intact, generate custom filenames, and convert book titles, authors and highlights into [[links]] and block-level references."
 
     stats: {
-        downloads:  15244
+        downloads:  15827
         updated_at: 1783961438000
     }
 }

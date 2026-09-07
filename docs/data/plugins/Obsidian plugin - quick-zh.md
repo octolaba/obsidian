@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quick-zh
 alt:
   - https://github.com/sany2ng0226-boop/quick-zh
-downloads: 427
+downloads: 667
 updated at: "2026-06-23T09:52:17Z"
 related to:
   - "[[GitHub - 1277917077]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Translate the entire current note into Simplified Chinese and create a new Chinese copy with one click. Preserve YAML frontmatter, keep code blocks and prompts unchanged, and use the translated top heading as the new filename. Choose Google, DeepL, or any OpenAI-compatible LLM for translation."
 
     stats: {
-        downloads:  427
+        downloads:  667
         updated_at: 1782208337000
     }
 }

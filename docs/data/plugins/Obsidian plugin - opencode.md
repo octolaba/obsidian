@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/opencode
 alt:
   - https://github.com/kriss-spy/obsidian-opencode
-downloads: 7818
-updated at: "2026-07-19T05:01:29Z"
+downloads: 9732
+updated at: "2026-08-01T15:32:38Z"
 related to:
   - "[[GitHub - 1240310797]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Embed the OpenCode CLI in Obsidian and run native coding sessions in a WebGL-accelerated terminal with direct access to your vault files. Browse and restore past sessions with timestamps and working directories, preview conversation history, and export threads to Markdown. Windows support in beta."
 
     stats: {
-        downloads:  7818
-        updated_at: 1784437289000
+        downloads:  9732
+        updated_at: 1785598358000
     }
 }
 ```

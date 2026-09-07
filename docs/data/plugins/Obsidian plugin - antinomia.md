@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/antinomia
 alt:
   - https://github.com/demartinogiuseppe/antinomia
-downloads: 242
+downloads: 278
 updated at: "2026-06-18T16:56:13Z"
 related to:
   - "[[GitHub - 1248981026]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage contradictions, tradeoffs, and anomalies with a five-layer note workflow — tension, substrate, principle, defeated, and meta. Create guided-modal tension and substrate notes with optional AI classification and store each note's layer in frontmatter (antinomia_type) so files never move."
 
     stats: {
-        downloads:  242
+        downloads:  278
         updated_at: 1781801773000
     }
 }

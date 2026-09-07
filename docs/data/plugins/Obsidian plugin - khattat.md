@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/khattat
 alt:
   - https://github.com/sattarip/obsidian-khattat
-downloads: 248
+downloads: 277
 updated at: "2026-03-31T01:12:16Z"
 related to:
   - "[[GitHub - 1173940180]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Handwrite and annotate directly inside Markdown notes with realistic fountain, calligraphy, marker and pencil pens, adjustable stroke smoothing, ruled lines and pan/zoom drawing tools. Extract handwriting to editable text via MyScript or Google Cloud Vision OCR, with auto-save, full undo/redo and stylus pressure/angle support."
 
     stats: {
-        downloads:  248
+        downloads:  277
         updated_at: 1774919536000
     }
 }

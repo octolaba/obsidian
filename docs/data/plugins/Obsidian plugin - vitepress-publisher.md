@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vitepress-publisher
 alt:
   - https://github.com/tyrad/obsidian-vitepress
-downloads: 790
+downloads: 809
 updated at: "2025-08-08T06:29:24Z"
 related to:
   - "[[GitHub - 833394295]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview and compile Markdown notes with VitePress or other static site generators directly from Obsidian. Start and stop a local dev server, build and preview the site, copy the current document into your VitePress srcDir, and customize commands for Hugo, Hexo, Docusaurus or any CLI SSG."
 
     stats: {
-        downloads:  790
+        downloads:  809
         updated_at: 1754634564000
     }
 }

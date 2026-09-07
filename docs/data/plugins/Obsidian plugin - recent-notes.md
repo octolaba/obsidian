@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/recent-notes
 alt:
   - https://github.com/kamil-rudnicki/obsidian-recent-notes
-downloads: 15835
+downloads: 16114
 updated at: "2026-02-20T10:33:52Z"
 related to:
   - "[[GitHub - 910027403]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View your recently edited notes in a timeline sorted by intuitive periods (Today, Yesterday, This Week) for fast access. Filter by file type, view thumbnails and cleaned first-line previews with edit timestamps, pin notes, exclude folders, and keep the view fast with smart caching."
 
     stats: {
-        downloads:  15835
+        downloads:  16114
         updated_at: 1771583632000
     }
 }

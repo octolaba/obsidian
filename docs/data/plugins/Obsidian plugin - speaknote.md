@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/speaknote
 alt:
   - https://github.com/waheni/obsidian-speaknote
-downloads: 1136
+downloads: 1232
 updated at: "2025-12-18T20:16:35Z"
 related to:
   - "[[GitHub - 1087650870]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Record voice notes directly in Obsidian and save audio files in your vault. Transcribe recordings into clean, searchable Markdown using OpenAI Whisper, Deepgram Nova, or AssemblyAI with optional auto-transcription, and play back files via a floating mini-player."
 
     stats: {
-        downloads:  1136
+        downloads:  1232
         updated_at: 1766088995000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/worktree-viewer
 alt:
   - https://github.com/sjwinkler19/obsidian-worktree-viewer
-downloads: 36
+downloads: 61
 updated at: "2026-07-10T04:01:51Z"
 related to:
   - "[[GitHub - 1296002737]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Watch AI agents or collaborators work live in your repo's git worktrees from inside your vault, with presence dots and per-worktree changed-file lists. Review colored diffs or rendered previews and accept agent work with one click to commit, push, and open a pull request."
 
     stats: {
-        downloads:  36
+        downloads:  61
         updated_at: 1783656111000
     }
 }

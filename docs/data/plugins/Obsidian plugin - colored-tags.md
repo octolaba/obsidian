@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/colored-tags
 alt:
   - https://github.com/pfrankov/obsidian-colored-tags
-downloads: 200820
+downloads: 207515
 updated at: "2026-06-19T18:36:46Z"
 related to:
   - "[[GitHub - 663982702]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Colorize tags using a customizable palette and blend nested tag hues with their root for clearer visual distinction. Auto-adjust text contrast to meet WCAG 2.1 AA and adapt colors for dark theme, with support for per-tag palette assignments."
 
     stats: {
-        downloads:  200820
+        downloads:  207515
         updated_at: 1781894206000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notes-exporter
 alt:
   - https://github.com/podviaznikov/notes-exporter-obsidian
-downloads: 145
+downloads: 172
 updated at: "2026-07-20T10:27:13Z"
 related to:
   - "[[GitHub - 1251440620]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bring Apple Notes and Bear notes exported via Notes Exporter into Obsidian as Markdown so your captured notes become editable, linkable vault files. Preserve rich YAML frontmatter and add native deep links, app icons, open-in-app commands, and source/last-modified info for each note."
 
     stats: {
-        downloads:  145
+        downloads:  172
         updated_at: 1784543233000
     }
 }

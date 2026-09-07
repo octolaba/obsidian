@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/fold-anywhere
 alt:
   - https://github.com/quorafind/Obsidian-Fold-Anywhere
-downloads: 6009
+downloads: 6093
 updated at: "2025-03-13T02:09:34Z"
 related to:
   - "[[GitHub - 672290168]]"
@@ -28,7 +28,7 @@ Folds arbitrary text in live preview by setting a start and an end marker, or by
 plugin: {
     id:     "fold-anywhere"
     name:   "Fold Anywhere"
-    author: "quorafind"
+    author: "Boninall"
     repo:   "quorafind/Obsidian-Fold-Anywhere"
 
     html_url:    "https://community.obsidian.md/plugins/fold-anywhere"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fold any text anywhere by marking start and end points or by selecting text to create collapsible regions. Mark start/end positions, fold or unfold between marks, and remove marks to manage and clean up folds."
 
     stats: {
-        downloads:  6009
+        downloads:  6093
         updated_at: 1741831774000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jmdict-popup-dictionary
 alt:
   - https://github.com/hata-suriiken/obsidian-popup-dictionary
-downloads: 50
+downloads: 95
 updated at: "2026-07-13T07:37:07Z"
 related to:
   - "[[GitHub - 1296537279]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Lookup selected Japanese or English words offline and display readings plus English/Japanese definitions in a popup. Operate in editor, preview and embedded PDFs with automatic normalization of hyphenation, ligatures and inflected forms; work on desktop and mobile."
 
     stats: {
-        downloads:  50
+        downloads:  95
         updated_at: 1783928227000
     }
 }

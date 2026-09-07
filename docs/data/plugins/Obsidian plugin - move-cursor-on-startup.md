@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/move-cursor-on-startup
 alt:
   - https://github.com/treadder/move-cursor-on-startup
-downloads: 266
+downloads: 275
 updated at: "2025-07-27T21:43:10Z"
 related to:
   - "[[GitHub - 977397884]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move the cursor briefly on startup to trigger DataView expressions to evaluate on the first opened note. Prevent embedded DataView blocks from failing to render by shifting the cursor right then back left during startup."
 
     stats: {
-        downloads:  266
+        downloads:  275
         updated_at: 1753652590000
     }
 }

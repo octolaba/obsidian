@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/mcp-tools-istefox
 alt:
   - https://github.com/istefox/obsidian-mcp-connector
-downloads: 14731
-updated at: "2026-07-22T20:13:10Z"
+downloads: 20622
+updated at: "2026-08-05T16:02:23Z"
 related to:
   - "[[GitHub - 1207682285]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Connect your Obsidian vault to AI apps via the Model Context Protocol to let assistants securely read notes, run templates, execute commands with confirmation and audit logging, and perform semantic searches. Keep full control with a local MCP server that mediates access, enforces allowlists and confirmations, and never grants AI direct file access."
 
     stats: {
-        downloads:  14731
-        updated_at: 1784751190000
+        downloads:  20622
+        updated_at: 1785945743000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graph-untangler
 alt:
   - https://github.com/g-chist/obsidian-graph-untangler-plugin
-downloads: 168
+downloads: 203
 updated at: "2026-06-07T16:23:09Z"
 related to:
   - "[[GitHub - 1262079599]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Untangle your graph by cycling through force values to separate overlapping nodes and clarify connections. Start and stop the untangling process to reorganize node placement."
 
     stats: {
-        downloads:  168
+        downloads:  203
         updated_at: 1780849389000
     }
 }

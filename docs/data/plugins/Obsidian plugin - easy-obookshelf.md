@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/easy-obookshelf
 alt:
   - https://github.com/cocoaai-it/easy-obookshelf
-downloads: 1436
+downloads: 1868
 updated at: "2026-05-26T10:22:47Z"
 related to:
   - "[[GitHub - 1219488150]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fetch book metadata by ISBN from NDL, Google Books, and Open Library and create note-based bookshelf entries. Download and locally cache cover images with WebP conversion, view books in Want to read / Reading / Finished bases, and add or edit entries and covers via manual entry, drag-and-drop, paste, or file picker."
 
     stats: {
-        downloads:  1436
+        downloads:  1868
         updated_at: 1779790967000
     }
 }

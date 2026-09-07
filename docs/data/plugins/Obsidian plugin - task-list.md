@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/task-list
 alt:
   - https://github.com/ted-marozzi/task-list
-downloads: 3036
+downloads: 3054
 updated at: "2024-04-05T09:40:17Z"
 related to:
   - "[[GitHub - 741274761]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create interactive task lists with simple directives like :to-do, :doing, :paused and :done that render as clickable state boxes. Sort lists by state (doing, paused, to-do, done) and click or use the context menu to cycle or set states while keeping plain Markdown readable and fast."
 
     stats: {
-        downloads:  3036
+        downloads:  3054
         updated_at: 1712310017000
     }
 }

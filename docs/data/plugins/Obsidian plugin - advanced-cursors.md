@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/advanced-cursors
 alt:
   - https://github.com/skepticmystic/advanced-cursors
-downloads: 19221
+downloads: 19387
 updated at: "2022-01-08T18:47:09Z"
 related to:
   - "[[GitHub - 419343823]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Control multiple cursors with commands to move to or add the next/previous instance of the current selection, looping through the note to mirror VS Code's multi-select behavior. Copy lines up or down, insert incrementing numbers across cursors, and place cursors by regex matches for precise multi-location edits."
 
     stats: {
-        downloads:  19221
+        downloads:  19387
         updated_at: 1641667629000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/kanban-action-planner
 alt:
   - https://github.com/dsebastien/obsidian-kanban-action-planner
-downloads: 441
-updated at: "2026-07-18T13:09:31Z"
+downloads: 753
+updated at: "2026-08-11T08:18:49Z"
 related to:
   - "[[GitHub - 1281062309]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add a Kanban board view to any Base to plan, track, and schedule notes visually. Define a status property as columns; drag, reorder and color cards, view relationships, surface blockers, and filter live. Flip the board into a calendar and write changes back to note frontmatter."
 
     stats: {
-        downloads:  441
-        updated_at: 1784380171000
+        downloads:  753
+        updated_at: 1786436329000
     }
 }
 ```

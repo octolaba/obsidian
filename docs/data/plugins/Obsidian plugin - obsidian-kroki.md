@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-kroki
 alt:
   - https://github.com/gregzuro/obsidian-kroki
-downloads: 11861
+downloads: 11992
 updated at: "2026-05-14T02:31:10Z"
 related to:
   - "[[GitHub - 379670484]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Kroki diagrams in Obsidian by placing diagram code inside fenced code blocks labeled with any Kroki-supported language. Point to the default Kroki server or configure an alternate or self‑hosted Kroki instance for rendering."
 
     stats: {
-        downloads:  11861
+        downloads:  11992
         updated_at: 1778725870000
     }
 }

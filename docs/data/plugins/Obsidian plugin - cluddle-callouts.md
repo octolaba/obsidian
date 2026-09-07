@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/cluddle-callouts
 alt:
   - https://github.com/1ordinateur/cluddle-callouts
-downloads: 646
-updated at: "2026-05-22T07:12:38Z"
+downloads: 851
+updated at: "2026-08-05T04:49:00Z"
 related to:
   - "[[GitHub - 1182292065]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Open a searchable callout picker from the editor context menu or command to browse built-in and CSS-defined custom callouts. Search, preview, insert, wrap selections, change callout types, or remove callouts in-place to avoid remembering IDs or rewriting block syntax."
 
     stats: {
-        downloads:  646
-        updated_at: 1779433958000
+        downloads:  851
+        updated_at: 1785905340000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/reason
 alt:
   - https://github.com/jshph/obsidian-enzyme
-downloads: 3409
+downloads: 3434
 updated at: "2026-05-13T22:38:41Z"
 related to:
   - "[[GitHub - 742703916]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Surface connections across your vault with semantic search and weave them into clickable digests that push you to revisit and build on older thinking. Run fully locally with on-device embeddings and a catalyst reasoning layer that surfaces relationships beyond keyword overlap; click excerpts to open their source notes in Obsidian."
 
     stats: {
-        downloads:  3409
+        downloads:  3434
         updated_at: 1778711921000
     }
 }

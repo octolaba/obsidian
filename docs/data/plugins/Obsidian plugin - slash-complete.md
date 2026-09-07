@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/slash-complete
 alt:
   - https://github.com/spiderpig86/slash-complete
-downloads: 3451
+downloads: 3653
 updated at: "2025-12-03T06:25:11Z"
 related to:
   - "[[GitHub - 1014468600]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add Notion-style slash commands to Obsidian for Markdown autocompletion, letting you insert headings, lists, quotes, code blocks and commands with a single /. Navigate suggestions with the keyboard and customize the slash command list for fast in-editor block insertion."
 
     stats: {
-        downloads:  3451
+        downloads:  3653
         updated_at: 1764743111000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/calendar-period-week-notes
 alt:
   - https://github.com/fikte/calendar-period-week-notes
-downloads: 912
+downloads: 1002
 updated at: "2026-07-19T22:10:13Z"
 related to:
   - "[[GitHub - 1056299166]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage weekly and period-based notes with a customizable calendar supporting 13-period (4-week) cycles or standard weeks, heatmaps, dot indicators and a scrollable vertical grid. Use tabbed panels for tasks, scratchpad, pinned notes and assets, and build a dashboard of configurable widgets and charts to track task and project progress."
 
     stats: {
-        downloads:  912
+        downloads:  1002
         updated_at: 1784499013000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wakatime-kvh
 alt:
   - https://github.com/kovah/obsidian-wakatime
-downloads: 840
+downloads: 864
 updated at: "2026-05-28T07:26:46Z"
 related to:
   - "[[GitHub - 923020201]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track time in Obsidian by sending heartbeats to WakaTime or a custom Wakapi instance. Assign projects per file or folder, set a default project, ignore paths from tracking, and record activity for Markdown, PDFs, and images without needing the wakatime-cli."
 
     stats: {
-        downloads:  840
+        downloads:  864
         updated_at: 1779953206000
     }
 }

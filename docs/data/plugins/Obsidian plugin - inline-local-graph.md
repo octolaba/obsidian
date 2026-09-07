@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/inline-local-graph
 alt:
   - https://github.com/tkoxff/obsidian-inline-local-graph
-downloads: 1323
-updated at: "2026-07-05T09:05:33Z"
+downloads: 1455
+updated at: "2026-08-10T01:48:55Z"
 related to:
   - "[[GitHub - 1022928570]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Display a custom local graph at the bottom of the current note to show links and backlinks in unused space. Keep visuals uncluttered for easy navigation between related notes. Interact with the network graph directly inside the note."
 
     stats: {
-        downloads:  1323
-        updated_at: 1783242333000
+        downloads:  1455
+        updated_at: 1786326535000
     }
 }
 ```

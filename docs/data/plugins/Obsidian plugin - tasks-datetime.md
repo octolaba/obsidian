@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/tasks-datetime
 alt:
   - https://github.com/dxshelley/obsidian-tasks-datetime
-downloads:
-updated at:
+downloads: 81
+updated at: "2026-07-31T00:39:46Z"
 related to:
   - "[[GitHub - 1309919050]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/dxshelley/obsidian-tasks-datetime"
     description: "Tasks with date and time support down to seconds. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Add precise task timestamps down to seconds while keeping compact date-only displays when time support is disabled. Use a combined date/time picker, set recurrence presets, edit importance/urgency with a four-quadrant editor, and view dashboards for today, this week, and this month with queryable date/time values."
+
+    stats: {
+        downloads:  81
+        updated_at: 1785458386000
+    }
 }
 ```
 

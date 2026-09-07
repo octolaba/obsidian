@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sqlite-explorer
 alt:
   - https://github.com/qf3l3k/obsidian-sqlite-explorer
-downloads: 234
+downloads: 281
 updated at: "2026-04-21T13:51:08Z"
 related to:
   - "[[GitHub - 1216007408]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse SQLite databases stored in your vault with a desktop-only browser view. Open .sqlite/.sqlite3/.db files, inspect schemas, run read-only SQL queries, and copy results as Markdown or export CSV. Embed live sqlite-query fenced blocks in notes with table, list, or value displays and freeze results as static Markdown snapshots."
 
     stats: {
-        downloads:  234
+        downloads:  281
         updated_at: 1776779468000
     }
 }

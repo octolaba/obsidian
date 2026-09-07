@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/marp
 alt:
   - https://github.com/jichoup/obsidian-marp-plugin
-downloads: 19628
+downloads: 19871
 updated at: "2023-08-06T13:32:47Z"
 related to:
   - "[[GitHub - 605213823]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview Marp slides directly from Markdown with auto-reload on save. Export to PDF, PPTX, or HTML (requires Node.js) with local images embedded as Base64 and support for wiki or Markdown image links; use HTML transitions when available."
 
     stats: {
-        downloads:  19628
+        downloads:  19871
         updated_at: 1691328767000
     }
 }

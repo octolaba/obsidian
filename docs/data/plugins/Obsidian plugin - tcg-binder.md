@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/tcg-binder
 alt:
   - https://github.com/bgarciamoura/obsidian-tcg-binder
-downloads: 2
-updated at: "2026-07-23T21:59:23Z"
+downloads: 55
+updated at: "2026-07-28T13:31:08Z"
 related to:
   - "[[GitHub - 1310256489]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Track your Pokémon TCG collection, build decks, and browse cards as plain Markdown notes with frontmatter so your data stays readable, syncable, linkable, and portable. Import decklists and collections (TCG Live, CSV), manage variants and set progress, see cost-to-complete with market prices, and export back to TCG Live."
 
     stats: {
-        downloads:  2
-        updated_at: 1784843963000
+        downloads:  55
+        updated_at: 1785245468000
     }
 }
 ```

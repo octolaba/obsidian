@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/statblock-sidekick
 alt:
   - https://github.com/n21rl/stablock-sidekick
-downloads: 7496
+downloads: 7608
 updated at: "2024-06-13T17:33:23Z"
 related to:
   - "[[GitHub - 786886390]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create custom D&D 5e sidekicks from Tasha's Cauldron rules and generate new Fantasy Statblocks-format statblock notes. Select class, level, and features interactively, then save the sidekick beside the original statblock or to a chosen folder."
 
     stats: {
-        downloads:  7496
+        downloads:  7608
         updated_at: 1718300003000
     }
 }

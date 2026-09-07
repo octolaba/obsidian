@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-advanced-codeblock
 alt:
   - https://github.com/lijyze/obsidian-advanced-codeblock
-downloads: 18264
+downloads: 18348
 updated at: "2023-07-28T11:23:58Z"
 related to:
   - "[[GitHub - 494511958]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add line numbers and line highlights to code blocks. Append space-separated params after the code-fence language (for example nums or highlight 3 or highlight 2-4) to enable features; features apply only when correct params are specified and work in live-preview mode."
 
     stats: {
-        downloads:  18264
+        downloads:  18348
         updated_at: 1690543438000
     }
 }

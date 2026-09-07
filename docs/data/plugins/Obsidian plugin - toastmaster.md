@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/toastmaster
 alt:
   - https://github.com/tikitock/toastmaster
-downloads: 64
+downloads: 94
 updated at: "2026-07-05T17:58:06Z"
 related to:
   - "[[GitHub - 1290095949]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extend toast notifications to last longer or persist until dismissed. Patch Obsidian's Notice timer to enforce a minimum display duration or disable auto-hide for all core and plugin-generated toasts."
 
     stats: {
-        downloads:  64
+        downloads:  94
         updated_at: 1783274286000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/book-tracker
 alt:
   - https://github.com/wesswart77/obsidian-book-tracker
-downloads: 343
+downloads: 436
 updated at: "2026-05-24T20:05:14Z"
 related to:
   - "[[GitHub - 1248531086]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track books, reading status, star ratings, reviews, quotes, and linked themes in plain Markdown. Add books via a modal, browse and filter a library sidebar, auto-create theme notes, and store all data in frontmatter for full portability."
 
     stats: {
-        downloads:  343
+        downloads:  436
         updated_at: 1779653114000
     }
 }

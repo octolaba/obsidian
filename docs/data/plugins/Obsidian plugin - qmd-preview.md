@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/qmd-preview
 alt:
   - https://github.com/elliotxx/obsidian-qmd-preview
-downloads: 70
-updated at: "2026-07-01T11:48:00Z"
+downloads: 99
+updated at: "2026-07-24T08:49:17Z"
 related to:
   - "[[GitHub - 1284815687]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Edit Quarto .qmd files in Obsidian and view a live side‑pane preview that converts Quarto and Pandoc syntax into Obsidian‑renderable Markdown/HTML. Keep previews safe by never executing document code (Python, R, Julia, shell) and run Quarto manually from the preview for official rendered output."
 
     stats: {
-        downloads:  70
-        updated_at: 1782906480000
+        downloads:  99
+        updated_at: 1784882957000
     }
 }
 ```

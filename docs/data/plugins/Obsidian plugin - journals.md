@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/journals
 alt:
   - https://github.com/srg-kostyrko/obsidian-journal
-downloads: 107392
+downloads: 111501
 updated at: "2025-08-27T05:56:48Z"
 related to:
   - "[[GitHub - 718978734]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and manage structured journal entries across daily, weekly, monthly, quarterly and custom periods. Organize multiple journals into shelves, auto-number entries, apply templates and frontmatter, and navigate with calendar and timeline views. Link related entries with navigation blocks."
 
     stats: {
-        downloads:  107392
+        downloads:  111501
         updated_at: 1756274208000
     }
 }

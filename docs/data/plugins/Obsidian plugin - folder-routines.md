@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/folder-routines
 alt:
   - https://github.com/shabbirpatheria/folder-routines
-downloads: 126
-updated at: "2026-07-23T03:32:26Z"
+downloads: 175
+updated at: "2026-08-08T20:28:18Z"
 related to:
   - "[[GitHub - 1280130404]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render an interactive, collapsible checklist in your daily note from a folder structure, using each subfolder as a section and each note as an item. Append the daily note’s date to a checked note’s frontmatter entries and remove it on uncheck; show checked items with strikethrough. Parse the daily note date from its filename to record entries accurately."
 
     stats: {
-        downloads:  126
-        updated_at: 1784777546000
+        downloads:  175
+        updated_at: 1786220898000
     }
 }
 ```

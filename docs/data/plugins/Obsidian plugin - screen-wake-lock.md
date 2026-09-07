@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/screen-wake-lock
 alt:
   - https://github.com/blotspot/obsidian-wake-lock
-downloads: 2330
-updated at: "2026-06-12T20:05:13Z"
+downloads: 2465
+updated at: "2026-07-31T18:36:47Z"
 related to:
   - "[[GitHub - 900892185]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Keep the screen awake while Obsidian is in the foreground to prevent device sleep during long writing or brainstorming sessions. Choose activation modes — Always On, editor-focused, or typing-triggered wake lock — and display wake lock state in the status bar. Run on desktop and mobile, with limited iOS support."
 
     stats: {
-        downloads:  2330
-        updated_at: 1781294713000
+        downloads:  2465
+        updated_at: 1785523007000
     }
 }
 ```

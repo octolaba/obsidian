@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/vk-inbox
 alt:
   - https://github.com/jesterspot1-svg/obsidian-vk-inbox
-downloads: 2
-updated at: "2026-07-23T08:48:13Z"
+downloads: 25
+updated at: "2026-07-24T09:00:28Z"
 related to:
   - "[[GitHub - 1307388646]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Import VK community messages into a chosen Obsidian note with timestamps, prevent duplicate imports, and operate without an external server. Download voice messages as attachments, play audio inline, and transcribe locally via whisper.cpp on desktop; support manual and automatic updates and mobile text/audio import."
 
     stats: {
-        downloads:  2
-        updated_at: 1784796493000
+        downloads:  25
+        updated_at: 1784883628000
     }
 }
 ```

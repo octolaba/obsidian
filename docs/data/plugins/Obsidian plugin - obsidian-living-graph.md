@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-living-graph
 alt:
   - https://github.com/geoffreysflaminglasersword/obsidian-living-graph
-downloads: 14289
+downloads: 14462
 updated at: "2022-02-25T08:08:15Z"
 related to:
   - "[[GitHub - 462090137]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Animate the graph view with dynamic motion, pulsing edges, and reactive node behavior to make your note network move. Choose from 12 presets and toggle the effect on or off; may increase CPU usage and cause fans to run."
 
     stats: {
-        downloads:  14289
+        downloads:  14462
         updated_at: 1645776495000
     }
 }

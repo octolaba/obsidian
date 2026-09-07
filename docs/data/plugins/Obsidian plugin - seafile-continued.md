@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/seafile-continued
 alt:
   - https://github.com/ryanravn/obsidian-seafile-continued
-downloads: 450
+downloads: 580
 updated at: "2026-07-02T15:41:17Z"
 related to:
   - "[[GitHub - 1231320333]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync notes across devices with Seafile for fast delta uploads and downloads. Protect encrypted repositories (enc v2/v4) with a prompted passphrase never stored in plaintext; trigger immediate sync via the Sync now command. Avoid syncing large files (>50 MB) due to Obsidian API limits."
 
     stats: {
-        downloads:  450
+        downloads:  580
         updated_at: 1783006877000
     }
 }

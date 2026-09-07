@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/nova
 alt:
   - https://github.com/shawnduggan/nova
-downloads: 2828
-updated at: "2026-07-17T20:58:56Z"
+downloads: 3050
+updated at: "2026-08-09T15:39:17Z"
 related to:
   - "[[GitHub - 998012140]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Edit text in place with AI-driven transformations: select text to refine, insert content at the cursor, fill sections from inline AI placeholders, or challenge claims with counter-arguments. Analyze writing vault-wide with a dashboard scoring clarity, conciseness, variety and discipline, run English readability and style checks, and keep data private by running local models or using your API keys—no conversations stored, no telemetry."
 
     stats: {
-        downloads:  2828
-        updated_at: 1784321936000
+        downloads:  3050
+        updated_at: 1786289957000
     }
 }
 ```

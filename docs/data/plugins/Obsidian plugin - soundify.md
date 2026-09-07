@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/soundify
 alt:
   - https://github.com/solomonarul/soundify
-downloads: 179
+downloads: 192
 updated at: "2026-05-16T16:31:37Z"
 related to:
   - "[[GitHub - 1114470360]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Play sounds on specific Obsidian events to get instant audio feedback. Configure which events trigger sounds and choose audio files from the settings menu."
 
     stats: {
-        downloads:  179
+        downloads:  192
         updated_at: 1778949097000
     }
 }

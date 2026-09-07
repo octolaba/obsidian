@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hugo-preview-obsidian
 alt:
   - https://github.com/fzdwx/hugo-preview-obsidian
-downloads: 4892
+downloads: 4918
 updated at: "2024-09-02T14:42:04Z"
 related to:
   - "[[GitHub - 574135226]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview Hugo sites inside Obsidian through a custom iframe for live-rendered views. Start a Hugo server in the background with configurable server flags and a customizable command shortcut to launch terminals or tools. Open the preview from a status-bar button."
 
     stats: {
-        downloads:  4892
+        downloads:  4918
         updated_at: 1725288124000
     }
 }

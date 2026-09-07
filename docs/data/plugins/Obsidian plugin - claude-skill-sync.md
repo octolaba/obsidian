@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/claude-skill-sync
 alt:
   - https://github.com/2949984428/claude-skill-sync
-downloads: 495
+downloads: 558
 updated at: "2026-06-24T18:14:03Z"
 related to:
   - "[[GitHub - 1218793988]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Obsidian vault skill folders to Claude Code, Codex/Agents, Cursor and other agent skill directories using local symlinks so all tools read the same files. Manage sync via a sidebar with an 8‑cell status grid, bidirectional install/import, scheduled auto‑sync, and one‑click repair/cleanup for broken or moved links across machines."
 
     stats: {
-        downloads:  495
+        downloads:  558
         updated_at: 1782324843000
     }
 }

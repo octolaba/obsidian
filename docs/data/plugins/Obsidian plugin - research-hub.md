@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/research-hub
 alt:
   - https://github.com/wesswart77/obsidian-research-hub
-downloads: 183
+downloads: 261
 updated at: "2026-05-24T20:06:21Z"
 related to:
   - "[[GitHub - 1248531231]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create structured research projects with auto-generated Sources, Claims, and Synthesis subfolders plus a project index. Capture sources with key findings and credibility, record claims linked to supporting sources with confidence, and write synthesis notes. View projects in a sidebar with counts."
 
     stats: {
-        downloads:  183
+        downloads:  261
         updated_at: 1779653181000
     }
 }

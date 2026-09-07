@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/daytime-tracker
 alt:
   - https://github.com/seongchan/DayTimeTracker
-downloads: 116
-updated at: "2026-06-28T04:14:47Z"
+downloads: 176
+updated at: "2026-08-03T07:22:01Z"
 related to:
   - "[[GitHub - 1279818878]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "DayTime Tracker is a visual productivity tool for Obsidian. Capture your day in 10-minute blocks using an interactive grid. Ideal for time-tracking and productivity analysis. Seamlessly saves your logs to your notes for permanent storage."
 
     stats: {
-        downloads:  116
-        updated_at: 1782620087000
+        downloads:  176
+        updated_at: 1785741721000
     }
 }
 ```

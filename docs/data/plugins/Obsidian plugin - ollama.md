@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ollama
 alt:
   - https://github.com/hinterdupfinger/obsidian-ollama
-downloads: 28135
+downloads: 28609
 updated at: "2023-09-19T01:21:01Z"
 related to:
   - "[[GitHub - 693400548]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Use Ollama inside notes to summarize, explain, expand, rewrite (formal, casual, active voice, bullets) or caption selected text. Customize prompts, pick model and temperature, send a prompt with selection or the full note, and insert the AI result at the cursor."
 
     stats: {
-        downloads:  28135
+        downloads:  28609
         updated_at: 1695086461000
     }
 }

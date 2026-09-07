@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-table-generator
 alt:
   - https://github.com/quorafind/Obsidian-Table-Generator
-downloads: 61274
+downloads: 61645
 updated at: "2023-08-25T14:00:33Z"
 related to:
   - "[[GitHub - 512590171]]"
@@ -28,7 +28,7 @@ Markdown tables are produced from a Typora-style table editor. Card-like tables 
 plugin: {
     id:     "obsidian-table-generator"
     name:   "Table Generator"
-    author: "quorafind"
+    author: "Boninall"
     repo:   "quorafind/Obsidian-Table-Generator"
 
     html_url:    "https://community.obsidian.md/plugins/obsidian-table-generator"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate Markdown tables quickly with a Typora-style table editor. Create card-like tables inside Canvas files and set default rows and columns for instant insertion."
 
     stats: {
-        downloads:  61274
+        downloads:  61645
         updated_at: 1692972033000
     }
 }

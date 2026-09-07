@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-local-images
 alt:
   - https://github.com/aleksey-rezvov/obsidian-local-images
-downloads: 43980
+downloads: 44181
 updated at: "2021-10-17T14:27:47Z"
 related to:
   - "[[GitHub - 408438420]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Download external image links into your vault and replace remote URLs with local files stored in a media folder. Process the active note or the entire vault and run automatically when pasting external images to keep copied web images local and avoid broken links."
 
     stats: {
-        downloads:  43980
+        downloads:  44181
         updated_at: 1634480867000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/reverysky-map
 alt:
   - https://github.com/moonskorch/ReverySky-Plugin
-downloads: 251
-updated at: "2026-07-18T11:06:50Z"
+downloads: 921
+updated at: "2026-08-06T10:01:43Z"
 related to:
   - "[[GitHub - 1253382179]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "ReverySky 3D Graph displays a vault as an interactive 3D graph rendered with the Unity engine. The graph is generated from notes, links, tags, dates, and file metadata. The view supports pan, zoom, and rotation. Notes can be opened directly from the graph, and the node corresponding to the active note can be focused automatically. Filters can be applied by path, tag, or date and combined in a single query. Note links can be displayed with or without tag nodes. Available layouts include Dynamic Links for smaller connected sets, Scalable Links for larger or denser graphs, and Dates for chronological navigation. Detailed and simplified rendering modes are available for graphs of different sizes and densities."
 
     stats: {
-        downloads:  251
-        updated_at: 1784372810000
+        downloads:  921
+        updated_at: 1786010503000
     }
 }
 ```

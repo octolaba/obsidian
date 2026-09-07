@@ -70,7 +70,7 @@ them carry the same note saying the page "aims to distill the official CodeMirro
 CM6 knowledge from an unpinned upstream source — label it as such rather than presenting it as an
 Obsidian contract.
 
-Availability at this pin — stable app is 1.12.7, so everything below is usable by any plugin:
+Availability at this pin — stable app is 1.13.7, so everything below is usable by any plugin:
 
 | API | `@since` | Tier at pin |
 |---|---|---|
@@ -83,7 +83,7 @@ Availability at this pin — stable app is 1.12.7, so everything below is usable
 | `Plugin.registerMarkdownCodeBlockProcessor` | 0.9.7 (api: obsidian.d.ts:4999) | stable |
 | `MarkdownPostProcessor` | 0.10.12 (api: obsidian.d.ts:3978) | stable |
 | `MarkdownPreviewRenderer.createCodeBlockPostProcessor` | 0.12.11 (api: obsidian.d.ts:4051) | stable |
-| `editorLivePreviewField`, `editorInfoField`, `editorEditorField`, `livePreviewState`, `MarkdownRenderer.render`, `Workspace.activeEditor` | untagged (api: obsidian.d.ts:2605-2609; api: obsidian.d.ts:2599-2603; api: obsidian.d.ts:2593-2597; api: obsidian.d.ts:3831-3834; api: obsidian.d.ts:4138-4147; api: obsidian.d.ts:7825-7830) | availability unknown; presence in the 1.13.2 typings does not establish a 1.12.7 floor |
+| `editorLivePreviewField`, `editorInfoField`, `editorEditorField`, `livePreviewState`, `MarkdownRenderer.render`, `Workspace.activeEditor` | untagged (api: obsidian.d.ts:2605-2609; api: obsidian.d.ts:2599-2603; api: obsidian.d.ts:2593-2597; api: obsidian.d.ts:3831-3834; api: obsidian.d.ts:4138-4147; api: obsidian.d.ts:7825-7830) | availability unknown; presence in the 1.13.2 typings does not establish a 1.13.7 floor |
 
 ## The Editor abstraction
 

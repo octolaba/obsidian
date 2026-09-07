@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gemini-scribe
 alt:
   - https://github.com/allenhutchison/obsidian-gemini
-downloads: 64729
+downloads: 69063
 updated at: "2026-07-10T23:09:41Z"
 related to:
   - "[[GitHub - 877403993]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bring Google's Gemini AI into Obsidian to generate, edit, and manage notes using your vault as context. Run an agent with tool-calling and skills to read, create, move, or edit files; access a unified context shelf with binary attachments and side-by-side diffs. Provide a Google Gemini API key to enable the integration."
 
     stats: {
-        downloads:  64729
+        downloads:  69063
         updated_at: 1783724981000
     }
 }

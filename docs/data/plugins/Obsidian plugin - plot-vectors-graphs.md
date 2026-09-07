@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/plot-vectors-graphs
 alt:
   - https://github.com/nicoletanyt/obsidian-plugin-graphs
-downloads: 1569
+downloads: 1613
 updated at: "2024-05-27T07:20:27Z"
 related to:
   - "[[GitHub - 795798833]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Plot LaTeX equations and vectors directly in Obsidian using FunctionPlot. Generate a new page with rendered graphs or vector diagrams, built-in y(x) evaluators, color-coded traces, vector addition/resultant support, and multiple-expression handling via \\newline"
 
     stats: {
-        downloads:  1569
+        downloads:  1613
         updated_at: 1716794427000
     }
 }

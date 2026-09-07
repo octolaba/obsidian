@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sonicnote-sync
 alt:
   - https://github.com/long2icc/sonicnote-sync
-downloads: 140
+downloads: 168
 updated at: "2026-07-09T08:55:12Z"
 related to:
   - "[[GitHub - 1267975457]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync recordings, verbatim transcripts with speaker IDs and timestamps, AI-generated summaries, study reports, and handwritten notes from SonicNote into Obsidian as individual Markdown files. Create self-contained notes with configurable frontmatter metadata and optional auto-sync to keep recordings up to date."
 
     stats: {
-        downloads:  140
+        downloads:  168
         updated_at: 1783587312000
     }
 }

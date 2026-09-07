@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/old-dragon-toolkit
 alt:
   - https://github.com/maicon-lara/od2-toolkit
-downloads: 220
+downloads: 255
 updated at: "2026-06-18T20:31:08Z"
 related to:
   - "[[GitHub - 1258240136]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create interactive Old Dragon 2 character sheets and statblocks inside Obsidian using od2-ficha and od2-monstro YAML blocks. Auto-calculate attribute modifiers, AC, attack and save bonuses; roll attribute/save tests, attacks and damage; track and persist HP and edit attacks or equipment via forms that rewrite the YAML."
 
     stats: {
-        downloads:  220
+        downloads:  255
         updated_at: 1781814668000
     }
 }

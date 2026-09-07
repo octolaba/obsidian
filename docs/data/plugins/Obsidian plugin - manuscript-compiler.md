@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/manuscript-compiler
 alt:
   - https://github.com/anthonyfitzpatrick/manuscript-compiler
-downloads: 37
+downloads: 107
 updated at: "2026-07-17T20:01:05Z"
 related to:
   - "[[GitHub - 1299740754]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Compile structured Obsidian manuscripts into publication-ready DOCX (designed for Vellum workflows), ODT, EPUB, HTML, Markdown, and XML files. Review and correct your manuscript structure before exporting professional publishing files—all locally, without modifying your notes, cloud services, or external tools."
 
     stats: {
-        downloads:  37
+        downloads:  107
         updated_at: 1784318465000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/s3agle
 alt:
   - https://github.com/turnercore/s3agle
-downloads: 1094
+downloads: 1120
 updated at: "2024-08-26T08:54:41Z"
 related to:
   - "[[GitHub - 790344820]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage files with S3 and Eagle from inside Obsidian. Upload files dragged or pasted into notes to S3 and/or Eagle and create preview links. Download S3-hosted files back into your vault and push them to Eagle when desired."
 
     stats: {
-        downloads:  1094
+        downloads:  1120
         updated_at: 1724662481000
     }
 }

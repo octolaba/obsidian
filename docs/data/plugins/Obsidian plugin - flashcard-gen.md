@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/flashcard-gen
 alt:
   - https://github.com/chloedia/Obsidian_Quiz_Generator
-downloads: 5692
+downloads: 5722
 updated at: "2025-01-21T23:25:00Z"
 related to:
   - "[[GitHub - 614505602]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate flashcards and quizzes from your notes using OpenAI or local LLMs. Sync quizzes with the Spaced Repetition plugin for scheduled review and validate or refine generated questions before saving."
 
     stats: {
-        downloads:  5692
+        downloads:  5722
         updated_at: 1737501900000
     }
 }

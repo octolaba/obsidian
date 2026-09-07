@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/enhanced-tables
 alt:
   - https://github.com/pistacchio/obsidian-enhanced-tables
-downloads: 9347
+downloads: 9630
 updated at: "2024-03-12T07:50:11Z"
 related to:
   - "[[GitHub - 746832371]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add sorting, filtering, pagination and per-column formatting to standard Markdown tables, including date and number formats, enum columns, hidden columns and custom cell formatters. Apply a YAML block above any table to keep data as simple, editable Markdown while adding dynamic controls."
 
     stats: {
-        downloads:  9347
+        downloads:  9630
         updated_at: 1710229811000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/leader-hotkeys-obsidian
 alt:
   - https://github.com/tgrosinger/leader-hotkeys-obsidian
-downloads: 15160
+downloads: 15531
 updated at: "2026-05-13T18:10:29Z"
 related to:
   - "[[GitHub - 316859979]]"
@@ -28,7 +28,7 @@ Leader Hotkeys binds a leader key that is pressed before a second hotkey to run 
 plugin: {
     id:     "leader-hotkeys-obsidian"
     name:   "Leader Hotkeys"
-    author: "tgrosinger"
+    author: "Tony Grosinger"
     repo:   "tgrosinger/leader-hotkeys-obsidian"
 
     html_url:    "https://community.obsidian.md/plugins/leader-hotkeys-obsidian"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Assign a leader key to any Obsidian command and trigger actions by pressing the leader key followed by a hotkey, like tmux or Vim. Map core and third-party commands (e.g., j/k/h/l for pane focus) to chained hotkeys. Back up notes—plugin is experimental and may be unstable."
 
     stats: {
-        downloads:  15160
+        downloads:  15531
         updated_at: 1778695829000
     }
 }

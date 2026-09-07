@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/extension-hub
 alt:
   - https://github.com/pixerojan/obsidian-extension-hub
-downloads: 2003
+downloads: 2460
 updated at: "2026-05-14T11:24:59Z"
 related to:
   - "[[GitHub - 1130573412]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse GitHub, the Official Community Archive, and the Obsidian Forum to find plugins and announcements. Install and update plugins across multiple vaults or selected vaults, save plugin Sets to deploy groups at once, and check/select available updates."
 
     stats: {
-        downloads:  2003
+        downloads:  2460
         updated_at: 1778757899000
     }
 }

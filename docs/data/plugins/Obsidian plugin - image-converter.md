@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/image-converter
 alt:
   - https://github.com/xryul/obsidian-image-converter
-downloads: 467616
-updated at: "2026-06-04T16:38:24Z"
+downloads: 497321
+updated at: "2026-08-04T13:29:13Z"
 related to:
   - "[[GitHub - 674186228]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Convert pasted or dropped images to WEBP, JPG, or PNG and compress them by quality. Resize images destructively or non-destructively, auto-apply dimensions to image links, and annotate, crop, rotate, or flip images inline. Rename and organize images with template variables, batch-process across notes or the vault, and work offline with pure JavaScript."
 
     stats: {
-        downloads:  467616
-        updated_at: 1780591104000
+        downloads:  497321
+        updated_at: 1785850153000
     }
 }
 ```

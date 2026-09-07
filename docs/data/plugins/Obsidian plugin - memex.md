@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/memex
 alt:
   - https://github.com/worldbrain/obsidian-memex
-downloads: 61
-updated at: "2026-07-20T10:46:34Z"
+downloads: 74
+updated at: "2026-08-08T17:33:25Z"
 related to:
   - "[[GitHub - 1205693688]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Search and ask questions against your Memex account from inside Obsidian using a dedicated sidebar and inline search blocks. Open matching Memex notes directly and drag supported results into your vault as embedded result-card blocks."
 
     stats: {
-        downloads:  61
-        updated_at: 1784544394000
+        downloads:  74
+        updated_at: 1786210405000
     }
 }
 ```

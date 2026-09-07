@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/day-one-importer
 alt:
   - https://github.com/marcdonald/obsidian-day-one-importer
-downloads: 3237
+downloads: 3344
 updated at: "2026-03-23T12:15:18Z"
 related to:
   - "[[GitHub - 788704477]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Day One journals exported as JSON into Obsidian Markdown with inline images and videos and frontmatter metadata. Preserve tags, starred/pinned/all-day flags, location and activity, create date- or UUID-named files, and log any failed imports to Failed Imports.md."
 
     stats: {
-        downloads:  3237
+        downloads:  3344
         updated_at: 1774268118000
     }
 }

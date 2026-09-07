@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/popkit
 alt:
   - https://github.com/zhouhua/obsidian-popkit
-downloads: 5288
+downloads: 5310
 updated at: "2025-03-20T03:57:23Z"
 related to:
   - "[[GitHub - 777055257]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show a contextual PopKit toolbar when selecting text to run quick actions like calculations, date/time inserts, word counts, and other utilities. Customize PopKit's toolbar with built-in tools or any Obsidian command, reorder items for fast access, or invoke it manually."
 
     stats: {
-        downloads:  5288
+        downloads:  5310
         updated_at: 1742443043000
     }
 }

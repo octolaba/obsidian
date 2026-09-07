@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tag-wrangler
 alt:
   - https://github.com/pjeby/tag-wrangler
-downloads: 1012510
+downloads: 1026618
 updated at: "2025-03-11T23:10:43Z"
 related to:
   - "[[GitHub - 334820867]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage tags from the Tags view and notes using a context menu to open or create tag pages, run or refine searches, and add or exclude tags from searches. Rename and reorganize tags (including subtags) via drag-and-drop or the menu, insert tags into editors by dragging, open a random tagged note, and collapse/expand hierarchies."
 
     stats: {
-        downloads:  1012510
+        downloads:  1026618
         updated_at: 1741734643000
     }
 }

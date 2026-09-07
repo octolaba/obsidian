@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-jtab
 alt:
   - https://github.com/davfive/obsidian-jtab
-downloads: 9490
+downloads: 9544
 updated at: "2024-03-10T22:30:59Z"
 related to:
   - "[[GitHub - 475300280]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render guitar chords and tabs inline using the jTab library. Support jtab codeblocks with auto-detection of chords/tabs, multiple lines per block, markdown lines inside blocks, quick jtab-examples and jtab-chords views, and customizable color schemes with live preview."
 
     stats: {
-        downloads:  9490
+        downloads:  9544
         updated_at: 1710109859000
     }
 }

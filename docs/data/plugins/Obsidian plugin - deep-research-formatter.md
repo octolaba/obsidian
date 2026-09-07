@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/deep-research-formatter
 alt:
   - https://github.com/zhanglongx/deep-research-formatter
-downloads: 134
+downloads: 151
 updated at: "2026-05-21T05:24:12Z"
 related to:
   - "[[GitHub - 1243028244]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Clean Markdown exported from ChatGPT Deep Research in Obsidian by removing inline cite markers and rewriting entity and URL annotations into readable labels. Preserve YAML frontmatter, fenced code blocks, and inline code, fall back safely on unknown marker types, and apply minimal whitespace cleanup."
 
     stats: {
-        downloads:  134
+        downloads:  151
         updated_at: 1779341052000
     }
 }

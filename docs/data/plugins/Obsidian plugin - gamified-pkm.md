@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gamified-pkm
 alt:
   - https://github.com/saertna/obsidian-gamified-pkm
-downloads: 5005
+downloads: 5094
 updated at: "2026-07-13T14:39:01Z"
 related to:
   - "[[GitHub - 682105618]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Gamify your PKM with game elements—points, milestones, and challenges—to reward progress and sustain motivation. Track achievements, nurture consistency, and turn note-taking into a motivating, long-term learning journey that connects ideas across work, study, and life."
 
     stats: {
-        downloads:  5005
+        downloads:  5094
         updated_at: 1783953541000
     }
 }

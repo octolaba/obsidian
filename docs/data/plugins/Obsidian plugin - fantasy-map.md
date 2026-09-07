@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/fantasy-map
 alt:
   - https://github.com/sotirangelo/obsidian-fantasy-map
-downloads: 665
+downloads: 823
 updated at: "2026-06-13T18:57:00Z"
 related to:
   - "[[GitHub - 1174429638]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display interactive fantasy maps from images in your vault, switch between maps, and link maps into hierarchies to drill down and back. Place markers and draw polygon or rectangular regions with names, descriptions, tags, linked notes, and labeled relations between features. Calibrate scale with two points, view a dynamic scale bar, and measure distances with a ruler."
 
     stats: {
-        downloads:  665
+        downloads:  823
         updated_at: 1781377020000
     }
 }

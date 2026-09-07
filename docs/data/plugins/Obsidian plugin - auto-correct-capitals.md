@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-correct-capitals
 alt:
   - https://github.com/ummler/obsidian-auto-correct-capitals
-downloads: 6535
+downloads: 6668
 updated at: "2025-11-16T16:12:59Z"
 related to:
   - "[[GitHub - 828578230]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Correct common capitalization mistakes where the first two letters are uppercase and the third is lowercase (e.g., HAllo → Hallo). Skip corrections inside fenced/inline code, LaTeX math, and YAML front matter; respect exclusion and abbreviation lists, and optionally capitalize or fix first letters in list items."
 
     stats: {
-        downloads:  6535
+        downloads:  6668
         updated_at: 1763309579000
     }
 }

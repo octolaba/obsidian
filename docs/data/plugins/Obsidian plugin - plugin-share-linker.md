@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/plugin-share-linker
 alt:
   - https://github.com/tyronewj/Plugin-Share-Linker
-downloads: 136
+downloads: 177
 updated at: "2026-06-18T04:23:22Z"
 related to:
   - "[[GitHub - 1272926626]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Share community plugins from the current vault to another by copying plugin folders or creating symlinks that point back to the source. List and select multiple plugins across paginated lists, skip existing or conflicting targets to avoid overwriting, and run on Obsidian desktop (symlink mode requires filesystem support for symbolic links)."
 
     stats: {
-        downloads:  136
+        downloads:  177
         updated_at: 1781756602000
     }
 }

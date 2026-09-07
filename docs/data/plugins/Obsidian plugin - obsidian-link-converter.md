@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-link-converter
 alt:
   - https://github.com/ozntel/obsidian-link-converter
-downloads: 32562
+downloads: 33005
 updated at: "2024-02-10T19:45:11Z"
 related to:
   - "[[GitHub - 414696001]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scan all links in your vault or active file and convert between WikiLinks and Markdown formats. Convert link targets to relative, absolute, or shortest possible paths and run conversions via commands or the file context menu."
 
     stats: {
-        downloads:  32562
+        downloads:  33005
         updated_at: 1707594311000
     }
 }

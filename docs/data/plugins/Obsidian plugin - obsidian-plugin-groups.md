@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-plugin-groups
 alt:
   - https://github.com/mocca101/obsidian-plugin-groups
-downloads: 41561
+downloads: 42687
 updated at: "2023-03-31T19:34:06Z"
 related to:
   - "[[GitHub - 573769676]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Group your Obsidian plugins into named collections for easier management. Enable or disable entire groups at once and set delayed loading to reduce startup time. Nest groups to create parent/child loading arrangements and organize plugins by role."
 
     stats: {
-        downloads:  41561
+        downloads:  42687
         updated_at: 1680291246000
     }
 }

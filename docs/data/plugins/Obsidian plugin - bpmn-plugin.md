@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bpmn-plugin
 alt:
   - https://github.com/joleaf/obsidian-bpmn-plugin
-downloads: 13260
+downloads: 13627
 updated at: "2026-06-12T12:52:27Z"
 related to:
   - "[[GitHub - 565176096]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View BPMN diagrams interactively inside notes using a bpmn code block or linked .bpmn files. Edit diagrams with a built-in modeler, run token simulations, and export diagrams as SVG."
 
     stats: {
-        downloads:  13260
+        downloads:  13627
         updated_at: 1781268747000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/raindrop-io
 alt:
   - https://github.com/dotwee/obsidian-raindropio-plugin
-downloads: 159
+downloads: 218
 updated at: "2026-07-06T10:30:37Z"
 related to:
   - "[[GitHub - 1226777232]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse saved Raindrop.io bookmarks in a note-aware explorer side pane inside Obsidian. Filter the explorer by active note tags and external links, run manual searches with tag/phrase/operator support, and render saved Raindrop.io links inline from fenced raindrop code blocks."
 
     stats: {
-        downloads:  159
+        downloads:  218
         updated_at: 1783333837000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/yadisk-sync
 alt:
   - https://github.com/nikolay-eltsov/obsidian-yadisk-sync
-downloads: 1279
-updated at: "2026-05-24T11:04:35Z"
+downloads: 1809
+updated at: "2026-07-27T11:57:15Z"
 related to:
   - "[[GitHub - 1183188382]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync your Obsidian vault with Yandex Disk bidirectionally using a three-way merge to detect changes and resolve conflicts per file (choose local, remote, or skip). Enable auto-sync on create/edit/delete/rename, use one-way push/pull when needed, and skip files by glob patterns or size; works on iPad/iPhone."
 
     stats: {
-        downloads:  1279
-        updated_at: 1779620675000
+        downloads:  1809
+        updated_at: 1785153435000
     }
 }
 ```

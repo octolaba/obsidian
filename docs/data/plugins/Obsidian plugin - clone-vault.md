@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/clone-vault
 alt:
   - https://github.com/laantorchaweb/clone-vault
-downloads: 1756
+downloads: 1821
 updated at: "2025-01-30T17:39:50Z"
 related to:
   - "[[GitHub - 909439476]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a new vault by cloning your current vault's settings folder (including custom-named settings) and reproduce the vault's folder structure. Copy contents from selected folders like templates, snippets, or assets into the new vault, name it via a prompt, and set a default location."
 
     stats: {
-        downloads:  1756
+        downloads:  1821
         updated_at: 1738258790000
     }
 }

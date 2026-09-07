@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/full-vault-mirror-sync
 alt:
   - https://github.com/lesteraiagent/obsidian-full-vault-mirror-sync
-downloads: 79
+downloads: 101
 updated at: "2026-06-02T09:07:08Z"
 related to:
   - "[[GitHub - 1256771738]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mirror your Obsidian vault to a local Windows folder using robocopy /MIR for one-way source-to-target sync. Validate paths and confirm before the first non-empty sync; offer manual or timer/startup automatic sync with post-sync metadata checks and automatic retries."
 
     stats: {
-        downloads:  79
+        downloads:  101
         updated_at: 1780391228000
     }
 }

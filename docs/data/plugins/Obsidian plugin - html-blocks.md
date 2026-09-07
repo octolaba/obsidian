@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/html-blocks
 alt:
   - https://github.com/jwczju/html-blocks
-downloads: 68
+downloads: 148
 updated at: "2026-07-14T06:39:42Z"
 related to:
   - "[[GitHub - 1299987972]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render live HTML, CSS, and JavaScript directly inside notes using fenced html-block code fences. Isolate each block in its own Shadow DOM so styles and top-level variables don't collide, embed external .html files, and use Inspect Mode to jump from rendered elements to their source."
 
     stats: {
-        downloads:  68
+        downloads:  148
         updated_at: 1784011182000
     }
 }

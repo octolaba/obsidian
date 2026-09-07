@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/paste-reformatter
 alt:
   - https://github.com/keathmilligan/obsidian-paste-reformatter
-downloads: 6213
+downloads: 6542
 updated at: "2026-06-01T23:10:38Z"
 related to:
   - "[[GitHub - 953313143]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reformat pasted HTML and plain text with RegEx, convert HTML to clean Markdown, and strip empty elements or hard line breaks. Adjust heading levels and remove blank lines to match your note structure. Insert the transformed content at the cursor and show a brief notification about the paste type."
 
     stats: {
-        downloads:  6213
+        downloads:  6542
         updated_at: 1780355438000
     }
 }

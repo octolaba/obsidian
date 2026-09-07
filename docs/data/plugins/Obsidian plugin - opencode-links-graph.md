@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/opencode-links-graph
 alt:
   - https://github.com/wlankasper/obsidian-opencode-plugin
-downloads: 318
+downloads: 361
 updated at: "2026-05-15T09:43:29Z"
 related to:
   - "[[GitHub - 1239108355]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render OpenCode @.opencode/... references as edges in Obsidian's Graph and Local Graph. Scan Markdown files, resolve targets to vault files, and inject synthetic resolved-link metadata at runtime so relationships appear in graphs without modifying file contents."
 
     stats: {
-        downloads:  318
+        downloads:  361
         updated_at: 1778838209000
     }
 }

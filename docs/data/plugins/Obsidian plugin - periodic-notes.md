@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/periodic-notes
 alt:
   - https://github.com/liamcain/obsidian-periodic-notes
-downloads: 723473
+downloads: 736366
 updated at: "2022-04-14T15:03:23Z"
 related to:
   - "[[GitHub - 335861818]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and manage daily, weekly, and monthly notes with automatic file creation and templates. Open the current weekly note or jump to next/previous weekly notes (skipping weeks without files) and integrate with Calendar week numbers while preserving existing Calendar settings."
 
     stats: {
-        downloads:  723473
+        downloads:  736366
         updated_at: 1649948603000
     }
 }

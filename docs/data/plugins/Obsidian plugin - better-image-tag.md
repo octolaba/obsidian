@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-image-tag
 alt:
   - https://github.com/ktonel475/Better-Image-Tag
-downloads: 425
+downloads: 459
 updated at: "2026-05-31T08:36:49Z"
 related to:
   - "[[GitHub - 1129641780]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Tag images by right-clicking and selecting tags visually from existing tags — no typing required. Store tags, author, and dates in frontmatter and manage or rescan your tag library from a single sidebar."
 
     stats: {
-        downloads:  425
+        downloads:  459
         updated_at: 1780216609000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markdown-hijacker
 alt:
   - https://github.com/especialkim/synaptic-bridge
-downloads: 1428
+downloads: 1477
 updated at: "2026-04-03T07:32:48Z"
 related to:
   - "[[GitHub - 972714920]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Markdown and selected file types between your Obsidian Vault and external folders in real time, with offline change detection when Obsidian is closed. Connect multiple folder mappings, choose one-way or bidirectional sync, and preserve frontmatter metadata and sync status across locations."
 
     stats: {
-        downloads:  1428
+        downloads:  1477
         updated_at: 1775201568000
     }
 }

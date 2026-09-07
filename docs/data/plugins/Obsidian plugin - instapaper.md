@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/instapaper
 alt:
   - https://github.com/instapaper/obsidian-instapaper
-downloads: 8571
+downloads: 8649
 updated at: "2026-04-04T18:13:09Z"
 related to:
   - "[[GitHub - 726881689]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Instapaper with Obsidian to save URLs and import highlights, notes, and article metadata into your vault. Add block identifiers to each highlight for linking and querying specific passages, and normalize tags and article properties into customizable frontmatter and templates."
 
     stats: {
-        downloads:  8571
+        downloads:  8649
         updated_at: 1775326389000
     }
 }

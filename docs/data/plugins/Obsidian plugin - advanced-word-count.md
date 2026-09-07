@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/advanced-word-count
 alt:
   - https://github.com/pan4ratte/obsidian-advanced-word-count
-downloads: 1281
-updated at: "2026-06-23T11:45:23Z"
+downloads: 2146
+updated at: "2026-07-30T23:02:53Z"
 related to:
   - "[[GitHub - 1165245700]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create custom word-count presets and view them in the status bar or right pane tab. Covers words, pages, characters (with/without spaces), lines, paragraphs, markdown links, wikilinks, citekeys and much more. Fine-tune presets, specifying, how formatting elements will be counted, quickly cycle presets, set limit warnings, writing goals and more. Community extensions allow to install new presets, metrics and advanced settings to adjust the plugin virtually for any writing purpose."
 
     stats: {
-        downloads:  1281
-        updated_at: 1782215123000
+        downloads:  2146
+        updated_at: 1785452573000
     }
 }
 ```

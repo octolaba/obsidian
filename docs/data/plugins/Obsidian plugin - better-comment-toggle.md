@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-comment-toggle
 alt:
   - https://github.com/mrgvsv/obsidian-better-comment-toggle
-downloads: 5559
+downloads: 5871
 updated at: "2023-12-24T20:14:58Z"
 related to:
   - "[[GitHub - 666304974]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle comments line-by-line or across a selected range, with configurable start and end tokens and preserved indentation. Apply comments inside code and math blocks (including custom languages) in a WYSIWYG way so no hidden tags are added to your files. Customize commented-line appearance in the editor without altering stored Markdown."
 
     stats: {
-        downloads:  5559
+        downloads:  5871
         updated_at: 1703448898000
     }
 }

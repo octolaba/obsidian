@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ghostty-terminal
 alt:
   - https://github.com/lavs9/obsidian-ghostty-terminal
-downloads: 2238
+downloads: 2589
 updated at: "2026-05-13T07:36:53Z"
 related to:
   - "[[GitHub - 1169984603]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed a Ghostty-powered terminal pane inside Obsidian using the same WASM VT parser as the native app. Run a real shell via a Python PTY proxy with pixel-perfect Canvas rendering, full Unicode & truecolor, OSC 8 links, Kitty graphics, independent splits, and file-explorer \"Open here\"."
 
     stats: {
-        downloads:  2238
+        downloads:  2589
         updated_at: 1778657813000
     }
 }

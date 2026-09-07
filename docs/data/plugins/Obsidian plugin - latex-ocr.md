@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/latex-ocr
 alt:
   - https://github.com/lucasvanmol/obsidian-latex-ocr
-downloads: 13424
+downloads: 13515
 updated at: "2025-11-30T13:06:01Z"
 related to:
   - "[[GitHub - 719111142]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate LaTeX equations from images and screenshots inside your vault. Paste LaTeX from the clipboard or convert vault images via a Generate Latex context command, using the HuggingFace Inference API or a local OCR server (local mode works reliably while the API has image-to-text issues)."
 
     stats: {
-        downloads:  13424
+        downloads:  13515
         updated_at: 1764507961000
     }
 }

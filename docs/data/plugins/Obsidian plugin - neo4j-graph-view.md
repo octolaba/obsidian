@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/neo4j-graph-view
 alt:
   - https://github.com/hemile/obsidian-neo4j-graph-view
-downloads: 11304
+downloads: 11484
 updated at: "2021-04-19T14:21:41Z"
 related to:
   - "[[GitHub - 356883318]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize your Markdown notes as an interactive Neo4j graph, styling nodes and edges by tags, folders, and link types. Query the graph with Cypher, selectively expand or hide nodes, view images inline, and use typed links and hierarchical layouts for structured navigation."
 
     stats: {
-        downloads:  11304
+        downloads:  11484
         updated_at: 1618842101000
     }
 }

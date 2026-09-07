@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-red
 alt:
   - https://github.com/viy1204/smart-red-public
-downloads: 113
+downloads: 143
 updated at: "2026-06-29T18:11:13Z"
 related to:
   - "[[GitHub - 1284212349]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Obsidian notes into Xiaohongshu-style 1080×1440 image cards with a real-time side-by-side preview and automatic, measurement-driven pagination. Render Markdown (text, images, tables) with CJK-aware line breaking and Kinsoku handling, choose from multiple templates, and export single PNGs, copy images, or batch-export ZIPs."
 
     stats: {
-        downloads:  113
+        downloads:  143
         updated_at: 1782756673000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/organized-daily-notes
 alt:
   - https://github.com/duchangkim/organized-daily-notes
-downloads: 1122
+downloads: 1135
 updated at: "2025-04-15T14:46:58Z"
 related to:
   - "[[GitHub - 914759259]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize daily notes into dated folder structures (Year, Year/Month, Year/Month/Week) using date-based folder formats. Switch to Obsidian's core Daily Notes date-format strings (e.g., YYYY/MM/DD or YYYY/MM/W/DD); this plugin is deprecated."
 
     stats: {
-        downloads:  1122
+        downloads:  1135
         updated_at: 1744728418000
     }
 }

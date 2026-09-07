@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dyresearch-sidecar
 alt:
   - https://github.com/dylantartarini1996/dyresearch-obsidian
-downloads: 111
+downloads: 130
 updated at: "2026-06-08T20:42:18Z"
 related to:
   - "[[GitHub - 1249551975]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bridge your vault with a multi-agent AI backend (DyResearch server required) to chat with Professor, Librarian, and Researcher agents for tutoring, research, and source discovery. Ingest documents into a vector store for retrieval-augmented (RAG) search, manage sessions and history, and auto-generate structured notes with Mermaid diagram support."
 
     stats: {
-        downloads:  111
+        downloads:  130
         updated_at: 1780951338000
     }
 }

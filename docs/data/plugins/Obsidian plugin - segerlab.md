@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/segerlab
 alt:
   - https://github.com/ksemkav/obsidian-segerlab-plugin
-downloads: 154
+downloads: 160
 updated at: "2026-02-13T12:18:57Z"
 related to:
   - "[[GitHub - 1084518528]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render segerlab-calculation code blocks as interactive glaze calculators in your notes, with optional extended coefficients and automatic English/Russian interface. Display a Stull chart panel with all calculator points from the open note and search notes for calculators via a configurable query."
 
     stats: {
-        downloads:  154
+        downloads:  160
         updated_at: 1770985137000
     }
 }

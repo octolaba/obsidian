@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cornell-marginalia
 alt:
   - https://github.com/latazadehomero/cornell-marginalia
-downloads: 28729
+downloads: 30456
 updated at: "2026-05-18T21:16:42Z"
 related to:
   - "[[GitHub - 1157275707]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Cornell-style margin cues using %%> and %%< syntax to keep main text clean and present side-notes for active recall. Color-code semantic prefixes, group aligned blocks into callouts or block marginalia, and interact with margin notes in Reading View."
 
     stats: {
-        downloads:  28729
+        downloads:  30456
         updated_at: 1779139002000
     }
 }

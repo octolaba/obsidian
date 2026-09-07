@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/syncthing-integration
 alt:
   - https://github.com/lbf38/obsidian-syncthing-integration
-downloads: 44434
+downloads: 45361
 updated at: "2026-03-15T18:04:44Z"
 related to:
   - "[[GitHub - 601244868]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage Syncthing synchronization from inside your Obsidian vault. Display sync status in the status bar, detect and resolve conflicting files with diffs, and control Syncthing actions directly from Obsidian."
 
     stats: {
-        downloads:  44434
+        downloads:  45361
         updated_at: 1773597884000
     }
 }

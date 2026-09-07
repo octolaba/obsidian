@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/citation-extended
 alt:
   - https://github.com/akhmialeuski/obsidian-citation-extended
-downloads: 354
+downloads: 614
 updated at: "2026-07-10T08:25:55Z"
 related to:
   - "[[GitHub - 1083261378]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Integrate your reference manager with Obsidian to search and open literature notes from BibTeX, CSL-JSON, Hayagriva YAML, or Readwise. Insert wiki or markdown links, rendered templates, or Pandoc-style citations; use Handlebars templates with 25+ variables and helpers and load multiple databases while preserving duplicate citekeys."
 
     stats: {
-        downloads:  354
+        downloads:  614
         updated_at: 1783671955000
     }
 }

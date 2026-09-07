@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/webpage-html-export
 alt:
   - https://github.com/kosmosisdire/obsidian-webpage-export
-downloads: 145445
+downloads: 148578
 updated at: "2025-07-28T16:01:46Z"
 related to:
   - "[[GitHub - 560191288]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export HTML from single notes, canvas pages, or entire vaults for direct publishing. Include full-text search, file navigation tree, document outline, graph view, theme toggle, and support for popular plugins, with an option to bundle HTML and dependencies into a single file."
 
     stats: {
-        downloads:  145445
+        downloads:  148578
         updated_at: 1753718506000
     }
 }

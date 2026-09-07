@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hemingway-typewriter
 alt:
   - https://github.com/coffeegerm/hemingway-typewriter-obsidian
-downloads: 240
+downloads: 312
 updated at: "2026-07-02T21:11:35Z"
 related to:
   - "[[GitHub - 1272889822]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Write forward-only with a typewriter-style lock that blocks cursor movement, delete and undo so you can't go back to revise. Keep the current line centered with typewriter scrolling. Enter a distraction-free focus mode that hides interface chrome, and disable the write-only lock anytime to edit freely."
 
     stats: {
-        downloads:  240
+        downloads:  312
         updated_at: 1783026695000
     }
 }

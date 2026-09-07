@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-preview-on-icon-hover
 alt:
   - https://github.com/rama1997/Image-Preview-On-Icon-Hover
-downloads: 688
+downloads: 702
 updated at: "2025-01-28T10:06:19Z"
 related to:
   - "[[GitHub - 904977564]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add image popups to Obsidian UI icons on hover, including the vault switcher, help and settings icons, sidebar toggles, ribbon icons, and status bar icons. Assign and manage custom images for any icon and add or remove ribbon/status icons for tailored previews."
 
     stats: {
-        downloads:  688
+        downloads:  702
         updated_at: 1738058779000
     }
 }

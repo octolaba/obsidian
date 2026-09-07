@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/attachment-imagebed-manager
 alt:
   - https://github.com/perinchiang/obsidian-plugins-attachment-imagebed-manager
-downloads: 95
-updated at: "2026-06-11T14:23:14Z"
+downloads: 142
+updated at: "2026-08-04T09:23:41Z"
 related to:
   - "[[GitHub - 1263977400]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Upload attachments to S3-compatible clouds (Cloudflare R2, AWS S3, MinIO) and replace local links in notes with remote URLs. Browse attachments by type in list or gallery views, add custom file types, preview changes in dry-run mode, and optionally delete local files after upload. Preserve note integrity with atomic writes and automatic rollback on failed uploads."
 
     stats: {
-        downloads:  95
-        updated_at: 1781187794000
+        downloads:  142
+        updated_at: 1785835421000
     }
 }
 ```

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/cursor-smith
 alt:
   - https://github.com/sadsnake1/cursor-smith
-downloads: 1906
-updated at: "2026-07-23T11:19:25Z"
+downloads: 4790
+updated at: "2026-08-05T22:04:27Z"
 related to:
   - "[[GitHub - 1296793298]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Replace Obsidian's default text cursor with a custom one. Choose from many styles and effects, tinker it to perfectly match your style."
 
     stats: {
-        downloads:  1906
-        updated_at: 1784805565000
+        downloads:  4790
+        updated_at: 1785967467000
     }
 }
 ```

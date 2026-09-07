@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vim-commands
 alt:
   - https://github.com/mateuszkowalczyk/obsidian-vim-commands
-downloads: 19
+downloads: 57
 updated at: "2026-07-20T19:23:04Z"
 related to:
   - "[[GitHub - 1292494887]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Map Vim-style key sequences directly to any Obsidian command, including commands from community plugins. Vim Commands supports multi-key mappings, leaders, and modified keys across tabs, sidebars, and other app views, not only the editor. Mappings live in a vault-local vimrc file. The plugin extends rather than replaces Obsidian's native Vim editing."
 
     stats: {
-        downloads:  19
+        downloads:  57
         updated_at: 1784575384000
     }
 }

@@ -54,7 +54,7 @@ export const SOURCES = Object.freeze({
     },
     rel: {
         repo: 'obsidianmd/obsidian-releases',
-        commit: '80239338536205c598b72ed46c77ecb86831bc57',
+        commit: '11fc3ae2320769a5db81b9029ab644928540f9b8',
         flag: 'releases-root',
         sentinel: { file: 'desktop-releases.json', contains: '"latestVersion"' },
     },

@@ -131,7 +131,7 @@ Charset: "The ID must contain only lowercase letters and hyphens, can't end with
 contain `obsidian`" **Contract** (docs: en/Reference/Manifest.md:27). Note the asymmetry — `plugin` is
 banned only as a suffix, `obsidian` anywhere. The published directory does not match this rule —
 uppercase, a dot, and underscores all occur in live ids **Observed**
-(rel: community-plugins.json:185; rel: community-plugins.json:4301; rel: community-plugins.json:6926)
+(rel: community-plugins.json:192; rel: community-plugins.json:4301; rel: community-plugins.json:6926)
 — because the rule binds new submissions while old ids are grandfathered. Apply it strictly to
 anything unreleased; never "fix" a published id.
 

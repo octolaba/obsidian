@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/wikipedia-search
 alt:
   - https://github.com/strangegirlmurph/obsidian-wikipedia-helper
-downloads: 26250
-updated at: "2026-07-23T10:06:43Z"
+downloads: 27432
+updated at: "2026-08-01T10:39:34Z"
 related to:
   - "[[GitHub - 614454403]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Search, link, insert, and open Wikipedia and other Wikimedia articles across languages directly from Obsidian. Insert article descriptions, introductions and thumbnails with templates, hyperlink selected text, quick-search different languages, create notes for articles, or open articles in the web viewer."
 
     stats: {
-        downloads:  26250
-        updated_at: 1784801203000
+        downloads:  27432
+        updated_at: 1785580774000
     }
 }
 ```

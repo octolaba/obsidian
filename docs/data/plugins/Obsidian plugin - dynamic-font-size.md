@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dynamic-font-size
 alt:
   - https://github.com/nancyel/obsidian-dynamic-font-size
-downloads: 540
+downloads: 617
 updated at: "2026-01-17T08:30:24Z"
 related to:
   - "[[GitHub - 1134141077]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Adjust note content font size using a font-size frontmatter property or an interactive slider. Apply changes in real time with smooth transitions and view the current size in the status bar. Configure minimum, maximum, and default ranges for consistent control."
 
     stats: {
-        downloads:  540
+        downloads:  617
         updated_at: 1768638624000
     }
 }

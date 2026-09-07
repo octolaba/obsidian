@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/abal-lang
 alt:
   - https://github.com/etudes-informatiques-et-services35/abal-lang-highlighter
-downloads: 108
+downloads: 121
 updated at: "2026-05-22T10:26:14Z"
 related to:
   - "[[GitHub - 1244622559]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Provide ABAL syntax highlighting in fenced ```abal code blocks for both edit mode (Live Preview & Source) and reading mode. Highlight case-insensitive keywords, strings, comments starting with ;, decimal and hexadecimal numbers, operators and punctuation using CodeMirror 6 and a Markdown post-processor."
 
     stats: {
-        downloads:  108
+        downloads:  121
         updated_at: 1779445574000
     }
 }

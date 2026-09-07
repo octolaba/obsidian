@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-enhance
 alt:
   - https://github.com/joeytoday/obsidian-canvas-enhance
-downloads: 30
-updated at: "2026-07-22T10:35:52Z"
+downloads: 679
+updated at: "2026-08-04T10:32:08Z"
 related to:
   - "[[GitHub - 1306171969]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Extend Obsidian Canvas with Overview Mode, a keyboard-driven mindmap, slide-style presentation mode, flowchart shapes, and rich node/edge styling. Navigate and read nodes when zoomed out, create child/sibling nodes with Tab/Enter, present in fullscreen with transitions, and integrate .canvas files into the graph and backlinks."
 
     stats: {
-        downloads:  30
-        updated_at: 1784716552000
+        downloads:  679
+        updated_at: 1785839528000
     }
 }
 ```

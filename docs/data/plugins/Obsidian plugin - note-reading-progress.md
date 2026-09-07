@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-reading-progress
 alt:
   - https://github.com/keithwithai/reading-progress
-downloads: 159
+downloads: 198
 updated at: "2026-05-23T08:51:56Z"
 related to:
   - "[[GitHub - 1247379738]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show remaining reading time and scroll progress for the active note in both edit and preview modes on desktop and mobile. Display optional progress percentage, multiple time formats, configurable reading speed, and a mobile-friendly status-bar pill with a stable CSS class for custom styling."
 
     stats: {
-        downloads:  159
+        downloads:  198
         updated_at: 1779526316000
     }
 }

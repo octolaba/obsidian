@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/concordance
 alt:
   - https://github.com/nsyout/obsidian-concordance
-downloads: 109
+downloads: 127
 updated at: "2026-06-16T00:49:44Z"
 related to:
   - "[[GitHub - 1269703127]]"
@@ -28,7 +28,7 @@ Concordance generates Markdown indexes from filename prefixes, folders, tags or 
 plugin: {
     id:     "concordance"
     name:   "Concordance"
-    author: "nsyout"
+    author: "latentoutput"
     repo:   "nsyout/obsidian-concordance"
 
     html_url:    "https://community.obsidian.md/plugins/concordance"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate safe Markdown indexes from filename prefixes, folders, tags, or frontmatter properties and write lists of [[wikilinks]] into a clearly marked block inside any note. Limit edits to between concordance:start/end markers, preview diffs or run read-only scans, and configure link style, sort, recursion and exclusions."
 
     stats: {
-        downloads:  109
+        downloads:  127
         updated_at: 1781570984000
     }
 }

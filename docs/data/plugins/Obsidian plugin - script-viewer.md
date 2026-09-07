@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/script-viewer
 alt:
   - https://github.com/viggomeesters/obsidian-script-viewer
-downloads: 235
+downloads: 337
 updated at: "2026-06-08T12:42:48Z"
 related to:
   - "[[GitHub - 1262619116]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Inspect shell, batch, PowerShell and AutoHotkey scripts (.sh/.bash/.zsh/.bat/.cmd/.ps1/.ahk/.command/.bats) in a read-only viewer with stable line numbers, soft-wrap, lightweight syntax hints, searchable outline, and filtering. Highlight comments, variables, paths and risky command patterns, and show safety-focused summaries while never executing, starting terminals, changing files, or making network requests."
 
     stats: {
-        downloads:  235
+        downloads:  337
         updated_at: 1780922568000
     }
 }

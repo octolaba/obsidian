@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/toggle-readable-line-length
 alt:
   - https://github.com/drichardson/obsidian-toggle-readable-line-length
-downloads: 2986
+downloads: 3042
 updated at: "2024-06-18T16:50:46Z"
 related to:
   - "[[GitHub - 815391781]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle the Readable line length editor setting with a command or hotkey. Switch instantly between wrapped readable width and full-width editing."
 
     stats: {
-        downloads:  2986
+        downloads:  3042
         updated_at: 1718729446000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-on-selection
 alt:
   - https://github.com/cofuente/obsidian-copy-selection
-downloads: 104
+downloads: 114
 updated at: "2026-04-23T18:38:38Z"
 related to:
   - "[[GitHub - 1219296671]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy highlighted text to the clipboard automatically whenever the selection changes, bringing X11-style primary selection to Obsidian on all platforms. Debounce rapid selections to avoid spamming the clipboard and support mouse and keyboard selection; respect iOS clipboard restrictions that may prevent selection-triggered writes."
 
     stats: {
-        downloads:  104
+        downloads:  114
         updated_at: 1776969518000
     }
 }

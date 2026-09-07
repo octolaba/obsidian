@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/review-critic
 alt:
   - https://github.com/rohrbachd/obsidian-review-critics
-downloads: 172
+downloads: 242
 updated at: "2026-07-15T08:37:43Z"
 related to:
   - "[[GitHub - 1213770360]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit and review notes collaboratively in plain Markdown using quick commands to mark additions, deletions, replacements, highlights, and inline comments, with clear rendering in Reading View and Live Preview. Toggle Track Changes to record and resolve edits, accept or reject changes and comments from unified Changes and Comments panes, apply named color presets, and protect syntax-sensitive Markdown while keeping notes portable."
 
     stats: {
-        downloads:  172
+        downloads:  242
         updated_at: 1784104663000
     }
 }

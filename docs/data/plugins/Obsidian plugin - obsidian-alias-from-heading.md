@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-alias-from-heading
 alt:
   - https://github.com/basham/obsidian-alias-from-heading
-downloads: 5915
+downloads: 5933
 updated at: "2024-07-18T19:27:21Z"
 related to:
   - "[[GitHub - 500891583]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add an implicit alias to each note based on its first heading and make it available wherever YAML aliases are accepted. Keep link display names synced with heading changes while preserving manually customized display names; support both Wikilink and Markdown formats. Preserve YAML aliases' normal behavior without auto-updating their associated links."
 
     stats: {
-        downloads:  5915
+        downloads:  5933
         updated_at: 1721330841000
     }
 }

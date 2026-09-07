@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/rss-importer
 alt:
   - https://github.com/ckelsoe/obsidian-rss-importer
-downloads: 77
-updated at: "2026-06-15T22:36:44Z"
+downloads: 131
+updated at: "2026-08-11T14:48:01Z"
 related to:
   - "[[GitHub - 1269379717]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Import articles and podcasts from RSS, Atom, and Substack feeds into your vault as Markdown notes, put each feed in its own folder, and deduplicate by stable frontmatter identity so renamed or moved notes aren't re-imported. Preview feeds and backfill Substack archives while managing items with a three‑state import window."
 
     stats: {
-        downloads:  77
-        updated_at: 1781563004000
+        downloads:  131
+        updated_at: 1786459681000
     }
 }
 ```

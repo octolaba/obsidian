@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/sync-confluence
 alt:
   - https://github.com/dzplus/obsidian-sync-confluence
-downloads: 216
-updated at: "2026-07-24T03:54:18Z"
+downloads: 296
+updated at: "2026-07-29T07:35:30Z"
 related to:
   - "[[GitHub - 1255842177]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync Obsidian notes to Confluence pages by adding a confluence_url in frontmatter; convert note body to Confluence storage format and push updates on demand or on a schedule. Upload local attachments, pre-render Mermaid and PlantUML diagrams to images, auto-create child pages from confluence_parent_url, and skip unchanged notes via content-hash."
 
     stats: {
-        downloads:  216
-        updated_at: 1784865258000
+        downloads:  296
+        updated_at: 1785310530000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ultimate-todoist-sync
 alt:
   - https://github.com/heroblackink/ultimate-todoist-sync-for-obsidian
-downloads: 19145
+downloads: 19319
 updated at: "2026-03-19T18:36:35Z"
 related to:
   - "[[GitHub - 620147274]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync tasks between Obsidian and Todoist automatically. Create Todoist tasks from notes and synchronize edits to content, due dates, labels, priorities and completion status both ways, and import Todoist comments into notes."
 
     stats: {
-        downloads:  19145
+        downloads:  19319
         updated_at: 1773945395000
     }
 }

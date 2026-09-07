@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-electron-window-tweaker
 alt:
   - https://github.com/mgmeyers/obsidian-electron-window-tweaker
-downloads: 14508
+downloads: 14610
 updated at: "2021-12-14T22:26:44Z"
 related to:
   - "[[GitHub - 374753085]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Tweak Electron window settings like opacity, vibrancy on macOS, and always-on-top behavior. Apply per-window adjustments to control transparency and visual effects, noting available features vary by operating system."
 
     stats: {
-        downloads:  14508
+        downloads:  14610
         updated_at: 1639520804000
     }
 }

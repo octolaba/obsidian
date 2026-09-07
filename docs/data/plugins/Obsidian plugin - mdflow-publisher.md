@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mdflow-publisher
 alt:
   - https://github.com/jackywxsz/Jacky-mdflow
-downloads: 98
+downloads: 177
 updated at: "2026-07-14T01:14:21Z"
 related to:
   - "[[GitHub - 1199107914]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "将 Markdown 转换为可直接粘贴到微信公众号的排版 HTML 并自动把图片转为 Base64。生成适合 X Articles 的长文并导出图片 ZIP（正文带【插入图片】占位符），或预览并批量导出小红书 3:4 图文卡片，支持分页、封面与多套模板。"
 
     stats: {
-        downloads:  98
+        downloads:  177
         updated_at: 1783991661000
     }
 }

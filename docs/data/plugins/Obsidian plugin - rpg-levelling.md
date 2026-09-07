@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rpg-levelling
 alt:
   - https://github.com/bagoftips/rpg-levelling
-downloads: 146
+downloads: 172
 updated at: "2026-06-10T22:01:49Z"
 related to:
   - "[[GitHub - 1265473013]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track RPG-style levelling in the active editor, awarding 1 XP per character typed. Display a compact level label, progress bar, current XP and a level-up animation as levels scale infinitely with increasing XP costs; keep progress backed up in app storage and pick the widget corner."
 
     stats: {
-        downloads:  146
+        downloads:  172
         updated_at: 1781128909000
     }
 }

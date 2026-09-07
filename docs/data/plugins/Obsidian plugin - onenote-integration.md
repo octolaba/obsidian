@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/onenote-integration
 alt:
   - https://github.com/aywutiansui/obsidian-onenote-integration
-downloads: 744
+downloads: 1105
 updated at: "2026-06-19T06:15:12Z"
 related to:
   - "[[GitHub - 1273052064]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed and edit OneNote desktop windows directly inside Obsidian via the local OneNote COM API, using live embedded windows rather than screenshots. Browse notebooks in a hierarchical sidebar, pick pages with cascading notebook→section→page controls, detach embeds into standalone windows, and extract ink stroke previews and rich HTML content. Use on Windows with OneNote desktop; macOS supports only basic sidebar browsing via AppleScript."
 
     stats: {
-        downloads:  744
+        downloads:  1105
         updated_at: 1781849712000
     }
 }

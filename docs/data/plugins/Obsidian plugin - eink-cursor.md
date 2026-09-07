@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/eink-cursor
 alt:
   - https://github.com/atelier-recherche/einkcursor
-downloads: 29
+downloads: 44
 updated at: "2026-07-05T21:39:42Z"
 related to:
   - "[[GitHub - 1207863257]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Use a static, non-animated editing cursor optimized for e-ink screens to reduce flicker and improve readability. Disable other cursor-replacing plugins to avoid conflicts."
 
     stats: {
-        downloads:  29
+        downloads:  44
         updated_at: 1783287582000
     }
 }

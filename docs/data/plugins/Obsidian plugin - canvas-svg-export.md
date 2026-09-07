@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-svg-export
 alt:
   - https://github.com/hesprs/obsidian-canvas-svg-export
-downloads: 441
+downloads: 540
 updated at: "2026-05-23T09:36:53Z"
 related to:
   - "[[GitHub - 1241737255]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export canvases to SVG with rendered SVG elements (no <foreignObject>) instead of PNG for crisp, scalable output. Preserve canvas visuals as vector graphics for sharp zooming, printing, and downstream editing."
 
     stats: {
-        downloads:  441
+        downloads:  540
         updated_at: 1779529013000
     }
 }

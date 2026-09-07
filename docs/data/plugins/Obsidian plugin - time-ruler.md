@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/time-ruler
 alt:
   - https://github.com/j-palindrome/obsidian-time-ruler
-downloads: 63276
+downloads: 63625
 updated at: "2025-04-17T06:01:18Z"
 related to:
   - "[[GitHub - 649490861]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Time-block nested tasks on a timeline and drag-and-drop to schedule, reschedule, or change duration. View tasks over read-only online calendars, create tasks by dragging, and filter scheduled, unscheduled, or due items. Integrate with Dataview, Tasks, FullCalendar and Day Planner and use the built-in timer for Pomodoro and time-tracking."
 
     stats: {
-        downloads:  63276
+        downloads:  63625
         updated_at: 1744869678000
     }
 }

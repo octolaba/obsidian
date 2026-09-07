@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian42-brat
 alt:
   - https://github.com/tfthacker/obsidian42-brat
-downloads: 895569
+downloads: 950519
 updated at: "2026-07-01T16:04:24Z"
 related to:
   - "[[GitHub - 412330302]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Update beta plugins and themes from GitHub by adding repository paths to a test list. Download updates and reload plugins automatically so you can test new releases without manual downloads or file copying."
 
     stats: {
-        downloads:  895569
+        downloads:  950519
         updated_at: 1782921864000
     }
 }

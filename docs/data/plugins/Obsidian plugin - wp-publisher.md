@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/wp-publisher
 alt:
   - https://github.com/irisable/wp-publisher-for-obsidian
-downloads:
-updated at:
+downloads: 37
+updated at: "2026-07-25T06:15:05Z"
 related to:
   - "[[GitHub - 1207125711]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/irisable/wp-publisher-for-obsidian"
     description: "Publish and explicitly synchronize notes with WordPress using Gutenberg blocks, media reuse, previews, and guarded pull and merge workflows. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Publish and safely synchronize Obsidian notes with WordPress using Gutenberg blocks, media deduplication, previews, and reviewed two-way sync."
+
+    stats: {
+        downloads:  37
+        updated_at: 1784960105000
+    }
 }
 ```
 

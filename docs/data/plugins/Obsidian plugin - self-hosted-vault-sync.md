@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/self-hosted-vault-sync
 alt:
   - https://github.com/peoneer/self-hosted-vault-sync
-downloads: 33
+downloads: 52
 updated at: "2026-07-08T11:46:45Z"
 related to:
   - "[[GitHub - 1292243513]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault via a self-hosted server to keep files synced across devices without vendor lock-in. Push edits on change, pull on startup and poll for updates, use Server-Sent Events for real-time desktop updates, sync only changed files, and save conflicts as .conflict.<timestamp> while respecting glob exclude patterns."
 
     stats: {
-        downloads:  33
+        downloads:  52
         updated_at: 1783511205000
     }
 }

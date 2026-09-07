@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vimium-plus
 alt:
   - https://github.com/stianlyng/obsidian-vimium-plus
-downloads: 108
+downloads: 185
 updated at: "2026-07-07T19:02:54Z"
 related to:
   - "[[GitHub - 1285478826]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Navigate Obsidian with a Vimium-FF–style keyboard layer. Use Reading mode to scroll with j/k and open elements via f click-hints, then press i to edit with Obsidian's Vim keybindings and press Esc to return to Reading mode."
 
     stats: {
-        downloads:  108
+        downloads:  185
         updated_at: 1783450974000
     }
 }

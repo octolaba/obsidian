@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hierarchical-backlinks
 alt:
   - https://github.com/jasonmotylinski/hierarchical-backlinks
-downloads: 2669
+downloads: 3258
 updated at: "2026-06-09T00:09:47Z"
 related to:
   - "[[GitHub - 787674234]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display backlinks for the active note as a collapsible tree organized by your folder structure. Navigate references with clickable links and focus on relevant branches using collapsible nodes."
 
     stats: {
-        downloads:  2669
+        downloads:  3258
         updated_at: 1780963787000
     }
 }

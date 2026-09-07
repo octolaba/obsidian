@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mentat
 alt:
   - https://github.com/secbone/obsidian-mentat
-downloads: 95
+downloads: 125
 updated at: "2026-07-07T08:53:40Z"
 related to:
   - "[[GitHub - 1139105650]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize notes, auto-classify and tag content with AI, and receive smart suggestions for linking related notes. Chat with your knowledge base via retrieval-augmented generation, visualize notes in an interactive 3D knowledge graph, and run spaced-repetition reviews while routing tasks across OpenAI-compatible, Anthropic, or local Ollama models."
 
     stats: {
-        downloads:  95
+        downloads:  125
         updated_at: 1783414420000
     }
 }

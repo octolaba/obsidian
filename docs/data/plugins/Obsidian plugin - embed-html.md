@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/embed-html
 alt:
   - https://github.com/mnaoumov/obsidian-embed-html
-downloads: 13395
-updated at: "2026-07-21T00:58:12Z"
+downloads: 14895
+updated at: "2026-08-08T18:01:31Z"
 related to:
   - "[[GitHub - 1056902706]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Embed HTML files from your vault (.htm, .html, .shtml, .xht, .xhtml) directly into notes. Set custom width and height, and target an element by ID to scroll to or extract its contents. Use wiki-style links like [[file.html|400x300]] or [[file.html#id&mode=extract]] to control the embed."
 
     stats: {
-        downloads:  13395
-        updated_at: 1784595492000
+        downloads:  14895
+        updated_at: 1786212091000
     }
 }
 ```

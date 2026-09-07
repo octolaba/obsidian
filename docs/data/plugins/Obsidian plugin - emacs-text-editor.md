@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/emacs-text-editor
 alt:
   - https://github.com/klojer/obsidian-emacs-text-editor
-downloads: 8571
+downloads: 8704
 updated at: "2026-07-16T17:08:22Z"
 related to:
   - "[[GitHub - 677715579]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add Emacs-style keybindings and commands to Obsidian's editor for familiar navigation and editing. Use common Emacs actions—cursor movement, word/line killing and yanking, undo/redo, and region marking—to edit Markdown with Emacs-like behavior."
 
     stats: {
-        downloads:  8571
+        downloads:  8704
         updated_at: 1784221702000
     }
 }

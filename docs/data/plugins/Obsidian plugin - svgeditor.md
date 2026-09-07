@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/svgeditor
 alt:
   - https://github.com/kpaede/svgeditor
-downloads: 199
+downloads: 232
 updated at: "2026-05-15T07:43:29Z"
 related to:
   - "[[GitHub - 1237798868]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Edit and create .svg files directly inside your vault with an integrated SVG-edit vector editor. Open SVGs via the file menu, ribbon, or inline pencil and use drawing tools, layers, rulers/grids, styling, source editing, export, and draft buffering before saving back to the vault."
 
     stats: {
-        downloads:  199
+        downloads:  232
         updated_at: 1778831009000
     }
 }

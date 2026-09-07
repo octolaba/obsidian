@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/synapses
 alt:
   - https://github.com/qoob23/synapses
-downloads: 222
-updated at: "2026-07-06T08:29:24Z"
+downloads: 336
+updated at: "2026-07-25T15:56:01Z"
 related to:
   - "[[GitHub - 1282207330]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Synapses lays out your note links as a focused graph: the active note sits in the center with its parents above, children below, jumps to the left, and siblings to the right. Click a card to activate that note, drag a handle to create a link, or hover a connector to remove one — a fast way to navigate, add, remove, and edit the connections between your notes."
 
     stats: {
-        downloads:  222
-        updated_at: 1783326564000
+        downloads:  336
+        updated_at: 1784994961000
     }
 }
 ```

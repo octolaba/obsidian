@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/viewer-ftags
 alt:
   - https://github.com/d7sd6u/obsidian-viewer-ftags
-downloads: 862
+downloads: 869
 updated at: "2025-05-28T21:22:32Z"
 related to:
   - "[[GitHub - 937966258]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display tag-style chips above each file view to show all ftags (clones/symlinks) with brightness indicating ancestor distance. Render immediate parents brightest and include a remove button that sends files to the inbox if no non-inbox ftags remain. Show child chips below (limit to five with an ellipsis for more), add tooltips and explorer-like right-click menus, and surface an add-tag button when crosslink-advanced is enabled."
 
     stats: {
-        downloads:  862
+        downloads:  869
         updated_at: 1748467352000
     }
 }

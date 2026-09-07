@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bookshelf
 alt:
   - https://github.com/weph/obsidian-bookshelf
-downloads: 14384
+downloads: 15432
 updated at: "2026-06-30T04:29:09Z"
 related to:
   - "[[GitHub - 909471352]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize your personal bookshelf and gather all book notes in one place. Track reading progress and record statuses and completion details. View reading insights and statistics to understand and review your reading habits."
 
     stats: {
-        downloads:  14384
+        downloads:  15432
         updated_at: 1782793749000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dynamic-text-concealer
 alt:
   - https://github.com/mattcoleanderson/obsidian-dynamic-text-concealer
-downloads: 1912
+downloads: 1927
 updated at: "2024-02-14T20:21:14Z"
 related to:
   - "[[GitHub - 710486328]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Conceal note text dynamically using user-defined regular expressions. Hide verbose metadata like Anki cloze curly braces by replacing capture groups in Source, Edit, and Read modes to keep notes clean."
 
     stats: {
-        downloads:  1912
+        downloads:  1927
         updated_at: 1707942074000
     }
 }

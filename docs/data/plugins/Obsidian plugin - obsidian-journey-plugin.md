@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-journey-plugin
 alt:
   - https://github.com/akaalias/obsidian-journey-plugin
-downloads: 22012
+downloads: 22255
 updated at: "2021-02-17T13:18:01Z"
 related to:
   - "[[GitHub - 333704870]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a publishable outline by tracing the narrative between your notes to shape articles, blog posts, or books. Find narrative paths using forward links, back links, and tags to generate a structured sequence of notes and flexible routes through your vault."
 
     stats: {
-        downloads:  22012
+        downloads:  22255
         updated_at: 1613567881000
     }
 }

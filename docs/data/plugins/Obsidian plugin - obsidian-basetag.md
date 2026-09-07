@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-basetag
 alt:
   - https://github.com/darrenkuro/obsidian-basetag
-downloads: 7204
+downloads: 7226
 updated at: "2023-10-04T18:10:35Z"
 related to:
   - "[[GitHub - 577258203]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render only the basename of nested tags while preserving the full nested structure elsewhere. Add a basename-tag CSS class to tag elements so you can style basenames differently; works in editor mode, frontmatter, and properties."
 
     stats: {
-        downloads:  7204
+        downloads:  7226
         updated_at: 1696443035000
     }
 }

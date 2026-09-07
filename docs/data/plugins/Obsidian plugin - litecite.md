@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/litecite
 alt:
   - https://github.com/ras0q/obsidian-litecite
-downloads: 872
+downloads: 1146
 updated at: "2026-01-23T09:29:12Z"
 related to:
   - "[[GitHub - 997897266]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create citation notes from a BibTeX/BibLaTeX file using a lightweight custom parser and Eta templates. Generate clean Markdown citation notes quickly with a minimal, fast workflow."
 
     stats: {
-        downloads:  872
+        downloads:  1146
         updated_at: 1769160552000
     }
 }

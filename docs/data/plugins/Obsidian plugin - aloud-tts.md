@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/aloud-tts
 alt:
   - https://github.com/adrianlyjak/obsidian-aloud-tts
-downloads: 17810
+downloads: 18169
 updated at: "2026-05-04T15:03:04Z"
 related to:
   - "[[GitHub - 723135687]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight and play text from notes using lifelike voices from OpenAI, Google Gemini, ElevenLabs, Azure, AWS Polly, Hume, MiniMax or a custom OpenAI-compatible endpoint. Stream audio sentence-by-sentence with active-sentence highlighting, adjustable speed, local caching to reduce cost, quick export/embed, clipboard playback and OS media control support."
 
     stats: {
-        downloads:  17810
+        downloads:  18169
         updated_at: 1777906984000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pdf-versioning
 alt:
   - https://github.com/delino-wkb/PDFversioning
-downloads: 107
+downloads: 145
 updated at: "2026-07-22T10:38:59Z"
 related to:
   - "[[GitHub - 1279401661]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit embedded PDFs in your default external editor while preserving multiple chronological versions inside Obsidian. Detect and instantly swap between saved PDF variants with a version picker, live-embed the chosen file, and bulk-scan the vault to find and remove outdated duplicates."
 
     stats: {
-        downloads:  107
+        downloads:  145
         updated_at: 1784716739000
     }
 }

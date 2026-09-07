@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notes-dater
 alt:
   - https://github.com/paultreanor/notes-dater
-downloads: 6670
+downloads: 6722
 updated at: "2023-07-28T15:08:20Z"
 related to:
   - "[[GitHub - 629551632]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display file creation and last-updated dates in the status bar. Support notes, images, and PDFs."
 
     stats: {
-        downloads:  6670
+        downloads:  6722
         updated_at: 1690556900000
     }
 }

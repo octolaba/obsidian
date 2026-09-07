@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/person-network
 alt:
   - https://github.com/oxilldat/obsidian-person-network
-downloads: 10
+downloads: 103
 updated at: "2026-07-22T22:45:19Z"
 related to:
   - "[[GitHub - 1307581012]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize people in your vault as an interactive, canvas-rendered relationship map with photos, silhouettes and ghost nodes for missing notes. Read people from note frontmatter, position them by role and connect them by listed contacts; explore with search, filters, drag/zoom, export PNG, and open as a Bases view."
 
     stats: {
-        downloads:  10
+        downloads:  103
         updated_at: 1784760319000
     }
 }

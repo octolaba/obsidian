@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/unfinished-todo-highlighter
 alt:
   - https://github.com/7jo-yamato/unfinished-todo-highlighter
-downloads: 27
+downloads: 43
 updated at: "2026-07-17T06:37:51Z"
 related to:
   - "[[GitHub - 1299267694]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight files in the File Explorer that contain unfinished Markdown tasks (- [ ]) and remove highlights when every task is completed. Customize color, background or filename highlighting, glow, bold text and dot indicators; scan a folder or the whole vault, auto-update on edits and file changes, create a vault-wide summary with links that let you check tasks in their source, and show a note count in the status bar."
 
     stats: {
-        downloads:  27
+        downloads:  43
         updated_at: 1784270271000
     }
 }

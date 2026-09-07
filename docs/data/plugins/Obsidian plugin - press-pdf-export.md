@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/press-pdf-export
 alt:
   - https://github.com/taylorchen/obsidian-press
-downloads: 671
+downloads: 825
 updated at: "2026-04-29T01:30:17Z"
 related to:
   - "[[GitHub - 1224064886]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export notes to high-fidelity PDF, Word (DOCX), or HTML via Pandoc and local PDF engines. Batch-export folders or vaults, pre-render Mermaid diagrams, apply custom CSS or Pandoc templates, and preserve images, math, tables, wikilinks, embeds, and code highlighting; desktop-only."
 
     stats: {
-        downloads:  671
+        downloads:  825
         updated_at: 1777426217000
     }
 }

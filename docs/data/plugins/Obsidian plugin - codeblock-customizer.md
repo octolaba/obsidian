@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/codeblock-customizer
 alt:
   - https://github.com/mugiwara85/CodeblockCustomizer
-downloads: 61079
+downloads: 63259
 updated at: "2026-04-18T14:09:31Z"
 related to:
   - "[[GitHub - 593364097]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Customize code blocks with built-in or custom themes, per-language syntax colors, backgrounds, headers with filenames and icons, and optional line numbers. Highlight specific lines or text with multiple colors, enable active-line highlighting, fold blocks via headers, group blocks into tabs, render terminal prompts or inline syntax, convert comments to annotations, and export code as images with PrismJS editor-mode support."
 
     stats: {
-        downloads:  61079
+        downloads:  63259
         updated_at: 1776521371000
     }
 }

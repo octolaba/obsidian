@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/mtg-decklist
 alt:
   - https://github.com/ekrizdis367/obsidian-mtg-decklist
-downloads: 210
-updated at: "2026-07-10T16:10:13Z"
+downloads: 278
+updated at: "2026-08-05T18:17:33Z"
 related to:
   - "[[GitHub - 1218519117]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render fenced decklist code blocks into Moxfield-style Magic: The Gathering deck panels with Scryfall card data and hover/tap image previews. Display inline mana symbols and hoverable card links, auto-group and sort sections, show mana curve, color-pie and type breakdown, and flag color-identity or legality issues."
 
     stats: {
-        downloads:  210
-        updated_at: 1783699813000
+        downloads:  278
+        updated_at: 1785953853000
     }
 }
 ```

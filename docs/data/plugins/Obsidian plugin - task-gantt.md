@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/task-gantt
 alt:
   - https://github.com/katoiek/task-gantt
-downloads: 930
-updated at: "2026-07-20T13:52:47Z"
+downloads: 1321
+updated at: "2026-08-03T12:35:46Z"
 related to:
   - "[[GitHub - 1258420475]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Open a folder as an interactive table-and-timeline Gantt where each Markdown file becomes a task and direct subfolders become groups. Drag or resize bars and click a task to edit start/end dates, status, assignee, and body; changes write to each note’s frontmatter and show bars, milestones, and dependency arrows."
 
     stats: {
-        downloads:  930
-        updated_at: 1784555567000
+        downloads:  1321
+        updated_at: 1785760546000
     }
 }
 ```

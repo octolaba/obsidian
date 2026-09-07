@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/paperize
 alt:
   - https://github.com/johannes-kaindl/obsidian-paperize
-downloads: 183
-updated at: "2026-07-16T14:18:10Z"
+downloads: 403
+updated at: "2026-08-04T20:19:48Z"
 related to:
   - "[[GitHub - 1297784018]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Export the active note as a clean, text-selectable vector PDF using a native on-device PDF writer—no browser print dialog, screenshots, or network calls. Preserve standard Markdown (headings, lists, code blocks, links, images), simplify Obsidian-specific elements to plain text with a summary count, and save or share to the vault, attachment folder, a custom folder, or external apps."
 
     stats: {
-        downloads:  183
-        updated_at: 1784211490000
+        downloads:  403
+        updated_at: 1785874788000
     }
 }
 ```

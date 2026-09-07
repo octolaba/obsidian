@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/insightmesh-viewer
 alt:
   - https://github.com/aucontraire/insightmesh-obsidian
-downloads: 61
+downloads: 69
 updated at: "2026-06-29T20:04:40Z"
 related to:
   - "[[GitHub - 1283383414]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize InsightMesh provenance for the active page, showing which conversations and checkpoints produced it, the decisions and rationale behind each edit, and how the page evolved over time. View time-ordered checkpoints, readable decision details with provider and model labels, GitHub-style snapshot diffs, drift flags, and structured run-log and cursor views — read-only and local."
 
     stats: {
-        downloads:  61
+        downloads:  69
         updated_at: 1782763480000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-folder-note-paste
 alt:
   - https://github.com/d7sd6u/obsidian-auto-folder-note-paste
-downloads: 1305
+downloads: 1357
 updated at: "2025-03-12T15:08:18Z"
 related to:
   - "[[GitHub - 937937704]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert a note into a folder note so pasted or dragged attachments are saved inside that note. Set the default attachment location to \"Same folder as current file\" for correct behavior."
 
     stats: {
-        downloads:  1305
+        downloads:  1357
         updated_at: 1741792098000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/tag-to-page
 alt:
   - https://github.com/agarcabin/obsdian-tag-to-page
-downloads: 24
-updated at: "2026-07-20T10:06:56Z"
+downloads: 56
+updated at: "2026-08-11T08:29:45Z"
 related to:
   - "[[GitHub - 1293803089]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Open tag notes by clicking tags in Reading view or Live Preview, creating a matching Markdown note if missing and resolving frontmatter aliases. Support nested tags as folders, allow opening in a new pane with a modifier key, and offer optional page completion when typing #."
 
     stats: {
-        downloads:  24
-        updated_at: 1784542016000
+        downloads:  56
+        updated_at: 1786436985000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/move-active-folder
 alt:
   - https://github.com/jinmugo/obsidian-move-active-folder
-downloads: 361
+downloads: 371
 updated at: "2026-06-14T07:33:56Z"
 related to:
   - "[[GitHub - 1138632734]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move the folder containing the active file. Choose any parent folder as the scope and pick a destination, with built-in checks that block moving a folder into itself or its subfolders and detect duplicate folder names."
 
     stats: {
-        downloads:  361
+        downloads:  371
         updated_at: 1781422436000
     }
 }

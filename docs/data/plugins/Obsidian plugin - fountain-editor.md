@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/fountain-editor
 alt:
   - https://github.com/chuangcaleb/obsidian-fountain-editor
-downloads: 17214
+downloads: 17616
 updated at: "2026-05-29T10:40:07Z"
 related to:
   - "[[GitHub - 698540730]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Fountain screenplay syntax directly in the Obsidian editor with automatic highlighting and screenplay-style styling. Mix Fountain elements (scene headings, action, dialogue, synopsis) with regular Markdown to write screenplays seamlessly inside your notes."
 
     stats: {
-        downloads:  17214
+        downloads:  17616
         updated_at: 1780051207000
     }
 }

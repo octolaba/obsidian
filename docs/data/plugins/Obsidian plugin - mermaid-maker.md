@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mermaid-maker
 alt:
   - https://github.com/akitaroh/obsidian-mermaid-maker
-downloads: 794
+downloads: 985
 updated at: "2026-05-14T09:05:08Z"
 related to:
   - "[[GitHub - 1238416567]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit Mermaid diagrams inline on a visual canvas inside notes. Drag nodes, add/remove/connect them and edit labels rendered as Obsidian Markdown — [[wikilinks]], #tags, $math$, bold/italic work inside nodes. Save node positions into the Mermaid source and sync edits both ways between text and canvas."
 
     stats: {
-        downloads:  794
+        downloads:  985
         updated_at: 1778749508000
     }
 }

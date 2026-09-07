@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/google-drive-vault-sync
 alt:
   - https://github.com/haniewicz/ObsidianGoogleDriveSync
-downloads: 315
+downloads: 541
 updated at: "2026-07-04T07:10:42Z"
 related to:
   - "[[GitHub - 1284711760]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault two-way with Google Drive via the OAuth 2.0 Device Authorization Flow. Detect local changes with debounce, watch the cloud for remote updates, run manual syncs, handle conflicts with policy options, view per-device status, and perform safe reset/restore with manifest snapshots."
 
     stats: {
-        downloads:  315
+        downloads:  541
         updated_at: 1783149042000
     }
 }

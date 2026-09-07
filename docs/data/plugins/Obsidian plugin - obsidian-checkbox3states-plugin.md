@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-checkbox3states-plugin
 alt:
   - https://github.com/hrenaud/obsidian-checkbox3states-plugin
-downloads: 7858
+downloads: 7912
 updated at: "2022-10-17T07:51:17Z"
 related to:
   - "[[GitHub - 551459006]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a third state to task checkboxes to mark partial or in‑progress items. Toggle the third state with Shift+Click on desktop or long press on touch devices. Display the third state with a distinct checkbox color."
 
     stats: {
-        downloads:  7858
+        downloads:  7912
         updated_at: 1665993077000
     }
 }

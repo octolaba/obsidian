@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/notemd
 alt:
   - https://github.com/jacobinwwey/obsidian-NotEMD
-downloads: 5096
-updated at: "2026-07-21T14:07:17Z"
+downloads: 5350
+updated at: "2026-08-09T14:27:35Z"
 related to:
   - "[[GitHub - 968149441]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Process multilingual notes with integrated LLMs to extract key concepts, insert [[wiki-links]], and create linked concept notes automatically. Run one-click workflows to perform web research, batch-generate content, and build structured knowledge graphs inside Obsidian."
 
     stats: {
-        downloads:  5096
-        updated_at: 1784642837000
+        downloads:  5350
+        updated_at: 1786285655000
     }
 }
 ```

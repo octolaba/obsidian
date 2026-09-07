@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/mood-journal
 alt:
   - https://github.com/nyonyataro/obsidian-mood-journal
-downloads: 25
-updated at: "2026-07-21T02:14:31Z"
+downloads: 42
+updated at: "2026-08-11T16:19:24Z"
 related to:
   - "[[GitHub - 1305950666]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Record a five-level mood, optional activities, and a Markdown note in your daily note. Save entries locally with timestamps and nested journal tags (#journal or #日記) and up to two activity levels. Keep plain Markdown (no frontmatter edits) and run on desktop and mobile with English/Japanese sections."
 
     stats: {
-        downloads:  25
-        updated_at: 1784600071000
+        downloads:  42
+        updated_at: 1786465164000
     }
 }
 ```

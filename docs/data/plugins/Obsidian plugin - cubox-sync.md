@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cubox-sync
 alt:
   - https://github.com/olcubo/obsidian-cubox
-downloads: 10028
+downloads: 10385
 updated at: "2026-04-15T01:02:04Z"
 related to:
   - "[[GitHub - 939121438]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync articles and highlighted annotations from Cubox into Obsidian as Markdown notes. Filter by folder, type, tags and status, run manual or periodic syncs, and customize filenames, front matter and note content with templates."
 
     stats: {
-        downloads:  10028
+        downloads:  10385
         updated_at: 1776214924000
     }
 }

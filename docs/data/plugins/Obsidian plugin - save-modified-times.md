@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/save-modified-times
 alt:
   - https://github.com/emklasson/obsidian-save-modified-times
-downloads: 31
+downloads: 48
 updated at: "2026-07-19T12:52:18Z"
 related to:
   - "[[GitHub - 1098138316]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save and restore notes' last modified times/dates (mtime) to preserve original file dates when editing frontmatter or content. Store times in plugin settings or a savedModifiedTime frontmatter property, restore single or multiple files via a selection popup, exclude path prefixes, and schedule automatic updates."
 
     stats: {
-        downloads:  31
+        downloads:  48
         updated_at: 1784465538000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/log-viewer
 alt:
   - https://github.com/viggomeesters/obsidian-log-viewer
-downloads: 145
+downloads: 185
 updated at: "2026-06-07T19:45:27Z"
 related to:
   - "[[GitHub - 1262269214]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse .log files in a dedicated read-only Obsidian view that shows a structured log table with a raw source fallback to preserve unstructured lines and stack traces. Detect common timestamps and severity labels, filter by text, severity and timestamp presence, and view line, timestamp and severity counts with a 10,000-line render cap for responsiveness."
 
     stats: {
-        downloads:  145
+        downloads:  185
         updated_at: 1780861527000
     }
 }

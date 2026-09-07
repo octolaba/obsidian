@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/iconic
 alt:
   - https://github.com/gfxholo/iconic
-downloads: 198317
-updated at: "2026-04-26T14:26:08Z"
+downloads: 215311
+updated at: "2026-07-23T21:57:27Z"
 related to:
   - "[[GitHub - 814181904]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Replace almost any Obsidian icon with 1,700+ Lucide icons or 1,900+ device emojis across tabs, files, folders, ribbons, sidebars, and the title bar. Automate icon assignment with rule-based conditions (name, extension, parent folder, tags, properties, dates, time of day), search icons by name, and pick theme-aware or custom RGB colors."
 
     stats: {
-        downloads:  198317
-        updated_at: 1777213568000
+        downloads:  215311
+        updated_at: 1784843847000
     }
 }
 ```

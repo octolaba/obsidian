@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chat-with-bard
 alt:
   - https://github.com/artel250/Obsidian-Gemini-Assistant
-downloads: 12563
+downloads: 12777
 updated at: "2024-08-28T10:02:23Z"
 related to:
   - "[[GitHub - 696340801]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with Google's Gemini AI directly in Obsidian using your API key. Store chats as local .gemini files in a configurable folder, open them like notes, move chats into the sidebar, and copy responses as Markdown to paste into other notes."
 
     stats: {
-        downloads:  12563
+        downloads:  12777
         updated_at: 1724839343000
     }
 }

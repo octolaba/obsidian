@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/my-typewriter-line
 alt:
   - https://github.com/dmo-code/MyTypewriterLine
-downloads: 772
+downloads: 800
 updated at: "2025-11-16T12:14:23Z"
 related to:
   - "[[GitHub - 1035528530]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set custom top and bottom editor scroll padding with a single slider to keep the active line centered or at your preferred vertical position while typing. Auto-calculate bottom padding so both values always add up to 100vh for a consistent typewriter effect."
 
     stats: {
-        downloads:  772
+        downloads:  800
         updated_at: 1763295263000
     }
 }

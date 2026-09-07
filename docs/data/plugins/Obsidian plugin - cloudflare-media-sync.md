@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cloudflare-media-sync
 alt:
   - https://github.com/fab34/cloudflare-media-sync
-downloads: 130
+downloads: 146
 updated at: "2026-06-18T14:58:37Z"
 related to:
   - "[[GitHub - 1264834537]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Automatically detect local image links in Markdown notes, upload the referenced files to Cloudflare R2, and replace them with public URLs. Designed for workflows where tools like PDF converters, importers, or AI assistants generate local media files inside your vault. Supports Markdown image links and wiki embeds, configurable scan scope, optional cleanup of local files after upload, and importing R2 settings from EzImage."
 
     stats: {
-        downloads:  130
+        downloads:  146
         updated_at: 1781794717000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-underline
 alt:
   - https://github.com/benature/obsidian-underline
-downloads: 64799
+downloads: 65635
 updated at: "2024-03-18T06:54:26Z"
 related to:
   - "[[GitHub - 363702053]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add underline formatting by wrapping text in <u>...</u>, insert an empty underline when no selection, and toggle/remove underline on selected underlined text. Apply other wrapper pairs like <center>...</center>, heading anchors ([[#heading]]) and block refs ([[#^block]]), and support custom wrappers."
 
     stats: {
-        downloads:  64799
+        downloads:  65635
         updated_at: 1710744866000
     }
 }

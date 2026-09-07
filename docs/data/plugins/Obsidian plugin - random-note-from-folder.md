@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/random-note-from-folder
 alt:
   - https://github.com/nobodyrightnow/obsidian-random-note-plugin
-downloads: 25
+downloads: 38
 updated at: "2026-07-10T23:15:45Z"
 related to:
   - "[[GitHub - 1296834898]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Pick a random Markdown note from a specified folder (recursively searching subfolders) and open it in a new tab. Open the ribbon dice icon to enter a vault-relative path and receive progress and error updates."
 
     stats: {
-        downloads:  25
+        downloads:  38
         updated_at: 1783725345000
     }
 }

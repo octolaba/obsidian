@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/move-done-down
 alt:
   - https://github.com/mihanentalpo/obsidian-move-done-down
-downloads: 35
+downloads: 62
 updated at: "2026-07-06T06:11:52Z"
 related to:
   - "[[GitHub - 1289893333]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move completed top-level tasks to the bottom of the current note for easier scanning. Keep nested tasks with their parent and only move a parent when all child tasks are done; insert moved blocks before an existing completed-task tail, preserve file formatting and non-task text, and support custom completion markers."
 
     stats: {
-        downloads:  35
+        downloads:  62
         updated_at: 1783318312000
     }
 }

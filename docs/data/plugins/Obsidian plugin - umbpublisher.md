@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/umbpublisher
 alt:
   - https://github.com/owainwilliams/umbPublisher
-downloads: 296
+downloads: 304
 updated at: "2026-06-15T08:21:08Z"
 related to:
   - "[[GitHub - 970723934]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Push Obsidian notes to Umbraco 15+ as Markdown content items using the Umbraco Management API. Map a parent node and document type, then write Markdown directly to document properties or wrap content in Block List elements for storage."
 
     stats: {
-        downloads:  296
+        downloads:  304
         updated_at: 1781511668000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/card-columns
 alt:
   - https://github.com/mamadaevv/card-columns
-downloads: 210
-updated at: "2026-06-25T19:23:09Z"
+downloads: 296
+updated at: "2026-08-08T19:14:12Z"
 related to:
   - "[[GitHub - 1275994729]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "View notes as kanban-style cards and group them into columns by tags or any frontmatter property. Filter across columns with clickable tag pills using AND/OR modes, and display styled property chips (text, tags, links, booleans, dates) with grid or stacked layouts and date formatting."
 
     stats: {
-        downloads:  210
-        updated_at: 1782415389000
+        downloads:  296
+        updated_at: 1786216452000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-headings
 alt:
   - https://github.com/zachbugay/obsidian-plugin-better-headers
-downloads: 219
+downloads: 246
 updated at: "2026-06-30T13:06:45Z"
 related to:
   - "[[GitHub - 1240640443]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Prefix headings automatically with decimal-style numbered prefixes to create clear, ordered sections. Simplify numbering in your notes for easier navigation and consistent document structure."
 
     stats: {
-        downloads:  219
+        downloads:  246
         updated_at: 1782824805000
     }
 }

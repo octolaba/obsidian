@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/random-writing-prompt
 alt:
   - https://github.com/tallvincent/obsidian-random-writing-prompt
-downloads: 57
+downloads: 91
 updated at: "2026-07-11T07:52:54Z"
 related to:
   - "[[GitHub - 1293112900]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Pick a random unstarted prompt and create a note for it, or open a random started prompt to jump back into your work. Browse all prompts in a fuzzy-search modal, add new prompts from the command palette with duplicate checks, and optionally use a template for new prompt notes."
 
     stats: {
-        downloads:  57
+        downloads:  91
         updated_at: 1783756374000
     }
 }

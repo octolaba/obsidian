@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/password-protect
 alt:
   - https://github.com/aspharmyx/obsidian-password-protect
-downloads: 3693
+downloads: 3774
 updated at: "2024-10-30T23:16:21Z"
 related to:
   - "[[GitHub - 742892839]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Lock notes and folders with passwords and hide them by changing file extensions so content stays out of Obsidian search and graph view until unlocked each session. Treat hidden files as obfuscation, not encryption; files remain readable in external editors and protect against casual viewers, not strong attacks."
 
     stats: {
-        downloads:  3693
+        downloads:  3774
         updated_at: 1730330181000
     }
 }

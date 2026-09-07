@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/goodreadsync
 alt:
   - https://github.com/sergiodlash/goodreadsync
-downloads: 201
+downloads: 282
 updated at: "2026-06-22T20:32:40Z"
 related to:
   - "[[GitHub - 900761811]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create Markdown notes for books in a specified Goodreads shelf using the Goodreads RSS feed and a template. Prevent duplicates by matching the Goodreads bookID and import new books on demand via the command palette or left-ribbon icon."
 
     stats: {
-        downloads:  201
+        downloads:  282
         updated_at: 1782160360000
     }
 }

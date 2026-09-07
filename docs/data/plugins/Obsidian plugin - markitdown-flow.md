@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markitdown-flow
 alt:
   - https://github.com/greatgc-flow/MarkItDown-Flow
-downloads: 112
+downloads: 330
 updated at: "2026-07-06T11:39:15Z"
 related to:
   - "[[GitHub - 1248845213]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Powered by the Microsoft MarkItDown engine, this plugin extracts and converts virtually any file format into clean, highly structured Markdown with a single click. Key Features - Universal Formats: Convert PDFs, Office (Word, Excel, PowerPoint), Images, Audio, ZIPs, and HTML directly into your vault. - Smart Multi-Phase Engine: Attempts ultra-fast Offline Parsing first. For complex/scanned files, it seamlessly falls back to Vision AI (GPT-4o/Gemini) and Azure Document Intelligence. - Native Integration: Drag and drop files into your editor, or right-click files/folders to trigger conversions. - Batch Processing: Bulk-convert entire folders of research papers or receipts smoothly in the background. - Auto Post-Processing: Cleans OCR artifacts and repairs markdown tables for immediate PKM readiness. MarkItDown Flow is your vault's intelligent funnel for capturing the world's knowledge."
 
     stats: {
-        downloads:  112
+        downloads:  330
         updated_at: 1783337955000
     }
 }

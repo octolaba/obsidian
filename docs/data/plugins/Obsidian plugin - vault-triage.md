@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/vault-triage
 alt:
   - https://github.com/israerusan/vault-triage
-downloads: 42
-updated at: "2026-07-08T02:08:06Z"
+downloads: 62
+updated at: "2026-07-25T17:34:36Z"
 related to:
   - "[[GitHub - 1290509745]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Scan your vault for stale, thin, orphan, and missing-metadata notes, plus draft markers, and present a focused review queue to fix items one note at a time. Add saved audits, custom rules, bulk workflows, severity tuning, and Markdown reports to scale and automate maintenance (Pro)."
 
     stats: {
-        downloads:  42
-        updated_at: 1783476486000
+        downloads:  62
+        updated_at: 1785000876000
     }
 }
 ```

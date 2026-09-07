@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/litegallery
 alt:
   - https://github.com/jpoles1/obsidian-litegal
-downloads: 5362
+downloads: 5440
 updated at: "2024-10-07T01:28:37Z"
 related to:
   - "[[GitHub - 819840257]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create carousel image galleries inside notes by listing image files or [[wiki links]] in a litegal code block. Search configured image folders for matches so full paths aren’t required and keep multiple images neatly organized for easier viewing."
 
     stats: {
-        downloads:  5362
+        downloads:  5440
         updated_at: 1728264517000
     }
 }

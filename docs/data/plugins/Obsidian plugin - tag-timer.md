@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tag-timer
 alt:
   - https://github.com/quantavil/Tag-Timer
-downloads: 563
+downloads: 581
 updated at: "2026-04-30T10:49:25Z"
 related to:
   - "[[GitHub - 1032599679]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add inline stopwatches and goal-oriented countdowns directly in notes. Interact with clickable badges to start, pause, reset, or delete timers; enforce one timer per line and show completion notifications. Pause all running timers across the vault and auto-restore timers after crashes or reloads."
 
     stats: {
-        downloads:  563
+        downloads:  581
         updated_at: 1777546165000
     }
 }

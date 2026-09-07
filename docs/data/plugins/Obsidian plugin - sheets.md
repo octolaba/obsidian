@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sheets
 alt:
   - https://github.com/niconekoru/obsidan-advanced-table-xt
-downloads: 56570
+downloads: 58477
 updated at: "2026-06-16T19:44:21Z"
 related to:
   - "[[GitHub - 676317044]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extend Markdown tables with cell merging, vertical headers and custom CSS-driven styles. Merge cells using '<' (left) and '^' (up), create vertical headers with a column of dashes, and assign classes via sheet metadata for per-cell, row or header styling; compatible with Advanced Tables."
 
     stats: {
-        downloads:  56570
+        downloads:  58477
         updated_at: 1781639061000
     }
 }

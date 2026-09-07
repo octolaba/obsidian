@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chem
 alt:
   - https://github.com/acylation/obsidian-chem
-downloads: 19889
+downloads: 20172
 updated at: "2025-08-14T22:04:57Z"
 related to:
   - "[[GitHub - 632483618]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render chemical structures from SMILES strings inside code blocks or inline-prefixed lines using SmilesDrawer and RDKit.js. Adjust scale and theme, copy or export structure images as PNGs, and enable Dataview/DataviewJS output to render query results as molecules."
 
     stats: {
-        downloads:  19889
+        downloads:  20172
         updated_at: 1755209097000
     }
 }

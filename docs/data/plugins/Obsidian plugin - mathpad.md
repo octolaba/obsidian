@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mathpad
 alt:
   - https://github.com/canna71/obsidian-mathpad
-downloads: 15854
+downloads: 15929
 updated at: "2023-01-14T15:41:28Z"
 related to:
   - "[[GitHub - 527607713]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Perform symbolic and numeric calculations and render 2D plots with a built-in CAS sidebar powered by Nerdamer. Insert computations and plots inline or as code blocks, and export results as dynamic code or static LaTeX into notes."
 
     stats: {
-        downloads:  15854
+        downloads:  15929
         updated_at: 1673710888000
     }
 }

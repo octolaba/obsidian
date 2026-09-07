@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/learnie
 alt:
   - https://github.com/tankh99/learnie-plugin
-downloads: 3366
+downloads: 3389
 updated at: "2026-03-26T00:34:52Z"
 related to:
   - "[[GitHub - 827062380]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn any file into a tracked learning note with a unique ID and linked revision and question files. Track edits with a diff view and create flashcard-style questions from selected text. Run daily spaced-repetition reviews with reminders that open your review set and mark revisions as reviewed."
 
     stats: {
-        downloads:  3366
+        downloads:  3389
         updated_at: 1774485292000
     }
 }

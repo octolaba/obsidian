@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-as-md
 alt:
   - https://github.com/kursad-k/obsidian-openasmd
-downloads: 5474
+downloads: 5588
 updated at: "2023-12-09T18:57:57Z"
 related to:
   - "[[GitHub - 729400728]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Edit non‑Markdown files as Markdown directly inside Obsidian. Specify file extensions to treat as .md in the plugin settings and re-enable the plugin to apply changes. Requires Obsidian 0.10.12 or later."
 
     stats: {
-        downloads:  5474
+        downloads:  5588
         updated_at: 1702148277000
     }
 }

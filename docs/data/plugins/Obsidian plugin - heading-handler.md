@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/heading-handler
 alt:
   - https://github.com/goopii/heading-handler
-downloads: 40
+downloads: 85
 updated at: "2026-07-13T18:51:30Z"
 related to:
   - "[[GitHub - 1057844200]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage headings intelligently based on indentation and parent heading levels, preserving proper hierarchy within plain text and unordered lists. Apply smart promote/demote to single or multi-line selections—clamp or remove headings when changes would violate structure—and remove headings while keeping their text."
 
     stats: {
-        downloads:  40
+        downloads:  85
         updated_at: 1783968690000
     }
 }

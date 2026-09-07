@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/real-pin
 alt:
   - https://github.com/gregbrown1229/obsidian-real-pin
-downloads: 207
+downloads: 253
 updated at: "2026-07-06T00:18:55Z"
 related to:
   - "[[GitHub - 1278367255]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Intercept the Close current tab command to protect pinned tabs by prompting for confirmation or blocking the close when the active tab is pinned. Apply to keyboard shortcuts and the command palette while leaving mouse-based closes unchanged."
 
     stats: {
-        downloads:  207
+        downloads:  253
         updated_at: 1783297135000
     }
 }

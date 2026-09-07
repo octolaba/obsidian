@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-batcher
 alt:
   - https://github.com/mranyx/obsidian-note-batcher
-downloads: 2769
+downloads: 2792
 updated at: "2023-11-20T21:23:20Z"
 related to:
   - "[[GitHub - 720560723]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create all unresolved links in your vault with a single click. Use Dataview to scan pages and outgoing links and batch-generate the missing target notes to quickly resolve and organize your links."
 
     stats: {
-        downloads:  2769
+        downloads:  2792
         updated_at: 1700515400000
     }
 }

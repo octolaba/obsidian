@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/external-attachments
 alt:
   - https://github.com/dyllonwright/Obsidian-External-Attachments
-downloads: 48
-updated at: "2026-07-11T22:30:48Z"
+downloads: 102
+updated at: "2026-07-25T02:41:58Z"
 related to:
   - "[[GitHub - 1297799718]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Resolve broken attachments by searching for and rendering files stored outside your vault so wikilinks keep working even when large files live on external drives, NAS shares, or other accounts. Render images, audio, video and PDFs only when Obsidian can't find the file locally, and stay passive when embeds already resolve."
 
     stats: {
-        downloads:  48
-        updated_at: 1783809048000
+        downloads:  102
+        updated_at: 1784947318000
     }
 }
 ```

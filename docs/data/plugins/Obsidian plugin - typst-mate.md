@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/typst-mate
 alt:
   - https://github.com/azyarashi/obsidian-typst-mate
-downloads: 15568
+downloads: 16248
 updated at: "2026-03-02T16:36:49Z"
 related to:
   - "[[GitHub - 1043692993]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render math expressions in Obsidian using Typst instead of MathJax with inline, display and codeblock previews, background rendering, and mobile support. Use preambles/templates, snippets, a linter, bracket jump and symbol completion; import fonts and Typst packages (desktop), and export or copy results as SVG/PNG/HTML for PDF and image export compatibility."
 
     stats: {
-        downloads:  15568
+        downloads:  16248
         updated_at: 1772469409000
     }
 }

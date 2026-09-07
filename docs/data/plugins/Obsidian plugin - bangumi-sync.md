@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/bangumi-sync
 alt:
   - https://github.com/threeyang3/bangumi-sync
-downloads: 212
-updated at: "2026-06-06T13:13:05Z"
+downloads: 271
+updated at: "2026-08-08T08:59:50Z"
 related to:
   - "[[GitHub - 1214106056]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync Bangumi favorites into Obsidian notes, importing ratings, short reviews, tags, progress (episodes/volumes/chapters) and multi-type items (anime, manga, novels, games, music). Configure templates to generate Dataview-ready info tables, enable two-way sync for comments/tags, conflict detection, batch and automatic syncing."
 
     stats: {
-        downloads:  212
-        updated_at: 1780751585000
+        downloads:  271
+        updated_at: 1786179590000
     }
 }
 ```

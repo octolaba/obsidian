@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lighthouse
 alt:
   - https://github.com/benjamincassidy/lighthouse
-downloads: 85
+downloads: 188
 updated at: "2026-07-08T03:02:23Z"
 related to:
   - "[[GitHub - 1134685900]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage multi-file writing projects with project-scoped dashboards, a filtered file explorer, fuzzy project switching, and a one-command Lighthouse workspace. Track real-time hierarchical word counts and goals, monitor pacing with deadlines and adaptive daily targets, view heatmaps, streaks, and progress rings."
 
     stats: {
-        downloads:  85
+        downloads:  188
         updated_at: 1783479743000
     }
 }

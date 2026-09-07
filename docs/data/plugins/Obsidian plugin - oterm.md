@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/oterm
 alt:
   - https://github.com/mgriffen/oterm
-downloads: 519
+downloads: 591
 updated at: "2026-04-18T19:49:14Z"
 related to:
   - "[[GitHub - 1205540379]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Run a full terminal inside Obsidian powered by xterm.js and node-pty with WebGL rendering, truecolor and Unicode support. Create and manage multiple tabs, search terminal output, click links, dock terminals in the sidebar, and use cross-platform shells like PowerShell, WSL, zsh and tmux; includes a Catppuccin Mocha dark theme."
 
     stats: {
-        downloads:  519
+        downloads:  591
         updated_at: 1776541754000
     }
 }

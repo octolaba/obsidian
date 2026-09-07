@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/fountain
 alt:
   - https://github.com/bgrundmann/obsidian-fountain
-downloads: 8373
+downloads: 8993
 updated at: "2026-05-14T05:18:02Z"
 related to:
   - "[[GitHub - 919898633]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format Fountain scripts in real time with automatic screenplay styling, bold scene numbers in the margins, foldable scenes and boneyard support. Export configurable PDFs, reorder index cards, filter content, blackout dialogue for rehearsals, add margin marks and todos, use snippets and embedded Fountain blocks."
 
     stats: {
-        downloads:  8373
+        downloads:  8993
         updated_at: 1778735882000
     }
 }

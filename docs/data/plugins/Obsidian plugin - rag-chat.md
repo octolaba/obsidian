@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rag-chat
 alt:
   - https://github.com/a2fsa2k/obsidian-ask-my-vault-plugin
-downloads: 110
+downloads: 145
 updated at: "2026-05-16T20:52:21Z"
 related to:
   - "[[GitHub - 1109389991]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with your Obsidian vault using any AI provider and get answers grounded in your notes, with clickable source citations that open the referenced files. Index your vault locally with a built-in BM25 engine (no embeddings or external indexing) and send top matching chunks as context to the LLM; index updates automatically as notes change."
 
     stats: {
-        downloads:  110
+        downloads:  145
         updated_at: 1778964741000
     }
 }

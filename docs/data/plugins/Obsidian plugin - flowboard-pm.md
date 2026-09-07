@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/flowboard-pm
 alt:
   - https://github.com/cong-xu/flowboard-pm
-downloads: 40
+downloads: 56
 updated at: "2026-07-06T09:17:31Z"
 related to:
   - "[[GitHub - 1290799490]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage projects inside Obsidian with a lightweight Linear-style board stored in local .pmboard files. Organize cards (title, context, project, owner, stage, type, priority, due date, tags), drag-and-drop between Backlog, Todo, In Progress and Done with automatic save, and search, create, edit or delete cards."
 
     stats: {
-        downloads:  40
+        downloads:  56
         updated_at: 1783329451000
     }
 }

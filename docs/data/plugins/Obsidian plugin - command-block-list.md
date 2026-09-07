@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/command-block-list
 alt:
   - https://github.com/ryotaushio/obsidian-command-block-list
-downloads: 2219
+downloads: 2295
 updated at: "2024-02-19T04:02:07Z"
 related to:
   - "[[GitHub - 759366740]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide unwanted commands from the command palette by adding them to a block list. Streamline the palette and reduce clutter with a simple, editable list of blocked commands."
 
     stats: {
-        downloads:  2219
+        downloads:  2295
         updated_at: 1708315327000
     }
 }

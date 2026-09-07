@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/attachment-uploader
 alt:
   - https://github.com/zhuxining/obsidian-attachment-uploader
-downloads: 2700
-updated at: "2025-08-25T15:24:14Z"
+downloads: 2761
+updated at: "2026-08-03T06:18:49Z"
 related to:
   - "[[GitHub - 711984276]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Upload local attachments to cloud storage using a customizable shell upload command with built-in uPic and Picsee examples. Specify which file types to target, auto-upload when pasting or dragging files into Obsidian, optionally delete originals, and extract the returned URL from the command output."
 
     stats: {
-        downloads:  2700
-        updated_at: 1756135454000
+        downloads:  2761
+        updated_at: 1785737929000
     }
 }
 ```

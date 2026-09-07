@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/perilous-writing
 alt:
   - https://github.com/sameersismail/obsidian-perilous-writing
-downloads: 5127
+downloads: 5144
 updated at: "2025-09-01T05:04:30Z"
 related to:
   - "[[GitHub - 599855950]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Force continuous writing with timed sessions (short, long, or custom) and a progress bar that begins on your next keystroke. Delete in-session additions after brief inactivity—warn before removal—and permanently erase work if the session fails; complete the session to preserve progress. Exclude backspace and Vim normal-mode commands from resetting the inactivity timer."
 
     stats: {
-        downloads:  5127
+        downloads:  5144
         updated_at: 1756703070000
     }
 }

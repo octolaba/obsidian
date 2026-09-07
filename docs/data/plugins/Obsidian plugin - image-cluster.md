@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-cluster
 alt:
   - https://github.com/tcyeee/obsidian-image-cluster
-downloads: 285
+downloads: 330
 updated at: "2026-07-10T09:29:41Z"
 related to:
   - "[[GitHub - 1002287827]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Combine multiple images into neat, responsive clusters inside your notes. Wrap images into a group via right‑click and customize layout, size, spacing, border radius, shadows and visibility from the group's settings or the imgs code header."
 
     stats: {
-        downloads:  285
+        downloads:  330
         updated_at: 1783675781000
     }
 }

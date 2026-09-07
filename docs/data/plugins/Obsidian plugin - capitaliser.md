@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/capitaliser
 alt:
   - https://github.com/eoliversec/obsidian-capitalise-plugin
-downloads: 502
+downloads: 541
 updated at: "2025-11-08T21:29:41Z"
 related to:
   - "[[GitHub - 1056635062]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Cycle text capitalisation of selected text, the current word, or entire lines between lowercase, Capitalise Each Word, and UPPERCASE. Apply instant, lightweight changes with no dependencies for fast edits."
 
     stats: {
-        downloads:  502
+        downloads:  541
         updated_at: 1762637381000
     }
 }

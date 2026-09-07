@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-close-tags
 alt:
   - https://github.com/k0src/Obsidian-Auto-Close-Tags-Plugin
-downloads: 747
+downloads: 784
 updated at: "2025-07-18T22:13:58Z"
 related to:
   - "[[GitHub - 1004620609]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Close HTML tags as you type or paste, smartly handling nested tags and self-closing elements. Invoke the manual \"Close last unclosed tag\" command, exclude specific tags from auto-closing, and optionally ignore fenced code blocks and inline code."
 
     stats: {
-        downloads:  747
+        downloads:  784
         updated_at: 1752876838000
     }
 }

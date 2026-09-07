@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/revisionist
 alt:
   - https://github.com/profsynapse/obsidian-revisionist
-downloads: 898
+downloads: 944
 updated at: "2025-07-01T11:16:17Z"
 related to:
   - "[[GitHub - 896286214]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Revise highlighted text with AI directly in Obsidian and get instant, polished suggestions. Guide revisions with custom instructions, view word-count guidance and error notifications, then accept or retry edits from the ribbon, command palette, or context menu."
 
     stats: {
-        downloads:  898
+        downloads:  944
         updated_at: 1751368577000
     }
 }

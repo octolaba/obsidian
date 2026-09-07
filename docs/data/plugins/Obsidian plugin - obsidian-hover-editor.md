@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-hover-editor
 alt:
   - https://github.com/nothingislost/obsidian-hover-editor
-downloads: 526045
+downloads: 548078
 updated at: "2026-07-23T02:31:52Z"
 related to:
   - "[[GitHub - 465849529]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn page preview popovers into full editor instances with reading and editing mode support. Drag, resize and pin multiple popovers, auto-scroll to headers or block refs, keep focus for keyboard shortcuts, and use the nav bar or top handle to access title, controls and minimize."
 
     stats: {
-        downloads:  526045
+        downloads:  548078
         updated_at: 1784773912000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/task-list-kanban
 alt:
   - https://github.com/erikars/task-list-kanban
-downloads: 38348
+downloads: 39433
 updated at: "2026-07-12T02:59:44Z"
 related to:
   - "[[GitHub - 761155245]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import all Markdown task items from your vault into a live kanban board that stays synced with the original files. Assign columns with #tags, drag tasks to reorder, archive or cancel items, apply filters, and jump straight to the source file."
 
     stats: {
-        downloads:  38348
+        downloads:  39433
         updated_at: 1783825184000
     }
 }

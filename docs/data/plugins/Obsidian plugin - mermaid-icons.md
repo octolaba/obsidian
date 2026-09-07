@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mermaid-icons
 alt:
   - https://github.com/toshs/obsidian-mermaid-icons
-downloads: 3127
+downloads: 3499
 updated at: "2026-06-01T12:49:43Z"
 related to:
   - "[[GitHub - 1040457528]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Font Awesome and additional icon sets (logos, Lucide) inside Mermaid diagrams in Obsidian. Search and insert icons via a fuzzy modal and browse/filter all supported icons from settings. Add icons in diagrams using prefix:[icon-name] (e.g., fa:home)."
 
     stats: {
-        downloads:  3127
+        downloads:  3499
         updated_at: 1780318183000
     }
 }

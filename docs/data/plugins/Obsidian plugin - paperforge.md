@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/paperforge
 alt:
   - https://github.com/lllin000/PaperForge
-downloads: 481
+downloads: 777
 updated at: "2026-06-01T11:47:36Z"
 related to:
   - "[[GitHub - 1216998232]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage Zotero references inside Obsidian and sync library items and PDFs directly into your vault. Extract full text with OCR, parse figures and tables, and run AI-assisted deep readings and analyses via a Python backend."
 
     stats: {
-        downloads:  481
+        downloads:  777
         updated_at: 1780314456000
     }
 }

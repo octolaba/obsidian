@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/python-viewer
 alt:
   - https://github.com/viggomeesters/obsidian-python-viewer
-downloads: 650
+downloads: 919
 updated at: "2026-06-07T19:40:33Z"
 related to:
   - "[[GitHub - 1262271344]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse .py files in a dedicated read-only view with line numbers and lightweight Python highlighting. Show a compact outline of imports, decorators, classes, functions, methods and top-level constants; filter and jump to symbols, see parse diagnostics, and render up to 10k lines without writing or running files."
 
     stats: {
-        downloads:  650
+        downloads:  919
         updated_at: 1780861233000
     }
 }

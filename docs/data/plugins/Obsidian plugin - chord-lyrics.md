@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chord-lyrics
 alt:
   - https://github.com/nevernotmove/obsidian-chordlyrics
-downloads: 5775
+downloads: 5810
 updated at: "2022-12-31T16:13:36Z"
 related to:
   - "[[GitHub - 568120908]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display chords above lyrics in Markdown via chordlyrics blocks with automatic chord/lyric detection and chord highlighting. Wrap chords and lyrics responsively while keeping alignment, show section headers, mark lines manually with %c/%t, and customize colors."
 
     stats: {
-        downloads:  5775
+        downloads:  5810
         updated_at: 1672503216000
     }
 }

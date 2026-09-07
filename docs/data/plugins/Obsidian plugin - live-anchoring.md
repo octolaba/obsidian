@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/live-anchoring
 alt:
   - https://github.com/arthursrz/live-anchoring
-downloads: 106
+downloads: 128
 updated at: "2026-06-12T15:38:20Z"
 related to:
   - "[[GitHub - 1267484165]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Anchor writing by converting words or phrases matching note titles into [[wikilinks]] after a brief typing pause. Apply links in-place in one editor transaction so cursor and scroll stay put, prefer longest-title matches, and skip frontmatter, code and existing links/URLs."
 
     stats: {
-        downloads:  106
+        downloads:  128
         updated_at: 1781278700000
     }
 }

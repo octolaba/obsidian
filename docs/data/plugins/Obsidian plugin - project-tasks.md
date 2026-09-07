@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/project-tasks
 alt:
   - https://github.com/paulpaterson/obsidian-project-tasks
-downloads: 2664
+downloads: 2687
 updated at: "2024-11-28T17:31:36Z"
 related to:
   - "[[GitHub - 882440970]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create linked project tasks by automatically assigning task IDs and managing dependencies to build sequential workflows. Assign project-specific tags, keep standard Tasks features like due dates and recurrence, show project views with optional Dataviews, and support optional/conditional tasks."
 
     stats: {
-        downloads:  2664
+        downloads:  2687
         updated_at: 1732815096000
     }
 }

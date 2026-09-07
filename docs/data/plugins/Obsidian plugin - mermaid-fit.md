@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/mermaid-fit
 alt:
   - https://github.com/fyaic/Mermaid-Export-Fit-Plugin
-downloads: 339
-updated at: "2026-06-23T07:18:58Z"
+downloads: 546
+updated at: "2026-08-04T11:59:19Z"
 related to:
   - "[[GitHub - 1277756061]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Keep wide Mermaid diagrams intact in Obsidian and prevent clipping during PDF/HTML export. Preserve SVG clarity, add horizontal scrolling in the reading pane, and fit diagrams to page width during exports automatically."
 
     stats: {
-        downloads:  339
-        updated_at: 1782199138000
+        downloads:  546
+        updated_at: 1785844759000
     }
 }
 ```

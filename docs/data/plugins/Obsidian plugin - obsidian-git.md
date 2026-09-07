@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-git
 alt:
   - https://github.com/vinzent03/obsidian-git
-downloads: 2906528
+downloads: 2985309
 updated at: "2026-07-05T21:52:08Z"
 related to:
   - "[[GitHub - 307756285]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Integrate Git into your vault to commit, pull, and push changes directly from Obsidian. Automate scheduled commit-and-sync and auto-pull at startup, with submodule support. Stage and diff files, browse commit history, view editor line-change signs, and open items on GitHub."
 
     stats: {
-        downloads:  2906528
+        downloads:  2985309
         updated_at: 1783288328000
     }
 }

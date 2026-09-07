@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/github-assignments
 alt:
   - https://github.com/joewhitsitt/obsidian-github-assignments
-downloads: 115
+downloads: 121
 updated at: "2026-06-04T12:50:29Z"
 related to:
   - "[[GitHub - 1140794394]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fetch assigned GitHub issues and pull requests and append them as checkbox tasks to the current note while avoiding duplicates. Add optional issue/PR prefixes, task suffixes and a [created:: YYYY-MM-DD] tag for Tasks plugin compatibility, and insert tasks cleanly at the cursor without breaking ordered lists."
 
     stats: {
-        downloads:  115
+        downloads:  121
         updated_at: 1780577429000
     }
 }

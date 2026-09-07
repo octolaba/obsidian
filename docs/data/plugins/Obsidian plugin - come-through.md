@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/come-through
 alt:
   - https://github.com/mntno/obsidian-come-through
-downloads: 509
-updated at: "2026-05-17T14:00:51Z"
+downloads: 551
+updated at: "2026-08-11T08:30:28Z"
 related to:
   - "[[GitHub - 965487723]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create and review spaced‑repetition content using the FSRS algorithm. Declare card sides with code blocks inside headings, pair fronts and backs via unique IDs across notes, and organize study into vault-wide decks."
 
     stats: {
-        downloads:  509
-        updated_at: 1779026451000
+        downloads:  551
+        updated_at: 1786437028000
     }
 }
 ```

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/storyforge
 alt:
   - https://github.com/kennyrn/storyForge
-downloads: 29
-updated at: "2026-07-23T19:02:58Z"
+downloads: 180
+updated at: "2026-08-09T17:55:24Z"
 related to:
   - "[[GitHub - 1289957124]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Transform Obsidian into a minimalist storytelling workspace with manuscript formatting and a library for series or novel views. Store worldbuilding in a codex, back up via import/export, and keep privacy by only creating/renaming lore files and reading the manuscript."
 
     stats: {
-        downloads:  29
-        updated_at: 1784833378000
+        downloads:  180
+        updated_at: 1786298124000
     }
 }
 ```

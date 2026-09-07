@@ -26,7 +26,7 @@ no timing run, no profile, no comparison. Where upstream says "expensive" withou
 says so too rather than inventing one. Optimisations not named upstream are marked **Inference**.
 
 Citation aliases: `api`, `docs`, `sample`, `theme`, `rel`, `help` — defined in the skill's Sources
-section. Every API named states its `@since` and its tier at this pin: **stable** at or below 1.12.7,
+section. Every API named states its `@since` and its tier at this pin: **stable** at or below 1.13.7,
 **insider-only** above it.
 
 ## Startup: the shared budget

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/todoister
 alt:
   - https://github.com/erblack/obsidian-todoister
-downloads: 795
+downloads: 818
 updated at: "2026-05-24T18:38:37Z"
 related to:
   - "[[GitHub - 1107882511]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync todos from the active note to Todoist and back with two-way synchronization between Obsidian markdown tasks and Todoist. Import existing Todoist tasks by pasting task URLs and keep lists synchronized across desktop and mobile."
 
     stats: {
-        downloads:  795
+        downloads:  818
         updated_at: 1779647917000
     }
 }

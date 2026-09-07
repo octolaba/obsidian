@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mantle-images
 alt:
   - https://github.com/carnalmatrix/obsidian-mantle-images
-downloads: 234
+downloads: 316
 updated at: "2026-05-31T20:55:27Z"
 related to:
   - "[[GitHub - 1255442812]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mantle Images brings desktop-grade image formatting directly into Obsidian's editor. You no longer need external graphics editors to crop or resize images; do it right from your note screen. Hovering over images reveals inline resizing handles, and clicking details opens a visual canvas modal where you can crop, rotate, and clip images to common aspect ratios (1:1, 16:9, 4:3, or custom freeform sizes). The edited image can overwrite the original asset or save as a new file in your vault attachments directory. Features a glassmorphism control panel designed to match the Zenith theme."
 
     stats: {
-        downloads:  234
+        downloads:  316
         updated_at: 1780260927000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/typecho
 alt:
   - https://github.com/chen2226/obsidian-typecho
-downloads: 423
+downloads: 465
 updated at: "2026-04-08T05:48:48Z"
 related to:
   - "[[GitHub - 968535219]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Markdown files with a Typecho blog using its RESTful API to publish posts and create categories and tags. Browse and manage remote posts from within Obsidian and save local copies for offline editing. Auto-retrieve users and surface controls in the publishing panel."
 
     stats: {
-        downloads:  423
+        downloads:  465
         updated_at: 1775627328000
     }
 }

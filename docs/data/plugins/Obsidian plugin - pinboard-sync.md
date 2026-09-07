@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pinboard-sync
 alt:
   - https://github.com/automatt/obsidian-pinboard-sync
-downloads: 4579
+downloads: 4607
 updated at: "2025-05-16T20:27:21Z"
 related to:
   - "[[GitHub - 442361866]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync recent Pinboard bookmarks into your Daily Notes, adding each saved link to the note matching its save date and importing associated tags. Run periodic automatic syncs or opt to create individual notes per pin to keep bookmarks as editable notes in your vault."
 
     stats: {
-        downloads:  4579
+        downloads:  4607
         updated_at: 1747427241000
     }
 }

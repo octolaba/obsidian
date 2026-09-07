@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/unicode-search
 alt:
   - https://github.com/bambuscontrol/obsidian-unicode-search
-downloads: 24631
+downloads: 24900
 updated at: "2025-09-27T13:31:54Z"
 related to:
   - "[[GitHub - 588513040]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search the Unicode Character Database by name, keyword, or codepoint with fuzzy matching and insert any character directly into your editor. Save favorites, assign hotkeys for quick insertion, apply persistent filters for planes, categories and custom sets, and view usage statistics; mobile supported."
 
     stats: {
-        downloads:  24631
+        downloads:  24900
         updated_at: 1758979914000
     }
 }

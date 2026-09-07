@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/empty-files-cleaner-np
 alt:
   - https://github.com/leruetkins/obsidian-empty-files-cleaner-np
-downloads: 96
+downloads: 113
 updated at: "2026-05-24T19:48:32Z"
 related to:
   - "[[GitHub - 1248547929]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scan your vault for empty Markdown files and list notes that contain no content or only whitespace. Select files via a checkbox list, use Select all/Deselect all, and delete chosen files permanently with a confirmation prompt; the list auto-refreshes after deletions."
 
     stats: {
-        downloads:  96
+        downloads:  113
         updated_at: 1779652112000
     }
 }

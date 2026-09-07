@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/meeting-notes-synthesizer
 alt:
   - https://github.com/ibrh96-prog/obsidian-meeting-notes-synthesizer
-downloads: 88
+downloads: 102
 updated at: "2026-06-30T13:48:51Z"
 related to:
   - "[[GitHub - 1266576322]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Synthesize meeting notes across a folder or tag into a living meeting memory. Extract every decision with dates and source links, list open actions grouped by owner with due dates, produce weekly rollups, and trace decision evolution to show which version is current."
 
     stats: {
-        downloads:  88
+        downloads:  102
         updated_at: 1782827331000
     }
 }

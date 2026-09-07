@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/sync-vault-ce
 alt:
   - https://github.com/abcamus/obsidian-sync-vault-ce
-downloads: 9933
-updated at: "2026-07-18T10:29:47Z"
+downloads: 10834
+updated at: "2026-08-10T07:02:52Z"
 related to:
   - "[[GitHub - 935779248]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Connect TB-scale cloud drives to Obsidian and link or embed cloud files directly in notes using file IDs or paths. Run a built-in MCP SSE server to let LLMs and AI agents access cloud files in real time, and sync and backup across devices with bidirectional sync, conflict merging, Markdown encryption, and collaborative editing."
 
     stats: {
-        downloads:  9933
-        updated_at: 1784370587000
+        downloads:  10834
+        updated_at: 1786345372000
     }
 }
 ```

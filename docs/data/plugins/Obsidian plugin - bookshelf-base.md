@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/bookshelf-base
 alt:
   - https://github.com/dsebastien/obsidian-bookshelf
-downloads: 562
-updated at: "2026-07-17T07:38:01Z"
+downloads: 959
+updated at: "2026-07-29T07:43:06Z"
 related to:
   - "[[GitHub - 1147128788]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Display notes as a visual bookshelf in Bases with real covers on realistic shelves, turning each Base group into its own shelf with headers and counts. Pick cover images from external URLs, data URIs, or vault-relative paths; auto-generate deterministic colored spines for coverless notes and render wikilinks in properties. Choose from multiple shelf textures, adjust card size, gap and aspect ratio, and open notes via click, Ctrl/Cmd+click or right-click; works on desktop and mobile."
 
     stats: {
-        downloads:  562
-        updated_at: 1784273881000
+        downloads:  959
+        updated_at: 1785310986000
     }
 }
 ```

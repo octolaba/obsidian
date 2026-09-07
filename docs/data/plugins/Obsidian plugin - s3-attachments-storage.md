@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/s3-attachments-storage
 alt:
   - https://github.com/ttax00/obsidian-s3
-downloads: 4007
+downloads: 4022
 updated at: "2023-06-11T08:59:33Z"
 related to:
   - "[[GitHub - 562058284]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Store media attachments on S3-compatible buckets and serve them via generated links for images, video, and audio. Upload on paste, drag-and-drop, or adding attachments; manage resources with commands to delete unused files, show bucket size, rename links, and run parallel retries; support static-site hosting and optional local caching."
 
     stats: {
-        downloads:  4007
+        downloads:  4022
         updated_at: 1686473973000
     }
 }

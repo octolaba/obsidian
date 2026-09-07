@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/external-file-embed-and-link
 alt:
   - https://github.com/oylbin/obsidian-external-file-embed-and-link
-downloads: 7416
+downloads: 7902
 updated at: "2026-04-11T01:45:23Z"
 related to:
   - "[[GitHub - 902702448]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed external files (Markdown, PDF, images, audio, video) and create links to local files outside your vault that open with your system's default apps. Map local folders to virtual directory IDs (home://, vault:// or custom) and reference files as VirtualDirectoryId://relative/path for cross-device compatibility."
 
     stats: {
-        downloads:  7416
+        downloads:  7902
         updated_at: 1775871923000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chat-splitter
 alt:
   - https://github.com/rybaier/obsidian-chat-splitter
-downloads: 132
+downloads: 147
 updated at: "2026-05-16T00:36:31Z"
 related to:
   - "[[GitHub - 1158045279]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Split long AI chat transcripts and documents into topic-specific Obsidian notes with auto-generated titles, tags, summaries, key points, and bidirectional wikilinks. Import or paste text, JSON, ZIP, or Markdown, preview and edit segments before saving, and generate a Map of Content that ties all topic notes together."
 
     stats: {
-        downloads:  132
+        downloads:  147
         updated_at: 1778891791000
     }
 }

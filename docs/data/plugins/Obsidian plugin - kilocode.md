@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kilocode
 alt:
   - https://github.com/realhenrylan/obsidian-with-kilocode
-downloads: 265
+downloads: 345
 updated at: "2026-06-12T15:23:44Z"
 related to:
   - "[[GitHub - 1244145787]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn your Obsidian vault into persistent memory for KiloCode, storing sessions, skills, and notes as contextual memory. Sync bidirectionally with the KiloCode CLI to inject vault content into conversations and preserve architecture decisions, coding standards, and workflows."
 
     stats: {
-        downloads:  265
+        downloads:  345
         updated_at: 1781277824000
     }
 }

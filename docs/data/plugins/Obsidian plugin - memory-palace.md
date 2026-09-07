@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/memory-palace
 alt:
   - https://github.com/latazadehomero/memory-palace
-downloads: 286
+downloads: 329
 updated at: "2026-06-14T18:58:03Z"
 related to:
   - "[[GitHub - 1269346245]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform your Markdown notes into a navigable 3D memory palace of interconnected rooms. Explore with FPS-style controls, click internal [[WikiLinks]] and embedded images, and map each ## Room section into walls, faces, and central floating content."
 
     stats: {
-        downloads:  286
+        downloads:  329
         updated_at: 1781463483000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/glossa
 alt:
   - https://github.com/yiiwang118/obsidian-glossa
-downloads: 266
-updated at: "2026-07-22T09:12:35Z"
+downloads: 357
+updated at: "2026-07-24T17:55:43Z"
 related to:
   - "[[GitHub - 1251332735]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add an AI sidebar to Obsidian for multi-provider chat, context-aware editing via @-mentions, and an agent that acts on your vault with per-action approval and audit logging. Use sandboxed tools for read/edit/search/RAG, apply_patch multi-file diffs, local embeddings, and vault-native skills."
 
     stats: {
-        downloads:  266
-        updated_at: 1784711555000
+        downloads:  357
+        updated_at: 1784915743000
     }
 }
 ```

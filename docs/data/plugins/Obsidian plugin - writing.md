@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/writing
 alt:
   - https://github.com/johackim/obsidian-writing
-downloads: 10084
+downloads: 10126
 updated at: "2022-12-29T08:36:05Z"
 related to:
   - "[[GitHub - 559594941]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Write and format your next book directly in Obsidian with goal tracking, a live word counter, and a writing habit tracker. Export finished manuscripts to PDF, EPUB, or MOBI, preview layouts for Kindle, Kobo, iPad, iPhone and Galaxy S21, and track NaNoWriMo progress."
 
     stats: {
-        downloads:  10084
+        downloads:  10126
         updated_at: 1672302965000
     }
 }

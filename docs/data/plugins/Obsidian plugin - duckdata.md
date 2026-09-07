@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/duckdata
 alt:
   - https://github.com/atliuhui/obsidian-duckdata
-downloads: 76
+downloads: 94
 updated at: "2026-06-20T16:52:18Z"
 related to:
   - "[[GitHub - 1275223342]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run SQL against data in your notes — inline CSV, markdown tables, vault files (CSV/TSV/JSON/Parquet), or remote URLs — and render results as tables or ECharts visualizations inside a code block. Execute queries locally with DuckDB-WASM (desktop only) so data stays in your vault, expose each source as a query-scoped CTE named data, and run multiple blocks in parallel."
 
     stats: {
-        downloads:  76
+        downloads:  94
         updated_at: 1781974338000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/drawio-blocks
 alt:
   - https://github.com/deyixtan/obsidian-drawio-blocks
-downloads:
-updated at:
+downloads: 104
+updated at: "2026-08-09T18:27:44Z"
 related to:
   - "[[GitHub - 1310475702]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # draw.io Blocks
 
-Edits and renders draw.io XML inline in fenced Markdown code blocks using the online diagrams.net editor. It supports desktop and mobile.
+Renders draw.io diagrams held in Markdown code blocks and opens them for editing in place, using either the hosted diagrams.net editor or an optional offline editor. Desktop and mobile are both supported.
 
 ```cue
 plugin: {
@@ -33,8 +33,13 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/drawio-blocks"
     github_url:  "https://github.com/deyixtan/obsidian-drawio-blocks"
-    description: "An Obsidian plugin for editing and rendering draw.io XML inline in fenced Markdown code blocks using the online diagrams.net editor. - This plugin has not been manually reviewed by Obsidian staff."
-    about:       "Edit and render draw.io diagrams directly inside Markdown code blocks using the hosted diagrams.net editor. Supports desktop and mobile."
+    description: "Edit and render draw.io diagrams directly inside Markdown code blocks using either the hosted diagrams.net editor or an optional offline editor. - This plugin has not been manually reviewed by Obsidian staff."
+    about:       "Edit and render draw.io diagrams directly inside Markdown code blocks using either the hosted diagrams.net editor or an optional offline editor. Supports desktop and mobile."
+
+    stats: {
+        downloads:  104
+        updated_at: 1786300064000
+    }
 }
 ```
 

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/clear-checklist
 alt:
   - https://github.com/vladb-evs/obsidian-clear-checklists
-downloads: 62
+downloads: 101
 updated at: "2026-07-09T14:05:37Z"
 related to:
   - "[[GitHub - 1295309833]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reset recurring checklists with one click to uncheck every completed item without recreating the list. Insert optional labeled reset buttons under checklists, use the automatic button in any view, or run a command to clear all checkboxes in the current note; handle -, *, +, numbered lists, nested tasks and alternative checkbox states."
 
     stats: {
-        downloads:  62
+        downloads:  101
         updated_at: 1783605937000
     }
 }

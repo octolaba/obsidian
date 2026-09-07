@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/lightweight-mentions
 alt:
   - https://github.com/amato21/Lightweight-Mentions
-downloads: 46
-updated at: "2026-07-19T18:03:23Z"
+downloads: 76
+updated at: "2026-08-11T21:38:14Z"
 related to:
   - "[[GitHub - 1304922508]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Insert @-style mentions that link to existing notes or create and link to headings in a shared stub file when no note exists. Promote a stub heading into a full note and rewrite every mention across the vault to point to the new file."
 
     stats: {
-        downloads:  46
-        updated_at: 1784484203000
+        downloads:  76
+        updated_at: 1786484294000
     }
 }
 ```

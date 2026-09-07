@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rhino-pdf-export
 alt:
   - https://github.com/degun-osint/obsidian-rhino-pdf-export
-downloads: 355
+downloads: 456
 updated at: "2026-07-10T16:11:41Z"
 related to:
   - "[[GitHub - 1178188014]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export Markdown notes to styled PDFs with configurable themes, logo, headers/footers, watermarks, pagination, auto table of contents, and PDF bookmarks. Preview exports, batch or merge folders into single PDFs, override per-note settings via frontmatter, and create/import persistent themes with full Obsidian callout rendering."
 
     stats: {
-        downloads:  355
+        downloads:  456
         updated_at: 1783699901000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/juanperez-document-export
 alt:
   - https://github.com/perezsjuan/Obsidian-Document-Export
-downloads: 95
+downloads: 198
 updated at: "2026-07-10T09:30:35Z"
 related to:
   - "[[GitHub - 1271080843]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export your vault notes to PDF, DOCX, or LaTeX with full control over structure, formatting, and content. Select notes via an index or drag-and-drop reorder, map headings to parts/chapters/sections, include a cover and auto TOC, and resolve embeds, images, PDFs, Mermaid diagrams, KaTeX math, code highlighting, callouts, tasks, and footnotes."
 
     stats: {
-        downloads:  95
+        downloads:  198
         updated_at: 1783675835000
     }
 }

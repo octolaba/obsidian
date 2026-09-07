@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-qrcode-plugin
 alt:
   - https://github.com/rudimuc/obsidian-qrcode
-downloads: 12518
+downloads: 12574
 updated at: "2024-02-11T20:45:43Z"
 related to:
   - "[[GitHub - 365372299]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate QR codes directly in your notes with a simple qrcode block or use qrcode-complex for fully customizable codes. Customize text, size, margin, colors, and error-correction level to create tailored QR images."
 
     stats: {
-        downloads:  12518
+        downloads:  12574
         updated_at: 1707684343000
     }
 }

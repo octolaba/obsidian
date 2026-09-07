@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/smart-text-mover
 alt:
   - https://github.com/ankush-chander/obsidian-smart-move-text
-downloads: 686
+downloads: 695
 updated at: "2024-06-24T10:32:37Z"
 related to:
   - "[[GitHub - 810832468]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move and organize text or external links by getting smart suggestions for headings to relocate content under. Rank target sections by file position, LLM predictions, or a self-improving Naive Bayes classifier that analyzes word distributions and proximity."
 
     stats: {
-        downloads:  686
+        downloads:  695
         updated_at: 1719225157000
     }
 }

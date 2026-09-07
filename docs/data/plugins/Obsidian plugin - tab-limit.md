@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tab-limit
 alt:
   - https://github.com/lizard-heart/obsidian-tab-limit
-downloads: 853
+downloads: 869
 updated at: "2024-12-02T06:46:07Z"
 related to:
   - "[[GitHub - 881044088]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Limit the number of open tabs to a configurable maximum and block new tabs when the limit is reached. Automatically close the oldest tabs to keep your workspace within the set limit."
 
     stats: {
-        downloads:  853
+        downloads:  869
         updated_at: 1733121967000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mention-things
 alt:
   - https://github.com/stracker-phil/obsidian-mention-things
-downloads: 1104
+downloads: 1207
 updated at: "2026-02-25T21:18:01Z"
 related to:
   - "[[GitHub - 751927087]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create custom mention triggers (e.g., @) to insert linked note mentions or autocomplete filenames as plain text. Select suggestions to insert wiki-style links (e.g., [[@Name]]) and leave the cursor at the end. Define multiple mention types with labels and matching behavior for targeted suggestions."
 
     stats: {
-        downloads:  1104
+        downloads:  1207
         updated_at: 1772054281000
     }
 }

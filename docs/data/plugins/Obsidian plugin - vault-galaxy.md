@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-galaxy
 alt:
   - https://github.com/sjhealthadvising-prog/vault-galaxy
-downloads: 112
+downloads: 263
 updated at: "2026-07-17T19:30:11Z"
 related to:
   - "[[GitHub - 1302070671]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View your Obsidian vault as a living galaxy where top notes become suns, hubs orbit them and other notes orbit their strongest links, with orbit distance reflecting shared-link strength. Drag nodes to feel link-weighted physics, hover to highlight constellations and open notes. Tune gravity, rotation, node sizes and colors live."
 
     stats: {
-        downloads:  112
+        downloads:  263
         updated_at: 1784316611000
     }
 }

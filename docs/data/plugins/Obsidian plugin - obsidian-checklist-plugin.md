@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-checklist-plugin
 alt:
   - https://github.com/delashum/obsidian-checklist-plugin
-downloads: 452515
+downloads: 454869
 updated at: "2025-01-11T19:07:58Z"
 related to:
   - "[[GitHub - 327483128]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Consolidate checklist items from across your vault into a single, updatable sidebar view. Filter by tag (default #todo), group and sort results, and complete items in the sidebar to update their original Markdown files. Use glob patterns to control which files are included."
 
     stats: {
-        downloads:  452515
+        downloads:  454869
         updated_at: 1736622478000
     }
 }

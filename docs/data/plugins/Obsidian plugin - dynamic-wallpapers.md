@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/dynamic-wallpapers
 alt:
   - https://github.com/joshmedeski/obsidian-dynamic-wallpapers
-downloads: 136
-updated at: "2026-06-24T14:07:10Z"
+downloads: 209
+updated at: "2026-07-31T15:25:18Z"
 related to:
   - "[[GitHub - 1277383831]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Set per-note background wallpapers with a frontmatter property. Inherit from linked notes or backlinks, browse a thumbnail gallery, pick or randomize from related wallpapers, inspect inheritance tiers, and manage the thumbnail cache — desktop only."
 
     stats: {
-        downloads:  136
-        updated_at: 1782310030000
+        downloads:  209
+        updated_at: 1785511518000
     }
 }
 ```

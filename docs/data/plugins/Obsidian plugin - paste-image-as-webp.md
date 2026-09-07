@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/paste-image-as-webp
 alt:
   - https://github.com/cocoaai-it/paste-image-as-webp
-downloads: 176
+downloads: 220
 updated at: "2026-05-25T22:52:17Z"
 related to:
   - "[[GitHub - 1096271135]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert pasted clipboard images into WebP and save them to a chosen folder with adjustable compression quality. Name files using a fixed name or timestamp with automatic numbering on conflicts, and insert them as ![[filename.webp]] into the editor."
 
     stats: {
-        downloads:  176
+        downloads:  220
         updated_at: 1779749537000
     }
 }

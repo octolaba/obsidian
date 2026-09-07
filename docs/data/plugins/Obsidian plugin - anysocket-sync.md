@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/anysocket-sync
 alt:
   - https://github.com/lynxaegon/obsidian-anysocket-sync
-downloads: 1001
+downloads: 1033
 updated at: "2025-10-30T20:02:33Z"
 related to:
   - "[[GitHub - 594057407]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Vault to a self-hosted AnySocket server with end-to-end encrypted transport and unlimited device support. Preserve version history and deleted files with configurable retention, sync all file types (including mobile), work offline, and use on-demand or automatic updates. Expect last-write-wins conflicts because sync is file-based, not CRDT."
 
     stats: {
-        downloads:  1001
+        downloads:  1033
         updated_at: 1761854553000
     }
 }

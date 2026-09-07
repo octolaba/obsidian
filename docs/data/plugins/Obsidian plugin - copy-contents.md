@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/copy-contents
 alt:
   - https://github.com/accsimplify/obsidian-copy-contents
-downloads:
-updated at:
+downloads: 1205
+updated at: "2026-07-24T19:37:16Z"
 related to:
   - "[[GitHub - 1011092187]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/accsimplify/obsidian-copy-contents"
     description: "Copy or export file and folder contents in Markdown, plain text, or JSON formats. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Copy or export the contents of a file or entire folder to the clipboard or to a file in your vault in Markdown, plain text, or JSON. Preserve nested folder paths when combining files, pick which files to include, filter by extension and size, and run actions from the file menu, command palette, or custom hotkeys."
+
+    stats: {
+        downloads:  1205
+        updated_at: 1784921836000
+    }
 }
 ```
 

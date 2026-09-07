@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/galaxy-graph-view
 alt:
   - https://github.com/deck6/obsidian-galaxy-graph
-downloads: 132
+downloads: 353
 updated at: "2026-07-16T23:14:36Z"
 related to:
   - "[[GitHub - 1302092961]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render notes and resolved links as a translucent, navigable 3D galaxy with star cores, halos, depth fog, folder-based colors, and node sizes by connection count. Orbit, pan, and zoom; hover for labels, search and click to open notes; focus the active note's neighborhood and auto-rebuild on renames or metadata changes."
 
     stats: {
-        downloads:  132
+        downloads:  353
         updated_at: 1784243676000
     }
 }

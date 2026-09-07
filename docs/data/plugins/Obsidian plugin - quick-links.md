@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quick-links
 alt:
   - https://github.com/iafisher/obsidian-quick-links
-downloads: 5627
+downloads: 5841
 updated at: "2025-06-07T18:57:45Z"
 related to:
   - "[[GitHub - 637249020]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create shortcuts to link to external sites with simple prefixes like [[w:New York City]]. Define custom prefixes to map to any URL or obsidian://vault targets. Choose wiki-link or markdown link syntax for how quick links are written."
 
     stats: {
-        downloads:  5627
+        downloads:  5841
         updated_at: 1749322665000
     }
 }

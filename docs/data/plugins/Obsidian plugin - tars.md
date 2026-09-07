@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tars
 alt:
   - https://github.com/tarslab/obsidian-tars
-downloads: 45191
+downloads: 46357
 updated at: "2026-03-06T10:17:30Z"
 related to:
   - "[[GitHub - 813390194]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate text and images in notes via tag-triggered AI assistants (OpenAI, Claude, Gemini, Ollama, DeepSeek, SiliconFlow, OpenRouter and more). Analyze embedded images and PDFs, insert AI responses from selected text or cursor, export conversations to JSONL, and show real-time status."
 
     stats: {
-        downloads:  45191
+        downloads:  46357
         updated_at: 1772792250000
     }
 }

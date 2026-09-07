@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/toc-block
 alt:
   - https://github.com/grmartin/obsidian-toc-block-plugin
-downloads: 35
+downloads: 92
 updated at: "2026-07-18T19:57:34Z"
 related to:
   - "[[GitHub - 1305159297]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert a Typora-style [TOC] tag to render an inline table of contents built from the note’s headings. Render a live, clickable TOC in Live Preview and Reading View that updates automatically as headings change. Recognize custom tag patterns and keep the raw marker editable in source mode."
 
     stats: {
-        downloads:  35
+        downloads:  92
         updated_at: 1784404654000
     }
 }

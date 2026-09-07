@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-size
 alt:
   - https://github.com/cynicalight/obsidian-image-size
-downloads: 3131
+downloads: 3293
 updated at: "2025-12-30T08:00:27Z"
 related to:
   - "[[GitHub - 900262807]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set a default size for images pasted into notes to keep embeds consistent. Save pasted images to a chosen folder and insert relative paths optimized for Hugo-style blogs."
 
     stats: {
-        downloads:  3131
+        downloads:  3293
         updated_at: 1767081627000
     }
 }

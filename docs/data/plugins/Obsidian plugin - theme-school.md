@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/theme-school
 alt:
   - https://github.com/michellegdyason/theme-school
-downloads: 46
+downloads: 169
 updated at: "2026-07-21T13:57:41Z"
 related to:
   - "[[GitHub - 1307188003]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Design Obsidian themes with an interactive studio that links each visual control to its underlying CSS variable and checks body-text contrast against WCAG AA. Explore separate light/dark baselines, hierarchy, type and spacing systems, UI controls, and export a standalone theme.css and manifest.json."
 
     stats: {
-        downloads:  46
+        downloads:  169
         updated_at: 1784642261000
     }
 }

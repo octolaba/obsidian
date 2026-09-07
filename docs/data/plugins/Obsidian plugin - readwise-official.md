@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/readwise-official
 alt:
   - https://github.com/readwiseio/obsidian-readwise
-downloads: 237831
+downloads: 239980
 updated at: "2026-05-14T19:18:06Z"
 related to:
   - "[[GitHub - 345463522]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync highlights from Readwise into Obsidian automatically from Kindle, Apple Books, Google Play Books, Pocket, Instapaper, Medium, Twitter, PDFs, and more. Customize export format with Jinja2 templates and include enriched metadata like cover image, author, chapter headings, tags, and original URL; requires an active Readwise subscription."
 
     stats: {
-        downloads:  237831
+        downloads:  239980
         updated_at: 1778786286000
     }
 }

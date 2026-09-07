@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-weather
 alt:
   - https://github.com/willasm/obsidian-open-weather
-downloads: 13861
+downloads: 13926
 updated at: "2024-09-10T02:20:10Z"
 related to:
   - "[[GitHub - 575137092]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Stop using OpenWeather — the plugin is discontinued after OpenWeather API 2.5 was shut down. Switch to Visual Crossing Weather for 15-day forecasts, hourly data, weather alerts, and local-time results without GMT conversions."
 
     stats: {
-        downloads:  13861
+        downloads:  13926
         updated_at: 1725934810000
     }
 }

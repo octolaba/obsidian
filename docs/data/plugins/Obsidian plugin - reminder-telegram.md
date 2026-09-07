@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/reminder-telegram
 alt:
   - https://github.com/lukather/obsidian-reminder-telegram
-downloads: 233
-updated at: "2026-05-29T08:24:26Z"
+downloads: 299
+updated at: "2026-07-28T15:18:22Z"
 related to:
   - "[[GitHub - 1234071537]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Receive Telegram reminders when your Obsidian tasks become due. Parse tasks from YAML frontmatter or inline lists, scan your vault or a folder, send grouped Telegram messages via Bot API, and prevent duplicate alerts."
 
     stats: {
-        downloads:  233
-        updated_at: 1780043066000
+        downloads:  299
+        updated_at: 1785251902000
     }
 }
 ```

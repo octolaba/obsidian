@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lineref-copier
 alt:
   - https://github.com/neves007/line-ref-copier
-downloads: 110
+downloads: 121
 updated at: "2026-05-13T05:41:26Z"
 related to:
   - "[[GitHub - 1236639249]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy the current cursor line or a selected range as a file path plus line number (e.g., Projects/Research/idea.md:25 or Projects/Research/idea.md:25-27) for precise location references. Choose relative or absolute paths and optionally show a copy notification to paste exact note locations into AI chats, issues, or tasks."
 
     stats: {
-        downloads:  110
+        downloads:  121
         updated_at: 1778650886000
     }
 }

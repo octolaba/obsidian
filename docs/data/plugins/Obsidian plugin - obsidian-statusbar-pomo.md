@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-statusbar-pomo
 alt:
   - https://github.com/kzhovn/statusbar-pomo-obsidian
-downloads: 64602
+downloads: 65190
 updated at: "2025-01-21T07:20:43Z"
 related to:
   - "[[GitHub - 378713476]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a Pomodoro timer in the Obsidian status bar and control it from the clock icon, command palette, or a hotkey. Configure work/break durations, auto-start or cycle counts, enable system notifications, and log completed pomodoros to a file, daily note, or the active note with timestamps."
 
     stats: {
-        downloads:  64602
+        downloads:  65190
         updated_at: 1737444043000
     }
 }

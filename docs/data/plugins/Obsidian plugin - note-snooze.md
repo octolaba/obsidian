@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-snooze
 alt:
   - https://github.com/turingexmachina/obsidian-note-snooze
-downloads: 13
+downloads: 22
 updated at: "2026-07-13T05:44:32Z"
 related to:
   - "[[GitHub - 1298811516]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide notes from the file explorer until a date specified in a frontmatter property. Keep hidden notes searchable and openable via Quick Switcher and links, and have them automatically reappear at the specified date without reload."
 
     stats: {
-        downloads:  13
+        downloads:  22
         updated_at: 1783921472000
     }
 }

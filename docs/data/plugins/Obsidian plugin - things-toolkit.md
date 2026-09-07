@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/things-toolkit
 alt:
   - https://github.com/yangcht/obsidian-things-toolkit
-downloads: 150
-updated at: "2026-06-25T20:20:43Z"
+downloads: 200
+updated at: "2026-08-01T16:51:18Z"
 related to:
   - "[[GitHub - 1268552598]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync completed and canceled Things 3 Logbook items into Obsidian daily notes, auto-create missing notes, and fall back from SQLite to AppleScript when macOS privacy blocks access. Show a sidebar review calendar with daily counts, streaks and monthly totals; open or create the matching daily note from any day."
 
     stats: {
-        downloads:  150
-        updated_at: 1782418843000
+        downloads:  200
+        updated_at: 1785603078000
     }
 }
 ```

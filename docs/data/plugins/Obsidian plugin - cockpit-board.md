@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cockpit-board
 alt:
   - https://github.com/andreconde21/cockpit-board
-downloads: 459
+downloads: 664
 updated at: "2026-06-18T07:52:04Z"
 related to:
   - "[[GitHub - 1198187580]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize tasks with a dynamic Kanban driven by frontmatter that auto-sorts into columns and updates files instantly via drag-and-drop, including multi-select bulk moves. Switch to week/month/year calendar views, run timers tracked in frontmatter, create cron-based recurring tasks, edit checklists in a drag-and-drop modal, search archived completions, and use privacy and focus modes with mobile-friendly gestures."
 
     stats: {
-        downloads:  459
+        downloads:  664
         updated_at: 1781769124000
     }
 }

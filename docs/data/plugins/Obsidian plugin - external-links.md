@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/external-links
 alt:
   - https://github.com/jivimberg/external-links
-downloads: 3071
+downloads: 3093
 updated at: "2024-11-29T20:00:03Z"
 related to:
   - "[[GitHub - 743885329]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "List all external links in a note and show which notes in your vault link to each URL. Navigate directly to linking notes and audit external references across your vault."
 
     stats: {
-        downloads:  3071
+        downloads:  3093
         updated_at: 1732910403000
     }
 }

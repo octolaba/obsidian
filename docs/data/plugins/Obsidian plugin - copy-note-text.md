@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-note-text
 alt:
   - https://github.com/ruisloan/obsidian-copy-note-text
-downloads: 190
+downloads: 233
 updated at: "2026-06-04T12:20:54Z"
 related to:
   - "[[GitHub - 1259229995]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy Note Text adds a copy button to the note action bar (top-right, next to the reading view and the more-options menu). Clicking it instantly copies the note's entire Markdown content to your clipboard. A command is also available, so you can assign it a hotkey. Works on desktop and mobile."
 
     stats: {
-        downloads:  190
+        downloads:  233
         updated_at: 1780575654000
     }
 }

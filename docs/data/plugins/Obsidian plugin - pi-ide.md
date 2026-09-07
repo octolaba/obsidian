@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pi-ide
 alt:
   - https://github.com/9963kk/obsidian-pi-ide
-downloads: 197
+downloads: 232
 updated at: "2026-06-07T03:33:19Z"
 related to:
   - "[[GitHub - 1261155335]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect Obsidian to Pi Coding Agent via the pi-ide protocol and expose the active file, cursor position, and selection as ambient editor context. Route Pi write/edit tool calls through an Obsidian confirmation dialog or enable optional auto-accept for trusted local workflows, handle Pi-initiated diffs, and detect the Pi-side package."
 
     stats: {
-        downloads:  197
+        downloads:  232
         updated_at: 1780803199000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/exmemo-client
 alt:
   - https://github.com/exmemo-ai/obsidian-exmemo-client
-downloads: 610
+downloads: 649
 updated at: "2025-07-29T09:24:23Z"
 related to:
   - "[[GitHub - 871466793]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search local Obsidian notes and remote ExMemo content from a sidebar or popup using keyword, filename, tag, fuzzy or semantic vector search with previewed results before insertion. Sync single or multiple notes with an ExMemo server for cross-device consistency and batch upload/download."
 
     stats: {
-        downloads:  610
+        downloads:  649
         updated_at: 1753781063000
     }
 }

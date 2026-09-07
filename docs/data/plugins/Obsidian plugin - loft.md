@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/loft
 alt:
   - https://github.com/opellen/Loft
-downloads: 32
+downloads: 41
 updated at: "2026-07-05T11:57:10Z"
 related to:
   - "[[GitHub - 1289791942]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload pasted or dragged images to your Google Drive and insert remote links in notes to keep your vault small. Convert existing local embeds and re-resolve or change Drive link formats without re-uploading, with Google sign-in via OAuth Device Flow for desktop and mobile."
 
     stats: {
-        downloads:  32
+        downloads:  41
         updated_at: 1783252630000
     }
 }

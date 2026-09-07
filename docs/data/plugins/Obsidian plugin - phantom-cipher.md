@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/phantom-cipher
 alt:
   - https://github.com/lumingtianze/obsidian-phantom-cipher
-downloads: 146
+downloads: 155
 updated at: "2026-05-19T15:51:55Z"
 related to:
   - "[[GitHub - 1235309812]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Encrypt notes transparently using Argon2id + AES-GCM so files remain encrypted on disk while you edit them normally. Compress data with Deflate to reduce Base64 bloat, optimize performance with a session salt, and store master passwords in your system keychain."
 
     stats: {
-        downloads:  146
+        downloads:  155
         updated_at: 1779205915000
     }
 }

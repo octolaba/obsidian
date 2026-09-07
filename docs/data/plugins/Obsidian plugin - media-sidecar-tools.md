@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/media-sidecar-tools
 alt:
   - https://github.com/turingexmachina/obsidian-media-sidecar-tools
-downloads: 18
+downloads: 35
 updated at: "2026-07-13T05:22:10Z"
 related to:
   - "[[GitHub - 1297902438]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create Markdown sidecar notes for media with Ctrl+Click and hide the original attachment from the file explorer. Keep explorer visibility synced so renaming, moving, creating, or deleting the note or attachment updates instantly."
 
     stats: {
-        downloads:  18
+        downloads:  35
         updated_at: 1783920130000
     }
 }

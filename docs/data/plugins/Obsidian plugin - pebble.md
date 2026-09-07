@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/pebble
 alt:
   - https://github.com/pedrojreis/Pebble
-downloads: 158
-updated at: "2026-05-13T04:44:49Z"
+downloads: 200
+updated at: "2026-08-11T09:42:10Z"
 related to:
   - "[[GitHub - 1152057007]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Open a minimal, distraction-free writing window in your menu bar or system tray for instant note-taking. Point it at any Markdown file in your vault to read and write that single note with fast autosave, auto-close on blur, anchored macOS pop-out, and color or monochrome tray icons."
 
     stats: {
-        downloads:  158
-        updated_at: 1778647489000
+        downloads:  200
+        updated_at: 1786441330000
     }
 }
 ```

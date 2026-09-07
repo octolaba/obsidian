@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bookmark-list-generator
 alt:
   - https://github.com/newcodejin/obsidian-bookmark-list-generator
-downloads: 60
+downloads: 74
 updated at: "2026-07-15T12:19:35Z"
 related to:
   - "[[GitHub - 1292132964]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate a Markdown file of your Obsidian bookmarks automatically. Customize the output filename and auto-regenerate the file at a chosen interval to keep your bookmark list up to date."
 
     stats: {
-        downloads:  60
+        downloads:  74
         updated_at: 1784117975000
     }
 }

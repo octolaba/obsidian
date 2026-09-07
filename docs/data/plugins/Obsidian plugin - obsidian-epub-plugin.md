@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-epub-plugin
 alt:
   - https://github.com/caronchen/obsidian-epub-plugin
-downloads: 55550
-updated at: "2025-04-27T03:05:16Z"
+downloads: 57704
+updated at: "2026-07-28T08:56:39Z"
 related to:
   - "[[GitHub - 486862560]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Open and read .epub files stored in your vault directly inside Obsidian. Display book content in a built-in reading view and navigate using the table of contents."
 
     stats: {
-        downloads:  55550
-        updated_at: 1745723116000
+        downloads:  57704
+        updated_at: 1785228999000
     }
 }
 ```

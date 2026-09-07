@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-markdown-furigana
 alt:
   - https://github.com/steven-kraft/obsidian-markdown-furigana
-downloads: 17076
+downloads: 17384
 updated at: "2023-06-16T03:56:54Z"
 related to:
   - "[[GitHub - 365635246]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render kanji and other scripts with ruby-style furigana from simple inline markdown like {漢字|かんじ} or multiple readings per character. Display furigana in preview only via post-processing so your Markdown files remain unchanged."
 
     stats: {
-        downloads:  17076
+        downloads:  17384
         updated_at: 1686887814000
     }
 }

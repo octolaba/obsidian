@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-daily-notes-opener
 alt:
   - https://github.com/reorx/obsidian-daily-notes-opener
-downloads: 8630
+downloads: 8668
 updated at: "2022-04-18T03:48:23Z"
 related to:
   - "[[GitHub - 465230865]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open today's daily note in a new pane or focus an already-open note to avoid duplicates. Set end-of-day time for correct midnight rollovers, append a line to a specific section when opening, and colorize the daily note pane via Style Settings; supports Periodic Notes."
 
     stats: {
-        downloads:  8630
+        downloads:  8668
         updated_at: 1650253703000
     }
 }

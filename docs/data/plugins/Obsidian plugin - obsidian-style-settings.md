@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-style-settings
 alt:
   - https://github.com/obsidian-community/obsidian-style-settings
-downloads: 2520263
+downloads: 2579295
 updated at: "2024-08-24T17:45:16Z"
 related to:
   - "[[GitHub - 352429422]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display all theme, snippet, and plugin CSS settings in a single settings pane. Toggle classes on the body and configure numeric, text, and color CSS variables declared via /* @settings */ YAML comments in your CSS files."
 
     stats: {
-        downloads:  2520263
+        downloads:  2579295
         updated_at: 1724521516000
     }
 }

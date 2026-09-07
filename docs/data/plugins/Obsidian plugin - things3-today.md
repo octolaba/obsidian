@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/things3-today
 alt:
   - https://github.com/wudanyang6/obsidian-things3-today
-downloads: 3027
+downloads: 3055
 updated at: "2024-01-25T13:56:10Z"
 related to:
   - "[[GitHub - 679194040]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View and manage your Things3 Today list directly in an Obsidian pane. Mark tasks complete with one click and keep the view current with automatic 30-second refresh and a clean, simple interface."
 
     stats: {
-        downloads:  3027
+        downloads:  3055
         updated_at: 1706190970000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/verovio-music-renderer
 alt:
   - https://github.com/kpaede/Verovio-Music-Renderer
-downloads: 2171
+downloads: 2241
 updated at: "2026-06-06T10:52:43Z"
 related to:
   - "[[GitHub - 839181264]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render MEI, MusicXML, ABC and PAE scores as SVG from vault files, URLs, or code blocks and download the rendered SVG. Edit score code in a side panel with syntax highlighting, jump from rendered notes to MEI code blocks, play back scores with synchronized note highlighting, and control page turns during playback."
 
     stats: {
-        downloads:  2171
+        downloads:  2241
         updated_at: 1780743163000
     }
 }

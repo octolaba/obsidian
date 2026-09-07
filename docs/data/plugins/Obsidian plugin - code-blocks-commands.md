@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/code-blocks-commands
 alt:
   - https://github.com/dragonish/code-blocks-commands
-downloads: 493
+downloads: 513
 updated at: "2025-07-07T13:06:51Z"
 related to:
   - "[[GitHub - 1012464372]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert code blocks with markup directly into notes. Trigger the markup selection menu by typing backticks. Sort and customize language markups, adding custom syntax, names, and titles for quick retrieval."
 
     stats: {
-        downloads:  493
+        downloads:  513
         updated_at: 1751893611000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graphforge
 alt:
   - https://github.com/landnthrn/Obsidian-GraphForge
-downloads: 154
+downloads: 170
 updated at: "2026-05-15T21:43:15Z"
 related to:
   - "[[GitHub - 1158166987]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and maintain a folder-based graph view by generating hidden hub notes for each folder and linking contained notes to their folder nodes. Display quick-access hub notes for each folder to navigate and visualize folder relationships in the graph."
 
     stats: {
-        downloads:  154
+        downloads:  170
         updated_at: 1778881395000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tagescape
 alt:
   - https://github.com/bkindler/obsidian-tagescape
-downloads: 412
+downloads: 494
 updated at: "2026-03-30T20:08:53Z"
 related to:
   - "[[GitHub - 1196551288]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Suppress inline tag recognition so #words in note body remain plain text and lose tag styling and click behavior. Keep only tags defined in frontmatter visible to the tag pane, tag search, and tag styling."
 
     stats: {
-        downloads:  412
+        downloads:  494
         updated_at: 1774901333000
     }
 }

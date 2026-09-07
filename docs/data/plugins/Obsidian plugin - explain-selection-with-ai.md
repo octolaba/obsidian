@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/explain-selection-with-ai
 alt:
   - https://github.com/bwurster/explain-selection-with-ai
-downloads: 5695
+downloads: 5761
 updated at: "2024-06-19T02:32:04Z"
 related to:
   - "[[GitHub - 805638973]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Explain selected text using an AI chat-completion model from the editor context menu. Generate contextual, expanded explanations that consider surrounding notes and the selected passage."
 
     stats: {
-        downloads:  5695
+        downloads:  5761
         updated_at: 1718764324000
     }
 }

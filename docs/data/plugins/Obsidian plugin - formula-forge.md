@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/formula-forge
 alt:
   - https://github.com/unxok/obsidian-formula-forge
-downloads: 210
+downloads: 255
 updated at: "2026-06-14T10:56:45Z"
 related to:
   - "[[GitHub - 1240227183]]"
@@ -36,7 +36,7 @@ plugin: {
     description: "Render bases formulas in your notes, define global formulas and functions, and more formula-related features. - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  210
+        downloads:  255
         updated_at: 1781434605000
     }
 }

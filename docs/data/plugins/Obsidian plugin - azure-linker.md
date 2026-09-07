@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/azure-linker
 alt:
   - https://github.com/srz2/obsidian-azure-devops-linker
-downloads: 933
+downloads: 949
 updated at: "2025-01-05T04:14:22Z"
 related to:
   - "[[GitHub - 789652114]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Link Azure DevOps work items to their web URL or to a local issue folder, creating the folder and main info file if missing. Insert links from the editor or by entering an ID, and support multiple Azure instances with a default for quick linking."
 
     stats: {
-        downloads:  933
+        downloads:  949
         updated_at: 1736050462000
     }
 }

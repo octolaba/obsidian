@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/code-link
 alt:
   - https://github.com/observerw/obsidian-code-link
-downloads: 928
+downloads: 946
 updated at: "2024-10-27T08:52:54Z"
 related to:
   - "[[GitHub - 819411577]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Link to code files like notes and preview only the parts you care about, referencing specific classes, functions, or methods. Import projects, search symbols or tags, and use hover or embed previews to display focused code snippets inline."
 
     stats: {
-        downloads:  928
+        downloads:  946
         updated_at: 1730019174000
     }
 }

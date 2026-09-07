@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/language-learn
 alt:
   - https://github.com/mizu1/obsidian-languageLearnCopilot
-downloads: 165
+downloads: 197
 updated at: "2026-05-23T15:54:26Z"
 related to:
   - "[[GitHub - 1247612349]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Analyze selected words or phrases with AI to create structured notes showing part of speech, pronunciation, morphology, derivations, and contextual example sentences. Preview meanings and etymology on hover, reinterpret notes in context, chat with an AI sidebar, highlight known vocabulary, and generate verified synonym/antonym/cognate relationships."
 
     stats: {
-        downloads:  165
+        downloads:  197
         updated_at: 1779551666000
     }
 }

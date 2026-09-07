@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/scholar-quest
 alt:
   - https://github.com/zhao-jun-yong/scholar-quest
-downloads: 165
+downloads: 394
 updated at: "2026-05-25T00:12:02Z"
 related to:
   - "[[GitHub - 1242127973]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Gamify academic work with XP, levels, milestones, and tiered avatars that evolve as you level up. Award XP automatically for paper reading (keyword emoji progression), atomic-note creation, and manuscript writing; log offline activities in seconds and track achievements, active projects, and daily gains in the sidebar and status bar."
 
     stats: {
-        downloads:  165
+        downloads:  394
         updated_at: 1779667922000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/specorator
 alt:
   - https://github.com/luis85/specorator
-downloads: 139
-updated at: "2026-07-15T17:25:22Z"
+downloads: 193
+updated at: "2026-07-24T17:55:45Z"
 related to:
   - "[[GitHub - 1226358160]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Plan, run, review, and record work with AI agents inside your Obsidian vault, saving drafts, chats, summaries, and edits as notes you keep. Run provider-native agents that read/write files, run searches and bash, execute multi-step workflows, manage handoffs on an agent Kanban board, fire saved prompts from vault notes, and preview edits before applying them."
 
     stats: {
-        downloads:  139
-        updated_at: 1784136322000
+        downloads:  193
+        updated_at: 1784915745000
     }
 }
 ```

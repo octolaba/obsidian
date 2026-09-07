@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wk-image-caption
 alt:
   - https://github.com/bcs1037/wk-image-caption
-downloads: 345
+downloads: 404
 updated at: "2026-05-29T01:38:01Z"
 related to:
   - "[[GitHub - 1252617801]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show readable, customizable captions beneath images in Live Preview and Reading Mode, supporting standard Markdown images, Obsidian wiki embeds, and external hosts. Strip image sizing parameters to extract pure caption text, fall back to file names when none exist, and preserve layout (including popout windows) with CSS fixes."
 
     stats: {
-        downloads:  345
+        downloads:  404
         updated_at: 1780018681000
     }
 }

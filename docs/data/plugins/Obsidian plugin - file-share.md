@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-share
 alt:
   - https://github.com/muckmuck96/obsidian-file-share
-downloads: 1008
+downloads: 1045
 updated at: "2026-06-02T10:37:01Z"
 related to:
   - "[[GitHub - 825779065]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Share Obsidian files end-to-end encrypted between vaults over a socket server. Exchange a key to add friends to a friendlist and transfer files directly, using the default hosted server or running your own socket server."
 
     stats: {
-        downloads:  1008
+        downloads:  1045
         updated_at: 1780396621000
     }
 }

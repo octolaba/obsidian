@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/google-keep-import
 alt:
   - https://github.com/daledesilva/obsidian_google-keep-import
-downloads: 10415
+downloads: 10544
 updated at: "2024-04-20T05:40:13Z"
 related to:
   - "[[GitHub - 582307424]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import exported Google Keep notes and attachments into Obsidian, including standalone binary files even without matching notes. Display a real-time error log for failed or unsupported files so you can cancel, edit, or retry imports."
 
     stats: {
-        downloads:  10415
+        downloads:  10544
         updated_at: 1713591613000
     }
 }

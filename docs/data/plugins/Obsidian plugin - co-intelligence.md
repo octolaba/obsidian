@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/co-intelligence
 alt:
   - https://github.com/epistemic-technology/co-intelligence
-downloads: 379
+downloads: 420
 updated at: "2026-05-15T20:24:24Z"
 related to:
   - "[[GitHub - 967684530]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat, search, and research with multiple AI models directly inside Obsidian's main window. Save conversations as Markdown notes, add notes and tags as contextual inputs, switch models mid-chat, define custom system prompts, and auto-rename chats."
 
     stats: {
-        downloads:  379
+        downloads:  420
         updated_at: 1778876664000
     }
 }

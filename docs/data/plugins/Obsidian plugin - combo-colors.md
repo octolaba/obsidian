@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/combo-colors
 alt:
   - https://github.com/kevinkickback/Combo-Colors
-downloads: 597
+downloads: 630
 updated at: "2026-05-30T04:04:46Z"
 related to:
   - "[[GitHub - 913076227]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render fighting-game combo notation into color-coded icons or styled text using preset profiles (Arc System Works, Traditional, Modern) or your own custom profiles. Toggle inline between text and icon modes and customize colors and notation inputs per profile."
 
     stats: {
-        downloads:  597
+        downloads:  630
         updated_at: 1780113886000
     }
 }

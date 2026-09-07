@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/regex-mark
 alt:
   - https://github.com/mara-li/obsidian-regex-mark
-downloads: 8393
+downloads: 8479
 updated at: "2026-05-19T09:19:35Z"
 related to:
   - "[[GitHub - 724560856]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add custom CSS classes to matching text using regular expressions. Wrap matches in span tags with data-contents for precise styling, and employ named capture groups or {{open:regex}}/{{close:regex}} markers to create nested classes or custom markdown-like tags."
 
     stats: {
-        downloads:  8393
+        downloads:  8479
         updated_at: 1779182375000
     }
 }

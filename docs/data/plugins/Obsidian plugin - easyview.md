@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/easyview
 alt:
   - https://github.com/ducktapekiller/obsidian-easyview
-downloads: 560
+downloads: 697
 updated at: "2026-05-15T20:45:43Z"
 related to:
   - "[[GitHub - 1133197988]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Control view settings from the status bar, right-click menu, ribbon or keyboard shortcuts — adjust global font size, toggle light/dark theme, and switch between Source, Live Preview and Reading View. Access the same controls on mobile via a navigation shortcut and enter Focus or Zen modes to hide sidebars and interface chrome for distraction-free writing."
 
     stats: {
-        downloads:  560
+        downloads:  697
         updated_at: 1778877943000
     }
 }

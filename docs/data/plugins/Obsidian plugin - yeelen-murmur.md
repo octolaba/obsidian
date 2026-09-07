@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/yeelen-murmur
 alt:
   - https://github.com/fanxiaofang/obsidian-murmur
-downloads: 112
+downloads: 120
 updated at: "2026-05-16T07:38:47Z"
 related to:
   - "[[GitHub - 1237323317]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Record inner monologues in a retro-terminal interface that auto-extracts entries from daily notes into a time-ordered timeline. Visualize habits with an activity heatmap, explore tags and stats, refine history with advanced filter paradigms, and play ambient zen background music."
 
     stats: {
-        downloads:  112
+        downloads:  120
         updated_at: 1778917127000
     }
 }

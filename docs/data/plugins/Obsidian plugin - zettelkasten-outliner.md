@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zettelkasten-outliner
 alt:
   - https://github.com/tylersuzukinelson/zettelkasten-outliner
-downloads: 4063
+downloads: 4080
 updated at: "2023-12-07T18:39:52Z"
 related to:
   - "[[GitHub - 699615620]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a hierarchical outline for the open note and its Zettelkasten children using the note's frontmatter parent link. Generate the outline into a new note for quick navigation and overview of related notes."
 
     stats: {
-        downloads:  4063
+        downloads:  4080
         updated_at: 1701974392000
     }
 }

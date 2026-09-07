@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/formula-library
 alt:
   - https://github.com/strangelion/obsidian-formula-library
-downloads: 265
+downloads: 421
 updated at: "2026-06-27T15:31:07Z"
 related to:
   - "[[GitHub - 1275396798]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit LaTeX formulas with a MathLive WYSIWYG editor that provides real-time preview, a virtual keyboard, and a visual/source toggle. Insert from 2,100+ categorized formulas with smart search (pinyin, LaTeX aliases, fuzzy matching), add custom formula folders, and edit inline or via a sidebar quick-insert."
 
     stats: {
-        downloads:  265
+        downloads:  421
         updated_at: 1782574267000
     }
 }

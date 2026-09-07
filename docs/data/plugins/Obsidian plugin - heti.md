@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/heti
 alt:
   - https://github.com/moeyua/obsidian-heti
-downloads: 3311
+downloads: 3350
 updated at: "2024-05-11T06:05:36Z"
 related to:
   - "[[GitHub - 798666679]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Apply traditional Chinese typography rules to Obsidian to improve readability of Chinese notes. Render punctuation, spacing, and line-breaking according to common Chinese typesetting conventions for a cleaner reading experience."
 
     stats: {
-        downloads:  3311
+        downloads:  3350
         updated_at: 1715407536000
     }
 }

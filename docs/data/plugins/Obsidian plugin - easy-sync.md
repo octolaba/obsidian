@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/easy-sync
 alt:
   - https://github.com/jiaoyingxing/easy-sync
-downloads: 511
-updated at: "2026-07-24T03:37:38Z"
+downloads: 2072
+updated at: "2026-08-10T10:06:30Z"
 related to:
   - "[[GitHub - 1301481667]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync notes and settings two-way with OneDrive across desktop and mobile. Protect data by comparing SHA-256 file content, surfacing conflicts side-by-side with highlighted differences and keeping failed or skipped files listed in the sidebar. Choose what to sync per item and rely on fast, low-overhead incremental syncs."
 
     stats: {
-        downloads:  511
-        updated_at: 1784864258000
+        downloads:  2072
+        updated_at: 1786356390000
     }
 }
 ```

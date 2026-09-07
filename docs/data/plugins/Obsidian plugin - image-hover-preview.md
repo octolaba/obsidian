@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-hover-preview
 alt:
   - https://github.com/shin2w/obsidian-hover-preview
-downloads: 119
+downloads: 168
 updated at: "2026-06-30T03:31:11Z"
 related to:
   - "[[GitHub - 1205727063]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview original images by hovering over any image to open a floating full-size preview. Zoom the preview with the mouse wheel and hold Ctrl to temporarily disable the hover preview."
 
     stats: {
-        downloads:  119
+        downloads:  168
         updated_at: 1782790271000
     }
 }

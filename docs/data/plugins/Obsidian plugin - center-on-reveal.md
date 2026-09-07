@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/center-on-reveal
 alt:
   - https://github.com/toadfans/obsidian-center-on-reveal
-downloads: 91
+downloads: 114
 updated at: "2026-06-08T16:10:50Z"
 related to:
   - "[[GitHub - 1262641080]]"
@@ -28,7 +28,7 @@ Center on Reveal keeps the file explorer on the active file by enabling auto-rev
 plugin: {
     id:     "center-on-reveal"
     name:   "Center on Reveal"
-    author: "toadfans"
+    author: "astroyhs"
     repo:   "toadfans/obsidian-center-on-reveal"
 
     html_url:    "https://community.obsidian.md/plugins/center-on-reveal"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep the file explorer focused on the active file by enabling auto-reveal at startup, centering the revealed row, and applying Obsidian's native flash highlight. Rely on built-in explorer behavior without adding commands, settings, network calls, telemetry, or custom CSS."
 
     stats: {
-        downloads:  91
+        downloads:  114
         updated_at: 1780935050000
     }
 }

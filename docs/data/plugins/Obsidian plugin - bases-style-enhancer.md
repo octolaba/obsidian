@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bases-style-enhancer
 alt:
   - https://github.com/uniqueclone/bases-style-enhancer
-downloads: 453
+downloads: 517
 updated at: "2026-01-21T15:28:47Z"
 related to:
   - "[[GitHub - 1139119325]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Adjust Bases table font size globally to improve readability across all Bases views. Choose rem or px units and optionally apply the same size to table headers for consistent table styling."
 
     stats: {
-        downloads:  453
+        downloads:  517
         updated_at: 1769009327000
     }
 }

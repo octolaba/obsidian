@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wedding-computer-sync
 alt:
   - https://github.com/joshwithers/wedding-computer-sync
-downloads: 67
+downloads: 75
 updated at: "2026-06-10T09:17:07Z"
 related to:
   - "[[GitHub - 1264531282]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault with wedding.computer as plain Markdown files, including contacts, weddings, checklists, and read-only logs. Push and pull changes in seconds with two-way reconciliation; preserve conflicted local edits as <name>.conflict.md while the server remains the source of truth."
 
     stats: {
-        downloads:  67
+        downloads:  75
         updated_at: 1781083027000
     }
 }

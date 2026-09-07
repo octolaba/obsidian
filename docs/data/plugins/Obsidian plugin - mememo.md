@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mememo
 alt:
   - https://github.com/usero2/obsidian-plugins-mememo
-downloads: 95
+downloads: 111
 updated at: "2026-06-16T17:21:19Z"
 related to:
   - "[[GitHub - 1271442902]]"
@@ -36,7 +36,7 @@ plugin: {
     description: "Capture memos with file attachments, tags, and todos — inspired by usememos - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  95
+        downloads:  111
         updated_at: 1781630479000
     }
 }

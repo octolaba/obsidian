@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-open-link-with
 alt:
   - https://github.com/mamoruds/obsidian-open-link-with
-downloads: 20051
+downloads: 20231
 updated at: "2023-02-01T08:52:54Z"
 related to:
   - "[[GitHub - 357832869]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open external links in the browser you choose and add custom browser profiles with command paths and arguments. Define modifier-key and mouse-button bindings to open links with different profiles, matched top-to-bottom. Set a global browser for default clicks."
 
     stats: {
-        downloads:  20051
+        downloads:  20231
         updated_at: 1675241574000
     }
 }

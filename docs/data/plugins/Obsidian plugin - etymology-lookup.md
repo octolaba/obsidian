@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/etymology-lookup
 alt:
   - https://github.com/clairefro/obsidian-plugin-etymology-lookup
-downloads: 5726
+downloads: 5795
 updated at: "2025-04-11T14:58:43Z"
 related to:
   - "[[GitHub - 764909155]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Lookup etymology of English words directly from your notes via the Online Etymology Dictionary. Highlight a word or part of a word to search, ensure an internet connection to fetch results, and copy entries to your clipboard with a click."
 
     stats: {
-        downloads:  5726
+        downloads:  5795
         updated_at: 1744383523000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/shortcuts
 alt:
   - https://github.com/jsmorabito/Obsidian-Shortcuts
-downloads: 237
-updated at: "2026-07-11T21:04:16Z"
+downloads: 656
+updated at: "2026-08-06T23:13:19Z"
 related to:
   - "[[GitHub - 1208728648]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Trigger any Obsidian command, custom action, or UI element by chaining single keys, modifier combos, or full key sequences. Open shortcut mode from the status-bar scissors to see matching, context-aware shortcuts, helpers and notifications; listening pauses when you focus an editor so normal typing works."
 
     stats: {
-        downloads:  237
-        updated_at: 1783803856000
+        downloads:  656
+        updated_at: 1786057999000
     }
 }
 ```

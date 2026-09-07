@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/postbox
 alt:
   - https://github.com/istefox/Postbox
-downloads: 207
+downloads: 347
 updated at: "2026-06-24T09:31:28Z"
 related to:
   - "[[GitHub - 1278377505]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import .eml and .msg files into native Markdown notes. Convert email HTML to clean Markdown, save attachments to disk and link them, render inline images in-place, write Dataview-friendly YAML frontmatter (sender, recipients, subject, date, Message-ID, attachments), and import manually or via a watch folder while skipping duplicates by Message-ID."
 
     stats: {
-        downloads:  207
+        downloads:  347
         updated_at: 1782293488000
     }
 }

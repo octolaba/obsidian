@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/checkbox-styling-helper
 alt:
   - https://github.com/jaewone/checkbox-styling-helper
-downloads: 2941
+downloads: 3027
 updated at: "2026-07-08T09:54:12Z"
 related to:
   - "[[GitHub - 818495713]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Icon Bullet Helper is an Obsidian plugin that turns simple Markdown markers such as `{p}`, `{important}`, or `{next-step}` into clean, theme-independent SVG icon bullets in Live Preview and Reading view. Your notes remain plain, portable Markdown, while the plugin adds an icon picker, callout-style bullets, customizable labels, colors, SVG markup, and layout options. It works locally without telemetry or external data transfer."
 
     stats: {
-        downloads:  2941
+        downloads:  3027
         updated_at: 1783504452000
     }
 }

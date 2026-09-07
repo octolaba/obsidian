@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-rewrite
 alt:
   - https://github.com/masaki39/obsidian-ai-rewrite
-downloads: 137
+downloads: 185
 updated at: "2026-07-11T11:36:36Z"
 related to:
   - "[[GitHub - 1279757188]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Rewrite the current line or a selection with local AI (Ollama) and preview the suggestion as a ghost line below; press Tab to apply or Esc to dismiss. Preserve Markdown prefixes, offer Proofread and Translate modes, and trigger on demand, on line leave, or while typing."
 
     stats: {
-        downloads:  137
+        downloads:  185
         updated_at: 1783769796000
     }
 }

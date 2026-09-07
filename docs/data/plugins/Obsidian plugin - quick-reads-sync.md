@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/quick-reads-sync
 alt:
   - https://github.com/mattbirchler/quick-reads-obsidian
-downloads: 277
-updated at: "2026-07-09T21:36:00Z"
+downloads: 333
+updated at: "2026-08-11T12:19:19Z"
 related to:
   - "[[GitHub - 1141273857]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync Quick Reads highlights into Obsidian notes, grouping by article and creating one note per article. Append new highlights to existing article notes, prevent duplicate imports, and run on startup or at a configurable interval using a customizable note template."
 
     stats: {
-        downloads:  277
-        updated_at: 1783632960000
+        downloads:  333
+        updated_at: 1786450759000
     }
 }
 ```

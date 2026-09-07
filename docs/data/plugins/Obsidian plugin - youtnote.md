@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/youtnote
 alt:
   - https://github.com/khaldevmedia/obsidian-youtnote
-downloads: 836
+downloads: 880
 updated at: "2026-05-17T16:32:55Z"
 related to:
   - "[[GitHub - 1177834468]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Take timestamped Markdown notes with live preview editing across multiple embedded YouTube videos, all inside a single Obsidian note. Then, if you want, export everything back to clean Markdown. Youtnote keeps the video player and your research notes in lockstep so you never lose the context of what you were watching. Works on desktop and mobile."
 
     stats: {
-        downloads:  836
+        downloads:  880
         updated_at: 1779035575000
     }
 }

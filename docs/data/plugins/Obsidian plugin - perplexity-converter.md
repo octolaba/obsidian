@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/perplexity-converter
 alt:
   - https://github.com/heseber/perplexity-converter
-downloads: 5433
+downloads: 5523
 updated at: "2025-06-23T21:29:24Z"
 related to:
   - "[[GitHub - 880804602]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fix bracketed Perplexity citations in pasted text so inline references like [1][2] become clickable links to their corresponding source entries. Process only the current selection and update the reference list to create working anchors without altering the rest of the note."
 
     stats: {
-        downloads:  5433
+        downloads:  5523
         updated_at: 1750714164000
     }
 }

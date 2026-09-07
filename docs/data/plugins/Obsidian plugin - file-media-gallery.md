@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-media-gallery
 alt:
   - https://github.com/jagajaga/obsidian-file-media-gallery
-downloads: 126
+downloads: 177
 updated at: "2026-06-29T09:06:35Z"
 related to:
   - "[[GitHub - 1283815286]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show all media referenced by a note in a per-type gallery with tabs for Images, Video, Audio, PDF and other files. Open thumbnails in a fullscreen lightbox with sequential navigation and open external files directly, gathering media from both vault attachments and external URLs."
 
     stats: {
-        downloads:  126
+        downloads:  177
         updated_at: 1782723995000
     }
 }

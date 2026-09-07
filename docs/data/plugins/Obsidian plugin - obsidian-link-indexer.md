@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-link-indexer
 alt:
   - https://github.com/aviskase/obsidian-link-indexer
-downloads: 7877
+downloads: 8180
 updated at: "2020-12-05T21:22:13Z"
 related to:
   - "[[GitHub - 309925738]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create index notes that list and count links across your vault according to flexible rules. Use named presets to run reports (used links, non-existent targets, embed counts) and toggle wiki-link output, strict line breaks, and regex-based excludes for source or target files."
 
     stats: {
-        downloads:  7877
+        downloads:  8180
         updated_at: 1607203333000
     }
 }

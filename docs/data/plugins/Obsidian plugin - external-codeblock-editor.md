@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/external-codeblock-editor
 alt:
   - https://github.com/glebglazov/obsidian-external-codeblock-editor
-downloads: 310
+downloads: 398
 updated at: "2025-12-30T11:40:22Z"
 related to:
   - "[[GitHub - 1043177660]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit any codeblock in your preferred external editor using language-aware temporary files. Detect languages to set proper file extensions and sync saved changes back to the note automatically, with a configurable terminal/editor command and support for 30+ languages."
 
     stats: {
-        downloads:  310
+        downloads:  398
         updated_at: 1767094822000
     }
 }

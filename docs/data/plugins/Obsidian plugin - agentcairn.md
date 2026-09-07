@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/agentcairn
 alt:
   - https://github.com/ccf/agentcairn-obsidian
-downloads: 127
+downloads: 161
 updated at: "2026-06-21T16:27:43Z"
 related to:
   - "[[GitHub - 1270688166]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "agentcairn stores your AI coding agent's long-term memory as plain Markdown in a vault you own, and this plugin is the window into it: an interactive Memory view with a force-directed graph of related memories (colored by project, sized by importance), a filterable list, and a provenance panel showing where each memory came from and whether it's still current. It's read-only and local-only — it reads only your notes' frontmatter, never your note bodies, never writes to your vault, and makes no network requests. It pairs with the agentcairn CLI and MCP server, so one vault is the shared memory across Claude Code, Codex, Cursor, and any MCP host. Free and open source, Apache-2.0."
 
     stats: {
-        downloads:  127
+        downloads:  161
         updated_at: 1782059263000
     }
 }

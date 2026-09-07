@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/unwritten
 alt:
   - https://github.com/israerusan/unwritten
-downloads: 20
-updated at: "2026-07-17T00:04:25Z"
+downloads: 41
+updated at: "2026-07-25T17:42:21Z"
 related to:
   - "[[GitHub - 1302217014]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Report unwritten connections by scanning your vault's link graph and writing a Gap Report.md that lists unexplained link pairs, stub hubs, and decisions lacking stated rationale. Use link patterns, word counts, and frontmatter to flag thin spots; treat the report as a prompt, not a task list."
 
     stats: {
-        downloads:  20
-        updated_at: 1784246665000
+        downloads:  41
+        updated_at: 1785001341000
     }
 }
 ```

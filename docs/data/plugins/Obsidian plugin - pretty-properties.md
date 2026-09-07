@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pretty-properties
 alt:
   - https://github.com/anareaty/pretty-properties
-downloads: 236050
+downloads: 255814
 updated at: "2026-05-28T18:23:21Z"
 related to:
   - "[[GitHub - 996178641]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Make metadata blocks more visually appealing with cover images, banners, icons, and color accents. Add covers, banners, or icons from local files, external links, or icon names, customize shapes and sizes, and hide properties to keep notes tidy."
 
     stats: {
-        downloads:  236050
+        downloads:  255814
         updated_at: 1779992601000
     }
 }

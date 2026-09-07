@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-dropbox-backups
 alt:
   - https://github.com/ryanpcmcquen/obsidian-dropbox-backups
-downloads: 11754
+downloads: 11791
 updated at: "2021-12-27T05:20:30Z"
 related to:
   - "[[GitHub - 369670376]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Back up your entire vault to Dropbox every 20 minutes, starting after a 10-minute delay, and trigger manual backups anytime from the ribbon icon. Save backups under /Apps/Obsidian Backups/VAULT_NAME/YEAR/MONTH/DAY/TIME_WITH_FRACTIONAL_SECONDS to avoid collisions, and optionally exclude non-text files so only md, org and txt files are uploaded."
 
     stats: {
-        downloads:  11754
+        downloads:  11791
         updated_at: 1640582430000
     }
 }

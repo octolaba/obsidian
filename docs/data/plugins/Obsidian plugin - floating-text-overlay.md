@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/floating-text-overlay
 alt:
   - https://github.com/liaoqiuyi681-blip/floating-text-overlay
-downloads: 56
+downloads: 76
 updated at: "2026-07-04T17:50:39Z"
 related to:
   - "[[GitHub - 1286949362]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create movable, resizable Markdown annotations that attach to specific parts of a note and move with the document when you scroll. Link annotations to selected text for interactive show/hide, switch between Markdown and rendered preview, and style each label independently without changing the original file."
 
     stats: {
-        downloads:  56
+        downloads:  76
         updated_at: 1783187439000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/blackboard
 alt:
   - https://github.com/jameswolensky/obsidian-blackboard
-downloads: 509
+downloads: 825
 updated at: "2026-07-14T16:29:19Z"
 related to:
   - "[[GitHub - 1290351580]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Draw pressure-sensitive strokes with Apple Pencil or stylus directly in Canvas nodes and Markdown embeds, with palm rejection and touch navigation so you can write in place without opening a separate editor. Use pen, highlighter, and eraser with a shared floating toolbar, keep per-embed sizing, optionally export SVGs, and save drawings as human-readable .blackboard JSON."
 
     stats: {
-        downloads:  509
+        downloads:  825
         updated_at: 1784046559000
     }
 }

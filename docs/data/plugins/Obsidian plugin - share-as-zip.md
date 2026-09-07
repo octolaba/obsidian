@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/share-as-zip
 alt:
   - https://github.com/friebetill/obsidian-share-as-zip
-downloads: 1292
+downloads: 1335
 updated at: "2025-06-17T07:28:29Z"
 related to:
   - "[[GitHub - 881036218]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export the current note and all linked notes as a ZIP archive, including binary files like PDFs and images. Configure frontmatter, header, folder, and file exclusions to skip private or unwanted content. Compress and prompt a Save As dialog for easy sharing or backup."
 
     stats: {
-        downloads:  1292
+        downloads:  1335
         updated_at: 1750145309000
     }
 }

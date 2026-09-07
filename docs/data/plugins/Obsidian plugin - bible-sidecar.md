@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bible-sidecar
 alt:
   - https://github.com/janisringli/bible-sidecar-obsidian-plugin
-downloads: 1809
+downloads: 1862
 updated at: "2025-04-02T14:07:55Z"
 related to:
   - "[[GitHub - 769993160]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open the Bible sidecar panel to read scripture alongside your notes and copy verses to the clipboard. Select Bible versions, navigate chapters, and click verses to insert them directly into your notes."
 
     stats: {
-        downloads:  1809
+        downloads:  1862
         updated_at: 1743602875000
     }
 }

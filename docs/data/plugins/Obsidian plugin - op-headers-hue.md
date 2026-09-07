@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/op-headers-hue
 alt:
   - https://github.com/markcrobbins2112/op-headers-hue
-downloads:
-updated at:
+downloads: 29
+updated at: "2026-07-25T15:29:46Z"
 related to:
   - "[[GitHub - 1281091710]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/markcrobbins2112/op-headers-hue"
     description: "Colors markdown headers from H1-H6, adds directional gradient borders, handles hover lightening, and plays custom hue shifts during fold state updates. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Color Markdown headers H1–H6 with directional gradient borders and distinct hues per level. Lighten header colors on hover and animate custom hue shifts when folding or updating header states."
+
+    stats: {
+        downloads:  29
+        updated_at: 1784993386000
+    }
 }
 ```
 

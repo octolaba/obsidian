@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/longtime-diary
 alt:
   - https://github.com/sawamaru/obsidian-LongtimeDiary
-downloads: 1450
+downloads: 1494
 updated at: "2026-02-16T11:54:57Z"
 related to:
   - "[[GitHub - 1009358958]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display past Daily notes that share the same day-of-month directly inside your current Daily note. Place a LongtimeDiary code block in the Daily note to search and render previous entries for that day across your vault."
 
     stats: {
-        downloads:  1450
+        downloads:  1494
         updated_at: 1771242897000
     }
 }

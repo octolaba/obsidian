@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/subdivider
 alt:
   - https://github.com/mediosz/obsidian-subdivider
-downloads: 4643
+downloads: 4693
 updated at: "2024-08-14T02:47:03Z"
 related to:
   - "[[GitHub - 710849921]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert long notes into nested folders and separate Markdown files for each top-level subheading. Split selections into new files, preserve header hierarchy, support recursive subdivision into deeper headings, and sanitize filenames by replacing problematic characters."
 
     stats: {
-        downloads:  4643
+        downloads:  4693
         updated_at: 1723603623000
     }
 }

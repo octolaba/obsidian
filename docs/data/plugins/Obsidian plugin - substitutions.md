@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/substitutions
 alt:
   - https://github.com/bambuscontrol/obsidian-substitutions
-downloads: 8189
+downloads: 8460
 updated at: "2026-04-05T12:38:43Z"
 related to:
   - "[[GitHub - 801125973]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Replace text fragments with symbols or custom text as you type in the editor, using included defaults like --> → and 1/2 → ½. Manage and edit built-in or custom rules, enable regex patterns that match text ending at the cursor, and apply substitutions only during direct typing (not retroactive or pasted content)."
 
     stats: {
-        downloads:  8189
+        downloads:  8460
         updated_at: 1775392723000
     }
 }

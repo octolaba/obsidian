@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/visited-countries
 alt:
   - https://github.com/ivanpeshykov/obsidian-visited-countries
-downloads: 962
+downloads: 999
 updated at: "2026-03-05T07:18:33Z"
 related to:
   - "[[GitHub - 1029524682]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mark and visualize countries you've visited on an interactive world map inside your vault. View built-in stats with totals and coverage percentage and link countries to travel notes or logs. Keep all data local and use on iOS and Android."
 
     stats: {
-        downloads:  962
+        downloads:  999
         updated_at: 1772695113000
     }
 }

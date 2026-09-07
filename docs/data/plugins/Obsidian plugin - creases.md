@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/creases
 alt:
   - https://github.com/liamcain/obsidian-creases
-downloads: 42506
+downloads: 43519
 updated at: "2026-05-12T14:17:40Z"
 related to:
   - "[[GitHub - 336591817]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fold markdown sections using %% fold %% markers called creases and run Fold along creases to restore saved fold states. Toggle creases, crease current folds, and iron out creases to manage and remove saved fold layouts. Fold by heading level or change fold level for vim-style control."
 
     stats: {
-        downloads:  42506
+        downloads:  43519
         updated_at: 1778595460000
     }
 }

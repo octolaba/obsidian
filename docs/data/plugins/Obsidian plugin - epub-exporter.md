@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/epub-exporter
 alt:
   - https://github.com/johannes-kaindl/epub-exporter
-downloads: 34
-updated at: "2026-07-23T17:04:54Z"
+downloads: 132
+updated at: "2026-07-24T15:54:25Z"
 related to:
   - "[[GitHub - 1306506891]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Export notes as EPUB3—individually or as a complete book of ordered, embedded chapters. Use a book note as the sole source of truth: Frontmatter provides metadata and embeds form the chapter spine; override chapters with `chapter_title` or exclude them with `epub_exclude`."
 
     stats: {
-        downloads:  34
-        updated_at: 1784826294000
+        downloads:  132
+        updated_at: 1784908465000
     }
 }
 ```

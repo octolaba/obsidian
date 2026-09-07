@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/multilingual-ocr
 alt:
   - https://github.com/ahmedexe/obsidian-images-ocr
-downloads: 579
+downloads: 934
 updated at: "2026-05-27T17:11:03Z"
 related to:
   - "[[GitHub - 1000091045]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extract text from images in over 100 languages, including RTL scripts like Arabic. Save OCR results to the clipboard or display them in a sidebar for easy highlighting and copying. Run OCR on the last image in the active note, by file path, or via right-click in the file explorer."
 
     stats: {
-        downloads:  579
+        downloads:  934
         updated_at: 1779901863000
     }
 }

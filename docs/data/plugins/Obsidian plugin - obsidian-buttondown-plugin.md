@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-buttondown-plugin
 alt:
   - https://github.com/caro401/obsidian-buttondown
-downloads: 4217
+downloads: 4236
 updated at: "2025-10-28T15:58:24Z"
 related to:
   - "[[GitHub - 472054852]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create Buttondown newsletter drafts from Obsidian notes with a single command. Use the note filename as the email subject, the note content as the email body, and upload referenced images to Buttondown via its API."
 
     stats: {
-        downloads:  4217
+        downloads:  4236
         updated_at: 1761667104000
     }
 }

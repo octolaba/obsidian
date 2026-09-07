@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-relation-pane
 alt:
   - https://github.com/mottox2/obsidian-relation-pane
-downloads: 6504
+downloads: 6589
 updated at: "2024-02-12T06:31:47Z"
 related to:
   - "[[GitHub - 549646738]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display linked and referring notes in a right‑sidebar pane to summarize relationships between notes. List outgoing links, incoming links, and links that point to uncreated notes so you can spot connections and missing targets at a glance."
 
     stats: {
-        downloads:  6504
+        downloads:  6589
         updated_at: 1707719507000
     }
 }

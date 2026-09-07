@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/double-row-toolbar
 alt:
   - https://github.com/lorens-osman-dev/double-row-toolbar
-downloads: 2964
+downloads: 3045
 updated at: "2026-05-07T18:59:26Z"
 related to:
   - "[[GitHub - 953816853]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a second row to Obsidian's mobile toolbar to expose additional quick-access buttons. Place extra editing commands, like Delete current line, on the extra row for faster mobile note editing."
 
     stats: {
-        downloads:  2964
+        downloads:  3045
         updated_at: 1778180366000
     }
 }

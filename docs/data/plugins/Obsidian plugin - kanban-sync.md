@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kanban-sync
 alt:
   - https://github.com/jcacdc/obsidian-kanban-sync
-downloads: 1321
+downloads: 1549
 updated at: "2026-05-10T02:21:04Z"
 related to:
   - "[[GitHub - 1234282826]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Kanban card column changes to the linked note's frontmatter state field automatically when cards move between columns. Monitor multiple Kanban files and use column names (detected from headings) as the state value in uppercase."
 
     stats: {
-        downloads:  1321
+        downloads:  1549
         updated_at: 1778379664000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/emo-uploader
 alt:
   - https://github.com/yaleiyale/obsidian-emo-uploader
-downloads: 5801
+downloads: 5833
 updated at: "2024-08-10T05:44:26Z"
 related to:
   - "[[GitHub - 552224538]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload images and files to multiple hosting services and embed Markdown links directly into notes. Support clipboard and drag-and-drop, output inline images or plain file links, and connect to GitHub, Imgur, Cloudinary, SM.MS, Catbox and other providers with multilingual support."
 
     stats: {
-        downloads:  5801
+        downloads:  5833
         updated_at: 1723268666000
     }
 }

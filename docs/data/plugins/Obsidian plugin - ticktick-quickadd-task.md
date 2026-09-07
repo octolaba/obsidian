@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ticktick-quickadd-task
 alt:
   - https://github.com/heymoosh/ticktick-quick-add-obsidian
-downloads: 1206
+downloads: 1273
 updated at: "2026-06-05T16:22:57Z"
 related to:
   - "[[GitHub - 953745612]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create TickTick tasks from a selected paragraph and prepend a #ticktick tag to mark sent items. Append a unique block anchor and create a clickable Advanced URI link that opens the note at that exact block, using secure OAuth PKCE with automatic token refresh. Requires Advanced URI plugin."
 
     stats: {
-        downloads:  1206
+        downloads:  1273
         updated_at: 1780676577000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gdocs
 alt:
   - https://github.com/oilandrust/obsidian-gdocs
-downloads: 651
+downloads: 891
 updated at: "2026-06-21T10:55:18Z"
 related to:
   - "[[GitHub - 1259570297]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open and embed Google Drive shortcut files (.gdoc, .gsheet, .gslides, .gdraw, .gform, etc.) directly in Web View. Register those extensions in the file explorer and launch the linked Google URL in a Web View tab or your system browser."
 
     stats: {
-        downloads:  651
+        downloads:  891
         updated_at: 1782039318000
     }
 }

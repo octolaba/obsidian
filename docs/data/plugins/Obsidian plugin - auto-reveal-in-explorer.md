@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-reveal-in-explorer
 alt:
   - https://github.com/martinopolo/obsidian-auto-reveal-in-explorer
-downloads: 207
+downloads: 263
 updated at: "2026-05-19T17:42:23Z"
 related to:
   - "[[GitHub - 1159481750]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reveal the active file in the File Explorer when switching tabs or opening notes without moving keyboard focus away from the editor. Keep editor focus to prevent accidental file actions and use manual reveal or adjustable debounce timing; works on desktop and mobile."
 
     stats: {
-        downloads:  207
+        downloads:  263
         updated_at: 1779212543000
     }
 }

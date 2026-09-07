@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/excalidash-sync
 alt:
   - https://github.com/siredvin/excalidash-obsidian-sync
-downloads: 160
-updated at: "2026-05-16T21:51:10Z"
+downloads: 184
+updated at: "2026-07-31T07:26:06Z"
 related to:
   - "[[GitHub - 1237575553]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync selected Excalidraw notes to ExcaliDash by opting in with frontmatter (excalidash-destination). Configure targets with bearer-token auth and test connections. Enable bidirectional sync to pull remote changes when the local file is unchanged, and support .excalidraw/.excalidraw.md files plus optional excalidash-collection frontmatter."
 
     stats: {
-        downloads:  160
-        updated_at: 1778968270000
+        downloads:  184
+        updated_at: 1785482766000
     }
 }
 ```

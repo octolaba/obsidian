@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/drawer-explorer
 alt:
   - https://github.com/fjx-dylanz/obsidian-drawer-explorer
-downloads: 69
-updated at: "2026-07-17T16:32:48Z"
+downloads: 111
+updated at: "2026-07-29T17:41:02Z"
 related to:
   - "[[GitHub - 1294214012]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Open a modal, keyboard-first file tree focused on the tree with vim-style modal navigation and fuzzy filtering to browse and manage files without a mouse. Navigate and perform file operations—create, rename (wikilink-aware), move, copy and delete—directly in the drawer. Preview rendered Markdown, images, Canvas minimaps and .base summaries in a live pane and add more preview types via a small provider API."
 
     stats: {
-        downloads:  69
-        updated_at: 1784305968000
+        downloads:  111
+        updated_at: 1785346862000
     }
 }
 ```

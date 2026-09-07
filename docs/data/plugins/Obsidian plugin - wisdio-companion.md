@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/wisdio-companion
 alt:
   - https://github.com/young-caveman/wisdio-companion
-downloads: 64
-updated at: "2026-07-01T09:44:32Z"
+downloads: 95
+updated at: "2026-07-28T16:59:56Z"
 related to:
   - "[[GitHub - 1285796143]]"
 remind me:
@@ -28,7 +28,7 @@ Connects the vault to the Wisdio browser extension through a local companion ser
 plugin: {
     id:     "wisdio-companion"
     name:   "Wisdio Companion"
-    author: "Wisdio"
+    author: "Young Caveman"
     repo:   "young-caveman/wisdio-companion"
 
     html_url:    "https://community.obsidian.md/plugins/wisdio-companion"
@@ -37,8 +37,8 @@ plugin: {
     about:       "Connect your Obsidian vault to the Wisdio browser extension via a local companion service bound to 127.0.0.1. Create and live-sync Wisdio notes as local Markdown files, send vault file events back to Wisdio, and store new notes in a chosen folder with a customizable template and local API-key protection."
 
     stats: {
-        downloads:  64
-        updated_at: 1782899072000
+        downloads:  95
+        updated_at: 1785257996000
     }
 }
 ```

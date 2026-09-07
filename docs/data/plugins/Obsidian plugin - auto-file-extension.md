@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-file-extension
 alt:
   - https://github.com/sec-ml/obsidian-auto-file-extension
-downloads: 88
+downloads: 103
 updated at: "2026-06-03T19:14:05Z"
 related to:
   - "[[GitHub - 1168935501]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Rename file extensions automatically using a trickle-down ruleset that matches by directory path, file content (RegEx), or both. Apply the first matching rule and read file content from disk to decide the correct extension. Plugin can automatically run on file saves/modifications, or can be triggered manually with a command, allowing processing to be chained through multiple plugins. Note: By default, Obsidian can't see non-md files (another plugin will be needed to enable this, such as 'Anything as Markdown')."
 
     stats: {
-        downloads:  88
+        downloads:  103
         updated_at: 1780514045000
     }
 }

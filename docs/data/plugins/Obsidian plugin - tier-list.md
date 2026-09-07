@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tier-list
 alt:
   - https://github.com/moxalehin/TierList
-downloads: 3375
+downloads: 3452
 updated at: "2025-11-23T02:27:39Z"
 related to:
   - "[[GitHub - 778651070]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render nested Markdown lists as visual tier lists with customizable tiers, showing internal or external images and covers from a file's Image frontmatter. Rank items manually, keep unplaced items in an auto-collapsing \"To Rank\" section, and preserve Markdown links for graph connections."
 
     stats: {
-        downloads:  3375
+        downloads:  3452
         updated_at: 1763864859000
     }
 }

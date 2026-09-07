@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/git-changelog
 alt:
   - https://github.com/shumadrid/obsidian-git-changelog
-downloads: 1118
+downloads: 1143
 updated at: "2025-06-18T17:37:59Z"
 related to:
   - "[[GitHub - 946954325]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display dynamic changelogs from Git commit history in the sidebar, showing per-file and vault-level changes with lines added/deleted and counts of added, modified, moved/renamed, and deleted files. Monitor potential data loss by comparing vault states, view live per-note stats, and open Git diffs directly."
 
     stats: {
-        downloads:  1118
+        downloads:  1143
         updated_at: 1750268279000
     }
 }

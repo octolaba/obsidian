@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/slackify-note
 alt:
   - https://github.com/jeremyoverman/obsidian-slackify-note
-downloads: 3630
+downloads: 3645
 updated at: "2023-11-02T19:25:14Z"
 related to:
   - "[[GitHub - 713531968]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert an entire note or the current selection to Slack-compliant Markdown. Copy the converted text to the clipboard for quick pasting into Slack."
 
     stats: {
-        downloads:  3630
+        downloads:  3645
         updated_at: 1698953114000
     }
 }

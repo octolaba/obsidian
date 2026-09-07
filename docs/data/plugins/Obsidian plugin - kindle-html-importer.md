@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kindle-html-importer
 alt:
   - https://github.com/l2xu/kindle_html_importer
-downloads: 6362
+downloads: 6519
 updated at: "2026-04-15T05:34:18Z"
 related to:
   - "[[GitHub - 749694512]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Kindle highlights from an exported HTML file and convert them into a clean Markdown note. Save the converted note to a specified folder in your vault for easy linking and search."
 
     stats: {
-        downloads:  6362
+        downloads:  6519
         updated_at: 1776231258000
     }
 }

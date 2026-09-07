@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lighterpack-importer
 alt:
   - https://github.com/nsiniscalchi/LighterPackObsidianImporter
-downloads: 130
+downloads: 137
 updated at: "2026-03-05T20:43:18Z"
 related to:
   - "[[GitHub - 1070207074]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import shared LighterPack packing lists via their public share link and convert them into structured Markdown stored in your vault. Create category folders, individual item notes, and a summary page showing totals, category breakdowns, and a weight-distribution pie chart for offline viewing and editing."
 
     stats: {
-        downloads:  130
+        downloads:  137
         updated_at: 1772743398000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-viewer
 alt:
   - https://github.com/zhouzeqiang/obsidian-vault-viewer
-downloads: 514
+downloads: 812
 updated at: "2026-07-20T01:30:08Z"
 related to:
   - "[[GitHub - 1280128984]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse your vault with an expandable folder tree and file list; drag-and-drop to move items, search and sort files, and use context menus to copy paths, open parent folders, or delete. Preview Office documents (DOCX, XLSX, PPTX) and SQL inline, view Markdown backlinks and embeds in reference mode, or open files in your system app. 最大的特点是文档和文件分离，这样可以更专注于文档的管理，同时查找相关的文件也更轻松。相关的文件放置到一个文件夹下，点击文件夹，在下面文件区域可以直接展示。点击md文件可以显示文章中已经引用的文件。"
 
     stats: {
-        downloads:  514
+        downloads:  812
         updated_at: 1784511008000
     }
 }

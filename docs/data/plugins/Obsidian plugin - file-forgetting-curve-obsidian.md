@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-forgetting-curve-obsidian
 alt:
   - https://github.com/ptrsvltns/file-forgetting-curve-obsidian
-downloads: 3612
+downloads: 3630
 updated at: "2022-11-18T15:14:03Z"
 related to:
   - "[[GitHub - 567744407]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Group files by labels and set custom names and remarks to track items on a forgetting schedule. Schedule expiration reminders, pick forgetting-curve review dates with a date selector, and open a dedicated forgetting-curve view with translation support."
 
     stats: {
-        downloads:  3612
+        downloads:  3630
         updated_at: 1668784443000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/custom-theme-studio
 alt:
   - https://github.com/gapmiss/custom-theme-studio
-downloads: 5192
-updated at: "2026-07-10T21:00:10Z"
+downloads: 5729
+updated at: "2026-08-01T15:33:53Z"
 related to:
   - "[[GitHub - 1008720267]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Design and customize Obsidian themes with visual tools, live CSS editing, and instant preview. Edit searchable CSS variables, import fonts, pick elements with smart selectors, preview changes in real time, and export themes as formatted CSS with a manifest."
 
     stats: {
-        downloads:  5192
-        updated_at: 1783717210000
+        downloads:  5729
+        updated_at: 1785598433000
     }
 }
 ```

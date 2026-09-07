@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-divide-and-conquer
 alt:
   - https://github.com/mikedidomizio/obsidian-divide-and-conquer
-downloads: 9950
-updated at: "2026-06-04T12:15:14Z"
+downloads: 10283
+updated at: "2026-08-02T17:55:44Z"
 related to:
   - "[[GitHub - 1181782110]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Bulk-enable and disable plugins and CSS snippets to isolate the source of bugs or performance issues. Uses a binary search strategy to cut your debugging time in half with each step."
 
     stats: {
-        downloads:  9950
-        updated_at: 1780575314000
+        downloads:  10283
+        updated_at: 1785693344000
     }
 }
 ```

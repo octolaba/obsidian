@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/readeck-importer
 alt:
   - https://github.com/makebit/obsidian-readeck-importer
-downloads: 1039
+downloads: 1358
 updated at: "2026-07-09T22:21:54Z"
 related to:
   - "[[GitHub - 913217919]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import bookmarks from Readeck into your Obsidian vault as Markdown notes in a chosen folder. Fetch full text, images, and annotations, overwrite existing notes, and set metadata automatically for organized archiving."
 
     stats: {
-        downloads:  1039
+        downloads:  1358
         updated_at: 1783635714000
     }
 }

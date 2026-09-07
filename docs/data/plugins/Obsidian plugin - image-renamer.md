@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-renamer
 alt:
   - https://github.com/kuioma/obsidian_image_renamer
-downloads: 311
+downloads: 386
 updated at: "2026-05-15T03:17:59Z"
 related to:
   - "[[GitHub - 1234371114]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Rename pasted and drag-dropped images instantly using customizable templates and per-note counters, preventing the old filename from ever appearing in your note. Organize images across a note or entire vault, find unreferenced images, and use frontmatter variables for filenames."
 
     stats: {
-        downloads:  311
+        downloads:  386
         updated_at: 1778815079000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/datacore
 alt:
   - https://github.com/blacksmithgu/datacore
-downloads: 302772
+downloads: 313070
 updated at: "2026-03-23T19:12:27Z"
 related to:
   - "[[GitHub - 582444199]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Query and render Markdown notes 2-10x faster using a Dataview-compatible index and a React-based JavaScript API that provides flickerless, live-updating views. Edit values inline, manipulate responsive WYSIWYG tables, embed pages/images/videos in views, and run section- or block-level queries across files and attachments."
 
     stats: {
-        downloads:  302772
+        downloads:  313070
         updated_at: 1774293147000
     }
 }

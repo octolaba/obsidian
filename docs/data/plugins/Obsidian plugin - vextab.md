@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vextab
 alt:
   - https://github.com/luigman/obsidian-vextab
-downloads: 6110
+downloads: 6208
 updated at: "2026-06-02T03:31:50Z"
 related to:
   - "[[GitHub - 589308617]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render guitar tablature and standard music notation from Vextab code blocks directly inside Obsidian. Insert vextab or tab fenced blocks or use quicktab shorthand for fast mobile jotting to convert plain-text notation into visual scores."
 
     stats: {
-        downloads:  6110
+        downloads:  6208
         updated_at: 1780371110000
     }
 }

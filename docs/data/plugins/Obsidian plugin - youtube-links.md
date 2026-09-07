@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/youtube-links
 alt:
   - https://github.com/xevrion/obsidian-youtube-links
-downloads: 159
+downloads: 235
 updated at: "2026-06-27T19:13:06Z"
 related to:
   - "[[GitHub - 1282057403]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert pasted YouTube URLs into clean, readable Markdown links that display the channel name and video title. Support standard, short, and Shorts URLs without an API key and show a loading placeholder while fetching titles."
 
     stats: {
-        downloads:  159
+        downloads:  235
         updated_at: 1782587586000
     }
 }

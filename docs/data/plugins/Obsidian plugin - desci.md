@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/desci
 alt:
   - https://github.com/obsidian-desci/Obsidian-Desci
-downloads: 2182
+downloads: 2192
 updated at: "2023-10-31T22:52:03Z"
 related to:
   - "[[GitHub - 708875699]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect Obsidian canvases to Web3 and IPFS. Pull DeSci nodes, fetch and add content to IPFS, and trigger smart-contract-driven edge compute jobs (including Stable Diffusion runs) directly from canvas nodes."
 
     stats: {
-        downloads:  2182
+        downloads:  2192
         updated_at: 1698792723000
     }
 }

@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/line-multi-selector
 alt:
   - https://github.com/ibarv/obsidian_line-multi-selector
-downloads: 20
+downloads: 44
 updated at: "2026-07-19T09:00:49Z"
 related to:
   - "[[GitHub - 1302780295]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Select entire lines from the gutter with click, drag, Shift-click for contiguous ranges and Ctrl/Cmd-click to toggle individual lines. Append and remember selection sets to build and preserve non-contiguous multi-line selections."
 
     stats: {
-        downloads:  20
+        downloads:  44
         updated_at: 1784451649000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/novel-word-count
 alt:
   - https://github.com/isaaclyman/novel-word-count-obsidian
-downloads: 183255
-updated at: "2026-07-03T17:27:25Z"
+downloads: 188675
+updated at: "2026-08-03T16:56:36Z"
 related to:
   - "[[GitHub - 467991334]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Show real-time writing statistics next to files, folders, and the vault in the File Explorer pane. Choose up to three metrics—word/page/reading time/characters/links/embeds/note count/line breaks/% of word goal/created/updated dates—and watch them update as you write."
 
     stats: {
-        downloads:  183255
-        updated_at: 1783099645000
+        downloads:  188675
+        updated_at: 1785776196000
     }
 }
 ```

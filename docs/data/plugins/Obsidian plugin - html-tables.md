@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/html-tables
 alt:
   - https://github.com/sunnyyylin/obsidian-html-tables
-downloads: 270
+downloads: 471
 updated at: "2026-07-21T09:43:29Z"
 related to:
   - "[[GitHub - 1271892391]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add advanced table features to notes: header rows and columns, horizontal and vertical cell merging, table captions, multiline cells, and basic formulas. Resize and auto-fit columns, set horizontal and vertical alignment, and edit tables via a right‑click context menu in preview mode."
 
     stats: {
-        downloads:  270
+        downloads:  471
         updated_at: 1784627009000
     }
 }

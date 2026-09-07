@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/boost-link-suggestions
 alt:
   - https://github.com/jglev/obsidian-boost-link-suggestions
-downloads: 1511
+downloads: 1522
 updated at: "2023-09-27T12:39:57Z"
 related to:
   - "[[GitHub - 579714353]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Suggest inline links ordered by incoming-link count plus manual YAML \"boost\" scores to prioritize frequently referenced notes. List aliases in suggestion order before filenames and surface boosted pages at the top so desired targets appear first."
 
     stats: {
-        downloads:  1511
+        downloads:  1522
         updated_at: 1695818397000
     }
 }

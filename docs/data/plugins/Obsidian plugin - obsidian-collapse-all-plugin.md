@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-collapse-all-plugin
 alt:
   - https://github.com/nathonius/obsidian-collapse-all
-downloads: 63827
+downloads: 64417
 updated at: "2024-03-23T17:55:32Z"
 related to:
   - "[[GitHub - 367215798]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bind collapse, expand, and toggle commands for File Explorer, Tag Pane, Search, Bookmarks, or all supported views to the command palette or hotkeys. Use view-specific behavior: Search offers only expand/collapse, Bookmarks offers only toggle."
 
     stats: {
-        downloads:  63827
+        downloads:  64417
         updated_at: 1711216532000
     }
 }

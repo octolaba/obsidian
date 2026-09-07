@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lofi-focus
 alt:
   - https://github.com/jatin-shihora/Obsidian-lofi-plugin
-downloads: 297
+downloads: 344
 updated at: "2026-03-26T17:59:58Z"
 related to:
   - "[[GitHub - 969114635]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Play lofi music and run a Pomodoro focus timer directly in Obsidian. Stream pre-configured lofi radios or play local MP3s, control playback and volume, and view a visual timer and controls in the status bar. Enable optional ambient particle animations."
 
     stats: {
-        downloads:  297
+        downloads:  344
         updated_at: 1774547998000
     }
 }

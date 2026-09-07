@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-embedded-code-title
 alt:
   - https://github.com/tadashi-aikawa/obsidian-embedded-code-title
-downloads: 16000
+downloads: 16043
 updated at: "2022-10-21T01:21:14Z"
 related to:
   - "[[GitHub - 382543039]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed titles into code blocks to display language names or filenames above fenced code. Render filenames with escaped spaces and publish those titles on Obsidian Publish sites using supplied publish.js and publish.css."
 
     stats: {
-        downloads:  16000
+        downloads:  16043
         updated_at: 1666315274000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/query-json
 alt:
   - https://github.com/rooyca/query-json
-downloads: 3326
+downloads: 3399
 updated at: "2026-05-19T22:12:14Z"
 related to:
   - "[[GitHub - 800568422]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Query and extract JSON data inline or from external files using simple path notation and @ references. Filter with logical and comparison operators, use array wildcards and frontmatter substitution, and display results as JSON, lists, tables, or images with live query expansion as you type."
 
     stats: {
-        downloads:  3326
+        downloads:  3399
         updated_at: 1779228734000
     }
 }

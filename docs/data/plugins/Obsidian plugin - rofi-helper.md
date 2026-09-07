@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rofi-helper
 alt:
   - https://github.com/digitalsignalperson/obsidian-rofi-helper
-downloads: 3357
+downloads: 3368
 updated at: "2023-02-21T13:00:04Z"
 related to:
   - "[[GitHub - 604584256]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add leaf id and filename URI parameters to Obsidian to switch directly to open tabs from Rofi. Include a sample obsidian-rofi.py script that lists open tabs with unique leaf ids so you can select and jump to any tab via the obsidian://switch URI."
 
     stats: {
-        downloads:  3357
+        downloads:  3368
         updated_at: 1676984404000
     }
 }

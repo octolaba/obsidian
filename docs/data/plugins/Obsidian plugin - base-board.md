@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/base-board
 alt:
   - https://github.com/mderazon/obsidian-base-board
-downloads: 15791
-updated at: "2026-07-12T13:56:18Z"
+downloads: 19287
+updated at: "2026-08-01T14:00:46Z"
 related to:
   - "[[GitHub - 1164181311]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Organize notes into a property-driven Kanban board by generating columns from any frontmatter field. Drag and drop cards to update frontmatter and write changes to your Markdown files; rename cards and columns inline, open notes in a floating Obsidian editor, view metadata and color-coded tag chips with hover previews, and create cards directly in columns."
 
     stats: {
-        downloads:  15791
-        updated_at: 1783864578000
+        downloads:  19287
+        updated_at: 1785592846000
     }
 }
 ```

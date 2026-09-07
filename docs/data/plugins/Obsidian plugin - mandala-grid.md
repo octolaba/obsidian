@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mandala-grid
 alt:
   - https://github.com/panatgithub/obsidian-mandala-grid
-downloads: 617
+downloads: 686
 updated at: "2026-05-17T10:18:09Z"
 related to:
   - "[[GitHub - 1106279862]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize Markdown notes in a nine-grid (mandala) view to break down themes, map hierarchies, and structure writing. Edit, swap, pin, and color-mark cells; use a daily-plan template and switch seamlessly between tree and mandala views."
 
     stats: {
-        downloads:  617
+        downloads:  686
         updated_at: 1779013089000
     }
 }

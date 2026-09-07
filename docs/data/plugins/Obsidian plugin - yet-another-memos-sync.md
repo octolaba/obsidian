@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/yet-another-memos-sync
 alt:
   - https://github.com/exusiaiwei/yet-another-memos-sync
-downloads: 707
-updated at: "2026-05-13T10:20:59Z"
+downloads: 795
+updated at: "2026-08-08T18:29:31Z"
 related to:
   - "[[GitHub - 1056267952]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync Memos with Daily Notes using incremental, time-limited, and deletion-aware synchronization that supports modern and legacy Memos APIs. Display memos with emoji timelines, list callouts or card-style formats, auto-download attachments, and run periodic or startup auto-sync with a multilingual UI."
 
     stats: {
-        downloads:  707
-        updated_at: 1778667659000
+        downloads:  795
+        updated_at: 1786213771000
     }
 }
 ```

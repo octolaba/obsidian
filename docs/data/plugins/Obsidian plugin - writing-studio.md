@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/writing-studio
 alt:
   - https://github.com/writerp-777/obsidian-writing-studio
-downloads: 1239
+downloads: 1677
 updated at: "2026-07-20T20:01:30Z"
 related to:
   - "[[GitHub - 1228257028]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform Obsidian into a professional writing environment with a project binder, sprint timer, focus and typography modes, session word counts, manuscript export, WordPress publishing, and a daily writing log. Use the left‑sidebar launcher to monitor active projects, goal progress, today's stats, and quick actions."
 
     stats: {
-        downloads:  1239
+        downloads:  1677
         updated_at: 1784577690000
     }
 }

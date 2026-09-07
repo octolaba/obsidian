@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dxf-viewer-editor
 alt:
   - https://github.com/ondreu/DXF-Viewer-and-editor
-downloads: 83
+downloads: 105
 updated at: "2026-07-03T17:39:48Z"
 related to:
   - "[[GitHub - 1287036506]]"
@@ -36,7 +36,7 @@ plugin: {
     description: "Simple light DXF viewer and editor, capable of measuring lenght, area, diameter, angles, and more. Aswell as simple editing like lines, polylines, rectangles, circles, elipses, arcs, fill, hatches... - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  83
+        downloads:  105
         updated_at: 1783100388000
     }
 }

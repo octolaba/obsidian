@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-clipper
 alt:
   - https://github.com/jgchristopher/obsidian-clipper
-downloads: 69465
+downloads: 72464
 updated at: "2025-07-13T15:21:09Z"
 related to:
   - "[[GitHub - 562641611]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture highlights and web content as Markdown notes in your Obsidian vault. Send clips to daily or weekly notes (or both), convert HTML tables to Markdown with Advanced Tables, and clip from the browser via a bookmarklet or optional Chromium extension."
 
     stats: {
-        downloads:  69465
+        downloads:  72464
         updated_at: 1752420069000
     }
 }

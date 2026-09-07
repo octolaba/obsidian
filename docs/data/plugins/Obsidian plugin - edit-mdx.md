@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/edit-mdx
 alt:
   - https://github.com/timppeters/obsidian-edit-mdx
-downloads: 3796
+downloads: 3838
 updated at: "2023-11-22T12:24:17Z"
 related to:
   - "[[GitHub - 713443938]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and edit .mdx files as plain Markdown directly in Obsidian. Register .mdx as a markdown type and add a ribbon button plus a file context-menu item to create new .mdx files. Do not preview MDX content; edit in raw markdown mode."
 
     stats: {
-        downloads:  3796
+        downloads:  3838
         updated_at: 1700655857000
     }
 }

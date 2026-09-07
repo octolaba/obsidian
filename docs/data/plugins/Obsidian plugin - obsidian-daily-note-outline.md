@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-daily-note-outline
 alt:
   - https://github.com/iiz00/obsidian-daily-note-outline
-downloads: 24608
+downloads: 24665
 updated at: "2024-03-31T15:07:33Z"
 related to:
   - "[[GitHub - 474620535]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a combined outline of multiple daily notes, showing headings, links, tags, and list items. Create missing YYYY-MM-DD daily note files from unresolved links so backlinks appear in the outline, running manually or automatically at startup."
 
     stats: {
-        downloads:  24608
+        downloads:  24665
         updated_at: 1711897653000
     }
 }

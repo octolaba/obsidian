@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/table-list
 alt:
   - https://github.com/akaswan/table-list
-downloads: 725
+downloads: 736
 updated at: "2025-05-09T01:21:04Z"
 related to:
   - "[[GitHub - 910927637]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage tasks in a grid where each row represents a project and each column represents a date. Click cells to assign tasks and toggle statuses (Haven't Started, In Progress, Completed) to plan workloads and track progress across days or weeks."
 
     stats: {
-        downloads:  725
+        downloads:  736
         updated_at: 1746753664000
     }
 }

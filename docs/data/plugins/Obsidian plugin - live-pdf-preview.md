@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/live-pdf-preview
 alt:
   - https://github.com/kimsunin/obsidian-live-pdf-preview
-downloads: 459
+downloads: 682
 updated at: "2026-07-18T06:31:27Z"
 related to:
   - "[[GitHub - 1282952097]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "A high-performance, real-time PDF preview and export plugin for Obsidian. Tweak print layout settings like page size, margins, and font scales through an intuitive GUI, or write simple '//' commands to insert page breaks, format multi-column layouts, and center content. Export beautiful, print-ready PDFs complete with clickable heading outline bookmarks."
 
     stats: {
-        downloads:  459
+        downloads:  682
         updated_at: 1784356287000
     }
 }

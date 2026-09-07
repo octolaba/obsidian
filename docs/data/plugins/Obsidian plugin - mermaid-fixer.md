@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mermaid-fixer
 alt:
   - https://github.com/fyaic/Mermaid-Fixer-Plugin
-downloads: 239
+downloads: 321
 updated at: "2026-07-15T04:56:39Z"
 related to:
   - "[[GitHub - 1270014158]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Repair Mermaid diagrams and Markdown tables in the active note or across the whole vault to prevent preview, export, or publishing failures. Scan files, preview diffs, and apply conservative, local-only fixes with no network requests."
 
     stats: {
-        downloads:  239
+        downloads:  321
         updated_at: 1784091399000
     }
 }

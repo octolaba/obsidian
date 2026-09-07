@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/project-browser
 alt:
   - https://github.com/daledesilva/obsidian_project-browser
-downloads: 18690
+downloads: 19195
 updated at: "2026-06-20T02:54:24Z"
 related to:
   - "[[GitHub - 757397825]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse your vault through a user-friendly card interface. With multi-page support, add multiple pages to any note, base, or canvas. Hide folders to declutter, and set priorities and states to remain focused."
 
     stats: {
-        downloads:  18690
+        downloads:  19195
         updated_at: 1781924064000
     }
 }

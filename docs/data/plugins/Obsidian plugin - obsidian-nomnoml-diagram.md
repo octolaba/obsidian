@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-nomnoml-diagram
 alt:
   - https://github.com/daeik/obsidian-nomnoml-diagram
-downloads: 10609
+downloads: 10630
 updated at: "2023-09-26T15:47:37Z"
 related to:
   - "[[GitHub - 412670588]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Draw nomnoml diagrams directly in notes using fenced code blocks or the New Diagram command. Render diagrams as SVG with per-diagram styling directives and export-ready output compatible with Obsidian's PDF export."
 
     stats: {
-        downloads:  10609
+        downloads:  10630
         updated_at: 1695743257000
     }
 }

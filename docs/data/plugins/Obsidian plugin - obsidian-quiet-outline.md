@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-quiet-outline
 alt:
   - https://github.com/guopenghui/obsidian-quiet-outline
-downloads: 306704
-updated at: "2026-07-09T13:28:01Z"
+downloads: 318485
+updated at: "2026-08-07T08:08:48Z"
 related to:
   - "[[GitHub - 470934839]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Display a compact, quiet outline of headings with search that pierces Markdown/HTML and supports regex while respecting Markdown render. Control heading levels, auto-expand/collapse, drag and reorder notes, preview content on hover, and navigate outlines in Canvas or Kanban with Vim-like keybindings. Remember per-note scroll, cursor, and heading expansion state."
 
     stats: {
-        downloads:  306704
-        updated_at: 1783603681000
+        downloads:  318485
+        updated_at: 1786090128000
     }
 }
 ```

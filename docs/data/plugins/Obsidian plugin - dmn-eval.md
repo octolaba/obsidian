@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dmn-eval
 alt:
   - https://github.com/joleaf/obsidian-dmn-eval-plugin
-downloads: 3717
+downloads: 3751
 updated at: "2024-08-31T12:44:28Z"
 related to:
   - "[[GitHub - 575089245]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Evaluate DMN decision tables directly inside notes and render decision outputs inline using the Camunda dmn-engine. Use DMN file links plus note front-matter or variables as inputs and run evaluations locally (requires Java 14+)."
 
     stats: {
-        downloads:  3717
+        downloads:  3751
         updated_at: 1725108268000
     }
 }

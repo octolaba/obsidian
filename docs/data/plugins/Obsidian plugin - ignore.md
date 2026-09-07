@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ignore
 alt:
   - https://github.com/devxoul/obsidian-ignore
-downloads: 286
+downloads: 433
 updated at: "2026-06-04T02:34:31Z"
 related to:
   - "[[GitHub - 1258388434]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide files and folders using a .obsidianignore file with standard gitignore syntax. Exclude matching items from the File Explorer, Quick Switcher, Search, Graph, and backlinks while preserving and restoring any manually added excluded entries."
 
     stats: {
-        downloads:  286
+        downloads:  433
         updated_at: 1780540471000
     }
 }

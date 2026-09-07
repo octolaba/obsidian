@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-importer
 alt:
   - https://github.com/obsidianmd/obsidian-importer
-downloads: 1462635
-updated at: "2026-05-28T18:10:24Z"
+downloads: 1527574
+updated at: "2026-08-11T19:00:16Z"
 related to:
   - "[[GitHub - 665163927]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Import notes from other apps and file formats into your Obsidian vault. Convert them to plain-text Markdown with support for Apple Notes, Evernote, Notion, Google Keep, OneNote, Roam, Bear, CSV, HTML and more."
 
     stats: {
-        downloads:  1462635
-        updated_at: 1779991824000
+        downloads:  1527574
+        updated_at: 1786474816000
     }
 }
 ```

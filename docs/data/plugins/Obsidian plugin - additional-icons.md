@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/additional-icons
 alt:
   - https://github.com/matthewturk/obsidian-additional-icons
-downloads: 4542
+downloads: 4575
 updated at: "2023-12-27T21:22:48Z"
 related to:
   - "[[GitHub - 735983765]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add additional icon sets (RPG Awesome, GovIcons, Weather Icons and more) to Obsidian's icon library for use wherever Obsidian uses Lucide icons. Use icons like ra-axe, gi-dna, and wi-tornado to decorate file classes, metadata fields, and UI elements, and toggle sets on or off."
 
     stats: {
-        downloads:  4542
+        downloads:  4575
         updated_at: 1703712168000
     }
 }

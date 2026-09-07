@@ -12,8 +12,8 @@ tags:
 url: https://community.obsidian.md/plugins/timeflow
 alt:
   - https://github.com/gaut3/timeflow
-downloads: 1982
-updated at: "2026-07-14T18:04:16Z"
+downloads: 2153
+updated at: "2026-08-04T09:17:45Z"
 related to:
   - "[[GitHub - 1103716863]]"
 remind me:
@@ -36,8 +36,8 @@ plugin: {
     about:       "Track flextime with a dashboard that includes built-in timers, live balances, an interactive calendar, and visual daily/weekly/monthly/yearly summaries. Customize work hours, week structure, languages and absence types; add comments to entries and export CSVs."
 
     stats: {
-        downloads:  1982
-        updated_at: 1784052256000
+        downloads:  2153
+        updated_at: 1785835065000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/habit-tracker-21
 alt:
   - https://github.com/zincplusplus/habit-tracker
-downloads: 30561
+downloads: 31681
 updated at: "2026-03-11T10:47:38Z"
 related to:
   - "[[GitHub - 718295535]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track daily habits with a minimalist, theme-matching grid and click-to-log interface that visualizes progress and streaks. Customize appearance and tracking, monitor folders or files, apply gap-tolerant streaks, and jump to daily notes."
 
     stats: {
-        downloads:  30561
+        downloads:  31681
         updated_at: 1773226058000
     }
 }

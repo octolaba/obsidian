@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/gtd-tasks
 alt:
   - https://github.com/unpreditable/GettingThingsDone
-downloads: 387
-updated at: "2026-07-21T00:09:22Z"
+downloads: 493
+updated at: "2026-08-08T21:59:26Z"
 related to:
   - "[[GitHub - 1162322582]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Organize Markdown tasks in Obsidian with the Getting Things Done method. Group tasks into time-horizon buckets in a sidebar and move items via one-click buttons, drag-and-drop, or context menu; auto-assign by due date from the Tasks plugin and mark completion with optional celebration animations."
 
     stats: {
-        downloads:  387
-        updated_at: 1784592562000
+        downloads:  493
+        updated_at: 1786226366000
     }
 }
 ```

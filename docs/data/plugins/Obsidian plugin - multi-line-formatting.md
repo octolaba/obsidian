@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/multi-line-formatting
 alt:
   - https://github.com/nmady/obsidian-multi-line-formatting
-downloads: 8746
+downloads: 8777
 updated at: "2021-09-24T15:18:10Z"
 related to:
   - "[[GitHub - 389269607]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format entire selections across paragraph breaks, applying paired delimiters to text even when the selection spans multiple paragraphs. Create custom formatting styles and commands, and toggle formatting on with no selection to apply to your next keystrokes."
 
     stats: {
-        downloads:  8746
+        downloads:  8777
         updated_at: 1632496690000
     }
 }

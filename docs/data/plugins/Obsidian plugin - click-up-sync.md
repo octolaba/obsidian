@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/click-up-sync
 alt:
   - https://github.com/hokim-m/click-up-x-obsidian
-downloads: 2487
+downloads: 2525
 updated at: "2025-05-12T07:00:54Z"
 related to:
   - "[[GitHub - 746518146]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync ClickUp lists and tasks as Markdown notes in your Obsidian vault, keeping tasks viewable and editable inside notes. Create ClickUp tasks from selected note text and assign them to a list. View task details and status directly within notes."
 
     stats: {
-        downloads:  2487
+        downloads:  2525
         updated_at: 1747033254000
     }
 }

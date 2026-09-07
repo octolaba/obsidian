@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-timeline
 alt:
   - https://github.com/veltrix42/vault-timeline
-downloads: 146
+downloads: 177
 updated at: "2026-06-13T14:55:38Z"
 related to:
   - "[[GitHub - 1260478050]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn notes into an interactive, zoomable timeline indexed automatically from YAML frontmatter dates (falls back to file creation time). Switch Day/Week/Month/Year/Decade views, color events by tags, render start–end durations as spans, search and filter, view a minimap and tooltips, and click or right-click events to open notes or run quick actions."
 
     stats: {
-        downloads:  146
+        downloads:  177
         updated_at: 1781362538000
     }
 }

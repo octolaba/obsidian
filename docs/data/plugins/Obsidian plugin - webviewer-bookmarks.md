@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/webviewer-bookmarks
 alt:
   - https://github.com/stefandanzl/webviewer-bookmarks
-downloads: 2557
+downloads: 2685
 updated at: "2026-02-16T15:11:22Z"
 related to:
   - "[[GitHub - 945806595]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and manage web bookmarks for Obsidian's built-in web viewer to jump to sites quickly. Add bookmarks to the ribbon or command palette, customize icons with Lucide names, and include {{selection}} in URLs to insert selected editor text URL-encoded."
 
     stats: {
-        downloads:  2557
+        downloads:  2685
         updated_at: 1771254682000
     }
 }

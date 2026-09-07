@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gpt3-notes
 alt:
   - https://github.com/micahke/obsidian-gpt3-notes
-downloads: 37819
+downloads: 37991
 updated at: "2023-07-07T09:11:34Z"
 related to:
   - "[[GitHub - 576083211]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate notes from natural-language prompts using OpenAI GPT-3 or older models. Create outlines, articles, bullet lists, or essays and insert AI-generated drafts into your vault. Access the tool from the command palette or the ribbon to produce content quickly."
 
     stats: {
-        downloads:  37819
+        downloads:  37991
         updated_at: 1688721094000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/openagent-canvas
 alt:
   - https://github.com/openagentmarket/openagent-obsidian-plugin
-downloads: 139
+downloads: 153
 updated at: "2026-05-14T04:48:58Z"
 related to:
   - "[[GitHub - 1238387106]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run local AI agent workflows from your vault and Canvas by connecting Obsidian to a local OpenAgent daemon. Start Codex tasks from selected Canvas nodes or notes, track active threads, and write results and follow-up nodes back into your vault."
 
     stats: {
-        downloads:  139
+        downloads:  153
         updated_at: 1778734138000
     }
 }

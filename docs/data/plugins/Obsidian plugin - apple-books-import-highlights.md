@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/apple-books-import-highlights
 alt:
   - https://github.com/bandantonio/obsidian-apple-books-highlights-plugin
-downloads: 11955
+downloads: 12328
 updated at: "2026-05-09T14:15:38Z"
 related to:
   - "[[GitHub - 739086870]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "This plugin solves the nightmare of importing Apple Books highlights to Obsidian. It is 70x faster than alternatives to save you up to 30min/month or up to 16hrs/year. It has a one-off feature to protect your own thoughts and reflections across imports. It provides bulletproof Reliability - highlights with only metadata you need, clean and secure imports. 100% code coverage. Stop wasting your time tolerating broken promises - this plugin is your step towards an unrivaled user experience."
 
     stats: {
-        downloads:  11955
+        downloads:  12328
         updated_at: 1778336138000
     }
 }

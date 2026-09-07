@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/who-is-streaming
 alt:
   - https://github.com/bobstanton/obsidian-who-is-streaming
-downloads: 117
+downloads: 127
 updated at: "2026-05-14T12:45:05Z"
 related to:
   - "[[GitHub - 772590227]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Discover which streaming services carry a movie or TV show and add provider, availability status, and metadata as properties to your Obsidian note. Search by note title, pick a match, and sync using the stored tmdb_id for direct updates across your chosen country and services."
 
     stats: {
-        downloads:  117
+        downloads:  127
         updated_at: 1778762705000
     }
 }

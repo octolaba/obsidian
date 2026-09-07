@@ -219,22 +219,22 @@
     },
     "rel": {
       "repo": "obsidianmd/obsidian-releases",
-      "commit": "80239338536205c598b72ed46c77ecb86831bc57",
+      "commit": "11fc3ae2320769a5db81b9029ab644928540f9b8",
       "aggregate": {
         "files": 13,
-        "sha256": "a226bb6cbcafe7de68a67a338948040b50e2b00bdea6b9186965a137b5b2bd3f"
+        "sha256": "3fa58a13a38fab52a23bba173f71b5f64077c8af952e9e3bf42564844c4eea12"
       },
       "files": {
         ".github/workflows/mirror-community-json.yml": "ed6b7d0eb69d988614abbad8c4ac3858344e2f055ca9ee458bebe629c06f9d86",
         "README.md": "585463685690b3d6339429c7315dd9e1844dfce5aedc8309cb5000260effc50a",
         "cla.md": "44d27cdc1e73436702f54443fddbe492037fcf6ec3341cd4f79d2b3c993c78ae",
         "community-css-themes-removed.json": "a8440dec68b5db4ab3feab8954e47eca0f6abe40f010cb6683947ab27c59b589",
-        "community-css-themes.json": "5702004b32e3b778c4b24657d4537dc03769b4a171f542c2baa3b3548014c490",
+        "community-css-themes.json": "75d4f41112d178b6fc185a273d32bc439737435156d63b21b95531f7dda0312e",
         "community-plugin-deprecation.json": "3877893c2d3dd32e1bc6f8122c535a6cb6c126b23fa746b0e33a803f02316830",
         "community-plugins-removed.json": "9fc7c1d55a07d71ab009d4260b7c33bea9d1f3742c15378ebae42621cbf20b47",
-        "community-plugins.json": "55de88f264dc734e507131576dec38109b3290bb33ca3091f66819d9b2a6530c",
+        "community-plugins.json": "be3113cc345e131c077a13980405cb89c4dde8a793a19d1f61fcdca89db85a5f",
         "community-snippets.json": "777f6d4621df39ac4193222023a7387bde83509b70b89aaca836d1cabb17acda",
-        "desktop-releases.json": "304ea841b99ade1f9359d6af3264c9d886b8605252d87a8f789e657380a85d13",
+        "desktop-releases.json": "bb92ab3288769d4f3922fb7a4ab920e96019b1cbae5eca2f048cf7adae33f363",
         "plugin-review.md": "14798fde3b6d7672ee8fac9981ef19d1817dba87cf3e0b9d2b27e2cf25a0a8dd"
       }
     },

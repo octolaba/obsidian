@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/default-template
 alt:
   - https://github.com/raeperd/obsidian-default-template
-downloads: 5920
+downloads: 6457
 updated at: "2026-05-16T05:35:47Z"
 related to:
   - "[[GitHub - 1043612720]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Apply a selected template automatically to every new note created by any method to ensure consistent structure without manual insertion. Assign folder-specific templates with hierarchical fallback, exclude paths from templating, and process {{date}}, {{time}} and {{title}} variables with Moment.js format tokens."
 
     stats: {
-        downloads:  5920
+        downloads:  6457
         updated_at: 1778909747000
     }
 }

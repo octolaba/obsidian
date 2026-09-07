@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-related-url
 alt:
   - https://github.com/dpickett/open-related-url
-downloads: 4292
+downloads: 4335
 updated at: "2022-08-20T15:30:56Z"
 related to:
   - "[[GitHub - 514999678]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open URLs listed in a note's YAML front matter by scanning for keys ending with \"Url\" and present matching options to open in your browser. Define common frontmatter keys as quick URLs and assign keybindings to jump directly to linked tasks, files, or web resources."
 
     stats: {
-        downloads:  4292
+        downloads:  4335
         updated_at: 1661009456000
     }
 }

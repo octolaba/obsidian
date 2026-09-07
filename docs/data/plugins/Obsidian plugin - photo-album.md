@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/photo-album
 alt:
   - https://github.com/solargate/obsidian-photo-album
-downloads: 159
+downloads: 178
 updated at: "2026-05-25T09:45:13Z"
 related to:
   - "[[GitHub - 1236589243]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize photos into folder-based albums and display them as a configurable grid gallery inside any note. Generate thumbnails automatically, insert albums inline or in a collapsible callout, sort images by modification time, and open photos in Obsidian's image viewer by clicking thumbnails."
 
     stats: {
-        downloads:  159
+        downloads:  178
         updated_at: 1779702313000
     }
 }

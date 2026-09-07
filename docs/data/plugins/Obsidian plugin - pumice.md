@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/pumice
 alt:
   - https://github.com/search5/pumice
-downloads: 39
-updated at: "2026-07-19T16:36:18Z"
+downloads: 103
+updated at: "2026-08-11T16:22:47Z"
 related to:
   - "[[GitHub - 1190379982]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync your vault with a self-hosted pumice-server using gRPC‑Web streaming for concurrent, delta-only file transfers. Browse sync history and recover files, keep local snapshots with retention, publish chosen folders, and authenticate via a static token in the OS keychain."
 
     stats: {
-        downloads:  39
-        updated_at: 1784478978000
+        downloads:  103
+        updated_at: 1786465367000
     }
 }
 ```

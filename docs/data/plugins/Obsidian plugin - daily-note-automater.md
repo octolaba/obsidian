@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-note-automater
 alt:
   - https://github.com/davidpedrero/obsidian-daily-notes-automater
-downloads: 478
+downloads: 494
 updated at: "2025-03-31T20:21:09Z"
 related to:
   - "[[GitHub - 957354248]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create daily notes automatically on vault launch using customizable date formats, template content, filename suffixes, and optional year/month subdirectories. Store notes in a chosen root folder and skip creation when no template is specified."
 
     stats: {
-        downloads:  478
+        downloads:  494
         updated_at: 1743452469000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-refresh-explorer
 alt:
   - https://github.com/mathieubonvaletpro-commits/auto-refresh-explorer
-downloads: 374
+downloads: 450
 updated at: "2026-04-28T22:21:10Z"
 related to:
   - "[[GitHub - 1223996119]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Refresh the file explorer automatically when external sync tools add files, injecting new files into Obsidian's index so they appear instantly without reloading. Detect changes by polling folder mtimes every ~3 seconds and create proper TFile entries so the explorer and metadata cache update immediately."
 
     stats: {
-        downloads:  374
+        downloads:  450
         updated_at: 1777414870000
     }
 }

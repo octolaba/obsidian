@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/paper-summary
 alt:
   - https://github.com/todfrog/obsidian-paper-summary
-downloads: 151
+downloads: 184
 updated at: "2026-05-22T08:23:05Z"
 related to:
   - "[[GitHub - 1179815305]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Summarize a vault PDF into a ready-to-read Markdown paper note with frontmatter, sectioned summaries, and filename-safe naming. Generate local related-paper links by matching tags, title/author/venue/year, and section keywords. Render notes from the built-in or a custom template and select output language."
 
     stats: {
-        downloads:  151
+        downloads:  184
         updated_at: 1779438185000
     }
 }

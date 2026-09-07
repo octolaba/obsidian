@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/latex-callouts
 alt:
   - https://github.com/bailey-moir/latex-callouts
-downloads: 61
+downloads: 79
 updated at: "2026-07-05T00:21:11Z"
 related to:
   - "[[GitHub - 860246317]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert callouts into LaTeX-style definitions and theorems for cleaner, academic-style notes. Remove the icon, background, and border, and format the header by title-casing the text in the callout type, replacing hyphens with spaces, and italicizing parenthetical content."
 
     stats: {
-        downloads:  61
+        downloads:  79
         updated_at: 1783210871000
     }
 }

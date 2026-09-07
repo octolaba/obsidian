@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sobriety-tracker
 alt:
   - https://github.com/tiancaijb/obsidian-sobriety-tracker
-downloads: 45
+downloads: 59
 updated at: "2026-07-03T00:05:05Z"
 related to:
   - "[[GitHub - 1287672737]]"
@@ -28,7 +28,7 @@ Sobriety is tracked through an urge timer, one-tap daily check-ins and automatic
 plugin: {
     id:     "sobriety-tracker"
     name:   "Sobriety Tracker"
-    author: "tiancaijb"
+    author: "Tim Cole"
     repo:   "tiancaijb/obsidian-sobriety-tracker"
 
     html_url:    "https://community.obsidian.md/plugins/sobriety-tracker"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track sobriety with an urge timer, one-tap daily check-ins, and automatic logging of wins and relapses. View streaks, success rate, weekly/monthly breakdowns and an urge log to monitor patterns. Catch up missed check-ins when Obsidian was closed and switch language between English and 中文."
 
     stats: {
-        downloads:  45
+        downloads:  59
         updated_at: 1783037105000
     }
 }

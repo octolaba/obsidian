@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/np-rf-analysis
 alt:
   - https://github.com/jerrywiltz/np-rf-analysis
-downloads: 9
+downloads: 24
 updated at: "2026-07-22T17:11:41Z"
 related to:
   - "[[GitHub - 1299818023]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed RF and microwave network analysis in Obsidian Markdown notes. Run nP JavaScript on demand and render inline SVG line charts, Smith charts, or tables while saving JSON render instructions for safe, repeatable exports. Support Obsidian desktop; mobile pending testing."
 
     stats: {
-        downloads:  9
+        downloads:  24
         updated_at: 1784740301000
     }
 }

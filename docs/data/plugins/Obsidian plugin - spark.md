@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/spark
 alt:
   - https://github.com/crossgen-ai-public/crossgen-spark-obsidian-plugin
-downloads: 70
+downloads: 77
 updated at: "2026-01-27T11:49:31Z"
 related to:
   - "[[GitHub - 1101366638]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform Obsidian into an AI-driven business operating system using file-based automations and agent-triggering markdown. Trigger agents via slash commands and mentions, run a persistent chat with vault-wide context, build visual multi-step workflows, and let file changes auto-run workflows that write results back to your notes."
 
     stats: {
-        downloads:  70
+        downloads:  77
         updated_at: 1769514571000
     }
 }

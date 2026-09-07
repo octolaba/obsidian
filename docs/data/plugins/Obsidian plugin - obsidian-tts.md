@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-tts
 alt:
   - https://github.com/joethei/obsidian-tts
-downloads: 44790
+downloads: 45649
 updated at: "2025-12-18T11:40:59Z"
 related to:
   - "[[GitHub - 429859039]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Play entire notes from the status bar or ribbon, or speak only selected text while editing. Detect language automatically and override it with lang: {languageCode} in frontmatter; use native OS voices (Android not supported) and expose a plugin API for other plugins."
 
     stats: {
-        downloads:  44790
+        downloads:  45649
         updated_at: 1766058059000
     }
 }

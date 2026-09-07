@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-advanced-new-file
 alt:
   - https://github.com/vanadium23/obsidian-advanced-new-file
-downloads: 25220
+downloads: 25407
 updated at: "2025-06-06T08:20:34Z"
 related to:
   - "[[GitHub - 311758517]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Choose a target folder before creating a new note and optionally type a full path to place the file exactly where you want. Create files with custom extensions (defaults to .md) to make .canvas, .json, .js or any other file directly in the chosen folder."
 
     stats: {
-        downloads:  25220
+        downloads:  25407
         updated_at: 1749198034000
     }
 }

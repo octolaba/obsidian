@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/character-sheets
 alt:
   - https://github.com/grayvox/obsidian-character-sheets
-downloads: 7456
+downloads: 7826
 updated at: "2025-07-22T21:51:46Z"
 related to:
   - "[[GitHub - 958252299]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and manage character sheets directly in Obsidian. Generate prefilled templates in a Characters folder and edit fields like background, stats, inventory, and notes to build full character profiles."
 
     stats: {
-        downloads:  7456
+        downloads:  7826
         updated_at: 1753221106000
     }
 }

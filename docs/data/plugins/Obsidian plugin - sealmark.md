@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sealmark
 alt:
   - https://github.com/jdh847/sealmark
-downloads: 76
+downloads: 90
 updated at: "2026-06-16T13:09:58Z"
 related to:
   - "[[GitHub - 1257033558]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Seal notes locally by hashing their raw bytes and anchor the digest to Bitcoin via OpenTimestamps to prove existence without publishing content. Store proofs as .ots sidecars, upgrade pending proofs into confirmed seals, and verify seals offline or with standard ots/Bitcoin tools to detect drift when files change."
 
     stats: {
-        downloads:  76
+        downloads:  90
         updated_at: 1781615398000
     }
 }

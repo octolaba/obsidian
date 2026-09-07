@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/s-calc
 alt:
   - https://github.com/abdulkader-safi/obsidian-s_calc-plugins
-downloads: 58
+downloads: 88
 updated at: "2026-07-06T12:21:17Z"
 related to:
   - "[[GitHub - 1290945838]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Compute expressions inline in s-calc code blocks and show each line's result to the right in your theme's accent color, updating live as you type. Use arithmetic, labels and variables, running totals (sum) and prev, percentages, unit and currency conversions with live rates, and plain-language dates."
 
     stats: {
-        downloads:  58
+        downloads:  88
         updated_at: 1783340477000
     }
 }

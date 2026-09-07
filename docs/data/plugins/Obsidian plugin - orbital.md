@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/orbital
 alt:
   - https://github.com/mmomm-org/obsidian-orbital
-downloads: 239
+downloads: 446
 updated at: "2026-07-06T13:19:44Z"
 related to:
   - "[[GitHub - 1273536576]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "See everything connected to the active note in a single tabbed sidebar. Inspect outgoing links, backlinks, second-hop related notes and unlinked mentions; find and repair dangling [[links]] vault-wide with grouped lists and bulk actions (rename/merge, alias, create, delete) and recent files."
 
     stats: {
-        downloads:  239
+        downloads:  446
         updated_at: 1783343984000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-vault-importer
 alt:
   - https://github.com/webinspectinc/obsidian-simple-template-importer
-downloads: 655
+downloads: 683
 updated at: "2025-07-09T11:42:21Z"
 related to:
   - "[[GitHub - 995490941]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import template vaults from ZIP files into your Obsidian vault, extracting Markdown notes and placing .css files into the snippets folder. Handle name conflicts with overwrite or import-folder options, and ignore plugin files for now."
 
     stats: {
-        downloads:  655
+        downloads:  683
         updated_at: 1752061341000
     }
 }

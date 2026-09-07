@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/liquid-templates
 alt:
   - https://github.com/oen/liquid-template
-downloads: 5669
+downloads: 5679
 updated at: "2022-02-16T21:07:11Z"
 related to:
   - "[[GitHub - 367462498]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Write templates using LiquidJS tags inside Obsidian and compose notes by including other template files. Apply Liquid filters, including a custom date filter powered by date-fns with keywords like now, today, yesterday, and tomorrow, and enjoy autocomplete while editing templates."
 
     stats: {
-        downloads:  5669
+        downloads:  5679
         updated_at: 1645045631000
     }
 }

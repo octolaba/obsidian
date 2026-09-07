@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/book-catalog
 alt:
   - https://github.com/jimparrillo/obsidian-book-catalog
-downloads: 307
+downloads: 422
 updated at: "2026-06-10T19:36:37Z"
 related to:
   - "[[GitHub - 1182633105]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Catalog your book collection by scanning ISBN barcodes or searching titles and authors manually to pull metadata from Open Library and Google Books. Save structured notes with automatic frontmatter (title, authors, publisher, year, pages, cover, subjects), track condition, copies and valuation, add custom fields, detect duplicates, and open the Catalog base table or reorganize book notes across your vault."
 
     stats: {
-        downloads:  307
+        downloads:  422
         updated_at: 1781120197000
     }
 }

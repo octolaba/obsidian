@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-overdue
 alt:
   - https://github.com/parente/obsidian-overdue
-downloads: 5019
+downloads: 5040
 updated at: "2026-01-02T02:55:30Z"
 related to:
   - "[[GitHub - 431611148]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mark checkbox items with [[Overdue]] when their linked due date has passed. Update pages automatically just after midnight or trigger a manual run from the command palette. View all overdue tasks by opening the Overdue page's backlinks."
 
     stats: {
-        downloads:  5019
+        downloads:  5040
         updated_at: 1767322530000
     }
 }

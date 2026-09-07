@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-bridge-sftp
 alt:
   - https://github.com/andrewkopylev/vaultbridge
-downloads: 396
+downloads: 427
 updated at: "2026-05-03T18:10:59Z"
 related to:
   - "[[GitHub - 1223156026]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault across desktops via your own SSH/SFTP server without cloud services or proxies. Use bidirectional 3-way sync with conflict-copy preservation, server-side locking for multi-device safety, SHA-1 change checks for bandwidth efficiency, bulk-delete and server-reset protections, and atomic transfers to avoid corruption."
 
     stats: {
-        downloads:  396
+        downloads:  427
         updated_at: 1777831859000
     }
 }

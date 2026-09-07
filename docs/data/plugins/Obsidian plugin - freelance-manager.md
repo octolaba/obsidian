@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/freelance-manager
 alt:
   - https://github.com/wesswart77/obsidian-freelance-manager
-downloads: 191
+downloads: 214
 updated at: "2026-05-24T20:05:38Z"
 related to:
   - "[[GitHub - 1248532099]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage clients, projects, time logs, and invoices in Obsidian using plain Markdown with no external services. Create clients and projects, log hours, and generate itemized invoice notes that sum un-invoiced time logs with totals and due dates. View a dashboard sidebar showing active projects, total hours, and estimated earnings."
 
     stats: {
-        downloads:  191
+        downloads:  214
         updated_at: 1779653138000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/modal-opener
 alt:
   - https://github.com/likemuuxi/obsidian-modal-opener
-downloads: 10009
-updated at: "2026-07-22T06:08:47Z"
+downloads: 10532
+updated at: "2026-07-27T08:58:35Z"
 related to:
   - "[[GitHub - 842395264]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Open files and links in a modal window to read or edit without creating duplicate tabs. Jump to Markdown titles or block-link anchors, switch editing modes, restore the modal to a tab, and add custom commands or right-click actions that insert edited links at the cursor."
 
     stats: {
-        downloads:  10009
-        updated_at: 1784700527000
+        downloads:  10532
+        updated_at: 1785142715000
     }
 }
 ```

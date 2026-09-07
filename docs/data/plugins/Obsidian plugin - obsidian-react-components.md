@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-react-components
 alt:
   - https://github.com/elias-sundqvist/obsidian-react-components
-downloads: 25102
+downloads: 25304
 updated at: "2022-01-22T22:26:12Z"
 related to:
   - "[[GitHub - 363289654]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and render React components with JSX directly inside Obsidian notes. Define components via JSX code blocks or whole-note component files, assign optional namespaces, and embed components inline or by invocation to display dynamic content."
 
     stats: {
-        downloads:  25102
+        downloads:  25304
         updated_at: 1642890372000
     }
 }

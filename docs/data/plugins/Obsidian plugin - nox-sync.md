@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/nox-sync
 alt:
   - https://github.com/mapherez/nox-sync
-downloads: 82
-updated at: "2026-05-15T18:44:14Z"
+downloads: 101
+updated at: "2026-08-07T16:50:15Z"
 related to:
   - "[[GitHub - 1237913025]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync Obsidian vaults to a private, self-hosted backend with manual, on-demand synchronization, Google-authenticated dashboard access, and per-user API keys. Manage multiple remote vaults with manifest-based uploads/downloads, SHA-256 validation, staged commits, conflict handling, and safe trashing of deleted files."
 
     stats: {
-        downloads:  82
-        updated_at: 1778870654000
+        downloads:  101
+        updated_at: 1786121415000
     }
 }
 ```

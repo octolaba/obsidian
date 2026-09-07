@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas2document
 alt:
   - https://github.com/slnsys/obsidian-canvas2document
-downloads: 15535
+downloads: 16147
 updated at: "2026-04-19T20:12:07Z"
 related to:
   - "[[GitHub - 774945616]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Obsidian Canvas layouts into a single linear Markdown document that includes cards, notes and embedded media (images, audio, video, PDF) along with their metadata. Recreate canvas links as metadata headers so you can navigate, reorder, clean up, and continue editing the document."
 
     stats: {
-        downloads:  15535
+        downloads:  16147
         updated_at: 1776629527000
     }
 }

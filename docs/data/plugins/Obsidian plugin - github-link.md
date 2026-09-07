@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/github-link
 alt:
   - https://github.com/nathonius/obsidian-github-link
-downloads: 4835
-updated at: "2025-03-09T00:27:46Z"
+downloads: 4946
+updated at: "2026-08-06T22:26:20Z"
 related to:
   - "[[GitHub - 738344887]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Transform GitHub links into rich inline tags showing issue and pull request numbers, titles, authors, and statuses. Embed a github-query codeblock to generate live-updating tables of search results (issues or PRs) that refresh when opening the note."
 
     stats: {
-        downloads:  4835
-        updated_at: 1741480066000
+        downloads:  4946
+        updated_at: 1786055180000
     }
 }
 ```

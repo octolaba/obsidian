@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/checkbox-sort
 alt:
   - https://github.com/mattang687/obsidian-checkbox-sort
-downloads: 1716
+downloads: 1772
 updated at: "2025-06-25T03:12:07Z"
 related to:
   - "[[GitHub - 962365329]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move completed checkboxes to the bottom of their peer group when toggled. Preserve nested list structure and sort only items at the same indentation level so child items stay with their parent. Respect global, file frontmatter, and per-list markers to enable or disable sorting at each scope."
 
     stats: {
-        downloads:  1716
+        downloads:  1772
         updated_at: 1750821127000
     }
 }

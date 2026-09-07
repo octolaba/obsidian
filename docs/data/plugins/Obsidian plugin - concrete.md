@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/concrete
 alt:
   - https://github.com/apokaliptics/concrete-extension
-downloads: 186
+downloads: 225
 updated at: "2026-07-06T02:07:17Z"
 related to:
   - "[[GitHub - 1223361269]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Style text and apply inline color highlights using simple, readable wrappers and a collapsible :::vars block, no settings menus required. Define CSS variables, edit colors via clickable swatches, nest wrappers for combined effects, and build dash-based indented outlines with hidden dashes, bullets, and live preview."
 
     stats: {
-        downloads:  186
+        downloads:  225
         updated_at: 1783303637000
     }
 }

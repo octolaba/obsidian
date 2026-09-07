@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/spoiler-block-obsidian
 alt:
   - https://github.com/alljavi/spoiler-block-obsidian
-downloads: 11899
+downloads: 11976
 updated at: "2022-12-22T22:17:15Z"
 related to:
   - "[[GitHub - 581329415]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide spoiler or sensitive text inside blocks until you're ready to reveal it. Reveal content by hovering or clicking, and hide it again with a double-click; content displays as plain text."
 
     stats: {
-        downloads:  11899
+        downloads:  11976
         updated_at: 1671747435000
     }
 }

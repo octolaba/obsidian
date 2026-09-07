@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/corkboard
 alt:
   - https://github.com/nighteye841228/obsidian-corkboard
-downloads: 259
+downloads: 327
 updated at: "2026-05-16T06:33:45Z"
 related to:
   - "[[GitHub - 1235460561]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a Scrivener-style corkboard per folder that renders each .md file as an index card in a flowing grid. Show title, separate synopsis, status and color; drag, multi-select and reorder cards, use context menus, auto-sync with filesystem changes, and persist card size and layout. Use on desktop only."
 
     stats: {
-        downloads:  259
+        downloads:  327
         updated_at: 1778913225000
     }
 }

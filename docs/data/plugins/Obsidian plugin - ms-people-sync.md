@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ms-people-sync
 alt:
   - https://github.com/tararesearch/Obsidian-MSPeopleSync
-downloads: 91
+downloads: 98
 updated at: "2025-11-22T09:04:06Z"
 related to:
   - "[[GitHub - 1101759224]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Microsoft 365 contacts from Microsoft Graph into individual Obsidian notes using a customizable template. Generate one markdown file per person in a designated People folder and reference or embed contacts in other notes via @-style links ([[@Name]] and ![[@Name]])."
 
     stats: {
-        downloads:  91
+        downloads:  98
         updated_at: 1763802246000
     }
 }

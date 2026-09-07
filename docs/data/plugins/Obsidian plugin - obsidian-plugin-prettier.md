@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-plugin-prettier
 alt:
   - https://github.com/hipstersmoothie/obsidian-plugin-prettier
-downloads: 21158
+downloads: 21410
 updated at: "2023-05-11T01:56:44Z"
 related to:
   - "[[GitHub - 340814059]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format notes and selections with Prettier to apply consistent Markdown and code styling. Format entire files or only selected text, include code blocks, or run automatically on save."
 
     stats: {
-        downloads:  21158
+        downloads:  21410
         updated_at: 1683770204000
     }
 }

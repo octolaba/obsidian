@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/writing-goals
 alt:
   - https://github.com/lynchjames/obsidian-writing-goals
-downloads: 32164
+downloads: 32713
 updated at: "2024-08-14T23:56:09Z"
 related to:
   - "[[GitHub - 682699279]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set dynamic overall and daily word goals for notes and folders, and track progress in real time as you write. Store goals in frontmatter, roll up folder totals recursively, and display progress bars plus a unified stats view to edit goals and jump to notes."
 
     stats: {
-        downloads:  32164
+        downloads:  32713
         updated_at: 1723679769000
     }
 }

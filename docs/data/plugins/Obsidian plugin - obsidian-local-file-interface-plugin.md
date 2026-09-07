@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-local-file-interface-plugin
 alt:
   - https://github.com/qawatake/obsidian-local-file-interface-plugin
-downloads: 6015
+downloads: 6233
 updated at: "2022-01-07T12:03:03Z"
 related to:
   - "[[GitHub - 444710266]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import files from anywhere on your device into the vault and export vault files to other device locations. Add folder and file context menus plus commands for fast, one-step import and export operations."
 
     stats: {
-        downloads:  6015
+        downloads:  6233
         updated_at: 1641556983000
     }
 }

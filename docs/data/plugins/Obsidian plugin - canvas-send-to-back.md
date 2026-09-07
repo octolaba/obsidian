@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-send-to-back
 alt:
   - https://github.com/zachatoo/obsidian-canvas-send-to-back
-downloads: 13885
+downloads: 14328
 updated at: "2026-05-13T05:19:24Z"
 related to:
   - "[[GitHub - 693929685]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Send a selected Canvas card behind all other cards to move it to the back of the layer stack. Clear visual clutter and prioritize other cards by adjusting the canvas stacking order."
 
     stats: {
-        downloads:  13885
+        downloads:  14328
         updated_at: 1778649564000
     }
 }

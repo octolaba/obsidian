@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/liuyao
 alt:
   - https://github.com/baendlorel/obsidian-liuyao
-downloads: 155
+downloads: 166
 updated at: "2026-07-02T02:00:47Z"
 related to:
   - "[[GitHub - 1240617742]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render six-line liuyao divination diagrams from fenced liuyao blocks using a six-digit code or trigram names and an optional date. Show six gods when a date is present, display family and hexagram name, annotate each line with relation text, and mark 世 or 应 when applicable."
 
     stats: {
-        downloads:  155
+        downloads:  166
         updated_at: 1782957647000
     }
 }

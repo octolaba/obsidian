@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quick-peek-sidebar
 alt:
   - https://github.com/bwya77/obsidian-quick-peek-sidebar
-downloads: 3374
+downloads: 3449
 updated at: "2026-01-21T15:29:46Z"
 related to:
   - "[[GitHub - 955614170]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Expand and collapse the left, right, or both sidebars by hovering over the window edges. Customize hover trigger areas, expand/collapse timing, animation speed, maximum widths, overlay mode and sync behavior. Pin sidebars with a double-click to keep them open."
 
     stats: {
-        downloads:  3374
+        downloads:  3449
         updated_at: 1769009386000
     }
 }

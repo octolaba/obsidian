@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/timelive
 alt:
   - https://github.com/annimon/obsidian-timelive
-downloads: 1256
+downloads: 1296
 updated at: "2025-12-20T11:10:51Z"
 related to:
   - "[[GitHub - 941074102]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn a list of dates enclosed in | into a readable timeline without requiring code blocks, supporting single dates, ranges (start - end), and dynamic markers like now/today/present. Include links, images, videos, formatted text and code blocks inside events while auto-detecting date formats and rendering in Reading view or embedded live-edit mode."
 
     stats: {
-        downloads:  1256
+        downloads:  1296
         updated_at: 1766229051000
     }
 }

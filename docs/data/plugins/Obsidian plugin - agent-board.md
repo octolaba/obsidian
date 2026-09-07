@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/agent-board
 alt:
   - https://github.com/aniruddh-jammoria/obsidian-agentic-todolist
-downloads: 200
+downloads: 271
 updated at: "2026-07-19T16:39:22Z"
 related to:
   - "[[GitHub - 1250166685]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep a visual task board synchronized in real time with a Markdown todo file, reflecting edits both on the board and in the file — including external changes. Display #/##/### headings as columns, edit tasks inline, mark critical items with a badge, collapse completed tasks, reorder columns, and render Obsidian wiki-links and About-line tooltips."
 
     stats: {
-        downloads:  200
+        downloads:  271
         updated_at: 1784479162000
     }
 }

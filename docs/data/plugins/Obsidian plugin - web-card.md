@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/web-card
 alt:
   - https://github.com/xuxiaominger/obsidian-web-card
-downloads: 9
+downloads: 34
 updated at: "2026-07-23T08:11:38Z"
 related to:
   - "[[GitHub - 1309340137]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert copied web highlights into styled cards that auto-detect and include the source URL and page title. Switch between callout, code block, or embed layouts and insert cards directly from the clipboard or from selected text."
 
     stats: {
-        downloads:  9
+        downloads:  34
         updated_at: 1784794298000
     }
 }

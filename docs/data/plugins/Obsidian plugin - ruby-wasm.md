@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ruby-wasm
 alt:
   - https://github.com/geeknees/obsidian-ruby-wasm-plugin
-downloads: 481
+downloads: 490
 updated at: "2026-05-16T08:28:44Z"
 related to:
   - "[[GitHub - 792994989]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run Ruby code blocks via WebAssembly directly inside Obsidian. Select a Ruby code block, execute it, and view the output inline or in the command results."
 
     stats: {
-        downloads:  481
+        downloads:  490
         updated_at: 1778920124000
     }
 }

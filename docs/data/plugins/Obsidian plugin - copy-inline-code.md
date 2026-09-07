@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-inline-code
 alt:
   - https://github.com/ozavodny/obsidian-copy-inline-code-plugin
-downloads: 17194
+downloads: 17484
 updated at: "2025-05-30T15:06:56Z"
 related to:
   - "[[GitHub - 679232655]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a clickable, customizable copy icon inside inline code spans to copy their content to the clipboard. Click the icon to copy inline code quickly without selecting text."
 
     stats: {
-        downloads:  17194
+        downloads:  17484
         updated_at: 1748617616000
     }
 }

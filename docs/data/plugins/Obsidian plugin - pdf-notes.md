@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pdf-notes
 alt:
   - https://github.com/lucidalpha/obsidian-pdf-notes
-downloads: 443
+downloads: 566
 updated at: "2026-04-15T20:43:24Z"
 related to:
   - "[[GitHub - 1174371635]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open PDFs in Obsidian and draw directly on pages, saving strokes and shapes back into the PDF file. Use adjustable pen, shapes and eraser, insert or delete blank/lined/grid/dotted/Cornell pages, enable auto-save and optional backups, and flatten annotations for any PDF viewer."
 
     stats: {
-        downloads:  443
+        downloads:  566
         updated_at: 1776285804000
     }
 }

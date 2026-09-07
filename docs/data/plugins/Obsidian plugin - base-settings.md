@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/base-settings
 alt:
   - https://github.com/jaidetree/obsidian-base-settings
-downloads: 244
+downloads: 279
 updated at: "2026-03-22T02:21:05Z"
 related to:
   - "[[GitHub - 1173590977]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Enforce shared Obsidian settings across multi-user vaults by merging partial JSON templates into .obsidian config files on startup and whenever settings change. Give template values precedence while deep-merging objects, apply per-key merge directives for array/concat strategies, and skip templates for configs that don't yet exist so users keep their customizations."
 
     stats: {
-        downloads:  244
+        downloads:  279
         updated_at: 1774146065000
     }
 }

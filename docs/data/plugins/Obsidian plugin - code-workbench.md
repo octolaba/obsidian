@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/code-workbench
 alt:
   - https://github.com/vitaly-andr/obsidian-code-workbench
-downloads: 526
-updated at: "2026-07-19T08:50:19Z"
+downloads: 694
+updated at: "2026-08-09T20:13:06Z"
 related to:
   - "[[GitHub - 1274068174]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Code Workbench gives Claude the tools to maintain your Obsidian vault, and turns Obsidian into a real code editor. Turn on the vault tools and Claude reads and edits your notes through Obsidian's own link graph as MCP tools (backlinks, wikilinks, frontmatter), making link-preserving changes (create, append, rename, delete to trash) that you approve before they apply, so it can file new notes and fix links across a PARA or Zettelkasten system without breaking them. Because it drives the Claude Code CLI you already run, it works on your Claude subscription, not a metered API key. On the code side: syntax highlighting and inline diagnostics for 50+ languages via tree-sitter (Python, Go, Rust, TypeScript, JSON, YAML), one-command formatting with Prettier, and a one-click launcher that starts the CLI connected, no /ide. Claude's edits open as a Keep/Reject diff you control; a branch graph and inline git blame let you review what changed. Model-agnostic: Claude, Kimi K2, DeepSeek, GLM."
 
     stats: {
-        downloads:  526
-        updated_at: 1784451019000
+        downloads:  694
+        updated_at: 1786306386000
     }
 }
 ```

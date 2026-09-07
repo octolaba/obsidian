@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-figures
 alt:
   - https://github.com/sunnyyylin/obsidian-better-figures
-downloads: 140
+downloads: 179
 updated at: "2026-07-04T06:41:51Z"
 related to:
   - "[[GitHub - 1276555582]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add centered captions to images by using the Markdown alt text as the caption. Render captions in Reading view and Live Preview with pure CSS, leave images with empty alt text unchanged, and support external URLs and internal ![[image]] embeds without runtime dependencies or settings."
 
     stats: {
-        downloads:  140
+        downloads:  179
         updated_at: 1783147311000
     }
 }

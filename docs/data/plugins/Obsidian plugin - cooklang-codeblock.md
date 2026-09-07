@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cooklang-codeblock
 alt:
   - https://github.com/raunaqgupta/obsidian-cooklang-codeblock-plugin
-downloads: 138
+downloads: 152
 updated at: "2026-05-20T17:39:11Z"
 related to:
   - "[[GitHub - 1218201172]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed Cooklang recipes as rendered recipe blocks that display ingredients, cookware, and method in your notes. Optionally display meta information such as cook time and serving size at the top of the block."
 
     stats: {
-        downloads:  138
+        downloads:  152
         updated_at: 1779298751000
     }
 }

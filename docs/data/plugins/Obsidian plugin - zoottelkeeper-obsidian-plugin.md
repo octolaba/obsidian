@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zoottelkeeper-obsidian-plugin
 alt:
   - https://github.com/akosbalasko/zoottelkeeper-obsidian-plugin
-downloads: 85521
+downloads: 86327
 updated at: "2022-03-24T17:56:41Z"
 related to:
   - "[[GitHub - 368216278]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate and maintain hierarchical index notes for vault folders, auto-updating file and subfolder links, tags and optional emojis. Configure include/exclude paths, index templates, sorting and frontmatter separators, embed child indexes in previews, and trigger indexing manually."
 
     stats: {
-        downloads:  85521
+        downloads:  86327
         updated_at: 1648144601000
     }
 }

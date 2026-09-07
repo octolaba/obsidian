@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-age-highlighter
 alt:
   - https://github.com/memineoff/note-age-highlighter
-downloads: 92
+downloads: 104
 updated at: "2026-05-19T10:44:50Z"
 related to:
   - "[[GitHub - 1243428417]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight notes in the file explorer that haven't been modified for a configurable number of days. Set an age threshold and highlight color to mark stale files using last-modified time (mtime); changes apply instantly and the plugin remains lightweight and dependency-free."
 
     stats: {
-        downloads:  92
+        downloads:  104
         updated_at: 1779187490000
     }
 }

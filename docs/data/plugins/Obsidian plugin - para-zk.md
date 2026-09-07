@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/para-zk
 alt:
   - https://github.com/kangig94/obsidian-para-zk
-downloads: 135
-updated at: "2026-07-13T08:09:40Z"
+downloads: 200
+updated at: "2026-07-25T23:16:49Z"
 related to:
   - "[[GitHub - 1252316037]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Build a PARA/Zettelkasten wiki in Obsidian with LLM workflows that ingest sources into interlinked notes while preserving frontmatter, references, and backlinks so knowledge compounds in your vault. Expose a native CLI and an MCP-aware server with shell-safe edit ops (replace/set/add) to script and LLM-drive vault automation."
 
     stats: {
-        downloads:  135
-        updated_at: 1783930180000
+        downloads:  200
+        updated_at: 1785021409000
     }
 }
 ```

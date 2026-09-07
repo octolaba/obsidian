@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-stopwatch-plugin
 alt:
   - https://github.com/tokuhirom/obsidian-stopwatch-plugin
-downloads: 8696
+downloads: 8745
 updated at: "2021-05-11T06:38:28Z"
 related to:
   - "[[GitHub - 358814808]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track elapsed time with a simple stopwatch inside Obsidian. Start, stop, and reset the timer via a button or command."
 
     stats: {
-        downloads:  8696
+        downloads:  8745
         updated_at: 1620715108000
     }
 }

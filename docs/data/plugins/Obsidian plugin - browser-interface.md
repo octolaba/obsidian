@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/browser-interface
 alt:
   - https://github.com/jason-lieb/obsidian-browser-interface-plugin
-downloads: 886
+downloads: 910
 updated at: "2024-07-16T05:29:32Z"
 related to:
   - "[[GitHub - 767328300]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage Chrome tabs saved by the companion Chrome extension directly inside Obsidian. Display saved tabs in a list and open or delete them with built-in buttons. Require the Meta Bind plugin."
 
     stats: {
-        downloads:  886
+        downloads:  910
         updated_at: 1721107772000
     }
 }

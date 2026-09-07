@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/zoom-mynotes-sync
 alt:
   - https://github.com/script-repo/Zoom-MyNotes-Obsidian-plugin
-downloads: 23
-updated at: "2026-07-23T01:14:31Z"
+downloads: 68
+updated at: "2026-07-24T20:45:01Z"
 related to:
   - "[[GitHub - 1308226661]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync Zoom AI Companion/My Notes transcripts into your vault by deploying and controlling a local Python + Playwright backend. Deploy a Python virtualenv, install Playwright, register OS background jobs, and run a separate local sync script (sync.py) that the plugin installs and controls."
 
     stats: {
-        downloads:  23
-        updated_at: 1784769271000
+        downloads:  68
+        updated_at: 1784925901000
     }
 }
 ```

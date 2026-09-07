@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/local-git-sync
 alt:
   - https://github.com/astondky/obsidian-local-git-sync
-downloads: 138
+downloads: 157
 updated at: "2026-06-02T11:08:00Z"
 related to:
   - "[[GitHub - 1257073697]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync and back up your Obsidian vault using the local Git executable. Commit, pull, push and auto-sync changes from inside Obsidian, receive conflict warnings on rebase, and work with GitHub, GitLab, Gitee or self-hosted remotes. Add optional placeholder files to track empty folders in Git."
 
     stats: {
-        downloads:  138
+        downloads:  157
         updated_at: 1780398480000
     }
 }

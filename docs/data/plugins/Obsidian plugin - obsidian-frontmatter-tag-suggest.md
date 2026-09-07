@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-frontmatter-tag-suggest
 alt:
   - https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest
-downloads: 28165
+downloads: 28323
 updated at: "2022-04-06T19:32:01Z"
 related to:
   - "[[GitHub - 425976894]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Autocomplete tags in YAML frontmatter without requiring a leading #. Show tag suggestions on lines starting with tags: or tag: and insert plain tag names so frontmatter remains valid."
 
     stats: {
-        downloads:  28165
+        downloads:  28323
         updated_at: 1649273521000
     }
 }

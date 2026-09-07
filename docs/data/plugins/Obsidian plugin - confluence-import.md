@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/confluence-import
 alt:
   - https://github.com/hikosalaidarkcommit/confluence-import
-downloads: 21
-updated at: "2026-07-23T03:32:39Z"
+downloads: 64
+updated at: "2026-07-29T04:16:30Z"
 related to:
   - "[[GitHub - 1308427473]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Pull Confluence pages into Obsidian notes with a manual, one-way import that never writes back to Confluence. Preview read-only diffs, detect changes and empty-page conversions, choose to replace or keep local, and record pulled page versions in confluence-version frontmatter."
 
     stats: {
-        downloads:  21
-        updated_at: 1784777559000
+        downloads:  64
+        updated_at: 1785298590000
     }
 }
 ```

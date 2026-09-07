@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-auto-split
 alt:
   - https://github.com/jsartelle/obsidian-auto-split
-downloads: 11701
+downloads: 11789
 updated at: "2024-08-12T01:40:58Z"
 related to:
   - "[[GitHub - 416556997]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open notes with editor and preview side-by-side automatically when your workspace is empty. Split the current pane into two linked panes with a command; activates only for Markdown files and works on desktop and tablet."
 
     stats: {
-        downloads:  11701
+        downloads:  11789
         updated_at: 1723426858000
     }
 }

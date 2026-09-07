@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notetweet
 alt:
   - https://github.com/chhoumann/notetweet_obsidian
-downloads: 7111
+downloads: 7178
 updated at: "2026-07-12T21:06:55Z"
 related to:
   - "[[GitHub - 342176784]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Post to X (formerly Twitter) without leaving your vault. Compose single posts or full threads in a writing-first modal, create them from selected text or a whole note, and split long text into a thread automatically. Attach images by pasting, picking from your vault, or embedding [[wikilinks]]. Schedule posts through a self-hosted scheduler, review everything you posted, and delete recent posts if you change your mind. API credentials are stored in the app’s secure secret storage."
 
     stats: {
-        downloads:  7111
+        downloads:  7178
         updated_at: 1783890415000
     }
 }

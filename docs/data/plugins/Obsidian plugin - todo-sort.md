@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/todo-sort
 alt:
   - https://github.com/ryangomba/obsidian-todo-sort
-downloads: 7899
+downloads: 7947
 updated at: "2022-12-30T02:04:34Z"
 related to:
   - "[[GitHub - 561596970]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sort todos by completion status within a note. Keep incomplete tasks at the top and place completed items below for clearer task lists."
 
     stats: {
-        downloads:  7899
+        downloads:  7947
         updated_at: 1672365874000
     }
 }

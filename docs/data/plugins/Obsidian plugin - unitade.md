@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/unitade
 alt:
   - https://github.com/falcion/UNITADE.md
-downloads: 35915
+downloads: 37015
 updated at: "2026-02-01T19:59:57Z"
 related to:
   - "[[GitHub - 674900523]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Register and open any file extension in Obsidian, forcing files in your vault to open regardless of type. Render registered files as editable code with a code-editor interface and provide compatibility modules for older plugin versions."
 
     stats: {
-        downloads:  35915
+        downloads:  37015
         updated_at: 1769975997000
     }
 }

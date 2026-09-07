@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sidecar
 alt:
   - https://github.com/mattmaiorana/sidecar
-downloads: 150
+downloads: 204
 updated at: "2026-07-11T04:18:03Z"
 related to:
   - "[[GitHub - 1281749974]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a clean, narrow popout window for navigating and editing project notes while keeping the main Obsidian window untouched. Open your default or current note and edit in a full Markdown view with back, home, pop-in and pin controls."
 
     stats: {
-        downloads:  150
+        downloads:  204
         updated_at: 1783743483000
     }
 }

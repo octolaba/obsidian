@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/publish-git
 alt:
   - https://github.com/fleker/publish-on-github-for-obsidian
-downloads: 9
-updated at: "2026-07-23T23:58:03Z"
+downloads: 57
+updated at: "2026-07-30T23:32:12Z"
 related to:
   - "[[GitHub - 1308051467]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Publish tagged notes from your vault to a GitHub Pages Jekyll site, syncing only files marked with your public tag. Convert Obsidian wikilinks and embedded images to relative Markdown, generate HTML badges from frontmatter, validate links to avoid broken public links, and run automated Git commits and pushes with WSL Git support."
 
     stats: {
-        downloads:  9
-        updated_at: 1784851083000
+        downloads:  57
+        updated_at: 1785454332000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-autocomplete-plugin
 alt:
   - https://github.com/yeboster/autocomplete-obsidian
-downloads: 37268
+downloads: 38018
 updated at: "2021-06-12T15:51:35Z"
 related to:
   - "[[GitHub - 326420244]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add inline autocomplete with automatic and manual triggers to speed up typing in Obsidian. Provide language-aware tokenizers (Arabic, Japanese, default), session- and file-based suggestions, snippet support, context-aware LaTeX completion, and Vim-mode integration."
 
     stats: {
-        downloads:  37268
+        downloads:  38018
         updated_at: 1623513095000
     }
 }

@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/doing
 alt:
   - https://github.com/rooyca/doing
-downloads: 964
+downloads: 982
 updated at: "2025-08-07T00:55:42Z"
 related to:
   - "[[GitHub - 816069458]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Display the current task in the status bar to keep context when switching tasks. Log completed tasks with timestamps to doing.md and browse a history of past tasks."
 
     stats: {
-        downloads:  964
+        downloads:  982
         updated_at: 1754528142000
     }
 }

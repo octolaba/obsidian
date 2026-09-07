@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chatgpt-math-clipboard
 alt:
   - https://github.com/vofen430/obsidian-chatgpt-math-clipboard
-downloads: 137
+downloads: 181
 updated at: "2026-05-30T06:53:52Z"
 related to:
   - "[[GitHub - 1254114617]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert ChatGPT formulas in the Web Viewer into strict Obsidian Markdown, turning inline KaTeX into $...$ and display KaTeX into $$...$$. Operate locally on chatgpt.com pages, write plain-text clipboard only to avoid rich HTML pastes, and fall back to native copy if extraction fails."
 
     stats: {
-        downloads:  137
+        downloads:  181
         updated_at: 1780124032000
     }
 }

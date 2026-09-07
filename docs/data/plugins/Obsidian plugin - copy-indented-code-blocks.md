@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-indented-code-blocks
 alt:
   - https://github.com/gvivster/obsidian-copy-indented-code-blocks
-downloads: 19
+downloads: 40
 updated at: "2025-11-06T00:39:32Z"
 related to:
   - "[[GitHub - 1090644746]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy indented code blocks without their list indentation so pasted code has no unwanted leading spaces. Detect and remove the block’s exact leading whitespace from each line while preserving internal indentation, letting you fold code blocks inside lists cleanly."
 
     stats: {
-        downloads:  19
+        downloads:  40
         updated_at: 1762389572000
     }
 }

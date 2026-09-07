@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-media-db-plugin
 alt:
   - https://github.com/mprojectscode/obsidian-media-db-plugin
-downloads: 63667
+downloads: 65918
 updated at: "2025-01-27T20:54:59Z"
 related to:
   - "[[GitHub - 488584340]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search and import movies, series, anime, manga, books, comics, games, music, and wiki articles from multiple APIs into your vault by title or ID. Apply template tags to shape note content, rename or remove metadata fields via mappings, download poster images for offline access, and run bulk imports to populate your notes."
 
     stats: {
-        downloads:  63667
+        downloads:  65918
         updated_at: 1738011299000
     }
 }

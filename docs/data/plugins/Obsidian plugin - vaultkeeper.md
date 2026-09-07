@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/vaultkeeper
 alt:
   - https://github.com/dudethatserin/vaultkeeper
-downloads: 251
-updated at: "2026-05-29T03:40:03Z"
+downloads: 376
+updated at: "2026-08-11T15:32:15Z"
 related to:
   - "[[GitHub - 1250785450]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Organize and manage attachments inside your vault by moving files, sorting into subfolders, and cleaning empty folders. Rename pasted files and update note embeds automatically. Find and purge unlinked attachments, and extract text from images and PDFs with OCR."
 
     stats: {
-        downloads:  251
-        updated_at: 1780026003000
+        downloads:  376
+        updated_at: 1786462335000
     }
 }
 ```

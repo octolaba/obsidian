@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/forest-syntactic-trees
 alt:
   - https://github.com/lucianski/Forest-Syntactic-Trees-in-Obsidian
-downloads: 85
+downloads: 103
 updated at: "2026-06-12T07:42:37Z"
 related to:
   - "[[GitHub - 1264717254]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render LaTeX forest-style syntactic trees inline as SVG, with node labels processed by MathJax so primes, superscripts, subscripts and inline math typeset correctly. Use bracket syntax and per-node options with for-tree/for-descendants propagation, roof (triangle) phrases, edge labels, and draw-style movement arrows between named nodes."
 
     stats: {
-        downloads:  85
+        downloads:  103
         updated_at: 1781250157000
     }
 }

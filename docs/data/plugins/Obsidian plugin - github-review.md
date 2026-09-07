@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/github-review
 alt:
   - https://github.com/christophy/obsidian-github-review
-downloads: 105
+downloads: 129
 updated at: "2026-06-08T09:50:25Z"
 related to:
   - "[[GitHub - 1259469380]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Review GitHub issues and pull requests in Obsidian, render Markdown specs, and post comments and PR reviews directly to GitHub as your token owner. Create issues from repo templates, inspect full file changes with collapsible diffs and 'Viewed' checks, and query open items via a built-in Claude bridge without storing repo data locally."
 
     stats: {
-        downloads:  105
+        downloads:  129
         updated_at: 1780912225000
     }
 }

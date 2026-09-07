@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/linkshelf
 alt:
   - https://github.com/joelseq/obsidian-linkstowr
-downloads: 4995
+downloads: 5025
 updated at: "2026-03-09T06:06:57Z"
 related to:
   - "[[GitHub - 667628658]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync bookmarks saved with the LinkStowr Chrome extension into your Obsidian vault as Markdown files using customizable templates. Capture title, URL, tags and notes, and remove remote copies so your vault becomes the long-term home for those links."
 
     stats: {
-        downloads:  4995
+        downloads:  5025
         updated_at: 1773036417000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/japanese-word-splitter
 alt:
   - https://github.com/sonarait/cm-japanese-patch
-downloads: 6798
+downloads: 6869
 updated at: "2022-02-14T03:55:44Z"
 related to:
   - "[[GitHub - 458159232]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Patch Obsidian's built-in CodeMirror editor to support Japanese word splitting in edit mode. Use tiny-segmenter for Japanese tokenization so cursor movement, selection, and text operations respect word boundaries."
 
     stats: {
-        downloads:  6798
+        downloads:  6869
         updated_at: 1644810944000
     }
 }

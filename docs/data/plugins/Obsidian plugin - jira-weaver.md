@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jira-weaver
 alt:
   - https://github.com/gs-ax/obsidian-jira-weaver
-downloads: 199
+downloads: 235
 updated at: "2026-06-20T09:52:40Z"
 related to:
   - "[[GitHub - 1235552782]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Jira issues into your vault as Markdown files with structured YAML frontmatter, one-click or scheduled per-profile JQL queries, and separate target folders. Map any Jira field to frontmatter, wrap values as [[wiki links]] for Graph View and Dataview, preserve notes with a memo marker, and inspect per-profile sync logs."
 
     stats: {
-        downloads:  199
+        downloads:  235
         updated_at: 1781949160000
     }
 }

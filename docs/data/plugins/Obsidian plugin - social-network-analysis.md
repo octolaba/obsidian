@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/social-network-analysis
 alt:
   - https://github.com/fiddlestix27/Obsidian-SNA
-downloads: 30
+downloads: 57
 updated at: "2026-07-16T11:32:40Z"
 related to:
   - "[[GitHub - 1239287822]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Analyze your vault's note network with centrality metrics (degree, betweenness, eigenvector, closeness, PageRank, harmonic) and clustering coefficients to surface key notes and communities. Visualize graphs with force-directed layouts, inspect directional and weighted links, and auto-export analysis results to Markdown."
 
     stats: {
-        downloads:  30
+        downloads:  57
         updated_at: 1784201560000
     }
 }

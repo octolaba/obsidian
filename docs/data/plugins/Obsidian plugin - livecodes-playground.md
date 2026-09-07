@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/livecodes-playground
 alt:
   - https://github.com/gapmiss/livecodes-playground
-downloads: 2220
+downloads: 2318
 updated at: "2026-05-31T22:02:13Z"
 related to:
   - "[[GitHub - 753332835]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create runnable in-vault code playgrounds with live previews and configurable markup, style, and script languages. Open starter templates or quick prompts, store playgrounds and notes as files in your vault, and run examples across many languages and frameworks."
 
     stats: {
-        downloads:  2220
+        downloads:  2318
         updated_at: 1780264933000
     }
 }

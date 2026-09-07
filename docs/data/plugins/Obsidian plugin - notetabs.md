@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notetabs
 alt:
   - https://github.com/project-free-rangers/obsidian-notetabs
-downloads: 442
+downloads: 484
 updated at: "2026-06-12T16:08:09Z"
 related to:
   - "[[GitHub - 1131842316]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize notes with clickable, in-note tabbed sections to group content and switch views instantly. Insert tabbed sections or add tabs via the editor context menu or markdown blocks; use adaptive headers, vertical or compact layouts, and rounded-edge styles while staying compatible with most themes and plugins."
 
     stats: {
-        downloads:  442
+        downloads:  484
         updated_at: 1781280489000
     }
 }

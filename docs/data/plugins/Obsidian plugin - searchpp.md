@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/searchpp
 alt:
   - https://github.com/nhaouari/searchpp
-downloads: 7480
+downloads: 7615
 updated at: "2020-11-09T08:06:52Z"
 related to:
   - "[[GitHub - 309779802]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert search results into the current note using inline placeholders like {{SEARCH_TEXT/NUMBER_OF_CHARS}}. Extract matching snippets with the specified surrounding character count and append found notes below the placeholder, then refresh results by running the Search++ command."
 
     stats: {
-        downloads:  7480
+        downloads:  7615
         updated_at: 1604909212000
     }
 }

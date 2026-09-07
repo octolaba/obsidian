@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pinned-tab-utils
 alt:
   - https://github.com/narwhai/pinned-tab-utils
-downloads: 177
+downloads: 211
 updated at: "2026-04-27T18:51:58Z"
 related to:
   - "[[GitHub - 1207546340]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Place pinned tabs at the left end of the tab bar and keep new tabs opening to the right of them. Add additional pinned tabs to the next slot on the right and move unpinned tabs to the area to the right of the pinned section."
 
     stats: {
-        downloads:  177
+        downloads:  211
         updated_at: 1777315918000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/taskmap
 alt:
   - https://github.com/poanse/obsidian-taskmap
-downloads: 422
+downloads: 488
 updated at: "2026-07-13T06:38:43Z"
 related to:
   - "[[GitHub - 1117908917]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Plan projects with interactive GUI task trees and a canvas-style automatic layout that removes manual positioning. Show color-coded status, dependency flow, and blocked areas at a glance; link tasks to notes, auto-update parent status from children, and hide irrelevant branches to navigate large projects."
 
     stats: {
-        downloads:  422
+        downloads:  488
         updated_at: 1783924723000
     }
 }

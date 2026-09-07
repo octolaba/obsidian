@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/special-callouts
 alt:
   - https://github.com/ahseyg/special-callouts
-downloads: 1626
+downloads: 2177
 updated at: "2026-07-06T12:36:10Z"
 related to:
   - "[[GitHub - 1131727859]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create advanced callouts with grid layouts, custom colors, gradients, neon-style glows and multi-column lists using simple inline syntax. Arrange callouts side-by-side, control column counts, and save named styles for reuse."
 
     stats: {
-        downloads:  1626
+        downloads:  2177
         updated_at: 1783341370000
     }
 }

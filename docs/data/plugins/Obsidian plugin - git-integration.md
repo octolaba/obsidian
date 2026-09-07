@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/git-integration
 alt:
   - https://github.com/noradroid/obsidian-git-integration
-downloads: 3137
+downloads: 3170
 updated at: "2024-02-22T15:46:08Z"
 related to:
   - "[[GitHub - 750234885]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your vault with a remote Git repository directly from Obsidian via an integrated git menu. Initialize repositories, create commits with messages, and push or pull changes; requires Git and works on Windows 10+."
 
     stats: {
-        downloads:  3137
+        downloads:  3170
         updated_at: 1708616768000
     }
 }

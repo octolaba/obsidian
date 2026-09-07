@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/yaml-properties
 alt:
   - https://github.com/haivri/obsidian-yaml-properties
-downloads: 63
-updated at: "2026-07-16T02:26:57Z"
+downloads: 134
+updated at: "2026-08-08T16:02:24Z"
 related to:
   - "[[GitHub - 1302101381]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Edit YAML frontmatter directly in Live Preview with full syntax highlighting and an editable block that collapses into a compact summary. Display a highlighted read-only block in Reading view, apply bundled Source-mode styling, and keep notes as plain Markdown without adding metadata."
 
     stats: {
-        downloads:  63
-        updated_at: 1784168817000
+        downloads:  134
+        updated_at: 1786204944000
     }
 }
 ```

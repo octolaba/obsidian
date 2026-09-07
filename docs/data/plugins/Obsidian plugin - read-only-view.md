@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/read-only-view
 alt:
   - https://github.com/mrkazzila/Read-Only-View
-downloads: 596
+downloads: 813
 updated at: "2026-05-30T08:58:33Z"
 related to:
   - "[[GitHub - 1164105865]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Force selected Markdown files to stay in Reading mode (preview). Apply local rule matching to target files, run on desktop and mobile, and evaluate rules locally with no network requests."
 
     stats: {
-        downloads:  596
+        downloads:  813
         updated_at: 1780131513000
     }
 }

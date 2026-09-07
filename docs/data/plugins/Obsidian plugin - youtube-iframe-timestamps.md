@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/youtube-iframe-timestamps
 alt:
   - https://github.com/nilsleo/obsidian-youtube-iframe-timestamps
-downloads: 3550
+downloads: 3608
 updated at: "2024-10-03T15:24:34Z"
 related to:
   - "[[GitHub - 867153334]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed YouTube videos with timestamped links directly in your notes using an iframe container. Click timestamps to jump to specific moments without leaving Obsidian. Be aware iframes only render in Reading View when the editor is in Source mode."
 
     stats: {
-        downloads:  3550
+        downloads:  3608
         updated_at: 1727969074000
     }
 }

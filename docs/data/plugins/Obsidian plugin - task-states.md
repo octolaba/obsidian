@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/task-states
 alt:
   - https://github.com/lucasmantuan/task-states
-downloads: 230
+downloads: 264
 updated at: "2026-05-30T19:33:36Z"
 related to:
   - "[[GitHub - 1157205330]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle task states with a single click on the checkbox to cycle through TODO, STANDBY, DONE, CANCELLED, PRIORITY and PROGRESS. Operate in Reading view, Live Preview, and Source mode while preserving Markdown task syntax and supporting -, *, + bullets, nested tasks, and blockquote task lines."
 
     stats: {
-        downloads:  230
+        downloads:  264
         updated_at: 1780169616000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/daily-habit
 alt:
   - https://github.com/fengshuzi/daily-habit
-downloads: 175
-updated at: "2026-06-29T02:18:28Z"
+downloads: 221
+updated at: "2026-08-04T03:45:54Z"
 related to:
   - "[[GitHub - 1131727703]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Track habits from your journal with tag-based check-ins and see a clear habit list, 7-day dot view, automatic streak counts, and completion totals. Filter by week or month to review trends and enjoy fast loading via date-file scanning and smart caching."
 
     stats: {
-        downloads:  175
-        updated_at: 1782699508000
+        downloads:  221
+        updated_at: 1785815154000
     }
 }
 ```

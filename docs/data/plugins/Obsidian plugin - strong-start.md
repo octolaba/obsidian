@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/strong-start
 alt:
   - https://github.com/leethobbit/obsidian-strong-start-plugin
-downloads: 65
+downloads: 145
 updated at: "2026-07-14T20:42:33Z"
 related to:
   - "[[GitHub - 1300822027]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and run TTRPG campaigns in Obsidian with a guided eight-step lazy-RPG prep board, campaign dashboard, and rollable random tables. Prep sessions with secrets that carry forward, run in a distraction-free mode that keeps secrets masked until revealed, and store everything as plain Markdown."
 
     stats: {
-        downloads:  65
+        downloads:  145
         updated_at: 1784061753000
     }
 }

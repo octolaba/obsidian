@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/snipsidian
 alt:
   - https://github.com/dimagious/snipsidian
-downloads: 1755
-updated at: "2026-05-22T09:36:02Z"
+downloads: 2450
+updated at: "2026-08-05T18:08:43Z"
 related to:
   - "[[GitHub - 1047935067]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create text shortcuts and snippets that expand instantly into formatted Markdown, with smart cursor placement and no expansion inside code blocks or YAML frontmatter. Insert snippets via hotstrings or a searchable snippet picker/Command Palette and manage organized snippet libraries and community packages."
 
     stats: {
-        downloads:  1755
-        updated_at: 1779442562000
+        downloads:  2450
+        updated_at: 1785953323000
     }
 }
 ```

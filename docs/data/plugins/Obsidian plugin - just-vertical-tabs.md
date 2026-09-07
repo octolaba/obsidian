@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/just-vertical-tabs
 alt:
   - https://github.com/narwhai/just-vertical-tabs
-downloads: 206
+downloads: 247
 updated at: "2026-05-11T19:13:15Z"
 related to:
   - "[[GitHub - 1205538765]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Align note tabs vertically on the left or right side of the app. Place the right-sidebar toggle in default, note header, or bottom of the tab bar, show optional tab icons, and collapse the tab bar to icons or title initials with a single command."
 
     stats: {
-        downloads:  206
+        downloads:  247
         updated_at: 1778526795000
     }
 }

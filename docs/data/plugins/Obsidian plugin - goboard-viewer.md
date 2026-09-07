@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/goboard-viewer
 alt:
   - https://github.com/j2masamitu/obsidian-goboard-viewer
-downloads: 913
+downloads: 966
 updated at: "2025-11-18T16:23:28Z"
 related to:
   - "[[GitHub - 1092104357]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display SGF files and SGF code blocks as interactive Go boards with playback controls, move navigation, variation selection, and game metadata display. Edit SGF inline using board-based stone placement, labels, comments and game info, then view and copy the updated SGF; works on desktop and mobile."
 
     stats: {
-        downloads:  913
+        downloads:  966
         updated_at: 1763483008000
     }
 }

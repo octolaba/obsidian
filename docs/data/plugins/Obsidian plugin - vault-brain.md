@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-brain
 alt:
   - https://github.com/savicprvoslav/vault-brain
-downloads: 290
+downloads: 388
 updated at: "2026-06-10T14:14:48Z"
 related to:
   - "[[GitHub - 1259640989]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Talk to your vault locally with multimodal AI powered by Gemma 4 via a local Ollama endpoint — no cloud, no API keys, zero data leaves your machine. Transcribe and summarize voice memos, extract text from images into clean Markdown, and run semantic vault search, chat, and edit workflows with cited results and previewable diffs."
 
     stats: {
-        downloads:  290
+        downloads:  388
         updated_at: 1781100888000
     }
 }

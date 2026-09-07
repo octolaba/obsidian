@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/floating-window
 alt:
   - https://github.com/whiteandgrey/obsidian-floating-window-plugin
-downloads: 114
+downloads: 129
 updated at: "2026-05-18T13:40:57Z"
 related to:
   - "[[GitHub - 1164761250]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display selected text passages in independent floating windows that preserve the original document's rendering and theme. Keep important paragraphs on-screen for reference and comparison with full Markdown support (headings, code blocks, tables, MathJax), intelligent sizing and smart positioning, and automatic cleanup when source documents close."
 
     stats: {
-        downloads:  114
+        downloads:  129
         updated_at: 1779111657000
     }
 }

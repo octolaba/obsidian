@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/tsumugi-mark
 alt:
   - https://github.com/mofukuru/TsumugiMark
-downloads: 549
-updated at: "2026-06-20T03:11:47Z"
+downloads: 580
+updated at: "2026-08-11T10:03:12Z"
 related to:
   - "[[GitHub - 896745412]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Switch the standard Markdown editor to a vertical writing view optimized for novels, screenplays, and Japanese text. Edit directly in the vertical pane with live preview, ruby (furigana) using |Kanji《kanji》 format, a document/selection character counter, and customizable fonts, sizes, and spacing."
 
     stats: {
-        downloads:  549
-        updated_at: 1781925107000
+        downloads:  580
+        updated_at: 1786442592000
     }
 }
 ```

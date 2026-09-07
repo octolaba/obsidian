@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/open-notes-graph-highlight
 alt:
   - https://github.com/4cjyxbq25cb/obsidian-open-notes-highlight
-downloads: 338
-updated at: "2026-07-12T21:40:19Z"
+downloads: 455
+updated at: "2026-08-01T11:48:57Z"
 related to:
   - "[[GitHub - 1273713747]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Highlight currently open notes in the graph view with a custom color and fixed enlarged node size. Dim non-open nodes and adjust color, size, and opacity from a compact in-graph control panel for quick visual focus."
 
     stats: {
-        downloads:  338
-        updated_at: 1783892419000
+        downloads:  455
+        updated_at: 1785584937000
     }
 }
 ```

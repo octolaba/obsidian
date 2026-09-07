@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/get-info-plugin
 alt:
   - https://github.com/chetachiezikeuzor/Get-Info-Plugin
-downloads: 6887
+downloads: 6904
 updated at: "2021-12-09T07:39:05Z"
 related to:
   - "[[GitHub - 434112690]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display the plugin's store availability and acceptance status for Get Info. Reveal changelog entries and support/donation information as they are published."
 
     stats: {
-        downloads:  6887
+        downloads:  6904
         updated_at: 1639035545000
     }
 }

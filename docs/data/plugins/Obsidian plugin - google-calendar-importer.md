@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/google-calendar-importer
 alt:
   - https://github.com/lexafaxine/GoogleCalendarImporter
-downloads: 2158
+downloads: 2275
 updated at: "2025-10-11T00:29:03Z"
 related to:
   - "[[GitHub - 1011791501]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Google Calendar events and tasks into any note or automatically inject them into Daily Notes using an automatic integration or a manual import command. Render events as configurable markdown code blocks, pick any date to import, and authenticate with Google via OAuth 2.0."
 
     stats: {
-        downloads:  2158
+        downloads:  2275
         updated_at: 1760142543000
     }
 }

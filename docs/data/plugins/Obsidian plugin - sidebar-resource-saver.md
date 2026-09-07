@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sidebar-resource-saver
 alt:
   - https://github.com/kjh-portfolio/202606-sidebar-resource-saver
-downloads: 114
+downloads: 141
 updated at: "2026-07-09T15:27:37Z"
 related to:
   - "[[GitHub - 1284980130]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Suspend webviews and iframes in Obsidian sidebars when they’re collapsed to free RAM and CPU. Detect collapses with an ultra-lightweight polling system, sweep hidden webviews across the DOM, shield events to prevent external plugins from overwriting pages, and automatically restore the exact page when expanded."
 
     stats: {
-        downloads:  114
+        downloads:  141
         updated_at: 1783610857000
     }
 }

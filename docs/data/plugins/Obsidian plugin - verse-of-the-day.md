@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/verse-of-the-day
 alt:
   - https://github.com/janisringli/verse-of-the-day-for-obsidian
-downloads: 634
+downloads: 649
 updated at: "2025-11-03T13:17:00Z"
 related to:
   - "[[GitHub - 767039271]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert the YouVersion Verse of the Day into any note via the Command Palette. Automate daily insertion with Templater to add the verse when creating new files."
 
     stats: {
-        downloads:  634
+        downloads:  649
         updated_at: 1762175820000
     }
 }

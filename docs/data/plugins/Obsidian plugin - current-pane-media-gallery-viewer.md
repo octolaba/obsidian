@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/current-pane-media-gallery-viewer
 alt:
   - https://github.com/usero2/obsidian-plugins-current-pane-media-gallery-viewer
-downloads: 139
+downloads: 182
 updated at: "2026-06-07T03:49:46Z"
 related to:
   - "[[GitHub - 1256289322]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display all images and videos from the active Markdown note in a dedicated, customizable side pane. Sync cursor and clicks between document and gallery, double-click to zoom, cycle repeated occurrences, and choose from six layouts with lazy rendering for very long notes."
 
     stats: {
-        downloads:  139
+        downloads:  182
         updated_at: 1780804186000
     }
 }

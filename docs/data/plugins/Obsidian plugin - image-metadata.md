@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-metadata
 alt:
   - https://github.com/alexeiskachykhin/obsidian-image-metadata-plugin
-downloads: 2060
+downloads: 2096
 updated at: "2024-11-10T03:26:15Z"
 related to:
   - "[[GitHub - 819164481]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit image metadata directly from the image viewer. Write Exif and XMP descriptions (Exif:ImageDescription, XMP:dc:description) for JPEG, PNG, and WEBP files."
 
     stats: {
-        downloads:  2060
+        downloads:  2096
         updated_at: 1731209175000
     }
 }

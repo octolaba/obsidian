@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vlc-bridge
 alt:
   - https://github.com/zuluwi/obsidian-vlc-bridge
-downloads: 3373
+downloads: 3423
 updated at: "2025-10-01T01:18:12Z"
 related to:
   - "[[GitHub - 744771513]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Start VLC with its web interface and open videos at specific timestamps using Obsidian URI links. Control playback from Obsidian and paste timestamped links or snapshots into notes to capture moments without leaving the editor."
 
     stats: {
-        downloads:  3373
+        downloads:  3423
         updated_at: 1759281492000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/print
 alt:
   - https://github.com/marijnbent/obsidian-print
-downloads: 37564
+downloads: 38949
 updated at: "2026-04-30T13:29:33Z"
 related to:
   - "[[GitHub - 849868561]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Print the current note, a selected text range, or all Markdown notes in a folder from the command palette, ribbon, or context menu. Include note titles and frontmatter, combine folder notes into a single output or use page breaks for horizontal rules, and preview generated HTML for debugging."
 
     stats: {
-        downloads:  37564
+        downloads:  38949
         updated_at: 1777555773000
     }
 }

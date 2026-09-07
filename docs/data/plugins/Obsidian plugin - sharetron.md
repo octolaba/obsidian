@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sharetron
 alt:
   - https://github.com/habit-labs/Sharetron
-downloads: 118
+downloads: 139
 updated at: "2026-06-10T06:58:40Z"
 related to:
   - "[[GitHub - 1263644983]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Share notes through the native OS share sheet as the original Markdown file or as a rendered, text-selectable PDF with embedded images. Access sharing from the ribbon, editor, context menus, or command palette on macOS (Markdown & PDF) and iOS; keep sharing local with no network calls and secure owner-only temp PDFs."
 
     stats: {
-        downloads:  118
+        downloads:  139
         updated_at: 1781074720000
     }
 }

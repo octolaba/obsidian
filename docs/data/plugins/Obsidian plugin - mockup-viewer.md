@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mockup-viewer
 alt:
   - https://github.com/twrusstw/mockup-viewer
-downloads: 127
+downloads: 145
 updated at: "2026-05-26T17:58:59Z"
 related to:
   - "[[GitHub - 1248325492]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview HTML mockups inside an isolated iframe with Obsidian's app.css, the active theme, and your plugin CSS injected so visuals mirror the real plugin without building or reloading. Hot-reload edits and re-render on theme switch, simulate host classes (like is-phone) without affecting the app, and run embedded scripts — open only mockups you trust."
 
     stats: {
-        downloads:  127
+        downloads:  145
         updated_at: 1779818339000
     }
 }

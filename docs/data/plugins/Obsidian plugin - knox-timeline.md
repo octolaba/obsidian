@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/knox-timeline
 alt:
   - https://github.com/cwagner223355/knox-timeline
-downloads: 124
-updated at: "2026-05-13T23:14:00Z"
+downloads: 146
+updated at: "2026-07-24T15:27:51Z"
 related to:
   - "[[GitHub - 1231975473]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Timeline of your Fastmail calendar (or calDAV) in Obsidian's right sidebar, with single- or two-day views and an all-day events strip. Create meeting notes from any event with one click, toggle calendars, hide noisy events, and auto-refresh at midnight."
 
     stats: {
-        downloads:  124
-        updated_at: 1778714040000
+        downloads:  146
+        updated_at: 1784906871000
     }
 }
 ```

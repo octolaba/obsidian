@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sourcemode-styling
 alt:
   - https://github.com/chrishoward-projects/sourcemode-styling
-downloads: 999
+downloads: 1066
 updated at: "2026-01-25T06:41:11Z"
 related to:
   - "[[GitHub - 1004873676]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Differentiate Obsidian's source mode from Live Preview by applying a raw, monospace editor aesthetic with customizable fonts and styling. Detect fonts automatically, apply changes instantly, and respect theme colors across desktop and mobile."
 
     stats: {
-        downloads:  999
+        downloads:  1066
         updated_at: 1769323271000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/custom-new-file-name
 alt:
   - https://github.com/hokolamp/obsidian-custom-new-file-name
-downloads: 2943
+downloads: 2984
 updated at: "2024-08-24T01:06:43Z"
 related to:
   - "[[GitHub - 779916338]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create new notes with custom-formatted filenames using template tokens and dynamic datetime stamps. Right-click any folder in the file explorer to generate a new note named according to your chosen format."
 
     stats: {
-        downloads:  2943
+        downloads:  2984
         updated_at: 1724461603000
     }
 }

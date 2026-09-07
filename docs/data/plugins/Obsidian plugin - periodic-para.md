@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/periodic-para
 alt:
   - https://github.com/quanru/obsidian-lifeos
-downloads: 49656
+downloads: 50587
 updated at: "2026-06-01T14:17:45Z"
 related to:
   - "[[GitHub - 661545264]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Practice the PARA method with periodic notes and usememos to organize projects, areas, resources, and archives. Create template-driven, queryable PARA notes using Templater and Dataview, and use a multilingual UI that follows Obsidian's language."
 
     stats: {
-        downloads:  49656
+        downloads:  50587
         updated_at: 1780323465000
     }
 }

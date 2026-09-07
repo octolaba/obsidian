@@ -177,7 +177,7 @@ const INVARIANTS = [
     { id: 'theme-template-manifest', alias: 'theme', file: 'manifest.json', patterns: [/"name": "Sample Theme"/] },
 
     { id: 'rel-mirror-source', alias: 'rel', file: '.github/workflows/mirror-community-json.yml', patterns: [/https:\/\/community\.obsidian\.md\/assets\/community-plugins\.json/, /cron: "17 \* \* \* \*"/] },
-    { id: 'rel-stable-version', alias: 'rel', file: 'desktop-releases.json', patterns: [/"latestVersion": "1\.12\.7"/] },
+    { id: 'rel-stable-version', alias: 'rel', file: 'desktop-releases.json', patterns: [/"latestVersion": "1\.13\.7"/, /"beta":\s*\{[^}]*"latestVersion": "1\.13\.7"/] },
     { id: 'rel-readme-pipeline', alias: 'rel', file: 'README.md', patterns: [/The `manifest\.json` in your repo will only be used to figure out the latest version/, /tagged identically to the version inside `manifest\.json`/] },
 
     { id: 'help-cli-gates', alias: 'help', file: 'en/Extending Obsidian/Obsidian CLI.md', patterns: [/Requires Obsidian 1\.12 installer/, /Obsidian installer version\]\] \(1\.12\.7\+\)/, /Enable \*\*Command line interface\*\*/, /If Obsidian is not running, the first command you run launches Obsidian/] },
@@ -501,7 +501,7 @@ function verifyStructure(main, checks) {
             if (
                 /\buntagged\s*(?:,|and|—|-)\s*(?:\*\*)?stable\b/i.test(flat) ||
                 /\|\s*untagged\s*\|\s*stable\s*\|/i.test(flat) ||
-                /\buntagged\b.{0,100}\busable at 1\.12\.7\b/i.test(flat) ||
+                /\buntagged\b.{0,100}\busable at 1\.13\.7\b/i.test(flat) ||
                 /no `?@since`? tag[^.]{0,100}\bstable at pin\b/i.test(flat)
             ) {
                 unsafeAvailabilityClaims.push(`${relative}: paragraph ${index + 1}`);
@@ -525,7 +525,7 @@ function verifyStructure(main, checks) {
         checks,
         'untagged-availability-honest',
         unsafeAvailabilityClaims.length === 0,
-        'untagged APIs are never called stable or usable at 1.12.7 without independent evidence',
+        'untagged APIs are never called stable or usable at 1.13.7 without independent evidence',
         unsafeAvailabilityClaims.join('; '),
     );
 

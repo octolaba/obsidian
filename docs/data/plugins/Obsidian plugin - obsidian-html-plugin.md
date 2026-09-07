@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-html-plugin
 alt:
   - https://github.com/nuthrash/obsidian-html-plugin
-downloads: 81682
+downloads: 86183
 updated at: "2026-06-29T14:01:42Z"
 related to:
   - "[[GitHub - 534040297]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open .html and .htm files directly inside Obsidian and render them in-place for quick reading. Choose operating modes to control scripting, styles, images, CSP and HTML sanitization for safer viewing."
 
     stats: {
-        downloads:  81682
+        downloads:  86183
         updated_at: 1782741702000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mindcanvas
 alt:
   - https://github.com/gengyabc/naotu
-downloads: 1373
+downloads: 2049
 updated at: "2026-06-03T06:03:31Z"
 related to:
   - "[[GitHub - 1237392372]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create zoomable, map-like mindmaps that pan and host linked notes, images and Excalidraw files with embedded previews. Use semantic zoom to shift between structure and content, import Markdown headings or backlinks to generate maps, and navigate large graphs with a minimap, mixed renderer and preview caching."
 
     stats: {
-        downloads:  1373
+        downloads:  2049
         updated_at: 1780466611000
     }
 }

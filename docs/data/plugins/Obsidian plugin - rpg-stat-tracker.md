@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rpg-stat-tracker
 alt:
   - https://github.com/name/obsidian-rpg
-downloads: 1749
+downloads: 1775
 updated at: "2024-06-23T17:34:24Z"
 related to:
   - "[[GitHub - 816999345]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track time spent in your vault and earn experience points for activity and number of notes. Level up as XP accumulates to unlock and upgrade virtual pets tied to your progress."
 
     stats: {
-        downloads:  1749
+        downloads:  1775
         updated_at: 1719164064000
     }
 }

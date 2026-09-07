@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chatterbox
 alt:
   - https://github.com/owo/obsidian-chatterbox-plugin
-downloads: 257
+downloads: 297
 updated at: "2026-06-04T05:45:19Z"
 related to:
   - "[[GitHub - 1116326021]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render messaging-style conversations from chatterbox code blocks by writing author lines with direction markers (> for right, < for left, ^ for center). Add optional subtext like timestamps, include custom text/HTML or character references, and compose multi-author chat transcripts."
 
     stats: {
-        downloads:  257
+        downloads:  297
         updated_at: 1780551919000
     }
 }

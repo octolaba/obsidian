@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/audio-transcription
 alt:
   - https://github.com/tzamtzis/obsidian-transcription-plugin
-downloads: 273
+downloads: 344
 updated at: "2026-05-18T15:00:42Z"
 related to:
   - "[[GitHub - 1115445139]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transcribe m4a and mp3 recordings into Markdown notes with speaker identification and automatic language detection for Greek and English. Extract summaries, key points, action items, and follow-ups using AI, choose local or cloud processing, and handle recordings over two hours."
 
     stats: {
-        downloads:  273
+        downloads:  344
         updated_at: 1779116442000
     }
 }

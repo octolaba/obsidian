@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/properties-filename
 alt:
   - https://github.com/gilles6/properties-filename
-downloads: 227
+downloads: 269
 updated at: "2026-05-05T07:44:33Z"
 related to:
   - "[[GitHub - 1228063447]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Rename notes automatically from frontmatter properties using configurable filename templates with {{property}} placeholders. Update linked wikilinks via Obsidian's rename API, scope rules by folder or type, and run manual or bulk renames or enable live auto-rename on property change."
 
     stats: {
-        downloads:  227
+        downloads:  269
         updated_at: 1777967073000
     }
 }

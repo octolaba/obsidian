@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/custom-selected-word-count
 alt:
   - https://github.com/banisterious/obsidian-custom-selected-word-count
-downloads: 1164
+downloads: 1216
 updated at: "2026-05-14T17:35:09Z"
 related to:
   - "[[GitHub - 978486838]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Analyze selections across editors and Canvas. Show live word, character (multiple modes) and sentence counts with exclusion rules, regex-based detection, link-aware counting, history, and optional status-bar or ribbon UI."
 
     stats: {
-        downloads:  1164
+        downloads:  1216
         updated_at: 1778780109000
     }
 }

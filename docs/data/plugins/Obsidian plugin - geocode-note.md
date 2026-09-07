@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/geocode-note
 alt:
   - https://github.com/blamouche/obsidian-geocode-note
-downloads: 252
+downloads: 338
 updated at: "2026-05-18T09:03:02Z"
 related to:
   - "[[GitHub - 1210842303]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add geographic metadata to notes — save coordinates, marker icon, color and resolved address in the YAML frontmatter. Set coordinates via device geolocation, address search, manual entry or a draggable MapLibre marker with live preview; render interactive inline maps from a geocode-map block and export geocoded notes to GeoJSON, KML, GPX or CSV."
 
     stats: {
-        downloads:  252
+        downloads:  338
         updated_at: 1779094982000
     }
 }

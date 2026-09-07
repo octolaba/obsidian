@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-plug-in-organizer
 alt:
   - https://github.com/october-learns/obsidian-plug-in-organizer
-downloads: 141
+downloads: 194
 updated at: "2026-06-09T17:00:13Z"
 related to:
   - "[[GitHub - 1261776777]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize core and community plugins from a single settings page. Group and categorize plugins, assign colors to groups, and manage them in one consolidated list."
 
     stats: {
-        downloads:  141
+        downloads:  194
         updated_at: 1781024413000
     }
 }

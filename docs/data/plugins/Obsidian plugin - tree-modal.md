@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tree-modal
 alt:
   - https://github.com/krannich/obsidian-tree-modal
-downloads: 112
+downloads: 145
 updated at: "2026-04-27T11:17:55Z"
 related to:
   - "[[GitHub - 1217801365]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open files from the file explorer in a large modal preview that preserves Obsidian's native view header and read/edit toggle. Navigate internal links inside the same modal and fall back to Cmd/Ctrl-click or the file-menu/right-click to open files in the editor."
 
     stats: {
-        downloads:  112
+        downloads:  145
         updated_at: 1777288675000
     }
 }

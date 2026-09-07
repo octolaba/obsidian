@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/worktable
 alt:
   - https://github.com/daoyoung/obsidian-worktable
-downloads: 30
+downloads: 69
 updated at: "2026-07-16T05:37:06Z"
 related to:
   - "[[GitHub - 1298933638]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Manage your focus, tasks, learning, reviews, and news from a native Obsidian dashboard with focus mode, task kanban, study trackers and review lists. Display vault data without external engines via native custom views, hot-reload styles, and real-time service status. Use local AI service tokens and monitor connection state."
 
     stats: {
-        downloads:  30
+        downloads:  69
         updated_at: 1784180226000
     }
 }

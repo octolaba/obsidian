@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/journalistic-importer
 alt:
   - https://github.com/homerokemmerich/journalistic-importer
-downloads: 69
+downloads: 79
 updated at: "2026-06-26T01:52:31Z"
 related to:
   - "[[GitHub - 813760408]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Journalistic export files into your Obsidian vault and store entries and metadata as Markdown notes in a Journalistic/ folder. Open the importer from the left sidebar and choose an export file to import entries into your vault."
 
     stats: {
-        downloads:  69
+        downloads:  79
         updated_at: 1782438751000
     }
 }

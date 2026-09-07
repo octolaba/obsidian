@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mastodon-threading
 alt:
   - https://github.com/elpamplina/mastodon-threading
-downloads: 680
+downloads: 690
 updated at: "2025-12-14T11:35:43Z"
 related to:
   - "[[GitHub - 893565022]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Compose and post Mastodon threads from Obsidian, assembling snippets, images and media into ordered replies. Insert separators, visualize fragment order and length, add media descriptions for accessibility, and submit single posts or entire threads while checking server limits and visibility."
 
     stats: {
-        downloads:  680
+        downloads:  690
         updated_at: 1765712143000
     }
 }

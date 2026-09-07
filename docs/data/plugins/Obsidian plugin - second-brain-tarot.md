@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/second-brain-tarot
 alt:
   - https://github.com/h-jessen/second-brain-tarot-plugin
-downloads: 8
+downloads: 35
 updated at: "2026-07-23T04:28:39Z"
 related to:
   - "[[GitHub - 1309374190]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Draw a 78-card deck and ground each interpretation in your vault for non-generic, context-aware readings. Use six spreads, receive a spread synthesis and continue with a vault-grounded chat. Save readings as notes with [[wikilinks]] and send requests directly to your chosen AI using your API key."
 
     stats: {
-        downloads:  8
+        downloads:  35
         updated_at: 1784780919000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/goodnote-max
 alt:
   - https://github.com/mikuloverfan/GoodNotes-Max
-downloads: 662
+downloads: 836
 updated at: "2026-06-07T05:51:25Z"
 related to:
   - "[[GitHub - 1261261651]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bring a GoodNotes-like handwriting and infinite canvas into Obsidian. Draw smooth, pressure-aware strokes with anti-jitter smoothing and stroke-precise erasing; pan and zoom an infinite canvas with multi-page notebook navigation and GPU-friendly incremental rendering."
 
     stats: {
-        downloads:  662
+        downloads:  836
         updated_at: 1780811485000
     }
 }

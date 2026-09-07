@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/forms
 alt:
   - https://github.com/sorinmircea/obsidian-forms-plugin
-downloads: 1152
+downloads: 1192
 updated at: "2025-04-15T07:39:05Z"
 related to:
   - "[[GitHub - 919940398]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and publish web forms linked to a folder in your Obsidian vault and collect submissions as synced Markdown files. Manage forms via a web interface and have responses appear automatically in your notes."
 
     stats: {
-        downloads:  1152
+        downloads:  1192
         updated_at: 1744702745000
     }
 }

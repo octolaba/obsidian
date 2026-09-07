@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cloud-storage
 alt:
   - https://github.com/yingjialong/obsidian-CloudStorage
-downloads: 2241
+downloads: 2375
 updated at: "2026-02-19T06:42:12Z"
 related to:
   - "[[GitHub - 856815193]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload attachments from specified folders to cloud storage and free local space. Update note links to point to cloud files, enable resumable transfers, use S3 or plugin storage, and manage uploads with extension whitelists, size limits, renaming, and local move/delete."
 
     stats: {
-        downloads:  2241
+        downloads:  2375
         updated_at: 1771483332000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mobile-dashboard
 alt:
   - https://github.com/liyaomingme/obsidian-mobile-dashboard
-downloads: 271
+downloads: 311
 updated at: "2026-07-03T01:55:20Z"
 related to:
   - "[[GitHub - 1231533291]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform your Obsidian startup page into a mobile-optimized dashboard with fluid typography, safe-area support for notches/Dynamic Island, and refined traditional typography aesthetics. Capture notes quickly, visualize note statistics with charts, and parse dates from frontmatter, filenames, and folder context to preserve dates across devices."
 
     stats: {
-        downloads:  271
+        downloads:  311
         updated_at: 1783043720000
     }
 }

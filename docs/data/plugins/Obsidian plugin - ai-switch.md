@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/ai-switch
 alt:
   - https://github.com/fengshuzi/ai-switch
-downloads: 102
-updated at: "2026-06-16T02:06:36Z"
+downloads: 125
+updated at: "2026-08-04T03:46:23Z"
 related to:
   - "[[GitHub - 1268008652]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync AI coding tool configuration snapshots into your vault as Markdown files, copying local .toml, .json and .yaml configs and grouping snapshots by machine and tool. Manage snapshots from a sidebar, refresh on demand, and apply snapshots back to local configs with confirmation and automatic timestamped backups."
 
     stats: {
-        downloads:  102
-        updated_at: 1781575596000
+        downloads:  125
+        updated_at: 1785815183000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/thai-bracket-remap
 alt:
   - https://github.com/khunpoom/Thai-bracket-remap
-downloads: 17
+downloads: 34
 updated at: "2026-07-12T02:00:20Z"
 related to:
   - "[[GitHub - 1286920534]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Remap Thai characters ฃ and ฅ to [ and ] as you type in Obsidian's editor, replacing them immediately without needing to backspace. Edit the CHAR_MAP in main.js to change character pairs and reload the plugin to apply changes."
 
     stats: {
-        downloads:  17
+        downloads:  34
         updated_at: 1783821620000
     }
 }

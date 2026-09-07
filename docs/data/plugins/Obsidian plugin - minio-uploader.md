@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/minio-uploader
 alt:
   - https://github.com/seebin/obsidian-minio-uploader-plugin
-downloads: 3925
+downloads: 3943
 updated at: "2023-12-15T07:53:10Z"
 related to:
   - "[[GitHub - 710847132]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload images, videos, audio, PDFs and other files to Minio object storage instead of saving them locally. Use drag-and-drop, paste-to-upload, or command selection with Editing ToolBar integration to insert previews and links, reduce local disk usage and speed up sync across devices."
 
     stats: {
-        downloads:  3925
+        downloads:  3943
         updated_at: 1702626790000
     }
 }

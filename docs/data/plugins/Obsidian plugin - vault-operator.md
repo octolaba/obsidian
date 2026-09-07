@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/vault-operator
 alt:
   - https://github.com/pssah4/vault-operator
-downloads: 8581
-updated at: "2026-07-15T05:11:36Z"
+downloads: 10133
+updated at: "2026-07-31T14:38:28Z"
 related to:
   - "[[GitHub - 1161290309]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "The AI agent operates your vault the way you do. It uses your existing plugins, skills, and capabilities, and adds new ones as tasks require. It ingests research papers and links them into your notes. It creates and uses Canvas, Bases, Draw.io, Dataview, Excalidraw, and Tasks to build whatever structure a job needs. It plans, searches your vault semantically, reads and edits notes, generates PPTX/DOCX/XLSX, browses the web, and connects to any MCP server. Bring your own model or subscription: Anthropic, OpenAI, ChatGPT, OpenRouter, Bedrock, Gemini, GitHub Copilot, or local Ollama and LM Studio. A persistent memory layer learns your habits and workflows, so the agent adapts to how you think. Autonomous multi-agent workflows run with full safety controls throughout. Vault Operator also unifies chat history and memory from ChatGPT, Claude, Perplexity, and other AI tools, bringing every thread of your thinking into one connected vault."
 
     stats: {
-        downloads:  8581
-        updated_at: 1784092296000
+        downloads:  10133
+        updated_at: 1785508708000
     }
 }
 ```

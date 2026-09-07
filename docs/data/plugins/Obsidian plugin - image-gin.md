@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-gin
 alt:
   - https://github.com/lossless-group/image-gin
-downloads: 87
+downloads: 109
 updated at: "2026-05-18T08:09:38Z"
 related to:
   - "[[GitHub - 1023088411]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate AI images, search stock photos, and rewrite local image references to ImageKit CDN URLs directly from your notes. Read image_prompt and per-file image settings from frontmatter, write generated image paths back as per-size keys, and cache external images for offline viewing."
 
     stats: {
-        downloads:  87
+        downloads:  109
         updated_at: 1779091778000
     }
 }

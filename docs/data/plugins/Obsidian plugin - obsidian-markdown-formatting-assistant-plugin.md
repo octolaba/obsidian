@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-markdown-formatting-assistant-plugin
 alt:
   - https://github.com/reocin/obsidian-markdown-formatting-assistant-plugin
-downloads: 120423
+downloads: 121259
 updated at: "2022-11-15T11:16:02Z"
 related to:
   - "[[GitHub - 333724667]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert ready-made Markdown, HTML, and LaTeX snippets and callouts from a customizable side panel. Pick and save colors with a history-enabled color picker. Open a quick suggestion window (default Alt+Q) to search and apply commands without leaving the keyboard, and insert LaTeX symbols inside $...$ or $$...$$ math sections."
 
     stats: {
-        downloads:  120423
+        downloads:  121259
         updated_at: 1668510962000
     }
 }

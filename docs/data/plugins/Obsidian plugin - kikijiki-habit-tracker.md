@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kikijiki-habit-tracker
 alt:
   - https://github.com/kikijiki/obsidian-habit-tracker
-downloads: 937
+downloads: 947
 updated at: "2025-03-27T14:20:13Z"
 related to:
   - "[[GitHub - 903277202]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track habits directly inside notes by adding configurable habit tags (prefix/habit) to the current document. Open the Habit Panel to view, manage, and position a concise habit overview."
 
     stats: {
-        downloads:  937
+        downloads:  947
         updated_at: 1743085213000
     }
 }

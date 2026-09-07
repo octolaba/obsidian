@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/blog-publisher
 alt:
   - https://github.com/joeytoday/obsidian-blog-publisher
-downloads: 64
+downloads: 74
 updated at: "2026-07-01T05:49:15Z"
 related to:
   - "[[GitHub - 1179421538]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "发布 Obsidian 笔记到任意 GitHub 仓库并自动上传图片、生成 permalink，支持单篇与批量发布、发布中心管理及发布后触发 GitHub Actions 部署。保留私有笔记、按 pub-blog 标记选择性发布，支持 Markdown、笔记链接、Dataview、Canvas/Excalidraw、Mermaid、PlantUML、MathJax、PDF 等嵌入与渲染。"
 
     stats: {
-        downloads:  64
+        downloads:  74
         updated_at: 1782884955000
     }
 }

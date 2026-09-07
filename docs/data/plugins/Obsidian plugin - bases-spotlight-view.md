@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bases-spotlight-view
 alt:
   - https://github.com/mymindstorm/obsidian-bases-spotlight-view
-downloads: 479
+downloads: 876
 updated at: "2026-06-29T09:47:36Z"
 related to:
   - "[[GitHub - 1272860013]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse and manage files in a dual-pane Spotlight view, with a large center pane for content and a right sidebar for structured metadata. Render Markdown, images, and PDFs natively, create shadow .md sidecars for binaries, and edit, reorder, and resize metadata fields inline with persisted layout."
 
     stats: {
-        downloads:  479
+        downloads:  876
         updated_at: 1782726456000
     }
 }

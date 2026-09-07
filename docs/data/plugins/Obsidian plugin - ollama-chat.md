@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ollama-chat
 alt:
   - https://github.com/brumik/obsidian-ollama-chat
-downloads: 11773
+downloads: 11927
 updated at: "2024-10-12T06:50:01Z"
 related to:
   - "[[GitHub - 729849696]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Ask your local LLM about notes in your vault and run a model locally via Ollama. Index files on startup and when notes change, and open a modal via command or shortcut to query the model."
 
     stats: {
-        downloads:  11773
+        downloads:  11927
         updated_at: 1728715801000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/new-file-name
 alt:
   - https://github.com/thelonewanderer4/obsidian-uuid-title
-downloads: 932
+downloads: 965
 updated at: "2024-12-26T22:13:50Z"
 related to:
   - "[[GitHub - 908674604]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set a default filename to replace \"Undefined\" for new notes. Leave the setting blank to generate a UUID filename automatically."
 
     stats: {
-        downloads:  932
+        downloads:  965
         updated_at: 1735251230000
     }
 }

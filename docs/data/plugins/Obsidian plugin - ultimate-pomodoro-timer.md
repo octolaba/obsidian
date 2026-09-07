@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ultimate-pomodoro-timer
 alt:
   - https://github.com/isgin01/ultimate-pomodoro-timer
-downloads: 116
+downloads: 152
 updated at: "2026-06-28T05:28:50Z"
 related to:
   - "[[GitHub - 1167546194]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage your time without friction."
 
     stats: {
-        downloads:  116
+        downloads:  152
         updated_at: 1782624530000
     }
 }

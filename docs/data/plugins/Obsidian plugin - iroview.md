@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/iroview
 alt:
   - https://github.com/nellowtcs/Obsidian-IroView
-downloads: 241
+downloads: 288
 updated at: "2026-05-12T22:10:34Z"
 related to:
   - "[[GitHub - 1038920571]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview HEX, RGB(A), and HSL(A) color values inline in the editor and reading view with swatches and optional text colorization. Keep text readable by only colorizing when contrast is sufficient and process large notes efficiently."
 
     stats: {
-        downloads:  241
+        downloads:  288
         updated_at: 1778623834000
     }
 }

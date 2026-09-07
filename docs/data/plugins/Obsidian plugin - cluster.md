@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cluster
 alt:
   - https://github.com/lorens-osman-dev/cluster
-downloads: 2678
+downloads: 2715
 updated at: "2026-04-12T19:41:53Z"
 related to:
   - "[[GitHub - 737841511]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize notes into parent–child clusters to build hierarchical structures for easier navigation and relationship discovery. Manage clusters with in-note and ribbon buttons, auto-create CLUSTERS and ORPHANS folders, and use mobile-friendly controls that also work on desktop."
 
     stats: {
-        downloads:  2678
+        downloads:  2715
         updated_at: 1776022913000
     }
 }

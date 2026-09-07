@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wayinvideo-video-summarizer-and-transcript-generator
 alt:
   - https://github.com/wayinvideo/WayinVideo-Obsidian-Plugin
-downloads: 69
+downloads: 95
 updated at: "2026-07-02T02:43:17Z"
 related to:
   - "[[GitHub - 1285593053]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create video summaries or speaker-labeled transcripts in Obsidian by pasting a video or audio URL and choosing an output language. Produce a new note with video title, source link, YouTube embed when available, highlights, clickable timestamps, and speaker-labeled transcripts with consistent speaker colors; supports YouTube, TikTok, Vimeo, Twitch, Instagram, Facebook, Zoom, Rumble, and Google Drive."
 
     stats: {
-        downloads:  69
+        downloads:  95
         updated_at: 1782960197000
     }
 }

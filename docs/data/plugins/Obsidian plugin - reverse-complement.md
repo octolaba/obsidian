@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/reverse-complement
 alt:
   - https://github.com/bjornfjohansson/reverse-complement
-downloads: 646
+downloads: 853
 updated at: "2026-01-21T11:03:28Z"
 related to:
   - "[[GitHub - 983533001]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert selected nucleotide sequences into their reverse complement directly inside notes. Generate or replace sequence text inline for quick sequence editing and analysis."
 
     stats: {
-        downloads:  646
+        downloads:  853
         updated_at: 1768993408000
     }
 }

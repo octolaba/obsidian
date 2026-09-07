@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/stashpad
 alt:
   - https://github.com/grub-basket/SP
-downloads: 585
-updated at: "2026-07-23T16:09:42Z"
+downloads: 890
+updated at: "2026-08-09T23:08:58Z"
 related to:
   - "[[GitHub - 1235327703]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Capture notes in a chat-style composer that stack and nest into an outliner you can drill into and out of. Search and organize subtrees with move/merge/clone, pin and color notes, create tasks with due dates and reminders, pop Stashpad into a tiny window, and export to Open Knowledge Format for LLMs."
 
     stats: {
-        downloads:  585
-        updated_at: 1784822982000
+        downloads:  890
+        updated_at: 1786316938000
     }
 }
 ```

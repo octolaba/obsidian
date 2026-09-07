@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/inline-secret-block
 alt:
   - https://github.com/vnrtmnv/obsidian-inline-secret-block
-downloads: 131
+downloads: 178
 updated at: "2026-06-22T06:44:13Z"
 related to:
   - "[[GitHub - 1266154215]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Encrypt fenced code blocks with AES-256-GCM and a passphrase, replacing them with opaque secret-lock blocks to keep passwords, tokens, and other secrets out of plaintext. Render secret-lock blocks as compact cards in reading view with Show, Edit, and Copy controls and remember multiple passphrases per session."
 
     stats: {
-        downloads:  131
+        downloads:  178
         updated_at: 1782110653000
     }
 }

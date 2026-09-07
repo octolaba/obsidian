@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/docs-sync
 alt:
   - https://github.com/luhaifeng666/obsidian-docs-sync
-downloads: 0
-updated at: "2026-07-23T11:43:38Z"
+downloads: 40
+updated at: "2026-08-08T13:44:52Z"
 related to:
   - "[[GitHub - 1309692951]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync notes and small attachments via a dedicated branch in a private GitHub repository, working on desktop and mobile without Git CLI, Node, or Electron. Use verified single commits with three-way change detection and conflict copies that preserve both versions."
 
     stats: {
-        downloads:  0
-        updated_at: 1784807018000
+        downloads:  40
+        updated_at: 1786196692000
     }
 }
 ```

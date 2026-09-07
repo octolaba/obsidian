@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-image-gallery
 alt:
   - https://github.com/lemon695/obsidian-note-image-gallery
-downloads: 626
+downloads: 670
 updated at: "2026-06-08T08:24:51Z"
 related to:
   - "[[GitHub - 930270643]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display all images from the current note in a responsive masonry gallery with a lightbox, keyboard navigation, zoom, and a context menu for copying or downloading. Support local and remote images with lazy loading, virtual scrolling, and file-based caching with automatic cleanup for smooth performance."
 
     stats: {
-        downloads:  626
+        downloads:  670
         updated_at: 1780907091000
     }
 }

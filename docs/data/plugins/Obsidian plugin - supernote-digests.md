@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/supernote-digests
 alt:
   - https://github.com/tboules/supernote-obsidian-digest
-downloads: 22
-updated at: "2026-07-22T15:31:23Z"
+downloads: 72
+updated at: "2026-07-29T14:52:00Z"
 related to:
   - "[[GitHub - 1249557346]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Import Supernote .snbak backups and convert highlighted digests into Obsidian notes with embedded images of the original handwritten marks. Create one note per digest or collect digests by source document; re-import only adds new digests to avoid overwriting existing notes."
 
     stats: {
-        downloads:  22
-        updated_at: 1784734283000
+        downloads:  72
+        updated_at: 1785336720000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/easy-timeline
 alt:
   - https://github.com/romelium/obsidian-easy-timeline
-downloads: 3228
+downloads: 3295
 updated at: "2026-04-20T03:01:45Z"
 related to:
   - "[[GitHub - 903482001]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create timelines from plain Markdown by wrapping event text in a simple timeline block (timeline). Split events with blank lines and render each section as a dated entry, with support for referencing properties as relative dates to position events."
 
     stats: {
-        downloads:  3228
+        downloads:  3295
         updated_at: 1776654105000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lava-vtt-uploader
 alt:
   - https://github.com/lavaforge/obsidian-lava-vtt-uploader
-downloads: 485
+downloads: 493
 updated at: "2024-04-20T20:04:54Z"
 related to:
   - "[[GitHub - 789519735]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display images from your Obsidian vault on a self-hosted Lava VTT instance. Connect to your Lava VTT server and right-click any image in a note to show it on the tabletop display."
 
     stats: {
-        downloads:  485
+        downloads:  493
         updated_at: 1713643494000
     }
 }

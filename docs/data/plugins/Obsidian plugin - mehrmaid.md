@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mehrmaid
 alt:
   - https://github.com/huterguier/obsidian-mehrmaid
-downloads: 38182
+downloads: 39184
 updated at: "2024-04-23T10:15:08Z"
 related to:
   - "[[GitHub - 776814095]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Obsidian Markdown inside Mermaid node labels by wrapping node content in double quotes. Display images, LaTeX math, tables, external links and internal Obsidian links directly inside graph nodes while preserving node sizing. Follow standard Mermaid graph syntax."
 
     stats: {
-        downloads:  38182
+        downloads:  39184
         updated_at: 1713867308000
     }
 }

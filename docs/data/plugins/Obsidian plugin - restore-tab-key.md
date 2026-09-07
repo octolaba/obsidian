@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/restore-tab-key
 alt:
   - https://github.com/jrymk/restore-tab-key
-downloads: 15926
+downloads: 16061
 updated at: "2025-03-18T15:42:55Z"
 related to:
   - "[[GitHub - 588130940]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Restore native Tab behavior so pressing Tab inserts a real tab character and performs IDE-like indentation in the editor and code blocks. Choose tabs or spaces, enable hard-space indentation, or restrict the behavior to code blocks."
 
     stats: {
-        downloads:  15926
+        downloads:  16061
         updated_at: 1742312575000
     }
 }

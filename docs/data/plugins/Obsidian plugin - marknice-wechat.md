@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/marknice-wechat
 alt:
   - https://github.com/willmove/obsidian-marknice
-downloads: 286
+downloads: 392
 updated at: "2026-07-10T06:49:05Z"
 related to:
   - "[[GitHub - 1266972366]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn Obsidian notes into WeChat-ready articles with a real-time right-side preview and switchable mobile/desktop modes. Choose from 17 themes with adjustable font and spacing, copy HTML with inline styles for one-click paste, or publish drafts to WeChat with automatic image upload and frontmatter mapping. Preserve Obsidian embeds, links, highlights, callouts, tasks, tables, and code blocks."
 
     stats: {
-        downloads:  286
+        downloads:  392
         updated_at: 1783666145000
     }
 }

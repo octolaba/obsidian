@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/horizontal-blocks
 alt:
   - https://github.com/icodealchemy/horizontal-blocks
-downloads: 9941
+downloads: 10404
 updated at: "2026-03-10T20:54:14Z"
 related to:
   - "[[GitHub - 1028343145]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create resizable, side-by-side Markdown blocks that support full Obsidian syntax (images, embeds, internal links) and build dynamic multi-column layouts with a draggable divider. Remember column widths, auto-scale images, and adjust per-block appearance with inline toolbars and color options; avoid placing task lists inside horizontal code blocks since code block content is plain text."
 
     stats: {
-        downloads:  9941
+        downloads:  10404
         updated_at: 1773176054000
     }
 }

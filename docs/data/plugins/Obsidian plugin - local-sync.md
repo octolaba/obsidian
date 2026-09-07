@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/local-sync
 alt:
   - https://github.com/liuboacean/obsidian-local-sync-plugin
-downloads: 154
+downloads: 212
 updated at: "2026-07-07T02:16:46Z"
 related to:
   - "[[GitHub - 1285896313]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Obsidian vaults over your LAN via peer-to-peer WebSocket connections with no cloud dependency. Automatically merge text edits using Yjs CRDT to prevent conflicts, secure transfers with PSK authentication, discover peers via UDP or QR pairing, and selectively exclude folders or file types."
 
     stats: {
-        downloads:  154
+        downloads:  212
         updated_at: 1783390606000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/notelert
 alt:
   - https://github.com/joaquim-frances/obsidian-notelert-plugin
-downloads: 997
-updated at: "2026-05-29T11:19:59Z"
+downloads: 1171
+updated at: "2026-08-11T10:24:00Z"
 related to:
   - "[[GitHub - 1074367004]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Notelert seamlessly connects Obsidian with your Android device. Turn any line in your notes into rich, actionable mobile reminders in seconds—delivered even when Obsidian is closed! Key Features: • Return Links: Tap a notification on your phone to instantly open Obsidian at the exact note and line. • Smart Scheduling: One-time, quick shortcuts (today, in 1h) or recurring alerts (daily, weekly, etc.) with custom end rules. • Location-Based Alerts: Get notified automatically upon arriving at saved locations. • Email Reminders: Deliver tasks straight to your inbox. • Privacy-First: Works only on the line you select. No vault scanning, no data scraping. Quick Start: Install the companion Notelert Android app. Paste your secure App Link Token in settings. Type :@ on any line to schedule reminders instantly! (#: notification, reminder, alert)"
 
     stats: {
-        downloads:  997
-        updated_at: 1780053599000
+        downloads:  1171
+        updated_at: 1786443840000
     }
 }
 ```

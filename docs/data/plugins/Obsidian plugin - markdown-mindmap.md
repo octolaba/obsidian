@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/markdown-mindmap
 alt:
   - https://github.com/kikocastro/markdown-mindmap
-downloads: 275
-updated at: "2026-07-22T10:36:09Z"
+downloads: 484
+updated at: "2026-07-30T10:00:14Z"
 related to:
   - "[[GitHub - 1283292029]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render configurable, leveled left-to-right mind maps directly from your notes' frontmatter links using a fenced mindmap code block that updates live as your files change. Navigate maps interactively: click nodes to open notes, hover to highlight lineage, collapse/expand subtrees, pan/zoom, search and filter with saved views, and show progress or stacked category bars on cards."
 
     stats: {
-        downloads:  275
-        updated_at: 1784716569000
+        downloads:  484
+        updated_at: 1785405614000
     }
 }
 ```

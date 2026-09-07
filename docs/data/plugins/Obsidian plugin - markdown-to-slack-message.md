@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markdown-to-slack-message
 alt:
   - https://github.com/idreamer/markdown-to-slack-message
-downloads: 4936
+downloads: 4961
 updated at: "2023-06-13T11:56:46Z"
 related to:
   - "[[GitHub - 652740658]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert a Markdown note into Slack Block Kit message blocks. Open the Slack Block Kit builder with your content to preview and send the message from your Slack account."
 
     stats: {
-        downloads:  4936
+        downloads:  4961
         updated_at: 1686657406000
     }
 }

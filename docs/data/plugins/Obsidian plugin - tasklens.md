@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/tasklens
 alt:
   - https://github.com/nightaqua/tasklens
-downloads: 1339
-updated at: "2026-06-18T14:04:55Z"
+downloads: 1680
+updated at: "2026-08-04T14:48:57Z"
 related to:
   - "[[GitHub - 1156545220]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create a task command center in Obsidian with a widget-based dashboard combining Timeline, Task List, Kanban board, and statistics. Visualize multi-day deadlines, drag cards to reschedule with changes saved to your Markdown, edit tasks inline, color projects, and use Focus Mode to hide widgets."
 
     stats: {
-        downloads:  1339
-        updated_at: 1781791495000
+        downloads:  1680
+        updated_at: 1785854937000
     }
 }
 ```

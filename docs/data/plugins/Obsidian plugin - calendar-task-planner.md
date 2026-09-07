@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/calendar-task-planner
 alt:
   - https://github.com/oldleam/obsidian-calendar-task-planner
-downloads: 373
+downloads: 465
 updated at: "2026-06-11T20:10:04Z"
 related to:
   - "[[GitHub - 1263230191]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Plan tasks on a clean monthly calendar with Monday-first weeks and checkbox-enabled day cards. Add, edit, and delete tasks in a modal, view monthly stats (total/done/percent), export a day to a dated note or add it to Canvas, with all data stored locally and available offline."
 
     stats: {
-        downloads:  373
+        downloads:  465
         updated_at: 1781208604000
     }
 }

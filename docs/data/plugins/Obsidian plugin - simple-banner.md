@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-banner
 alt:
   - https://github.com/eatcodeplay/obsidian-simple-banner
-downloads: 21259
+downloads: 21901
 updated at: "2025-09-19T15:12:33Z"
 related to:
   - "[[GitHub - 973810470]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add banner images, icons, dates and times to notes using a single frontmatter property. Support external and internal media (images, experimental video, Markdown/Wikilink/Obsidian URLs), text or emoji icons, autohide frontmatter, and produce well-formed URL values compatible with Dataview."
 
     stats: {
-        downloads:  21259
+        downloads:  21901
         updated_at: 1758294753000
     }
 }

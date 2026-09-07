@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-focus
 alt:
   - https://github.com/1spread/obsidian-folder-focus
-downloads: 489
+downloads: 569
 updated at: "2026-06-19T11:15:54Z"
 related to:
   - "[[GitHub - 1151890769]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse vault folders with a Finder-like focused folder view in the sidebar. Use multi-selection, selection history, live refresh, full-text and subfolder search, context-menu file operations and sorting, plus quick create/rename/delete actions."
 
     stats: {
-        downloads:  489
+        downloads:  569
         updated_at: 1781867754000
     }
 }

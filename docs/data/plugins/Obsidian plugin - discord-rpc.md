@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/discord-rpc
 alt:
   - https://github.com/30jannik06/Obsidian-Presence
-downloads: 238
-updated at: "2026-05-15T06:29:34Z"
+downloads: 474
+updated at: "2026-08-04T09:44:00Z"
 related to:
   - "[[GitHub - 1209524842]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Show Obsidian activity on Discord via Rich Presence, displaying vault and file name, edit/preview mode, and elapsed timers. Use auto-reconnect, idle detection, pause mode and exclusion lists for privacy, and add custom status formats, up to two profile buttons, or a custom Discord app for personalized presence."
 
     stats: {
-        downloads:  238
-        updated_at: 1778826574000
+        downloads:  474
+        updated_at: 1785836640000
     }
 }
 ```

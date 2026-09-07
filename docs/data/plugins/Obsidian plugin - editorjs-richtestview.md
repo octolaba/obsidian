@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/editorjs-richtestview
 alt:
   - https://github.com/springrain1/obsidian-editorjs-plugin
-downloads: 124
+downloads: 146
 updated at: "2026-05-20T14:58:12Z"
 related to:
   - "[[GitHub - 1103880244]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Integrate Editor.js rich-text editing into Obsidian with 34 block and inline tools and lossless two-way Markdown conversion. Edit notes using drag-and-drop block sorting, undo/redo, autosave, keyboard shortcuts, and full theme compatibility."
 
     stats: {
-        downloads:  124
+        downloads:  146
         updated_at: 1779289092000
     }
 }

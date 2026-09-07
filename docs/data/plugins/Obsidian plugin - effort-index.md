@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/effort-index
 alt:
   - https://github.com/israerusan/effort-index
-downloads: 23
-updated at: "2026-07-17T00:04:14Z"
+downloads: 40
+updated at: "2026-07-25T17:41:04Z"
 related to:
   - "[[GitHub - 1302216993]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Measure editing time and revision effort per note by crediting bursts of keystrokes and separating spaced revision sessions. Resurface the most expensive notes you haven't opened in 90 days, view per-note effort, export CSV, and keep all activity logs local for offline privacy."
 
     stats: {
-        downloads:  23
-        updated_at: 1784246654000
+        downloads:  40
+        updated_at: 1785001264000
     }
 }
 ```

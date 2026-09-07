@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/noterelay
 alt:
   - https://github.com/x-supermeng/noterelay
-downloads: 7
-updated at: "2026-07-23T15:21:39Z"
+downloads: 369
+updated at: "2026-08-05T03:43:23Z"
 related to:
   - "[[GitHub - 1309827735]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "生成适合微信公众号、小红书和 X 的平台预览与剪贴板内容，将当前 Markdown 笔记转换为带内联样式的 HTML（公众号）、3:4 高清卡片 PNG/ZIP（小红书）和富文本/纯文本加媒体清单（X）。 预览多账号、主题与模板并复制或导出准备粘贴到目标编辑器；不登录平台或自动发布，所有发布由用户在目标平台完成。"
 
     stats: {
-        downloads:  7
-        updated_at: 1784820099000
+        downloads:  369
+        updated_at: 1785901403000
     }
 }
 ```

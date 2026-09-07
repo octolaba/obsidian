@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-path
 alt:
   - https://github.com/shumadrid/obsidian-copy-path
-downloads: 5315
+downloads: 5521
 updated at: "2025-07-30T13:09:39Z"
 related to:
   - "[[GitHub - 975797460]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy full or vault-relative paths of files and folders from the context menu. Add an optional trailing slash to folder paths to distinguish them from files."
 
     stats: {
-        downloads:  5315
+        downloads:  5521
         updated_at: 1753880979000
     }
 }

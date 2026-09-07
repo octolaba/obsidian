@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lindar
 alt:
   - https://github.com/punkyard/obsidian-lindar
-downloads: 200
+downloads: 234
 updated at: "2026-07-04T02:07:51Z"
 related to:
   - "[[GitHub - 1220263632]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a yearly horizontal linear calendar with one row per month and aligned weekday headers. Create events directly on the grid and save them as Markdown notes. View multi-day event bars."
 
     stats: {
-        downloads:  200
+        downloads:  234
         updated_at: 1783130871000
     }
 }

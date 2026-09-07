@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kcal-calc
 alt:
   - https://github.com/13green13/kcal-calc
-downloads: 14
+downloads: 25
 updated at: "2026-07-21T21:33:38Z"
 related to:
   - "[[GitHub - 1308106575]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scan the active note for ingredient lines and look up matching foods in USDA FoodData Central to fetch kcal and macronutrient values. Append per-item kcal and macros, add underlined section and total kcal lines, and show a match preview with confidence before applying changes."
 
     stats: {
-        downloads:  14
+        downloads:  25
         updated_at: 1784669618000
     }
 }

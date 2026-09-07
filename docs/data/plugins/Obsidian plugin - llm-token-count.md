@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/llm-token-count
 alt:
   - https://github.com/hardes11/llm-token-count
-downloads: 15
+downloads: 57
 updated at: "2026-07-19T20:20:04Z"
 related to:
   - "[[GitHub - 1305182880]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display real LLM token counts for GLM, GPT, Qwen and DeepSeek in Obsidian's status bar alongside word and character counts to check context budget before sending. Cache HuggingFace tokenizers locally for instant offline counts after the first fetch, apply exact HuggingFace tokenization for GLM‑5.2, and clearly label models that are approximate."
 
     stats: {
-        downloads:  15
+        downloads:  57
         updated_at: 1784492404000
     }
 }

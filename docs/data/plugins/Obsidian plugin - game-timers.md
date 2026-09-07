@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/game-timers
 alt:
   - https://github.com/pjeurien/obsidian-game-timers
-downloads: 108
+downloads: 144
 updated at: "2026-05-19T16:36:53Z"
 related to:
   - "[[GitHub - 1218814323]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run and monitor multiple DM-facing countdown timers in a dedicated sidebar, with pause, resume, cancel, repeat, and persistent state across reloads. Create quick timers or reusable color-coded presets with optional warning times and desktop notifications, embed launchers via game-timer code blocks, and view the next-expiring timer in the status bar."
 
     stats: {
-        downloads:  108
+        downloads:  144
         updated_at: 1779208613000
     }
 }

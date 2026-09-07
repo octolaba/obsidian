@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graphite
 alt:
   - https://github.com/real-fruit-snacks/Graphite
-downloads: 114
+downloads: 168
 updated at: "2026-07-12T00:09:29Z"
 related to:
   - "[[GitHub - 1292996075]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage Todoist-like tasks as plain Markdown lines stored one file per month in your vault for portable, human-readable task history. View Inbox, Today (with Overdue), Upcoming, Projects, Filters, a 26-week activity heatmap, subtasks, recurring rules, attachments, and quick capture. Keep everything private with no accounts or network calls."
 
     stats: {
-        downloads:  114
+        downloads:  168
         updated_at: 1783814969000
     }
 }

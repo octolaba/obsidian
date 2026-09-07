@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ollama-assistant
 alt:
   - https://github.com/xlrve/ollama-assistant
-downloads: 1245
+downloads: 1473
 updated at: "2026-06-06T13:23:43Z"
 related to:
   - "[[GitHub - 1156554558]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect Ollama local LLMs to Obsidian for in-note AI assistance. Use Edit mode to rewrite or refine selected text with no history, Discuss mode for chat with conversation memory, and Web mode for precise, history-free lookups with tool-enabled models."
 
     stats: {
-        downloads:  1245
+        downloads:  1473
         updated_at: 1780752223000
     }
 }

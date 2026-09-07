@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wayfinder-maps
 alt:
   - https://github.com/ocuclaw/obsidian-wayfinder
-downloads: 23
+downloads: 62
 updated at: "2026-07-20T23:53:27Z"
 related to:
   - "[[GitHub - 1301713826]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Wayfinder Maps turns a GitHub repo's issues into a live picture of what to work on next. Each issue labeled wayfinder:map renders as a head card with its tickets laid out in a dependency-layered tree, drawn from GitHub's native blocked-by edges — so the frontier (open, verified-unblocked, unassigned tickets) is always one glance away. Built for the wayfinder workflow from Matt Pocock's skills repo: ticket types (research, prototype, grilling, task) are color-coded, and each card shows whether it's delegable to an agent (AFK), needs a human (HITL), or either. Copy a /wayfinder command with one click — a live claim check makes sure you never grab a ticket someone just took. Batch-select frontier tickets for handoffs, open a detail modal with rendered descriptions and live comments, and track multiple repos with per-repo tokens and a view filter. Tree and list modes, zoom, and a compact mobile layout; syncs every 2 minutes while open."
 
     stats: {
-        downloads:  23
+        downloads:  62
         updated_at: 1784591607000
     }
 }

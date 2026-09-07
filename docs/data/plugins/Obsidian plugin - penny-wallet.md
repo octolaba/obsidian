@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/penny-wallet
 alt:
   - https://github.com/twrusstw/penny-wallet
-downloads: 1600
+downloads: 2787
 updated at: "2026-05-24T13:09:54Z"
 related to:
   - "[[GitHub - 1200436856]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Log expenses, income, transfers and credit-card repayments as plain Markdown tables in your vault. View monthly summaries, charts and category pies, track account balances and net assets, and filter/edit transactions across cash, bank and credit-card accounts with debt tracking."
 
     stats: {
-        downloads:  1600
+        downloads:  2787
         updated_at: 1779628194000
     }
 }

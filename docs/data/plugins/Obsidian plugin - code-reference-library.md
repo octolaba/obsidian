@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/code-reference-library
 alt:
   - https://github.com/wesswart77/obsidian-code-reference
-downloads: 140
+downloads: 161
 updated at: "2026-05-24T20:05:20Z"
 related to:
   - "[[GitHub - 1248532856]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and organize a personal coding reference library of snippets, patterns, links, and notes tagged by language and framework. Capture snippets and patterns with metadata, search by tag, and browse via a filterable Reference sidebar with Snippets and Patterns tabs."
 
     stats: {
-        downloads:  140
+        downloads:  161
         updated_at: 1779653120000
     }
 }

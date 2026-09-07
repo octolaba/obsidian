@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-youglish-plugin
 alt:
   - https://github.com/nhaouari/obsidian-youglish-plugin
-downloads: 13956
+downloads: 14135
 updated at: "2022-01-24T09:53:23Z"
 related to:
   - "[[GitHub - 315724113]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Find pronunciations and real-world spoken examples from YouTube using YouGlish directly inside Obsidian. Select a phrase in a note and click the Youglish icon to open matching clips and hear native speakers in context."
 
     stats: {
-        downloads:  13956
+        downloads:  14135
         updated_at: 1643018003000
     }
 }

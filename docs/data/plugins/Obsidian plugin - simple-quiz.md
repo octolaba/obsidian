@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-quiz
 alt:
   - https://github.com/ivankalmar/simple-quiz
-downloads: 776
+downloads: 797
 updated at: "2024-12-19T17:56:05Z"
 related to:
   - "[[GitHub - 882684227]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Study with spaced-repetition flashcards directly inside notes using inline quiz blocks or menu commands. Load cards manually, via JSON or the JS API, organize by pools and tags, track streaks, daily quiz counts and repeated cards, and view monthly/yearly progress charts on desktop and mobile."
 
     stats: {
-        downloads:  776
+        downloads:  797
         updated_at: 1734630965000
     }
 }

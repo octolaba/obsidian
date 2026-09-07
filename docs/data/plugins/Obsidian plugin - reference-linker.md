@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/reference-linker
 alt:
   - https://github.com/max-fluff/obsidian-reference-linker
-downloads: 25
-updated at: "2026-07-19T17:54:20Z"
+downloads: 99
+updated at: "2026-08-02T13:11:38Z"
 related to:
   - "[[GitHub - 1303147151]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Link your notes to the documents you actually work from: PDFs, Office files, and images that live outside your vault, in project folders, downloads, or a research library. Type a trigger, autocomplete a document name, and Reference Linker inserts a link that opens it at the right page in your default viewer. For a PDF it reads the outline, so every bookmarked section is indexed with its page: link straight to \"Methods\" instead of to page 12. Hover any link to preview that page rendered in place, and embed a page or an image inline, so the reference sits beside your writing without being copied into the vault. Links stay portable. The note keeps a relative path and a root token, and each machine fills in its own reference root, so a vault synced between computers keeps working. When a document is reissued and a section moves, the drifted link is flagged and repaired in one command. Desktop only: it reads documents from disk, outside the vault."
 
     stats: {
-        downloads:  25
-        updated_at: 1784483660000
+        downloads:  99
+        updated_at: 1785676298000
     }
 }
 ```

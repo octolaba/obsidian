@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/checkbox-time-tracker
 alt:
   - https://github.com/udus122/checkbox-time-tracker
-downloads: 3308
+downloads: 3431
 updated at: "2024-09-08T00:34:26Z"
 related to:
   - "[[GitHub - 793867733]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert timestamps when you check off checkboxes to record time or date. Record start and end times for tasks with optional dates, links to daily notes, and automatic omission of duplicate end dates to keep logs compact."
 
     stats: {
-        downloads:  3308
+        downloads:  3431
         updated_at: 1725755666000
     }
 }

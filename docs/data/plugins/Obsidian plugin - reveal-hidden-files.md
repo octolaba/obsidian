@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/reveal-hidden-files
 alt:
   - https://github.com/josipmarkus/obsidian-reveal-hidden-files
-downloads: 258
+downloads: 420
 updated at: "2026-06-30T22:01:16Z"
 related to:
   - "[[GitHub - 1276404097]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show dot-prefixed files and folders in the File Explorer to reveal hidden entries like .obsidian, .env, and .DS_Store. Manage visibility with a toggle and a per-pattern deny list using gitignore-style patterns; defaults keep heavy folders like .git and .venv hidden."
 
     stats: {
-        downloads:  258
+        downloads:  420
         updated_at: 1782856876000
     }
 }

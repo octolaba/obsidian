@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-webhooks
 alt:
   - https://github.com/trashhalo/obsidian-webhooks
-downloads: 9533
+downloads: 9668
 updated at: "2022-07-13T12:37:02Z"
 related to:
   - "[[GitHub - 417881444]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect Obsidian to webhooks and external apps to capture events and append or update notes with incoming markdown. Define rules on the companion webhook service to send POST requests that create or modify notes from actions like saved Spotify tracks, voice commands, or Slack reactions."
 
     stats: {
-        downloads:  9533
+        downloads:  9668
         updated_at: 1657715822000
     }
 }

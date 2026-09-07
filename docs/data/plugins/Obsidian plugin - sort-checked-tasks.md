@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/sort-checked-tasks
 alt:
   - https://github.com/akamsheh/sort-checked-tasks
-downloads:
-updated at:
+downloads: 28
+updated at: "2026-07-24T17:42:51Z"
 related to:
   - "[[GitHub - 1285575440]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/akamsheh/sort-checked-tasks"
     description: "Moves checked checklist items to the bottom of their task group. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Keep checklists tidy by moving completed items to the bottom of their task group. Sort on checkbox click in Reading View or run a command to sort the current note in any mode, preserving nested tasks and stable ordering."
+
+    stats: {
+        downloads:  28
+        updated_at: 1784914971000
+    }
 }
 ```
 

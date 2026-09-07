@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-task-marker
 alt:
   - https://github.com/wenlzhang/obsidian-task-marker
-downloads: 14976
+downloads: 15147
 updated at: "2024-11-27T17:49:50Z"
 related to:
   - "[[GitHub - 582666274]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mark tasks with custom statuses, append text or timestamps, and change states via hotkeys or the right-click menu. Cycle statuses to flag action items, questions, completed or transferred tasks and track when each task changed."
 
     stats: {
-        downloads:  14976
+        downloads:  15147
         updated_at: 1732729790000
     }
 }

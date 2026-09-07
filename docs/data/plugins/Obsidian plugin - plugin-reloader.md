@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/plugin-reloader
 alt:
   - https://github.com/benature/obsidian-plugin-reloader
-downloads: 5058
+downloads: 5136
 updated at: "2024-03-31T17:08:34Z"
 related to:
   - "[[GitHub - 761694303]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reload installed plugins on demand from the command palette, a hotkey, or a ribbon button. Force plugin updates, finish first-time initialization, or apply new configurations without restarting Obsidian."
 
     stats: {
-        downloads:  5058
+        downloads:  5136
         updated_at: 1711904914000
     }
 }

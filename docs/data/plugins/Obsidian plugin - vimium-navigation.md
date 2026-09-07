@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/vimium-navigation
 alt:
   - https://github.com/giuseqpe/vimium-for-obsidian
-downloads: 23
-updated at: "2026-07-18T14:26:07Z"
+downloads: 67
+updated at: "2026-07-29T13:31:28Z"
 related to:
   - "[[GitHub - 1304908913]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Navigate Obsidian entirely by keyboard with Vim-style modal controls; use Normal mode for interface actions and i or clicks to enter Insert mode. Show compact hint overlays for links, buttons, tabs and sidebar items, search and open notes, scroll and find within notes, navigate history and workspace tabs, and copy obsidian:// links."
 
     stats: {
-        downloads:  23
-        updated_at: 1784384767000
+        downloads:  67
+        updated_at: 1785331888000
     }
 }
 ```

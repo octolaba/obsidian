@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/symbol-linking
 alt:
   - https://github.com/mara-li/obsidian-symbol-linking
-downloads: 4139
+downloads: 4255
 updated at: "2025-03-24T22:46:33Z"
 related to:
   - "[[GitHub - 813008008]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Link using any trigger symbol (e.g., @, #) and target specific directories, files, or file extensions while respecting aliases defined in note metadata. Create missing targets from a template or append them as headings in a single file, embed image links automatically, and optionally keep the trigger symbol in the final link text."
 
     stats: {
-        downloads:  4139
+        downloads:  4255
         updated_at: 1742856393000
     }
 }

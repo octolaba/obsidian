@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/code-graph
 alt:
   - https://github.com/mrjw717/obsidian-code-graph
-downloads: 112
+downloads: 247
 updated at: "2026-07-08T23:14:26Z"
 related to:
   - "[[GitHub - 1293030416]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize codebase connections and note links as an interactive force-directed graph alongside your notes. Parse TypeScript, JavaScript and Python with tree-sitter (imports-only for many languages) to extract imports, calls, inheritance, containment and documentation-comment edges; drill into symbol-level nodes and spot TODO/FIXME and dead code."
 
     stats: {
-        downloads:  112
+        downloads:  247
         updated_at: 1783552466000
     }
 }

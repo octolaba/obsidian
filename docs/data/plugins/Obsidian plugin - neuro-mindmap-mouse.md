@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/neuro-mindmap-mouse
 alt:
   - https://github.com/cosmakes/MapTheMouseMind
-downloads: 184
+downloads: 201
 updated at: "2026-05-27T17:46:35Z"
 related to:
   - "[[GitHub - 1246860714]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Map the mouse brain in 3D, drill into Allen CCFv3 reference sections, and attach Markdown notes to regions, viewpoints, or individual cells. Load anatomical structures and neuron morphologies from public atlases and search notes across nested anatomical contexts."
 
     stats: {
-        downloads:  184
+        downloads:  201
         updated_at: 1779903995000
     }
 }

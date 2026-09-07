@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/my-todo
 alt:
   - https://github.com/amanxarora/my-todo
-downloads: 144
+downloads: 167
 updated at: "2026-05-20T08:49:55Z"
 related to:
   - "[[GitHub - 1223596392]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize tasks into categories with custom tags and plan your week, assigning items to daily lists. Roll over unfinished tasks automatically or clear completed ones at a chosen time. Track progress with a productivity heatmap and native light/dark theme support."
 
     stats: {
-        downloads:  144
+        downloads:  167
         updated_at: 1779266995000
     }
 }

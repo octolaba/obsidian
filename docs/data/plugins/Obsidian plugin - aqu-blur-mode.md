@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/aqu-blur-mode
 alt:
   - https://github.com/dangehub/obsidian-blur-mode
-downloads: 1415
+downloads: 1470
 updated at: "2026-01-19T13:11:04Z"
 related to:
   - "[[GitHub - 887874260]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Blur selected elements in your notes for privacy or focus using a visual selector and real-time preview. Create and manage draggable presets, apply keyword-based rules, and adjust blur amount instantly."
 
     stats: {
-        downloads:  1415
+        downloads:  1470
         updated_at: 1768828264000
     }
 }

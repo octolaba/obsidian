@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/code-linker
 alt:
   - https://github.com/max-fluff/obsidian-code-linker
-downloads: 215
-updated at: "2026-07-19T17:46:37Z"
+downloads: 552
+updated at: "2026-08-02T13:11:43Z"
 related to:
   - "[[GitHub - 1284225360]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Link your notes and documentation to your source code. Type a trigger, autocomplete a file, class, or function name, and Code Linker inserts a deep link that opens the file at the exact line in your editor: VS Code, JetBrains (Rider, IntelliJ, PyCharm…), or any custom URL scheme. It can also build a shareable GitHub or GitLab permalink. You can also embed live code snippets directly in a note. Instead of pasting code blocks that go stale, an embed pulls straight from the source file and refreshes as the code changes, with syntax highlighting. Code Linker indexes your project with fuzzy search, so any file or type declaration is a few keystrokes away. When code moves and a link drifts, the plugin flags and fixes it in one command, and you can hover any link to preview the code in place. C#, TypeScript, JavaScript, Python, Java, C/C++, PHP, Go and Rust work out of the box, and you can add your own language in a small JSON config. Desktop only."
 
     stats: {
-        downloads:  215
-        updated_at: 1784483197000
+        downloads:  552
+        updated_at: 1785676303000
     }
 }
 ```

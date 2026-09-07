@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-randomnote
 alt:
   - https://github.com/jmilldotdev/obsidian-canvas-randomnote
-downloads: 4399
+downloads: 4417
 updated at: "2022-12-22T20:22:35Z"
 related to:
   - "[[GitHub - 575222691]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add random notes to the active Canvas in a grid, selecting from all markdown files or from results of the current search. Avoid running commands in rapid succession, as the plugin edits Canvas data directly and may cause the Canvas to go out of sync."
 
     stats: {
-        downloads:  4399
+        downloads:  4417
         updated_at: 1671740555000
     }
 }

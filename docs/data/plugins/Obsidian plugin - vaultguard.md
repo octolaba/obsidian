@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vaultguard
 alt:
   - https://github.com/uthvah/vaultguard
-downloads: 1696
+downloads: 1940
 updated at: "2026-04-02T10:17:47Z"
 related to:
   - "[[GitHub - 652816105]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Protect your vault with a customizable lockscreen using AES-GCM and PBKDF2 (250k iterations), plus real-time zxcvbn password strength feedback. Personalize backgrounds and greetings, enable optional full-vault .md encryption with batched, fault-tolerant decryption, and auto-lock on inactivity."
 
     stats: {
-        downloads:  1696
+        downloads:  1940
         updated_at: 1775125067000
     }
 }

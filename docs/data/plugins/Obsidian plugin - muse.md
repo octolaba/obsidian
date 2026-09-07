@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/muse
 alt:
   - https://github.com/tekgadgt/obsidian-muse
-downloads: 98
+downloads: 104
 updated at: "2026-05-02T05:19:50Z"
 related to:
   - "[[GitHub - 1201534656]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Enter a distraction-free full-screen writing mode that hides Obsidian's UI and opens a clean surface with your AI prompt preserved as a blockquote in a new date-stamped note. Generate personalized blog-topic prompts from your GitHub projects and profile, avoid repeats by checking recent prompts, use Anthropic or OpenAI models, and autosave your work."
 
     stats: {
-        downloads:  98
+        downloads:  104
         updated_at: 1777699190000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/ai-transcriber
 alt:
   - https://github.com/mssoftjp/obsidian-ai-transcriber
-downloads: 1764
-updated at: "2026-07-15T17:08:36Z"
+downloads: 1950
+updated at: "2026-08-01T07:03:52Z"
 related to:
   - "[[GitHub - 1026663099]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # AI Transcriber
 
-Transcribes audio and video files stored in the vault through OpenAI speech-to-text APIs. The GPT Transcribe API is used for accuracy, with GPT-4o Transcribe models and Whisper also available.
+Transcribes audio and video files held in the vault using OpenAI's GPT Transcribe API. GPT-4o Transcribe models and Whisper are also available as alternatives.
 
 ```cue
 plugin: {
@@ -33,12 +33,12 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/ai-transcriber"
     github_url:  "https://github.com/mssoftjp/obsidian-ai-transcriber"
-    description: "AI-powered speech-to-text transcription using OpenAI GPT-4o and Whisper APIs."
+    description: "Transcribe audio and video files easily with OpenAI's latest GPT Transcribe API for highly accurate transcripts."
     about:       "Transcribe audio and video files directly from your vault with OpenAI's latest GPT Transcribe API for highly accurate results. GPT-4o Transcribe models and Whisper are also available."
 
     stats: {
-        downloads:  1764
-        updated_at: 1784135316000
+        downloads:  1950
+        updated_at: 1785567832000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jelly-snippets
 alt:
   - https://github.com/rabirabirara/obsidian-jelly-snippets
-downloads: 6128
+downloads: 6147
 updated at: "2023-10-09T00:30:42Z"
 related to:
   - "[[GitHub - 614234653]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert text snippets from simple lhs|+|rhs mappings defined in the settings editor. Replace typed trigger text with its mapped replacement on command and keep multiple snippets organized by divider lines."
 
     stats: {
-        downloads:  6128
+        downloads:  6147
         updated_at: 1696811442000
     }
 }

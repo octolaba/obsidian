@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/bookorbit-sync
 alt:
   - https://github.com/ble4k/obsidian-bookorbit-sync
-downloads: 47
-updated at: "2026-07-19T16:26:55Z"
+downloads: 181
+updated at: "2026-08-01T11:10:28Z"
 related to:
   - "[[GitHub - 1283321639]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync highlights and annotations from a self-hosted BookOrbit server into Obsidian as one note per book with incremental updates for new highlights. Add optional frontmatter and include extra metadata like highlight time, color, chapter, and book covers, with manual or automatic sync."
 
     stats: {
-        downloads:  47
-        updated_at: 1784478415000
+        downloads:  181
+        updated_at: 1785582628000
     }
 }
 ```

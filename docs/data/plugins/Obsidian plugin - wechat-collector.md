@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wechat-collector
 alt:
   - https://github.com/lizhen0628/obsidian-wechat-sync
-downloads: 10
+downloads: 45
 updated at: "2026-07-22T06:57:49Z"
 related to:
   - "[[GitHub - 1307692176]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync WeChat public-account articles to your Obsidian vault via a backend server, converting HTML to Markdown and downloading images into local attachments. Archive notes by YYYY‑MM folders and perform incremental, scheduled, or manual pulls on desktop and mobile."
 
     stats: {
-        downloads:  10
+        downloads:  45
         updated_at: 1784703469000
     }
 }

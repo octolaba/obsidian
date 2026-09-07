@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tag-lens
 alt:
   - https://github.com/laximgqozazzzyt/tag-lens
-downloads: 320
+downloads: 371
 updated at: "2026-06-28T14:51:57Z"
 related to:
   - "[[GitHub - 1252267025]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Tag Lens visualizes tag–note relationships in your Obsidian Bases (.base) vault through four focused, interactive view modes. Co-occurrence Heatmap — A symmetric tag × tag grid where each cell's shade represents notes shared by two tags. Click any cell to drill down and see exactly which notes belong to that intersection. Intersection Lattice — A degree-tiered layout of exact tag intersections with subset links between tiers. Nodes auto-switch between overview, density, and individual card rendering based on note count and zoom level. BubbleSets — The containment layout drawn as rectangular iso-contour bubbles, making set membership visually intuitive at a glance. Icon Gallery — A zoomable tiled gallery with one icon per note, showing each note's tag-intersection groups and link/backlink relations for a detailed closeup view."
 
     stats: {
-        downloads:  320
+        downloads:  371
         updated_at: 1782658317000
     }
 }

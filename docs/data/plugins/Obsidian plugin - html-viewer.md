@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/html-viewer
 alt:
   - https://github.com/jialinzhang24/obsidian-html-viewer
-downloads: 1972
+downloads: 2534
 updated at: "2026-05-10T02:13:52Z"
 related to:
   - "[[GitHub - 1234292865]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render .html/.htm files directly inside Obsidian. Sandbox content by default (Scripts OFF) and toggle Scripts ON for games, D3/ECharts, WebGL visuals, or other interactive documents. Switch between raw source and rendered view and refresh files from disk."
 
     stats: {
-        downloads:  1972
+        downloads:  2534
         updated_at: 1778379232000
     }
 }

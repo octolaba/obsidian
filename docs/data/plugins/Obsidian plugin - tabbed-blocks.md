@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tabbed-blocks
 alt:
   - https://github.com/quincysx/obsidian-markdown-tabs
-downloads: 25
+downloads: 81
 updated at: "2026-07-22T14:33:51Z"
 related to:
   - "[[GitHub - 622505484]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display Markdown content in tabbed panels in reading mode. Create a tabs code block using ---tab separators and mark the default with ---tab*. Render each tab lazily to avoid hidden-content sizing issues, allow horizontal drag-scroll when tabs overflow, and show text before the first ---tab as an intro above the tabs."
 
     stats: {
-        downloads:  25
+        downloads:  81
         updated_at: 1784730831000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/toggl-import
 alt:
   - https://github.com/theaspect/obsidian-toggl
-downloads: 82
+downloads: 89
 updated at: "2026-04-18T03:52:25Z"
 related to:
   - "[[GitHub - 1209214289]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Toggl Track time entries into a daily note based on its yyyy-mm-dd filename and insert them at the cursor. Choose Markdown table, plain text (configurable delimiter), or a custom template with $description, $start, $duration, $tags, $project placeholders; sort and select columns; store your API token locally; append new entries on repeat imports."
 
     stats: {
-        downloads:  82
+        downloads:  89
         updated_at: 1776484345000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/double-switch
 alt:
   - https://github.com/carlrobert/double-switch
-downloads: 2542
+downloads: 2765
 updated at: "2026-05-27T19:34:25Z"
 related to:
   - "[[GitHub - 886276549]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Switch themes automatically when Obsidian toggles between light and dark mode. Choose a theme for each mode and apply it instantly on change."
 
     stats: {
-        downloads:  2542
+        downloads:  2765
         updated_at: 1779910465000
     }
 }

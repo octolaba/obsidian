@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/anki-heading-sync
 alt:
   - https://github.com/panatgithub/AnkiHeadingSync
-downloads: 181
+downloads: 190
 updated at: "2026-05-13T12:51:12Z"
 related to:
   - "[[GitHub - 1212634270]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Obsidian headings into Anki flashcards by using heading text (recommended H4) as the question to streamline card creation. Generate four card types—basic Q&A, nested-list Q&A, single-cloze and all-cloze—batch-convert files or the whole vault, map decks by file or folder, and optionally sync backlinks and tags."
 
     stats: {
-        downloads:  181
+        downloads:  190
         updated_at: 1778676672000
     }
 }

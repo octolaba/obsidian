@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/memento
 alt:
   - https://github.com/ducktapekiller/memento
-downloads: 123
+downloads: 175
 updated at: "2026-06-21T21:58:50Z"
 related to:
   - "[[GitHub - 1263953046]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track and manage events from your Obsidian Calendar and create events by right‑clicking any date. Display upcoming items in an interactive sidebar timeline and filter by month or all future occurrences. Support recurring schedules, generate scaffolded event notes with rich YAML frontmatter, and parse English and Spanish dates."
 
     stats: {
-        downloads:  123
+        downloads:  175
         updated_at: 1782079130000
     }
 }

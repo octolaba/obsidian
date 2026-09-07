@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hot-reload-picker
 alt:
   - https://github.com/lemon695/obsidian-hot-reload-picker
-downloads: 232
+downloads: 245
 updated at: "2026-06-08T13:38:13Z"
 related to:
   - "[[GitHub - 1203577298]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reload enabled plugins from the command palette using a searchable picker for fast, manual development reloads. Favorite plugins, reload multiple plugins in one batch or repeat the last reload with a single command, create dedicated quick-reload commands, and optionally hide the reloader from lists."
 
     stats: {
-        downloads:  232
+        downloads:  245
         updated_at: 1780925893000
     }
 }

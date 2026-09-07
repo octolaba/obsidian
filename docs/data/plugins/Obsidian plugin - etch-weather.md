@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/etch-weather
 alt:
   - https://github.com/parente/obsidian-etch-weather
-downloads: 210
+downloads: 222
 updated at: "2026-01-04T21:14:19Z"
 related to:
   - "[[GitHub - 1126836653]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Etch daily weather forecasts into your notes for permanent, local, offline access. Insert an etch-weather fenced code block—optionally include a date or coordinates—to render and save the forecast in your Markdown file as a historical record."
 
     stats: {
-        downloads:  210
+        downloads:  222
         updated_at: 1767561259000
     }
 }

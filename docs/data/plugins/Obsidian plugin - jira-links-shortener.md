@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jira-links-shortener
 alt:
   - https://github.com/rplatonovs/obsidian-jira-links-shortener
-downloads: 705
+downloads: 718
 updated at: "2025-09-26T16:59:48Z"
 related to:
   - "[[GitHub - 966060469]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture pasted Jira ticket URLs and replace them with the issue key (e.g., PRJ-1234). Keep notes concise by converting long Jira links into compact ticket IDs on paste."
 
     stats: {
-        downloads:  705
+        downloads:  718
         updated_at: 1758905988000
     }
 }

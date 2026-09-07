@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/brains-sync
 alt:
   - https://github.com/brainsforai/obsidian-brains-sync
-downloads: 130
+downloads: 161
 updated at: "2026-06-18T18:12:35Z"
 related to:
   - "[[GitHub - 1260987862]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Most AI memory is trapped inside one app and wiped when the chat ends. Brains (https://usebrains.app) keeps yours. Interlinked markdown pages, structured so an LLM can navigate them the way you do, not a pile of chat logs. It lives outside any single AI, so the same knowledge shows up in Claude, ChatGPT, and whatever you move to next. Your agents write back to it, not just read, and it stays in plain markdown you can export any time. This plugin makes Obsidian a window into that brain. Pull your whole knowledge base in with its links intact, edit the way you already work, and push changes back. Auto-sync runs in the background, incremental pull grabs only what changed, and OAuth means no keys to copy. Desktop and mobile. Shape your brain with brains-skills, a community library of filing systems, note templates, and agents you point your AI at. github.com/brainsforai/brains-skills Note to self: Cross platform ai workflows are now just a voice memo away."
 
     stats: {
-        downloads:  130
+        downloads:  161
         updated_at: 1781806355000
     }
 }

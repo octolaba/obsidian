@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/achmage-notepack-codex
 alt:
   - https://github.com/laguna821/Obsidian_NotePack-CODEX
-downloads: 656
+downloads: 1330
 updated at: "2026-05-21T07:51:02Z"
 related to:
   - "[[GitHub - 1207139730]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Drive bottom-up writing by tossing memos onto a dedicated .codex workbench where AI personas debate, annotate, categorize, and propose synthesis across notes. Draw multi-seed idea card packs to force new directions, prune cards with keep/discard, and promote chosen cards into vault Markdown notes."
 
     stats: {
-        downloads:  656
+        downloads:  1330
         updated_at: 1779349862000
     }
 }

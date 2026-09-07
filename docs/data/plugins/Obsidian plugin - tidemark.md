@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tidemark
 alt:
   - https://github.com/real-fruit-snacks/Tidemark
-downloads: 102
+downloads: 151
 updated at: "2026-07-19T13:52:28Z"
 related to:
   - "[[GitHub - 1172128986]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Define variables in a note's YAML frontmatter and reference them with {{variable}}, {{var:default}} or nested dot paths to substitute values. Copy or permanently replace filled values by line, selection, or entire document and see live color-coded highlights for defined, fallback, and missing variables."
 
     stats: {
-        downloads:  102
+        downloads:  151
         updated_at: 1784469148000
     }
 }

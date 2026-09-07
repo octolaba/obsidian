@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gemmy
 alt:
   - https://github.com/ericaxu/gemmy
-downloads: 6689
+downloads: 6744
 updated at: "2025-10-02T19:02:43Z"
 related to:
   - "[[GitHub - 621116996]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a whimsical Unhelper that randomly blurts remarks or pops up to nudge you when you stop typing. Choose random or writing modes to inject playful interruptions that may, unexpectedly, spark creativity."
 
     stats: {
-        downloads:  6689
+        downloads:  6744
         updated_at: 1759431763000
     }
 }

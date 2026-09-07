@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/yaml-table
 alt:
   - https://github.com/dainakai/obsidian-yaml-table
-downloads: 1616
+downloads: 1847
 updated at: "2025-06-05T06:26:36Z"
 related to:
   - "[[GitHub - 976448138]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render YAML code blocks into HTML tables for clear, editable previews. Support simple key–value pairs, lists, nested objects, captions via the language identifier, live updates as you edit, and automatic horizontal scrolling for wide tables."
 
     stats: {
-        downloads:  1616
+        downloads:  1847
         updated_at: 1749104796000
     }
 }

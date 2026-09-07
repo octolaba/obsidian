@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/reclipped-official
 alt:
   - https://github.com/tech-reclipped/ReClipped-Obsidian-Official
-downloads: 2868
+downloads: 2898
 updated at: "2024-10-18T12:53:22Z"
 related to:
   - "[[GitHub - 692334730]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export video annotations from supported platforms into Obsidian while preserving relations between annotations, channels, and platforms via internal links. Play videos and jump to annotated timestamps inside Obsidian, render snapshots as images, and make tags and metadata fully searchable."
 
     stats: {
-        downloads:  2868
+        downloads:  2898
         updated_at: 1729256002000
     }
 }

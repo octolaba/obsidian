@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/minote-sync
 alt:
   - https://github.com/emac/obsidian-minote-plugin
-downloads: 1775
+downloads: 1968
 updated at: "2026-02-20T10:25:53Z"
 related to:
   - "[[GitHub - 912242811]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Xiaomi Cloud notes to Obsidian by converting them to Markdown and saving them in a chosen folder. Preserve creation and modification times, auto-download and convert images, clean Xiaomi-specific tags and auto-generate titles for untitled notes; perform incremental updates or force a full overwrite and work with non-China Xiaomi cloud."
 
     stats: {
-        downloads:  1775
+        downloads:  1968
         updated_at: 1771583153000
     }
 }

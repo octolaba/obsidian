@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/wisemindai
 alt:
   - https://github.com/chris8891/wisemind-obsidian
-downloads: 247
-updated at: "2026-06-19T07:20:28Z"
+downloads: 310
+updated at: "2026-08-04T02:42:01Z"
 related to:
   - "[[GitHub - 1251003388]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Connect Obsidian to the WiseMindAI desktop app to summarize, rewrite, expand, or chat with selected notes or text. Generate knowledge cards, templates and ideas; sync Markdown between Obsidian and WiseMindAI; insert AI output into the current note, save as new notes, copy to clipboard, or continue an interactive chat."
 
     stats: {
-        downloads:  247
-        updated_at: 1781853628000
+        downloads:  310
+        updated_at: 1785811321000
     }
 }
 ```

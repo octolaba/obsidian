@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/thunderegg
 alt:
   - https://github.com/5tukgpt/thunderegg
-downloads: 37
-updated at: "2026-07-07T14:49:02Z"
+downloads: 60
+updated at: "2026-08-09T22:35:25Z"
 related to:
   - "[[GitHub - 1266637784]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # Thunderegg
 
-Thunderegg converts PDFs, Word, Excel, PowerPoint, email, images and clipboard content into clean Markdown files with YAML frontmatter, on the device and on macOS. Its Refinery tracks note maturity as Grades running from vapor through distillate to essence, surfaces Bonds between wikilinked notes, marks hub notes as Condensers, and groups related notes into Fractions, with badges in the info bar and the status bar.
+Converts PDFs, Word, Excel and PowerPoint files, email, images, clipboard content and meeting recordings into Markdown with YAML frontmatter, calling a local engine provided by a companion macOS application. Recordings are transcribed on the device and become structured summaries with action items, decisions and notable quotes. An optional Refinery tracks note Grades from Blank through Rough, Polished and Crystal to Gem, surfaces Bonds between wikilinked notes and marks Condenser hub notes, shown in an info bar and the status bar. Publishing a Canvas as a signed concept map to a configured server is the only feature that sends anything off the machine, and it is off by default.
 
 ```cue
 plugin: {
@@ -33,12 +33,12 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/thunderegg"
     github_url:  "https://github.com/5tukgpt/thunderegg"
-    description: "Convert any attachment to Markdown on-device, plus the Refinery — track note maturity (Grades), wikilink connections (Bonds), and hub notes (Condensers). Powered by the Thunderegg engine. - This plugin has not been manually reviewed by Obsidian staff."
-    about:       "Convert PDFs, Word, Excel, PowerPoint, email, images and clipboard content to clean Markdown files with YAML frontmatter directly on macOS. Enable the Refinery to track Grades (vapor→distillate→essence), surface Bonds (wikilink connections), mark Condensers (hub notes), and group related notes as Fractions with info-bar and status-bar badges."
+    description: "Convert attachments — documents, images, even meeting recordings (transcribed on-device) — to Markdown via the local Thunderegg engine. Adds Grades, Bonds and Condensers. - This plugin has not been manually reviewed by Obsidian staff."
+    about:       "Convert PDFs, Word, Excel, PowerPoint, email, images, clipboard content and meeting recordings to clean Markdown with YAML frontmatter, entirely on your Mac. Recordings are transcribed on-device and become structured summaries with action items, decisions and notable quotes. Enable the Refinery to track Grades (Blank→Rough→Polished→Crystal→Gem), surface Bonds (wikilink connections) and mark Condensers (hub notes), shown in an info bar and the status bar. Requires the free Thunderegg macOS app, which provides the local conversion engine this plugin calls. You can optionally publish an Obsidian Canvas as a signed concept map to a server you configure — the only feature that sends anything anywhere, and it is off by default."
 
     stats: {
-        downloads:  37
-        updated_at: 1783435742000
+        downloads:  60
+        updated_at: 1786314925000
     }
 }
 ```

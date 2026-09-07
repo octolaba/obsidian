@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/reference-map
 alt:
   - https://github.com/anoopkcn/obsidian-reference-map
-downloads: 19632
+downloads: 20034
 updated at: "2024-01-01T23:50:15Z"
 related to:
   - "[[GitHub - 582974633]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage and explore references and citations from a sidebar that shows index cards and searchable lists of citing/cited works detected in your document. Search online to create or insert reference details and visualize relationships with an interactive graph of citing/cited connections."
 
     stats: {
-        downloads:  19632
+        downloads:  20034
         updated_at: 1704153015000
     }
 }

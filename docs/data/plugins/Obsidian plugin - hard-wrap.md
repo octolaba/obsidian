@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hard-wrap
 alt:
   - https://github.com/alethiophile/obsidian-hard-wrap
-downloads: 119
+downloads: 136
 updated at: "2026-03-24T20:26:29Z"
 related to:
   - "[[GitHub - 1190981082]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hard-wrap Markdown files on disk at a configurable column width while rendering paragraphs as soft-wrapped lines in the editor. Allow per-file frontmatter overrides and run a Reformat command to normalize pasted or external edits and rewrap files without reload."
 
     stats: {
-        downloads:  119
+        downloads:  136
         updated_at: 1774383989000
     }
 }

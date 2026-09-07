@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-vocabulary-view
 alt:
   - https://github.com/nnshi-s/obsidian-vocabulary-view-plugin
-downloads: 8153
+downloads: 8177
 updated at: "2024-04-23T13:01:20Z"
 related to:
   - "[[GitHub - 413788718]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create vocaview blocks with words and explanations and preview them as lists, single-choice questions, or flashcard-style cards, with options to show the word, show the explanation, or randomize. Manage reusable vocabulary books to add, remove, and review word collections across notes."
 
     stats: {
-        downloads:  8153
+        downloads:  8177
         updated_at: 1713877280000
     }
 }

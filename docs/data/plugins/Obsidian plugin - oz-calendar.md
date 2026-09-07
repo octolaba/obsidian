@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/oz-calendar
 alt:
   - https://github.com/ozntel/oz-calendar
-downloads: 21829
+downloads: 21969
 updated at: "2024-03-31T12:23:47Z"
 related to:
   - "[[GitHub - 612103025]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display notes on a calendar using dates extracted from a YAML key or the file name. Define custom date formats to parse entries and quickly locate notes by date."
 
     stats: {
-        downloads:  21829
+        downloads:  21969
         updated_at: 1711887827000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/property-over-file-name
 alt:
   - https://github.com/davidvkimball/obsidian-property-over-file-name
-downloads: 7331
-updated at: "2026-06-26T23:28:16Z"
+downloads: 7539
+updated at: "2026-08-10T22:39:06Z"
 related to:
   - "[[GitHub - 1052483002]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Search, display, and insert notes using a specified note property (e.g., title) instead of the file name. Show property values across link suggester, quick switcher, graph, tabs, backlinks, bookmarks, window frame, and file explorer, and create or drag notes while preserving property-based titles."
 
     stats: {
-        downloads:  7331
-        updated_at: 1782516496000
+        downloads:  7539
+        updated_at: 1786401546000
     }
 }
 ```

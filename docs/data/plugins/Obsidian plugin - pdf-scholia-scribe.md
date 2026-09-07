@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/pdf-scholia-scribe
 alt:
   - https://github.com/michellegdyason/pdf-scholia-scribe
-downloads: 121
-updated at: "2026-07-21T02:09:05Z"
+downloads: 227
+updated at: "2026-08-01T09:50:46Z"
 related to:
   - "[[GitHub - 1276385168]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Read and annotate PDFs while writing scholarly notes, preserving exact-selection links and showing quiet citation labels instead of long file/page links. Copy passages as author–date, APA/Harvard, numbered, or quoted citations with hidden PDF links; prefer PDF page labels, pull Zotero metadata, and generate a managed References section."
 
     stats: {
-        downloads:  121
-        updated_at: 1784599745000
+        downloads:  227
+        updated_at: 1785577846000
     }
 }
 ```

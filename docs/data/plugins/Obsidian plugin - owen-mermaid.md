@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/owen-mermaid
 alt:
   - https://github.com/towishy/owen-mermaid
-downloads: 268
-updated at: "2026-06-14T06:44:51Z"
+downloads: 382
+updated at: "2026-08-05T05:55:14Z"
 related to:
   - "[[GitHub - 1267241296]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "View and edit Mermaid SVG diagrams inline with a glass toolbar and a right-click menu offering zoom, full-screen pan-and-zoom, and PNG/JPG export. Open a visual flowchart editor to drag nodes, create or delete connectors, edit text, and write changes back to the original Mermaid code block."
 
     stats: {
-        downloads:  268
-        updated_at: 1781419491000
+        downloads:  382
+        updated_at: 1785909314000
     }
 }
 ```

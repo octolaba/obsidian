@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/antidote-grammar-checker-integration
 alt:
   - https://github.com/heziode/obsidian-antidote
-downloads: 11660
+downloads: 11772
 updated at: "2023-05-28T17:35:35Z"
 related to:
   - "[[GitHub - 584956024]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Integrate Antidote grammar, dictionary and guide into Obsidian for English and French. Use status-bar icons and commands to run Correct All (whole document or selection), run Simple Correct (cursor-aware), and open Antidote’s dictionary and guide on desktop."
 
     stats: {
-        downloads:  11660
+        downloads:  11772
         updated_at: 1685295335000
     }
 }

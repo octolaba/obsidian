@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/light-mindmap
 alt:
   - https://github.com/ninglg/light-mindmap
-downloads: 1836
+downloads: 2695
 updated at: "2026-07-10T07:51:03Z"
 related to:
   - "[[GitHub - 1223280274]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Markdown headings as a colorful, interactive mind map that replaces the editor/preview and updates live as you edit. Choose balanced, left or right layouts, six color themes, multiple connection styles and node shapes; skip fenced code blocks and strip inline Markdown for clean node labels, with an automatic virtual root when multiple top-level headings exist."
 
     stats: {
-        downloads:  1836
+        downloads:  2695
         updated_at: 1783669863000
     }
 }

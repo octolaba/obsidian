@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/shadowdark-statblocks
 alt:
   - https://github.com/caulfieldsbrain/obsidian-shadowdark-statblocks
-downloads: 229
+downloads: 268
 updated at: "2026-05-29T16:07:40Z"
 related to:
   - "[[GitHub - 1214086013]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import, parse, and render Shadowdark RPG monster statblocks directly in your notes. Use clipboard or selection to paste messy PDFs, bulk-import multiple monsters with smart defaults and duplicate handling, then browse and view live inline or hover-rendered statblocks."
 
     stats: {
-        downloads:  229
+        downloads:  268
         updated_at: 1780070860000
     }
 }

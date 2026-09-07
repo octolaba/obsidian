@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-tasks-view
 alt:
   - https://github.com/totocaster/vault-tasks-obsidian
-downloads: 137
+downloads: 147
 updated at: "2026-05-13T18:39:51Z"
 related to:
   - "[[GitHub - 1203265059]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Gather Markdown tasks from across your vault into a single grouped view that keeps each task in its original note as the source of truth. Group tasks by note or section, filter by status, pin notes, defer or hide notes via frontmatter, and expose the same grouped view to scripts and AI agents via a companion CLI for automation."
 
     stats: {
-        downloads:  137
+        downloads:  147
         updated_at: 1778697591000
     }
 }

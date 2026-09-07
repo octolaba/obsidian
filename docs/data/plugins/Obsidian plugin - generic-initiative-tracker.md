@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/generic-initiative-tracker
 alt:
   - https://github.com/beaurancourt/obsidian-generic-initiative-tracker
-downloads: 8954
+downloads: 9012
 updated at: "2022-01-29T01:29:27Z"
 related to:
   - "[[GitHub - 435207290]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track initiative in Obsidian via a right‑pane encounter view that lists and orders players and creatures. Launch encounters from encounter code blocks in notes, render names as internal links, auto-index duplicate names, and support dice-string initiative modifiers."
 
     stats: {
-        downloads:  8954
+        downloads:  9012
         updated_at: 1643419767000
     }
 }

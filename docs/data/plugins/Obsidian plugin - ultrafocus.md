@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ultrafocus
 alt:
   - https://github.com/eliascotto/ultrafocus
-downloads: 98
+downloads: 120
 updated at: "2026-07-12T12:04:34Z"
 related to:
   - "[[GitHub - 977321925]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide all UI elements — tabs, status bar, ribbon, sidebars, and panels — with a single toggle command to create a distraction-free writing environment. Choose which elements remain visible and switch back instantly without using buttons."
 
     stats: {
-        downloads:  98
+        downloads:  120
         updated_at: 1783857874000
     }
 }

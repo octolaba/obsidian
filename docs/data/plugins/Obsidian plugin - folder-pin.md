@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-pin
 alt:
   - https://github.com/42milesz/obsidian-folder-pin
-downloads: 224
+downloads: 247
 updated at: "2026-05-16T13:32:46Z"
 related to:
   - "[[GitHub - 1225516709]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Pin folders as Explorer tabs to switch project contexts with one click and hide the rest of the vault. Open multiple independent Folder Pin views, keep each tab's expand state, scroll position and selection, choose tab layouts (grid/vertical/horizontal), and use an optional Go up button."
 
     stats: {
-        downloads:  224
+        downloads:  247
         updated_at: 1778938366000
     }
 }

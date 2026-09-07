@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/superpower-inside
 alt:
   - https://github.com/magnitus99/Superpower-Inside
-downloads: 1518
-updated at: "2026-07-22T14:46:37Z"
+downloads: 1805
+updated at: "2026-08-08T07:43:30Z"
 related to:
   - "[[GitHub - 1231560998]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Chat with local or cloud LLMs from the right sidebar and run in-editor AI directives to summarize, edit, or generate content. Index your vault for RAG to inject provenance-based context and connect MCP (stdio) servers or local Ollama for external tool calls and web-search context; desktop only."
 
     stats: {
-        downloads:  1518
-        updated_at: 1784731597000
+        downloads:  1805
+        updated_at: 1786175010000
     }
 }
 ```

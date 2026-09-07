@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-encryptor
 alt:
   - https://github.com/curiousabe/obsidian-vault-encryptor
-downloads: 167
+downloads: 211
 updated at: "2026-03-13T16:49:07Z"
 related to:
   - "[[GitHub - 1180674914]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Encrypt and decrypt files and folders recursively using AES-256-GCM with PBKDF2-SHA256, produce .enc files and remove the original after encryption (and reverse on decryption). Open .enc files in a blocked placeholder view to prevent editing and fail on existing output paths to avoid accidental overwrites."
 
     stats: {
-        downloads:  167
+        downloads:  211
         updated_at: 1773420547000
     }
 }

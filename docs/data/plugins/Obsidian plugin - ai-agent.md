@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-agent
 alt:
   - https://github.com/themanuelml/obsidian-agent
-downloads: 9106
+downloads: 9687
 updated at: "2026-06-14T21:09:54Z"
 related to:
   - "[[GitHub - 965434442]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Interact with your vault using an AI agent that reads, writes, edits, and searches notes directly inside Obsidian. Manage chats as notes and command the agent to create folders, list files, filter notes by date, and run vault-wide or web searches."
 
     stats: {
-        downloads:  9106
+        downloads:  9687
         updated_at: 1781471394000
     }
 }

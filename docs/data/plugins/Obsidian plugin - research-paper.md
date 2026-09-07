@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/research-paper
 alt:
   - https://github.com/jaliriogbarrios19/Research_Paper
-downloads: 286
+downloads: 310
 updated at: "2026-06-14T16:25:25Z"
 related to:
   - "[[GitHub - 1247033110]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search academic databases and gather relevant studies directly inside Obsidian. Generate APA 7–formatted papers or quick answers with AI, review and filter source papers, add natural-language instructions, and insert the resulting draft into your note."
 
     stats: {
-        downloads:  286
+        downloads:  310
         updated_at: 1781454325000
     }
 }

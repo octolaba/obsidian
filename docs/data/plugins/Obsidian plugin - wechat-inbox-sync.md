@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/wechat-inbox-sync
 alt:
   - https://github.com/mingjuner123-spec/wechat-inbox-sync
-downloads: 4000
-updated at: "2026-07-21T11:24:35Z"
+downloads: 5517
+updated at: "2026-08-09T09:39:24Z"
 related to:
   - "[[GitHub - 1244182350]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync content sent from a WeChat mini program into your Obsidian vault as dated Markdown notes and local attachments. Capture text, links, webpages, audio (optional transcription), and files — convert supported pages into Markdown snapshots and store items in readable daily inbox folders."
 
     stats: {
-        downloads:  4000
-        updated_at: 1784633075000
+        downloads:  5517
+        updated_at: 1786268364000
     }
 }
 ```

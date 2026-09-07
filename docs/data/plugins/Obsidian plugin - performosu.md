@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/performosu
 alt:
   - https://github.com/ruikurenaii/performium
-downloads: 1207
+downloads: 1233
 updated at: "2026-03-15T06:36:32Z"
 related to:
   - "[[GitHub - 961217682]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Integrate an osu!-style Performance Points system into Obsidian to gamify your note-taking. Calculate PP across your vault from readability, complexity, and information, and view results and history via a ribbon, command, and modal."
 
     stats: {
-        downloads:  1207
+        downloads:  1233
         updated_at: 1773556592000
     }
 }

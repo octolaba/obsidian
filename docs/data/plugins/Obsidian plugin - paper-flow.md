@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/paper-flow
 alt:
   - https://github.com/soantifragile/obsidian-paper-flow
-downloads: 141
+downloads: 159
 updated at: "2026-05-22T05:40:56Z"
 related to:
   - "[[GitHub - 1246344070]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Detect paper URLs in Markdown, resolve metadata from Semantic Scholar, arXiv, Crossref and OpenAlex, and insert a managed metadata table into notes. Download open-access PDFs into your vault, refresh citation counts periodically, and generate Mermaid literature maps for the current note."
 
     stats: {
-        downloads:  141
+        downloads:  159
         updated_at: 1779428456000
     }
 }

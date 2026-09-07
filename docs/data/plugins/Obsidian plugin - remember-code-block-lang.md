@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/remember-code-block-lang
 alt:
   - https://github.com/zzunebye/remember-last-code-block-lang
-downloads: 78
+downloads: 88
 updated at: "2026-01-16T03:33:14Z"
 related to:
   - "[[GitHub - 1112104268]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Remember the last code block language and automatically insert it when you start a code fence, so new code blocks default to your most recent language. Provide a command to insert a code block with the remembered language and allow setting a default language."
 
     stats: {
-        downloads:  78
+        downloads:  88
         updated_at: 1768534394000
     }
 }

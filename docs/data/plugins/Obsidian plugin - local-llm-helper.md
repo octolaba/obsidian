@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/local-llm-helper
 alt:
   - https://github.com/manimohans/obsidian-local-llm-helper
-downloads: 12151
+downloads: 13267
 updated at: "2026-07-22T16:04:24Z"
 related to:
   - "[[GitHub - 791099470]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bring local LLMs into your notes to process text, chat with AI, and perform semantic searches while keeping data private and local. Index your vault for RAG, run AI text commands like summarize or extract actions, and switch between OpenAI‑compatible local providers."
 
     stats: {
-        downloads:  12151
+        downloads:  13267
         updated_at: 1784736264000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/linkvault
 alt:
   - https://github.com/calghar/LinkVault
-downloads: 220
-updated at: "2026-07-19T14:31:54Z"
+downloads: 302
+updated at: "2026-08-08T18:31:59Z"
 related to:
   - "[[GitHub - 1179282074]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Save web-clipped links into your vault with AI-extracted titles and one-sentence summaries. Select the best KB file and H2 section using three-tier fuzzy matching, create new files when none fit, and insert a table row with the link. Use Anthropic, Ollama, or OpenRouter for AI calls and retry transient errors automatically."
 
     stats: {
-        downloads:  220
-        updated_at: 1784471514000
+        downloads:  302
+        updated_at: 1786213919000
     }
 }
 ```

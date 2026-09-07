@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/short-internal-links-to-headings
 alt:
   - https://github.com/scottwillmoore/obsidian-short-links
-downloads: 13433
+downloads: 13511
 updated at: "2023-10-15T10:07:04Z"
 related to:
   - "[[GitHub - 582865933]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Shorten internal Obsidian links to files, notes, headings, and blocks for a cleaner, compact display. Show optional icons at the start or end of links to indicate type. Apply changes in both live preview and reading view."
 
     stats: {
-        downloads:  13433
+        downloads:  13511
         updated_at: 1697364424000
     }
 }

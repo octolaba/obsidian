@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/code-view
 alt:
   - https://github.com/casualbot/obsidian-codeviewer-plugin
-downloads: 420
+downloads: 516
 updated at: "2026-05-07T16:04:29Z"
 related to:
   - "[[GitHub - 1231024853]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View syntax-highlighted, read-only developer files (py, ps1, sh, ts, cs, sql, yml, and more) directly inside Obsidian without executing their contents. Make prompts, tool configs, scripts, and other source files browsable, searchable, and linkable alongside your notes."
 
     stats: {
-        downloads:  420
+        downloads:  516
         updated_at: 1778169869000
     }
 }

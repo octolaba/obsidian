@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-overview
 alt:
   - https://github.com/lostpaul/obsidian-folder-overview
-downloads: 2591
+downloads: 2662
 updated at: "2025-11-29T20:02:00Z"
 related to:
   - "[[GitHub - 913777952]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a dynamic code-block overview of your vault or selected folders that reflects folder contents. Use as a standalone alternative to the Folder Notes folder-overview feature; cannot run alongside the Folder Notes plugin."
 
     stats: {
-        downloads:  2591
+        downloads:  2662
         updated_at: 1764446520000
     }
 }

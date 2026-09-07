@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-nav
 alt:
   - https://github.com/kuboon/daily-nav
-downloads: 137
+downloads: 164
 updated at: "2026-04-04T02:32:45Z"
 related to:
   - "[[GitHub - 942569566]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open yesterday's or tomorrow's daily note from the command palette with two simple commands. Respect Daily Notes and Periodic Notes settings so the commands open the correct notes."
 
     stats: {
-        downloads:  137
+        downloads:  164
         updated_at: 1775269965000
     }
 }

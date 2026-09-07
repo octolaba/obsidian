@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-path-finder
 alt:
   - https://github.com/jerrywcy/obsidian-path-finder
-downloads: 10144
+downloads: 10326
 updated at: "2023-04-11T11:34:26Z"
 related to:
   - "[[GitHub - 509716048]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Find the shortest path between two files or enumerate all link paths connecting them. Display results as a sorted list or interactive graph and apply optional path-length limits to keep outputs manageable."
 
     stats: {
-        downloads:  10144
+        downloads:  10326
         updated_at: 1681212866000
     }
 }

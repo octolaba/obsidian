@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/excavelo
 alt:
   - https://github.com/biblecode21/excavelo
-downloads: 128
-updated at: "2026-07-21T01:28:08Z"
+downloads: 165
+updated at: "2026-08-02T07:01:08Z"
 related to:
   - "[[GitHub - 1245631061]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Transform raw memos into structured meeting notes, 1:1 summaries, decision records, or custom templates using Claude, an Anthropic API key, or OpenAI‑compatible endpoints. Preserve the original memo while injecting default and per-note context from [!context] callouts, choose a markdown template from excaVelo/templates, preview the output, and save or append the cleaned note."
 
     stats: {
-        downloads:  128
-        updated_at: 1784597288000
+        downloads:  165
+        updated_at: 1785654068000
     }
 }
 ```

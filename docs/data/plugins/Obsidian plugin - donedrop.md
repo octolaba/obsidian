@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/donedrop
 alt:
   - https://github.com/kgdrathan/donedrop
-downloads: 323
+downloads: 345
 updated at: "2026-01-16T05:43:21Z"
 related to:
   - "[[GitHub - 1135045477]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move completed tasks (- [x]) to the bottom of their indentation level to keep lists focused on open items. Handle nested subtasks recursively and operate in Live Preview and Reading Mode while preserving the editor cursor when applying changes."
 
     stats: {
-        downloads:  323
+        downloads:  345
         updated_at: 1768542201000
     }
 }

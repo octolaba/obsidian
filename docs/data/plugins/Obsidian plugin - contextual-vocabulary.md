@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/contextual-vocabulary
 alt:
   - https://github.com/0utsights/obsidian-contextual-vocabulary
-downloads: 28
+downloads: 52
 updated at: "2026-07-14T14:47:27Z"
 related to:
   - "[[GitHub - 1300598236]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn highlighted words into permanent, navigable dictionary entries linked back into your notes. Generate contextual definitions and usage reviews from the surrounding sentence, add entries alphabetically to a compact A–Z index, and reuse existing entries to avoid duplicates."
 
     stats: {
-        downloads:  28
+        downloads:  52
         updated_at: 1784040447000
     }
 }

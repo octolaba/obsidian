@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hwpx-writer
 alt:
   - https://github.com/jundamin/obsidian-hwpx-writer
-downloads: 171
+downloads: 194
 updated at: "2026-05-05T21:14:42Z"
 related to:
   - "[[GitHub - 1209062592]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Obsidian notes to HWPX (Hangul) with faithful Markdown-to-HWPX mapping for headings, paragraphs, lists, GFM tables, blockquotes, code blocks, inline styles, task lists and LaTeX math. Preview conversions live in a sidebar and apply or import HWPX templates and style presets to copy fonts, heading styles, table borders and preserve Obsidian links, embeds, callouts and highlights."
 
     stats: {
-        downloads:  171
+        downloads:  194
         updated_at: 1778015682000
     }
 }

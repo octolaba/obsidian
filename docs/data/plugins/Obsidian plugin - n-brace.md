@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/n-brace
 alt:
   - https://github.com/nn-ninja/n-brace
-downloads: 389
+downloads: 399
 updated at: "2026-04-23T12:56:09Z"
 related to:
   - "[[GitHub - 993465276]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display an interactive local graph beside the active note to visualize how it connects to other files and reveal its structure. Navigate links with arrow keys and reverse direction with Ctrl; use G-span to limit the visible neighborhood. Show tags in a left-side panel."
 
     stats: {
-        downloads:  389
+        downloads:  399
         updated_at: 1776948969000
     }
 }

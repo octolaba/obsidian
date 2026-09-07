@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-splitter
 alt:
   - https://github.com/decaf-dev/obsidian-note-splitter
-downloads: 3318
+downloads: 3449
 updated at: "2024-09-22T07:43:25Z"
 related to:
   - "[[GitHub - 727587371]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Split a note into multiple Markdown files using a custom delimiter, creating new notes without modifying the original. Ignore frontmatter, save splits to a chosen output folder, and optionally use the first line as each new note's title or remove the delimiter from the split content."
 
     stats: {
-        downloads:  3318
+        downloads:  3449
         updated_at: 1726991005000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/bases-lock
 alt:
   - https://github.com/tcyeee/obsidian-bases-lock
-downloads: 1050
-updated at: "2026-07-10T15:01:14Z"
+downloads: 1323
+updated at: "2026-08-07T08:36:18Z"
 related to:
   - "[[GitHub - 1105681926]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Hide the Obsidian Bases toolbar and lock header interactions while in Reading view. Toggle lock/unlock per embedded Base with a button that appears on hover. Apply controls only to Base embeds in the current document."
 
     stats: {
-        downloads:  1050
-        updated_at: 1783695674000
+        downloads:  1323
+        updated_at: 1786091778000
     }
 }
 ```

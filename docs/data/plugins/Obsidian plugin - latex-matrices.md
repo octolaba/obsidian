@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/latex-matrices
 alt:
   - https://github.com/deltekk/Obsidian-Latex-Matrices
-downloads: 4784
+downloads: 4817
 updated at: "2023-03-22T19:53:40Z"
 related to:
   - "[[GitHub - 615468036]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create LaTeX matrices and insert a ready-to-use LaTeX string for embedding in your note between $$ delimiters. Choose bracket type, use built-in fraction formatting, and enter fractions ({n}/{m}), subscripts (n_{m}) or superscripts (n^{m}) in cells."
 
     stats: {
-        downloads:  4784
+        downloads:  4817
         updated_at: 1679514820000
     }
 }

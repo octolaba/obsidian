@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/archivist
 alt:
   - https://github.com/mmomm-org/obsidian-archivist
-downloads: 284
+downloads: 304
 updated at: "2026-07-01T12:29:55Z"
 related to:
   - "[[GitHub - 1218884978]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Back up your vault to Dropbox on a schedule with versioned, content-addressed storage that deduplicates identical files to save space. Browse per-file history, restore any version to the original or a new location, and use the bundled CLI for offline recovery from your Dropbox folder."
 
     stats: {
-        downloads:  284
+        downloads:  304
         updated_at: 1782908995000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/drive-embedder
 alt:
   - https://github.com/reallygood83/obsidian-embedder
-downloads: 8527
+downloads: 9146
 updated at: "2025-12-09T01:18:03Z"
 related to:
   - "[[GitHub - 1109026645]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload local files to Google Drive and embed them directly into Obsidian notes with one-click upload and real-time progress. Choose intuitive size presets (Compact, Medium, Large, Full Width) and use audio-optimized players; support video, audio, PDF, and image formats."
 
     stats: {
-        downloads:  8527
+        downloads:  9146
         updated_at: 1765243083000
     }
 }

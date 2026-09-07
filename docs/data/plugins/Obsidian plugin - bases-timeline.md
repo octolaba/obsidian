@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/bases-timeline
 alt:
   - https://github.com/mmattia09/obsidian-project-manager
-downloads: 54
-updated at: "2026-07-17T20:00:03Z"
+downloads: 153
+updated at: "2026-07-29T09:45:03Z"
 related to:
   - "[[GitHub - 1302748047]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add a Notion-style Timeline view to Bases to visualize projects as horizontal bars with start/end dates, colored priority pills, and a Today indicator. Drag bars or edges to move or resize dates and save them to note frontmatter, group and sort projects by status or priority, drag between groups to change status, and click to open or preview notes."
 
     stats: {
-        downloads:  54
-        updated_at: 1784318403000
+        downloads:  153
+        updated_at: 1785318303000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/fbd-writing-timer
 alt:
   - https://github.com/fdirham/fbd-obsidian-writing-timer
-downloads: 105
+downloads: 113
 updated at: "2025-12-31T01:08:59Z"
 related to:
   - "[[GitHub - 1125532524]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Start a writing timer from the status bar to run focused sessions. See the word-count change for the file that was open when you started the timer."
 
     stats: {
-        downloads:  105
+        downloads:  113
         updated_at: 1767143339000
     }
 }

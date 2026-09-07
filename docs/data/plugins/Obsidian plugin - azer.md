@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/azer
 alt:
   - https://github.com/znorgaard/azer
-downloads: 65
+downloads: 112
 updated at: "2026-07-10T19:47:20Z"
 related to:
   - "[[GitHub - 1277474761]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize D&D campaigns in your vault with typed Markdown notes; create NPC, Session, Adventure Log, Location, and PC files prefilled with azer-type frontmatter and content scaffolds, scoped per campaign folder. Roll and render random tables as die-face lookup tables with nested [[wikilinks]], and use a device-local Anthropic API key to generate tables or recap recent adventure logs into grounded summaries."
 
     stats: {
-        downloads:  65
+        downloads:  112
         updated_at: 1783712840000
     }
 }

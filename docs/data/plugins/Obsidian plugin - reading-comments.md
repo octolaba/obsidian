@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/reading-comments
 alt:
   - https://github.com/bumbrt/obsidian-reading-comments
-downloads: 10379
+downloads: 10441
 updated at: "2024-12-04T07:42:05Z"
 related to:
   - "[[GitHub - 586646587]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create inline HTML comments while reading Markdown notes and use native %%comments%% for compatibility. Group comments hierarchically by tags, search and navigate them in a comments panel, toggle or remove entries, and extract the original note with clean internal links to comment notes for vault integration."
 
     stats: {
-        downloads:  10379
+        downloads:  10441
         updated_at: 1733298125000
     }
 }

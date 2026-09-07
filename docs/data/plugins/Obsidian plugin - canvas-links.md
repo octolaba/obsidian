@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-links
 alt:
   - https://github.com/aqav/obsidian-canvas-links
-downloads: 16115
+downloads: 16480
 updated at: "2025-02-28T08:36:41Z"
 related to:
   - "[[GitHub - 629905791]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display links between Canvas elements and regular notes to reveal connections across your vault. Open a dedicated view to browse and navigate Canvas-to-file relationships at a glance."
 
     stats: {
-        downloads:  16115
+        downloads:  16480
         updated_at: 1740731801000
     }
 }

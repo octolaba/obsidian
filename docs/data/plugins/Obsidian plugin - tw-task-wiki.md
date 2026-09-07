@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tw-task-wiki
 alt:
   - https://github.com/snttgr/obsidian-tw-task-wiki
-downloads: 1816
+downloads: 1846
 updated at: "2026-04-13T18:12:45Z"
 related to:
   - "[[GitHub - 603865550]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed Taskwarrior reports in notes using a tw code block with optional filters and templates. Create, edit, and delete tasks directly from report rows while the plugin runs your configured Taskwarrior binary to execute queries."
 
     stats: {
-        downloads:  1816
+        downloads:  1846
         updated_at: 1776103965000
     }
 }

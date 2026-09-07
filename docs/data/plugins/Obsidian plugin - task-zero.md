@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/task-zero
 alt:
   - https://github.com/alangrainger/obsidian-task-zero
-downloads: 5548
+downloads: 5873
 updated at: "2026-05-27T09:55:25Z"
 related to:
   - "[[GitHub - 1098205523]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage GTD-style tasks in Obsidian using a keyboard-first, MyLifeOrganized-like interface. Operate from a single main task page with full keyboard control and provide an API for other plugins and scripts to interact with your tasks."
 
     stats: {
-        downloads:  5548
+        downloads:  5873
         updated_at: 1779875725000
     }
 }

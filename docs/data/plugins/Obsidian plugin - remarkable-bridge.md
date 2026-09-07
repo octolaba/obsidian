@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/remarkable-bridge
 alt:
   - https://github.com/kebl3541/obsidian-remarkable-bridge
-downloads: 79
+downloads: 108
 updated at: "2026-07-12T16:19:47Z"
 related to:
   - "[[GitHub - 1295589258]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Send notes and PDFs to your reMarkable, edit on paper or type with a Type Folio (footnotes preserved), then pull edits back as clean Markdown with ink baked into pages and highlights extracted. Use the official reMarkable desktop app's local library to sync without a Connect subscription."
 
     stats: {
-        downloads:  79
+        downloads:  108
         updated_at: 1783873187000
     }
 }

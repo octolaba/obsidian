@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-pdf-plugin
 alt:
   - https://github.com/mszturc/obsidian-better-pdf-plugin
-downloads: 68658
+downloads: 69025
 updated at: "2022-06-19T21:29:33Z"
 related to:
   - "[[GitHub - 334475068]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert single PDF pages, page ranges, or entire documents directly into notes. Link to source PDFs, scale and rotate pages, and cut out page parts to fit your note layout."
 
     stats: {
-        downloads:  68658
+        downloads:  69025
         updated_at: 1655674173000
     }
 }

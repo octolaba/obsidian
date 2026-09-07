@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/cycle-through-panes
 alt:
   - https://github.com/vinzent03/tab-switcher
-downloads: 81901
-updated at: "2023-08-21T18:17:44Z"
+downloads: 84117
+updated at: "2026-07-25T13:53:14Z"
 related to:
   - "[[GitHub - 310714171]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Cycle through tabs in a window using either left–right order or most-recently-used order, ignoring pane groups so navigation works per window. Combine with Jump to Link and Vim keybindings to operate Obsidian entirely without a mouse."
 
     stats: {
-        downloads:  81901
-        updated_at: 1692641864000
+        downloads:  84117
+        updated_at: 1784987594000
     }
 }
 ```

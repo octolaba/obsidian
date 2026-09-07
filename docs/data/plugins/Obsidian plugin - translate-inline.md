@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/translate-inline
 alt:
   - https://github.com/kon-foo/Obsidian-Translate-Inline
-downloads: 866
+downloads: 889
 updated at: "2024-03-05T20:59:17Z"
 related to:
   - "[[GitHub - 763989963]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Translate words or sentences inline using bracket syntax like [>Buenos días] and replace the original text automatically when the cursor leaves the brackets. Specify source and/or target languages inline (e.g., es>de>text) and use DeepL or Google Cloud Translation via your API key."
 
     stats: {
-        downloads:  866
+        downloads:  889
         updated_at: 1709672357000
     }
 }

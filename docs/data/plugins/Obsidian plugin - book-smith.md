@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/book-smith
 alt:
   - https://github.com/yeban8090/book-smith
-downloads: 5641
+downloads: 5857
 updated at: "2025-07-08T11:20:25Z"
 related to:
   - "[[GitHub - 957387345]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage book projects with custom templates, covers and metadata directly inside Obsidian. Organize chapters in a draggable tree, track live word counts and progress, run Pomodoro focus sessions, manage citations with auto-numbering and export books in multiple formats."
 
     stats: {
-        downloads:  5641
+        downloads:  5857
         updated_at: 1751973625000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-calibre-plugin
 alt:
   - https://github.com/caronchen/obsidian-calibre-plugin
-downloads: 20516
+downloads: 20852
 updated at: "2023-09-19T01:12:51Z"
 related to:
   - "[[GitHub - 431330319]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Access your Calibre libraries via the Calibre Content Server and read books directly inside Obsidian. Arrange workspace panes to take notes while reading, open multiple books side-by-side, and adjust the layout for comfortable reading."
 
     stats: {
-        downloads:  20516
+        downloads:  20852
         updated_at: 1695085971000
     }
 }

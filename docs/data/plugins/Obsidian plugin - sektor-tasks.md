@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/sektor-tasks
 alt:
   - https://github.com/leotomhal/sector-tasks-obsidian
-downloads: 126
-updated at: "2026-07-21T16:30:44Z"
+downloads: 161
+updated at: "2026-08-11T07:24:09Z"
 related to:
   - "[[GitHub - 1289902855]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Displays tasks in a pretty and easy-to-approach dashboard. \"Time Sectors\" can be used to categorise tasks into different groups (default: Carl Pullein's Time Sector System). Includes an Inbox for untagged tasks. Uses and requires the Obsidian Tasks plugin for editing. Includes processing and review features (daily, weekly and monthly) for convenient use."
 
     stats: {
-        downloads:  126
-        updated_at: 1784651444000
+        downloads:  161
+        updated_at: 1786433049000
     }
 }
 ```

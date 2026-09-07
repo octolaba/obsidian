@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ok-standby-jukebox
 alt:
   - https://github.com/aul-dox/ok-standby-jukebox
-downloads: 77
+downloads: 83
 updated at: "2026-05-10T10:18:52Z"
 related to:
   - "[[GitHub - 1234530160]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Organize music source links, audio, video, image files, and ZIP exports into structured song notes in your vault. Import URLs and assets, extract ZIPs, move media into a songs folder, group common asset suffixes, and create or update Markdown song notes with metadata."
 
     stats: {
-        downloads:  77
+        downloads:  83
         updated_at: 1778408332000
     }
 }

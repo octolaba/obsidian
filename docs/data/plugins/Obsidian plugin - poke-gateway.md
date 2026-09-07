@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/poke-gateway
 alt:
   - https://github.com/mrl-00/poke-obsidian
-downloads: 94
+downloads: 111
 updated at: "2026-06-10T05:34:31Z"
 related to:
   - "[[GitHub - 1262444314]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect your Obsidian vault to Poke over an outbound WebSocket gateway so Poke can list, search, and read your Markdown notes. Enable write access only when you want Poke to create or overwrite Markdown files; no inbound ports, tunnels, or router changes required."
 
     stats: {
-        downloads:  94
+        downloads:  111
         updated_at: 1781069671000
     }
 }

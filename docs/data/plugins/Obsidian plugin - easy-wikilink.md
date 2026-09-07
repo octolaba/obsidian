@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/easy-wikilink
 alt:
   - https://github.com/rockorolla/obsidian-easy-wikilink
-downloads: 161
+downloads: 184
 updated at: "2026-05-22T10:20:18Z"
 related to:
   - "[[GitHub - 1246552028]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate internal wikilinks from selected text with a single hotkey. Select a word or phrase, trigger the hotkey, pick a page and insert a [[Page|selected text]] wikilink automatically."
 
     stats: {
-        downloads:  161
+        downloads:  184
         updated_at: 1779445218000
     }
 }

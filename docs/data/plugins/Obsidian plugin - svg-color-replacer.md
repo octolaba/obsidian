@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/svg-color-replacer
 alt:
   - https://github.com/mahiron47/svg-color-replacer
-downloads: 104
+downloads: 114
 updated at: "2025-11-04T09:36:54Z"
 related to:
   - "[[GitHub - 1083835458]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Adapt SVG images and mathematical formula colors to match the active Obsidian theme. Replace white with the background color and black with white across fill, stroke, color attributes, inline styles, text elements, and data-URL SVGs, marking processed elements to avoid reprocessing."
 
     stats: {
-        downloads:  104
+        downloads:  114
         updated_at: 1762249014000
     }
 }

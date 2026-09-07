@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/header-backlinks
 alt:
   - https://github.com/rekby/obsidian-header-backlinks
-downloads: 203
+downloads: 245
 updated at: "2026-05-16T10:03:58Z"
 related to:
   - "[[GitHub - 1188039529]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show an anchor icon in the editor gutter beside any heading targeted by wiki-style internal links or embeds. Click the anchor to list all notes and specific occurrences that link to that heading, jump to the exact link line, or rename the heading and update links throughout the vault."
 
     stats: {
-        downloads:  203
+        downloads:  245
         updated_at: 1778925838000
     }
 }

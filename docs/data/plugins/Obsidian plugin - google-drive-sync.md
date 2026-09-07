@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/google-drive-sync
 alt:
   - https://github.com/richardx366/Obsidian-Google-Drive
-downloads: 150084
+downloads: 157857
 updated at: "2024-12-01T08:47:35Z"
 related to:
   - "[[GitHub - 884137310]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Obsidian vaults bidirectionally with Google Drive, enabling cross-device and iOS app access. Prioritize local files to auto-resolve conflicts, support multiple vaults per Google account, and sync vault configuration across devices. Always back up your vault before using the plugin."
 
     stats: {
-        downloads:  150084
+        downloads:  157857
         updated_at: 1733042855000
     }
 }

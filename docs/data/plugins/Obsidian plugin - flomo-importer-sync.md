@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/flomo-importer-sync
 alt:
   - https://github.com/springrain1/flomo-to-obsidian
-downloads: 554
-updated at: "2026-05-20T10:40:51Z"
+downloads: 722
+updated at: "2026-08-02T14:31:32Z"
 related to:
   - "[[GitHub - 1164031221]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Import Flomo memos into Obsidian as notes with full attachment support (images, audio, video) and optional Canvas or Moments creation. Sync silently in the background (auto/hourly/manual), detect and re-import edited memos to avoid duplicates, keep a simplified flat attachment structure, and reset sync history."
 
     stats: {
-        downloads:  554
-        updated_at: 1779273651000
+        downloads:  722
+        updated_at: 1785681092000
     }
 }
 ```

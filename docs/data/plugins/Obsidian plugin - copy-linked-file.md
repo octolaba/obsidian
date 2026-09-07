@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-linked-file
 alt:
   - https://github.com/flutterspike/obsidian-copy-linked-file
-downloads: 101
+downloads: 120
 updated at: "2026-05-08T14:08:22Z"
 related to:
   - "[[GitHub - 1232992115]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy the real file behind an internal link, embed, or local file:/// URL to the Windows clipboard as a file drop list. Resolve vault links and file URLs so you can paste linked files into File Explorer, email, chat, or browser upload controls on Windows desktop."
 
     stats: {
-        downloads:  101
+        downloads:  120
         updated_at: 1778249302000
     }
 }

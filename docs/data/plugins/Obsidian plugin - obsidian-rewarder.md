@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-rewarder
 alt:
   - https://github.com/gnopps/obsidian-rewarder
-downloads: 38710
+downloads: 39246
 updated at: "2023-12-25T20:32:20Z"
 related to:
   - "[[GitHub - 472064062]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reward yourself when you complete tasks by granting immediate or randomized rewards. List rewards in a plain file and assign optional rarity, inventory counts, or images. Log awarded rewards to your daily note."
 
     stats: {
-        downloads:  38710
+        downloads:  39246
         updated_at: 1703536340000
     }
 }

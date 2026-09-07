@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-not-a-typo
 alt:
   - https://github.com/remihoeppe/vault-notatypo
-downloads: 107
+downloads: 135
 updated at: "2026-07-08T15:59:26Z"
 related to:
   - "[[GitHub - 1283083143]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Read a Markdown word list (one word per line) from your vault and inject its entries into Obsidian's spellchecker to stop proper nouns, place names, and invented words from being flagged. Suppress underlines for listed words while keeping the normal spellchecker active; desktop only."
 
     stats: {
-        downloads:  107
+        downloads:  135
         updated_at: 1783526366000
     }
 }

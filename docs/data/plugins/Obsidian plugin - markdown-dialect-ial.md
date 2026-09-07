@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markdown-dialect-ial
 alt:
   - https://github.com/fangface-hub/obsidian_markdown_diarect_ial
-downloads: 97
+downloads: 105
 updated at: "2026-07-12T12:14:09Z"
 related to:
   - "[[GitHub - 1282265484]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add Pandoc-style Inline Attribute Lists (IAL) to Markdown to assign custom IDs, classes, and key/value attributes directly in notes. Configure which IAL token types are accepted, auto-apply filters on save, or run the Apply IAL filters command to process the active file."
 
     stats: {
-        downloads:  97
+        downloads:  105
         updated_at: 1783858449000
     }
 }

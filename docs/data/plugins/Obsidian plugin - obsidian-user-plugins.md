@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-user-plugins
 alt:
   - https://github.com/mnowotnik/obsidian-user-plugins
-downloads: 6088
+downloads: 6125
 updated at: "2024-11-16T14:59:07Z"
 related to:
   - "[[GitHub - 488729461]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run JavaScript snippets with direct access to Obsidian's plugin API to add commands, automate workflows, and prototype plugins without building full plugins. Load scripts from a designated folder and enable them with toggles to test behavior, and run only code you fully trust because scripts can modify or delete notes."
 
     stats: {
-        downloads:  6088
+        downloads:  6125
         updated_at: 1731769147000
     }
 }

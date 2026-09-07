@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mp-preview
 alt:
   - https://github.com/yeban8090/mp-preview
-downloads: 3605
+downloads: 3734
 updated at: "2025-08-21T02:58:37Z"
 related to:
   - "[[GitHub - 939185980]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert Obsidian Markdown to WeChat public-account format with one click and copy ready HTML to the clipboard. Choose from templates and customize fonts, sizes and backgrounds, preview edits in real time (lock preview to pause refresh) while preserving code blocks, tables and images."
 
     stats: {
-        downloads:  3605
+        downloads:  3734
         updated_at: 1755745117000
     }
 }

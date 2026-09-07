@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/persistent-graph
 alt:
   - https://github.com/sanqui/obsidian-persistent-graph
-downloads: 42902
+downloads: 44006
 updated at: "2026-05-24T13:33:31Z"
 related to:
   - "[[GitHub - 450669239]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save and restore node positions in the Obsidian global graph to preserve your layout across restarts. Restore layouts automatically on new graph views and run continuous simulation to stabilize node placement."
 
     stats: {
-        downloads:  42902
+        downloads:  44006
         updated_at: 1779629611000
     }
 }

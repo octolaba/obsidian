@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lightbox
 alt:
   - https://github.com/jackcipher/obsidian-lightbox
-downloads: 2434
+downloads: 3120
 updated at: "2026-01-01T04:15:37Z"
 related to:
   - "[[GitHub - 1125154038]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Click images and Mermaid diagrams in Reading view to open a zoomable Lightbox with smooth open/close animations. Use mouse wheel to zoom, drag to pan, and press ESC or click the background to close. Use zoom-in/out and reset controls to adjust the view."
 
     stats: {
-        downloads:  2434
+        downloads:  3120
         updated_at: 1767240937000
     }
 }

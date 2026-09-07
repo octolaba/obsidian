@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/statuslol-post
 alt:
   - https://github.com/ericmwalk/obsidian-omglol-publisher
-downloads: 330
+downloads: 394
 updated at: "2026-06-18T12:08:45Z"
 related to:
   - "[[GitHub - 971692492]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish and update weblog.lol posts from notes using frontmatter for dates, tags, slugs and permalinks, and optionally rename notes on publish. Post status updates to status.lol (toggle cross-post to social.lol), upload images to some.pics while keeping originals and logs, and create Paste.lol snippets from selected text with the URL copied back."
 
     stats: {
-        downloads:  330
+        downloads:  394
         updated_at: 1781784525000
     }
 }

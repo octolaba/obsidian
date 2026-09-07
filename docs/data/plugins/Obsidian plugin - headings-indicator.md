@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/headings-indicator
 alt:
   - https://github.com/willsho/obsidian-headings-indicator
-downloads: 115
+downloads: 140
 updated at: "2026-06-03T16:49:10Z"
 related to:
   - "[[GitHub - 1258516228]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display heading level markers before headings — # for H1, ## for H2, ### for H3 up to H6. Show the indicators in Live Preview and Reading view to visualize document structure while editing and reading."
 
     stats: {
-        downloads:  115
+        downloads:  140
         updated_at: 1780505350000
     }
 }

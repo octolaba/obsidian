@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/grind-manager
 alt:
   - https://github.com/dromse/obsidian-gamified-tasks
-downloads: 7363
+downloads: 7464
 updated at: "2026-02-28T08:52:28Z"
 related to:
   - "[[GitHub - 767740489]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage tasks across your vault and earn coins for completing items with a built-in rewards system. Filter and search tasks, set recurring tasks and counters, and assign difficulty to scale coin rewards. Purchase rewards and review earnings and spending history."
 
     stats: {
-        downloads:  7363
+        downloads:  7464
         updated_at: 1772268748000
     }
 }

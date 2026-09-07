@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-date-on-open
 alt:
   - https://github.com/kaicuichen-git/Obsidian-date-on-open
-downloads: 15
+downloads: 42
 updated at: "2026-07-20T19:18:20Z"
 related to:
   - "[[GitHub - 1306934040]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert today's date into a note when you open it, adding at most one dated heading per day to start a new section. Restrict additions to notes marked with auto-date: true or chosen folders, append the date below note properties, and run a command to add today's date manually to any note."
 
     stats: {
-        downloads:  15
+        downloads:  42
         updated_at: 1784575100000
     }
 }

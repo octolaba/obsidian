@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/buddybridge
 alt:
   - https://github.com/ben4202121/buddybridge
-downloads: 1406
-updated at: "2026-06-29T13:01:33Z"
+downloads: 2805
+updated at: "2026-08-02T13:47:58Z"
 related to:
   - "[[GitHub - 1268956343]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Connect Obsidian to the WorkBuddy/CodeBuddy CLI on Windows to run AI chats directly inside a sidebar panel. Display streaming, multi-turn conversations with thought visualization, tool-call previews (file read/search), vault-aware context injection, session management, and automatic detection of CodeBuddy and Node.js paths."
 
     stats: {
-        downloads:  1406
-        updated_at: 1782738093000
+        downloads:  2805
+        updated_at: 1785678478000
     }
 }
 ```

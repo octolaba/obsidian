@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/csv-lite
 alt:
   - https://github.com/liubinfighter/csv-lite
-downloads: 8787
+downloads: 9194
 updated at: "2026-02-07T06:52:36Z"
 related to:
   - "[[GitHub - 953422745]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View and edit CSV files in a clean, readable table directly inside Obsidian. Search and navigate with numbered rows and columns, pin a column, toggle raw source, and edit cells inline while managing rows and columns via header right-click. Auto-detect delimiters and switch them non-destructively; render clickable URLs and Markdown links."
 
     stats: {
-        downloads:  8787
+        downloads:  9194
         updated_at: 1770447156000
     }
 }

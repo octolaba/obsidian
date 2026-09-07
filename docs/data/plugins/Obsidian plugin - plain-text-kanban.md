@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/plain-text-kanban
 alt:
   - https://github.com/marcomandy/plain-text-kanban
-downloads: 213
+downloads: 254
 updated at: "2026-05-26T20:49:23Z"
 related to:
   - "[[GitHub - 1203246776]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn simple nested Markdown lists into an interactive Kanban board while keeping your files plain text and readable in any editor. Manage fixed-width columns and cards with drag-and-drop, inline edits, interactive checkboxes and full Markdown in card bodies; derive colored labels from #hashtags and click file paths."
 
     stats: {
-        downloads:  213
+        downloads:  254
         updated_at: 1779828563000
     }
 }

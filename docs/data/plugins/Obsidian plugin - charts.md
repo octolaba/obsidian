@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/charts
 alt:
   - https://github.com/zobweyt/obsidian-charts
-downloads: 885
+downloads: 1003
 updated at: "2026-06-21T16:13:09Z"
 related to:
   - "[[GitHub - 1242791485]]"
@@ -36,7 +36,7 @@ plugin: {
     description: "Adds a chart layout to bases so you can display notes as interactive bar or line charts. - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  885
+        downloads:  1003
         updated_at: 1782058389000
     }
 }

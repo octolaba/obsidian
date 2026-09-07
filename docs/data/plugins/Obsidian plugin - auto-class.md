@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-class
 alt:
   - https://github.com/nathonius/obsidian-auto-class
-downloads: 6637
+downloads: 6841
 updated at: "2023-02-01T17:04:12Z"
 related to:
   - "[[GitHub - 422775505]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Apply CSS classes to a note's markdown view based on its file path or tags. Target notes with CSS snippets per folder or tag without adding HTML or manual classes, and enable glob matching for advanced path patterns."
 
     stats: {
-        downloads:  6637
+        downloads:  6841
         updated_at: 1675271052000
     }
 }

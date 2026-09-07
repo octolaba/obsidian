@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/idle-monitor
 alt:
   - https://github.com/alberto98fx/idle-monitor-obsidian
-downloads: 334
+downloads: 361
 updated at: "2025-02-23T15:54:13Z"
 related to:
   - "[[GitHub - 916084317]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track idle time and display real-time status in the status bar, with a hover tooltip showing the exact time you stopped typing. Customize the idle threshold, include or exclude mouse movement, pick 12/24-hour tooltips, and apply a colored or glowing rainbow gradient to the status text."
 
     stats: {
-        downloads:  334
+        downloads:  361
         updated_at: 1740326053000
     }
 }

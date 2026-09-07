@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jw-relink
 alt:
   - https://github.com/floydv149/JW-Relink
-downloads: 56
+downloads: 68
 updated at: "2026-07-02T10:56:17Z"
 related to:
   - "[[GitHub - 1286345642]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert JW.ORG finder and share links in your notes into JW Library–readable format. Rewrite links so the JW Library app opens the referenced content correctly."
 
     stats: {
-        downloads:  56
+        downloads:  68
         updated_at: 1782989777000
     }
 }

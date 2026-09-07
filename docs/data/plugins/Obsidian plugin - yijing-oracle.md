@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/yijing-oracle
 alt:
   - https://github.com/johannes-kaindl/yijing-oracle
-downloads: 46
+downloads: 69
 updated at: "2026-07-16T13:48:59Z"
 related to:
   - "[[GitHub - 1299089110]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Cast the I Ching inside Obsidian with a three-coin oracle and Richard Wilhelm hexagram texts. Save each reading as a Markdown note (frontmatter: hexagram, changing_lines, resulting, question) in your vault or insert at the cursor via the sidebar panel or commands. Switch UI/texts between English and German and pick classic or gender‑neutral register."
 
     stats: {
-        downloads:  46
+        downloads:  69
         updated_at: 1784209739000
     }
 }

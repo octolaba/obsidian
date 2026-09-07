@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/list-to-table
 alt:
   - https://github.com/kepano/list-to-table
-downloads: 309
+downloads: 373
 updated at: "2026-05-19T20:01:24Z"
 related to:
   - "[[GitHub - 1088925760]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert selected Markdown lists into a table and flatten nested items into individual rows or columns."
 
     stats: {
-        downloads:  309
+        downloads:  373
         updated_at: 1779220884000
     }
 }

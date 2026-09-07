@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/docxer
 alt:
   - https://github.com/developer-mike/obsidian-docxer
-downloads: 92728
+downloads: 99529
 updated at: "2026-05-21T14:33:37Z"
 related to:
   - "[[GitHub - 741512311]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Preview .docx files directly in your vault and convert them to Markdown with a single click. Open a Word file to view its contents and click Convert to generate a Markdown version that preserves layout, headings, lists, and basic formatting."
 
     stats: {
-        downloads:  92728
+        downloads:  99529
         updated_at: 1779374017000
     }
 }

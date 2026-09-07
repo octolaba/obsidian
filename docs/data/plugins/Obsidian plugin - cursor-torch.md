@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cursor-torch
 alt:
   - https://github.com/astraaaa02/Obsidian-Torch-Cursor
-downloads: 232
+downloads: 284
 updated at: "2026-07-09T13:02:15Z"
 related to:
   - "[[GitHub - 1295161878]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn the editor caret into a warm, flickering torch that lights nearby text while dimming the rest of the note into shadow. Apply a flame-shaped glow with an ambient halo, subtle flicker and an optional glowing ember caret; darkness fades when the editor loses focus and softens on light themes."
 
     stats: {
-        downloads:  232
+        downloads:  284
         updated_at: 1783602135000
     }
 }

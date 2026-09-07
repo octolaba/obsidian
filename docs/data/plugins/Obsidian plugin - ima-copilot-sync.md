@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ima-copilot-sync
 alt:
   - https://github.com/chenxiccc/obsidian-ima.copilot-sync
-downloads: 2202
+downloads: 3044
 updated at: "2026-07-13T11:47:17Z"
 related to:
   - "[[GitHub - 1211017828]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Tencent IMA personal notes and knowledge-base entries into your Obsidian vault as Markdown. Download images and attachments locally, run incremental and scheduled one-way sync (IMA→Obsidian), and convert webpages, WeChat articles and documents to Markdown or AI-generated summaries."
 
     stats: {
-        downloads:  2202
+        downloads:  3044
         updated_at: 1783943237000
     }
 }

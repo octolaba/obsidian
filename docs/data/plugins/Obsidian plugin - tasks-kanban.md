@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/tasks-kanban
 alt:
   - https://github.com/djiit/obsidian-tasks-kanban
-downloads: 410
-updated at: "2026-07-20T22:00:44Z"
+downloads: 697
+updated at: "2026-08-10T20:17:36Z"
 related to:
   - "[[GitHub - 1263615016]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Display tasks in a Kanban board with Todo, In Progress, and Done columns. Drag cards between columns to update their status in source files with real-time sync via the Tasks plugin, filter the board using Tasks query syntax, and click a card to open its source note."
 
     stats: {
-        downloads:  410
-        updated_at: 1784584844000
+        downloads:  697
+        updated_at: 1786393056000
     }
 }
 ```

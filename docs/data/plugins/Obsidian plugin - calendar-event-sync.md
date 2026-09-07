@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/calendar-event-sync
 alt:
   - https://github.com/stephendolan/obsidian-calendar-event-sync
-downloads: 1434
+downloads: 1466
 updated at: "2025-12-09T03:29:33Z"
 related to:
   - "[[GitHub - 767768792]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Replace the current note's title and initial content with data from your calendar events. Sync with the closest current/upcoming/recent event or pick any past/future event; fetch from a single ICS calendar and optionally exclude declined or ignored events."
 
     stats: {
-        downloads:  1434
+        downloads:  1466
         updated_at: 1765250973000
     }
 }

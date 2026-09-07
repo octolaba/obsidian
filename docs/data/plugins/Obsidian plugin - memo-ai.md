@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/memo-ai
 alt:
   - https://github.com/joelyyoung/memo-ai
-downloads: 203
+downloads: 217
 updated at: "2026-02-07T05:14:22Z"
 related to:
   - "[[GitHub - 1101170220]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extract knowledge chunks from notes with AI and custom templates, preserve Markdown, and update, create, or delete chunks as notes change. Schedule reviews with SM2 spaced repetition, score by importance and familiarity to prioritize items, auto-remove expired entries, and run AI-guided reviews."
 
     stats: {
-        downloads:  203
+        downloads:  217
         updated_at: 1770441262000
     }
 }

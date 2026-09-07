@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-picker
 alt:
   - https://github.com/ariamckinley/obsidian-image-picker
-downloads: 3030
+downloads: 3078
 updated at: "2024-12-18T18:39:27Z"
 related to:
   - "[[GitHub - 902697128]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse and find images and media across your Obsidian vault with background indexing for instant search results. Generate thumbnails automatically, search by name or file type, and preview media instantly for quick selection."
 
     stats: {
-        downloads:  3030
+        downloads:  3078
         updated_at: 1734547167000
     }
 }

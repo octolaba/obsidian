@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mermaid-view
 alt:
   - https://github.com/weppos/obsidian-mermaid-view
-downloads: 14212
+downloads: 16126
 updated at: "2026-05-16T10:23:59Z"
 related to:
   - "[[GitHub - 1136278685]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open .mermaid and .mmd files directly in Obsidian and render them as interactive diagrams with preview, split (editor + live preview), or source modes. Pan and zoom diagrams, edit with a CodeMirror editor, export as SVG/PNG, and embed diagrams into notes."
 
     stats: {
-        downloads:  14212
+        downloads:  16126
         updated_at: 1778927039000
     }
 }

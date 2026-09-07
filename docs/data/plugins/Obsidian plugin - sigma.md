@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sigma
 alt:
   - https://github.com/monesga/obsidian-sigma
-downloads: 4893
+downloads: 4912
 updated at: "2022-11-11T01:26:18Z"
 related to:
   - "[[GitHub - 544199799]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn fenced code blocks into calculation sheets that evaluate line-by-line expressions and show automatic block totals. Use operator precedence, variables, hierarchies with subtotals and scientific functions, and export clean, syntax-colored HTML tables for desktop and mobile."
 
     stats: {
-        downloads:  4893
+        downloads:  4912
         updated_at: 1668129978000
     }
 }

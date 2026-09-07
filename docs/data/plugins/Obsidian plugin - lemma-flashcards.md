@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lemma-flashcards
 alt:
   - https://github.com/sapienskid/Lemma
-downloads: 110
+downloads: 176
 updated at: "2026-07-05T11:14:07Z"
 related to:
   - "[[GitHub - 949959990]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Stop switching between Obsidian and Anki. Lemma turns any tagged note into a flashcard deck — write cards in plain Markdown using basic Q&A or cloze syntax, and FSRS 4.5 handles when to review them. Full Markdown rendering (LaTeX, images, callouts), dashboard with due counts, custom study sessions with spaced repetition built in with FSRS (Free Spaced Repetition Scheduler) algorithm, 30-day statistics, native mobile support, and optional CouchDB sync. Your notes. Your data. Your memory."
 
     stats: {
-        downloads:  110
+        downloads:  176
         updated_at: 1783250047000
     }
 }

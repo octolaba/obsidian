@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/isbn-bulk-import-bookshelf-builder
 alt:
   - https://github.com/flex-moto/easy-obookshelf
-downloads: 42
+downloads: 73
 updated at: "2026-07-05T09:03:20Z"
 related to:
   - "[[GitHub - 1284614555]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scan back-cover photos to extract ISBNs (barcode detection with macOS OCR fallback) and export ISBNs to CSV for bulk import. Fetch metadata from NDL, Google Books, and Open Library, download and locally cache WebP covers with high‑res refresh and provider fallback, and create editable book notes with Want to read, Reading, and Finished views."
 
     stats: {
-        downloads:  42
+        downloads:  73
         updated_at: 1783242200000
     }
 }

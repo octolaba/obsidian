@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-filename
 alt:
   - https://github.com/rcsaquino/obsidian-auto-filename
-downloads: 8042
+downloads: 8170
 updated at: "2025-10-19T15:23:09Z"
 related to:
   - "[[GitHub - 695799590]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Auto-rename new and existing notes based on their first X characters or H1 header, scoped to chosen folders. Batch-rename folder contents, control emoji and YAML handling, and optionally hide inline titles for files in target folders."
 
     stats: {
-        downloads:  8042
+        downloads:  8170
         updated_at: 1760887389000
     }
 }

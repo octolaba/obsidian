@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lapis-lazuli-ai-assistant
 alt:
   - https://github.com/tahayigitmelek/lapis-lazuli-ai-assistant
-downloads: 109
+downloads: 142
 updated at: "2026-06-30T17:51:38Z"
 related to:
   - "[[GitHub - 1276098926]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bring context-aware AI chat into the active Markdown note and query or request edits from multiple AI providers. Preview git-style edits with colored additions and deletions, accept or reject all or individual hunks, and apply inline suggestions."
 
     stats: {
-        downloads:  109
+        downloads:  142
         updated_at: 1782841898000
     }
 }

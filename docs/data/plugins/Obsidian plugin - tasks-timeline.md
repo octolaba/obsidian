@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tasks-timeline
 alt:
   - https://github.com/leonezz/tasks-timeline-obsidian
-downloads: 348
+downloads: 374
 updated at: "2026-07-10T17:28:18Z"
 related to:
   - "[[GitHub - 1127139217]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display and manage task items across your vault with timeline views, filters, tags, priorities, and recurrence handling. Run a built-in MCP server to let AI agents read and write tasks and access tools to query, create, update, delete, complete, batch-update, get stats, and generate daily or weekly plans."
 
     stats: {
-        downloads:  348
+        downloads:  374
         updated_at: 1783704498000
     }
 }

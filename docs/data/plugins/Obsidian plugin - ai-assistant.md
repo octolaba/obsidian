@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-assistant
 alt:
   - https://github.com/qgrail/obsidian-ai-assistant
-downloads: 31263
+downloads: 31651
 updated at: "2025-05-29T11:33:16Z"
 related to:
   - "[[GitHub - 612357443]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with OpenAI and Anthropic models or run prompt-based edits directly from notes, including image uploads for GPT-4V/Claude vision. Generate images with DALL·E 2/3 and save selected results into your vault with paths copied to the clipboard. Transcribe audio with Whisper directly into your note at the cursor."
 
     stats: {
-        downloads:  31263
+        downloads:  31651
         updated_at: 1748518396000
     }
 }

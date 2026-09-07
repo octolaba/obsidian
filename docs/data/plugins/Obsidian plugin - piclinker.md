@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/piclinker
 alt:
   - https://github.com/coeris/PicLinker
-downloads: 22
-updated at: "2026-07-21T14:42:10Z"
+downloads: 130
+updated at: "2026-08-09T15:29:53Z"
 related to:
   - "[[GitHub - 1297605303]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Scan the vault and live-update image assets across local and cloud hosts with an eight-zone view grouping local, cloud, unreferenced, broken, duplicates, same-name, and empty folders. Detect SHA-256 duplicates and update references when deduping, run batch delete/copy/download tasks, sync via WebDAV or cloud hosts, and keep credentials encrypted with manual confirmation for all writes."
 
     stats: {
-        downloads:  22
-        updated_at: 1784644930000
+        downloads:  130
+        updated_at: 1786289393000
     }
 }
 ```

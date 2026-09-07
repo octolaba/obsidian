@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/safe-filename-linter
 alt:
   - https://github.com/sneakyfoxes/obsidian-safe-filename-linter
-downloads: 5968
+downloads: 6012
 updated at: "2023-08-08T01:46:28Z"
 related to:
   - "[[GitHub - 675442108]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Lint filenames for invalid or troublesome characters like pipes, colons, and brackets, and spot names that may break on Android or across sync. Rename files by replacing flagged characters with chosen substitutes while using Obsidian's renaming calls and respecting link-update settings."
 
     stats: {
-        downloads:  5968
+        downloads:  6012
         updated_at: 1691459188000
     }
 }

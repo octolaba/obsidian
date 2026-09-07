@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mouse-navigation
 alt:
   - https://github.com/hobeom/obsidian-mouse-navigation
-downloads: 2566
+downloads: 2952
 updated at: "2026-06-02T04:52:15Z"
 related to:
   - "[[GitHub - 797094846]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Navigate Obsidian with right-click mouse gestures to move between notes and jump to the top or bottom of a document. See smooth animated overlays and drawn gesture trails that show detected motions for clear visual feedback."
 
     stats: {
-        downloads:  2566
+        downloads:  2952
         updated_at: 1780375935000
     }
 }

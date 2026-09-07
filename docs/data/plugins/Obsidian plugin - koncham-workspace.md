@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/koncham-workspace
 alt:
   - https://github.com/manogna4/obsidian-koncham-workspace
-downloads: 5013
+downloads: 5031
 updated at: "2021-05-13T14:31:00Z"
 related to:
   - "[[GitHub - 359308086]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a Center-panes sidebar listing all open main-area panes as vertical tabs. Switch to any pane with one click, highlight the active note, and pin panes so new notes open in their own panes. Open more pane actions via right-click on tab headers."
 
     stats: {
-        downloads:  5013
+        downloads:  5031
         updated_at: 1620916260000
     }
 }

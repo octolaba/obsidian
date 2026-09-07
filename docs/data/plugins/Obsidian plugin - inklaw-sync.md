@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/inklaw-sync
 alt:
   - https://github.com/jsjixu/obsidian-inklaw-sync
-downloads: 84
+downloads: 93
 updated at: "2026-07-02T07:11:26Z"
 related to:
   - "[[GitHub - 1279120598]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync notes forwarded to Inklaw into your Obsidian vault automatically, pulling finished, transcribed notes with cover images and media. Store incoming notes in a chosen folder and keep your vault up-to-date; requires an Inklaw account and personal sync token."
 
     stats: {
-        downloads:  84
+        downloads:  93
         updated_at: 1782976286000
     }
 }

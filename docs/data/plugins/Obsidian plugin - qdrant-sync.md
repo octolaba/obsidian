@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/qdrant-sync
 alt:
   - https://github.com/lanjak/obsidian-qdrant-sync
-downloads: 12
+downloads: 32
 updated at: "2026-07-18T00:30:16Z"
 related to:
   - "[[GitHub - 1304463705]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault across devices using a self-hosted Qdrant instance instead of cloud sync services. Embed each note into a Qdrant collection to build a semantic search index you can query from outside Obsidian, with direct HTTP(S) sync that works on desktop and mobile."
 
     stats: {
-        downloads:  12
+        downloads:  32
         updated_at: 1784334616000
     }
 }

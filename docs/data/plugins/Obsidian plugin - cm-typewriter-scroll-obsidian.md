@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cm-typewriter-scroll-obsidian
 alt:
   - https://github.com/deathau/cm-typewriter-scroll-obsidian
-downloads: 110423
+downloads: 111684
 updated at: "2022-04-14T03:50:47Z"
 related to:
   - "[[GitHub - 315160351]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep the cursor line centered in the editor with typewriter-style scrolling while you type. Smoothly scroll notes to maintain focus on the active line and reduce eye movement."
 
     stats: {
-        downloads:  110423
+        downloads:  111684
         updated_at: 1649908247000
     }
 }

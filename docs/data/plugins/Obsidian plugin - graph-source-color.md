@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graph-source-color
 alt:
   - https://github.com/karl-cn/graph-source-color
-downloads: 227
+downloads: 264
 updated at: "2026-05-22T13:11:07Z"
 related to:
   - "[[GitHub - 1242179958]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Color graph nodes based on source notes in configured folders, assigning each folder a color group and cascading parent folder colors to subfolders. Trace outgoing and incoming links recursively so linked notes inherit source colors and display split-color nodes when tied to multiple sources (left/right for two, pie for three+). Keep Obsidian's native graph.json unchanged and respect colors set in Obsidian's graph settings."
 
     stats: {
-        downloads:  227
+        downloads:  264
         updated_at: 1779455467000
     }
 }

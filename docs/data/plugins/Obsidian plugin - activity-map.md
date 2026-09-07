@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/activity-map
 alt:
   - https://github.com/ffy6511/obsidian-activity-map
-downloads: 17
-updated at: "2026-07-24T03:39:40Z"
+downloads: 65
+updated at: "2026-07-28T08:04:58Z"
 related to:
   - "[[GitHub - 1307389936]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Track focused time across files and folders in your vault with local-first, idle-aware recording. Compare active, editing, and file-open time per file, explore daily and range summaries, and drill down with pinnable donut-chart summaries and detailed accessible lists."
 
     stats: {
-        downloads:  17
-        updated_at: 1784864380000
+        downloads:  65
+        updated_at: 1785225898000
     }
 }
 ```

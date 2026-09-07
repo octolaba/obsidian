@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/backtick-text-selector
 alt:
   - https://github.com/cool-rr/backtick-text-selector
-downloads: 404
+downloads: 425
 updated at: "2024-09-30T20:12:35Z"
 related to:
   - "[[GitHub - 841882513]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Select text wrapped in backticks quickly with keyboard shortcuts. Use Alt+' to select the next backtick-enclosed text and Alt+Shift+' to select the previous."
 
     stats: {
-        downloads:  404
+        downloads:  425
         updated_at: 1727727155000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/beancount-finance
 alt:
   - https://github.com/mkshp-dev/obsidian-finance-plugin
-downloads: 1776
-updated at: "2026-07-15T17:13:21Z"
+downloads: 2012
+updated at: "2026-08-07T17:38:20Z"
 related to:
   - "[[GitHub - 1094661080]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Transform your vault into a plain-text accounting dashboard with net worth tracking, balance sheets, interactive charts, and real-time financial metrics. Embed live BQL queries inline, create validated transactions with account autocomplete, and auto-fetch commodity prices into your Beancount files."
 
     stats: {
-        downloads:  1776
-        updated_at: 1784135601000
+        downloads:  2012
+        updated_at: 1786124300000
     }
 }
 ```

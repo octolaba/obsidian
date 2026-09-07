@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/stratify-mindmap
 alt:
   - https://github.com/lywooye/stratify-mindmap
-downloads: 108
+downloads: 225
 updated at: "2026-07-20T13:20:21Z"
 related to:
   - "[[GitHub - 1305735897]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create interactive, Markdown-native mind maps and keep source notes readable on desktop and mobile with direct node editing that writes back to Markdown. Convert between heading, hybrid, and list structures, rearrange nodes by drag‑and‑drop or keyboard, collapse branches, pick visual themes, and export maps as PNGs with undo/redo."
 
     stats: {
-        downloads:  108
+        downloads:  225
         updated_at: 1784553621000
     }
 }

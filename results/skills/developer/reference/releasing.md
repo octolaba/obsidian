@@ -234,7 +234,7 @@ Same shape, five differences.
    The theme checklist repeats the dimensions and adds "check your screenshot files are up-to-date.
    These screenshots are shown as thumbnails in the theme directory" **Contract**
    (docs: en/Obsidian October theme self-critique checklist.md:23; docs: en/Obsidian October theme self-critique checklist.md:25).
-   **Observed conflict with practice:** 153 of the 650 listed themes record a screenshot path with a
+   **Observed conflict with practice:** 161 of the 684 listed themes record a screenshot path with a
    directory component — for example `images/demo1.png` (rel: community-css-themes.json:193),
    `img/reverie-2020-09-14-dark.png` (rel: community-css-themes.json:235). **Inference:** the
    directory accepts a screenshot anywhere in the repository, while the documented instruction says
@@ -305,7 +305,7 @@ forces an update or blocks an install.
 live catalogue:
 `duplicate-line` (rel: community-plugins-removed.json:58; rel: community-plugins.json:3846),
 `memos-sync` (rel: community-plugins-removed.json:138; rel: community-plugins.json:6170), and
-`smart-gantt` (rel: community-plugins-removed.json:779; rel: community-plugins.json:41163).
+`smart-gantt` (rel: community-plugins-removed.json:779; rel: community-plugins.json:41072).
 **Inference:** presence there is a record, not an enforcement state; never read it as "this plugin
 cannot be installed". The removal-reason taxonomy is owned by the security-and-policies reference.
 

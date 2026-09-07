@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/codex-vault-agent
 alt:
   - https://github.com/hendrikhuwy-lgtm/codex-vault-agent
-downloads: 232
+downloads: 266
 updated at: "2026-04-30T04:55:15Z"
 related to:
   - "[[GitHub - 1225241166]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Collect a focused evidence set from a chosen scope (folders, backlinks, outlinks) and review candidates using Dataview or frontmatter. Synthesize only the selected evidence via local Codex CLI into reports, dashboards or audits, and create final notes only after approval."
 
     stats: {
-        downloads:  232
+        downloads:  266
         updated_at: 1777524915000
     }
 }

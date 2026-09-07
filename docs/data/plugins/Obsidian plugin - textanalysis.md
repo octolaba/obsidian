@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/textanalysis
 alt:
   - https://github.com/mihakralj/obsidian-textanalysis
-downloads: 3136
+downloads: 3182
 updated at: "2024-11-22T17:02:08Z"
 related to:
   - "[[GitHub - 722728807]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Analyze text in real time for readability, structure, and style using multiple standard readability indicators. Display counts for characters, letters, words, sentences, paragraphs, and syllables to help craft clearer, more engaging writing."
 
     stats: {
-        downloads:  3136
+        downloads:  3182
         updated_at: 1732294928000
     }
 }

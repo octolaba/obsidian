@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/white-noise
 alt:
   - https://github.com/zhouhua/obsidian-white-noise
-downloads: 1373
+downloads: 1477
 updated at: "2025-04-08T03:50:20Z"
 related to:
   - "[[GitHub - 938490557]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Play dozens of ambient sounds like rain, coffee shop noise, and gentle static to mask distractions and promote focus. Control white-noise volume independently alongside your music, and run a built-in Pomodoro timer that pairs with the sounds."
 
     stats: {
-        downloads:  1373
+        downloads:  1477
         updated_at: 1744084220000
     }
 }

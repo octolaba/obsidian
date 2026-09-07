@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/medianoche-sync
 alt:
   - https://github.com/ohida/medianoche-sync
-downloads: 683
+downloads: 756
 updated at: "2026-05-24T08:49:31Z"
 related to:
   - "[[GitHub - 1226891790]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync and triage Medianoche-exported article notes inside Obsidian. Medianoche Sync adds star, archive, and delete actions to notes exported from Medianoche, writes changes to YAML frontmatter, and lets Medianoche sync those changes back to your reading library. It supports Reading view, Live Preview, Source mode, desktop, mobile, and exported AI Summary and AI Comments content."
 
     stats: {
-        downloads:  683
+        downloads:  756
         updated_at: 1779612571000
     }
 }

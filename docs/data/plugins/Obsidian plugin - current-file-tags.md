@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/current-file-tags
 alt:
   - https://github.com/trung-tran-swe/obsidian-current-file-tags
-downloads: 980
+downloads: 996
 updated at: "2025-05-31T16:25:33Z"
 related to:
   - "[[GitHub - 909495784]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display tags from the active Markdown file, including inline tags and the frontmatter \"tags\" property. Click a tag to list and open files that contain it, or Ctrl-click a tag to search it with Obsidian Search."
 
     stats: {
-        downloads:  980
+        downloads:  996
         updated_at: 1748708733000
     }
 }

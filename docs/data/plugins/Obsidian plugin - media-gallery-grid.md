@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/media-gallery-grid
 alt:
   - https://github.com/robertojarquinrr/Media-Gallery-view
-downloads: 112
+downloads: 137
 updated at: "2026-07-18T22:29:41Z"
 related to:
   - "[[GitHub - 1282319740]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a gallery of video and images files directly inside your notes, embedding videos from a folder. Planned support for images, audio and books."
 
     stats: {
-        downloads:  112
+        downloads:  137
         updated_at: 1784413781000
     }
 }

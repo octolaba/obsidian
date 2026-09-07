@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/config-sync
 alt:
   - https://github.com/xooooooooox/obsidian-config-sync
-downloads: 390
-updated at: "2026-07-23T15:33:29Z"
+downloads: 775
+updated at: "2026-08-10T14:43:04Z"
 related to:
   - "[[GitHub - 1293538647]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Distribute vault configuration (CSS, hotkeys, plugin settings) selectively across devices and vaults with an explicit per-device Apply. Capture configs into a versioned store that syncs via your notes or via git/local transport; sanitize credentials and keep a single backup to revert the last apply."
 
     stats: {
-        downloads:  390
-        updated_at: 1784820809000
+        downloads:  775
+        updated_at: 1786372984000
     }
 }
 ```

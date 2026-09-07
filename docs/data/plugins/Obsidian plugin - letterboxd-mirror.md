@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/letterboxd-mirror
 alt:
   - https://github.com/diego-vicente/obsidian-letterboxd-mirror-plugin
-downloads: 130
+downloads: 243
 updated at: "2026-01-05T16:27:19Z"
 related to:
   - "[[GitHub - 1110154710]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Letterboxd diary entries into Obsidian as individual notes. Batch import history from Letterboxd exports and enrich film notes with TMDB data. Customize note templates with Eta and enable automatic sync on startup."
 
     stats: {
-        downloads:  130
+        downloads:  243
         updated_at: 1767630439000
     }
 }

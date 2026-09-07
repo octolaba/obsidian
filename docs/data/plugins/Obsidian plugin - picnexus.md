@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/picnexus
 alt:
   - https://github.com/joeyliu6/picnexus-obsidian
-downloads: 19
+downloads: 26
 updated at: "2026-07-14T09:24:04Z"
 related to:
   - "[[GitHub - 1299440195]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload images pasted or dropped into Obsidian through the PicNexus desktop app and insert the returned hosted image link into the active note. Send image bytes or local paths to the PicNexus app running on your computer for upload to your chosen hosting service; communication stays local and the plugin includes no telemetry."
 
     stats: {
-        downloads:  19
+        downloads:  26
         updated_at: 1784021044000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/weekly-notes
 alt:
   - https://github.com/brabli/obsidian-weekly-notes
-downloads: 135
+downloads: 157
 updated at: "2026-07-12T00:51:26Z"
 related to:
   - "[[GitHub - 1127405415]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create weekly notes with a configurable starting weekday and moment.js title formats. Apply a template with full template-variable support and respect core Templates settings, then run a command to create a new weekly note or open an existing one."
 
     stats: {
-        downloads:  135
+        downloads:  157
         updated_at: 1783817486000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-2-book
 alt:
   - https://github.com/mitra98t/vault2book-plugin
-downloads: 5733
+downloads: 5793
 updated at: "2023-06-15T20:45:02Z"
 related to:
   - "[[GitHub - 651978826]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert your Obsidian vault or a selected folder into a single Markdown file that preserves internal links and structure. Generate a book-ready file for PDF export and remove all generated books when needed."
 
     stats: {
-        downloads:  5733
+        downloads:  5793
         updated_at: 1686861902000
     }
 }

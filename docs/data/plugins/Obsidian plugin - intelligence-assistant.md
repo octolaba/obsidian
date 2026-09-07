@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/intelligence-assistant
 alt:
   - https://github.com/qwai-tech/obsidian-plugin-intelligence-assistant
-downloads: 405
+downloads: 462
 updated at: "2026-06-24T10:14:43Z"
 related to:
   - "[[GitHub - 1095077005]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform your vault into an AI-native workspace with a streaming chat, provider/model badges, token usage display, and configurable agents across multiple LLM providers. Index notes for RAG, run CLI and MCP-backed agents, call web search and OpenAPI/HTTP tools, and attach files or vault references to messages."
 
     stats: {
-        downloads:  405
+        downloads:  462
         updated_at: 1782296083000
     }
 }

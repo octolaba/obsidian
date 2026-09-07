@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/local-gpt
 alt:
   - https://github.com/pfrankov/obsidian-local-gpt
-downloads: 93496
+downloads: 95066
 updated at: "2026-05-02T18:37:49Z"
 related to:
   - "[[GitHub - 726768989]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a context menu on selected text or the Action Palette to run local AI assistant actions like continue writing, summarize, fix grammar, or extract action items. Use linked notes, backlinks, images and PDFs for contextual retrieval (RAG) and browse/install community actions for custom prompts."
 
     stats: {
-        downloads:  93496
+        downloads:  95066
         updated_at: 1777747069000
     }
 }

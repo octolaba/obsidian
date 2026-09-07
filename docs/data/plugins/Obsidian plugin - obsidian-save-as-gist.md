@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-save-as-gist
 alt:
   - https://github.com/ghedamat/obsidian-save-as-gist
-downloads: 4398
+downloads: 4410
 updated at: "2022-01-25T03:36:12Z"
 related to:
   - "[[GitHub - 448434840]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save the current file or a selected range to a private GitHub Gist. Provide a GitHub API token with \"Create Gist\" permission to create gists and copy the created Gist URL to your clipboard; public gists and gist updates are not supported."
 
     stats: {
-        downloads:  4398
+        downloads:  4410
         updated_at: 1643081772000
     }
 }

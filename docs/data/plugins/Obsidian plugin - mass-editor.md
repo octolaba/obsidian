@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mass-editor
 alt:
   - https://github.com/ondreu/mass-editor
-downloads: 223
+downloads: 348
 updated at: "2026-07-08T12:16:26Z"
 related to:
   - "[[GitHub - 1286717742]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Build visual queries with nested AND/OR/NOT to find notes across your vault, then run bulk edits—frontmatter, tags, body changes, or regex find & replace—with live match previews and per-result selection. Protect edits with backups, undo, Git-style diffs, exportable run reports, and saved presets."
 
     stats: {
-        downloads:  223
+        downloads:  348
         updated_at: 1783512986000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/task-mover
 alt:
   - https://github.com/nemariia/task-mover
-downloads: 1172
+downloads: 1208
 updated at: "2025-01-21T12:48:00Z"
 related to:
   - "[[GitHub - 911204515]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Gather unfinished tasks from a specified folder and consolidate them into a single daily note. Group tasks by original file or topic and preserve surrounding context by moving task blocks together. Handle simple - [ ] tasks or task-block formats without queries or code, and optionally remove originals after moving."
 
     stats: {
-        downloads:  1172
+        downloads:  1208
         updated_at: 1737463680000
     }
 }

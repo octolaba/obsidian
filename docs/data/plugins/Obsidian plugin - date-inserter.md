@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/date-inserter
 alt:
   - https://github.com/namikaze-40p/obsidian-date-inserter
-downloads: 17472
-updated at: "2026-06-15T12:25:54Z"
+downloads: 18105
+updated at: "2026-07-26T01:11:46Z"
 related to:
   - "[[GitHub - 762087123]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Insert dates at the cursor using an inline calendar with customizable formats. Pick a date to insert into Markdown or copy the formatted date to the clipboard."
 
     stats: {
-        downloads:  17472
-        updated_at: 1781526354000
+        downloads:  18105
+        updated_at: 1785028306000
     }
 }
 ```

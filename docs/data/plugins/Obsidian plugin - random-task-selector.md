@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/random-task-selector
 alt:
   - https://github.com/jaidetree/obsidian-random-task
-downloads: 31
+downloads: 46
 updated at: "2026-07-03T22:54:00Z"
 related to:
   - "[[GitHub - 1286555922]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Select a random unchecked task from the Markdown checklist at your cursor and mark it active with a start glyph and a selected-at timestamp. Stamp tasks on completion with a completed glyph and completed-at timestamp, keep one active per checklist, allow reactivation by unchecking, and refuse draws when no candidates exist."
 
     stats: {
-        downloads:  31
+        downloads:  46
         updated_at: 1783119240000
     }
 }

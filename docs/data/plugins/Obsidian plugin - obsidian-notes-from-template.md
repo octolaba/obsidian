@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-notes-from-template
 alt:
   - https://github.com/mo-seph/obsidian-note-from-template
-downloads: 14653
+downloads: 14714
 updated at: "2024-08-08T08:43:53Z"
 related to:
   - "[[GitHub - 401343564]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create notes from files in your templates folder and add a From Template command for each template. Prompt for Mustache variables via a popup, populate YAML frontmatter, and replace the editor selection with a replacement string or open the new note in a new pane."
 
     stats: {
-        downloads:  14653
+        downloads:  14714
         updated_at: 1723106633000
     }
 }

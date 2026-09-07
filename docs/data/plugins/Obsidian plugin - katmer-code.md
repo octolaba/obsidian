@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/katmer-code
 alt:
   - https://github.com/hkcanan/katmer-code
-downloads: 2130
+downloads: 2319
 updated at: "2026-05-26T11:54:39Z"
 related to:
   - "[[GitHub - 1188660860]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run Claude Code inside Obsidian as a sidebar chat with research-focused slash skills and automatic selected-text context. Edit manuscripts with inline word-level diffs (accept/undo) and generate HTML peer-review, citation-verification, and gap-analysis reports."
 
     stats: {
-        downloads:  2130
+        downloads:  2319
         updated_at: 1779796479000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pairwise-glicko-ranking
 alt:
   - https://github.com/williamsjack/pairwise-glicko-ranking
-downloads: 1744
+downloads: 1809
 updated at: "2026-06-08T07:02:24Z"
 related to:
   - "[[GitHub - 1051046686]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Rank notes through pairwise Glicko comparisons to build dynamic, self-adjusting ratings that evolve as you add comparisons. Select cohorts (vault, folder, tags, or Bases), compare two notes at a time, and optionally write rank, rating, or wins to frontmatter for sorting and filtering."
 
     stats: {
-        downloads:  1744
+        downloads:  1809
         updated_at: 1780902144000
     }
 }

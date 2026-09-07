@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ghosty-posty
 alt:
   - https://github.com/mattbirchler/ghosty-posty-obsidian
-downloads: 419
+downloads: 476
 updated at: "2026-07-09T22:16:58Z"
 related to:
   - "[[GitHub - 1120045793]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish Obsidian notes to Ghost with a single command, converting Markdown to Ghost-compatible HTML and uploading local images automatically (first-line image becomes the featured image). Edit title, tags, status, toggle featured, schedule posts, and honor YAML frontmatter."
 
     stats: {
-        downloads:  419
+        downloads:  476
         updated_at: 1783635418000
     }
 }

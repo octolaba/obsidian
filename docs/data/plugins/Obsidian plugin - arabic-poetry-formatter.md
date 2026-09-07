@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/arabic-poetry-formatter
 alt:
   - https://github.com/hayyan0/Obsidian-Arabic-Poetry-Formatter
-downloads: 141
+downloads: 164
 updated at: "2026-06-14T12:25:01Z"
 related to:
   - "[[GitHub - 1039022381]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Format Arabic poetry into classic paired or indented layouts that align hemistiches for readable verse. Control spacing and use smart alignment that combines character counts and visual-width estimation for proportional Arabic fonts. Access formats from the command palette, context menu, or ribbon."
 
     stats: {
-        downloads:  141
+        downloads:  164
         updated_at: 1781439901000
     }
 }

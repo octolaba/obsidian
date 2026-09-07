@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/floccus-bookmarks-to-markdown
 alt:
   - https://github.com/mddevils/floccus-bookmarks-to-markdown
-downloads: 7047
+downloads: 7099
 updated at: "2023-07-25T17:49:16Z"
 related to:
   - "[[GitHub - 668015971]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import and convert bookmarks from an XBEL file into a Markdown file inside your vault. Create backup copies and enable automatic updates to keep the generated bookmark file current."
 
     stats: {
-        downloads:  7047
+        downloads:  7099
         updated_at: 1690307356000
     }
 }

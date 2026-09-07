@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-relay
 alt:
   - https://github.com/anti-warlock/vault-relay
-downloads: 95
+downloads: 107
 updated at: "2026-06-27T16:06:38Z"
 related to:
   - "[[GitHub - 1264187065]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Prepare long-form posts for publication while keeping your vault local. Parse headings, paragraphs, lists, callouts, code blocks and tables; detect local and remote images; score readiness and surface issues; preview rich-text output in Obsidian and export unified 1200×1500 PNG article cards in bulk to your vault."
 
     stats: {
-        downloads:  95
+        downloads:  107
         updated_at: 1782576398000
     }
 }

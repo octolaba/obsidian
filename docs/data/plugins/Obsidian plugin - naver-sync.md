@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/naver-sync
 alt:
   - https://github.com/buwon/naver-sync-plugin
-downloads: 152
+downloads: 162
 updated at: "2026-07-12T12:55:23Z"
 related to:
   - "[[GitHub - 1107324544]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Obsidian files and attachments with NAVER Memo for cross-device backups and mobile access. Perform periodic and inactivity-triggered syncs, with last-write-wins conflict resolution."
 
     stats: {
-        downloads:  152
+        downloads:  162
         updated_at: 1783860923000
     }
 }

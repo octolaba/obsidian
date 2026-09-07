@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/exif-editor
 alt:
   - https://github.com/chiubaca/obsidian-exif-editor
-downloads: 111
+downloads: 133
 updated at: "2026-06-29T19:36:33Z"
 related to:
   - "[[GitHub - 1282437592]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit EXIF metadata of JPEG/JPG photos directly in Obsidian. View and change common fields like description, artist, copyright, date taken and camera settings via a simple form, or use the advanced JSON editor to edit raw EXIF data."
 
     stats: {
-        downloads:  111
+        downloads:  133
         updated_at: 1782761793000
     }
 }

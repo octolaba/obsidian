@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/selection-translator
 alt:
   - https://github.com/tlmkira/selection-translator
-downloads: 498
+downloads: 676
 updated at: "2026-06-18T16:44:11Z"
 related to:
   - "[[GitHub - 1229814113]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Translate selected text, paragraphs, Markdown files, embedded images, or speech with AI or machine-translation providers and open synced side-by-side translated notes. Read bilingual notes or play TTS, insert translated images inline, and monitor usage via local cache and a small runtime dashboard."
 
     stats: {
-        downloads:  498
+        downloads:  676
         updated_at: 1781801051000
     }
 }

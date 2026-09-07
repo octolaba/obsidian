@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-base-view
 alt:
   - https://github.com/kulysocc/obsidian-folder-base-view
-downloads: 80
+downloads: 106
 updated at: "2026-06-06T09:13:02Z"
 related to:
   - "[[GitHub - 1260775714]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a chosen .base as a folder-scoped table of contents by clicking its folder in the file explorer, with no companion note required. Map a default base or exact-match per-folder bases to render folder contents with your base layout while preserving tree expand/collapse and excluding .base files."
 
     stats: {
-        downloads:  80
+        downloads:  106
         updated_at: 1780737182000
     }
 }

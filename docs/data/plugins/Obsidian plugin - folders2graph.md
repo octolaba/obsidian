@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folders2graph
 alt:
   - https://github.com/ratibus11/folders2graph
-downloads: 21864
+downloads: 22988
 updated at: "2026-06-13T00:28:26Z"
 related to:
   - "[[GitHub - 753289355]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display your vault folder structure inside graph views, adding folder nodes to visualize how notes are organized. Combine folder nodes with note links to reveal hierarchical context across your vault."
 
     stats: {
-        downloads:  21864
+        downloads:  22988
         updated_at: 1781310506000
     }
 }

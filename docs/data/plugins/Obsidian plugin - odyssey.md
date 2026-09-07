@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/odyssey
 alt:
   - https://github.com/zzzzswh/odyssey
-downloads: 170
+downloads: 190
 updated at: "2026-05-17T01:53:58Z"
 related to:
   - "[[GitHub - 1217161537]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn your Markdown notes into an interactive calendar, map, and cinematic replay that tie events to time and place. Display single-day events, timed blocks, and multi-day journeys on a month grid, plot geotagged entries on a MapLibre map, and play back journeys with a flying camera while highlighting entries across both views."
 
     stats: {
-        downloads:  170
+        downloads:  190
         updated_at: 1778982838000
     }
 }

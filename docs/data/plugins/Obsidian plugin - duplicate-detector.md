@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/duplicate-detector
 alt:
   - https://github.com/wishmater/obsidian-plugin-duplicate-detector
-downloads: 1941
+downloads: 2034
 updated at: "2025-03-04T04:50:53Z"
 related to:
   - "[[GitHub - 915499969]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight duplicate lines in the active note and show the matching line number on hover. Display a notice when pasted text contains lines that already exist so you can avoid accidental duplicates."
 
     stats: {
-        downloads:  1941
+        downloads:  2034
         updated_at: 1741063853000
     }
 }

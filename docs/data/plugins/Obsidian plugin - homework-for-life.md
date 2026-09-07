@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/homework-for-life
 alt:
   - https://github.com/scepticalorange/homework-for-life
-downloads: 77
+downloads: 85
 updated at: "2026-05-21T07:36:52Z"
 related to:
   - "[[GitHub - 1245389214]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture daily moments with one click, command, or URI and append them to a single monthly Markdown file for low-friction story-capture. Use a multi-line modal that merges captures into the same day's row or heading, output as table or headings+bullets with dates linked as [[YYYY-MM-DD]] for easy re-reading."
 
     stats: {
-        downloads:  77
+        downloads:  85
         updated_at: 1779349012000
     }
 }

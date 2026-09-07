@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hub-sidebar
 alt:
   - https://github.com/saiki77/hub-sidebar
-downloads: 204
+downloads: 236
 updated at: "2026-06-25T22:17:20Z"
 related to:
   - "[[GitHub - 1278368794]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a Publish-style right sidebar with a framed local graph card and a clean \"On this page\" outline, including a real, clickable switcher to toggle the local graph, incoming links, and outgoing links. Remove hairline borders, center the editor column when desired, and toggle the sidebar via command or optional status-bar button."
 
     stats: {
-        downloads:  204
+        downloads:  236
         updated_at: 1782425840000
     }
 }

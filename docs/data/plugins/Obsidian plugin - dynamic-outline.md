@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dynamic-outline
 alt:
   - https://github.com/theopavlove/obsidian-dynamic-outline
-downloads: 35154
+downloads: 36634
 updated at: "2025-05-03T16:59:20Z"
 related to:
   - "[[GitHub - 894505989]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show a floating table of contents for quick navigation within notes. Highlight the active heading, search and jump to sections, collapse headings, navigate by keyboard, reveal on file open or hover, auto-hide, and personalize the outline's appearance."
 
     stats: {
-        downloads:  35154
+        downloads:  36634
         updated_at: 1746291560000
     }
 }

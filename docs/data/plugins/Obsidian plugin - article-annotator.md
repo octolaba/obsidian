@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/article-annotator
 alt:
   - https://github.com/kilng235/article-annotator-plugin
-downloads: 525
+downloads: 612
 updated at: "2026-07-06T11:29:23Z"
 related to:
   - "[[GitHub - 1241457401]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight article content. Add annotations to selected text, and centrally view and manage annotation cards in the sidebar. Supports drag-and-drop reordering and clicking on annotation cards to jump back to the original text."
 
     stats: {
-        downloads:  525
+        downloads:  612
         updated_at: 1783337363000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-notes-tweaks
 alt:
   - https://github.com/coignard/obsidian-daily-notes-tweaks
-downloads: 93
+downloads: 98
 updated at: "2025-11-08T16:27:04Z"
 related to:
   - "[[GitHub - 1038167663]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a random daily note to rediscover past entries and ideas. Switch past daily notes automatically to reading mode on open while keeping today's note in editing mode."
 
     stats: {
-        downloads:  93
+        downloads:  98
         updated_at: 1762619224000
     }
 }

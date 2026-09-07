@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/ghost-publish
 alt:
   - https://github.com/dsebastien/obsidian-ghost-publish
-downloads: 188
-updated at: "2026-07-17T07:38:15Z"
+downloads: 257
+updated at: "2026-07-29T07:44:12Z"
 related to:
   - "[[GitHub - 1243827375]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Publish vault notes to a Ghost blog with presets for tags, newsletter, canonical URL and publication status. Manage presets in a side panel with Triage, Queue and Recent tabs; sync only changed notes, upload image embeds, resolve wikilinks, convert embeds to Ghost cards, and store post IDs in frontmatter."
 
     stats: {
-        downloads:  188
-        updated_at: 1784273895000
+        downloads:  257
+        updated_at: 1785311052000
     }
 }
 ```

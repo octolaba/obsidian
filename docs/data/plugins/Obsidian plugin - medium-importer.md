@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/medium-importer
 alt:
   - https://github.com/arumie/obsidian-medium-importer-plugin
-downloads: 3077
+downloads: 3097
 updated at: "2024-10-21T18:35:31Z"
 related to:
   - "[[GitHub - 809439253]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import Medium articles into your Obsidian vault as Markdown using the Unofficial Medium API via RapidAPI. Add authors, bulk-import their posts, and sync new articles into a chosen folder for offline editing and note-linking."
 
     stats: {
-        downloads:  3077
+        downloads:  3097
         updated_at: 1729535731000
     }
 }

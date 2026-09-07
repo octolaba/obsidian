@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/inline-math
 alt:
   - https://github.com/ryotaushio/obsidian-inline-math
-downloads: 9176
+downloads: 9374
 updated at: "2024-10-29T11:00:22Z"
 related to:
   - "[[GitHub - 679682386]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Prevent flickering of inline LaTeX by inserting hidden braces around $...$ so Obsidian consistently recognizes math without visible flashes. Hide the added braces in the editor and remove them automatically when you exit the math zone to keep notes clean."
 
     stats: {
-        downloads:  9176
+        downloads:  9374
         updated_at: 1730199622000
     }
 }

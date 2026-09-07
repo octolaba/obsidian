@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-kindle-plugin
 alt:
   - https://github.com/hadynz/obsidian-kindle-plugin
-downloads: 161402
+downloads: 163281
 updated at: "2026-02-18T02:28:31Z"
 related to:
   - "[[GitHub - 351951207]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync and resync Kindle highlights and notes into your Obsidian vault from Amazon Kindle Reader cloud or your device's My Clippings.txt file. Keep highlights updated with automatic incremental syncing, clear progress and cancellation, enriched book metadata, and customizable Nunjucks templates for formatting."
 
     stats: {
-        downloads:  161402
+        downloads:  163281
         updated_at: 1771381711000
     }
 }

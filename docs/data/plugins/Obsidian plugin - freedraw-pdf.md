@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/freedraw-pdf
 alt:
   - https://github.com/vividasasana/freedraw-pdf
-downloads:
-updated at:
+downloads: 175
+updated at: "2026-07-31T17:37:30Z"
 related to:
   - "[[GitHub - 1294175144]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/vividasasana/freedraw-pdf"
     description: "Freehand PDF annotation workspace for Obsidian with vault-backed sidecar saves. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Annotate PDFs with freehand pen and highlighter tools, add shapes, text boxes, and images, and edit annotations by moving, resizing, duplicating, or deleting them. Insert notebook pages between PDF pages and export a combined annotated PDF while preserving the original file; annotations save as sidecar JSON in your vault."
+
+    stats: {
+        downloads:  175
+        updated_at: 1785519450000
+    }
 }
 ```
 

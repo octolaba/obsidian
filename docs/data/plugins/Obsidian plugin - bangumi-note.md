@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bangumi-note
 alt:
   - https://github.com/kuanphough/obsidian-bangumi
-downloads: 130
+downloads: 139
 updated at: "2026-05-18T09:15:33Z"
 related to:
   - "[[GitHub - 1237448726]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bangumi syncs your Bangumi collections into local Markdown notes. It supports anime, books, music, games, and real subjects. You can choose which collection statuses to sync, customize the note template, preserve your own notes outside the generated block, and use frontmatter fields with Dataview or Bases. Features include incremental sync, single-subject sync by URL/ID/title search, Daily Notes blocks, weekly On Air notes, optional subject details, and a Bangumi-style board for ongoing items. The board can update episode progress, status, comments, and rating with explicit confirmation. All write-back actions are manual and confirmed by you. The plugin does not modify your Bangumi account in the background."
 
     stats: {
-        downloads:  130
+        downloads:  139
         updated_at: 1779095733000
     }
 }

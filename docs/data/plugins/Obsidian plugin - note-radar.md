@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-radar
 alt:
   - https://github.com/tahayigitmelek/note-radar
-downloads: 106
+downloads: 134
 updated at: "2026-06-30T17:53:40Z"
 related to:
   - "[[GitHub - 1276093730]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track note view statistics automatically to reveal which files you revisit most and which remain unopened. View an analytics dashboard with summary cards, Hot/Warm/Mild/Never-viewed badges, search and sort by views and dates, paginate results, open notes directly, and export or reset data."
 
     stats: {
-        downloads:  106
+        downloads:  134
         updated_at: 1782842020000
     }
 }

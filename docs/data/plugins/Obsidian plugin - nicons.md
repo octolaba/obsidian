@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nicons
 alt:
   - https://github.com/pilafdob/Nicons
-downloads: 100
+downloads: 150
 updated at: "2026-07-12T21:01:20Z"
 related to:
   - "[[GitHub - 1289074011]]"
@@ -36,7 +36,7 @@ plugin: {
     description: "Customize File and Folder icons with bundled Phosphor icon assets. - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  100
+        downloads:  150
         updated_at: 1783890080000
     }
 }

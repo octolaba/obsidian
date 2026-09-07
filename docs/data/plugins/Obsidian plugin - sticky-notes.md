@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sticky-notes
 alt:
   - https://github.com/abdo-reda/obsidian-sticky-notes-plugin
-downloads: 8376
+downloads: 8856
 updated at: "2026-06-20T02:03:06Z"
 related to:
   - "[[GitHub - 933405703]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create sticky-note style popout windows with a minimalist look for quick reference. Pin them to stay on top, resize freely, and open popouts from the ribbon, commands, or context menus."
 
     stats: {
-        downloads:  8376
+        downloads:  8856
         updated_at: 1781920986000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-md-description
 alt:
   - https://github.com/satojin219/obsidian-image-md-description-plugin
-downloads: 68
+downloads: 81
 updated at: "2026-06-21T05:36:35Z"
 related to:
   - "[[GitHub - 1127246305]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit image descriptions as Markdown and save them directly into the image file's metadata (PNG tEXt Description, JPEG EXIF ImageDescription). Open an image to show an inline editor below the preview with edit/preview toggle, internal-link autocompletion, and auto-save on blur so descriptions travel with the file."
 
     stats: {
-        downloads:  68
+        downloads:  81
         updated_at: 1782020195000
     }
 }

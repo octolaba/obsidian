@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kanban-view
 alt:
   - https://github.com/chi1180/Obsidian-Kanban
-downloads: 152
+downloads: 161
 updated at: "2026-03-22T07:29:41Z"
 related to:
   - "[[GitHub - 1083922966]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize and manage tasks as draggable Kanban cards stored in Markdown files. Create customizable columns with colors, resize cards, drag-and-drop to reorder, and edit card content inline while metadata syncs to frontmatter and boards auto-save to your vault."
 
     stats: {
-        downloads:  152
+        downloads:  161
         updated_at: 1774164581000
     }
 }

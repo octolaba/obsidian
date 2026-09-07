@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zoyclip
 alt:
   - https://github.com/zoyluoblue/obsidian-note-to-video
-downloads: 81
+downloads: 114
 updated at: "2026-06-25T12:40:01Z"
 related to:
   - "[[GitHub - 1279764263]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn any note into a faceless 9:16 short video for TikTok, Instagram Reels, YouTube Shorts and 小红书. Generate local AI voiceover, auto images with Ken Burns zoom/pan, animated single-line captions (CJK-aware), background music with ducking, and an auto-generated cover, then embed a 1080×1920 MP4 and cover image back into the note. Perform local voice synthesis and rendering with no watermark and support English and 中文."
 
     stats: {
-        downloads:  81
+        downloads:  114
         updated_at: 1782391201000
     }
 }

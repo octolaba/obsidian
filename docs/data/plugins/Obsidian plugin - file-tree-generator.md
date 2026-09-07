@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-tree-generator
 alt:
   - https://github.com/unarray/file-tree-generator
-downloads: 4286
+downloads: 4347
 updated at: "2023-10-03T09:59:03Z"
 related to:
   - "[[GitHub - 682082585]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate file trees inside notes using Obsidian callouts. Import local folders on desktop via the filesystem and exclude files or folders using gitignore-spec patterns."
 
     stats: {
-        downloads:  4286
+        downloads:  4347
         updated_at: 1696327143000
     }
 }

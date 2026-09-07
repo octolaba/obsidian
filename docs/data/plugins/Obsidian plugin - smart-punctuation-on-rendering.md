@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/smart-punctuation-on-rendering
 alt:
   - https://github.com/ile-24556/obsidian-plugin-smart-punctuation-on-rendering
-downloads: 170
-updated at: "2026-06-20T01:31:32Z"
+downloads: 199
+updated at: "2026-08-07T06:58:15Z"
 related to:
   - "[[GitHub - 1231663520]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Render ASCII punctuation into typographic characters (curly quotes, en/em dashes, ellipses) when notes are displayed. Apply transformations only in reading view (live preview unsupported) and expect possible element changes, missed backslash escapes, or slower rendering on very large notes."
 
     stats: {
-        downloads:  170
-        updated_at: 1781919092000
+        downloads:  199
+        updated_at: 1786085895000
     }
 }
 ```

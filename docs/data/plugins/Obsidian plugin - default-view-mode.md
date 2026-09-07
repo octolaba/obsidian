@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/default-view-mode
 alt:
   - https://github.com/sunzyyu/obsidian-default-view
-downloads: 159
+downloads: 187
 updated at: "2026-06-02T09:51:31Z"
 related to:
   - "[[GitHub - 1223525363]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set a per-note default view (read or edit) via a simple YAML frontmatter field. Switch to the configured view automatically when opening a note and manage per-note settings with three command-palette commands to set or clear the view. Keep global settings off and control view behavior directly in each note."
 
     stats: {
-        downloads:  159
+        downloads:  187
         updated_at: 1780393891000
     }
 }

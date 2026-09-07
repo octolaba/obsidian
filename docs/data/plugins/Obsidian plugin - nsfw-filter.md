@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nsfw-filter
 alt:
   - https://github.com/catvatar/Obsidian-NSFW-Plugin
-downloads: 564
+downloads: 578
 updated at: "2024-06-25T18:02:45Z"
 related to:
   - "[[GitHub - 812310856]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle visibility of NSFW-marked notes with a sidebar button or command. Move notes into a designated .NSFW folder to hide them from the vault and restore them back when toggled; original locations are saved to a cache so notes return to their previous places."
 
     stats: {
-        downloads:  564
+        downloads:  578
         updated_at: 1719338565000
     }
 }

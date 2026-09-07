@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/taskrobin
 alt:
   - https://github.com/taskrobin/Obsidian-Plugin
-downloads: 1386
+downloads: 1435
 updated at: "2026-07-13T14:02:31Z"
 related to:
   - "[[GitHub - 942683968]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync emails and attachments into your Obsidian vault as dated Markdown files to build a local, searchable archive. Save attachments automatically, set a custom storage directory, and pull messages from multiple inboxes or on-demand via forwarding aliases."
 
     stats: {
-        downloads:  1386
+        downloads:  1435
         updated_at: 1783951351000
     }
 }

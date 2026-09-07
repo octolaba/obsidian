@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-open-file-by-magic-date
 alt:
   - https://github.com/simplgy/obsidian-open-file-by-magic-date
-downloads: 4293
+downloads: 4304
 updated at: "2023-03-19T02:23:50Z"
 related to:
   - "[[GitHub - 519863829]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open files using date-patterned filenames (e.g., {YYYY-MM-DD}, {mon: YYYY-MM-DD}) to jump to daily, weekly, monthly, or yearly notes. Map single keystrokes to open the most recent anchor (like most recent Monday) or the first file matching a search query."
 
     stats: {
-        downloads:  4293
+        downloads:  4304
         updated_at: 1679192630000
     }
 }

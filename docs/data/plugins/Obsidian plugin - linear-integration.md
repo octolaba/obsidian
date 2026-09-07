@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/linear-integration
 alt:
   - https://github.com/casals/obsidian-linear-integration-plugin
-downloads: 721
+downloads: 765
 updated at: "2025-10-13T10:18:41Z"
 related to:
   - "[[GitHub - 999663702]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Linear issues and Obsidian notes bidirectionally with inline issue creation, real-time autocomplete, intelligent conflict resolution, and automatic label creation. Create and edit issues from markdown using smart @tags and expressions, view color-coded labels and hover previews, and perform quick or bulk edits without leaving Obsidian."
 
     stats: {
-        downloads:  721
+        downloads:  765
         updated_at: 1760350721000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/schematex
 alt:
   - https://github.com/maartenpeels/obsidian-schematex
-downloads: 44
+downloads: 72
 updated at: "2026-07-09T14:51:42Z"
 related to:
   - "[[GitHub - 1293764266]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Schematex diagrams inline in Obsidian notes. Explore genogram, circuit, ladder, fishbone and other diagram types with pan, zoom and fullscreen view. Export diagrams as SVG or PNG and adjust to Obsidian light/dark themes."
 
     stats: {
-        downloads:  44
+        downloads:  72
         updated_at: 1783608702000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dbml-visualizer
 alt:
   - https://github.com/mayeenulislam/obsidian-dbml-visualizer
-downloads: 385
+downloads: 491
 updated at: "2026-06-06T03:52:13Z"
 related to:
   - "[[GitHub - 1260205812]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render DBML code blocks into interactive, pannable and zoomable SVG ERD diagrams inside Obsidian. Drag table nodes to create custom layouts, view column-to-column relations with arrowheads, and add optional titles via the code fence info string."
 
     stats: {
-        downloads:  385
+        downloads:  491
         updated_at: 1780717933000
     }
 }

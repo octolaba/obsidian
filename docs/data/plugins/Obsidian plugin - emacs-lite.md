@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/emacs-lite
 alt:
   - https://github.com/ashpega/emacs-lite
-downloads: 112
+downloads: 130
 updated at: "2026-06-10T03:26:41Z"
 related to:
   - "[[GitHub - 1210616874]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bring Emacs-style cursor movement, selection, kill/yank and line-mode editing to Obsidian on Windows while preserving common Windows shortcuts. Switch between visual (wrapped) and logical lines, enable key-repeat for hold behavior, and toggle non-native extensions via a CodeMirror keymap."
 
     stats: {
-        downloads:  112
+        downloads:  130
         updated_at: 1781062001000
     }
 }

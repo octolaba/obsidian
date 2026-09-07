@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/new-note-fixer
 alt:
   - https://github.com/mnaoumov/obsidian-new-note-fixer
-downloads: 2623
-updated at: "2026-07-21T01:14:29Z"
+downloads: 2830
+updated at: "2026-08-08T19:04:00Z"
 related to:
   - "[[GitHub - 913617310]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Fix new-note creation behavior so clicking links with folder or relative paths respects the Default location for new notes setting. Prevent creation of files outside the vault and remove misleading \"Folder already exists\" errors when opening non-existent links."
 
     stats: {
-        downloads:  2623
-        updated_at: 1784596469000
+        downloads:  2830
+        updated_at: 1786215840000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-expand-backlinks
 alt:
   - https://github.com/younggyolee/obsidian-auto-expand-backlinks
-downloads: 198
+downloads: 235
 updated at: "2026-05-18T01:44:51Z"
 related to:
   - "[[GitHub - 1221321663]]"
@@ -36,7 +36,7 @@ plugin: {
     description: "Automatically expand the surrounding context of each match in the backlinks panel, similar to Roam Research. - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  198
+        downloads:  235
         updated_at: 1779068691000
     }
 }

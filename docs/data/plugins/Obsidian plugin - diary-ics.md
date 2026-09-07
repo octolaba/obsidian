@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/diary-ics
 alt:
   - https://github.com/mousebomb/obsidian-diary-ics
-downloads: 426
+downloads: 440
 updated at: "2025-11-04T03:20:22Z"
 related to:
   - "[[GitHub - 983311909]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate a local .ics calendar feed from Obsidian daily notes and sync entries with system calendars. Parse headings as dated events (time-aware or all-day), include clickable obsidian:// links and subheading content as descriptions, and append frontmatter fields into event details."
 
     stats: {
-        downloads:  426
+        downloads:  440
         updated_at: 1762226422000
     }
 }

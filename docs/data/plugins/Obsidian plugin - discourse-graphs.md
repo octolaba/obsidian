@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/discourse-graphs
 alt:
   - https://github.com/discoursegraphs/discourse-graph-obsidian
-downloads: 4380
-updated at: "2026-07-20T20:17:44Z"
+downloads: 5390
+updated at: "2026-08-07T18:11:14Z"
 related to:
   - "[[GitHub - 970899830]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Break down research into atomic nodes—questions, claims, evidence, hypotheses—and model relations between them. Create, relate, and resurface these semantic objects to build structured arguments and reuse evidence across your notes."
 
     stats: {
-        downloads:  4380
-        updated_at: 1784578664000
+        downloads:  5390
+        updated_at: 1786126274000
     }
 }
 ```

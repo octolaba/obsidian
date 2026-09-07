@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mdfriday-sync
 alt:
   - https://github.com/mdfriday/obsidian-sync
-downloads: 57
+downloads: 71
 updated at: "2026-07-10T15:22:19Z"
 related to:
   - "[[GitHub - 1287671722]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync your Obsidian vault across desktop and mobile with end-to-end AES-256/HKDF encryption and real-time CouchDB replication. Choose a managed backend or self-host your server, keep hidden .obsidian files synced, resolve conflicts, and selectively sync by file type."
 
     stats: {
-        downloads:  57
+        downloads:  71
         updated_at: 1783696939000
     }
 }

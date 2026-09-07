@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-folder-icon
 alt:
   - https://github.com/mircomacrelli/simple-folder-icon
-downloads: 60
+downloads: 84
 updated at: "2026-06-27T09:28:35Z"
 related to:
   - "[[GitHub - 1282061438]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add an icon before the name of configured folders in the file explorer. Place SVG files anywhere in your vault and manage folder–icon pairs from the plugin settings."
 
     stats: {
-        downloads:  60
+        downloads:  84
         updated_at: 1782552515000
     }
 }

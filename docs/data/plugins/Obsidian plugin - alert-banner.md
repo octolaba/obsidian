@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/alert-banner
 alt:
   - https://github.com/samgilletgaras/obsidian-alert-banner
-downloads: 142
+downloads: 153
 updated at: "2026-05-31T17:15:27Z"
 related to:
   - "[[GitHub - 1255186193]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a persistent banner pinned to the top of any note that contains a chosen tag, visible in both reading and editing views. Configure up to five stacked banners with custom messages, colors, and Lucide icons that trigger by inline tags or frontmatter (case-insensitive) and cannot be dismissed."
 
     stats: {
-        downloads:  142
+        downloads:  153
         updated_at: 1780247727000
     }
 }

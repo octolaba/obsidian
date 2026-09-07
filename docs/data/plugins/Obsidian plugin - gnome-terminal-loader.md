@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gnome-terminal-loader
 alt:
   - https://github.com/cheesecake87/gnome-terminal-loader
-downloads: 5528
+downloads: 5568
 updated at: "2023-08-29T20:34:28Z"
 related to:
   - "[[GitHub - 676155556]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Launch GNOME Terminal from Obsidian to open shells and run terminal commands on Linux. Run a Python entry script named main.py placed at the vault root to present CLI menus and execute interactive Python programs (requires gnome-terminal and python3)."
 
     stats: {
-        downloads:  5528
+        downloads:  5568
         updated_at: 1693341268000
     }
 }

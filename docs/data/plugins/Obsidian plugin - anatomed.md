@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/anatomed
 alt:
   - https://github.com/pitfa19/anatomed-obsidian
-downloads: 42
+downloads: 103
 updated at: "2026-07-22T11:29:53Z"
 related to:
   - "[[GitHub - 1303715632]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed interactive, region-isolated 3D anatomy models inline in notes. Write an anatomed code block to display a rotatable, zoomable model that shows only requested structures with a legend to toggle each; click a structure to open or create its note. Use a validated Z-Anatomy catalogue of ~3,500 named structures with isolated, related, or regional context."
 
     stats: {
-        downloads:  42
+        downloads:  103
         updated_at: 1784719793000
     }
 }

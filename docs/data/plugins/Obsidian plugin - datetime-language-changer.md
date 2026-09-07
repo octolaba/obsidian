@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/datetime-language-changer
 alt:
   - https://github.com/zetabs/datetime-language-changer
-downloads: 2987
+downloads: 3010
 updated at: "2023-10-31T18:05:55Z"
 related to:
   - "[[GitHub - 710777841]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set the language used for datetime formatting by changing moment.js's locale. Apply the locale to plugins that use moment.js (e.g., Tasks) and keep the plugin enabled—do not disable or delete it—to maintain consistent datetime language."
 
     stats: {
-        downloads:  2987
+        downloads:  3010
         updated_at: 1698775555000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/project-euler-stats
 alt:
   - https://github.com/artemkorsakov/project-euler-stats
-downloads: 272
+downloads: 279
 updated at: "2025-04-03T05:49:44Z"
 related to:
   - "[[GitHub - 948968725]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display your Project Euler profile, solved counts, progress percentage, leaderboard rankings, tasks, and award status directly inside Obsidian. Track your problem-solving progress and compare results with friends to view relative standings."
 
     stats: {
-        downloads:  272
+        downloads:  279
         updated_at: 1743659384000
     }
 }

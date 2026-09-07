@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/emoticon-picker
 alt:
   - https://github.com/kazi-aidah/emoticon-picker
-downloads: 125
+downloads: 144
 updated at: "2026-05-22T11:20:18Z"
 related to:
   - "[[GitHub - 1105136804]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert emoticons into notes via the Command Palette, hotkeys, or ribbon icon. Choose from 200+ built-in emoticons, add custom ones, mark favorites for quick access, and hide emoticons you don’t use."
 
     stats: {
-        downloads:  125
+        downloads:  144
         updated_at: 1779448818000
     }
 }

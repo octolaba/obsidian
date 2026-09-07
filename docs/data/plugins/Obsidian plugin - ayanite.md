@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ayanite
 alt:
   - https://github.com/jemstelos/obsidian-ayanite
-downloads: 821
+downloads: 834
 updated at: "2024-04-08T07:40:30Z"
 related to:
   - "[[GitHub - 770185143]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn Obsidian into a native AI chat interface with multi-tab chats, a sidepanel copilot, and support for OpenAI and local Ollama models. Save chats, prompts and profiles as local, searchable Markdown files; clip text to summarize or explain, generate diagrams, and create custom chat profiles."
 
     stats: {
-        downloads:  821
+        downloads:  834
         updated_at: 1712562030000
     }
 }

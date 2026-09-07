@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/eccirian
 alt:
   - https://github.com/enthalpiex/Eccirian-Encrypt
-downloads: 3435
+downloads: 3650
 updated at: "2026-07-13T03:54:05Z"
 related to:
   - "[[GitHub - 967210153]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Encrypt notes and linked attachments with file-level AES-256-GCM or ECC-P-256 (ECDH + AES) protection, securing common file types beyond .md. Lock files in temporary (.eccirian) or permanent (.peccirian) modes, use read-only previews for locked files, apply PBKDF2 or Argon2id key derivation, and encrypt all linked attachments with one click."
 
     stats: {
-        downloads:  3435
+        downloads:  3650
         updated_at: 1783914845000
     }
 }

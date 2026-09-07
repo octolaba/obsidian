@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ozanshare-publish
 alt:
   - https://github.com/ozntel/ozanshare-publish-plugin
-downloads: 5148
+downloads: 5200
 updated at: "2023-05-09T19:06:39Z"
 related to:
   - "[[GitHub - 410612093]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish Markdown notes and linked/transcluded files from Obsidian to OzanShare web pages with one click. Render nested transclusions, Excalidraw, Mermaid, MathJax and code blocks, and apply custom CSS while preserving a stable unique URL when republishing. Provide an Exclusive Support Level token to enable publishing on desktop and mobile."
 
     stats: {
-        downloads:  5148
+        downloads:  5200
         updated_at: 1683659199000
     }
 }

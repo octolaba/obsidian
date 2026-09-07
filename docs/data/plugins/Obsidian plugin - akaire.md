@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/akaire
 alt:
   - https://github.com/asonas/obsidian-akaire
-downloads: 109
+downloads: 117
 updated at: "2026-05-20T12:20:22Z"
 related to:
   - "[[GitHub - 1232526509]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Send a note or only changed paragraphs to Claude Code and display AI feedback inline next to the paragraphs they reference. Show comments in a sidebar anchored to each paragraph, optionally run textlint for grammar/style checks, and save review sessions to the note frontmatter."
 
     stats: {
-        downloads:  109
+        downloads:  117
         updated_at: 1779279622000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/transfer-latex-from-gpt
 alt:
   - https://github.com/xixia123/obsidian-transfer-latex-from-gpt
-downloads: 2796
+downloads: 2845
 updated at: "2024-10-17T07:42:12Z"
 related to:
   - "[[GitHub - 873983386]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert LaTeX formulas from ChatGPT answers into Obsidian-compatible Markdown so math renders correctly in your notes. Use the command or sidebar button to transform pasted ChatGPT output into inline and block LaTeX ready for rendering."
 
     stats: {
-        downloads:  2796
+        downloads:  2845
         updated_at: 1729150932000
     }
 }

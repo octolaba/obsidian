@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-to-local
 alt:
   - https://github.com/cozeboy/Image2Local
-downloads: 183
+downloads: 258
 updated at: "2026-06-16T19:58:51Z"
 related to:
   - "[[GitHub - 1271526662]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save remote images, base64 data, and bare image URLs to local files and automatically replace them with Markdown image links. Choose relative or absolute storage (including system paths outside the vault) and run single or batch saves via right-click or commands. Detect Markdown images, HTML <img> tags, and bare URLs."
 
     stats: {
-        downloads:  183
+        downloads:  258
         updated_at: 1781639931000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-image
 alt:
   - https://github.com/felipe-ds-lima/obsidian-copy-image-plugin
-downloads: 14518
+downloads: 14698
 updated at: "2025-09-27T18:11:01Z"
 related to:
   - "[[GitHub - 737064030]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy images to the clipboard by right-clicking them in Obsidian. Long-press an image on mobile to copy it for pasting into other apps."
 
     stats: {
-        downloads:  14518
+        downloads:  14698
         updated_at: 1758996661000
     }
 }

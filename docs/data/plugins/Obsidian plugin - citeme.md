@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/citeme
 alt:
   - https://github.com/danielnichiata96/obsidian-citeme
-downloads: 149
+downloads: 195
 updated at: "2026-03-09T16:14:31Z"
 related to:
   - "[[GitHub - 1174802069]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search millions of academic papers and format citations directly in Obsidian with quota-aware feedback and clear Free/Pro style handling. Insert in-text citations, full bibliography entries, or both; automatically build and maintain a References section, prevent duplicates via DOI/text checks, and view CiteMe quota in the status bar."
 
     stats: {
-        downloads:  149
+        downloads:  195
         updated_at: 1773072871000
     }
 }

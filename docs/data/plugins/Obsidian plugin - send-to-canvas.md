@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/send-to-canvas
 alt:
   - https://github.com/wenlzhang/obsidian-send-to-canvas
-downloads: 4420
+downloads: 4498
 updated at: "2025-06-27T19:57:05Z"
 related to:
   - "[[GitHub - 944619464]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Send tasks, blocks, and notes from Obsidian to Canvas files as plain text, block or note links, or embeds. Customize block IDs, timestamps, and node sizes; append text to open tasks and preserve formatting, with smart selection and status-bar target tracking."
 
     stats: {
-        downloads:  4420
+        downloads:  4498
         updated_at: 1751054225000
     }
 }

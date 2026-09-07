@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/local-rest-api-second-brain-mcp-extension
 alt:
   - https://github.com/ziadloo/obsidian-local-rest-api-second-brain-mcp-extension
-downloads: 3546
+downloads: 4311
 updated at: "2026-05-31T06:16:59Z"
 related to:
   - "[[GitHub - 1249848670]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Expose a Model Context Protocol (MCP) endpoint to turn your vault into an AI-ready second brain. Use local semantic embeddings and BFS traversal of links and backlinks to return token-efficient, context-rich results for LLMs via query_wiki, get_wiki, and wiki_card."
 
     stats: {
-        downloads:  3546
+        downloads:  4311
         updated_at: 1780208219000
     }
 }

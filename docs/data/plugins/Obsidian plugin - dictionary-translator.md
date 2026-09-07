@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dictionary-translator
 alt:
   - https://github.com/grover572/obsidian-Dictionary-translator
-downloads: 3084
+downloads: 3130
 updated at: "2024-10-01T09:28:46Z"
 related to:
   - "[[GitHub - 743443237]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Translate selected words or sentences instantly via right-click and insert generated flashcards into your notes. Save or record pronunciation audio into your vault and use Google, Microsoft, Baidu, Youdao or custom translation engines."
 
     stats: {
-        downloads:  3084
+        downloads:  3130
         updated_at: 1727774926000
     }
 }

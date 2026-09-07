@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/omglol-statuslog-publish
 alt:
   - https://github.com/maymeow/obsidian-omglol-statuslog
-downloads: 2168
+downloads: 2174
 updated at: "2023-11-25T17:44:15Z"
 related to:
   - "[[GitHub - 714980248]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Post selected notes to omg.lol services like statuslog (weblog planned) using your omg.lol account token. Set a default emoji for posts and optionally disable Mastodon cross-posting."
 
     stats: {
-        downloads:  2168
+        downloads:  2174
         updated_at: 1700934255000
     }
 }

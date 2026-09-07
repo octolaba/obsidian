@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/link-trace
 alt:
   - https://github.com/tcyeee/obsidian-link-trace
-downloads: 183
+downloads: 225
 updated at: "2026-07-13T01:14:07Z"
 related to:
   - "[[GitHub - 1187384707]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish notes as short shareable links with view tracking, or export standalone HTML folders for local/offline use. Include linked notes with working navigation, render math via KaTeX, show highlighted code with one-click copy, display image galleries, auto-generated TOC, and a status-bar publish indicator."
 
     stats: {
-        downloads:  183
+        downloads:  225
         updated_at: 1783905247000
     }
 }

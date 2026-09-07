@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-fuzzytag
 alt:
   - https://github.com/adriandersen/obsidian-fuzzytag
-downloads: 5898
+downloads: 5958
 updated at: "2025-05-28T11:14:10Z"
 related to:
   - "[[GitHub - 574460608]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Suggest frontmatter tags using fuzzy matching to find and insert close tag names while editing YAML frontmatter. Show highlighted matches in suggestions; tags containing < or > may break highlighting."
 
     stats: {
-        downloads:  5898
+        downloads:  5958
         updated_at: 1748430850000
     }
 }

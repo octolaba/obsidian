@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/unique-tab
 alt:
   - https://github.com/hornatx/unique-tab
-downloads: 303
+downloads: 361
 updated at: "2026-06-08T03:20:35Z"
 related to:
   - "[[GitHub - 1257898889]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Prevent opening duplicate tabs for the same note, Canvas, or custom view to avoid workspace clutter. Redirect focus automatically to the already-open tab and instantly close redundant empty placeholders to eliminate visual flicker. Support Markdown, Canvas, databases and third-party custom views."
 
     stats: {
-        downloads:  303
+        downloads:  361
         updated_at: 1780888835000
     }
 }

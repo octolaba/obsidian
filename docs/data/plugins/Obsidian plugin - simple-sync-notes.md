@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/simple-sync-notes
 alt:
   - https://github.com/devkirkir/obsidian-simple-sync-plugin
-downloads: 31
-updated at: "2026-07-17T08:03:45Z"
+downloads: 50
+updated at: "2026-07-27T14:46:59Z"
 related to:
   - "[[GitHub - 1271958004]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync notes between your Obsidian vault and a CouchDB database, tracking creations, edits, renames, and deletions. Store CouchDB credentials securely via Obsidian's secret storage, maintain a local record of file state, and use with caution while the plugin remains in development."
 
     stats: {
-        downloads:  31
-        updated_at: 1784275425000
+        downloads:  50
+        updated_at: 1785163619000
     }
 }
 ```

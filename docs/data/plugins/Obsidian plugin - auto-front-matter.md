@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-front-matter
 alt:
   - https://github.com/conorzhong/obsidian-auto-front-matter
-downloads: 4563
+downloads: 4587
 updated at: "2023-11-08T01:13:31Z"
 related to:
   - "[[GitHub - 666928370]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Automate Front Matter for Obsidian Markdown. Add or update YAML fields from customizable templates, default appended keys as arrays to prevent type mismatches, and run via Commander macros for save-and-update workflows."
 
     stats: {
-        downloads:  4563
+        downloads:  4587
         updated_at: 1699406011000
     }
 }

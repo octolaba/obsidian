@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/settings-profiles
 alt:
   - https://github.com/4source/settings-profiles-obsidian-plugin
-downloads: 16914
+downloads: 17325
 updated at: "2026-03-16T12:58:24Z"
 related to:
   - "[[GitHub - 738957079]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and manage multiple global settings profiles and store them in a dedicated profile path. Sync profiles across vaults to replicate themes, plugin states, and other settings automatically when switching profiles."
 
     stats: {
-        downloads:  16914
+        downloads:  17325
         updated_at: 1773665904000
     }
 }

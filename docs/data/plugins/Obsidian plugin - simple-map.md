@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-map
 alt:
   - https://github.com/daniel-fiuk/simple-map
-downloads: 140
+downloads: 167
 updated at: "2026-04-26T21:31:12Z"
 related to:
   - "[[GitHub - 1207387181]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create interactive maps from images in your vault to locate and link notes to specific coordinates. Pin notes to precise locations, preview content on hover, filter and search pins, customize icons and sizes, and use infinite panning and zoom with per-map IDs."
 
     stats: {
-        downloads:  140
+        downloads:  167
         updated_at: 1777239072000
     }
 }

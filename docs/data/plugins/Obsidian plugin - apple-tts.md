@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/apple-tts
 alt:
   - https://github.com/ajsscott/obsidian-apple-tts
-downloads: 426
+downloads: 509
 updated at: "2026-04-16T19:51:04Z"
 related to:
   - "[[GitHub - 1210726400]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Read Obsidian notes aloud using macOS' built‑in say text-to-speech with no internet, keys, or subscriptions. Speak entire notes, selected text, or from the cursor; pick from 180+ installed voices, adjust speed, stop instantly, and strip markdown or filter content types for clean playback."
 
     stats: {
-        downloads:  426
+        downloads:  509
         updated_at: 1776369064000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/note-metrics
 alt:
   - https://github.com/andre-diamond/note-metrics
-downloads: 2089
-updated at: "2026-01-02T10:15:34Z"
+downloads: 2215
+updated at: "2026-08-02T07:47:20Z"
 related to:
   - "[[GitHub - 937038850]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Visualize checkbox completions and tag usage from your Daily Notes with interactive charts and selectable weekly, monthly, or yearly periods. Filter by folders or specific headings, parse combo/single/emoji tags while skipping URL fragments and code blocks, and refresh charts on demand."
 
     stats: {
-        downloads:  2089
-        updated_at: 1767348934000
+        downloads:  2215
+        updated_at: 1785656840000
     }
 }
 ```

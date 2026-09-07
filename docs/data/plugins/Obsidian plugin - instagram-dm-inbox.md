@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/instagram-dm-inbox
 alt:
   - https://github.com/jkmoona/obsidian-instagram-dm-inbox
-downloads: 10
-updated at: "2026-07-19T15:41:44Z"
+downloads: 39
+updated at: "2026-07-31T15:04:25Z"
 related to:
   - "[[GitHub - 1305632218]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Mirror Instagram Business DMs into your vault as individual notes, create sender profile notes, and render conversations as a color-coded Canvas graph for quick triage. Organize threads into status folders that update automatically, flip statuses via Instagram trigger codes or edits, and keep timestamps, message IDs, and wikilinks for easy linking and search."
 
     stats: {
-        downloads:  10
-        updated_at: 1784475704000
+        downloads:  39
+        updated_at: 1785510265000
     }
 }
 ```

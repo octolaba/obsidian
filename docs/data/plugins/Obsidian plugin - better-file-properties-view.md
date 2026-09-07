@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-file-properties-view
 alt:
   - https://github.com/dsynkd/obsidian-better-properties-view
-downloads: 283
+downloads: 325
 updated at: "2026-01-16T22:26:19Z"
 related to:
   - "[[GitHub - 1135980841]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a configurable thumbnail in the File Properties view using a chosen property name. Hide the metadata container automatically when File Properties is active. Simplify file previews and focus on key metadata."
 
     stats: {
-        downloads:  283
+        downloads:  325
         updated_at: 1768602379000
     }
 }

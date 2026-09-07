@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/github-issue-augmentation
 alt:
   - https://github.com/samprintz/obsidian-issue-augmentation-plugin
-downloads: 3847
+downloads: 3859
 updated at: "2023-10-14T17:11:21Z"
 related to:
   - "[[GitHub - 627768965]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Augment GitHub issue IDs with their titles and link each title to the corresponding repository. Fetch titles from GitHub or map IDs to titles from a CSV file, preferring CSV entries when both sources provide a title."
 
     stats: {
-        downloads:  3847
+        downloads:  3859
         updated_at: 1697303481000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/yoofloe
 alt:
   - https://github.com/yoofloe/yoofloe-obsidian
-downloads: 185
+downloads: 195
 updated at: "2026-07-14T22:01:44Z"
 related to:
   - "[[GitHub - 1201965405]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn Yoofloe data into grounded AI documents inside Obsidian. Generate AI Insight briefs and export results as Markdown files into your vault. Connect your Yoofloe token and Google Gemini/Vertex AI credentials to run Yoofloe and Gemini API calls locally."
 
     stats: {
-        downloads:  185
+        downloads:  195
         updated_at: 1784066504000
     }
 }

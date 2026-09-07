@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/todoist-completed-tasks-plugin
 alt:
   - https://github.com/ledaryy/obsidian-todoist-completed-tasks
-downloads: 10125
+downloads: 10171
 updated at: "2026-02-12T18:02:51Z"
 related to:
   - "[[GitHub - 501409714]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fetch completed Todoist tasks and insert them into designated start/end segments in your Obsidian note. Pull today's tasks, tasks from the last N hours, or tasks by date ranges (Templater), and add custom prefix/postfix for Obsidian Tasks formatting."
 
     stats: {
-        downloads:  10125
+        downloads:  10171
         updated_at: 1770919371000
     }
 }

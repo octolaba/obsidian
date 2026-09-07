@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/plugin-helper
 alt:
   - https://github.com/zqdejob/obsidian-plugin-helper
-downloads: 85
+downloads: 134
 updated at: "2026-07-02T08:54:41Z"
 related to:
   - "[[GitHub - 1286936338]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show official Obsidian community plugin descriptions alongside Chinese annotations and an editable \"My Notes\" sidebar; provide a read-only popup for quick reference. Pull and auto-translate English descriptions from the community repo, support searching by plugin name, official text, or personal notes, and refresh translations."
 
     stats: {
-        downloads:  85
+        downloads:  134
         updated_at: 1782982481000
     }
 }

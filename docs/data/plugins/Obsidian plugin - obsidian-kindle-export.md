@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-kindle-export
 alt:
   - https://github.com/simeonlukas/obsidian-kindle-export
-downloads: 11708
+downloads: 11788
 updated at: "2022-12-15T20:21:40Z"
 related to:
   - "[[GitHub - 466289651]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export your Obsidian notes as a single .epub including embedded images and linked .md files. Send the .epub by email to your Kindle or PocketBook via a self-hosted or public PHP backend."
 
     stats: {
-        downloads:  11708
+        downloads:  11788
         updated_at: 1671135700000
     }
 }

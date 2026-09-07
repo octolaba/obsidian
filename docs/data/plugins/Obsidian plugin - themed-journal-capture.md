@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/themed-journal-capture
 alt:
   - https://github.com/sharfaroz7/themed-journal-capture
-downloads: 94
+downloads: 110
 updated at: "2026-07-18T19:18:33Z"
 related to:
   - "[[GitHub - 1296250169]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a hotkey-triggered quick-capture modal from anywhere to write and file dated bullet entries. Send entries to any note via fuzzy search, pick from configured categories, or send directly to your inbox, keeping multi-line bullets indented to preserve list structure."
 
     stats: {
-        downloads:  94
+        downloads:  110
         updated_at: 1784402313000
     }
 }

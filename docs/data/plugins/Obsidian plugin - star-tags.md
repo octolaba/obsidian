@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/star-tags
 alt:
   - https://github.com/sajee05/obsidian-star-tags
-downloads: 52
+downloads: 125
 updated at: "2026-07-13T00:20:04Z"
 related to:
   - "[[GitHub - 1298713027]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scan your vault for selected tags (e.g., #todo, #bug, #fixme) and list matching blocks in a clean, interactive right sidebar. Highlight and jump to the tagged line by clicking a result, and toggle a visual checkbox for #todo tags in the panel without editing your original markdown files."
 
     stats: {
-        downloads:  52
+        downloads:  125
         updated_at: 1783902004000
     }
 }

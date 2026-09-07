@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/scroller
 alt:
   - https://github.com/coignard/obsidian-scroller
-downloads: 2000
+downloads: 2115
 updated at: "2025-11-09T19:49:11Z"
 related to:
   - "[[GitHub - 1038128954]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Keep the active line vertically centered with typewriter mode. Dim text outside the current line, sentence, paragraph, or section to focus on writing. Jump to a note's top or bottom, auto-scroll daily notes to the end, scroll the cursor line-by-line with the mouse wheel, or hide scrollbars."
 
     stats: {
-        downloads:  2000
+        downloads:  2115
         updated_at: 1762717751000
     }
 }

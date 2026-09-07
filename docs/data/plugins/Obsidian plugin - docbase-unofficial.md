@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/docbase-unofficial
 alt:
   - https://github.com/kuvanov-2/obsidian-docbase
-downloads: 229
+downloads: 235
 updated at: "2024-07-05T23:32:17Z"
 related to:
   - "[[GitHub - 823503250]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync notes between Obsidian and DocBase by pulling entries into Obsidian or pushing updates back to DocBase. Pull imports title, tags, draft status, and content into notes marked with docbase_note_id; push overwrites the DocBase note—pull first to avoid data loss."
 
     stats: {
-        downloads:  229
+        downloads:  235
         updated_at: 1720222337000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/file-describer
 alt:
   - https://github.com/alexandrovdi/File-Describer
-downloads: 74
-updated at: "2026-07-12T19:56:00Z"
+downloads: 117
+updated at: "2026-08-01T13:44:29Z"
 related to:
   - "[[GitHub - 1296445938]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create and manage Markdown companion notes automatically when files are added to a watched folder, with rename detection and deletion tracking that updates note status. Review pending items in a two-tab modal for new and deleted files, keep or remove orphaned notes, and see a ribbon badge when items need attention."
 
     stats: {
-        downloads:  74
-        updated_at: 1783886160000
+        downloads:  117
+        updated_at: 1785591869000
     }
 }
 ```

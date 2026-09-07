@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jira-issue-notes
 alt:
   - https://github.com/maksim77/obsidian-jira
-downloads: 102
+downloads: 110
 updated at: "2025-08-20T13:54:27Z"
 related to:
   - "[[GitHub - 993429224]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create Markdown notes from Jira issues using a customizable template and keep them synced with your vault. Update individual or all tracked issues, generate notes from selected editor text, and manage your Jira connection and tracked issues with a status bar quick-update button."
 
     stats: {
-        downloads:  102
+        downloads:  110
         updated_at: 1755698067000
     }
 }

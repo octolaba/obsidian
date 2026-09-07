@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/qmd-semantic-search
 alt:
   - https://github.com/winboost/obsidian-qmd-semantic-search
-downloads: 149
+downloads: 180
 updated at: "2026-04-29T20:52:57Z"
 related to:
   - "[[GitHub - 1223606916]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search your vault semantically with a local QMD index, returning fast keyword matches first and then brief semantic refinements. Open results directly in notes and jump to the relevant line, manage indexing with a simple setup modal, and keep all data local with manual-only refresh."
 
     stats: {
-        downloads:  149
+        downloads:  180
         updated_at: 1777495977000
     }
 }

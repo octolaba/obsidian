@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/attachment-renamer
 alt:
   - https://github.com/bwpge/obsidian-attachment-renamer
-downloads: 528
+downloads: 569
 updated at: "2026-03-17T16:13:23Z"
 related to:
   - "[[GitHub - 1110886874]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Rename pasted or existing attachments with an improved dialog that shows live previews, counters, and lets you edit full paths to create subfolders. Use templates ({header}, {uuid}, custom), padding and case transforms, multiple full-path ignore regexes, and optionally delete attachments when cancelling."
 
     stats: {
-        downloads:  528
+        downloads:  569
         updated_at: 1773764003000
     }
 }

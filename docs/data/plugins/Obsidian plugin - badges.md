@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/badges
 alt:
   - https://github.com/gapmiss/badges
-downloads: 14046
-updated at: "2026-06-14T16:26:44Z"
+downloads: 14973
+updated at: "2026-07-30T17:12:48Z"
 related to:
   - "[[GitHub - 664653025]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Insert inline badges with simple markup to display labeled key-value tags directly in notes. Use GitHub-style, plain, or custom icon/color badges and query them like a key-value store via Obsidian search or Dataview."
 
     stats: {
-        downloads:  14046
-        updated_at: 1781454404000
+        downloads:  14973
+        updated_at: 1785431568000
     }
 }
 ```

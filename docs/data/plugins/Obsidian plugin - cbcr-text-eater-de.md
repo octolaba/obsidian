@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cbcr-text-eater-de
 alt:
   - https://github.com/clockblocker/filler-de
-downloads: 558
+downloads: 579
 updated at: "2025-05-05T04:11:27Z"
 related to:
   - "[[GitHub - 848097314]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create structured dictionary entries from words in open notes and link all inflected and related forms to their base lemma. Generate per-form files with pronunciation, conjugation/declension tables, translations and semantic links while automatically maintaining bidirectional backlinks to build a navigable vocabulary network."
 
     stats: {
-        downloads:  558
+        downloads:  579
         updated_at: 1746418287000
     }
 }

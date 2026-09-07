@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/owen-exporter
 alt:
   - https://github.com/towishy/owen-exporter
-downloads: 123
-updated at: "2026-06-13T07:20:09Z"
+downloads: 153
+updated at: "2026-07-25T01:46:27Z"
 related to:
   - "[[GitHub - 1262400149]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Export embedded SVG images as PNG or JPEG by right-clicking them in reading mode, with rasterization for higher-resolution output and background handling for transparent SVGs. Select Markdown or rendered text and copy or save it as HTML, preserving inline preview styles for tables, code blocks, and callouts."
 
     stats: {
-        downloads:  123
-        updated_at: 1781335209000
+        downloads:  153
+        updated_at: 1784943987000
     }
 }
 ```

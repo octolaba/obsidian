@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/git-folder-sync
 alt:
   - https://github.com/xheldon/git-folder-sync
-downloads: 162
+downloads: 174
 updated at: "2026-05-14T03:52:41Z"
 related to:
   - "[[GitHub - 1026128511]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync notes bidirectionally with GitHub while preserving recursive folder structures and supporting single-file edits or batch vault operations. Upload pasted images to cloud storage automatically and display real-time file sync status and last-modified times with smart caching to reduce GitHub API calls. Switch interface between English and Chinese."
 
     stats: {
-        downloads:  162
+        downloads:  174
         updated_at: 1778730761000
     }
 }

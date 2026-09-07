@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/smart-autocorrect
 alt:
   - https://github.com/zangeti/obsidian-smart-autocorrect
-downloads: 44
-updated at: "2026-07-21T01:00:12Z"
+downloads: 380
+updated at: "2026-08-01T14:55:35Z"
 related to:
   - "[[GitHub - 1307011772]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # Smart Autocorrect
 
-Smart Autocorrect brings phone-style autocorrection and next-word prediction into the vault, fixing typos as they are typed and suggesting links to existing notes. Its recorded inputs state that the recommendations are context aware, driven by a neural engine, and that everything runs locally on the user's own computer.
+Applies phone-style autocorrection and next-word prediction while typing in the vault. Recommendations are context aware, produced by a neural engine that runs locally on the computer.
 
 ```cue
 plugin: {
@@ -33,12 +33,12 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/smart-autocorrect"
     github_url:  "https://github.com/zangeti/obsidian-smart-autocorrect"
-    description: "Predict your next word, fix typos as you type, and suggest links to your notes. All on your device. - This plugin has not been manually reviewed by Obsidian staff."
+    description: "Phone-style autocorrect and next-word prediction directly in your vault. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Smart Autocorrect brings phone style autocorrection and next-word prediction directly to your vault. Recommendations are context aware powered by a neural engine. All running locally on your computer."
 
     stats: {
-        downloads:  44
-        updated_at: 1784595612000
+        downloads:  380
+        updated_at: 1785596135000
     }
 }
 ```

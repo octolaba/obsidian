@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/easy-push
 alt:
   - https://github.com/artursbridaks/easy-push
-downloads: 81
+downloads: 87
 updated at: "2026-05-22T16:46:29Z"
 related to:
   - "[[GitHub - 1243790855]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Review changed files and push commits to any Git remote directly from Obsidian. Select current, chosen, or all changes, edit commit messages, pick the branch, and view push-status markers in the file explorer using only local git—no accounts or external services."
 
     stats: {
-        downloads:  81
+        downloads:  87
         updated_at: 1779468389000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/excalidraw-stylus-menu
 alt:
   - https://github.com/delfinchiknakite-netizen/excalidraw-stylus-menu
-downloads: 310
+downloads: 532
 updated at: "2026-07-02T11:46:42Z"
 related to:
   - "[[GitHub - 1285163167]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a pen-triggered insertion menu to Excalidraw on S Pen tap or hover-button tap to place text, stickers, shapes, embedded notes or images at the touch point. Tap an object's edge to enter connector mode and draw arrows; use hover-button gestures to copy/paste via Excalidraw's API without the system clipboard."
 
     stats: {
-        downloads:  310
+        downloads:  532
         updated_at: 1782992802000
     }
 }

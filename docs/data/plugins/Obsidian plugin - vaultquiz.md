@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/vaultquiz
 alt:
   - https://github.com/filhoricardo/vaultquiz
-downloads:
-updated at:
+downloads: 42
+updated at: "2026-07-25T14:00:34Z"
 related to:
   - "[[GitHub - 1311793821]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/filhoricardo/vaultquiz"
     description: "Generate a daily multiple-choice quiz from your own notes and build a study streak. Bring your own LLM key (MiniMax, OpenRouter, or any OpenAI-compatible API). Sampled note text is sent to the provider you configure. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Turn Obsidian notes into daily multiple-choice quizzes using your OpenAI-compatible LLM key, generated and played entirely inside Obsidian with no server, account, or sync. Track streaks and freezes, view score, 30-day accuracy and a 12-week heatmap on one dashboard, auto-generate quizzes, and optionally save results to Markdown."
+
+    stats: {
+        downloads:  42
+        updated_at: 1784988034000
+    }
 }
 ```
 

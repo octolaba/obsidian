@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bibtex-manager
 alt:
   - https://github.com/akopdev/obsidian-bibtex-manager
-downloads: 4557
+downloads: 4668
 updated at: "2025-05-27T22:25:12Z"
 related to:
   - "[[GitHub - 746567041]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create literature notes from BibTeX entries using customizable templates. Display formatted reference lists, insert citations instantly, and fetch BibTeX from remote sources like arXiv and Google Books with a self-contained, mobile-friendly workflow."
 
     stats: {
-        downloads:  4557
+        downloads:  4668
         updated_at: 1748384712000
     }
 }

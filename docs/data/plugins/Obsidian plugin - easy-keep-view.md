@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/easy-keep-view
 alt:
   - https://github.com/tazihad/obsidian-easy-keep-view
-downloads: 2368
+downloads: 2416
 updated at: "2025-05-11T03:36:22Z"
 related to:
   - "[[GitHub - 963559004]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display notes in a Google Keep–style card view with titles, excerpts, and optional image thumbnails. Create new notes from a \"+\" card, open notes in new tabs, and switch between light, dark, or system themes."
 
     stats: {
-        downloads:  2368
+        downloads:  2416
         updated_at: 1746934582000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/md-beautify
 alt:
   - https://github.com/sliiu/obsidian-md-beautify-plugin
-downloads: 221
+downloads: 377
 updated at: "2026-07-02T07:26:59Z"
 related to:
   - "[[GitHub - 1130230248]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Beautify Markdown into styled rich text with professional themes optimized for WeChat and other rich-text editors. Preview live with synchronized scrolling, export to HTML or PDF, render Mermaid diagrams, batch-upload local images to cloud storage, and customize styles with a built-in CSS editor."
 
     stats: {
-        downloads:  221
+        downloads:  377
         updated_at: 1782977219000
     }
 }

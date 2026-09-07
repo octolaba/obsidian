@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-mindmap-helper
 alt:
   - https://github.com/tim-smart/obsidian-canvas-mindmap
-downloads: 9894
+downloads: 10166
 updated at: "2025-06-26T03:45:59Z"
 related to:
   - "[[GitHub - 749538758]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add new cards quickly and navigate Canvas cards with keyboard commands. Apply automatic layouts manually or run auto-layout on card changes to keep mind maps tidy and organized."
 
     stats: {
-        downloads:  9894
+        downloads:  10166
         updated_at: 1750909559000
     }
 }

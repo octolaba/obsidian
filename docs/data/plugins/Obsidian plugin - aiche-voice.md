@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/aiche-voice
 alt:
   - https://github.com/aiche-app/obsidian-aiche-voice
-downloads: 825
+downloads: 876
 updated at: "2026-06-02T07:38:27Z"
 related to:
   - "[[GitHub - 1129566033]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn spoken thoughts into readable notes, not just audio files. AICHE Voice is built for quick capture on desktop and mobile: daily notes, meeting summaries, writing drafts, book notes, fleeting thoughts, and personal voice notes. Start from the ribbon icon, hotkey, or command palette. When recording stops, AICHE inserts polished text at your cursor with punctuation, grammar cleanup, and filler-word removal handled automatically. AICHE is a paid voice platform with a 7-day free trial and no credit card required. Your subscription also includes AICHE outside this plugin on iOS, Android, desktop, and browser, including voice notes, encrypted sync, custom vocabulary, and system-wide dictation. Audio is processed for transcription and deleted after processing. Your notes stay in your vault.t."
 
     stats: {
-        downloads:  825
+        downloads:  876
         updated_at: 1780385907000
     }
 }

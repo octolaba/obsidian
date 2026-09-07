@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/recent-edits
 alt:
   - https://github.com/cwagner223355/obsidian-recent-edits
-downloads: 828
-updated at: "2026-05-13T21:12:15Z"
+downloads: 1033
+updated at: "2026-07-25T00:29:46Z"
 related to:
   - "[[GitHub - 1227330515]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Display files modified in the last N days in a sidebar panel, grouped by calendar day and sorted newest first. Mark external edits done outside of the app, like those done through Claude or Codex, with an indicator dot. Hide noisy folders with a background toggle or exclusions, copy absolute file paths, and dismiss entries until their next edit. Preview pages on hover and include .md, .canvas, and .base files."
 
     stats: {
-        downloads:  828
-        updated_at: 1778706735000
+        downloads:  1033
+        updated_at: 1784939386000
     }
 }
 ```

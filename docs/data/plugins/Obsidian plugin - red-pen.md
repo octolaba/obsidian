@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/red-pen
 alt:
   - https://github.com/lucasmelin/red-pen
-downloads: 5779
+downloads: 5818
 updated at: "2023-07-31T20:48:52Z"
 related to:
   - "[[GitHub - 672613551]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Proofread notes and highlight phrases that could be simplified. Identify weasel words, hedges, filler, and other weak or verbose constructions to tighten your writing."
 
     stats: {
-        downloads:  5779
+        downloads:  5818
         updated_at: 1690836532000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/second-brain-builder
 alt:
   - https://github.com/algometrix/second_brain_builder
-downloads: 117
+downloads: 215
 updated at: "2026-07-18T22:11:15Z"
 related to:
   - "[[GitHub - 1301296522]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate a folder of interlinked, deep-dive study notes from any topic, including a generated index hub, Mermaid concept maps, and wiki-style links that populate Obsidian's graph view. Explain selected text into new linked notes and refine content in place using cloud or local AI backends (Claude, Gemini, Codex, Ollama)."
 
     stats: {
-        downloads:  117
+        downloads:  215
         updated_at: 1784412675000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-export-to-tex
 alt:
   - https://github.com/raineszm/obsidian-export-to-tex
-downloads: 9843
+downloads: 10182
 updated at: "2022-06-29T16:09:49Z"
 related to:
   - "[[GitHub - 316033216]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export Obsidian notes to LaTeX ready for pasting into a .tex file, resolving embeds and stripping wiki-links. Generate LaTeX labels for headings and blocks, convert internal links to \\ref-style links, handle display math environments, and save to file or copy to clipboard."
 
     stats: {
-        downloads:  9843
+        downloads:  10182
         updated_at: 1656518989000
     }
 }

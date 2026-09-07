@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-progressbar
 alt:
   - https://github.com/ryohma0510/obsidian-note-progressbar
-downloads: 724
+downloads: 832
 updated at: "2026-03-05T21:06:47Z"
 related to:
   - "[[GitHub - 1082914929]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display a lightweight progress bar above the current note showing completed Markdown checkboxes, totals, percentage, and a theme-aware fill. Update live as you check/uncheck tasks or switch notes, auto-hide when no tasks exist, and use the Toggle todo progress bar command to show or hide it per vault."
 
     stats: {
-        downloads:  724
+        downloads:  832
         updated_at: 1772744807000
     }
 }

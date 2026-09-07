@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/guitar-chord
 alt:
   - https://github.com/barba828/obsidian-plugin-chord
-downloads: 2107
+downloads: 2235
 updated at: "2024-10-11T08:25:09Z"
 related to:
   - "[[GitHub - 840132375]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Enter and display guitar chords directly in your document using chord names or finger positions (e.g., Am7 or x-3-2-0-1-0). Generate valid, theory-based chord diagrams, add custom chords, and edit them inline without code blocks."
 
     stats: {
-        downloads:  2107
+        downloads:  2235
         updated_at: 1728635109000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/prose-lens
 alt:
   - https://github.com/israerusan/prose-lens
-downloads: 42
-updated at: "2026-07-13T23:18:56Z"
+downloads: 123
+updated at: "2026-08-01T09:11:44Z"
 related to:
   - "[[GitHub - 1299671717]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Highlight adverbs, passive voice, hedges, weasel words, clichés, doubled words and long sentences inline as you type, with live Flesch reading ease and grade in the status bar. Mask code fences, inline code, math, frontmatter, links, wikilinks, headings and table rows to avoid false positives, and run all analysis locally so nothing leaves or is written to your notes."
 
     stats: {
-        downloads:  42
-        updated_at: 1783984736000
+        downloads:  123
+        updated_at: 1785575504000
     }
 }
 ```

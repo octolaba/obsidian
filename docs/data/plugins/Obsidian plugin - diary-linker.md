@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/diary-linker
 alt:
   - https://github.com/yhfs21/diary-linker
-downloads: 128
+downloads: 145
 updated at: "2026-05-19T15:32:06Z"
 related to:
   - "[[GitHub - 1151305589]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a calendar view for daily notes and open or create a note by clicking a date. Build a year/month/day folder structure, maintain parent links (root→year→month→day), and apply a template that replaces {{diary-link}}, {{title}}, {{date}}, and {{time}}."
 
     stats: {
-        downloads:  128
+        downloads:  145
         updated_at: 1779204726000
     }
 }

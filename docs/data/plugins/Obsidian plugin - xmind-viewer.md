@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/xmind-viewer
 alt:
   - https://github.com/ssentiago/obsidian-xmind-viewer
-downloads: 9150
+downloads: 9351
 updated at: "2024-09-09T13:05:12Z"
 related to:
   - "[[GitHub - 854358224]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "View .xmind files directly inside your Obsidian vault, including embedded maps within Markdown notes. Open any .xmind file to render a read-only XMind viewer. Connect to the internet to use the viewer."
 
     stats: {
-        downloads:  9150
+        downloads:  9351
         updated_at: 1725887112000
     }
 }

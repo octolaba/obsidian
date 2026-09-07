@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/star-infolearn
 alt:
   - https://github.com/starhunt/star-infolearn
-downloads: 407
+downloads: 503
 updated at: "2026-06-03T02:59:45Z"
 related to:
   - "[[GitHub - 1136661810]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate AI-driven flashcards from notes and train with four quiz types: flashcard, multiple-choice, cloze, and short-answer, using FSRS spaced-repetition scheduling. Filter reviews by note, folder, or date, track progress on a study dashboard, and keep all study data stored locally."
 
     stats: {
-        downloads:  407
+        downloads:  503
         updated_at: 1780455585000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/stacktube
 alt:
   - https://github.com/bije0327/obsidian-stacktube
-downloads: 78
+downloads: 89
 updated at: "2026-07-05T09:35:11Z"
 related to:
   - "[[GitHub - 1259349536]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync YouTube video notes into your vault as clean Markdown files with YAML frontmatter for video_id, channel, title, video_url, published_at, language, and tags. Pull AI‑structured summaries from StackTube, avoid duplicates, and keep notes searchable and compatible with Dataview and graph view."
 
     stats: {
-        downloads:  78
+        downloads:  89
         updated_at: 1783244111000
     }
 }

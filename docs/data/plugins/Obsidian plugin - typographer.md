@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/typographer
 alt:
   - https://github.com/coignard/obsidian-typographer
-downloads: 2257
+downloads: 2450
 updated at: "2025-11-08T16:23:33Z"
 related to:
   - "[[GitHub - 1038129334]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert straight quotes into typographic (curly) quotes as you type and auto-pair custom characters like guillemets. Define custom text replacements and pairing rules, and apply them as you type while skipping code blocks, frontmatter, and other excluded areas."
 
     stats: {
-        downloads:  2257
+        downloads:  2450
         updated_at: 1762619013000
     }
 }

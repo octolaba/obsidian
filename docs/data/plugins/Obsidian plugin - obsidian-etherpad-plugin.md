@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-etherpad-plugin
 alt:
   - https://github.com/egradman/obsidian-etherpad-lite
-downloads: 4565
+downloads: 4577
 updated at: "2022-03-21T21:34:12Z"
 related to:
   - "[[GitHub - 469993344]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload notes to an Etherpad-Lite server and add an etherpad_id to the frontmatter to mark the server copy as canonical. Replace note contents from the pad on open or on command and keep the file in your vault while collaborators edit via the Etherpad web editor. Open the pad in your browser to share the URL."
 
     stats: {
-        downloads:  4565
+        downloads:  4577
         updated_at: 1647898452000
     }
 }

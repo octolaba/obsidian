@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chesser-obsidian
 alt:
   - https://github.com/silentvoid13/Chesser
-downloads: 12968
+downloads: 13054
 updated at: "2022-03-06T08:16:08Z"
 related to:
   - "[[GitHub - 342703798]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display and edit chess games inside Obsidian using FEN or PGN to load positions and moves. Play through moves, draw annotations like arrows and circles, and toggle view-only or free-move modes. Adjust board orientation and pick piece and board styles."
 
     stats: {
-        downloads:  12968
+        downloads:  13054
         updated_at: 1646554568000
     }
 }

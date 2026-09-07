@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/calendarplanner
 alt:
   - https://github.com/lykaunn/CalendarPlanner
-downloads: 232
+downloads: 260
 updated at: "2026-05-27T21:48:25Z"
 related to:
   - "[[GitHub - 1182461341]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage all tasks and events from a single master planner.md file instead of individual daily notes. View a calendar with per-day entry previews, click to open/add/complete tasks, toggle checkboxes, and display multi-day events created with date ranges. Use flexible date formats (DD/MM/YYYY or YYYY-MM-DD) and jump directly to any date."
 
     stats: {
-        downloads:  232
+        downloads:  260
         updated_at: 1779918505000
     }
 }

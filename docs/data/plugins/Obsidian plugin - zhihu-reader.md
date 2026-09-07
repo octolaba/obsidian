@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zhihu-reader
 alt:
   - https://github.com/iamzay/obsidian-zhihu-reader
-downloads: 24
+downloads: 35
 updated at: "2026-07-18T14:48:40Z"
 related to:
   - "[[GitHub - 1302019635]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Read Zhihu questions and answers inside Obsidian and render content as native Markdown in a dedicated reader panel that shows one answer at a time. Save chosen answers as Markdown notes with metadata and optional image download; browse comments, author answers, search hot lists and history, and vote after logging in."
 
     stats: {
-        downloads:  24
+        downloads:  35
         updated_at: 1784386120000
     }
 }

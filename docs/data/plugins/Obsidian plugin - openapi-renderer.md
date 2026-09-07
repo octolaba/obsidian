@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/openapi-renderer
 alt:
   - https://github.com/ssentiago/obsidian-openapi-renderer
-downloads: 2428
+downloads: 2479
 updated at: "2024-11-23T20:54:19Z"
 related to:
   - "[[GitHub - 824113264]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Edit and render OpenAPI (Swagger) specifications directly in Obsidian with an embedded Swagger UI. Manage specification versions—create, view, restore, and delete revisions—and browse all tracked specs from a single overview."
 
     stats: {
-        downloads:  2428
+        downloads:  2479
         updated_at: 1732395259000
     }
 }

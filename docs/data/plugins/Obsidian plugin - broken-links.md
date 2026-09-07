@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/broken-links
 alt:
   - https://github.com/ipshing/obsidian-broken-links
-downloads: 6146
+downloads: 6290
 updated at: "2024-02-22T04:06:27Z"
 related to:
   - "[[GitHub - 748394315]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Locate internal links across your vault that don't resolve to files, headings, or blocks. View broken links by folder, file, or link with counts and sorting, then open the source note or create the missing target to repair connections."
 
     stats: {
-        downloads:  6146
+        downloads:  6290
         updated_at: 1708574787000
     }
 }

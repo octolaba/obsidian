@@ -30,9 +30,9 @@ here.
 
 Citation aliases: `api`, `docs`, `sample`, `theme`, `rel`, `help` — defined in the skill's Sources
 section. Every API named below states its `@since` and its tier at this pin: *stable* at or below
-1.12.7, *insider-only* above it. Members the typings leave without a version tag are written
+1.13.7, *insider-only* above it. Members the typings leave without a version tag are written
 **untagged, availability unknown**: declaration at the 1.13.2 pin does not establish compatibility
-with 1.12.7. A lower floor needs another pinned official source or runtime verification.
+with 1.13.7. A lower floor needs another pinned official source or runtime verification.
 
 ## The workspace tree
 

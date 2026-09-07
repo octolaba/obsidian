@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/doodle
 alt:
   - https://github.com/alexsussy/obsidian-doodle
-downloads: 737
+downloads: 846
 updated at: "2026-05-12T17:11:50Z"
 related to:
   - "[[GitHub - 1162151051]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create 1024×1024 bitmap drawings directly in Obsidian and save them as PNG files in a doodles folder in your vault. Choose from the Flexoki color palette, adjust brush size, and undo strokes with a simple toolbar."
 
     stats: {
-        downloads:  737
+        downloads:  846
         updated_at: 1778605910000
     }
 }

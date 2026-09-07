@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lockbox
 alt:
   - https://github.com/danzar/Obsidian-Locker
-downloads: 304
+downloads: 452
 updated at: "2026-06-02T22:54:19Z"
 related to:
   - "[[GitHub - 1255573111]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Encrypt note contents while keeping titles visible and files usable in the file explorer, graph, and links. Lock notes with a vault-wide or per-note password using authenticated AES-GCM encryption, auto-lock on navigation/quit, and show unlocked count in the status bar."
 
     stats: {
-        downloads:  304
+        downloads:  452
         updated_at: 1780440859000
     }
 }

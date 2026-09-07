@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/simple-mind-map
 alt:
   - https://github.com/wanglin2/obsidian-simplemindmap
-downloads: 13287
-updated at: "2026-07-18T02:02:28Z"
+downloads: 15907
+updated at: "2026-08-10T12:05:25Z"
 related to:
   - "[[GitHub - 1008910039]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create interactive mind maps inside Obsidian using .smm.md files that open in a visual mind‑map view or as Markdown. Embed maps as images, link nodes to vault files, switch between diagram and outline modes, export/import maps, and keep split views synchronized."
 
     stats: {
-        downloads:  13287
-        updated_at: 1784340148000
+        downloads:  15907
+        updated_at: 1786363525000
     }
 }
 ```

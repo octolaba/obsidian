@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lang-plus
 alt:
   - https://github.com/open-obsidian-i18n/i18n-plus
-downloads: 9641
+downloads: 12829
 updated at: "2026-06-21T16:08:21Z"
 related to:
   - "[[GitHub - 1136652755]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage plugin translations from a unified panel. Hot-reload languages, edit overlays to fix only unsatisfactory texts, import/export JSON and sync community translation packs. Add zero-runtime adapters, automated t() migration, and TypeScript-aware i18n for plugin development."
 
     stats: {
-        downloads:  9641
+        downloads:  12829
         updated_at: 1782058101000
     }
 }

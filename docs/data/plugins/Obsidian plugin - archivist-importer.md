@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/archivist-importer
 alt:
   - https://github.com/archivistai/archivist-obsidian-importer
-downloads: 1831
-updated at: "2026-06-03T19:21:21Z"
+downloads: 1965
+updated at: "2026-07-29T06:02:14Z"
 related to:
   - "[[GitHub - 1082341616]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Import selected Obsidian vault files directly into Archivist campaigns. Store your Archivist API key in Secret Storage and use the left-ribbon upload button or Command Palette to send selected notes to your campaigns."
 
     stats: {
-        downloads:  1831
-        updated_at: 1780514481000
+        downloads:  1965
+        updated_at: 1785304934000
     }
 }
 ```

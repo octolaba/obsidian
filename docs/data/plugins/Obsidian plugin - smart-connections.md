@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/smart-connections
 alt:
   - https://github.com/brianpetro/obsidian-smart-connections
-downloads: 1107566
-updated at: "2026-06-04T16:34:57Z"
+downloads: 1144339
+updated at: "2026-08-06T12:06:31Z"
 related to:
   - "[[GitHub - 582432706]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Smart Connections is for the moment you think, \"I know I wrote this somewhere.\" Open the note and related content resurfaces by meaning in graph + list view. Blocks mode surfaces excerpts, a single paragraph or lists, for more granular results. Use it as your AI link building copilot: preview results, drag useful matches into the note, hide noise, pin references, copy all results as a link tree, or send to a Smart Context. A built-in local embedding model powers the AI retrieval path. No setup or API key required!"
 
     stats: {
-        downloads:  1107566
-        updated_at: 1780590897000
+        downloads:  1144339
+        updated_at: 1786017991000
     }
 }
 ```

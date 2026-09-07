@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/image-viewer
 alt:
   - https://github.com/fengshuzi/image-viewer
-downloads: 432
-updated at: "2026-07-12T13:44:47Z"
+downloads: 602
+updated at: "2026-08-04T03:46:44Z"
 related to:
   - "[[GitHub - 1172419033]]"
 remind me:
@@ -36,8 +36,8 @@ plugin: {
     description: "A powerful image viewer with gallery view, zoom, slideshow and more. - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  432
-        updated_at: 1783863887000
+        downloads:  602
+        updated_at: 1785815204000
     }
 }
 ```

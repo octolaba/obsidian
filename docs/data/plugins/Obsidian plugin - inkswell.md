@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/inkswell
 alt:
   - https://github.com/leethobbit/obsidian-inkswell-plugin
-downloads: 994
-updated at: "2026-07-15T18:03:55Z"
+downloads: 1769
+updated at: "2026-08-11T16:06:20Z"
 related to:
   - "[[GitHub - 1279558861]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Plan, draft, track, revise, and publish longform fiction entirely inside your Obsidian vault using a single host view that organizes Home, Plan, Write, Revise, Publish plus Codex and Track tools. Keep all manuscript data local with no accounts, no AI, and no network calls while using beat-sheet templates, a Kanban board, live-preview drafting, revision audits, and a compile/export pipeline."
 
     stats: {
-        downloads:  994
-        updated_at: 1784138635000
+        downloads:  1769
+        updated_at: 1786464380000
     }
 }
 ```

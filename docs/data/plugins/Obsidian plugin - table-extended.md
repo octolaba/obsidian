@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/table-extended
 alt:
   - https://github.com/aidenlx/table-extended
-downloads: 70274
+downloads: 71279
 updated at: "2022-01-16T08:30:13Z"
 related to:
   - "[[GitHub - 354003410]]"
@@ -28,7 +28,7 @@ Renders tables in MultiMarkdown 6 syntax, adding colspan and rowspan, multiple h
 plugin: {
     id:     "table-extended"
     name:   "Table Extended"
-    author: "aidenlx"
+    author: "Aiden Liu"
     repo:   "aidenlx/table-extended"
 
     html_url:    "https://community.obsidian.md/plugins/table-extended"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render MultiMarkdown-style tables with colspan and rowspan, multiple headers, captions, omitted headers, and block-level cell content while keeping internal links and embeds intact. Mark extended tables with a -tx- prefix to enable the extended table syntax and proper rendering."
 
     stats: {
-        downloads:  70274
+        downloads:  71279
         updated_at: 1642321813000
     }
 }

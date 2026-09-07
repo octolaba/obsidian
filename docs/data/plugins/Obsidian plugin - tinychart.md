@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tinychart
 alt:
   - https://github.com/alincoop/obsidian-tinychart
-downloads: 2005
+downloads: 2022
 updated at: "2024-05-04T03:43:26Z"
 related to:
   - "[[GitHub - 790541676]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create dead-simple ASCII charts directly in your notes with horizontal, vertical, and line chart types. Customize fill/empty characters, optional prefixes/suffixes, chart length and value labels, render in code blocks or paragraphs, and generate live-updating charts from Dataview queries."
 
     stats: {
-        downloads:  2005
+        downloads:  2022
         updated_at: 1714794206000
     }
 }

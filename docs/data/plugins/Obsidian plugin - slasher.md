@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/slasher
 alt:
   - https://github.com/binnyva/obsidian-slasher
-downloads: 191
+downloads: 222
 updated at: "2026-04-16T16:45:27Z"
 related to:
   - "[[GitHub - 1211797804]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create custom editor commands that appear in Obsidian’s command palette and Slash commands using template strings. Compose templates from plain text, dynamic tokens (dates, clipboard, file metadata) and embedded shell commands to insert computed or formatted content directly into notes."
 
     stats: {
-        downloads:  191
+        downloads:  222
         updated_at: 1776357927000
     }
 }

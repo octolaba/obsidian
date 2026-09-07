@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-copilot
 alt:
   - https://github.com/lebenswille/note-copilot
-downloads: 281
+downloads: 366
 updated at: "2026-05-20T21:50:57Z"
 related to:
   - "[[GitHub - 1190986836]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed an AI assistant into Obsidian's sidebar to ask questions, summarize, translate, and organize content from notes, attachments, and PDFs. Attach current file and PDF context, switch between models (OpenAI, Anthropic, Gemini, Codex and more), and save responses back to notes with persistent per-file chat history."
 
     stats: {
-        downloads:  281
+        downloads:  366
         updated_at: 1779313857000
     }
 }

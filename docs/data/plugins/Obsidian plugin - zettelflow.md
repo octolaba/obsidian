@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/zettelflow
 alt:
   - https://github.com/rafaelgb/Obsidian-ZettelFlow
-downloads: 22836
+downloads: 23154
 updated at: "2025-08-17T17:39:01Z"
 related to:
   - "[[GitHub - 672602228]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Design personalized note workflows on the Obsidian canvas. Link root notes and steps (notes, groups, canvas cards) with arrows and add actions to dynamically create or edit notes as you move through each step."
 
     stats: {
-        downloads:  22836
+        downloads:  23154
         updated_at: 1755452341000
     }
 }

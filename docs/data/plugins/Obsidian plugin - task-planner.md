@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/task-planner
 alt:
   - https://github.com/selfish/obsidian-task-planner
-downloads: 197
-updated at: "2026-05-28T12:30:23Z"
+downloads: 332
+updated at: "2026-08-01T21:52:52Z"
 related to:
   - "[[GitHub - 1133835028]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Plan and manage tasks across your vault with a Kanban-style planning board, Today view, and configurable day/week/month/quarter/year horizons. Track tasks from any Markdown file using Dataview-compatible inline fields; drag-and-drop between periods, set WIP limits, priorities, due dates, subtasks, and pin important items."
 
     stats: {
-        downloads:  197
-        updated_at: 1779971423000
+        downloads:  332
+        updated_at: 1785621172000
     }
 }
 ```

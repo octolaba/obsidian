@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/contentful-publisher
 alt:
   - https://github.com/ziyafenn/obsidian-contentful-publisher
-downloads: 2791
+downloads: 2800
 updated at: "2023-09-03T11:03:22Z"
 related to:
   - "[[GitHub - 686602114]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync content types and entries from Contentful and generate Obsidian templates and notes organized into folders by content type. Edit notes and push updates back to Contentful, with conflict warnings and automatic copies when entries are out of sync. Add all content fields as frontmatter (except title and body), ignoring RichText, ResourceLink, Link, Object and Location fields."
 
     stats: {
-        downloads:  2791
+        downloads:  2800
         updated_at: 1693739002000
     }
 }

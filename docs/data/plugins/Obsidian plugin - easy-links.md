@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/easy-links
 alt:
   - https://github.com/saiki77/easy-links
-downloads: 327
+downloads: 657
 updated at: "2026-06-24T16:42:38Z"
 related to:
   - "[[GitHub - 1279227793]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show only file names for un-aliased internal links (A/B/Note → Note) while keeping link targets intact so clicks navigate unchanged. Preserve heading and block refs and aliases, keep embeds' full paths, optionally reveal full paths while editing, and prioritize top-level folders in the smart link suggester."
 
     stats: {
-        downloads:  327
+        downloads:  657
         updated_at: 1782319358000
     }
 }

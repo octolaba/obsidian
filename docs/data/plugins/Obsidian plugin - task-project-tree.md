@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/task-project-tree
 alt:
   - https://github.com/toustifer/obsidian-task-project-tree
-downloads: 239
+downloads: 263
 updated at: "2026-05-25T08:40:12Z"
 related to:
   - "[[GitHub - 1244255281]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mark folders as projects to auto-generate overview notes that summarize checkbox task progress and child-project breakdowns. Display live progress badges in the file explorer, roll up nested child totals into parent summaries, and auto-update when files change."
 
     stats: {
-        downloads:  239
+        downloads:  263
         updated_at: 1779698412000
     }
 }

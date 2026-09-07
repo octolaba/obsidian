@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/local-media-embedder
 alt:
   - https://github.com/seyf1elislam/obsidian-LocalMediaEmbedder-plugin
-downloads: 6476
+downloads: 6651
 updated at: "2026-02-01T21:45:59Z"
 related to:
   - "[[GitHub - 862090643]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed local videos and audio (MP4, MP3 and more) directly into notes with support for multiple files displayed as a grid or list and picture-in-picture playback. Access files outside your vault, play YouTube links, and insert clickable timestamps that seek the video for synchronized notes."
 
     stats: {
-        downloads:  6476
+        downloads:  6651
         updated_at: 1769982359000
     }
 }

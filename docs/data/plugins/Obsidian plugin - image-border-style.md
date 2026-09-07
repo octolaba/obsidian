@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-border-style
 alt:
   - https://github.com/shenoy-anurag/obsidian-image-border-style
-downloads: 1307
+downloads: 1369
 updated at: "2026-04-05T11:42:33Z"
 related to:
   - "[[GitHub - 966226512]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Apply customizable rounded borders to images with nine radius sizes (no-border to 4XL) and six border widths (0–5px). Use automatic theme-aware border colors or pick a custom color while keeping a minimal performance impact."
 
     stats: {
-        downloads:  1307
+        downloads:  1369
         updated_at: 1775389353000
     }
 }

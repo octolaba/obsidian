@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/review-obsidian
 alt:
   - https://github.com/ryanjamurphy/review-obsidian
-downloads: 64083
+downloads: 64490
 updated at: "2024-12-10T18:39:25Z"
 related to:
   - "[[GitHub - 310119444]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add the current note to a future or past daily note to schedule a review on that date. Create or append a Review section on the target day's note with a prefixed line or block, using natural language dates via the Natural Language Dates plugin."
 
     stats: {
-        downloads:  64083
+        downloads:  64490
         updated_at: 1733855965000
     }
 }

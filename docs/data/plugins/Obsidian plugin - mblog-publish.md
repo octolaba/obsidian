@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mblog-publish
 alt:
   - https://github.com/kingwrcy/obsidian-mblog
-downloads: 1001
+downloads: 1008
 updated at: "2024-02-29T07:48:05Z"
 related to:
   - "[[GitHub - 759287353]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish single Markdown notes from Obsidian to MBlog using front matter metadata (title required; optional link, pubDate, tags, draft). Enable MBlog API and add your API token, then right-click a note to publish and receive success/failure notifications."
 
     stats: {
-        downloads:  1001
+        downloads:  1008
         updated_at: 1709192885000
     }
 }

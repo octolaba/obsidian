@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tiff-viewer
 alt:
   - https://github.com/ullmannjan/obsidian-tiff-viewer
-downloads: 1866
+downloads: 1905
 updated at: "2024-04-15T16:15:27Z"
 related to:
   - "[[GitHub - 753054683]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert linked .tif/.tiff images to .png and create PNG copies beside the originals so images display in Obsidian. Rename file links in the editor to point to the .png versions, offer commands to revert links or delete generated .png files, and add a file-explorer action to create a PNG copy."
 
     stats: {
-        downloads:  1866
+        downloads:  1905
         updated_at: 1713197727000
     }
 }

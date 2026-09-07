@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/workflowy-sync
 alt:
   - https://github.com/rodolfo-terriquez/workflowy-sync
-downloads: 193
+downloads: 221
 updated at: "2026-05-12T23:10:40Z"
 related to:
   - "[[GitHub - 1186759903]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect Obsidian to Workflowy to send selected text or the current line, push Markdown outlines, and pick a saved or on-demand target. Embed live Workflowy nodes with a workflowy code block and create one-to-one sync mappings to sync either direction manually or on a schedule into a managed heading block."
 
     stats: {
-        downloads:  193
+        downloads:  221
         updated_at: 1778627440000
     }
 }

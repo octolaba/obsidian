@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/dragger
 alt:
   - https://github.com/ariestar/obsidian-dragger
-downloads: 63045
-updated at: "2026-06-16T15:13:51Z"
+downloads: 71984
+updated at: "2026-08-05T05:14:01Z"
 related to:
   - "[[GitHub - 1150839538]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Drag and drop any block to rearrange content in Obsidian — paragraphs, headings, lists, tasks, tables, code and math blocks. Control nested indents by moving horizontally and set insertion position by moving vertically. Select and drag multi-line ranges as a group, view a glowing drop indicator, and use on mobile."
 
     stats: {
-        downloads:  63045
-        updated_at: 1781622831000
+        downloads:  71984
+        updated_at: 1785906841000
     }
 }
 ```

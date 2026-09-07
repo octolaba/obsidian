@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/typewriter-mode
 alt:
   - https://github.com/davisriedel/obsidian-typewriter-mode
-downloads: 96473
+downloads: 99429
 updated at: "2026-06-11T06:13:59Z"
 related to:
   - "[[GitHub - 622876635]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Typewriter Mode turns Obsidian into a distraction-free writing environment. Typewriter scrolling keeps the current line at a fixed position on the screen. You can also highlight the current line your editing on with a background or underline. Writing Focus lets you write in a distraction-free full-screen environment with a customizable vignette. Hemingway mode lets you only write forward, if enabled, preventing you from editing while writing your first draft. You can dim unfocused sentences or paragraphs, fade text above and below the current line, limit the number of characters per line, and restore the last cursor position when opening a file. And there are even more features and settings waiting for you!"
 
     stats: {
-        downloads:  96473
+        downloads:  99429
         updated_at: 1781158439000
     }
 }

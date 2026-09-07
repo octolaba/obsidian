@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tare-money
 alt:
   - https://github.com/thekalpit/tare-money
-downloads: 396
+downloads: 460
 updated at: "2026-05-22T06:51:50Z"
 related to:
   - "[[GitHub - 1203125089]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Stores transactions as plain Markdown files in your vault for local-first finance tracking without cloud accounts or subscriptions. Add transactions via an intuitive UI, view balances and income & expenses, use multi-currency conversion, tag with hashtags, filter by date/text, and more."
 
     stats: {
-        downloads:  396
+        downloads:  460
         updated_at: 1779432710000
     }
 }

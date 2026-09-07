@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-note-plugin
 alt:
   - https://github.com/xpgo/obsidian-folder-note-plugin
-downloads: 138149
+downloads: 139000
 updated at: "2021-02-20T06:49:10Z"
 related to:
   - "[[GitHub - 331597561]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Attach descriptive Markdown notes to folders and open them by clicking a folder in the file explorer. Create new folder notes with Ctrl+Click and choose Inside-Folder, Outside-Folder, or Index-File methods. Display folder contents as card or strip overviews and keep folder and note names synced."
 
     stats: {
-        downloads:  138149
+        downloads:  139000
         updated_at: 1613803750000
     }
 }

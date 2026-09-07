@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-window
 alt:
   - https://github.com/javalent/second-window
-downloads: 36979
+downloads: 37668
 updated at: "2024-01-03T17:32:54Z"
 related to:
   - "[[GitHub - 433948823]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open notes or image files in a separate pop-up Obsidian window for focused viewing. Send subsequent opens to the existing second window and stretch images to fill the window for comfortable, full-size display."
 
     stats: {
-        downloads:  36979
+        downloads:  37668
         updated_at: 1704303174000
     }
 }

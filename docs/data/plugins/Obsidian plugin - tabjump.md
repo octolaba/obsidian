@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tabjump
 alt:
   - https://github.com/shitcoding/obsidian_tabjump
-downloads: 267
+downloads: 312
 updated at: "2026-01-28T09:14:48Z"
 related to:
   - "[[GitHub - 1141884296]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Toggle between the two most recent tabs and move the current tab left or right in the tab bar. Assign hotkeys directly in the plugin settings and operate across split panes and mobile while handling closed tabs and pane boundaries."
 
     stats: {
-        downloads:  267
+        downloads:  312
         updated_at: 1769591688000
     }
 }

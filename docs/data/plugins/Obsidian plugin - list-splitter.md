@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/list-splitter
 alt:
   - https://github.com/mindaugas3/list-splitter
-downloads: 219
+downloads: 241
 updated at: "2026-03-19T14:14:55Z"
 related to:
   - "[[GitHub - 1186238262]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Split bulleted or numbered lists in Canvas text cards into individual plain-text cards, one per list item, stacked vertically at the original card's position. Merge two or more Canvas text cards into a single bulleted list card placed at the top-left card's position, ordering cards top-to-bottom then left-to-right; supports -, *, •, 1. and 1) markers."
 
     stats: {
-        downloads:  219
+        downloads:  241
         updated_at: 1773929695000
     }
 }

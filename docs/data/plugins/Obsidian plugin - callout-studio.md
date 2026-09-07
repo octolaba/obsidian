@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/callout-studio
 alt:
   - https://github.com/niv20/obsidian-Plugin-Callout-Studio
-downloads: 1951
-updated at: "2026-07-20T21:09:18Z"
+downloads: 4590
+updated at: "2026-08-10T21:05:36Z"
 related to:
   - "[[GitHub - 1205939219]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Callout Studio gives you three distinct ways to highlight text: regular callouts, inline callouts, and callout headings. But that’s just the start. You can easily create entirely new custom styles, tweak colors, and choose from 7 different icon libraries. With smart autocomplete, context menu actions, and one simple settings tab for bulk editing and vault-wide syncing, managing your callouts has never been faster or easier!"
 
     stats: {
-        downloads:  1951
-        updated_at: 1784581758000
+        downloads:  4590
+        updated_at: 1786395936000
     }
 }
 ```

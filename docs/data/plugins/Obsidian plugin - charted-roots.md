@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/charted-roots
 alt:
   - https://github.com/banisterious/obsidian-charted-roots
-downloads: 37400
+downloads: 58361
 updated at: "2026-06-26T00:38:07Z"
 related to:
   - "[[GitHub - 1098472916]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import GEDCOM, CSV, or Gramps XML/.gpkg and build linked Markdown family trees inside your vault. Visualize interactive family charts, canvas trees, maps, and timelines. Edit relationships bidirectionally and track sources, citations, and evidence with Mills-aligned classification. Generate visual family trees and export as Canvas, Excalidraw, PDF, ODT, or Markdown. Generate text reports including timelines, statistics, lists, tables, and Dataview-compatible queries. Compile books with TOC, bibliography, and name index. Export family charts to PNG, SVG, PDF, or ODT. Supports fictional calendars and custom universes for worldbuilding and TTRPG campaigns. Built for genealogists, historians, family historians, and fiction writers tracking character lineages."
 
     stats: {
-        downloads:  37400
+        downloads:  58361
         updated_at: 1782434287000
     }
 }

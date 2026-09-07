@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/bases-cms
 alt:
   - https://github.com/davidvkimball/obsidian-bases-cms
-downloads: 13541
-updated at: "2026-05-30T19:45:40Z"
+downloads: 14921
+updated at: "2026-08-10T22:38:54Z"
 related to:
   - "[[GitHub - 1097424149]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Transform bases into a card-based CMS with thumbnails, snippets, and property-rich grid views for content management. Perform bulk actions—publish/draft toggles, tag/property set/remove, delete with smart folder and unique-attachment cleanup—and run quick Obsidian commands from cards while customizing toolbar and icons."
 
     stats: {
-        downloads:  13541
-        updated_at: 1780170340000
+        downloads:  14921
+        updated_at: 1786401534000
     }
 }
 ```

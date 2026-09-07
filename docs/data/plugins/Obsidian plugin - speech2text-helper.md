@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/speech2text-helper
 alt:
   - https://github.com/mwoz123/speech-to-text-keyboard-helper
-downloads: 5053
+downloads: 5080
 updated at: "2023-08-16T19:31:09Z"
 related to:
   - "[[GitHub - 676689982]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add newline commands to Obsidian's command palette for Android speech-to-text keyboards that don't handle line breaks. Append or prepend a new line and jump the cursor into it. Does not include speech-to-text functionality."
 
     stats: {
-        downloads:  5053
+        downloads:  5080
         updated_at: 1692214269000
     }
 }

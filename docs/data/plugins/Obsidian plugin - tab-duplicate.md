@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tab-duplicate
 alt:
   - https://github.com/antoineart/obsidian-tab-duplicate
-downloads: 314
+downloads: 343
 updated at: "2026-05-27T08:14:58Z"
 related to:
   - "[[GitHub - 1172445106]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a Duplicate file option to tab and explorer context menus. Create a -copy duplicate next to the original, automatically increment name suffixes on collisions (e.g. -copy2, -copy3) and open the new file immediately."
 
     stats: {
-        downloads:  314
+        downloads:  343
         updated_at: 1779869698000
     }
 }

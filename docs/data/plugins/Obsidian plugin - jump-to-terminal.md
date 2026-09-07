@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jump-to-terminal
 alt:
   - https://github.com/maropark/obsidian-jump-to-terminal
-downloads: 139
+downloads: 168
 updated at: "2026-04-16T20:33:25Z"
 related to:
   - "[[GitHub - 1211664438]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a system terminal in the current note's folder from the command palette or via right-click in the editor or file explorer. Use preconfigured terminals on macOS, Linux, and Windows or define a custom command with {dir} as the directory placeholder."
 
     stats: {
-        downloads:  139
+        downloads:  168
         updated_at: 1776371605000
     }
 }

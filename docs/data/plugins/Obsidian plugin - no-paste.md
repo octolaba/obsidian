@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/no-paste
 alt:
   - https://github.com/london-chen/no-paste
-downloads: 64
+downloads: 70
 updated at: "2026-06-02T03:25:08Z"
 related to:
   - "[[GitHub - 1256712606]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Block paste actions in Obsidian's Markdown editors while enabled. Show a short notice when pasted text is rejected and run silently with no commands, buttons, context-menu items, or settings. Avoid treating it as an originality/AI/anti-cheat detector — it won't block imports, sync, drag-and-drop, external automation, plugin APIs, or edits outside Obsidian."
 
     stats: {
-        downloads:  64
+        downloads:  70
         updated_at: 1780370708000
     }
 }

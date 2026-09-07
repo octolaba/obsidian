@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mpv-links
 alt:
   - https://github.com/patsh90/mpv-obsidian-plugin
-downloads: 558
+downloads: 828
 updated at: "2026-05-31T08:17:17Z"
 related to:
   - "[[GitHub - 804179989]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add buttons that link to local video files and open them in mpv at a saved timestamp. Save and update playback timestamps automatically on close and keep links portable using mpv_link code blocks with relative or absolute paths for relocalization."
 
     stats: {
-        downloads:  558
+        downloads:  828
         updated_at: 1780215437000
     }
 }

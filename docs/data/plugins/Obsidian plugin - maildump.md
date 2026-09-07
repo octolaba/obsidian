@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/maildump
 alt:
   - https://github.com/akudlay-ru/MailDump
-downloads: 120
+downloads: 150
 updated at: "2026-07-13T07:39:53Z"
 related to:
   - "[[GitHub - 1226432973]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export selected IMAP folders into a single analysis-ready Markdown digest that preserves messages, metadata, subject-based threads, contacts, and optional attachments. Identify unanswered items, strip reply chains and signatures, and save presets for repeat exports."
 
     stats: {
-        downloads:  120
+        downloads:  150
         updated_at: 1783928393000
     }
 }

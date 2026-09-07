@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/neoloopy
 alt:
   - https://github.com/frozenabe/neoloopy-obsidian
-downloads: 298
+downloads: 386
 updated at: "2026-07-22T10:13:20Z"
 related to:
   - "[[GitHub - 1274000701]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Build causal-loop diagrams in your vault using Markdown notes as variables and links as causal arrows with polarity. Use an interactive canvas to draw and edit links, mark delays, indirect or nonlinear links, auto-detect and label reinforcing (R) and balancing (B) loops, navigate loops, and export as JSON, Markdown, or Mermaid while keeping everything local."
 
     stats: {
-        downloads:  298
+        downloads:  386
         updated_at: 1784715200000
     }
 }

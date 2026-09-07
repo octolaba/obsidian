@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-template-trigger
 alt:
   - https://github.com/numeroflip/obsidian-auto-template-trigger
-downloads: 38285
+downloads: 39302
 updated at: "2025-07-28T21:36:22Z"
 related to:
   - "[[GitHub - 631552030]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Apply templates automatically to new notes and show a template selector when multiple templates match. Assign templates to folders so the most specific folder path takes precedence, or disable prompts to always use folder-specific templates."
 
     stats: {
-        downloads:  38285
+        downloads:  39302
         updated_at: 1753738582000
     }
 }

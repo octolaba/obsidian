@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/random-numbers-generator
 alt:
   - https://github.com/irewiewer/obsidian-random-numbers-generator-plugin
-downloads: 3227
+downloads: 3258
 updated at: "2026-05-13T05:41:00Z"
 related to:
   - "[[GitHub - 723789306]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate a random number and insert it into your note via the command palette or a hotkey. Set a seed, define low and high bounds, and toggle whether to append a trailing space after the generated number."
 
     stats: {
-        downloads:  3227
+        downloads:  3258
         updated_at: 1778650860000
     }
 }

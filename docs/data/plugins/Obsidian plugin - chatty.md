@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chatty
 alt:
   - https://github.com/ssaquif/obsidian-chatty
-downloads: 4478
+downloads: 4722
 updated at: "2025-10-13T17:26:50Z"
 related to:
   - "[[GitHub - 1025283742]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hear notes using the browser's built-in speech synthesis and your system voices, with no external APIs. Select text and speak it via the context menu or a hotkey, using installed system languages (tested on Windows)."
 
     stats: {
-        downloads:  4478
+        downloads:  4722
         updated_at: 1760376410000
     }
 }

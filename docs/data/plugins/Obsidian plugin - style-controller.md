@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/style-controller
 alt:
   - https://github.com/jqml/style-controller
-downloads: 59
-updated at: "2026-07-19T16:51:09Z"
+downloads: 166
+updated at: "2026-08-01T22:45:20Z"
 related to:
   - "[[GitHub - 1300833557]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage reusable style profiles, path-specific overrides, and visual settings from a native settings interface. Generate runtime CSS scoped to open notes (no theme or snippet edits), control typography, headings, links, tables, code, callouts, images and explorer styling, and import/export profiles."
 
     stats: {
-        downloads:  59
-        updated_at: 1784479869000
+        downloads:  166
+        updated_at: 1785624320000
     }
 }
 ```

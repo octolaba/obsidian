@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sticky-heading
 alt:
   - https://github.com/imshenshen/obsidian-sticky-heading
-downloads: 5597
+downloads: 5673
 updated at: "2025-06-18T08:57:54Z"
 related to:
   - "[[GitHub - 746505931]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display current heading(s) pinned to the top of the editor as you scroll to keep track of your section and heading level. Show multiple sticky levels and update them dynamically while navigating the document. Limit operation to edit mode only."
 
     stats: {
-        downloads:  5597
+        downloads:  5673
         updated_at: 1750237074000
     }
 }

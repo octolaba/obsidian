@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/go-playground
 alt:
   - https://github.com/huluntuntao/go-playground-plugin-for-obsidian
-downloads: 130
+downloads: 138
 updated at: "2026-01-30T11:46:15Z"
 related to:
   - "[[GitHub - 1145674001]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run, format, and share Go code snippets directly in Obsidian using the Go Playground API. Insert snippets from Go Playground share links or IDs and change the API endpoint to use third‑party playgrounds; supports English, 简体中文, 繁體中文."
 
     stats: {
-        downloads:  130
+        downloads:  138
         updated_at: 1769773575000
     }
 }

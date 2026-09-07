@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/cm-code-editor
 alt:
   - https://github.com/gapmiss/cm-code-editor
-downloads: 99
-updated at: "2026-07-18T19:46:33Z"
+downloads: 182
+updated at: "2026-07-24T21:41:17Z"
 related to:
   - "[[GitHub - 1285200690]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Edit code files inside Obsidian with a CodeMirror 6 editor offering syntax highlighting for 20+ languages and 45+ themes. Use autocompletion for JavaScript, TypeScript, CSS, HTML, SQL and Python plus code folding, indent guides, multiple cursors, bracket matching, search/replace and line numbers. Create new code files from a command or context menu."
 
     stats: {
-        downloads:  99
-        updated_at: 1784403993000
+        downloads:  182
+        updated_at: 1784929277000
     }
 }
 ```

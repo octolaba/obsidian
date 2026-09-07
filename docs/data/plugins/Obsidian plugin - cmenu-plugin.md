@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cmenu-plugin
 alt:
   - https://github.com/chetachiezikeuzor/cMenu-Plugin
-downloads: 233285
+downloads: 235336
 updated at: "2021-09-14T05:31:28Z"
 related to:
   - "[[GitHub - 384230510]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a minimal, user-friendly text-editor modal for focused writing and editing without memorizing dozens of hotkeys. Use a configurable menu bar to apply formatting (bold, italics, strikethrough, underline, superscript, subscript, code, codeblock, blockquote) and add any Obsidian command."
 
     stats: {
-        downloads:  233285
+        downloads:  235336
         updated_at: 1631597488000
     }
 }

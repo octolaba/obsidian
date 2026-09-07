@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/instant-above-divider
 alt:
   - https://github.com/sedationh/obsidian-instant-above-divider
-downloads: 824
+downloads: 833
 updated at: "2025-10-11T06:28:16Z"
 related to:
   - "[[GitHub - 886749725]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert a divider line (---) at the start of the current note, automatically moving the cursor and placing the divider after frontmatter or after a heading when configured. View a document outline listing headings and dividers (showing the first N characters after dividers) and click items to jump to sections."
 
     stats: {
-        downloads:  824
+        downloads:  833
         updated_at: 1760164096000
     }
 }

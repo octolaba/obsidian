@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/frontmatter-link-classes
 alt:
   - https://github.com/zmeeeeeva/obsidian-plugin-metadata-link-classes
-downloads: 389
+downloads: 400
 updated at: "2025-06-10T18:50:06Z"
 related to:
   - "[[GitHub - 999703538]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add CSS classes to internal links based on a note’s frontmatter metadata. Handle boolean, string, and array keys to create predictable classes (e.g. .link-publish-true, .link-tags-todo, .link-type-lorem-ipsum) for styling via custom CSS."
 
     stats: {
-        downloads:  389
+        downloads:  400
         updated_at: 1749581406000
     }
 }

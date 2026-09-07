@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/vaultquery
 alt:
   - https://github.com/bobstanton/vaultquery
-downloads: 573
-updated at: "2026-07-15T01:02:48Z"
+downloads: 817
+updated at: "2026-08-03T14:27:20Z"
 related to:
   - "[[GitHub - 1125820679]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Query and modify your vault with SQL (SELECT/INSERT/UPDATE/DELETE) by indexing notes, frontmatter, tables, tasks, headings, links, and tags into a SQLite database. Render results as SlickGrid, Markdown tables, Chart.js charts, or custom HTML, and create SQL views or JavaScript scalar functions for reusable logic. View documentation at https://vaultquery.stanton.dev/ Try in a sandbox at https://sandbox.obsidian.stanton.dev/"
 
     stats: {
-        downloads:  573
-        updated_at: 1784077368000
+        downloads:  817
+        updated_at: 1785767240000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ttrpg-campaign-manager
 alt:
   - https://github.com/wesswart77/obsidian-ttrpg
-downloads: 783
+downloads: 1037
 updated at: "2026-05-24T20:06:57Z"
 related to:
   - "[[GitHub - 1248532951]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage TTRPG campaigns in Obsidian. Create NPCs, session logs, quests, locations, factions, and loot entries, then browse NPCs, sessions, and quests per campaign from a dedicated sidebar."
 
     stats: {
-        downloads:  783
+        downloads:  1037
         updated_at: 1779653217000
     }
 }

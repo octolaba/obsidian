@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/checkbox-reorder
 alt:
   - https://github.com/erl-koenig/obsidian-checkboxReorder
-downloads: 7073
+downloads: 7317
 updated at: "2026-06-30T10:53:05Z"
 related to:
   - "[[GitHub - 682737582]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reorder completed checkboxes to the end of their list, placing half-checked items between checked and unchecked. Choose Top/Bottom sorting and run the Reorder checkboxes command from the command palette or bind a shortcut."
 
     stats: {
-        downloads:  7073
+        downloads:  7317
         updated_at: 1782816785000
     }
 }

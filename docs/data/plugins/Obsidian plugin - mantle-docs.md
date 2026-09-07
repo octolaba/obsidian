@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mantle-docs
 alt:
   - https://github.com/carnalmatrix/obsidian-mantle-docs
-downloads: 201
+downloads: 235
 updated at: "2026-05-31T20:56:25Z"
 related to:
   - "[[GitHub - 1255443162]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Mantle Docs is a high-performance, read-only document viewer tailored for code and raw data files inside your Obsidian vault. If you store JSON configs, script files, CSS, CSVs, or YAML records in your vault, this plugin lets you view them with full syntax highlighting without triggering editor-keystroke lag or accidental edits. Built with virtualisation, it handles large codebases and files smoothly. Code controls let you toggle line numbers, wrap text, and copy snippets with a single click. It adopts custom styling from the Zenith theme for unified code block formatting."
 
     stats: {
-        downloads:  201
+        downloads:  235
         updated_at: 1780260985000
     }
 }

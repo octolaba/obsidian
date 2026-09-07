@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graph-context-for-claude-code
 alt:
   - https://github.com/senna-lang/graph-context-for-claude-code
-downloads: 339
+downloads: 398
 updated at: "2026-06-04T02:06:22Z"
 related to:
   - "[[GitHub - 1256612400]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Attach Obsidian's expanded graph context to Claude Code IDE via the MCP IDE picker so Claude Code sees the note you're editing and the text you select. Resolve and inline ![[embeds]], summarize [[wikilinks]] (frontmatter + first paragraph), include heading path, frontmatter and backlinks, and push the full context with the selection in a single payload."
 
     stats: {
-        downloads:  339
+        downloads:  398
         updated_at: 1780538782000
     }
 }

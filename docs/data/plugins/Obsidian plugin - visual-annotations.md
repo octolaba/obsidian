@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/visual-annotations
 alt:
   - https://github.com/alinefan/linqq-handwritten-annotation-plugin
-downloads: 24
-updated at: "2026-07-23T08:29:22Z"
+downloads: 156
+updated at: "2026-07-28T14:58:51Z"
 related to:
   - "[[GitHub - 1308855896]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add colorful handwritten-style annotations to selected Markdown without altering or reflowing the prose. Place labels above or below paragraphs with curved arrows that stay attached when text wraps, auto-allocate lanes to prevent collisions, and store editable annotations as portable HTML."
 
     stats: {
-        downloads:  24
-        updated_at: 1784795362000
+        downloads:  156
+        updated_at: 1785250731000
     }
 }
 ```

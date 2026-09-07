@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/scholia
 alt:
   - https://github.com/shashanyu/Scholia
-downloads: 132
+downloads: 195
 updated at: "2026-05-17T08:13:55Z"
 related to:
   - "[[GitHub - 1228224706]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import academic PDFs into per-paper folders and convert them to Markdown for close reading. Generate key-sentence highlights, extract likely technical terms into a local Markdown glossary, and show cached, paper-grounded explanations on hover with an explicit Explain action when needed."
 
     stats: {
-        downloads:  132
+        downloads:  195
         updated_at: 1779005635000
     }
 }

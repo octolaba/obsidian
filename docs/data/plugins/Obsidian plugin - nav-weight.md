@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nav-weight
 alt:
   - https://github.com/shu307/obsidian-nav-weight
-downloads: 445
+downloads: 481
 updated at: "2024-11-19T05:53:36Z"
 related to:
   - "[[GitHub - 874807592]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sort navigation files and folders by the Markdown frontmatter weight value to control ordering in the sidebar. Use an index file's weight to order folders and view status icons in the status bar for headless, empty, or retitled items; toggle sorting from the left ribbon."
 
     stats: {
-        downloads:  445
+        downloads:  481
         updated_at: 1731995616000
     }
 }

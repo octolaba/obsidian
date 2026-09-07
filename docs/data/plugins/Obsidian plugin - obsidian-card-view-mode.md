@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-card-view-mode
 alt:
   - https://github.com/yo-goto/obsidian-card-view-mode
-downloads: 19895
+downloads: 19969
 updated at: "2021-10-02T16:25:33Z"
 related to:
   - "[[GitHub - 322347611]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display notes as adjustable cards that scale with content to visualize note maturity and encourage atomic writing. Highlight the active pane and dim others with an Attention Pane to focus on a single note. Customize card colors, shapes, and sizing to match your workflow."
 
     stats: {
-        downloads:  19895
+        downloads:  19969
         updated_at: 1633191933000
     }
 }

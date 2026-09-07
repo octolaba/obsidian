@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/birthday-reminder
 alt:
   - https://github.com/ichris007/Obsidian-Birthday-Reminder
-downloads: 709
+downloads: 824
 updated at: "2026-07-16T04:19:04Z"
 related to:
   - "[[GitHub - 1187811824]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage and track birthdays with automatic next-birthday and age calculations, Gregorian/Lunar conversion, and zodiac/Chinese animal signs. Display upcoming birthdays with stats cards and an intelligent monthly calendar, filter by folder, and jump from calendar cells to the corresponding notes."
 
     stats: {
-        downloads:  709
+        downloads:  824
         updated_at: 1784175544000
     }
 }

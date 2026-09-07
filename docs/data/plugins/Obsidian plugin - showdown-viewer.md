@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/showdown-viewer
 alt:
   - https://github.com/watsonlu/obsidian-showdown-viewer
-downloads: 90
+downloads: 109
 updated at: "2026-06-16T13:12:33Z"
 related to:
   - "[[GitHub - 1270776460]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Pokémon teams in Pokémon Showdown format as clean, readable cards inside Obsidian. Paste a \"showdown\" code block to display each Pokémon's species, item, ability, EVs, nature, and moves in a formatted view."
 
     stats: {
-        downloads:  90
+        downloads:  109
         updated_at: 1781615553000
     }
 }

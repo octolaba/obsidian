@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/journal-mode
 alt:
   - https://github.com/ktgoldwolf/journal-mode
-downloads: 111
-updated at: "2026-07-08T04:13:27Z"
+downloads: 228
+updated at: "2026-08-03T00:04:25Z"
 related to:
   - "[[GitHub - 1291876798]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add animated text, color accents, and digital washi tape to your notes using minimal inline markup that stays readable in raw Markdown. Apply effects in edit and preview on desktop and mobile, combine tags like rainbow and sparkle, and tweak styles with plain CSS for custom looks."
 
     stats: {
-        downloads:  111
-        updated_at: 1783484007000
+        downloads:  228
+        updated_at: 1785715465000
     }
 }
 ```

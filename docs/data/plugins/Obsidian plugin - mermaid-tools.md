@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mermaid-tools
 alt:
   - https://github.com/dartungar/obsidian-mermaid
-downloads: 316550
+downloads: 324420
 updated at: "2026-05-18T10:11:33Z"
 related to:
   - "[[GitHub - 554218360]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a Mermaid toolbar and insert common Mermaid.js building blocks into the editor with one click. Create, edit, delete, and reorder custom elements to build reusable diagram snippets; elements are wrapped as complete diagrams for rendering."
 
     stats: {
-        downloads:  316550
+        downloads:  324420
         updated_at: 1779099093000
     }
 }

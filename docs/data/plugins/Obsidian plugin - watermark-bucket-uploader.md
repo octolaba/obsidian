@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/watermark-bucket-uploader
 alt:
   - https://github.com/firstsun-dev/watermark-bucket-uploader
-downloads: 69
+downloads: 85
 updated at: "2026-06-16T13:20:44Z"
 related to:
   - "[[GitHub - 1195129320]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Intercept image paste and drop events, apply canvas-based text or logo watermarks, convert to WebP and compress images, then upload to Cloudflare R2 or any S3-compatible storage. Insert the resulting URL as a Markdown image link, preview watermarks live, and optionally save files locally or upload videos, audio and PDFs."
 
     stats: {
-        downloads:  69
+        downloads:  85
         updated_at: 1781616044000
     }
 }

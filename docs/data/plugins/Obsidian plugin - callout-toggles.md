@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/callout-toggles
 alt:
   - https://github.com/alythobani/obsidian-callout-toggles
-downloads: 4903
+downloads: 5177
 updated at: "2026-07-04T21:36:25Z"
 related to:
   - "[[GitHub - 858327507]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Adds convenience commands that enable you to instantly create a new callout, turn existing text into a callout, remove a callout (turn it back into regular text), or switch the type of an existing callout... all without leaving the keyboard. Enjoy making your notes more visual and fun!"
 
     stats: {
-        downloads:  4903
+        downloads:  5177
         updated_at: 1783200985000
     }
 }

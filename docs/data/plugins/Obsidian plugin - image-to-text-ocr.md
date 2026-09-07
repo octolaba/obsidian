@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-to-text-ocr
 alt:
   - https://github.com/dario-baumberger/obsidian-image-to-text-ocr
-downloads: 5859
+downloads: 6091
 updated at: "2026-04-30T10:55:37Z"
 related to:
   - "[[GitHub - 747435072]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extract text from images in your notes. Select an image and run commands to append or replace the image with recognized text, choosing the recognition language and handling common image tags and formats (Obsidian links, Markdown, URLs)."
 
     stats: {
-        downloads:  5859
+        downloads:  6091
         updated_at: 1777546537000
     }
 }

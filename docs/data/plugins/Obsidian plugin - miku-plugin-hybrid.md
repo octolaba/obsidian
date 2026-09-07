@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/miku-plugin-hybrid
 alt:
   - https://github.com/bucknatt/mitsu-plugin
-downloads: 179
+downloads: 194
 updated at: "2026-06-17T15:09:34Z"
 related to:
   - "[[GitHub - 1223788899]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Apply Hatsune Miku–inspired hybrid styling and a bundled palette across Obsidian without requiring a separate Appearance theme. Cycle through MinimalMiku, Concert, NightNeon and SnowMiku Ribbon modes, add optional status bar, banner, quote and profile widgets, and open a Miku dashboard with original ASCII presets. Ship with no audio assets, APIs, or dependencies."
 
     stats: {
-        downloads:  179
+        downloads:  194
         updated_at: 1781708974000
     }
 }

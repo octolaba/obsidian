@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/ratel-vault
 alt:
   - https://github.com/golddream-y/obsidian-ratel
-downloads: 58
-updated at: "2026-07-17T16:16:04Z"
+downloads: 153
+updated at: "2026-08-11T14:54:26Z"
 related to:
   - "[[GitHub - 1261865539]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Ratel turns your vault into a workspace you can talk to. Ask questions and get answers with numbered citations you can open in one click. Give it a multi-step job—\"pull my product notes into a briefing doc\"—and it searches, reads, synthesizes, and writes, asking before it changes anything. What makes it different: • Graph-native: built for linked notes—every answer grounds in your vault and cites its sources. • Private by design: indexing and embeddings run locally by default; network traffic goes only to the AI provider you configure. No telemetry. • Your model, your keys: DeepSeek, Claude, or fully offline with Ollama. Keys live in the system keychain. • You stay in control: per-tool permissions, confirmation before edits, status and diagnostics built in. • It grows with you: it remembers your preferences and learns new workflows from simple Markdown skills. Start in two minutes: pick a model preset, let the first index finish, and ask what you wrote about anything."
 
     stats: {
-        downloads:  58
-        updated_at: 1784304964000
+        downloads:  153
+        updated_at: 1786460066000
     }
 }
 ```

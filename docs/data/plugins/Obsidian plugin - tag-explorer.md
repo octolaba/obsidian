@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tag-explorer
 alt:
   - https://github.com/jorritvanderheide/obsidian-tag-explorer
-downloads: 149
+downloads: 190
 updated at: "2026-05-20T10:33:48Z"
 related to:
   - "[[GitHub - 1169874079]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Navigate your vault through a tag-generated folder tree where each tag namespace becomes an independent folder and notes tagged in multiple namespaces appear in each place like a symlink. Assign custom icons, show item counts, isolate namespaces or apply cross-namespace filters, and rely on namespace-aware deduplication and prefix-based ignoreTag matching for accurate listings."
 
     stats: {
-        downloads:  149
+        downloads:  190
         updated_at: 1779273228000
     }
 }

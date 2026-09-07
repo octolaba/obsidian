@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/text-progress-bar
 alt:
   - https://github.com/michaeladams/obsidian-text-progress-bar
-downloads: 7598
+downloads: 7622
 updated at: "2023-04-28T10:43:38Z"
 related to:
   - "[[GitHub - 531465768]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert text-based and emoji progress bars into notes using a text-progress-bar code block. Customize fill/empty characters and transitions, show decimal partial progress, and group multiple labeled bars in one block."
 
     stats: {
-        downloads:  7598
+        downloads:  7622
         updated_at: 1682678618000
     }
 }

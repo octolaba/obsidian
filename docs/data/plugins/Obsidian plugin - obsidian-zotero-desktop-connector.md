@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-zotero-desktop-connector
 alt:
   - https://github.com/obsidian-community/obsidian-zotero-integration
-downloads: 521782
+downloads: 533580
 updated at: "2024-08-11T15:48:42Z"
 related to:
   - "[[GitHub - 446166683]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert and import citations, bibliographies, item notes, and PDF annotations from Zotero into Obsidian. Use Better BibTeX in Zotero for compatible exports and formatted citations."
 
     stats: {
-        downloads:  521782
+        downloads:  533580
         updated_at: 1723391322000
     }
 }

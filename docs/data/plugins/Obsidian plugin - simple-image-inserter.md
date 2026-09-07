@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-image-inserter
 alt:
   - https://github.com/jdholtz/obsidian-image-inserter
-downloads: 1189
+downloads: 1280
 updated at: "2026-05-13T08:07:59Z"
 related to:
   - "[[GitHub - 740761122]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert images through a built-in file explorer without leaving Obsidian. Copy selected files into your vault and embed them directly into the current note."
 
     stats: {
-        downloads:  1189
+        downloads:  1280
         updated_at: 1778659679000
     }
 }

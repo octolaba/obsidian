@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/synaptic-view
 alt:
   - https://github.com/especialkim/obsidian-synaptic-view
-downloads: 1165
+downloads: 1205
 updated at: "2026-03-07T14:39:21Z"
 related to:
   - "[[GitHub - 1080903006]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Configure a dynamic Synaptic View dashboard to replace your static homepage with one-click access to files, searches, commands and embedded views. Create customizable smart buttons, view live task updates without opening notes, and open it on demand or set it to replace new tabs."
 
     stats: {
-        downloads:  1165
+        downloads:  1205
         updated_at: 1772894361000
     }
 }

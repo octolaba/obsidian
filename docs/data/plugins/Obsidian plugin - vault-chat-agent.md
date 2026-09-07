@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-chat-agent
 alt:
   - https://github.com/redzumi/vault-chat-agent
-downloads: 269
+downloads: 283
 updated at: "2026-06-08T09:53:54Z"
 related to:
   - "[[GitHub - 1246815498]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Chat with your vault via agentic Ask and Edit intents using OpenAI‑compatible chat completions and provider presets for local and remote models. Index notes, Canvas files, and metadata attachments with graph-aware retrieval (links, backlinks, neighboring chunks); preview and apply or reject edit patches; and use read-only tools to search and inspect notes with realtime reindexing."
 
     stats: {
-        downloads:  269
+        downloads:  283
         updated_at: 1780912434000
     }
 }

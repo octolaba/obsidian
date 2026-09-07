@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tabout
 alt:
   - https://github.com/phibr0/obsidian-tabout
-downloads: 11641
+downloads: 11738
 updated at: "2024-06-24T09:55:26Z"
 related to:
   - "[[GitHub - 397631401]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Press Tab to jump the cursor next to surrounding markup (brackets, quotes, markdown tokens) so you can continue typing without extra keystrokes. Add custom rules per environment to define which characters Tab jumps to."
 
     stats: {
-        downloads:  11641
+        downloads:  11738
         updated_at: 1719222926000
     }
 }

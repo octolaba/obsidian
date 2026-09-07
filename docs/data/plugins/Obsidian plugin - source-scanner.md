@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/source-scanner
 alt:
   - https://github.com/gerrie-myburgh/source-scanner
-downloads: 342
+downloads: 355
 updated at: "2026-03-29T11:16:49Z"
 related to:
   - "[[GitHub - 658334089]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scan any text or source files for marked comment blocks and extract them as Markdown notes. Preserve a user-defined folder hierarchy (e.g., EPIC/ITEM/TEST) when generating documentation and parse quickly with Rust executables."
 
     stats: {
-        downloads:  342
+        downloads:  355
         updated_at: 1774783009000
     }
 }

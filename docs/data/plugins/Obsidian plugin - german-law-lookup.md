@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/german-law-lookup
 alt:
   - https://github.com/gammafunds/german-law-lookup
-downloads: 130
+downloads: 156
 updated at: "2026-07-17T10:21:53Z"
 related to:
   - "[[GitHub - 1246971540]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Look up supported German federal law references in Obsidian and preview official German or published English law text before inserting. Insert formatted law text into the active note with optional source, reference, retrieval date and cache metadata, defaulting to official German text and restricting lookups to supported federal laws only."
 
     stats: {
-        downloads:  130
+        downloads:  156
         updated_at: 1784283713000
     }
 }

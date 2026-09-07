@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/better-vim
 alt:
   - https://github.com/nilsgke/obsidian-better-vim
-downloads: 474
+downloads: 686
 updated at: "2026-06-06T20:18:04Z"
 related to:
   - "[[GitHub - 1157494438]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add enhancements to Obsidian's built-in Vim mode. Highlight yanked text, insert a bullet point on new lines, and copy yanks to the system clipboard."
 
     stats: {
-        downloads:  474
+        downloads:  686
         updated_at: 1780777084000
     }
 }

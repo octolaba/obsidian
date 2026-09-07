@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-jsonifier
 alt:
   - https://github.com/kjellconnelly/obsidian-jsonifier
-downloads: 6727
+downloads: 6797
 updated at: "2021-01-25T18:08:45Z"
 related to:
   - "[[GitHub - 332539001]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert highlighted text into a JSON string or back into original text using JSON.stringify and JSON.parse. Copy results to the clipboard and validate JSON on the fly by parsing selections to catch invalid JSON."
 
     stats: {
-        downloads:  6727
+        downloads:  6797
         updated_at: 1611598125000
     }
 }

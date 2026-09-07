@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tag-page-md
 alt:
   - https://github.com/mjsumpter/obsidian-tag-page
-downloads: 12540
+downloads: 12640
 updated at: "2025-12-27T05:26:17Z"
 related to:
   - "[[GitHub - 686285740]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and manage Markdown pages for tags, seeding pages with a tag-page block to mix generated tag content with your own notes. Render tag content inline via a tag-page code block, include matching lines or bulleted sub-items, scope nested tags, and customize storage, sorting, titles, links, and reference placement."
 
     stats: {
-        downloads:  12540
+        downloads:  12640
         updated_at: 1766813177000
     }
 }

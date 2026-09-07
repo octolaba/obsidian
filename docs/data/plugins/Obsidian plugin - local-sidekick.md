@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/local-sidekick
 alt:
   - https://github.com/hpuntu/obsidian-sidekick
-downloads: 225
+downloads: 266
 updated at: "2026-07-02T11:41:41Z"
 related to:
   - "[[GitHub - 1247062051]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a local-first agent chat in a right-hand sidebar using Ollama and Pi models. Keep persistent sessions, reference vault files with @mentions, render Markdown and math, and query notes with @search and @semantic for vault-aware context and conservative file linking."
 
     stats: {
-        downloads:  225
+        downloads:  266
         updated_at: 1782992501000
     }
 }

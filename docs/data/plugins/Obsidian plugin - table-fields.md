@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/table-fields
 alt:
   - https://github.com/fyaic/Table-Fields-Plugin
-downloads: 58
+downloads: 216
 updated at: "2026-07-21T02:18:56Z"
 related to:
   - "[[GitHub - 1306532831]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Your Markdown tables, but you can actually click them — tick checkboxes, pick from dropdowns, and see dates and money formatted nicely — all inside your note."
 
     stats: {
-        downloads:  58
+        downloads:  216
         updated_at: 1784600336000
     }
 }

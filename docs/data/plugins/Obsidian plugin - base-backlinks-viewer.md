@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/base-backlinks-viewer
 alt:
   - https://github.com/lumyo/obsidian-base-backlinks-viewer
-downloads: 381
+downloads: 462
 updated at: "2026-03-07T19:25:35Z"
 related to:
   - "[[GitHub - 1175482486]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "This plugin adds a convenient “Show backlinks” option directly to the right-click menu of any internal link. Instead of opening the standard backlinks pane, it launches a reusable live Bases view filtered to display every note linking to the selected page, with customizable sorting, columns, and layouts that persist between searches. It even works for unresolved links, making it a powerful way to treat [[Category]]-style links as dynamic topic hubs without needing to create dedicated notes or separate base files"
 
     stats: {
-        downloads:  381
+        downloads:  462
         updated_at: 1772911535000
     }
 }

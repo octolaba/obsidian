@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/watch-later-synthesizer
 alt:
   - https://github.com/ibrh96-prog/obsidian-watch-later-synthesizer
-downloads: 91
+downloads: 106
 updated at: "2026-06-30T15:17:54Z"
 related to:
   - "[[GitHub - 1275976244]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Triage your YouTube watch-later backlog with per-video watch/skip verdicts, recurring themes, and a conservative \"safe to delete\" list. Analyze only metadata (title, channel, description, duration) to flag time-sensitive items, surface patterns across videos, and avoid producing per-video summaries."
 
     stats: {
-        downloads:  91
+        downloads:  106
         updated_at: 1782832674000
     }
 }

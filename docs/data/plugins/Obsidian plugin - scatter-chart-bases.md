@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/scatter-chart-bases
 alt:
   - https://github.com/martinseeler/obsidian-scatter
-downloads: 628
+downloads: 640
 updated at: "2025-12-12T07:23:53Z"
 related to:
   - "[[GitHub - 1107640500]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn Bases tables into interactive scatter plots by mapping two numeric properties to X and Y. Click dots to open notes, hover for previews, color points by category, and rely on auto-scaled axes with graceful handling of missing values."
 
     stats: {
-        downloads:  628
+        downloads:  640
         updated_at: 1765524233000
     }
 }

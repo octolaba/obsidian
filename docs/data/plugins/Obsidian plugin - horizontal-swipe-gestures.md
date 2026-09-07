@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/horizontal-swipe-gestures
 alt:
   - https://github.com/justinrosales/obsidian-swipe-gestures
-downloads: 48
+downloads: 80
 updated at: "2026-07-13T00:05:01Z"
 related to:
   - "[[GitHub - 1287162266]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Map two-finger horizontal trackpad swipes to any Obsidian command, defaulting to back and forward navigation. Adjust swipe sensitivity and horizontal dominance, enable macOS momentum filtering, and show a visual half-circle indicator at the note edge when a swipe triggers."
 
     stats: {
-        downloads:  48
+        downloads:  80
         updated_at: 1783901101000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/another-dynamic-highlights
 alt:
   - https://github.com/tine-schreibt/aDHL
-downloads: 9715
+downloads: 10087
 updated at: "2026-05-30T18:56:13Z"
 related to:
   - "[[GitHub - 906995048]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create persistent, customizable highlights across your vault with regex and capture-group support for precise matching. Choose colors, styles and tags, set minimum selection length (works down to single Chinese characters), toggle highlights on/off and import/export highlighter sets."
 
     stats: {
-        downloads:  9715
+        downloads:  10087
         updated_at: 1780167373000
     }
 }

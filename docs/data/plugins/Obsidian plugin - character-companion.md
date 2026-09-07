@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/character-companion
 alt:
   - https://github.com/devilsurvivor2/character-companion
-downloads: 59
-updated at: "2026-07-08T04:42:47Z"
+downloads: 98
+updated at: "2026-08-09T12:09:39Z"
 related to:
   - "[[GitHub - 1291649540]]"
 remind me:
@@ -22,7 +22,7 @@ remind me:
 
 # Character Companion
 
-Character Companion animates character sprites in the side panel and along the bottom edge of the window, where they walk, rest and idle and show speech bubbles. Sprites can be images, folders or emoji, and they react to being clicked, grabbed and dropped. An optional comment feed in Stream, Oracle, Mail or Blog form is generated locally and runs offline on desktop.
+Places user-supplied characters in the side panel and along the bottom of the window, where they walk, rest and idle and can show speech bubbles. They react to clicking, grabbing and dropping, and sprites can be images, folders or emoji. An optional comment feed in Stream, Oracle, Mail or Blog form is generated locally and runs offline on desktop.
 
 ```cue
 plugin: {
@@ -33,12 +33,12 @@ plugin: {
 
     html_url:    "https://community.obsidian.md/plugins/character-companion"
     github_url:  "https://github.com/devilsurvivor2/character-companion"
-    description: "Shows animated character sprites living in the side panel and walking along the bottom edge, with click animations, speech bubbles, and an optional reactive comment feed. - This plugin has not been manually reviewed by Obsidian staff."
-    about:       "Animate character sprites in the side panel and along the window bottom, with walking, resting, and idling behaviors, plus speech bubbles. Interact by clicking, grabbing, or dropping. Use images, folders or emoji as sprites. Enable an optional locally-generated comment feed (Stream/Oracle/Mail/Blog) that runs offline on desktop."
+    description: "A customizable stage for your own characters, living in the side panel and walking along the bottom edge, with click animations, speech bubbles, and an optional reactive comment feed. - This plugin has not been manually reviewed by Obsidian staff."
+    about:       "A customizable stage for your own characters, in the side panel and along the window bottom, with walking, resting, and idling behaviors, plus speech bubbles. Interact by clicking, grabbing, or dropping. Use images, folders or emoji as sprites. Enable an optional locally-generated comment feed (Stream/Oracle/Mail/Blog) that runs offline on desktop."
 
     stats: {
-        downloads:  59
-        updated_at: 1783485767000
+        downloads:  98
+        updated_at: 1786277379000
     }
 }
 ```

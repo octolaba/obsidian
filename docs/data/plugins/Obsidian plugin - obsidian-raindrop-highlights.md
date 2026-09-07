@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-raindrop-highlights
 alt:
   - https://github.com/kaiiiz/obsidian-raindrop-highlights-plugin
-downloads: 32387
+downloads: 32645
 updated at: "2026-05-23T17:42:57Z"
 related to:
   - "[[GitHub - 512755260]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Raindrop.io article highlights and annotations into your Obsidian vault, preserving nested collections and bookmark deletions. Update notes by appending or overwriting highlights, customize file content/frontmatter/filenames with Nunjucks templates, and schedule automatic interval syncs."
 
     stats: {
-        downloads:  32387
+        downloads:  32645
         updated_at: 1779558177000
     }
 }

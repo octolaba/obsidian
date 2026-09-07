@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/smart-lookup
 alt:
   - https://github.com/brianpetro/smart-lookup-obsidian
-downloads: 43945
-updated at: "2026-05-30T12:52:03Z"
+downloads: 51398
+updated at: "2026-08-06T01:56:11Z"
 related to:
   - "[[GitHub - 1193723945]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Ask plain-language questions to search your vault by meaning, not exact words. Preview semantic matches, expand promising results, and open, link, copy, or package the best match into your workflow."
 
     stats: {
-        downloads:  43945
-        updated_at: 1780145523000
+        downloads:  51398
+        updated_at: 1785981371000
     }
 }
 ```

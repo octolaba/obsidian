@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-tagfolder
 alt:
   - https://github.com/vrtmrz/obsidian-tagfolder
-downloads: 238845
-updated at: "2026-07-14T17:16:07Z"
+downloads: 245409
+updated at: "2026-08-11T03:02:47Z"
 related to:
   - "[[GitHub - 436541485]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Display tags as a collapsible folder tree generated from tag combinations, respecting nested tags and grouping notes by shared tags. Search with tag expressions and pin or redirect tags to customize the tree for faster navigation."
 
     stats: {
-        downloads:  238845
-        updated_at: 1784049367000
+        downloads:  245409
+        updated_at: 1786417367000
     }
 }
 ```

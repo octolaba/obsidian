@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-definitions
 alt:
   - https://github.com/dominiclet/obsidian-note-definitions
-downloads: 24942
+downloads: 25389
 updated at: "2026-03-09T13:36:21Z"
 related to:
   - "[[GitHub - 799112557]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create a personal, in-vault dictionary and underline defined words and phrases in your notes. Preview definitions by hovering or via command, jump to their files, and add or edit entries directly in your vault without hidden metadata."
 
     stats: {
-        downloads:  24942
+        downloads:  25389
         updated_at: 1773063381000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/multi-state-checkboxes
 alt:
   - https://github.com/wolfm/obsidian-multi-state-checkboxes
-downloads: 222
+downloads: 252
 updated at: "2026-05-29T04:06:58Z"
 related to:
   - "[[GitHub - 1241191055]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Cycle checkboxes through customizable statuses (e.g. not started, in progress, complete, cancelled) via left-click, right-click menu, or keyboard commands. Define your status list and cycle order. Use a theme that styles multi-state checkboxes to see distinct visuals; otherwise characters still change in the source."
 
     stats: {
-        downloads:  222
+        downloads:  252
         updated_at: 1780027618000
     }
 }

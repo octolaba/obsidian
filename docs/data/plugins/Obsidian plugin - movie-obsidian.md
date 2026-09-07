@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/movie-obsidian
 alt:
   - https://github.com/onuraycicek/obsidian-movie
-downloads: 9609
+downloads: 9679
 updated at: "2023-10-03T20:23:01Z"
 related to:
   - "[[GitHub - 646443755]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fetch movie metadata from OMDB and pull YouTube trailers into your vault, creating notes and saving poster images to your movies and assets folders. Search by title (include year in parentheses) or use an IMDB ID for exact matches."
 
     stats: {
-        downloads:  9609
+        downloads:  9679
         updated_at: 1696364581000
     }
 }

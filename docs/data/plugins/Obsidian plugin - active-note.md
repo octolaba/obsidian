@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/active-note
 alt:
   - https://github.com/davidszp/obsidian-active-note
-downloads: 407
+downloads: 491
 updated at: "2026-02-02T15:47:30Z"
 related to:
   - "[[GitHub - 1147833658]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Expose the active note and any selected text to external tools by writing a JSON pointer file (.obsidian/active-note.json). Include the vault-relative path plus optional selection text and 1-indexed start/end line numbers so scripts, CLIs, and assistants can read current context."
 
     stats: {
-        downloads:  407
+        downloads:  491
         updated_at: 1770047250000
     }
 }

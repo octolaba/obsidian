@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notebook-ai
 alt:
   - https://github.com/david46liu/obsidian-knowledge-ai
-downloads: 569
+downloads: 670
 updated at: "2026-05-16T03:19:53Z"
 related to:
   - "[[GitHub - 1238716427]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Ask questions and get cited answers anchored to exact source chunks in your vault. Generate study guides, timelines, mind maps, FAQs, briefings, and slide decks from any folder with multi-format indexing, OCR image understanding, and optional on-device or provider-based embeddings."
 
     stats: {
-        downloads:  569
+        downloads:  670
         updated_at: 1778901593000
     }
 }

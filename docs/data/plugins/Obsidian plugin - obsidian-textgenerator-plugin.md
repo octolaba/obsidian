@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-textgenerator-plugin
 alt:
   - https://github.com/nhaouari/obsidian-textgenerator-plugin
-downloads: 559314
+downloads: 567220
 updated at: "2026-04-27T16:17:35Z"
 related to:
   - "[[GitHub - 464105864]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate ideas, titles, summaries, outlines or full paragraphs from your notes using AI models directly in Obsidian. Create templates, use flexible prompt context and community templates, and switch providers (OpenAI, Google Gemini, Hugging Face) via frontmatter."
 
     stats: {
-        downloads:  559314
+        downloads:  567220
         updated_at: 1777306655000
     }
 }

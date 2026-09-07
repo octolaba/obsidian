@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/movie-search
 alt:
   - https://github.com/gubchik123/obsidian-movie-search-plugin
-downloads: 3875
+downloads: 3953
 updated at: "2024-03-29T09:20:09Z"
 related to:
   - "[[GitHub - 755987467]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create movie notes by searching films and selecting results to populate a new Markdown file with full movie metadata. Use templates and choose the target folder, and integrate with Templater and Dataview to render and script movie notes (TMDB API key supported)."
 
     stats: {
-        downloads:  3875
+        downloads:  3953
         updated_at: 1711704009000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mini-vimrc
 alt:
   - https://github.com/cabra-arretado/mini-vimrc-obsidian
-downloads: 5140
+downloads: 5172
 updated at: "2024-02-13T02:19:33Z"
 related to:
   - "[[GitHub - 681344992]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Load a .vimrc from your vault and apply its Vim key mappings to Obsidian's Vim mode. Support standard Vim commands (map, imap, nmap, vmap, noremap, inoremap, nnoremap, vnoremap, unmap) and treat Markdown or plain text files as .vimrc for in-vault editing."
 
     stats: {
-        downloads:  5140
+        downloads:  5172
         updated_at: 1707790773000
     }
 }

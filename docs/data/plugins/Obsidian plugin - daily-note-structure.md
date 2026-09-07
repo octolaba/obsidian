@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-note-structure
 alt:
   - https://github.com/db-developer/daily-note-structure
-downloads: 600
+downloads: 622
 updated at: "2026-01-18T22:22:05Z"
 related to:
   - "[[GitHub - 816754339]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Automate creation of nested folders and files for daily notes based on date-driven name patterns and templates. Define a FolderStructure (JSON-style) and use moment.js date formats plus custom week/month tokens (e.g., MOW, MoW) to generate consistent multi-file daily note setups."
 
     stats: {
-        downloads:  600
+        downloads:  622
         updated_at: 1768774925000
     }
 }

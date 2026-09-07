@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/bulkopen-selected-links
 alt:
   - https://github.com/autohub7/obsidian-open-selected-links
-downloads: 4372
+downloads: 4388
 updated at: "2026-01-26T00:41:04Z"
 related to:
   - "[[GitHub - 617769072]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open all selected links in edit mode at once. Choose to open them in tabs, windows, or splits for streamlined multi-link editing."
 
     stats: {
-        downloads:  4372
+        downloads:  4388
         updated_at: 1769388064000
     }
 }

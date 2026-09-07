@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cleanshot-embed
 alt:
   - https://github.com/janacm/cleanshot-embed-obsidian
-downloads: 78
+downloads: 84
 updated at: "2026-03-05T15:29:01Z"
 related to:
   - "[[GitHub - 1173633924]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render CleanShot share URLs (cln.sh/XXXX) as inline images in Reading view. Fetch fresh signed image URLs at render time and display images without saving files to your vault, falling back to the original link if fetching fails. Run on desktop only due to CORS bypass requirements."
 
     stats: {
-        downloads:  78
+        downloads:  84
         updated_at: 1772724541000
     }
 }

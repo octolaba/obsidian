@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/13th-age-statblocks
 alt:
   - https://github.com/ben/obsidian-13th-age-statblocks
-downloads: 4668
+downloads: 4692
 updated at: "2024-03-06T19:45:03Z"
 related to:
   - "[[GitHub - 445185922]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render 13th Age statblocks inline and draw on included SRD content to base your monsters. Create clean, formatted monster entries showing stats, attacks, defenses, and quick-reference details for game prep."
 
     stats: {
-        downloads:  4668
+        downloads:  4692
         updated_at: 1709754303000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-markmind
 alt:
   - https://github.com/markmindckm/obsidian-markmind
-downloads: 576115
-updated at: "2026-07-18T10:01:44Z"
+downloads: 585423
+updated at: "2026-08-01T08:37:38Z"
 related to:
   - "[[GitHub - 397634468]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create mind maps and outlines inside Obsidian with Basic and Rich modes, embed boards in notes, and convert rich maps to Markdown. Annotate and export PDFs, drag-and-drop images, copy/paste nodes, and include links, inline styles, multiline text, code and KaTeX in nodes."
 
     stats: {
-        downloads:  576115
-        updated_at: 1784368904000
+        downloads:  585423
+        updated_at: 1785573458000
     }
 }
 ```

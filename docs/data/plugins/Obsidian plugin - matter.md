@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/matter
 alt:
   - https://github.com/getmatterapp/obsidian-matter
-downloads: 20903
+downloads: 20939
 updated at: "2022-11-15T16:12:42Z"
 related to:
   - "[[GitHub - 430737324]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync all Matter highlights and notes directly into your Obsidian vault. Keep content updated automatically in the background after connecting your Matter account via QR pairing."
 
     stats: {
-        downloads:  20903
+        downloads:  20939
         updated_at: 1668528762000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/fileorganizer2000
 alt:
   - https://github.com/nexus-jpf/note-companion
-downloads: 41199
-updated at: "2026-07-04T12:04:43Z"
+downloads: 41757
+updated at: "2026-07-25T22:58:35Z"
 related to:
   - "[[GitHub - 689765175]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Turn messy captures into searchable notes by transcribing YouTube and audio/video, recording meetings, and generating transcripts, summaries, discussion points, and action items. Chat with your vault using file/folder/tag context and auto-organize notes with folder, tag, title and template suggestions; use cloud, your AI keys, or self-hosted models."
 
     stats: {
-        downloads:  41199
-        updated_at: 1783166683000
+        downloads:  41757
+        updated_at: 1785020315000
     }
 }
 ```

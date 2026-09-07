@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/safe-js
 alt:
   - https://github.com/mprojectscode/obsidian-safe-js-plugin
-downloads: 116
+downloads: 139
 updated at: "2026-07-05T18:52:20Z"
 related to:
   - "[[GitHub - 1236017638]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Run note-owned JavaScript in sandboxed Web Workers with a minimal, permission-gated host API that blocks DOM, Node, Electron, and direct Obsidian access. Declare permissions with leading comments, review approval prompts remembered per script source hash, and call validated api.* functions for vault, metadata, workspace, editor, UI, storage, and network operations."
 
     stats: {
-        downloads:  116
+        downloads:  139
         updated_at: 1783277540000
     }
 }

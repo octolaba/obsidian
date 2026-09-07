@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/previous-daily-note
 alt:
   - https://github.com/talau/obsidian-previous-daily-note
-downloads: 394
+downloads: 409
 updated at: "2025-03-11T13:15:07Z"
 related to:
   - "[[GitHub - 917134423]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open the previous daily note relative to today instead of the daily note currently open. Add a ribbon icon and a command for quick, one-click access."
 
     stats: {
-        downloads:  394
+        downloads:  409
         updated_at: 1741698907000
     }
 }

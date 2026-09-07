@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/media-extended
 alt:
   - https://github.com/aidenlx/media-extended
-downloads: 349580
+downloads: 360834
 updated at: "2026-06-07T16:07:26Z"
 related to:
   - "[[GitHub - 354573361]]"
@@ -28,7 +28,7 @@ Plays local files, remote URLs and YouTube or Vimeo video inside notes, with a p
 plugin: {
     id:     "media-extended"
     name:   "Media Extended"
-    author: "aidenlx"
+    author: "Aiden Liu"
     repo:   "aidenlx/media-extended"
 
     html_url:    "https://community.obsidian.md/plugins/media-extended"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Play local files, remote URLs, and YouTube/Vimeo inside Obsidian with a pinned player and global hotkeys. Insert clickable timestamps and screenshots to jump to moments, search transcripts, drop live recording markers, and create timed embeds with loop/autoplay."
 
     stats: {
-        downloads:  349580
+        downloads:  360834
         updated_at: 1780848446000
     }
 }

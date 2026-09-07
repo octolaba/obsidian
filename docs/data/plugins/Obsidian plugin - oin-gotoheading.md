@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/oin-gotoheading
 alt:
   - https://github.com/oin/obsidian-gotoheading
-downloads: 4726
+downloads: 4775
 updated at: "2023-12-14T18:16:19Z"
 related to:
   - "[[GitHub - 698644172]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Navigate quickly between headings with Next/Previous commands and move to the file start or end when at the first or last heading. Open a quick switcher to select any heading in the current document or across all files in the active folder and jump there instantly."
 
     stats: {
-        downloads:  4726
+        downloads:  4775
         updated_at: 1702577779000
     }
 }

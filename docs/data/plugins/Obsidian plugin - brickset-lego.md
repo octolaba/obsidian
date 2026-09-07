@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/brickset-lego
 alt:
   - https://github.com/mirkostanic/obsidian-lego
-downloads: 145
+downloads: 155
 updated at: "2026-05-14T23:26:19Z"
 related to:
   - "[[GitHub - 1170157650]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fetch LEGO set data by set number from Brickset API and download set images. Create formatted Markdown notes with frontmatter tags and rich details like pieces, minifigs, pricing, ratings, and embed images directly in the note."
 
     stats: {
-        downloads:  145
+        downloads:  155
         updated_at: 1778801179000
     }
 }

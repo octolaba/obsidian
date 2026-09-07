@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/title-sync
 alt:
   - https://github.com/igor-kupczynski/obsidian-title-sync-plugin
-downloads: 117
+downloads: 137
 updated at: "2026-01-24T10:37:19Z"
 related to:
   - "[[GitHub - 1138281130]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync the first H1 header after frontmatter to the file name using a manual command. Strip markdown formatting, skip code blocks, replace illegal filename characters with dashes, truncate to 200 characters for cross-platform safety, and show success or failure notifications."
 
     stats: {
-        downloads:  117
+        downloads:  137
         updated_at: 1769251039000
     }
 }

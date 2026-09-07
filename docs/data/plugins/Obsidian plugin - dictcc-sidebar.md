@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dictcc-sidebar
 alt:
   - https://github.com/procc99/dictcc-sidebar
-downloads: 95
+downloads: 133
 updated at: "2026-06-14T00:45:20Z"
 related to:
   - "[[GitHub - 1268765455]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Look up German and English words on dict.cc from inside your vault. Open a sidebar from a right‑click selection or the Command Palette to view grouped bilingual translation tables with part‑of‑speech headers, misspelling suggestions, and direction filtering; adapts to Obsidian's light/dark themes."
 
     stats: {
-        downloads:  95
+        downloads:  133
         updated_at: 1781397920000
     }
 }

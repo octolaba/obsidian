@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markdown-tree
 alt:
   - https://github.com/carvah/markdown-tree-plugin
-downloads: 8268
+downloads: 8354
 updated at: "2023-07-17T15:50:37Z"
 related to:
   - "[[GitHub - 666931812]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create prettier directory trees from simple indented or space/tab-separated lists in your Markdown files. Render clean, filesystem-style ASCII trees showing nested folders and files for easy visual navigation of your directory structure."
 
     stats: {
-        downloads:  8268
+        downloads:  8354
         updated_at: 1689609037000
     }
 }

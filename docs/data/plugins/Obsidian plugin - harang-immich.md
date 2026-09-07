@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/harang-immich
 alt:
   - https://github.com/search5/harang-immich
-downloads: 3
-updated at: "2026-07-23T16:20:24Z"
+downloads: 62
+updated at: "2026-08-10T03:35:38Z"
 related to:
   - "[[GitHub - 1310101647]]"
 remind me:
@@ -36,8 +36,8 @@ plugin: {
     description: "Load and save note images from/to Immich. - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  3
-        updated_at: 1784823624000
+        downloads:  62
+        updated_at: 1786332938000
     }
 }
 ```

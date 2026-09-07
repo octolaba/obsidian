@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/backlink-full-path
 alt:
   - https://github.com/mnaoumov/obsidian-backlink-full-path
-downloads: 2511
-updated at: "2026-07-21T00:41:08Z"
+downloads: 2706
+updated at: "2026-08-08T06:14:45Z"
 related to:
   - "[[GitHub - 945510694]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Show full file paths for backlinks in the backlinks panel to distinguish same-named notes across folders. Display folder hierarchy alongside note titles for clearer backlink identification."
 
     stats: {
-        downloads:  2511
-        updated_at: 1784594468000
+        downloads:  2706
+        updated_at: 1786169685000
     }
 }
 ```

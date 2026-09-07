@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/marp-inline-preview
 alt:
   - https://github.com/sotetsuk/obsidian-marp-inline-preview-plugin
-downloads: 200
+downloads: 217
 updated at: "2026-05-18T06:58:21Z"
 related to:
   - "[[GitHub - 1241432649]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Marp slide decks inline beneath each --- slide separator while editing, and display the full deck in reading mode. Use Marp Core 4 in pure JavaScript with bundled KaTeX, support for .marprc.yml custom themes, and per‑slide CSS isolated in Shadow DOM for mobile and offline use."
 
     stats: {
-        downloads:  200
+        downloads:  217
         updated_at: 1779087501000
     }
 }

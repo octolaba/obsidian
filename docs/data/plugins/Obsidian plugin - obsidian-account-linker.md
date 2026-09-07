@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-account-linker
 alt:
   - https://github.com/qwegat/Obsidian-Account-Linker
-downloads: 4624
+downloads: 4639
 updated at: "2022-08-11T11:51:39Z"
 related to:
   - "[[GitHub - 519927452]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate link buttons for external accounts from a note's front matter using configurable URI templates and name substitution (e.g., {{NAME}}). Display service colors and favicons and support custom URI schemes like mailto: and obsidian:// for quick access."
 
     stats: {
-        downloads:  4624
+        downloads:  4639
         updated_at: 1660218699000
     }
 }

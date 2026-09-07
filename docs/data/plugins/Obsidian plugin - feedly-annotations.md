@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/feedly-annotations
 alt:
   - https://github.com/fleker/feedly-for-obsidian
-downloads: 594
-updated at: "2026-07-07T22:26:28Z"
+downloads: 635
+updated at: "2026-08-01T15:23:12Z"
 related to:
   - "[[GitHub - 914635109]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync Feedly annotations and comments into your vault as individual Markdown files, one per article, with frontmatter metadata and quoted highlights. Place files in a dedicated folder and preserve article URLs, dates, authors and publishers. Resume interrupted syncs after Feedly API rate limits."
 
     stats: {
-        downloads:  594
-        updated_at: 1783463188000
+        downloads:  635
+        updated_at: 1785597792000
     }
 }
 ```

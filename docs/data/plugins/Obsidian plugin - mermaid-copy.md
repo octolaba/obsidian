@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mermaid-copy
 alt:
   - https://github.com/mblogs/mermaid-copy
-downloads: 753
+downloads: 835
 updated at: "2026-02-25T18:03:25Z"
 related to:
   - "[[GitHub - 1166855347]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a copy button to rendered Mermaid diagrams in Live Preview. Copy any diagram to the clipboard as PNG (transparent background preserves theme colors) or SVG with one click from the button next to the edit icon."
 
     stats: {
-        downloads:  753
+        downloads:  835
         updated_at: 1772042605000
     }
 }

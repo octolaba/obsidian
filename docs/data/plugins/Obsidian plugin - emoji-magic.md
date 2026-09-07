@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/emoji-magic
 alt:
   - https://github.com/simplgy/obsidian-emoji-magic
-downloads: 20544
+downloads: 20656
 updated at: "2023-06-05T01:26:26Z"
 related to:
   - "[[GitHub - 594500305]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert emoji quickly using enhanced keyword search across a 1,812-entry dictionary and 199,658 searchable keywords and thesaurus terms. Navigate a keyboard-friendly 2D grid and insert platform-native emoji characters locally, with no internet or image-based replacements."
 
     stats: {
-        downloads:  20544
+        downloads:  20656
         updated_at: 1685928386000
     }
 }

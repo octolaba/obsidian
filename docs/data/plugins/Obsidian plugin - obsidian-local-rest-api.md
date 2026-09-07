@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-local-rest-api
 alt:
   - https://github.com/coddingtonbear/obsidian-local-rest-api
-downloads: 606431
-updated at: "2026-07-11T02:32:19Z"
+downloads: 659354
+updated at: "2026-08-01T00:00:43Z"
 related to:
   - "[[GitHub - 451732769]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Expose a secure local REST API over HTTPS for full CRUD on vault files (including binaries) and surgical edits of headings, block refs, and frontmatter. Search the vault, access active or periodic notes, run commands, open notes in the UI, and let other plugins register custom API routes while requiring API-key authentication."
 
     stats: {
-        downloads:  606431
-        updated_at: 1783737139000
+        downloads:  659354
+        updated_at: 1785542443000
     }
 }
 ```

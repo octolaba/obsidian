@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/otoha-tts
 alt:
   - https://github.com/spacegrowth/otoha-tts
-downloads: 301
+downloads: 434
 updated at: "2026-06-23T05:52:49Z"
 related to:
   - "[[GitHub - 1277702246]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Read notes aloud with in-place sentence highlighting and smooth teleprompter auto-scroll that follows the spoken line. Use built-in OS speech for offline/mobile playback or connect to the local Otoha app for higher-quality neural voices; click any sentence to jump and control playback."
 
     stats: {
-        downloads:  301
+        downloads:  434
         updated_at: 1782193969000
     }
 }

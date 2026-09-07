@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/scroll-line
 alt:
   - https://github.com/abdelrahmanhafez/obsidian-scroll-line
-downloads: 109
-updated at: "2026-04-16T12:29:06Z"
+downloads: 177
+updated at: "2026-08-07T19:13:14Z"
 related to:
   - "[[GitHub - 1194021337]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Scroll the editor viewport up or down by a configurable number of lines without moving the cursor. Enable optional smooth animated scrolling and hold keys for continuous repeat using CodeMirror 6's native key handling and actual line-height for accurate, theme-agnostic scrolling."
 
     stats: {
-        downloads:  109
-        updated_at: 1776342546000
+        downloads:  177
+        updated_at: 1786129994000
     }
 }
 ```

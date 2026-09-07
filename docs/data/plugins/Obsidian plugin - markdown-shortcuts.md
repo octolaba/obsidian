@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/markdown-shortcuts
 alt:
   - https://github.com/julesguesnon/obsidian-markdown-shortcuts
-downloads: 8529
+downloads: 8761
 updated at: "2022-09-13T20:31:55Z"
 related to:
   - "[[GitHub - 458508609]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert common Markdown elements and templates using a single trigger character to open a command menu. Create tables, blocks, and formatting snippets without memorizing Markdown syntax."
 
     stats: {
-        downloads:  8529
+        downloads:  8761
         updated_at: 1663101115000
     }
 }

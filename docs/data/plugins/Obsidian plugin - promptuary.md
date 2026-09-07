@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/promptuary
 alt:
   - https://github.com/meganjjzhang/Promptuary
-downloads: 137
+downloads: 163
 updated at: "2026-07-08T10:12:38Z"
 related to:
   - "[[GitHub - 1269056225]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight text in four colors and add bound reading notes saved in a non-destructive sidecar JSON. Mark deletions, write natural-language review comments and aggregate them in a sidebar, then hand off selected comments to external AI agents for batch execution."
 
     stats: {
-        downloads:  137
+        downloads:  163
         updated_at: 1783505558000
     }
 }

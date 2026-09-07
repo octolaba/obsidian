@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-branch-chat
 alt:
   - https://github.com/p4nt1um/canvas-branch-chat
-downloads: 59
-updated at: "2026-07-19T11:46:50Z"
+downloads: 172
+updated at: "2026-08-06T17:28:08Z"
 related to:
   - "[[GitHub - 1292642504]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Create Flowith-style branching AI conversations on Obsidian Canvas. Fork from any node, label directions, and give each branch its own AI context to build a navigable, color-coded conversation map exportable as structured Markdown."
 
     stats: {
-        downloads:  59
-        updated_at: 1784461610000
+        downloads:  172
+        updated_at: 1786037288000
     }
 }
 ```

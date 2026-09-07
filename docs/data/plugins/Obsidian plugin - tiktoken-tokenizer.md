@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tiktoken-tokenizer
 alt:
   - https://github.com/s3ga1ov/obsidian-tiktoken-tokenizer
-downloads: 272
+downloads: 306
 updated at: "2026-05-19T13:08:44Z"
 related to:
   - "[[GitHub - 1030235270]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display the token count for the active note in the status bar and update it as you type. Two tokenizer modes, switchable in plugin settings: exact counts for `gpt-4o` and the `gpt-5` family via the `o200k_base` encoding, plus an approximate Claude mode that uses `cl100k_base` with a 15% safety margin. Runs entirely in JavaScript — no WebAssembly, no network calls."
 
     stats: {
-        downloads:  272
+        downloads:  306
         updated_at: 1779196124000
     }
 }

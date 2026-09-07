@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/design-portfolio
 alt:
   - https://github.com/wesswart77/obsidian-design-portfolio
-downloads: 170
+downloads: 200
 updated at: "2026-05-24T20:05:32Z"
 related to:
   - "[[GitHub - 1248532474]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage your design portfolio and inspiration inside Obsidian with structured case studies, mood boards, and quick inspiration captures. Create case studies with Brief, Role, Process, Outcome, Learnings and Assets, generate image-grid mood boards, and browse projects and inspiration by year or tag in a dedicated sidebar."
 
     stats: {
-        downloads:  170
+        downloads:  200
         updated_at: 1779653132000
     }
 }

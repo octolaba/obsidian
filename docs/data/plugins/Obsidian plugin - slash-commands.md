@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/slash-commands
 alt:
   - https://github.com/jimmy-web169/obsidian-slash-commands
-downloads: 489
+downloads: 683
 updated at: "2026-05-24T09:42:47Z"
 related to:
   - "[[GitHub - 1248148208]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert blocks with a Notion-style slash menu by typing / at the start of a line or after a space. Filter commands by typing and add headings, lists, callouts, fenced code, math, mermaid, internal links, video embeds, or fetch OpenGraph metadata to insert rich preview cards (falls back to a markdown link if metadata is unavailable)."
 
     stats: {
-        downloads:  489
+        downloads:  683
         updated_at: 1779615767000
     }
 }

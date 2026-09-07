@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/mindelixir-mindmap
 alt:
   - https://github.com/ssshooter/obsidian-mindmap
-downloads: 6029
-updated at: "2026-05-13T08:48:12Z"
+downloads: 7127
+updated at: "2026-08-11T04:03:55Z"
 related to:
   - "[[GitHub - 1157068154]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Transform any Markdown file into an interactive mind map with Mind Elixir, automatically parsing headers and lists into hierarchical nodes and updating live in a split pane. Embed inline maps with mindelixir code blocks, pick filename or first H1 as the root, and interact on mobile."
 
     stats: {
-        downloads:  6029
-        updated_at: 1778662092000
+        downloads:  7127
+        updated_at: 1786421035000
     }
 }
 ```

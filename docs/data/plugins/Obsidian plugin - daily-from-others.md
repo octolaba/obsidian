@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-from-others
 alt:
   - https://github.com/kageetai/obsidian-daily-from-others-plugin
-downloads: 7
+downloads: 20
 updated at: "2026-07-21T15:08:33Z"
 related to:
   - "[[GitHub - 1301393408]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create missing daily notes from dates found in filenames of other notes. Scan filenames for valid dates and generate the corresponding Obsidian daily notes without copying file contents, allowing batch creation, optional file watching, and skipping already-existing daily notes."
 
     stats: {
-        downloads:  7
+        downloads:  20
         updated_at: 1784646513000
     }
 }

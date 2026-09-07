@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nuke-orphans
 alt:
   - https://github.com/sandorex/nuke-orphans-plugin
-downloads: 12979
+downloads: 13038
 updated at: "2024-01-16T11:58:56Z"
 related to:
   - "[[GitHub - 491075122]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Trash orphaned attachments or all files using three simple commands from the command palette. Prompt before trashing to confirm each operation."
 
     stats: {
-        downloads:  12979
+        downloads:  13038
         updated_at: 1705406336000
     }
 }

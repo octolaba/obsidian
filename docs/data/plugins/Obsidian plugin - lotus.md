@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lotus
 alt:
   - https://github.com/tzadikimbiu/lotus
-downloads: 87
+downloads: 103
 updated at: "2026-07-13T20:37:45Z"
 related to:
   - "[[GitHub - 1275349705]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Execute fenced Markdown code blocks inline and render transient output panels beneath each block. Add toolbar controls, keep source unchanged, update outputs in-place using stable IDs from path, language, ordinal and content hash, and run code locally or in containers/remote hosts."
 
     stats: {
-        downloads:  87
+        downloads:  103
         updated_at: 1783975065000
     }
 }

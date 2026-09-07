@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ob2static-site
 alt:
   - https://github.com/yy4382/obsidian-static-site-export
-downloads: 2424
+downloads: 2441
 updated at: "2025-11-19T12:13:28Z"
 related to:
   - "[[GitHub - 737309773]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export notes with published: true front matter to plain Markdown, converting Obsidian wiki links and image embeds into standard Markdown while leaving original vault files untouched. Merge tags into front matter and upload generated files to a chosen Git repo folder."
 
     stats: {
-        downloads:  2424
+        downloads:  2441
         updated_at: 1763554408000
     }
 }

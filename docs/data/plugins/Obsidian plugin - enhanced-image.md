@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/enhanced-image
 alt:
   - https://github.com/situ2001/obsidian-enhanced-image
-downloads: 958
+downloads: 974
 updated at: "2024-09-04T01:16:17Z"
 related to:
   - "[[GitHub - 842937074]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage local and remote images in Obsidian with rich context-menu actions like copy, save as, reveal, rename, delete, move, upload/replace, and format conversion. Run commands to batch-convert or delete images, preview/remove unused files across your vault, and view HEIF/HEIC previews."
 
     stats: {
-        downloads:  958
+        downloads:  974
         updated_at: 1725412577000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-thumbnails
 alt:
   - https://github.com/meikul/obsidian-thumbnails
-downloads: 26032
+downloads: 26378
 updated at: "2025-01-12T05:05:14Z"
 related to:
   - "[[GitHub - 492671398]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert video thumbnails into notes to preview linked YouTube and Vimeo videos. Use clipboard commands to auto-create thumbnail blocks or title links, show titles and channels offline, and optionally store thumbnail images locally."
 
     stats: {
-        downloads:  26032
+        downloads:  26378
         updated_at: 1736658314000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rich-foot
 alt:
   - https://github.com/jparkerweb/rich-foot
-downloads: 12005
+downloads: 12279
 updated at: "2026-06-15T14:50:28Z"
 related to:
   - "[[GitHub - 853041336]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add backlinks, outlinks and created/modified timestamps to the footer of your notes, including links found in frontmatter. Render links as tag-like pills with adjustable opacity, borders and corner radius. Exclude folders from displaying the footer."
 
     stats: {
-        downloads:  12005
+        downloads:  12279
         updated_at: 1781535028000
     }
 }

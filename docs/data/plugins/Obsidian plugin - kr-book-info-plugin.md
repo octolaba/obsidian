@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kr-book-info-plugin
 alt:
   - https://github.com/kmsk99/kr-book-info-plugin
-downloads: 23059
+downloads: 23282
 updated at: "2025-04-28T10:38:14Z"
 related to:
   - "[[GitHub - 478003687]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Import book metadata from Yes24 into a note's Front Matter, populating title, author, publish_date, cover_url, page count, tags, status, rating and reading dates. Insert Front Matter above existing content and update the note title and content in seconds."
 
     stats: {
-        downloads:  23059
+        downloads:  23282
         updated_at: 1745836694000
     }
 }

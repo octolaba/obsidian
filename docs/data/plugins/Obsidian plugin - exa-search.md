@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/exa-search
 alt:
   - https://github.com/exa-labs/obsidian-exa-search
-downloads: 94
+downloads: 111
 updated at: "2026-06-24T11:02:56Z"
 related to:
   - "[[GitHub - 1278675614]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search the web from Obsidian with Exa and insert results as formatted Markdown, including links, dates, and highlighted snippets. Trigger searches from the command palette or a hotkey; results insert at the cursor or copy to clipboard and work on desktop and mobile."
 
     stats: {
-        downloads:  94
+        downloads:  111
         updated_at: 1782298976000
     }
 }

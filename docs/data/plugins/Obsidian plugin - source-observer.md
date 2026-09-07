@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/source-observer
 alt:
   - https://github.com/icekhan13/obsidian-source-observer
-downloads: 101
+downloads: 123
 updated at: "2026-06-20T05:19:32Z"
 related to:
   - "[[GitHub - 1274911881]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse any folder on disk with a collapsible file tree that shows file-type icons and language colors. View syntax-highlighted files using your active theme and review git changes with modified/added/deleted badges, diffs, and searchable lists."
 
     stats: {
-        downloads:  101
+        downloads:  123
         updated_at: 1781932772000
     }
 }

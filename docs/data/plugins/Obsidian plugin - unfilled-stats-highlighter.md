@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/unfilled-stats-highlighter
 alt:
   - https://github.com/white7292/obsidian-hd-unfilled-stats-highlighter
-downloads: 3704
+downloads: 3713
 updated at: "2023-03-26T15:35:48Z"
 related to:
   - "[[GitHub - 619207173]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight unfilled stats by automatically prefixing missing fields with a customizable marker. Remove prefixes in real time as you fill entries and limit highlighting to selected stat files."
 
     stats: {
-        downloads:  3704
+        downloads:  3713
         updated_at: 1679844948000
     }
 }

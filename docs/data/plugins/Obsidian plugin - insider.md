@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/insider
 alt:
   - https://github.com/barcantree/Insider
-downloads: 147
+downloads: 184
 updated at: "2026-06-10T08:57:55Z"
 related to:
   - "[[GitHub - 1264779508]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert YouTube videos, web pages, PDFs, and questions into structured research notes with summaries, transcripts, and source snapshots. Link new notes automatically to related vault content using keyword overlap or AI-explore vault snapshots via DeepSeek (OpenAI-compatible API)."
 
     stats: {
-        downloads:  147
+        downloads:  184
         updated_at: 1781081875000
     }
 }

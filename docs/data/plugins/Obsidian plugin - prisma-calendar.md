@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/prisma-calendar
 alt:
   - https://github.com/real1tyy/Prisma-Calendar
-downloads: 23620
-updated at: "2026-06-09T10:09:50Z"
+downloads: 25431
+updated at: "2026-08-04T20:46:43Z"
 related to:
   - "[[GitHub - 1059267284]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Prisma is not just a calendar plugin. It turns any note with a date into a flexible planning system inside Obsidian. There are no rigid schemas or predefined structures — just your data, your rules, fully under your control. It lets you see your entire vault through time. Prisma reads notes inside a folder you choose and turns them into events based on their frontmatter properties: Start / End — datetime values for timed events (e.g. Start: 2025-06-15T09:00) Date — a date value for all-day events (e.g. Date: 2025-06-15) You choose which property names Prisma should look for during setup. If you already have notes with date-like properties, Prisma picks them up and visualizes them automatically — no migration, no restructuring, no new system to learn. Every event is a regular Obsidian note. You can open it, write inside it, link to other notes, and use it like any other file in your vault. Prisma doesn't own your data — it just visualizes what's already there."
 
     stats: {
-        downloads:  23620
-        updated_at: 1780999790000
+        downloads:  25431
+        updated_at: 1785876403000
     }
 }
 ```

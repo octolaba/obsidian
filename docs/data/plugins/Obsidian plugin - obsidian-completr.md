@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-completr
 alt:
   - https://github.com/tth05/obsidian-completr
-downloads: 84113
+downloads: 84814
 updated at: "2023-05-30T16:34:58Z"
 related to:
   - "[[GitHub - 431889583]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add advanced auto-completion to Obsidian with full MathJax and LaTeX command support, including \\begin... environment completions and commands that don’t require starting with a backslash. Insert snippets with placeholders, complete YAML front‑matter keys and learned key:value pairs, and load large word lists for suggestions. Scan the current file or your whole vault for new words and keep suggestions performant even with very big lists."
 
     stats: {
-        downloads:  84113
+        downloads:  84814
         updated_at: 1685464498000
     }
 }

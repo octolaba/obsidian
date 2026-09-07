@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-comments
 alt:
   - https://github.com/rafamss/obsidian-note-comments
-downloads: 158
+downloads: 215
 updated at: "2026-06-16T23:35:01Z"
 related to:
   - "[[GitHub - 1271608448]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add anchored comments to any selected text with color highlights and underlines that respect light/dark themes. Show all comments in a right-side panel with sorting and filtering, and store each document's comments in a separate note (readable callouts with hidden JSON). Keep anchors tracked so highlights follow edits and become faded \"orphans\" if the quoted text is lost."
 
     stats: {
-        downloads:  158
+        downloads:  215
         updated_at: 1781652901000
     }
 }

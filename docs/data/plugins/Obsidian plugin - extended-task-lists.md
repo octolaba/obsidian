@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/extended-task-lists
 alt:
   - https://github.com/joeriddles/extended-task-lists
-downloads: 3793
+downloads: 3831
 updated at: "2026-05-13T06:29:50Z"
 related to:
   - "[[GitHub - 742302766]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render \"in-progress\" and \"won't do\" task items with dedicated UI and live-preview support. Generate a top-level TODO by scanning task lists across your vault, and exclude files or folders with `<!-- exclude TODO -->` or an `.exclude_todos` file."
 
     stats: {
-        downloads:  3793
+        downloads:  3831
         updated_at: 1778653790000
     }
 }

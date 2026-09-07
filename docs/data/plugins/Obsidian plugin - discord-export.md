@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/discord-export
 alt:
   - https://github.com/malweis/obsidian-discord-export
-downloads: 138
+downloads: 168
 updated at: "2026-05-27T22:33:22Z"
 related to:
   - "[[GitHub - 1251583777]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Opens a modal showing your note split into numbered, copy-ready chunks that fit within Discord's 2,000 or 4,000 character limit. Each chunk has a Copy button and a character count. Chunks always split at paragraph boundaries. Indent mode adds Discord-compatible indentation to each paragraph. Splitter mode splits only, with no indentation added. Both modes strip frontmatter, tags, and horizontal rules from the output. Wrap content in curly braces to exclude it from the output. Place +++ on its own line to force a chunk split at that point."
 
     stats: {
-        downloads:  138
+        downloads:  168
         updated_at: 1779921202000
     }
 }

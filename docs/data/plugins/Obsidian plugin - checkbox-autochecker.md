@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/checkbox-autochecker
 alt:
   - https://github.com/klaasklee/checkbox-autochecker-obsidian
-downloads: 395
+downloads: 419
 updated at: "2025-08-01T15:31:24Z"
 related to:
   - "[[GitHub - 995604513]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync parent and child checkboxes in Markdown files in real time, keeping nested task lists consistent across multiple indentation levels. Choose from three propagation modes (Loose, Partial Strict, Strict) to control upward and downward syncing when toggling checkboxes."
 
     stats: {
-        downloads:  395
+        downloads:  419
         updated_at: 1754062284000
     }
 }

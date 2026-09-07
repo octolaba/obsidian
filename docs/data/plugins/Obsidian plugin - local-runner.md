@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/local-runner
 alt:
   - https://github.com/joke-lx/ob-ps
-downloads: 177
-updated at: "2026-07-13T10:26:30Z"
+downloads: 203
+updated at: "2026-07-29T14:21:54Z"
 related to:
   - "[[GitHub - 1274033604]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Run local shell commands in Obsidian's right sidebar and view live stdout/stderr in per-command tabs. Execute multiple commands concurrently, stop any running process, and monitor real-time logs without leaving Obsidian; run any shell-executable tool like npm, npx, pytest, or cargo."
 
     stats: {
-        downloads:  177
-        updated_at: 1783938390000
+        downloads:  203
+        updated_at: 1785334914000
     }
 }
 ```

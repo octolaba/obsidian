@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sync-contacts-macos
 alt:
   - https://github.com/motschel123/Mac-Contact-Sync-Obsidian
-downloads: 3784
+downloads: 3829
 updated at: "2026-07-09T15:20:59Z"
 related to:
   - "[[GitHub - 686347521]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync contacts from the Mac Contacts app into a folder in your Obsidian vault, creating one Markdown file per contact with configurable details. Limit sync to a specified Smart List and enable Obsidian access to Contacts (via AppleScript) when prompted."
 
     stats: {
-        downloads:  3784
+        downloads:  3829
         updated_at: 1783610459000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/truth-table-gen
 alt:
   - https://github.com/max-schulten/truth-table-plus
-downloads: 898
+downloads: 915
 updated at: "2026-02-18T03:07:31Z"
 related to:
   - "[[GitHub - 833749533]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate autofilled truth tables from JavaScript-style logical expressions using operators like &&, ||, and !. Insert the completed table directly into the current note for quick logic-oriented note-taking and analysis."
 
     stats: {
-        downloads:  898
+        downloads:  915
         updated_at: 1771384051000
     }
 }

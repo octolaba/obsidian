@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lskypro-image-uploader
 alt:
   - https://github.com/aceak/LskyPro-Image-Uploader
-downloads: 226
+downloads: 240
 updated at: "2026-06-25T01:49:31Z"
 related to:
   - "[[GitHub - 1075181502]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload and replace pasted, dragged, or attached images with LskyPro-hosted URLs automatically. Use LskyPro V1/V2 APIs with batch and concurrent uploads, multiple input methods, network image handling, and optional deletion of source files."
 
     stats: {
-        downloads:  226
+        downloads:  240
         updated_at: 1782352171000
     }
 }

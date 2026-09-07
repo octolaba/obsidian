@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/diarian
 alt:
   - https://github.com/erallie/diarian
-downloads: 10256
-updated at: "2026-07-22T16:45:03Z"
+downloads: 10836
+updated at: "2026-08-02T12:56:11Z"
 related to:
   - "[[GitHub - 839496519]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage and navigate daily notes with an interactive calendar that shows which days have notes, displays attached images on day tiles, and creates or opens notes for any date. Review entries with an on-this-day pane and notifications, rate entries in the status bar, insert timestamps, import Diarium journals, and use templates, nested folders, or multiple notes per day."
 
     stats: {
-        downloads:  10256
-        updated_at: 1784738703000
+        downloads:  10836
+        updated_at: 1785675371000
     }
 }
 ```

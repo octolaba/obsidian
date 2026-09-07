@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/automatic-table-of-contents
 alt:
   - https://github.com/johansatge/obsidian-automatic-table-of-contents
-downloads: 147693
+downloads: 151457
 updated at: "2026-02-07T18:21:06Z"
 related to:
   - "[[GitHub - 683663366]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert an automatically updating table of contents that refreshes as a note's headings change. Add the TOC via a table-of-contents codeblock or command, create clickable entries, and pick nested or inline layouts with configurable depth and filters."
 
     stats: {
-        downloads:  147693
+        downloads:  151457
         updated_at: 1770488466000
     }
 }

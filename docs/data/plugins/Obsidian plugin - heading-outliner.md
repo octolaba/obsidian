@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/heading-outliner
 alt:
   - https://github.com/tgrrrr/heading-outliner
-downloads: 397
+downloads: 489
 updated at: "2026-05-15T23:48:58Z"
 related to:
   - "[[GitHub - 1198788950]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Move entire heading sections (body text and sub-headings) up or down while preserving fold state. Indent or unindent headings with Tab/Shift+Tab on heading lines, support multi-selection and smart fold handling that auto-unfolds parents when needed; optionally add per-level visual heading indentation and work alongside Outliner."
 
     stats: {
-        downloads:  397
+        downloads:  489
         updated_at: 1778888938000
     }
 }

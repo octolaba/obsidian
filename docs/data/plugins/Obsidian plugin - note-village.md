@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/note-village
 alt:
   - https://github.com/dsebastien/obsidian-note-village
-downloads: 214
-updated at: "2026-07-18T12:32:26Z"
+downloads: 540
+updated at: "2026-07-29T07:46:53Z"
 related to:
   - "[[GitHub - 1135162125]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Transform your vault into a 2D pixel-art JRPG village where frequent tags become themed zones and notes appear as villagers. Explore the village and chat with villagers via Claude (Anthropic API key required); enjoy deterministic, procedurally generated layouts and customizable graphics."
 
     stats: {
-        downloads:  214
-        updated_at: 1784377946000
+        downloads:  540
+        updated_at: 1785311213000
     }
 }
 ```

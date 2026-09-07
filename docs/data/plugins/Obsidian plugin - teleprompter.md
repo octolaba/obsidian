@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/teleprompter
 alt:
   - https://github.com/lumetrium/obsidian-teleprompter
-downloads: 9992
+downloads: 10238
 updated at: "2026-07-06T15:05:12Z"
 related to:
   - "[[GitHub - 694230742]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a teleprompter window to display and auto-scroll the current note in a large, readable format. Adjust speed, font, spacing, colors, flip orientation, detach to a separate window or full-screen, and control reading with panels, hotkeys and an API."
 
     stats: {
-        downloads:  9992
+        downloads:  10238
         updated_at: 1783350312000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simplified-traditional-search
 alt:
   - https://github.com/yorkli1/Unified-Chinese-Characters-Searcher
-downloads: 88
+downloads: 111
 updated at: "2026-06-29T21:05:12Z"
 related to:
   - "[[GitHub - 1272380143]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Automatically expand Chinese search terms in Obsidian global search to match Simplified, Traditional, and regional variants (HK/TW). It supports search operator conversion and phrase-level supplements, ensuring that entering any Chinese character or term will retrieve all corresponding results."
 
     stats: {
-        downloads:  88
+        downloads:  111
         updated_at: 1782767112000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/google-blogger
 alt:
   - https://github.com/privet-kitty/obsidian-blogger
-downloads: 1235
+downloads: 1250
 updated at: "2024-04-26T17:04:35Z"
 related to:
   - "[[GitHub - 733621634]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Publish Obsidian notes directly to Blogger using OAuth2 and the Google Blogger API. Convert Markdown into Blogger posts and manage drafts, updates, and post metadata from inside Obsidian."
 
     stats: {
-        downloads:  1235
+        downloads:  1250
         updated_at: 1714151075000
     }
 }

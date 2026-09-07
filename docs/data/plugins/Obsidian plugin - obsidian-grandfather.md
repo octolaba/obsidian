@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-grandfather
 alt:
   - https://github.com/noatpad/obsidian-grandfather
-downloads: 9905
+downloads: 9943
 updated at: "2021-06-09T02:26:07Z"
 related to:
   - "[[GitHub - 374489991]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display the current time and optional date in the status bar. Choose from predefined time formats or set a custom format for a personalized clock."
 
     stats: {
-        downloads:  9905
+        downloads:  9943
         updated_at: 1623205567000
     }
 }

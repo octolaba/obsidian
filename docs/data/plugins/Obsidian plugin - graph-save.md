@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/graph-save
 alt:
   - https://github.com/manitofigh/obsidian-graph-save
-downloads: 153
+downloads: 233
 updated at: "2026-06-29T03:45:09Z"
 related to:
   - "[[GitHub - 1283561882]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save and restore graph layouts and node positions automatically, with smooth animated restores that progressively move nodes back into place. Capture named snapshots, switch or delete snapshots, and reshuffle layouts to explore new arrangements."
 
     stats: {
-        downloads:  153
+        downloads:  233
         updated_at: 1782704709000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/current-file
 alt:
   - https://github.com/2shortplanks/current-file
-downloads: 401
+downloads: 412
 updated at: "2024-07-20T11:43:46Z"
 related to:
   - "[[GitHub - 831357571]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Write the active note's file name, vault, and full path to a JSON file in your home or a chosen directory. Update the JSON whenever you switch notes so external scripts and programs can detect and act on the current Obsidian desktop file."
 
     stats: {
-        downloads:  401
+        downloads:  412
         updated_at: 1721475826000
     }
 }

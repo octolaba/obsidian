@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/where-did-the-time-go
 alt:
   - https://github.com/plattnum/where-did-the-time-go
-downloads: 256
+downloads: 292
 updated at: "2026-06-06T14:03:36Z"
 related to:
   - "[[GitHub - 1125727221]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Log hours visually with an infinite-scroll timeline—drag to create, move, and resize entries and click to edit. Save data as plain Markdown tables in your vault, run hierarchical reports to see where time went, and export one-click invoices; no cloud, no accounts, works offline."
 
     stats: {
-        downloads:  256
+        downloads:  292
         updated_at: 1780754616000
     }
 }

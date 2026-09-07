@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chat-stream
 alt:
   - https://github.com/rpggio/obsidian-chat-stream
-downloads: 8317
+downloads: 8355
 updated at: "2024-07-31T00:25:48Z"
 related to:
   - "[[GitHub - 634091208]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Converse with GPT directly inside Canvas notes and generate new response notes that include the current note and its ancestor context. Create and manage chat streams and choose which notes to send to the AI for focused, contextual replies."
 
     stats: {
-        downloads:  8317
+        downloads:  8355
         updated_at: 1722385548000
     }
 }

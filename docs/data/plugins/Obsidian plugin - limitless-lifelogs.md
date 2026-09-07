@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/limitless-lifelogs
 alt:
   - https://github.com/maclean-d/obsidian-limitless-lifelogs
-downloads: 1328
+downloads: 1342
 updated at: "2025-07-13T02:16:19Z"
 related to:
   - "[[GitHub - 948853830]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Limitless AI lifelog entries into Obsidian as dated Markdown files, preserving original headings, sections, timestamps, and markdown structure. Organize entries by YYYY-MM-DD.md and fetch only new or updated entries with a single click for incremental syncing."
 
     stats: {
-        downloads:  1328
+        downloads:  1342
         updated_at: 1752372979000
     }
 }

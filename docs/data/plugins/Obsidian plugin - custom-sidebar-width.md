@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/custom-sidebar-width
 alt:
   - https://github.com/avnibilgin/custom-sidebar-width
-downloads: 91
+downloads: 118
 updated at: "2026-06-20T15:57:55Z"
 related to:
   - "[[GitHub - 1274266661]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set left and right sidebar widths per note using frontmatter properties or tags. Define ordered rules with per-side pixel values (leave a side empty to keep it unchanged); apply the first matching rule and optionally mark a default to reset when no rule matches. Desktop-only."
 
     stats: {
-        downloads:  91
+        downloads:  118
         updated_at: 1781971075000
     }
 }

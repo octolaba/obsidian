@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/inline-properties
 alt:
   - https://github.com/zizouet/obsidian-dynamic-variables
-downloads: 235
-updated at: "2026-07-13T12:23:59Z"
+downloads: 348
+updated at: "2026-08-10T16:51:31Z"
 related to:
   - "[[GitHub - 1274578035]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Reference frontmatter properties anywhere using {{variable}} syntax, including nested fields and cross-note paths. Render values inline in Live Preview and Reading mode, hover to reveal and edit the raw token, autocomplete on '{{', and copy to paste resolved values."
 
     stats: {
-        downloads:  235
-        updated_at: 1783945439000
+        downloads:  348
+        updated_at: 1786380691000
     }
 }
 ```

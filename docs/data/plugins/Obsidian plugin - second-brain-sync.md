@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/second-brain-sync
 alt:
   - https://github.com/rahilp/second-brain-obsidian-plugin
-downloads: 290
+downloads: 349
 updated at: "2026-06-08T02:21:59Z"
 related to:
   - "[[GitHub - 1238374516]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync notes to a self-hosted Second Brain Cloudflare Worker with one-click, bulk tag sync, or auto-sync on save. Search your Second Brain from an Obsidian sidebar, auto-chunk long notes for clean embeddings, and view last-sync status."
 
     stats: {
-        downloads:  290
+        downloads:  349
         updated_at: 1780885319000
     }
 }

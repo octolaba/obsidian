@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rich-link-resolver
 alt:
   - https://github.com/almeidazs/rich-link-obsidian
-downloads: 165
+downloads: 197
 updated at: "2026-05-26T18:56:11Z"
 related to:
   - "[[GitHub - 1249130000]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert pasted or selected URLs into Markdown rich links that include the page title and favicon. Resolve links automatically from the clipboard or via command/context action, show a Loading URL... placeholder while fetching, cache favicons as stable 16×16 local images, and fall back to plain Markdown links if a favicon can't be used."
 
     stats: {
-        downloads:  165
+        downloads:  197
         updated_at: 1779821771000
     }
 }

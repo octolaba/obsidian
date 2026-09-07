@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/html-canvas
 alt:
   - https://github.com/x1han/html-canvas
-downloads: 453
+downloads: 631
 updated at: "2026-05-27T06:29:52Z"
 related to:
   - "[[GitHub - 1250894972]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open local .html and .htm files as visual notes directly inside your vault. Render trusted files through the browser iframe to preserve CSS, MathML, SVG, anchors and responsive layouts while sandboxing scripts; provide search, zoom and restricted fallbacks for untrusted HTML."
 
     stats: {
-        downloads:  453
+        downloads:  631
         updated_at: 1779863392000
     }
 }

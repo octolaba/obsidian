@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/match-syntax
 alt:
   - https://github.com/rivea0/obsidian-match-syntax
-downloads: 377
+downloads: 401
 updated at: "2025-07-13T11:34:32Z"
 related to:
   - "[[GitHub - 965708384]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight parts of the active note that match flexible \"match-syntax\" queries powered by the compromise grammar. Use word matches, part-of-speech tags (#Noun, #Verb, etc.), regex (//) and combine operators (&&, !) to build precise searches. Limit searches to English."
 
     stats: {
-        downloads:  377
+        downloads:  401
         updated_at: 1752406472000
     }
 }

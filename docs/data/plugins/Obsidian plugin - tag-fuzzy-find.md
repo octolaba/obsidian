@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tag-fuzzy-find
 alt:
   - https://github.com/etaiso/obsidian-tag-fuzzy-find
-downloads: 113
+downloads: 127
 updated at: "2026-05-13T10:02:27Z"
 related to:
   - "[[GitHub - 1222211673]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Fuzzy-find tags across your vault, see usage counts, and jump straight to notes that use a tag without leaving the keyboard. Honor nested tags (e.g., #project finds #project/work) and open matching notes immediately or in a new pane; trigger tag search from the Quick Switcher with a prefix."
 
     stats: {
-        downloads:  113
+        downloads:  127
         updated_at: 1778666547000
     }
 }

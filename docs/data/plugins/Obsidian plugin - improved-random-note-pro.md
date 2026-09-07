@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/improved-random-note-pro
 alt:
   - https://github.com/secondbrainprod/obsidian-improved-random-note
-downloads: 2383
+downloads: 2980
 updated at: "2026-05-17T08:37:09Z"
 related to:
   - "[[GitHub - 1172581137]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a random note using customizable filters for folders, tags, and YAML properties, with AND/OR matching and exclude rules. Save filter presets as commands, track history to avoid repeats, and use a sidebar widget to preview, refresh, or open random notes."
 
     stats: {
-        downloads:  2383
+        downloads:  2980
         updated_at: 1779007029000
     }
 }

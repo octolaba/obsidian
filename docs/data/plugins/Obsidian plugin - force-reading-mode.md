@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/force-reading-mode
 alt:
   - https://github.com/shubhmadhavan/obsidian-force-reading-mode
-downloads: 180
+downloads: 206
 updated at: "2026-03-21T00:09:31Z"
 related to:
   - "[[GitHub - 1187611047]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Force reading mode to remain enabled across notes and Obsidian sessions, keeping your files in a persistent, view-only state. Toggle the persistent reading view quickly via keyboard shortcuts or the ribbon menu."
 
     stats: {
-        downloads:  180
+        downloads:  206
         updated_at: 1774051771000
     }
 }

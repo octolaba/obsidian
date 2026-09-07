@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tascal
 alt:
   - https://github.com/mrcnkobu/tascal
-downloads: 110
+downloads: 127
 updated at: "2026-07-05T15:57:25Z"
 related to:
   - "[[GitHub - 1152276214]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync ICS calendars into daily notes and render a managed timeline showing scheduled events, free-time gaps, and time-tracking stats. Manage date-scoped unscheduled tasks, add manual events linked to notes, and import backlog items into the unscheduled list while preserving checkbox completion when the timeline rebuilds."
 
     stats: {
-        downloads:  110
+        downloads:  127
         updated_at: 1783267045000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notes2tweets
 alt:
   - https://github.com/tej-sharma/notes2tweets-obsidian
-downloads: 366
+downloads: 373
 updated at: "2024-05-30T06:15:58Z"
 related to:
   - "[[GitHub - 803097570]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate and schedule tweets directly from your notes with a single click. Convert long-form content into tweet-sized posts and threads, preview output, and queue items for automatic publishing."
 
     stats: {
-        downloads:  366
+        downloads:  373
         updated_at: 1717049758000
     }
 }

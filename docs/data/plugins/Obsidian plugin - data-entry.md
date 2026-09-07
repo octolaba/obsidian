@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/data-entry
 alt:
   - https://github.com/waynevanson/data-entry-obsidian-plugin
-downloads: 4509
+downloads: 4549
 updated at: "2023-08-30T12:31:34Z"
 related to:
   - "[[GitHub - 672403847]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn frontmatter metadata into interactive forms and edit note data using JSON Schema and JSON Forms. Define a datasource and schema, add a data-entry codeblock, then open the note in read mode to view and edit metadata with a form that persists to the file's frontmatter."
 
     stats: {
-        downloads:  4509
+        downloads:  4549
         updated_at: 1693398694000
     }
 }

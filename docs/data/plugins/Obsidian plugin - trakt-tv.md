@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/trakt-tv
 alt:
   - https://github.com/fleker/trakt-for-obsidian
-downloads: 707
+downloads: 723
 updated at: "2026-02-25T02:07:12Z"
 related to:
   - "[[GitHub - 877629670]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Trakt check-ins into a dated Obsidian note with per-entry date backlinks. Populate a Trakt Rating History.md as bulleted entries linking shows and episodes to their Trakt pages and to [[YYYY-MM-DD]] daily notes."
 
     stats: {
-        downloads:  707
+        downloads:  723
         updated_at: 1771985232000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/attachment-placement
 alt:
   - https://github.com/hutnerr/obsidian-attachment-placement
-downloads: 376
+downloads: 513
 updated at: "2026-05-26T16:06:14Z"
 related to:
   - "[[GitHub - 1140065579]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Place new attachments according to file or folder-specific rules by walking up the directory tree and applying the first matching rule. Keep pasted images and other resources organized by context and fall back to a default location when no rule applies."
 
     stats: {
-        downloads:  376
+        downloads:  513
         updated_at: 1779811574000
     }
 }

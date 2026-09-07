@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/resonance-next
 alt:
   - https://github.com/blackajiro/Resonance
-downloads: 105
+downloads: 118
 updated at: "2026-05-26T07:13:28Z"
 related to:
   - "[[GitHub - 1046808756]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Record audio from your main microphone and optional extra inputs while generating live Whisper transcripts and post-session summaries via Ollama or a cloud provider. Store and manage sessions in a built-in Library with audio, transcripts, summaries, diagnostics, and tools to inspect, recover, clean up, or bulk-delete artifacts."
 
     stats: {
-        downloads:  105
+        downloads:  118
         updated_at: 1779779608000
     }
 }

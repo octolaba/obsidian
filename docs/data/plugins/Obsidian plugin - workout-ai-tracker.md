@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/workout-ai-tracker
 alt:
   - https://github.com/avlihachev/obsidian-workout-ai-tracker
-downloads: 115
+downloads: 130
 updated at: "2025-11-12T15:00:55Z"
 related to:
   - "[[GitHub - 1093479463]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track workouts with templates and quick entry, logging sets, weight, reps, RPE, heart rate, warmups/cooldowns and duration. Auto-generate markdown files with frontmatter for organized folders, full-text search and Git-friendly versioning. Analyze progress and get program recommendations, recovery and imbalance insights via the Claude API."
 
     stats: {
-        downloads:  115
+        downloads:  130
         updated_at: 1762959655000
     }
 }

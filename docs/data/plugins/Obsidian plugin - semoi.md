@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/semoi
 alt:
   - https://github.com/gjtorikian/semoi-obsidian
-downloads: 105
+downloads: 120
 updated at: "2026-05-28T23:39:23Z"
 related to:
   - "[[GitHub - 1244636879]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture keystroke evidence while you write by recording edit atoms (insert/delete/replace) with counts and timestamps, without storing the characters you typed. Mint an Ed25519-signed proof via semoi.net, write the proof reference into the note's frontmatter, and open a public verification page."
 
     stats: {
-        downloads:  105
+        downloads:  120
         updated_at: 1780011563000
     }
 }

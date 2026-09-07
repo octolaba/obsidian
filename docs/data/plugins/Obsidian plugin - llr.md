@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/llr
 alt:
   - https://github.com/goryugocast/llr
-downloads: 9576
+downloads: 10343
 updated at: "2026-07-09T04:48:58Z"
 related to:
   - "[[GitHub - 1198962400]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Record task start and finish times and capture your daily flow directly in Markdown, with no external database. LLR (Live Life Recording) turns plain checkbox lines into a lightweight time log: a single Toggle Task command creates a task, stamps its start, and marks it finished. Estimates, actual times, and finish records all live in the task line itself, so your history stays as plain text you can read, edit, and grep. Recurring routines can be inserted into daily notes automatically and roll over until you complete them, following flexible repeat rules. A summary sidebar shows running tasks, remaining estimates, and daily totals at a glance. Edit any timestamp by hand and LLR recalculates the rest. Because everything is plain Markdown, there is no lock-in: uninstall anytime and your records stay."
 
     stats: {
-        downloads:  9576
+        downloads:  10343
         updated_at: 1783572538000
     }
 }

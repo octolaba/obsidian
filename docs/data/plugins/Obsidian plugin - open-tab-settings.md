@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/open-tab-settings
 alt:
   - https://github.com/jesse-r-s-hines/obsidian-open-tab-settings
-downloads: 40796
-updated at: "2026-07-01T00:18:01Z"
+downloads: 47543
+updated at: "2026-08-09T18:51:09Z"
 related to:
   - "[[GitHub - 941318415]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Adds settings to customize how Obsidian opens tabs and navigates between files. Including options to open in new tab by default, switch to existing tab instead of opening a duplicate file, customize new tab placement and order, and open new tabs in the opposite pane when using a split workspace."
 
     stats: {
-        downloads:  40796
-        updated_at: 1782865081000
+        downloads:  47543
+        updated_at: 1786301469000
     }
 }
 ```

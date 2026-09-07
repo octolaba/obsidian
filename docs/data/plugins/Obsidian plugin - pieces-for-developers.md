@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pieces-for-developers
 alt:
   - https://github.com/pieces-app/obsidian-pieces
-downloads: 26048
+downloads: 26568
 updated at: "2025-08-26T19:07:42Z"
 related to:
   - "[[GitHub - 648400002]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Query cloud or local LLMs and access long-term memory across workflows directly from Obsidian. Talk to notes or your entire vault with Pieces Copilot, save and organize reusable code and materials with Pieces Drive, and use inline quick actions to capture and share content. Closed source."
 
     stats: {
-        downloads:  26048
+        downloads:  26568
         updated_at: 1756235262000
     }
 }

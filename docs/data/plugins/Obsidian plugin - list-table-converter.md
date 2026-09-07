@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/list-table-converter
 alt:
   - https://github.com/paddomanno/obsidian-list-table-converter
-downloads: 1523
+downloads: 1634
 updated at: "2026-04-15T16:17:21Z"
 related to:
   - "[[GitHub - 1061212511]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert selected lines or list items (plain lines, bullets, numbers, checkboxes) into a Markdown table, placing each line in its own row. Add an empty header row and extra columns as needed to shape the resulting table."
 
     stats: {
-        downloads:  1523
+        downloads:  1634
         updated_at: 1776269841000
     }
 }

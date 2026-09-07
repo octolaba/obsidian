@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quran-inserter
 alt:
   - https://github.com/ramysami/obsidian-quran-plugin
-downloads: 100
+downloads: 110
 updated at: "2026-04-21T22:28:05Z"
 related to:
   - "[[GitHub - 1213709590]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert Quranic verses directly into your notes via the Al Quran Cloud API. Search by surah:verse (e.g., 2:255) and place the fetched text at the cursor with proper line breaks; trigger from the command palette, ribbon, or a hotkey."
 
     stats: {
-        downloads:  100
+        downloads:  110
         updated_at: 1776810485000
     }
 }

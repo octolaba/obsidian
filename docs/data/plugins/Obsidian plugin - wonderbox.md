@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wonderbox
 alt:
   - https://github.com/chrstn67/WonderBox
-downloads: 1226
+downloads: 1264
 updated at: "2024-12-23T15:19:09Z"
 related to:
   - "[[GitHub - 899382203]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Transform custom Markdown blocks like :::type[Title]...::: into stylized boxes inside Obsidian. Support multiple box types (note, tip, info, warning, danger, success, error, announcement, progress, etc.) to highlight notes, tips, warnings and critical messages."
 
     stats: {
-        downloads:  1226
+        downloads:  1264
         updated_at: 1734967149000
     }
 }

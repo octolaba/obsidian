@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/jokebakery-sync
 alt:
   - https://github.com/jimhooker/jokebakery-obsidian
-downloads: 73
-updated at: "2026-07-21T09:57:44Z"
+downloads: 97
+updated at: "2026-07-30T15:54:23Z"
 related to:
   - "[[GitHub - 1272125302]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync JokeBakery and your Obsidian vault bidirectionally, converting sprints, jokes, and lists into Markdown files under Sprints/, Jokes/, and Lists/. Push edits back to JokeBakery on the next sync, preserve structured fields and note sections, and log conflicts in a Conflicts/ folder."
 
     stats: {
-        downloads:  73
-        updated_at: 1784627864000
+        downloads:  97
+        updated_at: 1785426863000
     }
 }
 ```

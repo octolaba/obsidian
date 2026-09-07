@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/abbrlink
 alt:
   - https://github.com/hoshino-yumetsuki/obsidian-plugin-abbrlink
-downloads: 656
+downloads: 685
 updated at: "2025-09-25T12:37:28Z"
 related to:
   - "[[GitHub - 890790564]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate permanent unique links for Markdown files by adding an abbrlink field to each file's frontmatter. Use automatic or manual batch generation, choose hash length or random SHA256 mode, detect and prevent collisions, and skip files that already have abbrlinks."
 
     stats: {
-        downloads:  656
+        downloads:  685
         updated_at: 1758803848000
     }
 }

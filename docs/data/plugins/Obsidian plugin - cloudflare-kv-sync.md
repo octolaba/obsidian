@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cloudflare-kv-sync
 alt:
   - https://github.com/alexmensch/obsidian-cloudflare-kv-sync
-downloads: 149
+downloads: 193
 updated at: "2026-05-30T12:53:22Z"
 related to:
   - "[[GitHub - 1035511939]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Markdown files to Cloudflare KV using frontmatter flags, auto-assign unique IDs, and detect/auto-correct duplicate KV keys during full sync. Organize keys with optional collection prefixes, handle collection changes and remove old keys automatically, and log errors to a persistent file in your vault. Debounce uploads to prevent excessive API calls and provide manual ribbon/command controls for on-demand operations."
 
     stats: {
-        downloads:  149
+        downloads:  193
         updated_at: 1780145602000
     }
 }

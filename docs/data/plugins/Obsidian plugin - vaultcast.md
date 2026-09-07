@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/vaultcast
 alt:
   - https://github.com/sourit2001/vault-cast
-downloads: 93
-updated at: "2026-06-21T08:46:59Z"
+downloads: 115
+updated at: "2026-07-25T15:50:17Z"
 related to:
   - "[[GitHub - 1275788704]]"
 remind me:
@@ -36,8 +36,8 @@ plugin: {
     description: "A cute private podcast player for local audio files in your Obsidian vault. - This plugin has not been manually reviewed by Obsidian staff."
 
     stats: {
-        downloads:  93
-        updated_at: 1782031619000
+        downloads:  115
+        updated_at: 1784994617000
     }
 }
 ```

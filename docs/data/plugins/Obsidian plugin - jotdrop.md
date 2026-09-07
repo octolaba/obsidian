@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/jotdrop
 alt:
   - https://github.com/diexar-labs/jotdrop
-downloads: 340
-updated at: "2026-07-11T19:34:40Z"
+downloads: 468
+updated at: "2026-08-11T07:12:26Z"
 related to:
   - "[[GitHub - 1233863881]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "JotDrop is a free, open-source Google Keep alternative built for Obsidian: all the speed of Google Keep, but every note stays a plain Markdown file in your own vault. No Google account, no cloud, no ads, no tracking. It's a trio that works together. The Obsidian plugin shows your notes as a Google Keep-style card grid — colors, tags, pins, reminders, search and filter. The companion Android app adds share-sheet capture, OCR and voice-to-text from your phone. The Chrome web clipper saves any page straight into your vault. Capture a thought, link, photo or voice memo in seconds, from desktop, Android or browser. Sync with Syncthing (or any folder sync) and you get the full Google Keep experience — fully offline, fully yours. If you want a private, self-hosted Google Keep alternative that keeps your notes in open Markdown, JotDrop is it."
 
     stats: {
-        downloads:  340
-        updated_at: 1783798480000
+        downloads:  468
+        updated_at: 1786432346000
     }
 }
 ```

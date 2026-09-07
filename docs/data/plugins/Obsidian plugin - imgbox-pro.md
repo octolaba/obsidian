@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/imgbox-pro
 alt:
   - https://github.com/nightfall-yl/obsidian-imgbox-pro
-downloads: 114
+downloads: 122
 updated at: "2026-05-29T09:01:16Z"
 related to:
   - "[[GitHub - 1202027523]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Localize images and attachments from web, paste or drag-and-drop and store them locally with timestamp+MD5 naming and deduplication controls. Preview and navigate images on desktop and mobile and jump to the original note. Clean unused images and attachments vault-wide or per-folder."
 
     stats: {
-        downloads:  114
+        downloads:  122
         updated_at: 1780045276000
     }
 }

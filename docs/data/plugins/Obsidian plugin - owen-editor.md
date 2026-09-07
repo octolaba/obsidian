@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/owen-editor
 alt:
   - https://github.com/towishy/owen-editor
-downloads: 445
-updated at: "2026-07-22T14:48:05Z"
+downloads: 574
+updated at: "2026-07-30T01:50:18Z"
 related to:
   - "[[GitHub - 1222411360]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add a lightweight floating glass toolbar for fast Markdown editing, writing, research, report drafting, table conversion, and inserting Owen Graphite theme snippets. Offer refined tooltips, favorites, mobile selection context, improved table builder flow, and popout compatibility."
 
     stats: {
-        downloads:  445
-        updated_at: 1784731685000
+        downloads:  574
+        updated_at: 1785376218000
     }
 }
 ```

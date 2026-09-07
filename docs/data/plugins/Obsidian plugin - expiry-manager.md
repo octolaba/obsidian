@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/expiry-manager
 alt:
   - https://github.com/sahilium/expiry-manager
-downloads: 54
+downloads: 85
 updated at: "2026-07-21T15:35:08Z"
 related to:
   - "[[GitHub - 1305677228]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track expirations for subscriptions, licenses, domains, certificates and warranties as plain Markdown notes with YAML frontmatter to avoid lock-in. View a dashboard with compact cards, progress bars, timeline and calendar views, get Obsidian-native notifications, templates, search/filters, and auto-create renewal cycles."
 
     stats: {
-        downloads:  54
+        downloads:  85
         updated_at: 1784648108000
     }
 }

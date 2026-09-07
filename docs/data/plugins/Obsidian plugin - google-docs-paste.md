@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/google-docs-paste
 alt:
   - https://github.com/bfgpollara/obsidian-google-docs-paste
-downloads: 520
+downloads: 624
 updated at: "2026-05-19T20:39:54Z"
 related to:
   - "[[GitHub - 1243050902]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Paste content from Google Docs into Obsidian and preserve rich formatting instead of collapsing to plain text. Convert Google Docs HTML into semantic markup: restore bold/italic/underline/strikethrough/sub/superscript, detect headings, flatten lists, fix Google redirect links, convert tables to Markdown, and keep images as remote or downloadable attachments."
 
     stats: {
-        downloads:  520
+        downloads:  624
         updated_at: 1779223194000
     }
 }

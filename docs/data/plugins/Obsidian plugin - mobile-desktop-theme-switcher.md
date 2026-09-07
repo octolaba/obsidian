@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mobile-desktop-theme-switcher
 alt:
   - https://github.com/asingularphoton/different-mobile-desktop-themes
-downloads: 567
+downloads: 609
 updated at: "2026-06-07T04:47:49Z"
 related to:
   - "[[GitHub - 1153847098]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Switch themes automatically between mobile and desktop based on the platform. Set separate themes for mobile and desktop and apply the correct theme at startup or on demand with a manual command."
 
     stats: {
-        downloads:  567
+        downloads:  609
         updated_at: 1780807669000
     }
 }

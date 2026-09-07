@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/dataview-properties
 alt:
   - https://github.com/mara-li/obsidian-dataview-properties
-downloads: 9819
+downloads: 10698
 updated at: "2026-07-09T10:52:53Z"
 related to:
   - "[[GitHub - 973739233]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy Dataview inline fields and evaluated values into YAML frontmatter and keep them synchronized. Support DQL and DataviewJS (block or inline), automatic or manual sync, optional frontmatter cleanup when fields are removed, and granular options for prefixes, exclusions, case and accent handling."
 
     stats: {
-        downloads:  9819
+        downloads:  10698
         updated_at: 1783594373000
     }
 }

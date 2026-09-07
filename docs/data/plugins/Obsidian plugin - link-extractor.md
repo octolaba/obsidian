@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/link-extractor
 alt:
   - https://github.com/andym-dc/obsidian-link-extractor
-downloads: 102
+downloads: 113
 updated at: "2026-05-19T02:35:21Z"
 related to:
   - "[[GitHub - 1243053528]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scan notes for external http/https links and copy them as a deduplicated list. Detect markdown links, bare URLs, and angle-bracket links, and export in plain, bullet, numbered, or markdown-link formats with one-click copy to clipboard."
 
     stats: {
-        downloads:  102
+        downloads:  113
         updated_at: 1779158121000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/songwriter
 alt:
   - https://github.com/wesswart77/obsidian-songwriter
-downloads: 309
+downloads: 395
 updated at: "2026-05-24T20:06:33Z"
 related to:
   - "[[GitHub - 1248532340]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create structured song notes with metadata (title, status, key, tempo, time signature, genre, themes, influences) and frontmatter-based sections for lyrics, chords, notes, and recording ideas. Capture lyric snippets, quick-launch a rhyme helper, and browse songs in a sidebar grouped by status with title, key, and badges."
 
     stats: {
-        downloads:  309
+        downloads:  395
         updated_at: 1779653193000
     }
 }

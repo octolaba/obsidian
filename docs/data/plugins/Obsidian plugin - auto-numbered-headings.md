@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/auto-numbered-headings
 alt:
   - https://github.com/yu-zou/obsidian-auto-numbered-headings
-downloads: 407
-updated at: "2026-06-29T16:49:10Z"
+downloads: 632
+updated at: "2026-08-02T17:03:51Z"
 related to:
   - "[[GitHub - 1178995928]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Auto-number headings in real time as you type, writing numbers directly into your Markdown so numbering is preserved across editors and exports. Activate a section by prefixing its heading with a number and dot (e.g. \"# 1. Title\"); support hierarchical renumbering when moving, adding, or deleting sections."
 
     stats: {
-        downloads:  407
-        updated_at: 1782751750000
+        downloads:  632
+        updated_at: 1785690231000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/todo-highlighter
 alt:
   - https://github.com/heavenlygaze/obsidian-todo-highlighter
-downloads: 786
+downloads: 812
 updated at: "2025-04-20T20:17:47Z"
 related to:
   - "[[GitHub - 961344992]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight all exact TODO occurrences in edit and preview with a user-selected color. Detect whole-word TODO and render preview as a colored span and edit mode via CodeMirror decoration. Update highlights live when you change the color."
 
     stats: {
-        downloads:  786
+        downloads:  812
         updated_at: 1745180267000
     }
 }

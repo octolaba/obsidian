@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-doubleshift
 alt:
   - https://github.com/qwyntex/doubleshift
-downloads: 30921
+downloads: 32216
 updated at: "2026-02-25T23:49:57Z"
 related to:
   - "[[GitHub - 468305993]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Activate commands by double-pressing a modifier key (e.g., Shift) to trigger any Obsidian command. Distinguish left/right modifiers and assign multiple double-press bindings to run different commands, including those from other plugins."
 
     stats: {
-        downloads:  30921
+        downloads:  32216
         updated_at: 1772063397000
     }
 }

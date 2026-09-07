@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/custom-image-auto-uploader
 alt:
   - https://github.com/haierkeys/obsidian-custom-image-auto-uploader
-downloads: 4709
+downloads: 4878
 updated at: "2025-12-16T08:16:42Z"
 related to:
   - "[[GitHub - 894887867]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync note images to cloud or local servers in one click, with batch download/upload across the vault to WebDAV, S3, OSS, Cloudflare R2, MinIO or self-hosted endpoints. Process images instantly—crop, compress, resize or stretch (cover/contain/fit), auto-upload via drag-and-drop or paste, and remove unlinked local images with a single action on Windows, macOS, Linux, Android and iOS."
 
     stats: {
-        downloads:  4709
+        downloads:  4878
         updated_at: 1765873002000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-day-and-night
 alt:
   - https://github.com/cybert17/obsidian-day-and-night
-downloads: 9699
+downloads: 10024
 updated at: "2026-05-13T03:37:39Z"
 related to:
   - "[[GitHub - 519033549]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Switch between light and dark themes on a set schedule to apply chosen day and night color schemes. Toggle themes instantly with a ribbon icon and pause automatic switching for the rest of the day when overridden. Turn automatic switching on or off from plugin settings."
 
     stats: {
-        downloads:  9699
+        downloads:  10024
         updated_at: 1778643459000
     }
 }

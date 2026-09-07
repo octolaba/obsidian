@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/local-version-history
 alt:
   - https://github.com/bartlab/obsidian-local-history
-downloads: 287
+downloads: 407
 updated at: "2026-07-11T13:31:05Z"
 related to:
   - "[[GitHub - 1005801472]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Give each note a local, on-disk time machine with per-file version history, live per-line highlighting, and colored gutter, file-tree, and tab change markers. Browse, diff, pin, restore, or revert any point and recover deleted or moved files — all fully local with no account or network."
 
     stats: {
-        downloads:  287
+        downloads:  407
         updated_at: 1783776665000
     }
 }

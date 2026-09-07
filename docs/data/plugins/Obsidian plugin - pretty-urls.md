@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pretty-urls
 alt:
   - https://github.com/daun/obsidian-pretty-urls
-downloads: 120
+downloads: 265
 updated at: "2026-05-17T13:00:57Z"
 related to:
   - "[[GitHub - 1130446682]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Strip common URL prefixes in reading view, removing protocols and subdomains such as http://, https://, www., m., mobile., and amp. Keep original note content and link targets unchanged while showing cleaner, shorter link text."
 
     stats: {
-        downloads:  120
+        downloads:  265
         updated_at: 1779022857000
     }
 }

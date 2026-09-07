@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/git-file-explorer
 alt:
   - https://github.com/mateusmolina/obsidian-git-file-explorer
-downloads: 3395
+downloads: 3480
 updated at: "2026-05-05T17:34:53Z"
 related to:
   - "[[GitHub - 733852417]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Integrate Git into the file explorer to show repository status, changed-file counts, and visual markers for uncommitted changes. Stage and commit all changes in one click with optional auto-generated messages. Run pull-then-push syncs with visual feedback or scheduled auto-sync, open the system diff tool from the context menu, and initialize repositories from the explorer."
 
     stats: {
-        downloads:  3395
+        downloads:  3480
         updated_at: 1778002493000
     }
 }

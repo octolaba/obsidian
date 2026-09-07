@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vuln-report-kit
 alt:
   - https://github.com/aleff-github/vuln-report-kit
-downloads: 55
+downloads: 82
 updated at: "2026-07-02T20:24:15Z"
 related to:
   - "[[GitHub - 1287548264]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create structured vulnerability cases and document target, reproduction, impact, evidence, remediation, and timeline in your local Obsidian vault. Use templates and a dashboard to scan for secrets, produce sanitized public copies, and export final Markdown reports, bundles, and shareable archives."
 
     stats: {
-        downloads:  55
+        downloads:  82
         updated_at: 1783023855000
     }
 }

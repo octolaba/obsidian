@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cosmos-sync
 alt:
   - https://github.com/stevenmichaelthomas/cosmos-obsidian
-downloads: 229
+downloads: 248
 updated at: "2026-05-31T02:12:26Z"
 related to:
   - "[[GitHub - 1208833008]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn your Obsidian vault into a solar system by mapping each file's structure—length, density, and form—into bodies like planets, moons, asteroids, and comets. Send only one-way, device-local cryptographic transforms that output orbital parameters (size, mass, eccentricity, color) so your words never leave the device."
 
     stats: {
-        downloads:  229
+        downloads:  248
         updated_at: 1780193546000
     }
 }

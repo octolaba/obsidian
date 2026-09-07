@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-rss
 alt:
   - https://github.com/monnierant/obsidian-simple-rss
-downloads: 29952
+downloads: 30374
 updated at: "2024-01-20T21:02:06Z"
 related to:
   - "[[GitHub - 650682212]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Pull RSS feeds into your vault and create notes from feed items using Mustache templates for titles and content. Define custom feed types and fields, set per-feed folders, and schedule automatic pulls to import updates."
 
     stats: {
-        downloads:  29952
+        downloads:  30374
         updated_at: 1705784526000
     }
 }

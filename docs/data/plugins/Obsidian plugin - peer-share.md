@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/peer-share
 alt:
   - https://github.com/gapmiss/peer-share
-downloads: 217
+downloads: 250
 updated at: "2026-06-06T21:56:58Z"
 related to:
   - "[[GitHub - 1103421456]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Share files and folders between Obsidian vaults over WebRTC with PairDrop-compatible peer-to-peer connections. Pair devices and auto-discover peers on the same network, monitor real-time transfer progress and searchable history, and get optional desktop notifications; supports desktop and mobile."
 
     stats: {
-        downloads:  217
+        downloads:  250
         updated_at: 1780783018000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-extract-pdf-annotations
 alt:
   - https://github.com/munach/obsidian-extract-pdf-annotations
-downloads: 24421
+downloads: 24765
 updated at: "2026-07-06T22:11:15Z"
 related to:
   - "[[GitHub - 466452533]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Extract annotations from PDF files inside or outside your vault, including highlights, underlines, squiggles, notes and free text. Insert extracted items at the cursor or create per-file \"Annotations for <filename>\" notes from an open PDF, a clipboard path, or batch-process folders with templates and selectable annotation types."
 
     stats: {
-        downloads:  24421
+        downloads:  24765
         updated_at: 1783375875000
     }
 }

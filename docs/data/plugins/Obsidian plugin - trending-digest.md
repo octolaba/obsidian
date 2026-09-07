@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/trending-digest
 alt:
   - https://github.com/alex-de-kora/obsidian-trending-digest
-downloads: 110
+downloads: 144
 updated at: "2026-06-12T14:09:01Z"
 related to:
   - "[[GitHub - 1267390669]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Aggregate trending content from 25+ sources (GitHub, Hacker News, Medium, arXiv, Reddit, X via Nitter) and score each item with AI on relevance, usefulness, novelty, and popularity. Write a daily curated Markdown digest into your vault with summaries, scores, tags, and frontmatter. Filter by 20+ focus areas and schedule runs or trigger manually; repeat runs append new items without overwriting."
 
     stats: {
-        downloads:  110
+        downloads:  144
         updated_at: 1781273341000
     }
 }

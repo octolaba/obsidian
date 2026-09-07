@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/music-catalog
 alt:
   - https://github.com/jimparrillo/obsidian-music-catalog
-downloads: 203
+downloads: 244
 updated at: "2026-06-10T19:37:24Z"
 related to:
   - "[[GitHub - 1182794021]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Catalog vinyl and CD collections by scanning UPC barcodes or searching title, artist, label, composer, or conductor to pull metadata from Discogs and MusicBrainz. Save structured notes with cover art, condition grades, copies, value, acquisition date, and custom fields, then manage entries in a dedicated catalog table with Obsidian Bases."
 
     stats: {
-        downloads:  203
+        downloads:  244
         updated_at: 1781120244000
     }
 }

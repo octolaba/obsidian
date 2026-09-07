@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-banana
 alt:
   - https://github.com/liuyangart/obsidian-canvas-banana
-downloads: 746
+downloads: 759
 updated at: "2026-03-06T10:05:56Z"
 related to:
   - "[[GitHub - 1115297134]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Bring context-aware AI to Canvas and notes, enabling interactive chat, inline node editing, and multi-turn conversations that use selected nodes or text as context. Generate images from prompts, produce node-based mindmap responses, and run concurrent streaming tasks across multiple AI providers for on-the-fly text and image creation."
 
     stats: {
-        downloads:  746
+        downloads:  759
         updated_at: 1772791556000
     }
 }

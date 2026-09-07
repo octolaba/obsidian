@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jot
 alt:
   - https://github.com/bverbeken/jot
-downloads: 675
+downloads: 884
 updated at: "2026-06-20T18:26:07Z"
 related to:
   - "[[GitHub - 1258037071]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Handwrite annotations on PDFs using Apple Pencil with pressure-sensitive ink, pen, highlighter and eraser. Store strokes in a tiny JSON sidecar next to each PDF so the original file stays unchanged and annotations sync via Git or iCloud across devices. Merge annotations into a flattened PDF or edit per‑PDF with undo/redo and a radial tool palette for quick tool, color and width selection."
 
     stats: {
-        downloads:  675
+        downloads:  884
         updated_at: 1781979967000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/title-generator
 alt:
   - https://github.com/jaschaephraim/obsidian-title-generator
-downloads: 3975
+downloads: 3993
 updated at: "2023-10-11T17:10:24Z"
 related to:
   - "[[GitHub - 701832367]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Generate descriptive titles for single or multiple notes using OpenAI's GPT-3.5, based on each note's content. Set titles directly on notes and rerun to produce alternative variations."
 
     stats: {
-        downloads:  3975
+        downloads:  3993
         updated_at: 1697044224000
     }
 }

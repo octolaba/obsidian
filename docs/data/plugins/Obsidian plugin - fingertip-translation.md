@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/fingertip-translation
 alt:
   - https://github.com/huangchen-byte/obsdian-fingertip-translation
-downloads: 1081
-updated at: "2026-05-14T03:30:21Z"
+downloads: 1238
+updated at: "2026-08-05T15:14:49Z"
 related to:
   - "[[GitHub - 1224531481]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Translate selected text instantly using Bing, Youdao or MyMemory and display phonetics, parts of speech and exam-category tags. Play pronunciations automatically or on demand with US/UK accents, move the translation popup and dismiss it to keep notes uncluttered."
 
     stats: {
-        downloads:  1081
-        updated_at: 1778729421000
+        downloads:  1238
+        updated_at: 1785942889000
     }
 }
 ```

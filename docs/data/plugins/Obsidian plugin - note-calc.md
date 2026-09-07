@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/note-calc
 alt:
   - https://github.com/q7jxb7yxdk-star/Note-Calc
-downloads: 212
+downloads: 298
 updated at: "2026-07-15T10:09:58Z"
 related to:
   - "[[GitHub - 1274838692]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show inline arithmetic results for lines ending with '=' in Live Preview and Reading view without altering the Markdown source. Evaluate +, −, -, *, ×, /, ÷, %, ^, parentheses, decimals and scientific notation; ignore code blocks, math, frontmatter and links and never write answers into the file."
 
     stats: {
-        downloads:  212
+        downloads:  298
         updated_at: 1784110198000
     }
 }

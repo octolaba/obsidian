@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hotkey-capture
 alt:
   - https://github.com/mihailgusev/hotkey-capture
-downloads: 103
+downloads: 111
 updated at: "2026-02-08T16:51:00Z"
 related to:
   - "[[GitHub - 1149166228]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Capture and insert keyboard shortcuts directly into your notes. Show modifier keys, comma-separated key sequences, and readable names for special keys, with a live status-bar indicator and direct insertion at the cursor."
 
     stats: {
-        downloads:  103
+        downloads:  111
         updated_at: 1770569460000
     }
 }

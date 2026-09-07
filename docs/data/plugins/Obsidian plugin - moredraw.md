@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/moredraw
 alt:
   - https://github.com/webceoboy/moredraw-obsidian
-downloads: 7570
+downloads: 7724
 updated at: "2025-03-03T07:52:07Z"
 related to:
   - "[[GitHub - 906561930]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create an infinite-canvas whiteboard with AI-assisted flowcharts, mind maps, diagrams, and freehand sketches. Insert live whiteboards into notes, export to PDF/PNG/PPT, and sync via the MoreDraw remote service (account and some paid features required)."
 
     stats: {
-        downloads:  7570
+        downloads:  7724
         updated_at: 1740988327000
     }
 }

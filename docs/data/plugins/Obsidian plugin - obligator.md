@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obligator
 alt:
   - https://github.com/newbrict/obsidian-obligator
-downloads: 12744
+downloads: 12816
 updated at: "2024-01-16T17:45:59Z"
 related to:
   - "[[GitHub - 651248602]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Replace the built-in Daily Notes with a dated-note workflow that copies unchecked todos, preserves headings and formatting, and carries scheduled items into each new daily note. Use template macros like {{date}}, {{previous_note}}, {{next_note}}, and {{obligate * * *}} to add backlinks, create recurring to-dos with a simplified cron-style syntax, and organize notes in nested date folders."
 
     stats: {
-        downloads:  12744
+        downloads:  12816
         updated_at: 1705427159000
     }
 }

@@ -12,7 +12,7 @@ tags:
 url: https://community.obsidian.md/plugins/vibgyor
 alt:
   - https://github.com/zerodark-0/vIbGyOr
-downloads: 167
+downloads: 209
 updated at: "2026-05-28T12:37:24Z"
 related to:
   - "[[GitHub - 1212509512]]"
@@ -36,7 +36,7 @@ plugin: {
     about:       "Customize note appearance with per-note page, text, link, and accent colors and add selectable background patterns using a visual editor or frontmatter. Apply built-in presets or create reusable palettes, auto-tint transparent images to match pen color, and see changes update in real time."
 
     stats: {
-        downloads:  167
+        downloads:  209
         updated_at: 1779971844000
     }
 }

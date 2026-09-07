@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/symlink-creator
 alt:
   - https://github.com/pteridin/obsidian_symlink_plugin
-downloads: 1480
+downloads: 1535
 updated at: "2024-10-31T12:24:00Z"
 related to:
   - "[[GitHub - 861267951]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create symlinks and junctions for files and folders inside or outside your vault. Use OS-native commands on Desktop: ln -s on macOS/Linux, mklink (admin required for cross-drive symlinks) and mklink /J on Windows. Run only in Desktop mode and exercise caution—symlinks can cause data loss."
 
     stats: {
-        downloads:  1480
+        downloads:  1535
         updated_at: 1730377440000
     }
 }

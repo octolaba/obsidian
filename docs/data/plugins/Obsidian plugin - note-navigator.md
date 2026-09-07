@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/note-navigator
 alt:
   - https://github.com/mudnug/note-navigator
-downloads: 901
-updated at: "2026-07-24T05:22:39Z"
+downloads: 1085
+updated at: "2026-07-31T20:41:57Z"
 related to:
   - "[[GitHub - 1016868588]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Streamline note review by navigating files in folder or vault order and deleting notes while automatically opening the next logical file. Remove orphaned attachments and empty folders, track deleted items, and scroll past the end of notes for tail logging."
 
     stats: {
-        downloads:  901
-        updated_at: 1784870559000
+        downloads:  1085
+        updated_at: 1785530517000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quicker-wheel
 alt:
   - https://github.com/nocodeuse-dev/obsidian-quicker-wheel
-downloads: 402
+downloads: 557
 updated at: "2026-06-11T22:58:24Z"
 related to:
   - "[[GitHub - 1261261130]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a Quicker-style radial wheel to access Obsidian commands, files, URIs and scripts via a tap or floating button. Execute actions with 8-direction swipes, short-press to open and long-press-drag to move the button. Bind slots to commands or files and tap empty cells to create actions."
 
     stats: {
-        downloads:  402
+        downloads:  557
         updated_at: 1781218704000
     }
 }

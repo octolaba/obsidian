@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/change-case
 alt:
   - https://github.com/dbrockman/obsidian-change-case
-downloads: 22483
+downloads: 22948
 updated at: "2024-11-29T07:28:47Z"
 related to:
   - "[[GitHub - 687966084]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Change the case of selected text with commands for lower, UPPER, camelCase, PascalCase, snake_case, kebab-case, CONSTANT_CASE, Sentence case, Train-Case, dot.case, path/case and more. Apply changes to multiple selections in a single undoable transaction and pick actions from a selection modal with locale-aware casing."
 
     stats: {
-        downloads:  22483
+        downloads:  22948
         updated_at: 1732865327000
     }
 }

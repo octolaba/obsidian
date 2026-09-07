@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/file-filter
 alt:
   - https://github.com/lumargh/obsidian-file-filter
-downloads: 181
+downloads: 212
 updated at: "2026-06-12T02:50:00Z"
 related to:
   - "[[GitHub - 1258909137]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "File Filter allows you to filer your pages (and sidebar) by a search term. Everything that doesn't match what you're looking for fades away."
 
     stats: {
-        downloads:  181
+        downloads:  212
         updated_at: 1781232600000
     }
 }

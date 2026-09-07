@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/gcal-sidebar
 alt:
   - https://github.com/shawnsomething/obsidian-gcal
-downloads: 280
+downloads: 359
 updated at: "2026-06-14T20:32:10Z"
 related to:
   - "[[GitHub - 1239178933]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display an interactive Google Calendar sidebar inside Obsidian (desktop-only) with multiple accounts, day/3-day/week views, density toggle and mini-month navigation. Create, edit and drag events with bi-directional sync, manage recurring events, and accept/decline/tentative invites."
 
     stats: {
-        downloads:  280
+        downloads:  359
         updated_at: 1781469130000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/lite-tabs
 alt:
   - https://github.com/azona77/lite-tabs
-downloads: 746
-updated at: "2026-07-04T14:08:25Z"
+downloads: 1399
+updated at: "2026-08-11T10:09:15Z"
 related to:
   - "[[GitHub - 1246529439]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Display open editor tabs in an independent sidebar panel with vertical list, card and masonry views. Supports basic drag-and-drop reordering and pinned tag features."
 
     stats: {
-        downloads:  746
-        updated_at: 1783174105000
+        downloads:  1399
+        updated_at: 1786442955000
     }
 }
 ```

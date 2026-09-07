@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-binary-file-manager-plugin
 alt:
   - https://github.com/qawatake/obsidian-binary-file-manager-plugin
-downloads: 12491
+downloads: 12622
 updated at: "2022-01-07T11:26:53Z"
 related to:
   - "[[GitHub - 443005849]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create Markdown metadata files for new binary files added to your vault by detecting images, PDFs and other binaries. Expose binaries to Obsidian features like full-text search, tags, aliases and internal/embedded links, and generate metadata with customizable templates or Templater."
 
     stats: {
-        downloads:  12491
+        downloads:  12622
         updated_at: 1641554813000
     }
 }

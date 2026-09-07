@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/share-note
 alt:
   - https://github.com/alangrainger/share-note
-downloads: 104767
+downloads: 107407
 updated at: "2026-06-16T00:24:03Z"
 related to:
   - "[[GitHub - 531779864]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Share notes instantly on the web with full theme and custom CSS support so shared pages match your Obsidian appearance and correctly render images, Dataview queries, callouts, code blocks, checkboxes, tags and a table of contents. Encrypt note text by default with per-note or global controls so only recipients, not the host, can read content; attachments remain unencrypted and internal links between shared notes continue to work."
 
     stats: {
-        downloads:  104767
+        downloads:  107407
         updated_at: 1781569443000
     }
 }

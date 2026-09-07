@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/papertrail
 alt:
   - https://github.com/ankitchouhan1020/papertrail
-downloads: 176
+downloads: 189
 updated at: "2026-05-21T11:43:15Z"
 related to:
   - "[[GitHub - 1233992988]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse every Markdown note from the sidebar as compact cards showing title, excerpt, and modified date, keeping the list beside the editor so you don't lose context. Use the footer to filter or quick-create notes and right-click rows for File Explorer actions like open in new tab, rename, delete, and reveal."
 
     stats: {
-        downloads:  176
+        downloads:  189
         updated_at: 1779363795000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/notes-sync-share
 alt:
   - https://github.com/alt-er/obsidian-sync-share
-downloads: 5740
+downloads: 5753
 updated at: "2023-11-28T15:24:07Z"
 related to:
   - "[[GitHub - 648996566]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync notes to a self-hosted service and keep your vault updated across devices. Publish and share selected notes to your private server for collaboration or distribution. Store data on your own infrastructure to maintain privacy and control."
 
     stats: {
-        downloads:  5740
+        downloads:  5753
         updated_at: 1701185047000
     }
 }

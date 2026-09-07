@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/notion-bases
 alt:
   - https://github.com/bgarciamoura/obsidian-notion-bases-plugin
-downloads: 13278
-updated at: "2026-07-20T15:00:43Z"
+downloads: 16303
+updated at: "2026-07-28T23:33:36Z"
 related to:
   - "[[GitHub - 1179546277]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Turn any folder into a Notion-style database with Table, Board, Gallery, List, Calendar, Timeline (Gantt) and Chart views using plain Markdown and frontmatter. Create rich data models with 18 column types, spreadsheet-style formulas, relations, rollups, subtasks, advanced filters and pure SVG charts, all stored in local Markdown files."
 
     stats: {
-        downloads:  13278
-        updated_at: 1784559643000
+        downloads:  16303
+        updated_at: 1785281616000
     }
 }
 ```

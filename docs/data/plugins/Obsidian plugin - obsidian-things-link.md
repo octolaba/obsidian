@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-things-link
 alt:
   - https://github.com/gavinmn/obsidian-things-link
-downloads: 7509
+downloads: 7534
 updated at: "2022-02-25T16:47:37Z"
 related to:
   - "[[GitHub - 459840593]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create Things projects from the current note and add deeplinks between the note and project for quick navigation. Create Things tasks from the current line and send them to the Things Inbox while adding deeplinks back to the originating note line."
 
     stats: {
-        downloads:  7509
+        downloads:  7534
         updated_at: 1645807657000
     }
 }

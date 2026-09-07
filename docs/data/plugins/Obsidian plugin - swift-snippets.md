@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/swift-snippets
 alt:
   - https://github.com/dlsdgj/Obsidian-SwiftSnippets
-downloads: 310
+downloads: 388
 updated at: "2026-07-06T14:11:41Z"
 related to:
   - "[[GitHub - 1273533862]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Tired of clicking through settings just to flip a snippet, switch themes, or change modes? SwiftSwitch puts all of it one scroll or click away. A status bar popup handles CSS snippets (with grouping and drag reorder), while a floating button lets you scroll through eye-care modes — including 5 breathing effects like 4-7-8 and Box breathing — and Ctrl+scroll through your installed themes. You can also set up auto-switching by page, so snippets, themes, and light/dark mode change on their own as you navigate. Multi-language UI included."
 
     stats: {
-        downloads:  310
+        downloads:  388
         updated_at: 1783347101000
     }
 }

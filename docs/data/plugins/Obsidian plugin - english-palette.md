@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/english-palette
 alt:
   - https://github.com/tzengyuxio/obsidian-english-palette
-downloads: 381
+downloads: 455
 updated at: "2026-04-09T23:28:10Z"
 related to:
   - "[[GitHub - 1206112580]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Search commands in English from the Command Palette regardless of your UI language. Append readable English keywords (derived from command IDs, e.g., workspace:split-vertical → workspace split vertical) to each command name so both localized and English terms are searchable."
 
     stats: {
-        downloads:  381
+        downloads:  455
         updated_at: 1775777290000
     }
 }

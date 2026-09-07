@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/tasknotes-workflows
 alt:
   - https://github.com/callumalpass/tasknotes-workflows
-downloads: 1274
-updated at: "2026-06-01T11:19:46Z"
+downloads: 1996
+updated at: "2026-08-09T05:44:04Z"
 related to:
   - "[[GitHub - 1255460870]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Automate TaskNotes workflows using editable Markdown files stored in your vault. Start or stop time tracking on status changes, clear or roll scheduled dates, raise priority as due dates approach, mirror parent metadata into subtasks, and trigger reminders for blocked tasks."
 
     stats: {
-        downloads:  1274
-        updated_at: 1780312786000
+        downloads:  1996
+        updated_at: 1786254244000
     }
 }
 ```

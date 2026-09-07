@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/line-ending-controller
 alt:
   - https://github.com/anseyuyin/line-ending-controller
-downloads: 8
+downloads: 56
 updated at: "2026-07-22T14:45:25Z"
 related to:
   - "[[GitHub - 1308586315]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Control line ending format (LF or CRLF) per file or folder and automatically fix endings on save or open to prevent silent conversions and unexpected Git diffs. Show the current file's ending in the status bar, run manual conversions on demand, and apply per-file or per-folder rules to enforce different strategies across your vault."
 
     stats: {
-        downloads:  8
+        downloads:  56
         updated_at: 1784731525000
     }
 }

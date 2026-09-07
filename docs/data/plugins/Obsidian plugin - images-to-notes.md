@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/images-to-notes
 alt:
   - https://github.com/rodolfo-terriquez/images-to-notes
-downloads: 2583
-updated at: "2026-05-12T20:20:11Z"
+downloads: 2647
+updated at: "2026-08-10T23:05:49Z"
 related to:
   - "[[GitHub - 972291868]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Transcribe photos of handwritten or printed notes into Markdown using AI. Create a new note for each image, append the image at the bottom, and process multiple files queued when you drag and drop images into a folder (JPG, JPEG, PNG, HEIC)."
 
     stats: {
-        downloads:  2583
-        updated_at: 1778617211000
+        downloads:  2647
+        updated_at: 1786403149000
     }
 }
 ```

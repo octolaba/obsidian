@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-in-terminal
 alt:
   - https://github.com/feng6611/Obsidian-open-in-Teminal
-downloads: 32522
+downloads: 34010
 updated at: "2026-07-13T17:05:45Z"
 related to:
   - "[[GitHub - 1074735643]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open the current vault folder in your preferred terminal from the command palette. Run optional CLI tools (claude, codex, agent, gemini, opencode) or execute Git actions (commit & push, pull) in a new terminal window."
 
     stats: {
-        downloads:  32522
+        downloads:  34010
         updated_at: 1783962345000
     }
 }

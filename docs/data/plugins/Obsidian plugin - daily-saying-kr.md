@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-saying-kr
 alt:
   - https://github.com/randonneurs/daily-saying-kr
-downloads: 78
+downloads: 87
 updated at: "2026-05-16T08:47:49Z"
 related to:
   - "[[GitHub - 1240366023]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Daily Saying KR inserts a random Korean one-line saying into the current note from a local dataset. Use the {{daily-saying-kr}} template placeholder for automatic replacement, or insert a saying instantly from the command palette. Works fully offline."
 
     stats: {
-        downloads:  78
+        downloads:  87
         updated_at: 1778921269000
     }
 }

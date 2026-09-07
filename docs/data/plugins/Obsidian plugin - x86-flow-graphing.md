@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/x86-flow-graphing
 alt:
   - https://github.com/dwolfe884/obsidian-x86-flow-graph
-downloads: 4626
+downloads: 4638
 updated at: "2023-03-13T17:52:17Z"
 related to:
   - "[[GitHub - 597036844]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert x86 assembly blocks into flow diagrams on Obsidian Canvases. Highlight a properly formatted x86 code block and run the x86-create-flow-diagram command to generate nodes and edges, treating jmp as an unconditional single-branch jump and other j* instructions as conditional two-branch jumps; require indented instructions and jump labels with no leading spaces."
 
     stats: {
-        downloads:  4626
+        downloads:  4638
         updated_at: 1678729937000
     }
 }

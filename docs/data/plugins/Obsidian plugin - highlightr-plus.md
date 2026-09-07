@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/highlightr-plus
 alt:
   - https://github.com/bluelephant825/highlightr-plus
-downloads: 1828
+downloads: 2402
 updated at: "2026-06-04T08:49:48Z"
 related to:
   - "[[GitHub - 918274553]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add color-coded highlights and inline tag annotations using a compact, theme-friendly menu that adapts to light and dark modes. Manage marks from the context menu—change color, unhighlight, annotate, edit or erase—and preserve inline CSS so exports remain self-contained."
 
     stats: {
-        downloads:  1828
+        downloads:  2402
         updated_at: 1780562988000
     }
 }

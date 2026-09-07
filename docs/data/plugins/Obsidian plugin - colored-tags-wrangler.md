@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/colored-tags-wrangler
 alt:
   - https://github.com/code-of-chaos/obsidian-colored_tags_wrangler
-downloads: 49669
+downloads: 51722
 updated at: "2025-10-13T08:33:05Z"
 related to:
   - "[[GitHub - 707977619]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Color tags with distinct text and background colors using a built-in color picker, and choose separate text and background shades per tag. Apply tag colors to Canvas cards, Kanban cards and lists, and to folders via folder-note properties; optionally omit the # in Kanban view."
 
     stats: {
-        downloads:  49669
+        downloads:  51722
         updated_at: 1760344385000
     }
 }

@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/hilo
 alt:
   - https://github.com/opellen/Hilo
-downloads: 268
-updated at: "2026-07-20T11:28:18Z"
+downloads: 545
+updated at: "2026-08-11T14:31:29Z"
 related to:
   - "[[GitHub - 1284216340]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add multi-color highlights with Obsidian's native ==text== syntax without breaking inline markdown so bold, links, and italics render correctly. Store only semantic color slugs in notes while hex values live in settings; render highlights identically in Source, Live Preview, and Reading view, and change highlights via context menu or hotkeys."
 
     stats: {
-        downloads:  268
-        updated_at: 1784546898000
+        downloads:  545
+        updated_at: 1786458689000
     }
 }
 ```

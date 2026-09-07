@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/optimize-canvas-connections
 alt:
   - https://github.com/felixchenier/obsidian-optimize-canvas-connections
-downloads: 27064
+downloads: 27741
 updated at: "2023-03-15T16:32:26Z"
 related to:
   - "[[GitHub - 596716918]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Reconnect scattered canvas notes using nearest-edge connections to clean up messy wiring. Choose shortest-path mode for the absolute shortest links or preserve-axes mode to keep original vertical/horizontal flow; apply to a selection or the whole canvas when nothing is selected."
 
     stats: {
-        downloads:  27064
+        downloads:  27741
         updated_at: 1678897946000
     }
 }

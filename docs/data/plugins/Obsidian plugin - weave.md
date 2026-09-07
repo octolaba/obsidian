@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/weave
 alt:
   - https://github.com/zhuzhige123/obsidian---Weave
-downloads: 7978
-updated at: "2026-07-22T10:41:58Z"
+downloads: 11975
+updated at: "2026-08-10T17:55:13Z"
 related to:
   - "[[GitHub - 964556590]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage learning workflows by linking reading materials, FSRS6 spaced-repetition memory cards, and test questions into a traceable, reviewable loop. Generate cards from Markdown excerpts, create tests with EWMA performance tracking, view analytics and sync cards with Anki for cross-platform study."
 
     stats: {
-        downloads:  7978
-        updated_at: 1784716918000
+        downloads:  11975
+        updated_at: 1786384513000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/colorizelt
 alt:
   - https://github.com/wine-ineff/colorizelt
-downloads: 3082
+downloads: 3144
 updated at: "2024-11-07T10:24:28Z"
 related to:
   - "[[GitHub - 857396999]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add quick red, yellow, green, or blue highlights to selected text using keyboard shortcuts or the command palette, with mobile-friendly buttons for touch devices. Remove all colors from a selection using the same shortcuts."
 
     stats: {
-        downloads:  3082
+        downloads:  3144
         updated_at: 1730975068000
     }
 }

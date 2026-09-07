@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/frontmatter-alias-display
 alt:
   - https://github.com/notmuhammad/obsidian-frontmatter-alias-display
-downloads: 5614
+downloads: 5635
 updated at: "2023-05-10T14:27:11Z"
 related to:
   - "[[GitHub - 618457077]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display frontmatter aliases as File Explorer names to show readable titles instead of IDs. Keep original file IDs intact while showing informative aliases for easier navigation in Zettelkasten-style vaults."
 
     stats: {
-        downloads:  5614
+        downloads:  5635
         updated_at: 1683728831000
     }
 }

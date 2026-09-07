@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-image-auto-upload-plugin
 alt:
   - https://github.com/renmu123/obsidian-image-auto-upload-plugin
-downloads: 132770
+downloads: 133873
 updated at: "2024-11-28T05:48:45Z"
 related to:
   - "[[GitHub - 357220374]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Upload pasted or dragged images to remote image beds via PicGo, PicList, or PicGo-Core, handling common formats like PNG, JPG, GIF, SVG, WebP, TIFF, BMP and AVIF. Run commands to bulk-upload local images or download online images to local, and upload via edit-mode context menu or server mode."
 
     stats: {
-        downloads:  132770
+        downloads:  133873
         updated_at: 1732772925000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/kwic
 alt:
   - https://github.com/ayano7an/Firthian-Notion-of-Collocation
-downloads: 16
+downloads: 27
 updated at: "2026-07-17T03:59:25Z"
 related to:
   - "[[GitHub - 1300190810]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Visualize lexical patterns in your vault with a 3D rotating word sphere of frequent collocates; drag to rotate and hover nodes to reveal ±N-token co-occurrences. Click collocates to open a KWIC view with the partner highlighted and jump to the source, and filter analysis by note modification time."
 
     stats: {
-        downloads:  16
+        downloads:  27
         updated_at: 1784260765000
     }
 }

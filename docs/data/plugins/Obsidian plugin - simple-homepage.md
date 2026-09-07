@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-homepage
 alt:
   - https://github.com/dajhiro/obsidian-simple-homepage
-downloads: 53
+downloads: 107
 updated at: "2026-07-23T06:49:17Z"
 related to:
   - "[[GitHub - 1291918619]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open your index note as a browser-like homepage with a command that opens it regardless of whether a homepage tab already exists. Launch the homepage automatically at startup when Obsidian opens with only an empty tab."
 
     stats: {
-        downloads:  53
+        downloads:  107
         updated_at: 1784789357000
     }
 }

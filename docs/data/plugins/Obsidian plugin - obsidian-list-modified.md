@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-list-modified
 alt:
   - https://github.com/franciskafieh/obsidian-list-modified
-downloads: 15758
+downloads: 15804
 updated at: "2025-09-12T17:35:19Z"
 related to:
   - "[[GitHub - 474650238]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Link modified files that meet your criteria into daily, weekly, or monthly notes to build an accurate archive of changes. Output static plain-text logs and rely on internal change detection rather than system file timestamps to keep entries correct when files move or sync."
 
     stats: {
-        downloads:  15758
+        downloads:  15804
         updated_at: 1757698519000
     }
 }

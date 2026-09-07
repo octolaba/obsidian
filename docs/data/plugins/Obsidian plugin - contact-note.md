@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/contact-note
 alt:
   - https://github.com/jalad25/contact-note
-downloads: 407
+downloads: 458
 updated at: "2026-05-19T18:48:26Z"
 related to:
   - "[[GitHub - 1222194884]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Turn frontmatter in notes designated as contacts into visual contact cards. Browse them with a built-in searchable, filterable view or surface them through an Bases view that adds sorting, grouping, and extensive filtering and searching."
 
     stats: {
-        downloads:  407
+        downloads:  458
         updated_at: 1779216506000
     }
 }

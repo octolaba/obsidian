@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/laws-of-form
 alt:
   - https://github.com/kevger/obsidian-laws-of-form
-downloads: 3413
+downloads: 3436
 updated at: "2023-08-11T09:52:42Z"
 related to:
   - "[[GitHub - 652189538]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render Laws of Form bracket expressions into two-dimensional graphical diagrams directly from lof code blocks. Support nested distinctions, crosses and re-entries using $id and [id], multiple re-entries, and separators to mix plain text and equations cleanly."
 
     stats: {
-        downloads:  3413
+        downloads:  3436
         updated_at: 1691747562000
     }
 }

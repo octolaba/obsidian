@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jamie-sync
 alt:
   - https://github.com/meetjamie/obsidian-sync
-downloads: 104
+downloads: 115
 updated at: "2026-07-08T11:48:16Z"
 related to:
   - "[[GitHub - 1272313868]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync Jamie meeting notes and transcripts into an Obsidian vault by polling Jamie's API and writing Markdown notes with frontmatter, a short-summary callout, action-item checkboxes, and linked transcript files. Pick a destination mode—dedicated folder, per-day folders, or append blocks to the daily note—and run auto-sync on load or at intervals with idempotent, edit-aware re-sync to avoid duplicates."
 
     stats: {
-        downloads:  104
+        downloads:  115
         updated_at: 1783511296000
     }
 }

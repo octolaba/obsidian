@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tag-links
 alt:
   - https://github.com/zedseven/obsidian-tag-links
-downloads: 1277
+downloads: 1299
 updated at: "2025-05-12T03:03:22Z"
 related to:
   - "[[GitHub - 765463634]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open tags as URLs with a configurable hotkey. Define regular expressions to capture values from nested tags and substitute them into URL templates to quickly jump to referenced resources like tickets or PRs."
 
     stats: {
-        downloads:  1277
+        downloads:  1299
         updated_at: 1747019002000
     }
 }

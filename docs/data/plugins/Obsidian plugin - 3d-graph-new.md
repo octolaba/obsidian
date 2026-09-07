@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/3d-graph-new
 alt:
   - https://github.com/hananoshikayomaru/obsidian-3d-graph
-downloads: 29192
+downloads: 30145
 updated at: "2023-12-23T23:05:45Z"
 related to:
   - "[[GitHub - 703895574]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render your vault as an interactive 3D graph with zoom, rotate, pan, adjustable node size, degree-based scaling, label fade, and a node limit to protect performance. Open local graphs centered on a note with depth and link-type filters, and filter, group, and color nodes by query."
 
     stats: {
-        downloads:  29192
+        downloads:  30145
         updated_at: 1703372745000
     }
 }

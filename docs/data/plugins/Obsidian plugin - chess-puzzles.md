@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/chess-puzzles
 alt:
   - https://github.com/yan-vieira/obsidian-chess-puzzles
-downloads: 122
+downloads: 134
 updated at: "2026-05-23T14:58:47Z"
 related to:
   - "[[GitHub - 1236680751]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Train chess patterns inside Obsidian using custom Markdown puzzles and a built-in spaced repetition system. Create portable puzzles with simple FEN/bestLine code blocks, review by single puzzle, deck, pending-only, or vault-wide, and keep review history inside the Markdown for easy transfer between vaults."
 
     stats: {
-        downloads:  122
+        downloads:  134
         updated_at: 1779548327000
     }
 }

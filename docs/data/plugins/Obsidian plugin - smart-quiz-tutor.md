@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/smart-quiz-tutor
 alt:
   - https://github.com/xxinjie21/question-generator
-downloads: 18
-updated at: "2026-07-24T05:40:10Z"
+downloads: 80
+updated at: "2026-08-03T10:12:06Z"
 related to:
   - "[[GitHub - 1307449688]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Generate exam-style question sets from your Markdown notes or extract questions from any Markdown document using Ollama or OpenAI, supporting five question types and batch processing. Practice with instant grading, archive mistakes into an SM-2 spaced-repetition wrong-question notebook with review reminders, analytics, knowledge-point tagging, and export to DOCX/PDF/Markdown."
 
     stats: {
-        downloads:  18
-        updated_at: 1784871610000
+        downloads:  80
+        updated_at: 1785751926000
     }
 }
 ```

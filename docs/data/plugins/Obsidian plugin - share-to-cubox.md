@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/share-to-cubox
 alt:
   - https://github.com/redwinam/obsidian-cubox
-downloads: 3827
+downloads: 3839
 updated at: "2023-06-09T11:29:17Z"
 related to:
   - "[[GitHub - 637025816]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Save and share Obsidian notes to Cubox directly from the editor. Configure your Cubox API key and set default tags and target folder; supports English and Simplified Chinese."
 
     stats: {
-        downloads:  3827
+        downloads:  3839
         updated_at: 1686310157000
     }
 }

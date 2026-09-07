@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/picote
 alt:
   - https://github.com/853014750littleyellow-code/obsidian-picote
-downloads: 590
+downloads: 703
 updated at: "2026-05-19T04:38:14Z"
 related to:
   - "[[GitHub - 1230508748]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create multi-column notes with smooth live preview and minimal interference to editing. Drag images from web pages and socials to silently download, rename, and replace remote URLs with local ![[image.png]] embeds while handling complex CDNs, anti‑hotlinking, and extensionless links."
 
     stats: {
-        downloads:  590
+        downloads:  703
         updated_at: 1779165494000
     }
 }

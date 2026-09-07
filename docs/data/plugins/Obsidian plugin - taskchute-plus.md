@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/taskchute-plus
 alt:
   - https://github.com/hiroyaiizuka/taskchute-for-obsidian
-downloads: 46254
-updated at: "2026-05-17T14:14:21Z"
+downloads: 49320
+updated at: "2026-08-11T12:26:48Z"
 related to:
   - "[[GitHub - 1030031533]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage daily tasks in a single TaskChute view with date navigation and configurable time slots. Start and stop tasks to track real execution time, keep execution logs and yearly heatmaps, and create/run recurring routines. Link tasks to projects, set per-task reminders, and export schedules to Google Calendar."
 
     stats: {
-        downloads:  46254
-        updated_at: 1779027261000
+        downloads:  49320
+        updated_at: 1786451208000
     }
 }
 ```

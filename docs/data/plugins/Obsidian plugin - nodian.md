@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/nodian
 alt:
   - https://github.com/akisantin/Nodian
-downloads: 1056
+downloads: 1344
 updated at: "2026-06-12T13:24:33Z"
 related to:
   - "[[GitHub - 1221508999]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync bidirectional YAML frontmatter relations across notes by adding and removing corresponding backlinks when you create or delete wikilinks. Define paired fields with tag-based matching, use title as display text, handle newly created files, and run a full vault sync on desktop or mobile. Nodian is especially useful with Obsidian Bases. You can build separate Bases for different note types, such as Person, Mail, Company, or Song, and connect them through YAML relation fields. By requiring tags on both sides of each relation pair, Nodian keeps relations scoped to the correct Base and prevents fields with the same name from syncing to the wrong type of note."
 
     stats: {
-        downloads:  1056
+        downloads:  1344
         updated_at: 1781270673000
     }
 }

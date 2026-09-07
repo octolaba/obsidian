@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/math-indicator-changer
 alt:
   - https://github.com/ori-replication/obsidian-math-indicator-changer
-downloads: 2964
+downloads: 3014
 updated at: "2024-08-05T04:43:37Z"
 related to:
   - "[[GitHub - 822400856]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert LaTeX \\( \\) and \\[ \\] math delimiters to Markdown $ $ and $$ $$ so AI-generated equations display correctly in Obsidian. Apply to the whole file or a selected region via command or toolbar button; note the regex-based replacement may change unintended matches."
 
     stats: {
-        downloads:  2964
+        downloads:  3014
         updated_at: 1722833017000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/rollover
 alt:
   - https://github.com/stefan-imbesi/obsidian-rollover
-downloads: 60
+downloads: 67
 updated at: "2026-06-18T02:02:47Z"
 related to:
   - "[[GitHub - 1271933510]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Close the most recent pending date-stamped note and create the next date-stamped note in the same folder, renaming the old file to mark it done and updating internal links. Carry over content or apply a template, choose today's date (or advance past an existing same-day note), and support customizable naming conventions."
 
     stats: {
-        downloads:  60
+        downloads:  67
         updated_at: 1781748167000
     }
 }

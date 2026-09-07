@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/wlunan-vault-cleaner
 alt:
   - https://github.com/wlunan/vault-cleaner
-downloads: 178
+downloads: 209
 updated at: "2026-06-03T13:00:31Z"
 related to:
   - "[[GitHub - 1240847221]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Scan the vault for orphaned notes, attachments, and other files via a visual dashboard with real-time scan status and statistics. Preview and selectively delete items, move removed files to a customizable vault trash for recovery, schedule automatic attachment cleanups, and protect recently modified files from deletion."
 
     stats: {
-        downloads:  178
+        downloads:  209
         updated_at: 1780491631000
     }
 }

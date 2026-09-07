@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-pandoc
 alt:
   - https://github.com/oliverbalfour/obsidian-pandoc
-downloads: 536808
+downloads: 542765
 updated at: "2022-09-25T20:51:02Z"
 related to:
   - "[[GitHub - 356274633]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Export notes to Word, PDF, ePub, HTML, PowerPoint, LaTeX and many other formats using Pandoc directly from Obsidian. Write presentations, books, webpages or assignments in Markdown and produce ready-to-use outputs; proofread exported files for minor formatting issues."
 
     stats: {
-        downloads:  536808
+        downloads:  542765
         updated_at: 1664139062000
     }
 }

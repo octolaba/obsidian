@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/aibrowser-chat
 alt:
   - https://github.com/thansheer/AI-Chat
-downloads: 1605
+downloads: 2138
 updated at: "2026-07-19T19:59:12Z"
 related to:
   - "[[GitHub - 1245609340]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed six AI chat services in a persistent Obsidian sidebar. Send selected text, individual notes or folders directly into the AI input, switch between ChatGPT, Claude, DeepSeek, Perplexity, Gemini and Grok; desktop only (macOS/Windows/Linux)."
 
     stats: {
-        downloads:  1605
+        downloads:  2138
         updated_at: 1784491152000
     }
 }

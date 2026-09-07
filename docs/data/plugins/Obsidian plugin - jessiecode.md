@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/jessiecode
 alt:
   - https://github.com/ryojerryyu/obsidian-jessiecode
-downloads: 97
+downloads: 106
 updated at: "2025-10-10T05:59:32Z"
 related to:
   - "[[GitHub - 1072415966]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render interactive graphs defined in JessieCode (a JSXGraph script language) directly in Obsidian. Place JessieCode inside fenced code blocks labeled jessiecode and optionally use YAML frontmatter to set graph attributes like size and bounding box."
 
     stats: {
-        downloads:  97
+        downloads:  106
         updated_at: 1760075972000
     }
 }

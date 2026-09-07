@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-positioning-toolkit
 alt:
   - https://github.com/valleytheknight/Canvas-Positioning-Toolkit
-downloads: 26
+downloads: 12
 updated at: "2026-07-22T00:08:21Z"
 related to:
   - "[[GitHub - 1308168702]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Three tools for moving cards on an Obsidian Canvas board. Auto-layout arranges your cards into a tidy grid. Run it on the whole board or just your current selection, and a scattered mess sorts itself instead of you dragging each card by hand. Pick up and place fixes the low-zoom problem. Zoom out on a busy board and a card's drag target shrinks until grabbing the one you want means hovering around for the hand cursor. A hotkey picks up the selected card instead: it follows your pointer, or your finger on touch and mobile, no button held down. Click, or lift your finger, to place it. Escape cancels and snaps it back. Find card by text is a fuzzy search across every card on the board. Type part of a card's content, pick it from the list, and it is selected and picked up in one move, ready to place. No aiming into a dense cluster required."
 
     stats: {
-        downloads:  26
+        downloads:  12
         updated_at: 1784678901000
     }
 }

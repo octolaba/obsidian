@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/favorites
 alt:
   - https://github.com/4source/favorites-obsidian-plugin
-downloads: 574
-updated at: "2026-03-17T22:37:09Z"
+downloads: 828
+updated at: "2026-08-02T11:59:06Z"
 related to:
   - "[[GitHub - 1036958463]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage a global favorites list for plugins and themes and make your go-to tools and styles available in every vault. Access auto-updated \"In Use\" and \"Known\" histories, favorite items directly from the plugin or theme browser, and import/export lists stored globally on your device."
 
     stats: {
-        downloads:  574
-        updated_at: 1773787029000
+        downloads:  828
+        updated_at: 1785671946000
     }
 }
 ```

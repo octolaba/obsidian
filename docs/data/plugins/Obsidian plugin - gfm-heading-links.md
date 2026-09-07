@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/gfm-heading-links
 alt:
   - https://github.com/lucasgaldinos/obsidian-gfm-headers
-downloads: 19
-updated at: "2026-07-21T17:04:08Z"
+downloads: 64
+updated at: "2026-07-29T18:31:17Z"
 related to:
   - "[[GitHub - 1288758368]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Resolve GFM-style kebab-case heading links at runtime so clicks and Ctrl+hover previews jump to the correct heading across Live Preview, Source, and Reading views. Intercept navigation and hover events to map slugs (including duplicate slugs) and update editor autocomplete to insert GFM slugs while preserving aliases."
 
     stats: {
-        downloads:  19
-        updated_at: 1784653448000
+        downloads:  64
+        updated_at: 1785349877000
     }
 }
 ```

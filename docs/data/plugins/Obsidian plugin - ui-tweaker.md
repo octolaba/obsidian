@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/ui-tweaker
 alt:
   - https://github.com/davidvkimball/obsidian-ui-tweaker
-downloads: 7797
-updated at: "2026-05-30T19:48:13Z"
+downloads: 9081
+updated at: "2026-08-10T22:39:48Z"
 related to:
   - "[[GitHub - 1115337861]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Customize Obsidian's interface by hiding, always showing, or reveal-on-hover virtually any UI element — sidebars, title bar, ribbon, tab bar, status bar, scrollbars, and mobile controls. Add configurable command buttons to explorer and tab headers, reorder and style them. Deemphasize file properties for a cleaner reading view."
 
     stats: {
-        downloads:  7797
-        updated_at: 1780170493000
+        downloads:  9081
+        updated_at: 1786401588000
     }
 }
 ```

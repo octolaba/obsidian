@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hledger-notes
 alt:
   - https://github.com/bzimor/obsidian_hledger
-downloads: 1522
+downloads: 1599
 updated at: "2025-05-19T15:47:15Z"
 related to:
   - "[[GitHub - 500584232]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage hledger transactions in your vault with inline creation, fuzzy account suggestions from an accounts file, automatic balance calculation, multi-currency support and k/m shortcuts for amounts. Import and export transactions to hledger journal files and organize entries in daily notes by auto-detecting dates and using a dedicated section."
 
     stats: {
-        downloads:  1522
+        downloads:  1599
         updated_at: 1747669635000
     }
 }

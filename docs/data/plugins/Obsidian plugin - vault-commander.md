@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/vault-commander
 alt:
   - https://github.com/typ127/vault-commander
-downloads: 131
+downloads: 193
 updated at: "2026-07-13T17:36:08Z"
 related to:
   - "[[GitHub - 1280977790]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Browse and manage your vault with a blue, dual-panel orthodox file commander inspired by classic DOS file managers. Use full keyboard control to copy, move, rename, preview and bookmark notes and attachments; sort and view panels, get overwrite prompts, and run entirely inside your Obsidian vault on desktop and mobile."
 
     stats: {
-        downloads:  131
+        downloads:  193
         updated_at: 1783964168000
     }
 }

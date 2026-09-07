@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/global-ticker
 alt:
   - https://github.com/cokaizoku/obsidian-global-ticker
-downloads: 102
+downloads: 121
 updated at: "2026-06-15T21:23:42Z"
 related to:
   - "[[GitHub - 1129345685]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add top and bottom ticker bars to Obsidian that display headline news and stock-market updates, with customizable speed, direction, footers, and refresh behavior. Register for the required free news and stock APIs to fetch live data and filter headlines by category, domain, country, or language."
 
     stats: {
-        downloads:  102
+        downloads:  121
         updated_at: 1781558622000
     }
 }

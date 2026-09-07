@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/audio-transcript
 alt:
   - https://github.com/jaliriogbarrios19/Audio_Transcript
-downloads: 390
+downloads: 410
 updated at: "2026-06-30T11:21:51Z"
 related to:
   - "[[GitHub - 1240995511]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Graba o transcribe audios directamente en la nota con identificación de hablantes y timestamps. Usa Gladia, Deepgram o AssemblyAI, reemplaza \"Speaker 1/2\" por los nombres que indiques y guarda automáticamente el audio en la carpeta de la nota."
 
     stats: {
-        downloads:  390
+        downloads:  410
         updated_at: 1782818511000
     }
 }

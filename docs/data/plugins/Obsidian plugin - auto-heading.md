@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/auto-heading
 alt:
   - https://github.com/gurjar1/auto-heading-obsidian
-downloads: 960
+downloads: 1220
 updated at: "2026-06-26T07:44:08Z"
 related to:
   - "[[GitHub - 1237860391]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Auto-number headings in real time and write numbers directly into your Markdown files so they appear in the sidebar TOC, PDF exports, and Obsidian Publish. Support Arabic digits, uppercase/lowercase letters, and Roman numerals at any level, mix styles freely, or switch to a visual-only overlay to keep files unchanged."
 
     stats: {
-        downloads:  960
+        downloads:  1220
         updated_at: 1782459848000
     }
 }

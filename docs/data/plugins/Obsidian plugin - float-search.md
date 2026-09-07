@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/float-search
 alt:
   - https://github.com/quorafind/Obsidian-Float-Search
-downloads: 50149
+downloads: 50801
 updated at: "2026-03-19T01:38:03Z"
 related to:
   - "[[GitHub - 608047026]]"
@@ -28,7 +28,7 @@ Opens the default Obsidian search view inside a floating modal that searches glo
 plugin: {
     id:     "float-search"
     name:   "Floating Search"
-    author: "quorafind"
+    author: "Boninall"
     repo:   "quorafind/Obsidian-Float-Search"
 
     html_url:    "https://community.obsidian.md/plugins/float-search"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a floating search modal to search globally or within the current file. Assign a hotkey for instant access and choose between last-state or auto-clearing searches. Preview results in a side pane, navigate results, open files in background or new windows, and copy or jump between input and preview without closing the popup."
 
     stats: {
-        downloads:  50149
+        downloads:  50801
         updated_at: 1773884283000
     }
 }

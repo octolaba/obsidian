@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/live-variables
 alt:
   - https://github.com/hamzabenyazid/Live-variables
-downloads: 7014
+downloads: 7088
 updated at: "2025-05-16T09:09:25Z"
 related to:
   - "[[GitHub - 813753788]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Define dynamic variables in frontmatter and reuse them across your vault to auto-update notes everywhere. Execute queries and transformations via code blocks or a visual form, save custom functions, edit variable references inline, and highlight dynamic content for easy identification."
 
     stats: {
-        downloads:  7014
+        downloads:  7088
         updated_at: 1747386565000
     }
 }

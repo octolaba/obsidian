@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/iconoir-icons
 alt:
   - https://github.com/gapmiss/iconoir-icons
-downloads: 5460
+downloads: 5769
 updated at: "2026-05-31T19:05:31Z"
 related to:
   - "[[GitHub - 599137669]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert and display Iconoir SVG icons with a concise inline syntax that sets name, color, width, height, and custom CSS. Search icons with in-editor suggestions and render customizable SVGs directly inside your notes."
 
     stats: {
-        downloads:  5460
+        downloads:  5769
         updated_at: 1780254331000
     }
 }

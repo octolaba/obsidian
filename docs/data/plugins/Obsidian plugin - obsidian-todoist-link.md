@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-todoist-link
 alt:
   - https://github.com/dennisseidel/obsidian-todoist-link
-downloads: 13137
+downloads: 13186
 updated at: "2022-12-07T20:44:14Z"
 related to:
   - "[[GitHub - 483246634]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create Todoist projects from the current note and insert a deep link to the new project named after the file. Add Todoist tasks from the current line and create deep links between the note and task for quick two-way navigation."
 
     stats: {
-        downloads:  13137
+        downloads:  13186
         updated_at: 1670445854000
     }
 }

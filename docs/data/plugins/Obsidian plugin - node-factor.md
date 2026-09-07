@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/node-factor
 alt:
   - https://github.com/calfmoon/node-factor
-downloads: 4612
-updated at: "2026-03-30T19:16:55Z"
+downloads: 4909
+updated at: "2026-07-24T08:11:11Z"
 related to:
   - "[[GitHub - 944415800]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Customize node sizes in Obsidian's graph view by weighting factors like file letter count and forward/backward link strength. Choose to count only immediate children or all descendants, and override sizes by manually setting a file's weight."
 
     stats: {
-        downloads:  4612
-        updated_at: 1774898215000
+        downloads:  4909
+        updated_at: 1784880671000
     }
 }
 ```

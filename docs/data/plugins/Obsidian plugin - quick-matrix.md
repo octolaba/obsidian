@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/quick-matrix
 alt:
   - https://github.com/thewheelbarrow/quick-matrix
-downloads: 293
+downloads: 309
 updated at: "2025-11-19T20:54:48Z"
 related to:
   - "[[GitHub - 1063345897]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a command to interact with LaTeX matrices inside notes. Insert common matrix templates, convert selections into matrix environments, and edit entries inline for faster LaTeX matrix authoring."
 
     stats: {
-        downloads:  293
+        downloads:  309
         updated_at: 1763585688000
     }
 }

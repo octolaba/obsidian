@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/new-tab-default-page
 alt:
   - https://github.com/chrisgrieser/new-tab-default-page
-downloads: 46066
+downloads: 48663
 updated at: "2025-01-13T10:23:59Z"
 related to:
   - "[[GitHub - 532807686]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open a chosen note or the Quick Switcher whenever you create a new tab, mimicking a browser new-tab page. Set any note—homepage, daily note, scratchpad—or a dataview-driven random quote to appear in new tabs; plugin is in maintenance mode and will receive no new features."
 
     stats: {
-        downloads:  46066
+        downloads:  48663
         updated_at: 1736763839000
     }
 }

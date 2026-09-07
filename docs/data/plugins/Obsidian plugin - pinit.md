@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pinit
 alt:
   - https://github.com/habit-labs/Pinit
-downloads: 332
+downloads: 599
 updated at: "2026-06-25T16:28:18Z"
 related to:
   - "[[GitHub - 1280484840]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Pin notes to the top of their folder in Obsidian's file explorer without renaming files. Reorder or unpin per-folder, show a theme-aware pin icon, and keep pins persistent across restarts without modifying filenames or frontmatter."
 
     stats: {
-        downloads:  332
+        downloads:  599
         updated_at: 1782404898000
     }
 }

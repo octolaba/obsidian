@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lyrics
 alt:
   - https://github.com/eatgrass/obsidian-lyrics
-downloads: 3712
+downloads: 3788
 updated at: "2024-02-18T05:42:12Z"
 related to:
   - "[[GitHub - 726437098]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Display interactive lyrics alongside audio playback by attaching an audio file via filepath or internal link and syncing with LRC or SRT subtitles. Navigate and control playback from the lyrics view—play/pause, seek, toggle auto-scroll or sentence mode, edit lines, and apply custom CSS styling."
 
     stats: {
-        downloads:  3712
+        downloads:  3788
         updated_at: 1708234932000
     }
 }

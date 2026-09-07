@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mobile
 alt:
   - https://github.com/thejusticeman/obsidian-mobile-plugin
-downloads: 4373
+downloads: 4689
 updated at: "2026-06-04T09:49:24Z"
 related to:
   - "[[GitHub - 1104556510]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a floating action button (FAB) with tap, long-press and draw-to-trigger custom gestures to run any Obsidian command. Display context-aware toolbars that adapt to cursor or selection, auto-merge toolbars, show icons with horizontal scrolling, and preserve editor focus."
 
     stats: {
-        downloads:  4373
+        downloads:  4689
         updated_at: 1780566564000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/app-launcher
 alt:
   - https://github.com/iibob/obsidian-app-launcher
-downloads: 315
+downloads: 493
 updated at: "2026-05-22T03:49:11Z"
 related to:
   - "[[GitHub - 1170327841]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add a Rocket icon to the ribbon and launch any specified application or URL scheme with a single click. Launch sync tools before or after editing, or open companion apps like Zotero or Notion to keep notes up to date and move between tools quickly."
 
     stats: {
-        downloads:  315
+        downloads:  493
         updated_at: 1779421751000
     }
 }

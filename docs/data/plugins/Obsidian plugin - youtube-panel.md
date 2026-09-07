@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/youtube-panel
 alt:
   - https://github.com/msh-01/obsidian-youtube-panel
-downloads: 35
+downloads: 68
 updated at: "2026-07-19T02:48:01Z"
 related to:
   - "[[GitHub - 1305349683]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Watch YouTube videos in Obsidian's right sidebar with a compact, privacy-friendly player and a persistent queue that auto-advances. Add links or search YouTube from a native modal to queue or play videos, see real titles via oEmbed without an API key, and restore the last video when reopening the panel."
 
     stats: {
-        downloads:  35
+        downloads:  68
         updated_at: 1784429281000
     }
 }

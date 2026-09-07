@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/ai-autocomplete
 alt:
   - https://github.com/leoyishou/obsidian-ai-autocomplete
-downloads: 277
+downloads: 311
 updated at: "2026-04-30T17:45:56Z"
 related to:
   - "[[GitHub - 1156145191]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show inline ghost-text suggestions as you type, offering transparent continuations and insight-driven prompts that read text before and after the cursor. Generate fast, bilingual (English/Chinese) completions via OpenAI-compatible APIs and accept suggestions with Tab or dismiss with Esc."
 
     stats: {
-        downloads:  277
+        downloads:  311
         updated_at: 1777571156000
     }
 }

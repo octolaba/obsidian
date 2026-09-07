@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/character-insertion
 alt:
   - https://github.com/takamichie/Obsidian_CharacterInsertionPlugin
-downloads: 3981
+downloads: 3999
 updated at: "2023-04-02T08:51:28Z"
 related to:
   - "[[GitHub - 616812985]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Insert a configured sequence of characters at the cursor, cycling through the list each time the command runs. Mark diary lines, headings, or notes with emojis, symbols, or fixed markers without manual copy‑paste by advancing through your preset characters."
 
     stats: {
-        downloads:  3981
+        downloads:  3999
         updated_at: 1680425488000
     }
 }

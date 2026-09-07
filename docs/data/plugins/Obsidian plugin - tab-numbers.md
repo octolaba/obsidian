@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/tab-numbers
 alt:
   - https://github.com/j4ckofalltrades/obsidian-tab-numbers
-downloads: 194
-updated at: "2026-05-23T08:59:43Z"
+downloads: 254
+updated at: "2026-07-27T17:10:34Z"
 related to:
   - "[[GitHub - 1094701733]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Display numbered badges (1–8) on tabs while holding Ctrl/Cmd to reveal tab-switch shortcuts. Limit numbers to the active split pane and customize badge text and background colors."
 
     stats: {
-        downloads:  194
-        updated_at: 1779526783000
+        downloads:  254
+        updated_at: 1785172234000
     }
 }
 ```

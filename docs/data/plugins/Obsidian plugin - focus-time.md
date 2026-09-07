@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/focus-time
 alt:
   - https://github.com/astradev123/obsidian-focus-time
-downloads: 3182
+downloads: 3212
 updated at: "2025-11-21T08:20:22Z"
 related to:
   - "[[GitHub - 896835923]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track focus time automatically across notes and PDF files. Analyze day/month/year/total focus with an interactive dashboard, drill-down bar charts, and a top-10 leaderboard of notes by time. View a responsive dashboard on desktop and mobile with light/dark theme support."
 
     stats: {
-        downloads:  3182
+        downloads:  3212
         updated_at: 1763713222000
     }
 }

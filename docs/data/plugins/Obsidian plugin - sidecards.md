@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/sidecards
 alt:
   - https://github.com/kazi-aidah/sidecards
-downloads: 1521
+downloads: 1604
 updated at: "2026-05-16T20:55:15Z"
 related to:
   - "[[GitHub - 1090716090]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create and manage cards in the sidebar: type to create, edit inline, color-code, tag, and set statuses or expiry. Drag cards into the editor to insert content, convert cards to markdown notes, sync changes bidirectionally, and auto-import from a chosen folder with Today/Tomorrow/Archived and custom categories."
 
     stats: {
-        downloads:  1521
+        downloads:  1604
         updated_at: 1778964915000
     }
 }

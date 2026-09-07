@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/ttrpg-soundboard
 alt:
   - https://github.com/jareika/obsidian-ttrpg-soundboard
-downloads: 7606
-updated at: "2026-07-21T18:10:14Z"
+downloads: 8820
+updated at: "2026-08-01T08:18:27Z"
 related to:
   - "[[GitHub - 1079221477]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Play sound effects, music, and ambience from a folder-based library with grid or list views and trigger tracks directly from note buttons. Control simultaneous playback with per-track stop, loop and volume, manage playlists with sequential/shuffle/fade, and handle long ambience files efficiently with a global ambience volume."
 
     stats: {
-        downloads:  7606
-        updated_at: 1784657414000
+        downloads:  8820
+        updated_at: 1785572307000
     }
 }
 ```

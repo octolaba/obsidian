@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/scratchpad
 alt:
   - https://github.com/kvh03/obsidian-scratchpad
-downloads: 2553
+downloads: 2752
 updated at: "2026-07-17T08:01:24Z"
 related to:
   - "[[GitHub - 994340085]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Jot quick text notes and sketch freehand in a sidebar scratchpad with a text area and a canvas that supports adjustable brush color and size. Save notes and drawings to disk or keep them temporarily in memory — unsaved content is lost when the app closes."
 
     stats: {
-        downloads:  2553
+        downloads:  2752
         updated_at: 1784275284000
     }
 }

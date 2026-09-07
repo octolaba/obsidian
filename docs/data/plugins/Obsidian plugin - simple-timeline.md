@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/simple-timeline
 alt:
   - https://github.com/jareika/Simple-Timeline
-downloads: 9478
+downloads: 11028
 updated at: "2026-05-27T14:24:57Z"
 related to:
   - "[[GitHub - 1099207276]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Render timelines from note frontmatter in Markdown code blocks or Bases views, using vertical or horizontal layouts. Customize visuals and entry sizing, include images and summaries, and show hover popovers for quick page previews."
 
     stats: {
-        downloads:  9478
+        downloads:  11028
         updated_at: 1779891897000
     }
 }

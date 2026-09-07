@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/gantt-calendar
 alt:
   - https://github.com/sustcsugar/obsidian-gantt-calendar
-downloads: 11190
-updated at: "2026-07-09T07:55:23Z"
+downloads: 12796
+updated at: "2026-08-06T07:31:10Z"
 related to:
   - "[[GitHub - 1115730230]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Manage tasks and schedules with six interchangeable views: task list, calendar (year/month/week/day), Gantt chart and a sidebar timeline. Display solar/lunar holidays and 24 solar terms, view heatmaps and daily task stats, edit tasks inline, drag-and-drop timeline events, and support Tasks/Dataview formats with recurring rules. Support Feishu Task syncing."
 
     stats: {
-        downloads:  11190
-        updated_at: 1783583723000
+        downloads:  12796
+        updated_at: 1786001470000
     }
 }
 ```

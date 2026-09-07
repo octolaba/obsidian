@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/torch-cursor
 alt:
   - https://github.com/0xatrilla/obsidian-torch-cursor
-downloads: 438
+downloads: 496
 updated at: "2026-07-09T12:33:33Z"
 related to:
   - "[[GitHub - 1295135815]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Darken the interface and spotlight the editor with a warm, flickering torch glow around the text cursor. Make the light follow your text cursor or mouse to create a candlelit writing atmosphere while the rest of the UI dims."
 
     stats: {
-        downloads:  438
+        downloads:  496
         updated_at: 1783600413000
     }
 }

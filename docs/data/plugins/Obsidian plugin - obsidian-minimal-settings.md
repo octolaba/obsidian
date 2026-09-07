@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-minimal-settings
 alt:
   - https://github.com/kepano/obsidian-minimal-settings
-downloads: 1688308
-updated at: "2026-05-11T18:16:33Z"
+downloads: 1735235
+updated at: "2026-07-31T20:37:39Z"
 related to:
   - "[[GitHub - 312934934]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Customize and control Minimal Theme with color schemes, focus mode, and width controls for tables and images."
 
     stats: {
-        downloads:  1688308
-        updated_at: 1778523393000
+        downloads:  1735235
+        updated_at: 1785530259000
     }
 }
 ```

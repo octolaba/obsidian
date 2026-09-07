@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/auto-seq-filename
 alt:
   - https://github.com/yueyinfeng/auto-seq-filename
-downloads:
-updated at:
+downloads: 33
+updated at: "2026-07-25T11:50:15Z"
 related to:
   - "[[GitHub - 1311655724]]"
 remind me:
@@ -35,6 +35,11 @@ plugin: {
     github_url:  "https://github.com/yueyinfeng/auto-seq-filename"
     description: "Create Markdown files with sequential filenames such as GS0001 and RY0001. - This plugin has not been manually reviewed by Obsidian staff."
     about:       "Create sequentially numbered Markdown files with custom prefixes and zero-padded numbers. Configure multiple target folders and reuse the smallest missing number to fill gaps, then create and open the new file from the command palette."
+
+    stats: {
+        downloads:  33
+        updated_at: 1784980215000
+    }
 }
 ```
 

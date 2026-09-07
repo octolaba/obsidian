@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mcp-notes-tools
 alt:
   - https://github.com/msnp1381/mcp-notes-tools
-downloads: 154
+downloads: 231
 updated at: "2026-07-04T08:23:55Z"
 related to:
   - "[[GitHub - 1289003803]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Expose a local MCP endpoint for the active vault to let MCP clients search notes, read a note, and request confirmed append-only change notes. Search titles, vault-relative paths and bodies; return full Markdown; append timestamped entries to a Change notes section with per-write confirmation; run locally on desktop only."
 
     stats: {
-        downloads:  154
+        downloads:  231
         updated_at: 1783153435000
     }
 }

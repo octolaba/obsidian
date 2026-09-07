@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/folder-notes
 alt:
   - https://github.com/lostpaul/obsidian-folder-notes
-downloads: 380451
+downloads: 402234
 updated at: "2026-06-05T08:07:49Z"
 related to:
   - "[[GitHub - 613005284]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Attach notes to folders and open them by clicking a folder name, mirroring Notion-style folder pages. Create notes for every existing folder, open folder notes via path, and apply templates with Templater support for consistent folder pages."
 
     stats: {
-        downloads:  380451
+        downloads:  402234
         updated_at: 1780646869000
     }
 }

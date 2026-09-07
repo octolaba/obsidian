@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/md-discord-syntax
 alt:
   - https://github.com/edems-dev/md-discord-syntax
-downloads: 30
+downloads: 74
 updated at: "2026-07-23T18:25:11Z"
 related to:
   - "[[GitHub - 1307815643]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add Discord-style Markdown to Obsidian using ||spoiler|| for collapsible spoiler blocks and -# at line starts for small, muted subtext. Mask sensitive or confidential text behind ||spoiler|| blocks. Render -# lines as compact, secondary text for subtle annotations."
 
     stats: {
-        downloads:  30
+        downloads:  74
         updated_at: 1784831111000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/hide-index-files
 alt:
   - https://github.com/d7sd6u/obsidian-hide-index-files
-downloads: 1541
+downloads: 1602
 updated at: "2025-03-12T14:54:05Z"
 related to:
   - "[[GitHub - 937947613]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Hide folder notes (index files) from the file explorer. Patch explorer tree items directly so hidden index files stay out of view and remain reliable even with lazy-cached-vault-load."
 
     stats: {
-        downloads:  1541
+        downloads:  1602
         updated_at: 1741791245000
     }
 }

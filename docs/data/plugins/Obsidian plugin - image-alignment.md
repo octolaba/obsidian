@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/image-alignment
 alt:
   - https://github.com/ydd0729/obsidian-image-alignment
-downloads: 346
+downloads: 416
 updated at: "2026-05-19T15:55:02Z"
 related to:
   - "[[GitHub - 1243132918]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Align images left, center, or right from the image context menu or command palette. Edit the image embed text directly so notes stay portable and readable, while preserving existing size markers (e.g., |300) when changing alignment."
 
     stats: {
-        downloads:  346
+        downloads:  416
         updated_at: 1779206102000
     }
 }

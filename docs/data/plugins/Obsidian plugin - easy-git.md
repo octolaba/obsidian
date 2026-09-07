@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/easy-git
 alt:
   - https://github.com/saiki77/Easy-Git
-downloads: 1059
-updated at: "2026-07-20T08:44:11Z"
+downloads: 1356
+updated at: "2026-07-26T20:13:48Z"
 related to:
   - "[[GitHub - 1242589360]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Sync selected vault folders with GitHub repos (public or private) using push, pull, or bidirectional sync with prompt-on-conflict. Create multiple folder-to-repo mappings, choose branch and remote path per mapping, and run manual or scheduled syncs."
 
     stats: {
-        downloads:  1059
-        updated_at: 1784537051000
+        downloads:  1356
+        updated_at: 1785096828000
     }
 }
 ```

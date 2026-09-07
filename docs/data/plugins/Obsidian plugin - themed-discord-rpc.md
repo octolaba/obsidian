@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/themed-discord-rpc
 alt:
   - https://github.com/mouadhbendjedidi/themed-obsidian-discord-rpc
-downloads: 2273
+downloads: 2492
 updated at: "2026-05-09T18:19:11Z"
 related to:
   - "[[GitHub - 955353565]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Show your Obsidian activity on Discord with a customizable Rich Presence that displays active note title, vault name, and elapsed session time. Customize status messages, themes, and icons for a tailored presence while keeping the plugin lightweight and fast."
 
     stats: {
-        downloads:  2273
+        downloads:  2492
         updated_at: 1778350751000
     }
 }

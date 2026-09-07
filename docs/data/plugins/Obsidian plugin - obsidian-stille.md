@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-stille
 alt:
   - https://github.com/michaellee/stille
-downloads: 32168
+downloads: 32265
 updated at: "2023-10-13T02:52:31Z"
 related to:
   - "[[GitHub - 402117059]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Focus on one section at a time to write without distractions. Toggle a minimalist overlay that dims surrounding text and highlights the active section for clearer, uninterrupted composition."
 
     stats: {
-        downloads:  32168
+        downloads:  32265
         updated_at: 1697165551000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cjk-count
 alt:
   - https://github.com/vrabe/obsidian-cjk-count
-downloads: 618
+downloads: 648
 updated at: "2025-09-09T20:02:44Z"
 related to:
   - "[[GitHub - 983672281]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Count Chinese, Japanese, and Korean characters and display the total in Obsidian's status bar. Filter text with cjk-regex for accurate CJK-only counts and include UI in English and Chinese."
 
     stats: {
-        downloads:  618
+        downloads:  648
         updated_at: 1757448164000
     }
 }

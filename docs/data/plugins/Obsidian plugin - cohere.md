@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/cohere
 alt:
   - https://github.com/ichaly/cohere
-downloads: 125
+downloads: 140
 updated at: "2026-06-16T11:48:20Z"
 related to:
   - "[[GitHub - 1260136370]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Sync vault files to OSS/S3-compatible object storage with manual or automatic sync, deletion propagation, and vault/device isolation. Preserve conflict copies, optionally sync empty directories, and import or export S3 connection configurations with Signature V4 support."
 
     stats: {
-        downloads:  125
+        downloads:  140
         updated_at: 1781610500000
     }
 }

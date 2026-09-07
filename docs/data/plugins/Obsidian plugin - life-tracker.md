@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/life-tracker
 alt:
   - https://github.com/dsebastien/obsidian-life-tracker-base-view
-downloads: 33837
-updated at: "2026-07-17T07:42:24Z"
+downloads: 36541
+updated at: "2026-08-11T11:39:07Z"
 related to:
   - "[[GitHub - 1114245230]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Visualize tracked data with 12 chart types — including heatmaps and tag clouds — using animated, interactive charts with tooltips and links to source notes. Add multiple cards per property, overlay properties to compare correlations, filter by date range, apply presets, color schemes, and reference lines."
 
     stats: {
-        downloads:  33837
-        updated_at: 1784274144000
+        downloads:  36541
+        updated_at: 1786448347000
     }
 }
 ```

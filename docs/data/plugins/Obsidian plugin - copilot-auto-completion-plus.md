@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/copilot-auto-completion-plus
 alt:
   - https://github.com/yetanotherrepo/obsidian-copilot-auto-completion-plus
-downloads: 428
-updated at: "2026-05-30T11:42:54Z"
+downloads: 629
+updated at: "2026-08-07T06:14:47Z"
 related to:
   - "[[GitHub - 1253444235]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Add Copilot-style inline autocompletion to Obsidian that displays transparent fill-in-the-middle suggestions based on the text before and after your cursor. Accept completions with Tab or the right arrow, dismiss with Esc or moving the cursor, and get context- and language-aware suggestions for prose, code, and math from OpenAI, Anthropic, Gemini, Azure OpenAI, or Ollama."
 
     stats: {
-        downloads:  428
-        updated_at: 1780141374000
+        downloads:  629
+        updated_at: 1786083287000
     }
 }
 ```

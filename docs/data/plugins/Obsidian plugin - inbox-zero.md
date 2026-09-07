@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/inbox-zero
 alt:
   - https://github.com/yuzameone/Inbox-Zero
-downloads: 91
+downloads: 101
 updated at: "2026-05-13T04:38:18Z"
 related to:
   - "[[GitHub - 1235232030]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Create dynamic task lists from inline tags across selected folders and display matching notes as a live checklist. Check an item to permanently delete its file, reorder tasks by drag-and-drop (order saved), and activate lists only where you insert the inbox-zero code block."
 
     stats: {
-        downloads:  91
+        downloads:  101
         updated_at: 1778647098000
     }
 }

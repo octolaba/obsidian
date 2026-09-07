@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/context-titles
 alt:
   - https://github.com/blakec2010/context-titles
-downloads: 168
+downloads: 307
 updated at: "2026-06-17T05:41:33Z"
 related to:
   - "[[GitHub - 1271851898]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Add folder context to Graph View and Local Graph labels so notes sharing the same filename are distinguishable at a glance. Keep files and note contents unchanged and limit changes to graph displays; default to parent-folder context for duplicates while supporting deeper path context or labeling all visible nodes."
 
     stats: {
-        downloads:  168
+        downloads:  307
         updated_at: 1781674893000
     }
 }

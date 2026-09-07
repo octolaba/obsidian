@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/detailed-canvas
 alt:
   - https://github.com/endlessblink/detailed-description
-downloads: 297
+downloads: 346
 updated at: "2026-02-27T13:55:43Z"
 related to:
   - "[[GitHub - 1159283975]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Enrich Canvas link cards with AI-generated summaries, cover images, and extracted metadata like title and description. Extract tweet content and author info, auto-enrich pasted links, enrich via context menu or batch-process entire canvases using Ollama, OpenAI, Claude, Groq, or OpenRouter."
 
     stats: {
-        downloads:  297
+        downloads:  346
         updated_at: 1772200543000
     }
 }

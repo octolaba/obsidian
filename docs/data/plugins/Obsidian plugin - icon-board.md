@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/icon-board
 alt:
   - https://github.com/rk-admin-01/obsidian-icon-board
-downloads: 681
+downloads: 884
 updated at: "2026-05-15T20:17:36Z"
 related to:
   - "[[GitHub - 1218303992]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Build visual dashboards and freeform canvases with icon tiles, kanban columns, sticky notes, checklists, images, audio, bookmarks and linked notes — all saved in a single .iboard file in your vault. Connect and arrange cards with drag-and-drop, multi-select, resizing, and styled connectors for flexible workflows."
 
     stats: {
-        downloads:  681
+        downloads:  884
         updated_at: 1778876256000
     }
 }

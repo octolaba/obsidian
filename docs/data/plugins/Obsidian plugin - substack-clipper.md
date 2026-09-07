@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/substack-clipper
 alt:
   - https://github.com/gapmiss/substack-clipper
-downloads: 137
-updated at: "2026-07-18T21:22:35Z"
+downloads: 229
+updated at: "2026-08-06T22:09:51Z"
 related to:
   - "[[GitHub - 1270309577]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Archive Substack posts as Obsidian-flavored Markdown with YAML frontmatter, images, media and threaded comments saved alongside the note. Download images, videos, audio, transcripts and PDFs; convert footnotes to standard [^N] Markdown, strip CDN prefixes, save comments as a separate embeddable note with media embedded as ![[wikilink]] for native playback, and preserve paywalled previews on desktop and mobile."
 
     stats: {
-        downloads:  137
-        updated_at: 1784409755000
+        downloads:  229
+        updated_at: 1786054191000
     }
 }
 ```

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/canvas-explorer
 alt:
   - https://github.com/hjamet/Canvas-Explorer
-downloads: 1795
+downloads: 1814
 updated at: "2024-10-22T10:59:34Z"
 related to:
   - "[[GitHub - 839970235]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Explore your vault by adding or ignoring linked notes to build a customizable canvas. Create a saved canvas that preserves connections, color-codes nodes by link count, sorts notes by frontmatter or date, excludes sections, and adds an optional concatenated summary node."
 
     stats: {
-        downloads:  1795
+        downloads:  1814
         updated_at: 1729594774000
     }
 }

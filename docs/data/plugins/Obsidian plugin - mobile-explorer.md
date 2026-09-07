@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/mobile-explorer
 alt:
   - https://github.com/marcpanu/obsidian-mobile-explorer
-downloads: 510
+downloads: 635
 updated at: "2026-07-22T03:05:17Z"
 related to:
   - "[[GitHub - 1249815066]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Replace the default file explorer with an Apple Notes–style drill-down navigator that pushes into folders and lets you tap or swipe back to return. Display folders and notes in grouped cards with relative modification dates, item counts, native context menus, swipe-back gestures and touch-optimized animations."
 
     stats: {
-        downloads:  510
+        downloads:  635
         updated_at: 1784689517000
     }
 }

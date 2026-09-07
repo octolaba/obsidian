@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-in-zed
 alt:
   - https://github.com/hauntedhost/obsidian-open-zed
-downloads: 112
+downloads: 124
 updated at: "2026-05-06T22:52:56Z"
 related to:
   - "[[GitHub - 1231352263]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Open the current vault, a selected folder, or a specific note in Zed via ribbon button, command palette, or file/folder context menu. Jump the active note to Zed at the cursor's exact line and column. Install and point the plugin to the Zed CLI binary to enable launching."
 
     stats: {
-        downloads:  112
+        downloads:  124
         updated_at: 1778107976000
     }
 }

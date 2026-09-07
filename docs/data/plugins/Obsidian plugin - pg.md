@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/pg
 alt:
   - https://github.com/arghyahub/postgres-db
-downloads: 40
+downloads: 68
 updated at: "2026-07-12T13:41:46Z"
 related to:
   - "[[GitHub - 1297602307]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Connect to multiple PostgreSQL databases and run SQL from fenced code blocks directly in your vault. Execute queries inline, browse results in a side panel with scrollable tables and cell popups, use schema-aware autocomplete, and export results as timestamped CSV files."
 
     stats: {
-        downloads:  40
+        downloads:  68
         updated_at: 1783863706000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/open-gate
 alt:
   - https://github.com/nguyenvanduocit/obsidian-open-gate
-downloads: 52420
+downloads: 53116
 updated at: "2025-12-17T01:14:37Z"
 related to:
   - "[[GitHub - 577394553]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Embed any website into Obsidian as a Gate, including sites that block iframes, to browse and take notes without leaving the app. Open Gates on the left, center, or right or place them inside notes; auto-generate icons from favicons, inject custom CSS, and link to Gates from within notes."
 
     stats: {
-        downloads:  52420
+        downloads:  53116
         updated_at: 1765934077000
     }
 }

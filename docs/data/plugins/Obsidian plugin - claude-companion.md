@@ -13,8 +13,8 @@ tags:
 url: https://community.obsidian.md/plugins/claude-companion
 alt:
   - https://github.com/cavi-ai/companion-for-claude
-downloads: 346
-updated at: "2026-07-22T01:34:15Z"
+downloads: 840
+updated at: "2026-08-11T19:38:08Z"
 related to:
   - "[[GitHub - 1256288440]]"
 remind me:
@@ -37,8 +37,8 @@ plugin: {
     about:       "Chat with Claude in a side panel with streaming Markdown replies, message actions, vault-aware context chips, and per-message model & reasoning controls. Render claude-html inline or save as interactive notes, capture code sessions into sanitized digests, persist chats, and fall back to local Ollama for offline use."
 
     stats: {
-        downloads:  346
-        updated_at: 1784684055000
+        downloads:  840
+        updated_at: 1786477088000
     }
 }
 ```

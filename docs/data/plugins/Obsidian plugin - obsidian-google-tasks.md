@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-google-tasks
 alt:
   - https://github.com/yukigasai/obsidian-google-tasks
-downloads: 21431
+downloads: 21720
 updated at: "2023-03-26T00:50:57Z"
 related to:
   - "[[GitHub - 476501704]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage Google Tasks from inside Obsidian, listing, creating, editing, and marking tasks as done or to-do. Insert unfinished tasks into notes, view and update lists from a sidebar panel, and delete completed tasks; specific task times are not supported by the Google API."
 
     stats: {
-        downloads:  21431
+        downloads:  21720
         updated_at: 1679791857000
     }
 }

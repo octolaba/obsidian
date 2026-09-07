@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/macros
 alt:
   - https://github.com/jamescliffordspratt/macros
-downloads: 3853
+downloads: 4283
 updated at: "2026-06-30T14:42:46Z"
 related to:
   - "[[GitHub - 967583333]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Track foods and nutrients in your vault with multi-source search across FatSecret, USDA FoodData Central, and Open Food Facts, including barcode lookup and fuzzy matching. Generate nutrition Markdown files, assemble reusable meal templates/groups, and display interactive macro tables and pie charts with multi-day aggregation."
 
     stats: {
-        downloads:  3853
+        downloads:  4283
         updated_at: 1782830566000
     }
 }

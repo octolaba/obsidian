@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/explorer-colors
 alt:
   - https://github.com/vaguelyelectric/obsidian-explorer-colors
-downloads: 4643
+downloads: 4859
 updated at: "2025-12-11T21:19:01Z"
 related to:
   - "[[GitHub - 908744252]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Set custom colors for files and folders in the Explorer to visually organize notes and directories. Toggle cascading colors per folder tree while preserving child items' own color settings. Set a default picker color to apply to new files and folders."
 
     stats: {
-        downloads:  4643
+        downloads:  4859
         updated_at: 1765487941000
     }
 }

@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/lexinote
 alt:
   - https://github.com/alucpro/obsidian-lexinote
-downloads: 249
+downloads: 522
 updated at: "2026-06-10T08:21:46Z"
 related to:
   - "[[GitHub - 1217649520]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Highlight difficult English words in real time based on your level while you write, excluding inline/fenced code, URLs, and wikilinks. Hover highlighted words to see meanings, add entries to a personal vocabulary library, and browse the document word list; includes CET4/CET6 and supports custom dictionaries."
 
     stats: {
-        downloads:  249
+        downloads:  522
         updated_at: 1781079706000
     }
 }

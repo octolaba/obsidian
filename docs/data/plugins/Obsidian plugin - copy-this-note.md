@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/copy-this-note
 alt:
   - https://github.com/mssoftjp/obsidian-copy-this-note
-downloads: 498
+downloads: 604
 updated at: "2026-05-17T04:08:26Z"
 related to:
   - "[[GitHub - 1136838827]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Copy whole Obsidian notes to the clipboard as Markdown without selecting text; optionally include the filename and YAML frontmatter. Access from the command palette or file-explorer/editor context menus, choose from four built-in presets, and run on desktop or mobile fully offline."
 
     stats: {
-        downloads:  498
+        downloads:  604
         updated_at: 1778990906000
     }
 }

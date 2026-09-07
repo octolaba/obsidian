@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-paste-png-to-jpeg
 alt:
   - https://github.com/musug/obsidian-paste-png-to-jpeg
-downloads: 12294
+downloads: 12358
 updated at: "2023-02-28T13:12:08Z"
 related to:
   - "[[GitHub - 485682335]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Convert pasted PNG and JPEG images to compressed JPEGs and save them in an images folder next to the current note. Rename files to the current note's name with a sequence number (e.g., hello-1.jpeg). Control compression quality to reduce file size."
 
     stats: {
-        downloads:  12294
+        downloads:  12358
         updated_at: 1677589928000
     }
 }

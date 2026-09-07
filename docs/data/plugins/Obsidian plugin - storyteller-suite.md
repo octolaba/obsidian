@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/storyteller-suite
 alt:
   - https://github.com/maws7140/obsidian-storyteller-suite
-downloads: 15398
+downloads: 17829
 updated at: "2026-07-15T05:14:18Z"
 related to:
   - "[[GitHub - 961628933]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Plan stories, worldbuild, run campaigns and compile manuscripts inside your vault. Manage timelines in standard or Gantt modes with grouped tracks, dependencies, forks, eras and conflict detection. Run sessions with a campaign view, party tracker, shared inventory and branching scene graph."
 
     stats: {
-        downloads:  15398
+        downloads:  17829
         updated_at: 1784092458000
     }
 }

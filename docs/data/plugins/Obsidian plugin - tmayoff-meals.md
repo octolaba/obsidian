@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/tmayoff-meals
 alt:
   - https://github.com/tmayoff/obsidian-meals
-downloads: 9686
+downloads: 10797
 updated at: "2026-05-23T01:08:07Z"
 related to:
   - "[[GitHub - 720802672]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage recipes and import or download web recipes in RecipeMD or heading-based formats. Search and filter recipes by ingredients, add selections to days, and build a weekly Meal Plan note. Generate consolidated shopping lists from planned recipes."
 
     stats: {
-        downloads:  9686
+        downloads:  10797
         updated_at: 1779498487000
     }
 }

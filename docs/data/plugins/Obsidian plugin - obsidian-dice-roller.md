@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/obsidian-dice-roller
 alt:
   - https://github.com/obsidian-ttrpg-community/dice-roller
-downloads: 274828
+downloads: 277361
 updated at: "2025-03-24T12:58:23Z"
 related to:
   - "[[GitHub - 348014895]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Roll inline dice expressions inside notes using dice: code blocks and display clickable results that re-roll on click. Parse complex formulas with arithmetic, parentheses, percentiles, custom face ranges and Fudge/Fate dice; support Dataview inline fields and aliases for common rolls."
 
     stats: {
-        downloads:  274828
+        downloads:  277361
         updated_at: 1742821103000
     }
 }

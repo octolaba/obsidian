@@ -13,7 +13,7 @@ tags:
 url: https://community.obsidian.md/plugins/daily-checklist
 alt:
   - https://github.com/mattmaiorana/daily-checklist
-downloads: 307
+downloads: 494
 updated at: "2026-07-11T04:19:26Z"
 related to:
   - "[[GitHub - 1245080906]]"
@@ -37,7 +37,7 @@ plugin: {
     about:       "Manage a lightweight daily checklist in the right sidebar. Check and edit items without leaving your active note, reorder tasks, and have checked states reset automatically each day. Sync today's checklist into a configurable callout inside today's daily note only when sync is enabled."
 
     stats: {
-        downloads:  307
+        downloads:  494
         updated_at: 1783743566000
     }
 }
